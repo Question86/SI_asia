@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T23:09:54+00:00_
+_Generiert: 2026-07-24T23:34:24+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+90 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.7 - 292 km SSE of Ushuaia, Argentina** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-24T23:31:57.471+00:00`, fetched `2026-07-24T23:33:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-07-24 23:10:29 UTC 2026-07-24 23:10:29 UTC at epicenter Location 57.307°S 66.838°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - 49 km W of Turangi, New Zealand** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34g)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-24T17:20:40.705+00:00`, fetched `2026-07-24T17:21:26+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 多くの人々がAIを嫌悪し、少しも信用していない。しかし、「Linux」創始者のLinus Torvalds氏はその一人ではない。同氏は、AIがプログラミングやメンテナンスにおいて非常に有用であると考えている。実際に、Linuxカーネルの開発におけるAIの使用は明示的に認められている。 しかし、Linuxの開発にAIを使用すべきかどう...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 4 km WNW of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t382)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-24T23:04:13.040+00:00`, fetched `2026-07-24T23:09:23+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-24 22:39:19 UTC 2026-07-24 22:39:19 UTC at epicenter Location 13.867°S 167.508°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-24T13:00:00+00:00`, fetched `2026-07-24T13:06:50+00:00`
