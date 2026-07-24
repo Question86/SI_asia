@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T23:34:24+00:00_
+_Generiert: 2026-07-24T23:58:22+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+92 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-24T23:34:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Russia, Ukraine
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553874)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553852)
   - Quelle: GDACS
   - Zeit: ``
@@ -56,7 +60,7 @@ _Generiert: 2026-07-24T23:34:24+00:00_
 - **USGS earthquake M5.7 - 292 km SSE of Ushuaia, Argentina** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387)
   - Quelle: USGS
   - Zeit: `2026-07-24T23:10:29+00:00`
-  - Kurz: M5.7 - 292 km SSE of Ushuaia, Argentina. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 292 km SSE of Ushuaia, Argentina. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
