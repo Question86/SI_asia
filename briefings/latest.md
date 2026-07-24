@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-24T22:21:01+00:00_
+_Generiert: 2026-07-24T22:43:51+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
+88 neue relevante Treffer. Stärkstes Signal: „Ecosystem Roundup: When AI acts, humans are still responsible“ aus e27 Asia Startup and Tech Feed (Score 23, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,34 +29,8 @@ _Generiert: 2026-07-24T22:21:01+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
-- **GDACS: Green flood alert in Russia, Ukraine** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104048)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Russia, Ukraine
-- **USGS earthquake M6.0 - 82 km W of Sola, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t37a)
-  - Quelle: USGS
-  - Zeit: `2026-07-24T21:37:56+00:00`
-  - Kurz: M6.0 - 82 km W of Sola, Vanuatu. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553852)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553807)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI&gt;=VII).
-- **GDACS: Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001296)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:49.188km) in Indonesia 23/07/2026 22:58 UTC, 5 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553664)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:49.188km) in Indonesia 23/07/2026 22:58 UTC, 5 thousand in MMI IV.
-- **GDACS: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.777 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.777 million .
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fc57058e190>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
