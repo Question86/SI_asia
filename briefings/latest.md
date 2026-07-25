@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T08:27:44+00:00_
+_Generiert: 2026-07-25T09:11:15+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+12 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -116,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 概要本検討会の概要は、アジャイル開発に関する有識者検討会をご覧ください。 開催情報日時：令和8年（2026年）1月28日（水）15時00分から16時00分まで場所：オンライン（Microsoft Teams）出席委員：狩野座長、杉井委員、岡島委員、佐野委員、木村アドバイザー議事次第開会座長の挨拶議事前回の有識者検討会の振り返り...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った** — Score 10, observation — [Quelle](https://zenn.dev/peishim/articles/a10faeabae7c09)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-22T04:25:27+00:00`, fetched `2026-07-25T09:10:46+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ComposioHQ/awesome-claude-skills** — Score 10, observation — [Quelle](https://github.com/ComposioHQ/awesome-claude-skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-25T01:56:16+00:00`
@@ -151,15 +160,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0)
   - Kurz: はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **街のAIっぽい作品鑑賞会** — Score 8, observation — [Quelle](https://dailyportalz.jp/kiji/ai-like-art-gallery)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-25T02:33:25+00:00`, fetched `2026-07-25T06:58:22+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 画像から広告まで、ＡＩで簡単に作れるようになった昨今ですが、全国レベルでのオフィシャルな発信機会での使用は、今のところ避けられがちな模様。著作権事情等いろいろあるからね。 その一方、地域の（近所の）インディーズ的なシーンでは、ビラやポスターにて既に結構使われており、いろいろ思うところはあるけれど、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

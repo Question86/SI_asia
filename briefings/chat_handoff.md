@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-25T08:27:44+00:00_
+_Generated: 2026-07-25T09:11:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-07-25T08:27:44+00:00_
 - url: https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5
 - summary: 概要本検討会の概要は、アジャイル開発に関する有識者検討会をご覧ください。 開催情報日時：令和8年（2026年）1月28日（水）15時00分から16時00分まで場所：オンライン（Microsoft Teams）出席委員：狩野座長、杉井委員、岡島委員、佐野委員、木村アドバイザー議事次第開会座長の挨拶議事前回の有識者検討会の振り返り...
 
-### 5. ComposioHQ/awesome-claude-skills
+### 5. 【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-07-22T04:25:27+00:00`
+- url: https://zenn.dev/peishim/articles/a10faeabae7c09
+- summary: はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...
+
+### 6. ComposioHQ/awesome-claude-skills
 - source: GitHub Trending RSS All Languages Daily
 - score: `10`
 - published: `None`
 - url: https://github.com/ComposioHQ/awesome-claude-skills
 - summary: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecas…
 
-### 6. M 5.1 - 43 km SW of Puerto Madero, Mexico
+### 7. M 5.1 - 43 km SW of Puerto Madero, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-07-25T06:05:52.910+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0
 - summary: DYFI? - III Time 2026-07-25 05:26:33 UTC 2026-07-25 05:26:33 UTC at epicenter Location 14.495°N 92.751°W Depth 35.00 km (21.75 mi)
-
-### 7. M 5.0 - 96 km NNW of Port-Olry, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-07-25T00:18:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a
-- summary: Time 2026-07-24 23:44:10 UTC 2026-07-24 23:44:10 UTC at epicenter Location 14.235°S 166.727°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

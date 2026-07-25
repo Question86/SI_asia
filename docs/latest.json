@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T08:27:44+00:00",
-  "run_id": "2026-07-25T08:27:44+00:00",
+  "generated_at": "2026-07-25T09:11:15+00:00",
+  "run_id": "2026-07-25T09:11:15+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 3,
-    "observe": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -158,6 +158,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "45bea39035352a12d501"
+      },
+      {
+        "title": "【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った",
+        "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-22T04:25:27+00:00",
+        "fetched_at": "2026-07-25T09:10:46+00:00",
+        "summary": "はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d79456eca1c29e12a856"
       },
       {
         "title": "ComposioHQ/awesome-claude-skills",
@@ -497,6 +519,28 @@
       "id": "45bea39035352a12d501"
     },
     {
+      "title": "【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った",
+      "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-22T04:25:27+00:00",
+      "fetched_at": "2026-07-25T09:10:46+00:00",
+      "summary": "はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d79456eca1c29e12a856"
+    },
+    {
       "title": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -705,25 +749,26 @@
   ],
   "new_findings": [
     {
-      "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
-      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
+      "title": "【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った",
+      "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-24T20:12:03+00:00",
-      "fetched_at": "2026-07-25T08:27:11+00:00",
-      "summary": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+      "published_at": "2026-07-22T04:25:27+00:00",
+      "fetched_at": "2026-07-25T09:10:46+00:00",
+      "summary": "はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "be977cdd509a28ccaf93"
+      "id": "d79456eca1c29e12a856"
     }
   ],
   "source_errors": [],
