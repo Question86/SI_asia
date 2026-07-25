@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T06:07:32+00:00_
+_Generiert: 2026-07-25T06:58:52+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+9 neue relevante Treffer. Stärkstes Signal: „結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -143,14 +143,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0)
   - Kurz: はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)** — Score 5, observation — [Quelle](https://note.com/chan_san_jp/n/n137415f2ef48)
+- **街のAIっぽい作品鑑賞会** — Score 8, observation — [Quelle](https://dailyportalz.jp/kiji/ai-like-art-gallery)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-24T12:06:16+00:00`, fetched `2026-07-25T01:56:16+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-07-25T02:33:25+00:00`, fetched `2026-07-25T06:58:22+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: このnoteは、「#日めくりLayerX」と題して発信するブログリレーの2026年7月24日の記事として投稿しています。 はじめまして。今年の4月にLayerXへ入社した伊林です。「ちゃんさん」と呼ばれています。 バクラクで、申請・経費精算・債務管理を開発するグループのエンジニアリングマネージャーをやっています。前職までは...
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 画像から広告まで、ＡＩで簡単に作れるようになった昨今ですが、全国レベルでのオフィシャルな発信機会での使用は、今のところ避けられがちな模様。著作権事情等いろいろあるからね。 その一方、地域の（近所の）インディーズ的なシーンでは、ビラやポスターにて既に結構使われており、いろいろ思うところはあるけれど、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
