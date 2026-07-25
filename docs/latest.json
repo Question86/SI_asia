@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T14:11:09+00:00",
-  "run_id": "2026-07-25T14:11:09+00:00",
+  "generated_at": "2026-07-25T14:43:05+00:00",
+  "run_id": "2026-07-25T14:43:05+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -873,29 +873,7 @@
       "id": "f0473463c51b2d89d80d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "クオンツはテクニカル分析を寄与度分解の中で見ている",
-      "url": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-25T04:04:25+00:00",
-      "fetched_at": "2026-07-25T14:10:40+00:00",
-      "summary": "AlpacaTechの北山です。最近Noteもはじめました。 ちょっとおもしろいネタがあったので、ブログにまとめようとおもいました。 2026年7月、テクニカル分析の有用性を巡る議論がXで再燃しました。今回の発端が生成AIによる分析というのが新しかったです。 起点は @syakkin3 さんの実験報告です。東証20年分のデータをAI（f...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "59ccef35c7442ccf3471"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
