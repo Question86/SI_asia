@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T06:58:52+00:00_
+_Generiert: 2026-07-25T07:42:46+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..“ aus Hatena Bookmark Hotentry IT (Score 14, observation).
+10 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.0 - 57 km S of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-25T07:04:54.040+00:00`, fetched `2026-07-25T07:42:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-25 06:46:06 UTC 2026-07-25 06:46:06 UTC at epicenter Location 4.879°N 125.479°E Depth 52.16 km (32.41 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..** — Score 14, observation — [Quelle](https://anond.hatelabo.jp/20260724173950)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-24T17:11:06+00:00`, fetched `2026-07-25T06:07:00+00:00`
@@ -155,6 +164,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
