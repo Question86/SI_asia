@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-25T20:45:06Z_
+_Generated: 2026-07-25T21:07:41Z_
 
 ## Lageurteil
 
@@ -12,17 +12,27 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-25T01:56:16+00:00` / age_days `0.78`
+- Published: `2026-07-25T01:56:16+00:00` / age_days `0.8`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://github.com/Automattic/harper
 
+### dns.gby
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-07-24T23:28:36+00:00` / age_days `0.9`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, domain, auth, security high-signal: rce, domain, auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://www.mew.org/~kazu/material/2026-dns.pdf
+
 ### アジャイル開発に関する有識者検討会（第7回）｜デジタル庁
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-23T12:51:21+00:00` / age_days `2.33`
+- Published: `2026-07-23T12:51:21+00:00` / age_days `2.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, official security but no high-signal phrase: capped at strong
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-25T01:56:16+00:00` / age_days `0.78`
+- Published: `2026-07-25T01:56:16+00:00` / age_days `0.8`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, 10, security high-signal: rce, code, 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `36.78`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `36.8`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -5.5 for 36.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-07-25T07:04:54.040+00:00` / age_days `0.57`
+- Published: `2026-07-25T07:04:54.040+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-07-25T00:18:08.040+00:00` / age_days `0.85`
+- Published: `2026-07-25T00:18:08.040+00:00` / age_days `0.87`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-07-25T06:05:52.910+00:00` / age_days `0.61`
+- Published: `2026-07-25T06:05:52.910+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-07-22T04:25:27+00:00` / age_days `3.68`
+- Published: `2026-07-22T04:25:27+00:00` / age_days `3.7`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-07-24T17:11:06+00:00` / age_days `1.15`
+- Published: `2026-07-24T17:11:06+00:00` / age_days `1.16`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-07-23T01:48:43+00:00` / age_days `2.79`
+- Published: `2026-07-23T01:48:43+00:00` / age_days `2.8`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik lie
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-07-25T00:03:34+00:00` / age_days `0.86`
+- Published: `2026-07-25T00:03:34+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37
-
-### 『読者の横顔』 株式会社はてな コーポレート本部 経理部長 堀内潤一 氏 | ZEIKEN PRESS
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-07-24T17:44:31+00:00` / age_days `1.13`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://www.zeiken.co.jp/zeikenpress/press/0001pp20190801/
 
 END OF DOCUMENT

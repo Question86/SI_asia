@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-25T20:45:06Z",
+  "generated_at": "2026-07-25T21:07:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -39,11 +39,37 @@
       "summary": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered Harper Harper is an English grammar checker designed to be just right. I created it after years of dealing with the shortcomings of the competition. Grammarly was too expensive and too overbearing. Its suggestions lacked context, and were often ju…"
     },
     {
+      "title": "dns.gby",
+      "url": "https://www.mew.org/~kazu/material/2026-dns.pdf",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T23:28:36+00:00",
+      "age_days": 0.9,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, domain, auth",
+        "security high-signal: rce, domain, auth",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "1 DNS ( ) 2 DNS DNS DNSSEC 3 4 ( ) (IIJ) ( ) ( ) 2022 4 e-mail: kazu@iij.ad.jp : https://mew.org/~kazu/ 5 IETF(Internet Engineering Task Force) IIJ TLS 1.3: RFC 8846 Contributors Kazu Yamamoto Internet Initiative Japan Inc. kazu@iij.ad.jp DNS 6 DNS 7 DNS 8 Domain Name System IP (authoritative) (r..."
+    },
+    {
       "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 2.33,
+      "age_days": 2.34,
       "topics": [
         "general"
       ],
@@ -69,7 +95,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "ai",
         "macro"
@@ -96,7 +122,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.78,
+      "age_days": 36.8,
       "topics": [
         "ai"
       ],
@@ -125,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T07:04:54.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -149,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "disaster"
       ],
@@ -174,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T06:05:52.910+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -198,7 +224,7 @@
       "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:25:27+00:00",
-      "age_days": 3.68,
+      "age_days": 3.7,
       "topics": [
         "ai"
       ],
@@ -224,7 +250,7 @@
       "url": "https://anond.hatelabo.jp/20260724173950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:11:06+00:00",
-      "age_days": 1.15,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -249,7 +275,7 @@
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.79,
+      "age_days": 2.8,
       "topics": [
         "ai"
       ],
@@ -275,7 +301,7 @@
       "url": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T00:03:34+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
@@ -295,30 +321,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "トップエスイー AI 工学特論の講義資料です。MLOps を巡る歴史、生成 AI を活用する技術・AI セーフティ・AI ガバナンス、MLOps の技術・プロセス・文化、AI エージェントの今後を扱っています。 参考資料 - 生成 AI 実践ガイドと企業事例集: https://citadel-…"
-    },
-    {
-      "title": "『読者の横顔』 株式会社はてな コーポレート本部 経理部長 堀内潤一 氏 | ZEIKEN PRESS",
-      "url": "https://www.zeiken.co.jp/zeikenpress/press/0001pp20190801/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-24T17:44:31+00:00",
-      "age_days": 1.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「週刊経営財務」読者に、購読のきっかけや実務での活用法などをきく新コーナーを開始します。第１回は、「はてなブログ」等でおなじみの「株式会社はてな」のコーポレート本部 経理部長の堀内潤一氏にお話を伺いました。 ─御社の事業内容と、堀内様がご担当されているお仕事についてお聞かせください。 当社は「はてな..."
     }
   ],
   "read_order": [
@@ -330,9 +332,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 3,
-      "quiet": 5
+      "quiet": 4
     }
   }
 }
