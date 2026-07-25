@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T10:54:00+00:00_
+_Generiert: 2026-07-25T11:22:47+00:00_
 
 ## Kurzlage
 
@@ -29,14 +29,6 @@ _Generiert: 2026-07-25T10:54:00+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
-- **GDACS: Green flood alert in Russia, Ukraine** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104048)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Russia, Ukraine
-- **GDACS: Green flood alert in Kazakhstan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104049)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Kazakhstan
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553874)
   - Quelle: GDACS
   - Zeit: ``
