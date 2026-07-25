@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-25T14:53:33Z",
+  "generated_at": "2026-07-25T15:21:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 19,
+    "dynamics": 20,
     "bands": {
       "extreme": 1,
       "krass": 2,
       "strong": 1,
       "watch": 3,
-      "quiet": 12
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 3,
-      "quiet": 12
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 2.08,
+      "age_days": 2.1,
       "topics": [
         "general"
       ],
@@ -78,7 +78,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai",
         "macro"
@@ -105,7 +105,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.54,
+      "age_days": 36.56,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -5.4 for 36.5d old signal",
+        "aging penalty -5.4 for 36.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -134,7 +134,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T07:04:54.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T06:05:52.910+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -207,7 +207,7 @@
       "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:25:27+00:00",
-      "age_days": 3.44,
+      "age_days": 3.46,
       "topics": [
         "ai"
       ],
@@ -233,7 +233,7 @@
       "url": "https://anond.hatelabo.jp/20260724173950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:11:06+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -258,7 +258,7 @@
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.55,
+      "age_days": 2.56,
       "topics": [
         "ai"
       ],
@@ -280,11 +280,35 @@
       "summary": "はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概..."
     },
     {
+      "title": "『読者の横顔』 株式会社はてな コーポレート本部 経理部長 堀内潤一 氏 | ZEIKEN PRESS",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0001pp20190801/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T17:44:31+00:00",
+      "age_days": 0.9,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "「週刊経営財務」読者に、購読のきっかけや実務での活用法などをきく新コーナーを開始します。第１回は、「はてなブログ」等でおなじみの「株式会社はてな」のコーポレート本部 経理部長の堀内潤一氏にお話を伺いました。 ─御社の事業内容と、堀内様がご担当されているお仕事についてお聞かせください。 当社は「はてな..."
+    },
+    {
       "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
       "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T20:12:03+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -310,7 +334,7 @@
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T12:06:16+00:00",
-      "age_days": 1.12,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
@@ -336,7 +360,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.5,
+      "age_days": 35.52,
       "topics": [
         "general"
       ],
@@ -361,7 +385,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.5,
+      "age_days": 35.52,
       "topics": [
         "general"
       ],
@@ -386,7 +410,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.5,
+      "age_days": 35.52,
       "topics": [
         "ai"
       ],
@@ -413,7 +437,7 @@
       "url": "https://dailyportalz.jp/kiji/ai-like-art-gallery",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T02:33:25+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -438,7 +462,7 @@
       "url": "https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T05:26:32+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -463,7 +487,7 @@
       "url": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T04:04:25+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -488,7 +512,7 @@
       "url": "https://mainichi.jp/articles/20260724/k00/00m/020/214000c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T10:54:25+00:00",
-      "age_days": 1.17,
+      "age_days": 1.19,
       "topics": [
         "ai"
       ],
