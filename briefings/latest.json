@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T07:42:46+00:00",
-  "run_id": "2026-07-25T07:42:46+00:00",
+  "generated_at": "2026-07-25T08:27:44+00:00",
+  "run_id": "2026-07-25T08:27:44+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -322,6 +322,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0b6e0e2b656f628e54f5"
+      },
+      {
+        "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+        "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T20:12:03+00:00",
+        "fetched_at": "2026-07-25T08:27:11+00:00",
+        "summary": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be977cdd509a28ccaf93"
       },
       {
         "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
@@ -640,6 +661,27 @@
       "id": "0b6e0e2b656f628e54f5"
     },
     {
+      "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T20:12:03+00:00",
+      "fetched_at": "2026-07-25T08:27:11+00:00",
+      "summary": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be977cdd509a28ccaf93"
+    },
+    {
       "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
@@ -663,41 +705,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 57 km S of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-25T07:04:54.040+00:00",
-      "fetched_at": "2026-07-25T07:42:14+00:00",
-      "summary": "Time 2026-07-25 06:46:06 UTC 2026-07-25 06:46:06 UTC at epicenter Location 4.879°N 125.479°E Depth 52.16 km (32.41 mi)",
+      "published_at": "2026-07-24T20:12:03+00:00",
+      "fetched_at": "2026-07-25T08:27:11+00:00",
+      "summary": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "db0e4ad25f6e90bb5ef1"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be977cdd509a28ccaf93"
     }
   ],
   "source_errors": [],

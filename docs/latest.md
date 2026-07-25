@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T07:42:46+00:00_
+_Generiert: 2026-07-25T08:27:44+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+11 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
