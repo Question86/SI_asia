@@ -1,11 +1,8 @@
 {
   "base": "USD",
-  "as_of": "2026-07-25",
-  "source": "manual_snapshot_required",
+  "as_of": null,
+  "source": "manual_or_primary_source_snapshot_required",
   "rates_to_usd": {
-    "USD": 1.0,
-    "EUR": 1.17,
-    "GBP": 1.35,
-    "JPY": 0.0067
+    "USD": 1.0
   }
 }
