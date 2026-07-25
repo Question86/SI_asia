@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T21:51:07+00:00",
-  "run_id": "2026-07-25T21:51:07+00:00",
+  "generated_at": "2026-07-25T22:12:56+00:00",
+  "run_id": "2026-07-25T22:12:56+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 3,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -310,6 +310,42 @@
           "PINS"
         ],
         "id": "56ded66d8c4fa8b50aed"
+      },
+      {
+        "title": "M 4.9 - Kermadec Islands, New Zealand",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3d9",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-25T22:01:16.040+00:00",
+        "fetched_at": "2026-07-25T22:12:19+00:00",
+        "summary": "Time 2026-07-25 21:39:01 UTC 2026-07-25 21:39:01 UTC at epicenter Location 29.486°S 177.560°W Depth 55.60 km (34.55 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5cf5a4eae88d4de70611"
       },
       {
         "title": "M 5.1 - 43 km SW of Puerto Madero, Mexico",
@@ -880,6 +916,42 @@
       "id": "56ded66d8c4fa8b50aed"
     },
     {
+      "title": "M 4.9 - Kermadec Islands, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3d9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-25T22:01:16.040+00:00",
+      "fetched_at": "2026-07-25T22:12:19+00:00",
+      "summary": "Time 2026-07-25 21:39:01 UTC 2026-07-25 21:39:01 UTC at epicenter Location 29.486°S 177.560°W Depth 55.60 km (34.55 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5cf5a4eae88d4de70611"
+    },
+    {
       "title": "M 5.1 - 43 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1167,25 +1239,40 @@
   ],
   "new_findings": [
     {
-      "title": "HTML-in-Canvas コンポーネントライブラリ Canvas UI",
-      "url": "https://azukiazusa.dev/blog/html-in-canvas-component-library-canvasui/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.9 - Kermadec Islands, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3d9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-25T11:25:46+00:00",
-      "fetched_at": "2026-07-25T21:50:39+00:00",
-      "summary": "Canvas UI は HTML-in-Canvas API を活用し、液体シミュレーションやシェーダーといったクリエイティブな UI を構築するためのコンポーネントライブラリです。 Canvas UI は HTML-in-Canvas API を活用し、液体シミュレーションやシェーダーといったクリエイティブな UI を構築するためのコンポーネントライブラリです。...",
+      "published_at": "2026-07-25T22:01:16.040+00:00",
+      "fetched_at": "2026-07-25T22:12:19+00:00",
+      "summary": "Time 2026-07-25 21:39:01 UTC 2026-07-25 21:39:01 UTC at epicenter Location 29.486°S 177.560°W Depth 55.60 km (34.55 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aba8e18016a25021808f"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5cf5a4eae88d4de70611"
     }
   ],
   "source_errors": [],
