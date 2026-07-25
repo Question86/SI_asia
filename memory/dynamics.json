@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-25T07:53:21Z",
+  "generated_at": "2026-07-25T08:38:27Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 15,
     "bands": {
       "extreme": 1,
       "krass": 2,
       "strong": 1,
       "watch": 3,
-      "quiet": 7
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 3,
-      "quiet": 7
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 1.79,
+      "age_days": 1.82,
       "topics": [
         "general"
       ],
@@ -78,7 +78,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -105,7 +105,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.25,
+      "age_days": 36.28,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -5.3 for 36.2d old signal",
+        "aging penalty -5.3 for 36.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -134,7 +134,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T07:04:54.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T06:05:52.910+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -207,7 +207,7 @@
       "url": "https://anond.hatelabo.jp/20260724173950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:11:06+00:00",
-      "age_days": 0.61,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -232,7 +232,7 @@
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.25,
+      "age_days": 2.28,
       "topics": [
         "ai"
       ],
@@ -254,11 +254,37 @@
       "summary": "はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概..."
     },
     {
+      "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+      "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T20:12:03+00:00",
+      "age_days": 0.52,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール"
+    },
+    {
       "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T12:06:16+00:00",
-      "age_days": 0.82,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -284,7 +310,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.21,
+      "age_days": 35.24,
       "topics": [
         "general"
       ],
@@ -309,7 +335,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.21,
+      "age_days": 35.24,
       "topics": [
         "general"
       ],
@@ -334,7 +360,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.21,
+      "age_days": 35.24,
       "topics": [
         "ai"
       ],
@@ -361,7 +387,7 @@
       "url": "https://dailyportalz.jp/kiji/ai-like-art-gallery",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T02:33:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
