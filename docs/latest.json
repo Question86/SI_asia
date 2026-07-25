@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T01:13:07+00:00",
-  "run_id": "2026-07-25T01:13:07+00:00",
+  "generated_at": "2026-07-25T01:56:47+00:00",
+  "run_id": "2026-07-25T01:56:47+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,64 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 2,
+    "medium": 1,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Automattic/harper",
+        "url": "https://github.com/Automattic/harper",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-25T01:56:16+00:00",
+        "summary": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered Harper Harper is an English grammar checker designed to be just right. I created it after years of dealing with the shortcomings of the competition. Grammarly was too expensive and too overbearing. Its suggestions lacked context, and were often just plain wrong . Not to mention: it's a privacy nightmare. Everything you write with Grammarly is se…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Datenschutz",
+          "GitHub Trending",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Datenschutz (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: privacy-first"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "86d6665c5e09c6811138"
+      }
+    ],
     "observe": [
       {
         "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
@@ -51,6 +98,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "45bea39035352a12d501"
+      },
+      {
+        "title": "ComposioHQ/awesome-claude-skills",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-25T01:56:16+00:00",
+        "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more. Give your skills real-world actions…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote awesome (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "56ded66d8c4fa8b50aed"
       },
       {
         "title": "M 5.0 - 96 km NNW of Port-Olry, Vanuatu",
@@ -87,10 +182,77 @@
           "LOW"
         ],
         "id": "b97193b2672adb0f2f05"
+      },
+      {
+        "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
+        "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T12:06:16+00:00",
+        "fetched_at": "2026-07-25T01:56:16+00:00",
+        "summary": "このnoteは、「#日めくりLayerX」と題して発信するブログリレーの2026年7月24日の記事として投稿しています。 はじめまして。今年の4月にLayerXへ入社した伊林です。「ちゃんさん」と呼ばれています。 バクラクで、申請・経費精算・債務管理を開発するグループのエンジニアリングマネージャーをやっています。前職までは...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "779e0da16dca432b8d1d"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-25T01:56:16+00:00",
+      "summary": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered Harper Harper is an English grammar checker designed to be just right. I created it after years of dealing with the shortcomings of the competition. Grammarly was too expensive and too overbearing. Its suggestions lacked context, and were often just plain wrong . Not to mention: it's a privacy nightmare. Everything you write with Grammarly is se…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Datenschutz",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Datenschutz (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: privacy-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "86d6665c5e09c6811138"
+    },
     {
       "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
@@ -112,6 +274,54 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "45bea39035352a12d501"
+    },
+    {
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-25T01:56:16+00:00",
+      "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more. Give your skills real-world actions…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote awesome (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "56ded66d8c4fa8b50aed"
     },
     {
       "title": "M 5.0 - 96 km NNW of Port-Olry, Vanuatu",
@@ -148,30 +358,144 @@
         "LOW"
       ],
       "id": "b97193b2672adb0f2f05"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
-      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
+      "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
+      "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-23T12:51:21+00:00",
-      "fetched_at": "2026-07-25T01:12:37+00:00",
-      "summary": "概要本検討会の概要は、アジャイル開発に関する有識者検討会をご覧ください。 開催情報日時：令和8年（2026年）1月28日（水）15時00分から16時00分まで場所：オンライン（Microsoft Teams）出席委員：狩野座長、杉井委員、岡島委員、佐野委員、木村アドバイザー議事次第開会座長の挨拶議事前回の有識者検討会の振り返り...",
+      "published_at": "2026-07-24T12:06:16+00:00",
+      "fetched_at": "2026-07-25T01:56:16+00:00",
+      "summary": "このnoteは、「#日めくりLayerX」と題して発信するブログリレーの2026年7月24日の記事として投稿しています。 はじめまして。今年の4月にLayerXへ入社した伊林です。「ちゃんさん」と呼ばれています。 バクラクで、申請・経費精算・債務管理を開発するグループのエンジニアリングマネージャーをやっています。前職までは...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "45bea39035352a12d501"
+      "id": "779e0da16dca432b8d1d"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-25T01:56:16+00:00",
+      "summary": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered Harper Harper is an English grammar checker designed to be just right. I created it after years of dealing with the shortcomings of the competition. Grammarly was too expensive and too overbearing. Its suggestions lacked context, and were often just plain wrong . Not to mention: it's a privacy nightmare. Everything you write with Grammarly is se…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Datenschutz",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Datenschutz (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: privacy-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "86d6665c5e09c6811138"
+    },
+    {
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-25T01:56:16+00:00",
+      "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across coding agents like Codex, Cursor, Gemini CLI, Antigravity and more. Give your skills real-world actions…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote awesome (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "56ded66d8c4fa8b50aed"
+    },
+    {
+      "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
+      "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T12:06:16+00:00",
+      "fetched_at": "2026-07-25T01:56:16+00:00",
+      "summary": "このnoteは、「#日めくりLayerX」と題して発信するブログリレーの2026年7月24日の記事として投稿しています。 はじめまして。今年の4月にLayerXへ入社した伊林です。「ちゃんさん」と呼ばれています。 バクラクで、申請・経費精算・債務管理を開発するグループのエンジニアリングマネージャーをやっています。前職までは...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "779e0da16dca432b8d1d"
     }
   ],
   "source_errors": [],
