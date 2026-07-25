@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T23:19:05+00:00",
-  "run_id": "2026-07-25T23:19:05+00:00",
+  "generated_at": "2026-07-25T23:42:35+00:00",
+  "run_id": "2026-07-25T23:42:35+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 2,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 3,
-    "observe": 19,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -486,6 +486,27 @@
         "id": "618b6fa96bda99c461a5"
       },
       {
+        "title": "日本の生成AI利用まだ6割 仕事中心、7割超の米国は「友達」使い - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T01:26:08+00:00",
+        "fetched_at": "2026-07-25T23:42:05+00:00",
+        "summary": "総務省が24日公表した2026年の情報通信白書によると、生成AI（人工知能）を使ったことのある個人は25年度時点で58.8%だった。仕事や調べものでの利用が多い。7割超の米国とドイツでは相談相手としての活用が目立つ。日本と米国、ドイツ、中国の4カ国を比較した。日本の利用率は前回の24年度調査から倍増した。米国とドイ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "06171cb65b5b3df732e1"
+      },
+      {
         "title": "HTML-in-Canvas コンポーネントライブラリ Canvas UI",
         "url": "https://azukiazusa.dev/blog/html-in-canvas-component-library-canvasui/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -631,6 +652,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f0473463c51b2d89d80d"
+      },
+      {
+        "title": "国内初の「Insta360ブランドストア」が浅草にオープン 実機展示と体験が可能に オープンイベントも",
+        "url": "https://dc.watch.impress.co.jp/docs/news/2127528.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T06:11:00+00:00",
+        "fetched_at": "2026-07-25T23:42:05+00:00",
+        "summary": "国内初の「Insta360ブランドストア」が浅草にオープン 実機展示と体験が可能に オープンイベントも",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "902abe8d53d2ad7ee0bd"
       }
     ]
   },
@@ -1090,6 +1132,27 @@
       "id": "618b6fa96bda99c461a5"
     },
     {
+      "title": "日本の生成AI利用まだ6割 仕事中心、7割超の米国は「友達」使い - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T01:26:08+00:00",
+      "fetched_at": "2026-07-25T23:42:05+00:00",
+      "summary": "総務省が24日公表した2026年の情報通信白書によると、生成AI（人工知能）を使ったことのある個人は25年度時点で58.8%だった。仕事や調べものでの利用が多い。7割超の米国とドイツでは相談相手としての活用が目立つ。日本と米国、ドイツ、中国の4カ国を比較した。日本の利用率は前回の24年度調査から倍増した。米国とドイ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06171cb65b5b3df732e1"
+    },
+    {
       "title": "HTML-in-Canvas コンポーネントライブラリ Canvas UI",
       "url": "https://azukiazusa.dev/blog/html-in-canvas-component-library-canvasui/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1235,9 +1298,73 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f0473463c51b2d89d80d"
+    },
+    {
+      "title": "国内初の「Insta360ブランドストア」が浅草にオープン 実機展示と体験が可能に オープンイベントも",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2127528.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T06:11:00+00:00",
+      "fetched_at": "2026-07-25T23:42:05+00:00",
+      "summary": "国内初の「Insta360ブランドストア」が浅草にオープン 実機展示と体験が可能に オープンイベントも",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "902abe8d53d2ad7ee0bd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "日本の生成AI利用まだ6割 仕事中心、7割超の米国は「友達」使い - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T01:26:08+00:00",
+      "fetched_at": "2026-07-25T23:42:05+00:00",
+      "summary": "総務省が24日公表した2026年の情報通信白書によると、生成AI（人工知能）を使ったことのある個人は25年度時点で58.8%だった。仕事や調べものでの利用が多い。7割超の米国とドイツでは相談相手としての活用が目立つ。日本と米国、ドイツ、中国の4カ国を比較した。日本の利用率は前回の24年度調査から倍増した。米国とドイ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06171cb65b5b3df732e1"
+    },
+    {
+      "title": "国内初の「Insta360ブランドストア」が浅草にオープン 実機展示と体験が可能に オープンイベントも",
+      "url": "https://dc.watch.impress.co.jp/docs/news/2127528.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T06:11:00+00:00",
+      "fetched_at": "2026-07-25T23:42:05+00:00",
+      "summary": "国内初の「Insta360ブランドストア」が浅草にオープン 実機展示と体験が可能に オープンイベントも",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "902abe8d53d2ad7ee0bd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
