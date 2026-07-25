@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-25T04:08:23+00:00_
+_Generated: 2026-07-25T05:17:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-07-25T04:08:23+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a
 - summary: Time 2026-07-24 23:44:10 UTC 2026-07-24 23:44:10 UTC at epicenter Location 14.235°S 166.727°E Depth 10.00 km (6.21 mi)
 
-### 5. AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)
+### 5. AI支援旅行アプリ「タベリエ」を、構造化ループエンジニアリングで作り上げた話
 - source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-07-24T12:06:16+00:00`
-- url: https://note.com/chan_san_jp/n/n137415f2ef48
-- summary: このnoteは、「#日めくりLayerX」と題して発信するブログリレーの2026年7月24日の記事として投稿しています。 はじめまして。今年の4月にLayerXへ入社した伊林です。「ちゃんさん」と呼ばれています。 バクラクで、申請・経費精算・債務管理を開発するグループのエンジニアリングマネージャーをやっています。前職までは...
+- score: `9`
+- published: `2026-07-23T01:48:43+00:00`
+- url: https://zenn.dev/torukona/articles/4b6f0bfe083d2b
+- summary: はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概...
 
 END OF DOCUMENT

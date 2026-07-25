@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T04:08:23+00:00",
-  "run_id": "2026-07-25T04:08:23+00:00",
+  "generated_at": "2026-07-25T05:17:49+00:00",
+  "run_id": "2026-07-25T05:17:49+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 1,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 4,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -182,6 +182,28 @@
           "LOW"
         ],
         "id": "b97193b2672adb0f2f05"
+      },
+      {
+        "title": "AI支援旅行アプリ「タベリエ」を、構造化ループエンジニアリングで作り上げた話",
+        "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-23T01:48:43+00:00",
+        "fetched_at": "2026-07-25T05:17:18+00:00",
+        "summary": "はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab37336b166a9c84814f"
       },
       {
         "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
@@ -360,6 +382,28 @@
       "id": "b97193b2672adb0f2f05"
     },
     {
+      "title": "AI支援旅行アプリ「タベリエ」を、構造化ループエンジニアリングで作り上げた話",
+      "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T01:48:43+00:00",
+      "fetched_at": "2026-07-25T05:17:18+00:00",
+      "summary": "はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab37336b166a9c84814f"
+    },
+    {
       "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
@@ -381,7 +425,30 @@
       "id": "779e0da16dca432b8d1d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AI支援旅行アプリ「タベリエ」を、構造化ループエンジニアリングで作り上げた話",
+      "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-23T01:48:43+00:00",
+      "fetched_at": "2026-07-25T05:17:18+00:00",
+      "summary": "はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab37336b166a9c84814f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
