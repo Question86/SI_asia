@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-25T08:38:27Z",
+  "generated_at": "2026-07-25T09:19:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 16,
     "bands": {
       "extreme": 1,
       "krass": 2,
       "strong": 1,
       "watch": 3,
-      "quiet": 8
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 3,
-      "quiet": 8
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 1.82,
+      "age_days": 1.85,
       "topics": [
         "general"
       ],
@@ -78,7 +78,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -105,7 +105,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.28,
+      "age_days": 36.31,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -5.3 for 36.3d old signal",
+        "aging penalty -5.4 for 36.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -134,7 +134,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T07:04:54.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -183,7 +183,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T06:05:52.910+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -203,11 +203,37 @@
       "summary": "DYFI? - III Time 2026-07-25 05:26:33 UTC 2026-07-25 05:26:33 UTC at epicenter Location 14.495°N 92.751°W Depth 35.00 km (21.75 mi)"
     },
     {
+      "title": "【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った",
+      "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-22T04:25:27+00:00",
+      "age_days": 3.2,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを..."
+    },
+    {
       "title": "結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..",
       "url": "https://anond.hatelabo.jp/20260724173950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:11:06+00:00",
-      "age_days": 0.64,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -232,7 +258,7 @@
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.28,
+      "age_days": 2.31,
       "topics": [
         "ai"
       ],
@@ -258,7 +284,7 @@
       "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T20:12:03+00:00",
-      "age_days": 0.52,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -284,7 +310,7 @@
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T12:06:16+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "ai"
       ],
@@ -310,7 +336,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.24,
+      "age_days": 35.27,
       "topics": [
         "general"
       ],
@@ -326,7 +352,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 35.2d old signal"
+        "aging penalty -16.0 for 35.3d old signal"
       ],
       "summary": ""
     },
@@ -335,7 +361,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.24,
+      "age_days": 35.27,
       "topics": [
         "general"
       ],
@@ -351,7 +377,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 35.2d old signal"
+        "aging penalty -16.0 for 35.3d old signal"
       ],
       "summary": ""
     },
@@ -360,7 +386,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.24,
+      "age_days": 35.27,
       "topics": [
         "ai"
       ],
@@ -377,7 +403,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 35.2d old signal",
+        "aging penalty -16.0 for 35.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -387,7 +413,7 @@
       "url": "https://dailyportalz.jp/kiji/ai-like-art-gallery",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T02:33:25+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
