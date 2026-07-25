@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-25T21:07:41Z",
+  "generated_at": "2026-07-25T21:31:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 24,
     "bands": {
       "extreme": 1,
       "krass": 3,
       "strong": 1,
-      "watch": 3,
+      "watch": 4,
       "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 3,
+      "watch": 4,
       "quiet": 15
     }
   },
@@ -24,7 +24,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://www.mew.org/~kazu/material/2026-dns.pdf",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T23:28:36+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -78,7 +78,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 2.34,
+      "age_days": 2.36,
       "topics": [
         "general"
       ],
@@ -104,7 +104,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai",
         "macro"
@@ -131,7 +131,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.8,
+      "age_days": 36.81,
       "topics": [
         "ai"
       ],
@@ -160,7 +160,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T07:04:54.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -184,7 +184,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "disaster"
       ],
@@ -205,11 +205,35 @@
       "summary": "Time 2026-07-24 23:44:10 UTC 2026-07-24 23:44:10 UTC at epicenter Location 14.235°S 166.727°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - 91 km SE of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3cv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-25T21:22:33.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "ShakeMap - III Time 2026-07-25 21:03:17 UTC 2026-07-25 21:03:17 UTC at epicenter Location 51.606°N 173.280°W Depth 40.78 km (25.34 mi)"
+    },
+    {
       "title": "M 5.1 - 43 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T06:05:52.910+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -233,7 +257,7 @@
       "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:25:27+00:00",
-      "age_days": 3.7,
+      "age_days": 3.71,
       "topics": [
         "ai"
       ],
@@ -259,7 +283,7 @@
       "url": "https://anond.hatelabo.jp/20260724173950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:11:06+00:00",
-      "age_days": 1.16,
+      "age_days": 1.18,
       "topics": [
         "ai"
       ],
@@ -284,7 +308,7 @@
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.8,
+      "age_days": 2.82,
       "topics": [
         "ai"
       ],
@@ -310,7 +334,7 @@
       "url": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T00:03:34+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -336,7 +360,7 @@
       "url": "https://www.zeiken.co.jp/zeikenpress/press/0001pp20190801/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:44:31+00:00",
-      "age_days": 1.14,
+      "age_days": 1.16,
       "topics": [
         "general"
       ],
@@ -360,7 +384,7 @@
       "url": "https://azukiazusa.dev/blog/hermes-agent-slack-workflow/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T08:52:10+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -385,7 +409,7 @@
       "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T20:12:03+00:00",
-      "age_days": 1.04,
+      "age_days": 1.06,
       "topics": [
         "ai"
       ],
@@ -411,7 +435,7 @@
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T12:06:16+00:00",
-      "age_days": 1.38,
+      "age_days": 1.39,
       "topics": [
         "ai"
       ],
@@ -437,7 +461,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.76,
+      "age_days": 35.78,
       "topics": [
         "general"
       ],
@@ -462,7 +486,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.76,
+      "age_days": 35.78,
       "topics": [
         "general"
       ],
@@ -487,7 +511,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.76,
+      "age_days": 35.78,
       "topics": [
         "ai"
       ],
@@ -514,7 +538,7 @@
       "url": "https://dailyportalz.jp/kiji/ai-like-art-gallery",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T02:33:25+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -539,7 +563,7 @@
       "url": "https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T05:26:32+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "ai"
       ],
@@ -564,7 +588,7 @@
       "url": "https://zenn.dev/gamella/articles/7e1af53f19d94d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T04:04:25+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -589,7 +613,7 @@
       "url": "https://mainichi.jp/articles/20260724/k00/00m/020/214000c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T10:54:25+00:00",
-      "age_days": 1.43,
+      "age_days": 1.44,
       "topics": [
         "ai"
       ],

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-25T21:07:41Z",
+  "generated_at": "2026-07-25T21:31:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://www.mew.org/~kazu/material/2026-dns.pdf",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T23:28:36+00:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 2.34,
+      "age_days": 2.36,
       "topics": [
         "general"
       ],
@@ -95,7 +95,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai",
         "macro"
@@ -122,7 +122,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.8,
+      "age_days": 36.81,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T07:04:54.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -175,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "disaster"
       ],
@@ -196,11 +196,35 @@
       "summary": "Time 2026-07-24 23:44:10 UTC 2026-07-24 23:44:10 UTC at epicenter Location 14.235°S 166.727°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - 91 km SE of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3cv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-25T21:22:33.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "ShakeMap - III Time 2026-07-25 21:03:17 UTC 2026-07-25 21:03:17 UTC at epicenter Location 51.606°N 173.280°W Depth 40.78 km (25.34 mi)"
+    },
+    {
       "title": "M 5.1 - 43 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T06:05:52.910+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -224,7 +248,7 @@
       "url": "https://zenn.dev/peishim/articles/a10faeabae7c09",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-22T04:25:27+00:00",
-      "age_days": 3.7,
+      "age_days": 3.71,
       "topics": [
         "ai"
       ],
@@ -250,7 +274,7 @@
       "url": "https://anond.hatelabo.jp/20260724173950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T17:11:06+00:00",
-      "age_days": 1.16,
+      "age_days": 1.18,
       "topics": [
         "ai"
       ],
@@ -275,7 +299,7 @@
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.8,
+      "age_days": 2.82,
       "topics": [
         "ai"
       ],
@@ -295,32 +319,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "はじめに 旅行アプリ「タベリエ」はClaude Codeのみで開発しています。基本的にAIエージェント群が自律型で品質改善を図りながら進められるように工夫しています。タベリエそのものの紹介は前回の記事で書いたので、この記事では開発の進め方そのもの、つまり「AIエージェントをどう編成してきたか」だけに絞ります。 概..."
-    },
-    {
-      "title": "AI工学特論: MLOps・継続的評価",
-      "url": "https://speakerdeck.com/asei/aigong-xue-te-lun-mlopsji-sok-de-ping-jia-b257eb10-fb3e-4159-828b-8445b7ff2f37",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-25T00:03:34+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "トップエスイー AI 工学特論の講義資料です。MLOps を巡る歴史、生成 AI を活用する技術・AI セーフティ・AI ガバナンス、MLOps の技術・プロセス・文化、AI エージェントの今後を扱っています。 参考資料 - 生成 AI 実践ガイドと企業事例集: https://citadel-…"
     }
   ],
   "read_order": [
@@ -333,8 +331,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 3,
-      "quiet": 4
+      "watch": 4,
+      "quiet": 3
     }
   }
 }
