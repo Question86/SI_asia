@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T16:25:06+00:00",
-  "run_id": "2026-07-25T16:25:06+00:00",
+  "generated_at": "2026-07-25T16:45:00+00:00",
+  "run_id": "2026-07-25T16:45:00+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -1005,31 +1005,7 @@
       "id": "f0473463c51b2d89d80d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Hermes Agent と Slack で設計し、Linear のチケットから Draft PR まで作成するワークフローの素振りをした",
-      "url": "https://azukiazusa.dev/blog/hermes-agent-slack-workflow/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-25T08:52:10+00:00",
-      "fetched_at": "2026-07-25T16:24:32+00:00",
-      "summary": "Hermes Agent をローカルで動かす場合、意図せず重要なファイルを削除してしまったり、ホスト環境の認証情報を取得し外部に送信してしまうリスクがあります。本番相当の環境で Agent を動かす場合は、Docker や Modal、Daytona などのサンドボックス環境で実行することを推奨します。 Select terminal backend: ↑↓ navig...",
-      "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1052f863c672f2a5fa5e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
