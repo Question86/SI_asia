@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T20:26:44+00:00_
+_Generiert: 2026-07-25T20:46:29+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+19 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: Hermes Agent をローカルで動かす場合、意図せず重要なファイルを削除してしまったり、ホスト環境の認証情報を取得し外部に送信してしまうリスクがあります。本番相当の環境で Agent を動かす場合は、Docker や Modal、Daytona などのサンドボックス環境で実行することを推奨します。 Select terminal backend: ↑↓ navig...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **dns.gby** — Score 10, observation — [Quelle](https://www.mew.org/~kazu/material/2026-dns.pdf)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-24T23:28:36+00:00`, fetched `2026-07-25T20:45:56+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 1 DNS ( ) 2 DNS DNS DNSSEC 3 4 ( ) (IIJ) ( ) ( ) 2022 4 e-mail: kazu@iij.ad.jp : https://mew.org/~kazu/ 5 IETF(Internet Engineering Task Force) IIJ TLS 1.3: RFC 8846 Contributors Kazu Yamamoto Internet Initiative Japan Inc. kazu@iij.ad.jp DNS 6 DNS 7 DNS 8 Domain Name System IP (authoritative) (r...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アジャイル開発に関する有識者検討会（第7回）｜デジタル庁** — Score 10, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-23T12:51:21+00:00`, fetched `2026-07-25T01:12:37+00:00`
@@ -59,15 +68,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 概要本検討会の概要は、アジャイル開発に関する有識者検討会をご覧ください。 開催情報日時：令和8年（2026年）1月28日（水）15時00分から16時00分まで場所：オンライン（Microsoft Teams）出席委員：狩野座長、杉井委員、岡島委員、佐野委員、木村アドバイザー議事次第開会座長の挨拶議事前回の有識者検討会の振り返り...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った** — Score 10, observation — [Quelle](https://zenn.dev/peishim/articles/a10faeabae7c09)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-22T04:25:27+00:00`, fetched `2026-07-25T09:10:46+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0)
-  - Kurz: はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ComposioHQ/awesome-claude-skills** — Score 10, observation — [Quelle](https://github.com/ComposioHQ/awesome-claude-skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
