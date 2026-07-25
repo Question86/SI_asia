@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T21:08:25+00:00_
+_Generiert: 2026-07-25T21:29:56+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+20 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 57 km S of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.0 - 91 km SE of Atka, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3cv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-25T21:22:33.040+00:00`, fetched `2026-07-25T21:29:25+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-07-25 21:03:17 UTC 2026-07-25 21:03:17 UTC at epicenter Location 51.606°N 173.280°W Depth 40.78 km (25.34 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Hermes Agent と Slack で設計し、Linear のチケットから Draft PR まで作成するワークフローの素振りをした** — Score 10, observation — [Quelle](https://azukiazusa.dev/blog/hermes-agent-slack-workflow/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-25T08:52:10+00:00`, fetched `2026-07-25T16:24:32+00:00`
