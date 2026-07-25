@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-25T03:01:43+00:00_
+_Generiert: 2026-07-25T04:08:23+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,10 @@ _Generiert: 2026-07-25T03:01:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:49.188km) in Indonesia 23/07/2026 22:58 UTC, 10 thousand in MMI IV.
-- **GDACS: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.777 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294)
+- **GDACS: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.384 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 5.777 million .
+  - Kurz: Orange notification for tropical cyclone NOUL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 6.384 million .
 
 ## Wirtschaft global
 
