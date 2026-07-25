@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-25T06:03:05Z",
+  "generated_at": "2026-07-25T07:01:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 10,
+    "dynamics": 13,
     "bands": {
       "extreme": 1,
       "krass": 2,
       "strong": 1,
-      "watch": 1,
-      "quiet": 5
+      "watch": 2,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 1,
-      "quiet": 5
+      "watch": 2,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/Automattic/harper",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 1.72,
+      "age_days": 1.76,
       "topics": [
         "general"
       ],
@@ -78,7 +78,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-25T01:56:16+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -105,7 +105,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 36.17,
+      "age_days": 36.21,
       "topics": [
         "ai"
       ],
@@ -134,7 +134,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -155,11 +155,60 @@
       "summary": "Time 2026-07-24 23:44:10 UTC 2026-07-24 23:44:10 UTC at epicenter Location 14.235°S 166.727°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.1 - 43 km SW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-25T06:05:52.910+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "DYFI? - III Time 2026-07-25 05:26:33 UTC 2026-07-25 05:26:33 UTC at epicenter Location 14.495°N 92.751°W Depth 35.00 km (21.75 mi)"
+    },
+    {
+      "title": "結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..",
+      "url": "https://anond.hatelabo.jp/20260724173950",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T17:11:06+00:00",
+      "age_days": 0.58,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "検証して ChatGPT5.6 Sol PRO 結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温化に影響している」 という正しい部分があります。 しかし、中心的な主張である、 長期的には言うほど変わっていない 「昔はもっと涼しかった」はマジで嘘 は、気象庁の長期統計と矛盾します。 より正確に言えば、 日本..."
+    },
+    {
       "title": "AI支援旅行アプリ「タベリエ」を、構造化ループエンジニアリングで作り上げた話",
       "url": "https://zenn.dev/torukona/articles/4b6f0bfe083d2b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T01:48:43+00:00",
-      "age_days": 2.18,
+      "age_days": 2.22,
       "topics": [
         "ai"
       ],
@@ -185,7 +234,7 @@
       "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T12:06:16+00:00",
-      "age_days": 0.75,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -211,7 +260,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.13,
+      "age_days": 35.17,
       "topics": [
         "general"
       ],
@@ -227,7 +276,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 35.1d old signal"
+        "aging penalty -16.0 for 35.2d old signal"
       ],
       "summary": ""
     },
@@ -236,7 +285,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.13,
+      "age_days": 35.17,
       "topics": [
         "general"
       ],
@@ -252,7 +301,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 35.1d old signal"
+        "aging penalty -16.0 for 35.2d old signal"
       ],
       "summary": ""
     },
@@ -261,7 +310,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.13,
+      "age_days": 35.17,
       "topics": [
         "ai"
       ],
@@ -278,10 +327,35 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 35.1d old signal",
+        "aging penalty -16.0 for 35.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "街のAIっぽい作品鑑賞会",
+      "url": "https://dailyportalz.jp/kiji/ai-like-art-gallery",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-25T02:33:25+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "画像から広告まで、ＡＩで簡単に作れるようになった昨今ですが、全国レベルでのオフィシャルな発信機会での使用は、今のところ避けられがちな模様。著作権事情等いろいろあるからね。 その一方、地域の（近所の）インディーズ的なシーンでは、ビラやポスターにて既に結構使われており、いろいろ思うところはあるけれど、..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
