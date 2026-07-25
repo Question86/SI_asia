@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-25T01:41:18Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “アジャイル開発に関する有識者検討会（第7回）｜デジタル庁” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-07-25T02:38:26Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Automattic/harper” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,39 @@
   ],
   "top_dynamics": [
     {
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-25T01:56:16+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered Harper Harper is an English grammar checker designed to be just right. I created it after years of dealing with the shortcomings of the competition. Grammarly was too expensive and too overbearing. Its suggestions lacked context, and were often ju…"
+    },
+    {
       "title": "アジャイル開発に関する有識者検討会（第7回）｜デジタル庁",
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/46a036e6-a531-4655-b146-76a1d340feb5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-23T12:51:21+00:00",
-      "age_days": 1.53,
+      "age_days": 1.57,
       "topics": [
         "general"
       ],
@@ -37,11 +65,38 @@
       "summary": "概要本検討会の概要は、アジャイル開発に関する有識者検討会をご覧ください。 開催情報日時：令和8年（2026年）1月28日（水）15時00分から16時00分まで場所：オンライン（Microsoft Teams）出席委員：狩野座長、杉井委員、岡島委員、佐野委員、木村アドバイザー議事次第開会座長の挨拶議事前回の有識者検討会の振り返り..."
     },
     {
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-07-25T01:56:16+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code, 10",
+        "security high-signal: rce, code, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows Awesome Claude Skills A comprehensive and curated list of 1000+ production ready and practical Claude Skills and Plugins for enhancing productivity across usecases on not just Claude.ai , Claude Code, but also across codi…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 35.99,
+      "age_days": 36.03,
       "topics": [
         "ai"
       ],
@@ -60,7 +115,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -5.2 for 36.0d old signal",
+        "aging penalty -5.3 for 36.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -70,7 +125,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t38a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-25T00:18:08.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -91,11 +146,37 @@
       "summary": "Time 2026-07-24 23:44:10 UTC 2026-07-24 23:44:10 UTC at epicenter Location 14.235°S 166.727°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "AIが迷わず仕事を進められる「型」の作り方 〜10の工夫と638セッションの実測〜｜Yoshihiro Ibayashi (ちゃん)",
+      "url": "https://note.com/chan_san_jp/n/n137415f2ef48",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T12:06:16+00:00",
+      "age_days": 0.61,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "このnoteは、「#日めくりLayerX」と題して発信するブログリレーの2026年7月24日の記事として投稿しています。 はじめまして。今年の4月にLayerXへ入社した伊林です。「ちゃんさん」と呼ばれています。 バクラクで、申請・経費精算・債務管理を開発するグループのエンジニアリングマネージャーをやっています。前職までは..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.95,
+      "age_days": 34.99,
       "topics": [
         "general"
       ],
@@ -120,7 +201,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.95,
+      "age_days": 34.99,
       "topics": [
         "general"
       ],
@@ -145,7 +226,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 34.95,
+      "age_days": 34.99,
       "topics": [
         "ai"
       ],
@@ -177,9 +258,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2,
+      "strong": 4,
       "watch": 1,
-      "quiet": 3
+      "quiet": 4
     }
   }
 }
