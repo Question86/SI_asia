@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T09:51:37+00:00",
-  "run_id": "2026-07-25T09:51:37+00:00",
+  "generated_at": "2026-07-25T10:24:00+00:00",
+  "run_id": "2026-07-25T10:24:00+00:00",
   "date": "2026-07-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -789,29 +789,7 @@
       "id": "f0473463c51b2d89d80d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIで「日本が追いつくのは無理」 中国を軽く見た製造業のツケ | 毎日新聞",
-      "url": "https://mainichi.jp/articles/20260724/k00/00m/020/214000c",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-24T10:54:25+00:00",
-      "fetched_at": "2026-07-25T09:51:06+00:00",
-      "summary": "インタビューに答えるウォール・ストリート・ジャーナルのピーター・ランダース前東京支局長＝東京都千代田区で2026年7月23日、宮本明登撮影 高市早苗政権初となる経済財政運営の指針「骨太の方針」が公表された。 「責任ある積極財政」は、外国の視点からはどう見えるのか。 長年日本経済を取材してきた米紙ウォール・...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f0473463c51b2d89d80d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
