@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T23:58:25+00:00",
+  "generated_at": "2026-07-25T00:42:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001294",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 292 km SSE of Ushuaia, Argentina",
-        "summary": "M5.7 - 292 km SSE of Ushuaia, Argentina. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387",
-        "published_at": "2026-07-24T23:10:29+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
