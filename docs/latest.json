@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T21:44:33+00:00",
-  "run_id": "2026-07-26T21:44:33+00:00",
+  "generated_at": "2026-07-26T22:09:07+00:00",
+  "run_id": "2026-07-26T22:09:07+00:00",
   "date": "2026-07-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 1,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 4,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -622,6 +622,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5a15f8787a23859e9d4a"
+      },
+      {
+        "title": "iPhoneの「連絡先」アプリにある「マイカード」を使い分けよう",
+        "url": "https://news.mynavi.jp/article/20260725-ipadiphonehacks/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-25T10:14:12+00:00",
+        "fetched_at": "2026-07-26T22:08:36+00:00",
+        "summary": "連絡先アプリといえば、友人・知人の住所や電話番号、メールアドレスなどを管理するためのもの。登録しておけば、電話がかかってきたとき画面に名前を表示してくれたり、おやすみモード/集中モードで例外扱いしたり、なにかと便利になります。 「マイカード」は、連絡先アプリにおける自分の情報です。連絡先アプリには...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6b0ffbeae3d87bd00f88"
       },
       {
         "title": "人間の目はかわらない、だからJPEGは30年もつ",
@@ -1261,6 +1282,27 @@
       "id": "5a15f8787a23859e9d4a"
     },
     {
+      "title": "iPhoneの「連絡先」アプリにある「マイカード」を使い分けよう",
+      "url": "https://news.mynavi.jp/article/20260725-ipadiphonehacks/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-25T10:14:12+00:00",
+      "fetched_at": "2026-07-26T22:08:36+00:00",
+      "summary": "連絡先アプリといえば、友人・知人の住所や電話番号、メールアドレスなどを管理するためのもの。登録しておけば、電話がかかってきたとき画面に名前を表示してくれたり、おやすみモード/集中モードで例外扱いしたり、なにかと便利になります。 「マイカード」は、連絡先アプリにおける自分の情報です。連絡先アプリには...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6b0ffbeae3d87bd00f88"
+    },
+    {
       "title": "人間の目はかわらない、だからJPEGは30年もつ",
       "url": "https://speakerdeck.com/yuzneri/ren-jian-nomu-hakawaranai-dakarajpegha30nian-motu",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1303,7 +1345,29 @@
       "id": "2eddb720fd7a25affa9d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "iPhoneの「連絡先」アプリにある「マイカード」を使い分けよう",
+      "url": "https://news.mynavi.jp/article/20260725-ipadiphonehacks/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-25T10:14:12+00:00",
+      "fetched_at": "2026-07-26T22:08:36+00:00",
+      "summary": "連絡先アプリといえば、友人・知人の住所や電話番号、メールアドレスなどを管理するためのもの。登録しておけば、電話がかかってきたとき画面に名前を表示してくれたり、おやすみモード/集中モードで例外扱いしたり、なにかと便利になります。 「マイカード」は、連絡先アプリにおける自分の情報です。連絡先アプリには...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6b0ffbeae3d87bd00f88"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
