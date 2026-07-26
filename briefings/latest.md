@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T03:45:44+00:00_
+_Generiert: 2026-07-26T04:58:47+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+6 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -70,6 +70,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年のフィールズ賞授賞式の場で、新受賞者であるカナダの数学者ジェイコブ・ツィマーマンが、OpenAIに加わりAI安全性の研究に従事すると発表し、学会に衝撃を与えた。ツィマーマンは、o-ミニマリティ理論を数論幾何学の基盤ツールへと再構築し、アンドレ・オールト予想など中核的難問を証明した功績で受賞したが、AI...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず** — Score 14, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/26/news014.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-25T22:02:53+00:00`, fetched `2026-07-26T04:58:17+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **alibaba/open-code-review** — Score 14, observation — [Quelle](https://github.com/alibaba/open-code-review)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-26T02:27:25+00:00`
@@ -91,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-26 01:32:44 UTC 2026-07-26 01:32:44 UTC at epicenter Location 34.071°S 14.543°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-26T00:34:47+00:00`, fetched `2026-07-26T04:58:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」** — Score 5, observation — [Quelle](https://togetter.com/li/2724822)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-26T00:16:01+00:00`, fetched `2026-07-26T03:45:13+00:00`

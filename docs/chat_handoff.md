@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-26T03:45:44+00:00_
+_Generated: 2026-07-26T04:58:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `6`
 
 ## Top Signals
 
@@ -15,21 +15,35 @@ _Generated: 2026-07-26T03:45:44+00:00_
 - url: https://finance.biggo.jp/news/bca88ca4-8438-4d70-b512-75cda1dd3bd1
 - summary: 2026年のフィールズ賞授賞式の場で、新受賞者であるカナダの数学者ジェイコブ・ツィマーマンが、OpenAIに加わりAI安全性の研究に従事すると発表し、学会に衝撃を与えた。ツィマーマンは、o-ミニマリティ理論を数論幾何学の基盤ツールへと再構築し、アンドレ・オールト予想など中核的難問を証明した功績で受賞したが、AI...
 
-### 2. alibaba/open-code-review
+### 2. MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず
+- source: Hatena Bookmark Hotentry IT
+- score: `14`
+- published: `2026-07-25T22:02:53+00:00`
+- url: https://www.itmedia.co.jp/news/articles/2607/26/news014.html
+- summary: MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ...
+
+### 3. alibaba/open-code-review
 - source: GitHub Trending RSS All Languages Daily
 - score: `14`
 - published: `None`
 - url: https://github.com/alibaba/open-code-review
 - summary: Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.…
 
-### 3. M 5.1 - Tristan da Cunha region
+### 4. M 5.1 - Tristan da Cunha region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-07-26T01:49:50.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7
 - summary: Time 2026-07-26 01:32:44 UTC 2026-07-26 01:32:44 UTC at epicenter Location 34.071°S 14.543°W Depth 10.00 km (6.21 mi)
 
-### 4. 知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」
+### 5. デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-07-26T00:34:47+00:00`
+- url: https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html
+- summary: デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】
+
+### 6. 知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-07-26T00:16:01+00:00`

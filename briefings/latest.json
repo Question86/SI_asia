@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T03:45:44+00:00",
-  "run_id": "2026-07-26T03:45:44+00:00",
+  "generated_at": "2026-07-26T04:58:47+00:00",
+  "run_id": "2026-07-26T04:58:47+00:00",
   "date": "2026-07-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
-    "medium": 2,
-    "observe": 2,
+    "medium": 3,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a5ec0bde8779b5734ace"
+      },
+      {
+        "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+        "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-25T22:02:53+00:00",
+        "fetched_at": "2026-07-26T04:58:17+00:00",
+        "summary": "MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20d36972a56f48f846f3"
       },
       {
         "title": "alibaba/open-code-review",
@@ -114,6 +137,27 @@
         "id": "bc2ba0a15941134ec95a"
       },
       {
+        "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
+        "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-26T00:34:47+00:00",
+        "fetched_at": "2026-07-26T04:58:17+00:00",
+        "summary": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "df5dafcbff45169a06e0"
+      },
+      {
         "title": "知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」",
         "url": "https://togetter.com/li/2724822",
         "source": "Hatena Bookmark Hotentry IT",
@@ -159,6 +203,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a5ec0bde8779b5734ace"
+    },
+    {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-25T22:02:53+00:00",
+      "fetched_at": "2026-07-26T04:58:17+00:00",
+      "summary": "MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20d36972a56f48f846f3"
     },
     {
       "title": "alibaba/open-code-review",
@@ -220,6 +287,27 @@
       "id": "bc2ba0a15941134ec95a"
     },
     {
+      "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T00:34:47+00:00",
+      "fetched_at": "2026-07-26T04:58:17+00:00",
+      "summary": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "df5dafcbff45169a06e0"
+    },
+    {
       "title": "知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」",
       "url": "https://togetter.com/li/2724822",
       "source": "Hatena Bookmark Hotentry IT",
@@ -243,13 +331,36 @@
   ],
   "new_findings": [
     {
-      "title": "知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」",
-      "url": "https://togetter.com/li/2724822",
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-26T00:16:01+00:00",
-      "fetched_at": "2026-07-26T03:45:13+00:00",
-      "summary": "dragoner＠2日目東ハ25ab @dragoner_JP 凄いな。知床の観光船沈没で、2年後に浜で発見されたデジカメからデータを復元したのか → 乗客のカメラが捉えた沈没前の船内 荒れ狂う海と叫び声 技術者がデータを完全復元 知床沖観光船沈没事故 youtu.be/mdjt0znKTVs 2026-07-25 15:03:36",
+      "published_at": "2026-07-25T22:02:53+00:00",
+      "fetched_at": "2026-07-26T04:58:17+00:00",
+      "summary": "MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20d36972a56f48f846f3"
+    },
+    {
+      "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T00:34:47+00:00",
+      "fetched_at": "2026-07-26T04:58:17+00:00",
+      "summary": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -261,7 +372,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5a15f8787a23859e9d4a"
+      "id": "df5dafcbff45169a06e0"
     }
   ],
   "source_errors": [],
