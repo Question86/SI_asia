@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-26T12:06:07Z",
+  "generated_at": "2026-07-26T12:36:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 37.42,
+      "age_days": 37.44,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -5.7 for 37.4d old signal",
+        "aging penalty -5.8 for 37.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-26T02:27:25+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "infra"
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T11:19:28.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T09:15:22.890+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T08:46:03.845+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -143,11 +143,35 @@
       "summary": "ShakeMap - IV Time 2026-07-26 08:35:20 UTC 2026-07-26 08:35:20 UTC at epicenter Location 51.406°N 173.352°W Depth 5.00 km (3.11 mi)"
     },
     {
+      "title": "日本を資源大国へ 埋蔵量だけじゃない、南鳥島レアアース泥の価値",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news079.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-24T22:56:03+00:00",
+      "age_days": 1.57,
+      "topics": [],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: critical",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "重要鉱物と採掘技術をテーマにした国際イベント「Critical Minerals & Mining Solutions Summit」が、2026年7月22日に開催された。同イベントの基調講演では、東京大学大学院工学系研究科 前研究科長・工学部長の加藤泰浩氏が、南鳥島で採掘されるレアアース泥（でい）の現況などを紹介した。 半導体を含むハイテク産業..."
+    },
+    {
       "title": "M 5.1 - Tristan da Cunha region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T01:49:50.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -172,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T10:00:21.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -196,7 +220,7 @@
       "url": "https://www.sbbit.jp/article/cont1/186262",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T02:29:43+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -220,7 +244,7 @@
       "url": "https://finance.biggo.jp/news/bca88ca4-8438-4d70-b512-75cda1dd3bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T12:23:49+00:00",
-      "age_days": 0.99,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -245,7 +269,7 @@
       "url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T04:18:08+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -271,7 +295,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T22:02:53+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -290,30 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ..."
-    },
-    {
-      "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-26T00:34:47+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】"
     }
   ],
   "read_order": [
@@ -326,8 +326,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 3,
-      "quiet": 5
+      "watch": 4,
+      "quiet": 4
     }
   }
 }
