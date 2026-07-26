@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T12:39:31+00:00",
-  "run_id": "2026-07-26T12:39:31+00:00",
+  "generated_at": "2026-07-26T13:05:49+00:00",
+  "run_id": "2026-07-26T13:05:49+00:00",
   "date": "2026-07-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 4,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -137,6 +137,43 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 4.7 - 15 km ESE of Pinglin, Taiwan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-26T13:01:43.401+00:00",
+        "fetched_at": "2026-07-26T13:05:17+00:00",
+        "summary": "DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "90593259238f4eaabf4a"
+      },
       {
         "title": "M 5.8 - 99 km SE of Atka, Alaska",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
@@ -543,6 +580,43 @@
       "id": "930996498c22f5ea163d"
     },
     {
+      "title": "M 4.7 - 15 km ESE of Pinglin, Taiwan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-26T13:01:43.401+00:00",
+      "fetched_at": "2026-07-26T13:05:17+00:00",
+      "summary": "DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "90593259238f4eaabf4a"
+    },
+    {
       "title": "M 5.8 - 99 km SE of Atka, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -841,25 +915,41 @@
   ],
   "new_findings": [
     {
-      "title": "ルンバで有名なiRobotの破産は、自社が開発した技術に固執するあまり後発技術への転換が遅れた電子産業のしくじりを彷彿とさせる…iモードとかプラズマテレビとか…",
-      "url": "https://togetter.com/li/2724866",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - 15 km ESE of Pinglin, Taiwan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-26T04:23:31+00:00",
-      "fetched_at": "2026-07-26T12:38:56+00:00",
-      "summary": "dynee/ダイニー @dynee_morinaga ルンバで有名なiRobotが破産した要因のひとつに、自社が特許を保有する光学カメラによるマッピングに固執するあまり、後発企業が成功させていたLiDAR方式への転換が遅れたというのが挙げられるそうだが、かつての本邦電子産業のしくじりを彷彿とさせて胸が痛むな（iモードとか…プラズマ...",
+      "published_at": "2026-07-26T13:01:43.401+00:00",
+      "fetched_at": "2026-07-26T13:05:17+00:00",
+      "summary": "DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a25b30ea67c635419fa4"
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "90593259238f4eaabf4a"
     }
   ],
   "source_errors": [],

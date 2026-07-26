@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-26T12:39:31+00:00_
+_Generated: 2026-07-26T13:05:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-26T12:39:31+00:00_
 - url: https://github.com/alibaba/open-code-review
 - summary: Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.…
 
-### 5. M 5.8 - 99 km SE of Atka, Alaska
+### 5. M 4.7 - 15 km ESE of Pinglin, Taiwan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-26T13:01:43.401+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt
+- summary: DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)
+
+### 6. M 5.8 - 99 km SE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-26T09:15:22.890+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-26 08:35:18 UTC 2026-07-26 08:35:18 UTC at epicenter Location 51.499°N 173.306°W Depth 10.00 km (6.21 mi)
 
-### 6. 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
+### 7. 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-07-24T22:46:02+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2127831.html
 - summary: 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
 
-### 7. M 5.8 - 105 km SSE of Atka, Alaska
+### 8. M 5.8 - 105 km SSE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-26T08:46:03.845+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw
 - summary: ShakeMap - IV Time 2026-07-26 08:35:20 UTC 2026-07-26 08:35:20 UTC at epicenter Location 51.406°N 173.352°W Depth 5.00 km (3.11 mi)
-
-### 8. Opus5が思考が浅いように感じる問題への対策
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-07-26T04:18:08+00:00`
-- url: https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix
-- summary: Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Op...
 
 END OF DOCUMENT

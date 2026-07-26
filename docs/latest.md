@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T12:39:31+00:00_
+_Generiert: 2026-07-26T13:05:49+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+16 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.7 - 15 km ESE of Pinglin, Taiwan** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-26T13:01:43.401+00:00`, fetched `2026-07-26T13:05:17+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.8 - 99 km SE of Atka, Alaska** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-26T09:15:22.890+00:00`, fetched `2026-07-26T09:32:00+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Op...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 68 km SSW of Masachapa, Nicaragua** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-26T10:00:21.040+00:00`, fetched `2026-07-26T10:13:17+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-26 09:26:55 UTC 2026-07-26 09:26:55 UTC at epicenter Location 11.236°N 86.808°W Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ルンバで有名なiRobotの破産は、自社が開発した技術に固執するあまり後発技術への転換が遅れた電子産業のしくじりを彷彿とさせる…iモードとかプラズマテレビとか…** — Score 5, observation — [Quelle](https://togetter.com/li/2724866)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-26T04:23:31+00:00`, fetched `2026-07-26T12:38:56+00:00`
