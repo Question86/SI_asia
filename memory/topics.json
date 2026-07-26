@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-26T10:51:04+00:00",
+  "generated_at": "2026-07-26T11:21:55+00:00",
   "topics": {
     "ai": [
       {
@@ -33,16 +33,14 @@
         "url": "https://pc.watch.impress.co.jp/docs/news/2127831.html"
       }
     ],
-    "github": [
-      {
-        "title": "alibaba/open-code-review",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 14,
-        "url": "https://github.com/alibaba/open-code-review"
-      }
-    ],
     "general": [
+      {
+        "title": "M 5.3 - 25 km NW of Kupang, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-26T11:19:28.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4"
+      },
       {
         "title": "M 5.8 - 99 km SE of Atka, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -98,6 +96,15 @@
         "published_at": "2026-07-26T00:16:01+00:00",
         "relevance_score": 5,
         "url": "https://togetter.com/li/2724822"
+      }
+    ],
+    "github": [
+      {
+        "title": "alibaba/open-code-review",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 14,
+        "url": "https://github.com/alibaba/open-code-review"
       }
     ]
   }

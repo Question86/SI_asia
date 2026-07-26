@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T10:51:04+00:00_
+_Generiert: 2026-07-26T11:21:55+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+13 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年のフィールズ賞授賞式の場で、新受賞者であるカナダの数学者ジェイコブ・ツィマーマンが、OpenAIに加わりAI安全性の研究に従事すると発表し、学会に衝撃を与えた。ツィマーマンは、o-ミニマリティ理論を数論幾何学の基盤ツールへと再構築し、アンドレ・オールト予想など中核的難問を証明した功績で受賞したが、AI...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 25 km NW of Kupang, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-26T11:19:28.040+00:00`, fetched `2026-07-26T11:21:24+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-26 10:57:37 UTC 2026-07-26 10:57:37 UTC at epicenter Location 10.007°S 123.440°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず** — Score 14, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/26/news014.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-25T22:02:53+00:00`, fetched `2026-07-26T04:58:17+00:00`
@@ -100,6 +109,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
