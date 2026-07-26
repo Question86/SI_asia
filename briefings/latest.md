@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T16:51:37+00:00_
+_Generiert: 2026-07-26T17:15:23+00:00_
 
 ## Kurzlage
 
@@ -29,8 +29,10 @@ _Generiert: 2026-07-26T16:51:37+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f5bfbff6790>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.
 
 ## Wirtschaft global
 
