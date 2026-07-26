@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T21:02:37+00:00",
-  "run_id": "2026-07-26T21:02:37+00:00",
+  "generated_at": "2026-07-26T21:23:46+00:00",
+  "run_id": "2026-07-26T21:23:46+00:00",
   "date": "2026-07-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1303,29 +1303,7 @@
       "id": "2eddb720fd7a25affa9d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "人間の目はかわらない、だからJPEGは30年もつ",
-      "url": "https://speakerdeck.com/yuzneri/ren-jian-nomu-hakawaranai-dakarajpegha30nian-motu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-25T03:43:46+00:00",
-      "fetched_at": "2026-07-26T21:02:03+00:00",
-      "summary": "2026/07/25 大吉祥寺.pm 2026",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "88c5579225e501c13772"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
