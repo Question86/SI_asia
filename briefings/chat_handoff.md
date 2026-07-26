@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-26T02:27:56+00:00_
+_Generated: 2026-07-26T03:45:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -28,5 +28,12 @@ _Generated: 2026-07-26T02:27:56+00:00_
 - published: `2026-07-26T01:49:50.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7
 - summary: Time 2026-07-26 01:32:44 UTC 2026-07-26 01:32:44 UTC at epicenter Location 34.071°S 14.543°W Depth 10.00 km (6.21 mi)
+
+### 4. 知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-07-26T00:16:01+00:00`
+- url: https://togetter.com/li/2724822
+- summary: dragoner＠2日目東ハ25ab @dragoner_JP 凄いな。知床の観光船沈没で、2年後に浜で発見されたデジカメからデータを復元したのか → 乗客のカメラが捉えた沈没前の船内 荒れ狂う海と叫び声 技術者がデータを完全復元 知床沖観光船沈没事故 youtu.be/mdjt0znKTVs 2026-07-25 15:03:36
 
 END OF DOCUMENT
