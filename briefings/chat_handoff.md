@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-26T18:29:35+00:00_
+_Generated: 2026-07-26T18:52:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `22`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-26T18:29:35+00:00_
 - url: https://github.com/alibaba/open-code-review
 - summary: Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.…
 
-### 5. M 4.7 - 15 km ESE of Pinglin, Taiwan
+### 5. M 5.4 - northern Mid-Atlantic Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-26T18:48:22.004+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3in
+- summary: PAGER - GREEN ShakeMap - I Time 2026-07-26 18:19:40 UTC 2026-07-26 18:19:40 UTC at epicenter Location 29.937°N 42.805°W Depth 10.00 km (6.21 mi)
+
+### 6. M 4.7 - 15 km ESE of Pinglin, Taiwan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-26T13:01:43.401+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt
 - summary: DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)
 
-### 6. M 5.8 - 99 km SE of Atka, Alaska
+### 7. M 5.8 - 99 km SE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-26T09:15:22.890+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-26 08:35:18 UTC 2026-07-26 08:35:18 UTC at epicenter Location 51.499°N 173.306°W Depth 10.00 km (6.21 mi)
 
-### 7. 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
+### 8. 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-07-24T22:46:02+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2127831.html
 - summary: 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
-
-### 8. M 4.5 - 53 km N of Arauco, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-26T17:46:44.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ia
-- summary: Time 2026-07-26 17:29:13 UTC 2026-07-26 17:29:13 UTC at epicenter Location 28.097°S 66.726°W Depth 157.11 km (97.63 mi)
 
 END OF DOCUMENT
