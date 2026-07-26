@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:46:20+00:00",
+  "generated_at": "2026-07-26T09:32:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.",
         "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.",
         "source": "GDACS",
@@ -94,25 +104,15 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001296",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
-        "title": "USGS earthquake M5.8 - 105 km SSE of Atka, Alaska",
-        "summary": "M5.8 - 105 km SSE of Atka, Alaska. PAGER alert: none. Tsunami flag: 0.",
+        "title": "USGS earthquake M5.8 - 99 km SE of Atka, Alaska",
+        "summary": "M5.8 - 99 km SE of Atka, Alaska. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw",
-        "published_at": "2026-07-26T08:35:20+00:00",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
+        "published_at": "2026-07-26T08:35:18+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "",
+          "alert": "green",
           "sig": 518.0,
           "tsunami": 0
         }
