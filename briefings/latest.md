@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T06:04:25+00:00_
+_Generiert: 2026-07-26T07:06:03+00:00_
 
 ## Kurzlage
 
@@ -29,22 +29,8 @@ _Generiert: 2026-07-26T06:04:25+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553874)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Chile 24/07/2026 23:10 UTC, Few people affected in MMI&gt;=II.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553852)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1553807)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI&gt;=VII).
-- **GDACS: Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001296)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f6bfb486850>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
