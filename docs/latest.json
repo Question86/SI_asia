@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-26T22:09:07+00:00",
-  "run_id": "2026-07-26T22:09:07+00:00",
+  "generated_at": "2026-07-26T22:32:48+00:00",
+  "run_id": "2026-07-26T22:32:48+00:00",
   "date": "2026-07-26",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 4,
-    "observe": 20,
-    "source_errors": 0
+    "observe": 21,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -496,6 +496,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8916efd8a5f432a29666"
+      },
+      {
+        "title": "【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え",
+        "url": "https://zenn.dev/uhyo/articles/react-profession-bench-14",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-26T10:03:31+00:00",
+        "fetched_at": "2026-07-26T22:32:10+00:00",
+        "summary": "考察 Opus 5はこのベンチマークをクリアしたのかもしれません。 このベンチマークで最強だったFable 5を圧倒し、Opus 5が新しいReact習熟度トップに立ちました。 まず、Opus 5のレベルになってくると、effortの恩恵は限定的になってくるようです。従来Claude系モデルではeffortをhighからmaxに上げるとスコアが4～5点上...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc0520356fd1d5a7c657"
       },
       {
         "title": "『みいちゃんと山田さん』反対運動への所見｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
@@ -1156,6 +1177,27 @@
       "id": "8916efd8a5f432a29666"
     },
     {
+      "title": "【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え",
+      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-14",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T10:03:31+00:00",
+      "fetched_at": "2026-07-26T22:32:10+00:00",
+      "summary": "考察 Opus 5はこのベンチマークをクリアしたのかもしれません。 このベンチマークで最強だったFable 5を圧倒し、Opus 5が新しいReact習熟度トップに立ちました。 まず、Opus 5のレベルになってくると、effortの恩恵は限定的になってくるようです。従来Claude系モデルではeffortをhighからmaxに上げるとスコアが4～5点上...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc0520356fd1d5a7c657"
+    },
+    {
       "title": "『みいちゃんと山田さん』反対運動への所見｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
       "url": "https://note.com/ganot/n/ned74462afe7e",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1347,13 +1389,13 @@
   ],
   "new_findings": [
     {
-      "title": "iPhoneの「連絡先」アプリにある「マイカード」を使い分けよう",
-      "url": "https://news.mynavi.jp/article/20260725-ipadiphonehacks/",
+      "title": "【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え",
+      "url": "https://zenn.dev/uhyo/articles/react-profession-bench-14",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-25T10:14:12+00:00",
-      "fetched_at": "2026-07-26T22:08:36+00:00",
-      "summary": "連絡先アプリといえば、友人・知人の住所や電話番号、メールアドレスなどを管理するためのもの。登録しておけば、電話がかかってきたとき画面に名前を表示してくれたり、おやすみモード/集中モードで例外扱いしたり、なにかと便利になります。 「マイカード」は、連絡先アプリにおける自分の情報です。連絡先アプリには...",
+      "published_at": "2026-07-26T10:03:31+00:00",
+      "fetched_at": "2026-07-26T22:32:10+00:00",
+      "summary": "考察 Opus 5はこのベンチマークをクリアしたのかもしれません。 このベンチマークで最強だったFable 5を圧倒し、Opus 5が新しいReact習熟度トップに立ちました。 まず、Opus 5のレベルになってくると、effortの恩恵は限定的になってくるようです。従来Claude系モデルではeffortをhighからmaxに上げるとスコアが4～5点上...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1365,10 +1407,17 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6b0ffbeae3d87bd00f88"
+      "id": "fc0520356fd1d5a7c657"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fd230c0df90>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
