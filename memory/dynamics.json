@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-26T14:29:47Z",
+  "generated_at": "2026-07-26T14:54:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 23,
     "bands": {
       "strong": 4,
       "watch": 4,
-      "quiet": 13
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 4,
-      "quiet": 13
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 37.52,
+      "age_days": 37.54,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-26T02:27:25+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "infra"
@@ -79,7 +79,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T11:19:28.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -104,7 +104,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T09:15:22.890+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -129,7 +129,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T08:46:03.845+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -154,7 +154,7 @@
       "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news079.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T22:56:03+00:00",
-      "age_days": 1.65,
+      "age_days": 1.67,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -178,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T01:49:50.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "disaster"
       ],
@@ -203,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T10:00:21.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -227,7 +227,7 @@
       "url": "https://www.sbbit.jp/article/cont1/186262",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T02:29:43+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -251,7 +251,7 @@
       "url": "https://finance.biggo.jp/news/bca88ca4-8438-4d70-b512-75cda1dd3bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T12:23:49+00:00",
-      "age_days": 1.09,
+      "age_days": 1.1,
       "topics": [
         "ai"
       ],
@@ -276,7 +276,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T13:01:43.401+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "disaster"
@@ -303,7 +303,7 @@
       "url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T04:18:08+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -329,7 +329,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T22:02:53+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -350,11 +350,35 @@
       "summary": "MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。 オ..."
     },
     {
+      "title": "Opus 5では今までのプロンプトが逆効果に。「検証して」を消して「簡潔に」と書くべし。公式プロンプトガイドを読み解く",
+      "url": "https://zenn.dev/little_hand_s/articles/72646a09f49d2a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-26T04:07:12+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "こんにちは、ログラスの松岡(@little_hand_s)です。 3行まとめ Opus 5は放っておくと応答が前より長くなる。「簡潔さの指示」を基本セットとして書いておこう（effortでは短くならない） 公式ガイドは、プロンプト内の検証指示を 「削除してください」とまで明言。今までの品質担保の常識が逆効果になる 思考はデフォル..."
+    },
+    {
       "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
       "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T00:34:47+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -378,7 +402,7 @@
       "url": "https://togetter.com/li/2724822",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T00:16:01+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -402,7 +426,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2127831.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T22:46:02+00:00",
-      "age_days": 1.66,
+      "age_days": 1.67,
       "topics": [
         "ai"
       ],
@@ -427,7 +451,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 36.49,
+      "age_days": 36.5,
       "topics": [
         "general"
       ],
@@ -452,7 +476,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 36.49,
+      "age_days": 36.5,
       "topics": [
         "general"
       ],
@@ -477,7 +501,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 36.49,
+      "age_days": 36.5,
       "topics": [
         "ai"
       ],
@@ -504,7 +528,7 @@
       "url": "https://blog.shin1x1.com/entry/dont-let-go-of-understanding",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T11:28:59+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -525,11 +549,36 @@
       "summary": "AI コーディングエージェントに実装を任せると、あっという間に成果物が出来上がってきます。この速度を活かすなら、人間の理解を待たずにどんどん先へ進めるのが合理的にも見えます。人間が理解していなくても AI が理解していれば良く、分からないことが出てきたらその時に AI に聞けば良い、という考え方です。これは..."
     },
     {
+      "title": "『みいちゃんと山田さん』反対運動への所見｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
+      "url": "https://note.com/ganot/n/ned74462afe7e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-26T08:43:26+00:00",
+      "age_days": 0.26,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "1. 批判の拙さ 『みいちゃんと山田さん』のアニメ化に対して、「性風俗のノーマライズ」と「知的・発達特性のある人へのスティグマ再生産」を理由に反対する声がある。代表的な郡司真子氏は、支援者・母親としての立場から「加害性」を指摘し、アニメ化に反対する。論理的に整理された体裁を取っているが、作品批判とし..."
+    },
+    {
       "title": "ルンバで有名なiRobotの破産は、自社が開発した技術に固執するあまり後発技術への転換が遅れた電子産業のしくじりを彷彿とさせる…iモードとかプラズマテレビとか…",
       "url": "https://togetter.com/li/2724866",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T04:23:31+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
