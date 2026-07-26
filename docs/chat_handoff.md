@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-26T17:39:38+00:00_
+_Generated: 2026-07-26T18:04:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-26T17:39:38+00:00_
 - url: https://pc.watch.impress.co.jp/docs/news/2127831.html
 - summary: 「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず
 
-### 8. M 5.8 - 105 km SSE of Atka, Alaska
+### 8. M 4.5 - 53 km N of Arauco, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-07-26T08:46:03.845+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw
-- summary: ShakeMap - IV Time 2026-07-26 08:35:20 UTC 2026-07-26 08:35:20 UTC at epicenter Location 51.406°N 173.352°W Depth 5.00 km (3.11 mi)
+- published: `2026-07-26T17:46:44.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ia
+- summary: Time 2026-07-26 17:29:13 UTC 2026-07-26 17:29:13 UTC at epicenter Location 28.097°S 66.726°W Depth 157.11 km (97.63 mi)
 
 END OF DOCUMENT
