@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-26T17:47:44Z",
+  "generated_at": "2026-07-26T18:18:15Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 37.66,
+      "age_days": 37.68,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-26T02:27:25+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "infra"
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3g4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T11:19:28.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T09:15:22.890+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T08:46:03.845+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -147,7 +147,7 @@
       "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/24/news079.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-24T22:56:03+00:00",
-      "age_days": 1.79,
+      "age_days": 1.81,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T01:49:50.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -192,11 +192,35 @@
       "summary": "Time 2026-07-26 01:32:44 UTC 2026-07-26 01:32:44 UTC at epicenter Location 34.071°S 14.543°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.5 - 53 km N of Arauco, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-26T17:46:44.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-26 17:29:13 UTC 2026-07-26 17:29:13 UTC at epicenter Location 28.097°S 66.726°W Depth 157.11 km (97.63 mi)"
+    },
+    {
       "title": "M 4.6 - 68 km SSW of Masachapa, Nicaragua",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T10:00:21.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -220,7 +244,7 @@
       "url": "https://www.sbbit.jp/article/cont1/186262",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T02:29:43+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -244,7 +268,7 @@
       "url": "https://finance.biggo.jp/news/bca88ca4-8438-4d70-b512-75cda1dd3bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T12:23:49+00:00",
-      "age_days": 1.22,
+      "age_days": 1.25,
       "topics": [
         "ai"
       ],
@@ -269,7 +293,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3gt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T13:01:43.401+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "disaster"
@@ -290,32 +314,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "DYFI? - IV Time 2026-07-26 12:36:17 UTC 2026-07-26 12:36:17 UTC at epicenter Location 24.885°N 121.851°E Depth 93.84 km (58.31 mi)"
-    },
-    {
-      "title": "Opus5が思考が浅いように感じる問題への対策",
-      "url": "https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-26T04:18:08+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Op..."
     }
   ],
   "read_order": [
@@ -328,8 +326,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 4,
-      "quiet": 4
+      "watch": 5,
+      "quiet": 3
     }
   }
 }
