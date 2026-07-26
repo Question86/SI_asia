@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T13:43:09+00:00",
-  "run_id": "2026-07-26T13:43:09+00:00",
+  "generated_at": "2026-07-26T14:16:57+00:00",
+  "run_id": "2026-07-26T14:16:57+00:00",
   "date": "2026-07-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -957,30 +957,7 @@
       "id": "2eddb720fd7a25affa9d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "理解を手放さない - Shin x Blog",
-      "url": "https://blog.shin1x1.com/entry/dont-let-go-of-understanding",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-26T11:28:59+00:00",
-      "fetched_at": "2026-07-26T13:42:35+00:00",
-      "summary": "AI コーディングエージェントに実装を任せると、あっという間に成果物が出来上がってきます。この速度を活かすなら、人間の理解を待たずにどんどん先へ進めるのが合理的にも見えます。人間が理解していなくても AI が理解していれば良く、分からないことが出てきたらその時に AI に聞けば良い、という考え方です。これは...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8916efd8a5f432a29666"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
