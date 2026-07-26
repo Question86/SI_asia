@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T09:32:32+00:00_
+_Generiert: 2026-07-26T10:13:48+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+12 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -78,23 +78,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Op...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - Tristan da Cunha region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7)
+- **M 4.6 - 68 km SSW of Masachapa, Nicaragua** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-26T01:49:50.040+00:00`, fetched `2026-07-26T02:27:25+00:00`
+  - Zeit: published `2026-07-26T10:00:21.040+00:00`, fetched `2026-07-26T10:13:17+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-26 01:32:44 UTC 2026-07-26 01:32:44 UTC at epicenter Location 34.071°S 14.543°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-07-26 09:26:55 UTC 2026-07-26 09:26:55 UTC at epicenter Location 11.236°N 86.808°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/series/itsmo/2127783.html)
+- **ニチレイ物流システムが全面復旧、なぜ10日でサイバー攻撃から復旧できたのか？** — Score 5, observation — [Quelle](https://www.sbbit.jp/article/cont1/186262)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-26T00:34:47+00:00`, fetched `2026-07-26T04:58:17+00:00`
+  - Zeit: published `2026-07-26T02:29:43+00:00`, fetched `2026-07-26T10:13:17+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】
+  - Kurz: 2026年7月、冷凍食品および低温物流最大手のニチレイがランサムウェア攻撃を受け、全国の食品サプライチェーンは混乱に陥った。しかし、アサヒやアスクルの障害では数か月を要した復旧を同社は約10日で完了させた。強固なバックアップ体制と現場のアナログな事業継続力がもたらした早期復旧までの舞台裏を探る。 ニチレ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

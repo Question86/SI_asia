@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T09:32:32+00:00",
-  "run_id": "2026-07-26T09:32:32+00:00",
+  "generated_at": "2026-07-26T10:13:48+00:00",
+  "run_id": "2026-07-26T10:13:48+00:00",
   "date": "2026-07-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -220,6 +220,42 @@
         "id": "f6c41b3334b5183ba269"
       },
       {
+        "title": "M 4.6 - 68 km SSW of Masachapa, Nicaragua",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-26T10:00:21.040+00:00",
+        "fetched_at": "2026-07-26T10:13:17+00:00",
+        "summary": "Time 2026-07-26 09:26:55 UTC 2026-07-26 09:26:55 UTC at epicenter Location 11.236°N 86.808°W Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3c8cb264c6dad65f2336"
+      },
+      {
         "title": "M 5.1 - Tristan da Cunha region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -254,6 +290,27 @@
           "LOW"
         ],
         "id": "bc2ba0a15941134ec95a"
+      },
+      {
+        "title": "ニチレイ物流システムが全面復旧、なぜ10日でサイバー攻撃から復旧できたのか？",
+        "url": "https://www.sbbit.jp/article/cont1/186262",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-26T02:29:43+00:00",
+        "fetched_at": "2026-07-26T10:13:17+00:00",
+        "summary": "2026年7月、冷凍食品および低温物流最大手のニチレイがランサムウェア攻撃を受け、全国の食品サプライチェーンは混乱に陥った。しかし、アサヒやアスクルの障害では数か月を要した復旧を同社は約10日で完了させた。強固なバックアップ体制と現場のアナログな事業継続力がもたらした早期復旧までの舞台裏を探る。 ニチレ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bbf62f0969c98d56c08a"
       },
       {
         "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
@@ -489,6 +546,42 @@
       "id": "f6c41b3334b5183ba269"
     },
     {
+      "title": "M 4.6 - 68 km SSW of Masachapa, Nicaragua",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-26T10:00:21.040+00:00",
+      "fetched_at": "2026-07-26T10:13:17+00:00",
+      "summary": "Time 2026-07-26 09:26:55 UTC 2026-07-26 09:26:55 UTC at epicenter Location 11.236°N 86.808°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3c8cb264c6dad65f2336"
+    },
+    {
       "title": "M 5.1 - Tristan da Cunha region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -523,6 +616,27 @@
         "LOW"
       ],
       "id": "bc2ba0a15941134ec95a"
+    },
+    {
+      "title": "ニチレイ物流システムが全面復旧、なぜ10日でサイバー攻撃から復旧できたのか？",
+      "url": "https://www.sbbit.jp/article/cont1/186262",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T02:29:43+00:00",
+      "fetched_at": "2026-07-26T10:13:17+00:00",
+      "summary": "2026年7月、冷凍食品および低温物流最大手のニチレイがランサムウェア攻撃を受け、全国の食品サプライチェーンは混乱に陥った。しかし、アサヒやアスクルの障害では数か月を要した復旧を同社は約10日で完了させた。強固なバックアップ体制と現場のアナログな事業継続力がもたらした早期復旧までの舞台裏を探る。 ニチレ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bbf62f0969c98d56c08a"
     },
     {
       "title": "デスクに欲しい情報を集約 SwitchBot電子ペーパー端末の”そこにある”魅力【いつモノコト】",
@@ -569,28 +683,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.8 - 99 km SE of Atka, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm",
+      "title": "M 4.6 - 68 km SSW of Masachapa, Nicaragua",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-26T09:15:22.890+00:00",
-      "fetched_at": "2026-07-26T09:32:00+00:00",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-26 08:35:18 UTC 2026-07-26 08:35:18 UTC at epicenter Location 51.499°N 173.306°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-26T10:00:21.040+00:00",
+      "fetched_at": "2026-07-26T10:13:17+00:00",
+      "summary": "Time 2026-07-26 09:26:55 UTC 2026-07-26 09:26:55 UTC at epicenter Location 11.236°N 86.808°W Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -604,29 +716,28 @@
         "HD",
         "LOW"
       ],
-      "id": "c7f6cf8b8ac2ed5507d4"
+      "id": "3c8cb264c6dad65f2336"
     },
     {
-      "title": "「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2127831.html",
+      "title": "ニチレイ物流システムが全面復旧、なぜ10日でサイバー攻撃から復旧できたのか？",
+      "url": "https://www.sbbit.jp/article/cont1/186262",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-24T22:46:02+00:00",
-      "fetched_at": "2026-07-26T09:32:00+00:00",
-      "summary": "「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず",
+      "published_at": "2026-07-26T02:29:43+00:00",
+      "fetched_at": "2026-07-26T10:13:17+00:00",
+      "summary": "2026年7月、冷凍食品および低温物流最大手のニチレイがランサムウェア攻撃を受け、全国の食品サプライチェーンは混乱に陥った。しかし、アサヒやアスクルの障害では数か月を要した復旧を同社は約10日で完了させた。強固なバックアップ体制と現場のアナログな事業継続力がもたらした早期復旧までの舞台裏を探る。 ニチレ...",
       "matched_keywords": [
         "Hatena",
-        "hotentry",
-        "OpenAI"
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1539f926e8b04b175ddc"
+      "id": "bbf62f0969c98d56c08a"
     }
   ],
   "source_errors": [],
