@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T07:56:13+00:00_
+_Generiert: 2026-07-26T08:46:17+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+8 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,6 +45,10 @@ _Generiert: 2026-07-26T07:56:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.8 - 105 km SSE of Atka, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw)
+  - Quelle: USGS
+  - Zeit: `2026-07-26T08:35:20+00:00`
+  - Kurz: M5.8 - 105 km SSE of Atka, Alaska. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -91,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.8 - 105 km SSE of Atka, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ordrxw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-26T08:46:03.845+00:00`, fetched `2026-07-26T08:45:45+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV Time 2026-07-26 08:35:20 UTC 2026-07-26 08:35:20 UTC at epicenter Location 51.406°N 173.352°W Depth 5.00 km (3.11 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Opus5が思考が浅いように感じる問題への対策** — Score 10, observation — [Quelle](https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-26T04:18:08+00:00`, fetched `2026-07-26T06:03:56+00:00`
