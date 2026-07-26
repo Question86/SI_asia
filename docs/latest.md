@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-26T12:12:42+00:00_
+_Generiert: 2026-07-26T12:39:31+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+15 neue relevante Treffer. Stärkstes Signal: „フィールズ賞新受賞者ツィマーマン、受賞会見で「転身」宣言：OpenAIに加わりAI安全性を研究へ — BigGo ファイナンス“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-26 09:26:55 UTC 2026-07-26 09:26:55 UTC at epicenter Location 11.236°N 86.808°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ニチレイ物流システムが全面復旧、なぜ10日でサイバー攻撃から復旧できたのか？** — Score 5, observation — [Quelle](https://www.sbbit.jp/article/cont1/186262)
+- **ルンバで有名なiRobotの破産は、自社が開発した技術に固執するあまり後発技術への転換が遅れた電子産業のしくじりを彷彿とさせる…iモードとかプラズマテレビとか…** — Score 5, observation — [Quelle](https://togetter.com/li/2724866)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-26T02:29:43+00:00`, fetched `2026-07-26T10:13:17+00:00`
+  - Zeit: published `2026-07-26T04:23:31+00:00`, fetched `2026-07-26T12:38:56+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年7月、冷凍食品および低温物流最大手のニチレイがランサムウェア攻撃を受け、全国の食品サプライチェーンは混乱に陥った。しかし、アサヒやアスクルの障害では数か月を要した復旧を同社は約10日で完了させた。強固なバックアップ体制と現場のアナログな事業継続力がもたらした早期復旧までの舞台裏を探る。 ニチレ...
+  - Kurz: dynee/ダイニー @dynee_morinaga ルンバで有名なiRobotが破産した要因のひとつに、自社が特許を保有する光学カメラによるマッピングに固執するあまり、後発企業が成功させていたLiDAR方式への転換が遅れたというのが挙げられるそうだが、かつての本邦電子産業のしくじりを彷彿とさせて胸が痛むな（iモードとか…プラズマ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
