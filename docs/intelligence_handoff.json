@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-26T02:37:07Z",
+  "generated_at": "2026-07-26T03:57:51Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 37.03,
+      "age_days": 37.08,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -5.6 for 37.0d old signal",
+        "aging penalty -5.6 for 37.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-26T02:27:25+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "infra"
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3e7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-26T01:49:50.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://finance.biggo.jp/news/bca88ca4-8438-4d70-b512-75cda1dd3bd1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T12:23:49+00:00",
-      "age_days": 0.59,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -118,11 +118,35 @@
       "summary": "2026年のフィールズ賞授賞式の場で、新受賞者であるカナダの数学者ジェイコブ・ツィマーマンが、OpenAIに加わりAI安全性の研究に従事すると発表し、学会に衝撃を与えた。ツィマーマンは、o-ミニマリティ理論を数論幾何学の基盤ツールへと再構築し、アンドレ・オールト予想など中核的難問を証明した功績で受賞したが、AI..."
     },
     {
+      "title": "知床沖観光船沈没事故で乗客のカメラに残った荒れ狂う海と叫び声…沈没前の映像データを完全復元→「エンジニアの不屈の意志を感じる」「海水だろ？すげぇな」",
+      "url": "https://togetter.com/li/2724822",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-26T00:16:01+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "dragoner＠2日目東ハ25ab @dragoner_JP 凄いな。知床の観光船沈没で、2年後に浜で発見されたデジカメからデータを復元したのか → 乗客のカメラが捉えた沈没前の船内 荒れ狂う海と叫び声 技術者がデータを完全復元 知床沖観光船沈没事故 youtu.be/mdjt0znKTVs 2026-07-25 15:03:36"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.99,
+      "age_days": 36.05,
       "topics": [
         "general"
       ],
@@ -147,7 +171,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.99,
+      "age_days": 36.05,
       "topics": [
         "general"
       ],
@@ -172,7 +196,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 35.99,
+      "age_days": 36.05,
       "topics": [
         "ai"
       ],
@@ -206,7 +230,7 @@
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 4
+      "quiet": 5
     }
   }
 }
