@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T21:45:08+00:00_
+_Generiert: 2026-07-27T22:12:10+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
+74 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Public Health (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: The GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels. Until now, access to the Copilot… The post Manage GitHub Copilot app access with a dedicated policy appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **セキュリティ研修【MIXI 26新卒技術研修】** — Score 11, observation — [Quelle](https://speakerdeck.com/mixi_engineers/2026_new_grad_training_security)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-27T13:31:58+00:00`, fetched `2026-07-27T22:11:42+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『セキュリティ研修』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用につい…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 61 km E of La Tirana, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-27T11:12:14.609+00:00`, fetched `2026-07-27T11:15:46+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Euro area economic and financial developments by institutional sector: first quarter of 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Monetary developments in the euro area: June 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-07-27T08:00:00+00:00`, fetched `2026-07-27T08:42:08+00:00`
-  - Treffer: euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Monetary developments in the euro area: June 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
