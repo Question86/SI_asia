@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-27T12:02:30Z",
+  "generated_at": "2026-07-27T13:18:10Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -28,12 +28,22 @@
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
     {
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
       "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[NEU] [kritisch] vBulletin: Schwachstelle ermöglicht Codeausführung",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -49,16 +59,6 @@
     },
     {
       "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "In China, people are renting out their faces to AI",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }

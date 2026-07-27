@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-27T12:02:30Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] ffmpeg: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-07-27T13:18:10Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] vBulletin: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [kritisch] vBulletin: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2528",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-27T11:17:54+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in vBulletin ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] ffmpeg: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2526",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T10:57:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T06:17:53+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -61,35 +86,11 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-27T09:19:20+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Tomcat und Tomcat Native ausnutzen, um Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen."
-    },
-    {
       "title": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -113,11 +114,37 @@
       "summary": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun se…"
     },
     {
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-27T11:17:53+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, dazu können DoS-Angriffe, die Offenlegung von Informationen, die Beschädigung des Speichers oder die Umgehung von Sicherheitsmaßnahmen gehören."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T09:19:20+00:00",
-      "age_days": 0.11,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -143,7 +170,7 @@
       "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T04:53:20+00:00",
-      "age_days": 0.3,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -171,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1599",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T11:02:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -197,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T09:19:41+00:00",
-      "age_days": 0.11,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -223,7 +250,7 @@
       "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-27T10:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -250,7 +277,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0683",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T10:57:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -275,7 +302,7 @@
       "url": "https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T08:49:08+00:00",
-      "age_days": 0.13,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -295,32 +322,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Southeast Asia’s startup story is usually told through ride-hailing, fintech, and e-commerce. But a quieter, stranger, and potentially more consequential sector is taking shape in the region’s labs, farms, and hospitals: biotech. Founders are using fermentation to turn waste into biomaterials, growing seafood and fat…"
-    },
-    {
-      "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
-      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-07-27T06:00:00+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました"
     }
   ],
   "read_order": [
@@ -332,8 +333,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "krass": 3,
+      "strong": 9
     }
   }
 }
