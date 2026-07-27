@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T22:12:10+00:00",
-  "run_id": "2026-07-27T22:12:10+00:00",
+  "generated_at": "2026-07-27T22:36:47+00:00",
+  "run_id": "2026-07-27T22:36:47+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 1,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
     "medium": 16,
-    "observe": 58,
+    "observe": 59,
     "source_errors": 0
   },
   "sections": {
@@ -1510,6 +1510,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c730046b74ad284692d8"
+      },
+      {
+        "title": "EDIFIERの3Way新作スピーカー、音域が広すぎ。「今まで聴いたことない音」が聞こえるもんね (1/5)",
+        "url": "https://ascii.jp/elem/000/004/419/4419661/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-27T13:40:13+00:00",
+        "fetched_at": "2026-07-27T22:36:15+00:00",
+        "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 このスピーカーを初めて鳴らしたとき、僕はこう思いました。 「音域、広すぎぃ！」と。 なんか、今までに聴いたことのない音が聞こえてくるっ！ オーディオの用語って、何かと難しいじゃないですか。解像感と...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0383f7b930cb2fb4a703"
       },
       {
         "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
@@ -3351,6 +3372,27 @@
       "id": "c730046b74ad284692d8"
     },
     {
+      "title": "EDIFIERの3Way新作スピーカー、音域が広すぎ。「今まで聴いたことない音」が聞こえるもんね (1/5)",
+      "url": "https://ascii.jp/elem/000/004/419/4419661/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-27T13:40:13+00:00",
+      "fetched_at": "2026-07-27T22:36:15+00:00",
+      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 このスピーカーを初めて鳴らしたとき、僕はこう思いました。 「音域、広すぎぃ！」と。 なんか、今までに聴いたことのない音が聞こえてくるっ！ オーディオの用語って、何かと難しいじゃないですか。解像感と...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0383f7b930cb2fb4a703"
+    },
+    {
       "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に",
       "url": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3709,56 +3751,13 @@
   ],
   "new_findings": [
     {
-      "title": "セキュリティ研修【MIXI 26新卒技術研修】",
-      "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_security",
+      "title": "EDIFIERの3Way新作スピーカー、音域が広すぎ。「今まで聴いたことない音」が聞こえるもんね (1/5)",
+      "url": "https://ascii.jp/elem/000/004/419/4419661/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-27T13:31:58+00:00",
-      "fetched_at": "2026-07-27T22:11:42+00:00",
-      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『セキュリティ研修』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用につい…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ef6c54e2f51e5705aafc"
-    },
-    {
-      "title": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-27T17:00:35+00:00",
-      "fetched_at": "2026-07-27T22:11:42+00:00",
-      "summary": "You can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With… The post Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a1f8d7d4c6f751eccf5b"
-    },
-    {
-      "title": "【Copilot神アプデ】Excelの地味な手間が消える「新機能3選」、自分たち仕様に超進化",
-      "url": "https://www.sbbit.jp/article/cont1/186178",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-27T06:03:50+00:00",
-      "fetched_at": "2026-07-27T22:11:42+00:00",
-      "summary": "この1年、業務における生成AIの活用は、「エージェンティック」という言葉を中心に語られてきました。プロンプトに従って回答するだけでなく、AIが複数のステップを計画し、アプリやブラウザを操作しながら仕事を進める。そうしたエージェント的な動作を前提とするAIモデルが、当たり前のように語られるようになっていま...",
+      "published_at": "2026-07-27T13:40:13+00:00",
+      "fetched_at": "2026-07-27T22:36:15+00:00",
+      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 このスピーカーを初めて鳴らしたとき、僕はこう思いました。 「音域、広すぎぃ！」と。 なんか、今までに聴いたことのない音が聞こえてくるっ！ オーディオの用語って、何かと難しいじゃないですか。解像感と...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3770,7 +3769,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c9e042994f8e06a83e31"
+      "id": "0383f7b930cb2fb4a703"
     }
   ],
   "source_errors": [],
