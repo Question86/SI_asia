@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T14:21:00+00:00_
+_Generiert: 2026-07-27T15:23:16+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+61 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
