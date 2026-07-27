@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T22:36:47+00:00",
-  "run_id": "2026-07-27T22:36:47+00:00",
+  "generated_at": "2026-07-27T23:00:49+00:00",
+  "run_id": "2026-07-27T23:00:49+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3749,29 +3749,7 @@
       "id": "fe27766d806fa859fec1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "EDIFIERの3Way新作スピーカー、音域が広すぎ。「今まで聴いたことない音」が聞こえるもんね (1/5)",
-      "url": "https://ascii.jp/elem/000/004/419/4419661/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-27T13:40:13+00:00",
-      "fetched_at": "2026-07-27T22:36:15+00:00",
-      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 このスピーカーを初めて鳴らしたとき、僕はこう思いました。 「音域、広すぎぃ！」と。 なんか、今までに聴いたことのない音が聞こえてくるっ！ オーディオの用語って、何かと難しいじゃないですか。解像感と...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0383f7b930cb2fb4a703"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
