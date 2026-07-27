@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T13:29:32+00:00_
+_Generated: 2026-07-27T14:21:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `54`
+- findings: `58`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-27T13:29:32+00:00_
 - url: https://github.com/CoreBunch/Instatic
 - summary: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual…
 
-### 8. Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups
-- source: e27 Asia Startup and Tech Feed
+### 8. Announcing 20260066 (LTRO,liquidity providing), for 91 days deadline 10:00
+- source: ECB Open Market Operations and Communication
 - score: `12`
-- published: `2026-07-27T04:53:20+00:00`
-- url: https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/
-- summary: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Y…
+- published: `2026-07-27T14:55:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260066.en.html
+- summary: Announcing 20260066 (LTRO,liquidity providing), for 91 days deadline 10:00
 
 END OF DOCUMENT
