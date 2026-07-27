@@ -47,6 +47,30 @@
     "id": "07ddfffa096f9a6c1bf2"
   },
   {
+    "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-27T11:17:53+00:00",
+    "fetched_at": "2026-07-27T12:28:44+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, dazu können DoS-Angriffe, die Offenlegung von Informationen, die Beschädigung des Speichers oder die Umgehung von Sicherheitsmaßnahmen gehören.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e81d34c80b9f3382d855"
+  },
+  {
     "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0683",
     "source": "BSI CERT-Bund Security Advisories",
@@ -95,6 +119,52 @@
     "id": "41d4f238e1fbb283a1b8"
   },
   {
+    "title": "[UPDATE] [mittel] Aqua Security Trivy: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2082",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-27T11:17:53+00:00",
+    "fetched_at": "2026-07-27T12:28:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Aqua Security Trivy ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6a4e13fe5be63ea070fe"
+  },
+  {
+    "title": "[UPDATE] [hoch] Aqua Security Trivy: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1924",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-27T11:17:53+00:00",
+    "fetched_at": "2026-07-27T12:28:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Aqua Security Trivy ausnutzen, um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca306ca188ef0772032d"
+  },
+  {
     "title": "How AI and blockchain could make commerce decisions more accountable",
     "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -130,6 +200,52 @@
       "soy"
     ],
     "id": "34a64e6634e96a74e2c5"
+  },
+  {
+    "title": "[NEU] [mittel] Vaultwarden: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2529",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-27T11:17:54+00:00",
+    "fetched_at": "2026-07-27T12:28:44+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Vaultwarden ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bd681445ed7abebef54a"
+  },
+  {
+    "title": "[NEU] [kritisch] vBulletin: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2528",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-27T11:17:54+00:00",
+    "fetched_at": "2026-07-27T12:28:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in vBulletin ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d4c6358316035aa7b6b6"
   },
   {
     "title": "[UPDATE] [hoch] Unbound: Mehrere Schwachstellen",
@@ -543,6 +659,42 @@
       "PINS"
     ],
     "id": "b6c0cd17d3818530db96"
+  },
+  {
+    "title": "M 4.6 - 120 km E of Kokopo, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ng",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-27T12:16:39.040+00:00",
+    "fetched_at": "2026-07-27T12:28:44+00:00",
+    "summary": "Time 2026-07-27 11:59:47 UTC 2026-07-27 11:59:47 UTC at epicenter Location 4.485°S 153.341°E Depth 114.65 km (71.24 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7a07f64a8d1be77c4e50"
   },
   {
     "title": "Bridging boundaries: Sony’s blueprint for Japan-Singapore innovation collaboration",

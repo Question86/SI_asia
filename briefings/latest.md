@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T11:16:22+00:00_
+_Generiert: 2026-07-27T12:29:15+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+49 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -70,6 +70,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider before use: Codex: install Codex CLI and run codex login Claude: install Claude Code and run claude auth login Cursor: install Cursor CLI and run cursor-agent login…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-27T11:17:53+00:00`, fetched `2026-07-27T12:28:44+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, dazu können DoS-Angriffe, die Offenlegung von Informationen, die Beschädigung des Speichers oder die Umgehung von Sicherheitsmaßnahmen gehören.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0683)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-27T10:57:54+00:00`, fetched `2026-07-27T11:15:46+00:00`
@@ -96,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Unbound: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1599)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-27T11:02:53+00:00`, fetched `2026-07-27T11:15:46+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um einen Denial of Service Zustand herbeizuführen, um möglicherweise Code auszuführen und um nicht näher spezifizierte Auswirkungen zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -199,6 +199,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 120 km E of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ng)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-27T12:16:39.040+00:00`, fetched `2026-07-27T12:28:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-27 11:59:47 UTC 2026-07-27 11:59:47 UTC at epicenter Location 4.485°S 153.341°E Depth 114.65 km (71.24 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-27T03:37:25.040+00:00`, fetched `2026-07-27T03:44:30+00:00`
@@ -207,15 +216,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-27 03:12:04 UTC 2026-07-27 03:12:04 UTC at epicenter Location 24.438°S 175.090°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-27T01:57:40.040+00:00`, fetched `2026-07-27T02:26:37+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-27 01:38:43 UTC 2026-07-27 01:38:43 UTC at epicenter Location 24.503°S 175.166°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GoogleのAI要約が検索よりマシに見えるのはなぜか（ただし、どちらもクソ） » p2ptk[.]org** — Score 8, observation — [Quelle](https://p2ptk.org/ai/5638)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

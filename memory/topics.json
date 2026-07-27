@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-27T11:16:22+00:00",
+  "generated_at": "2026-07-27T12:29:15+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,27 @@
         "url": "https://github.com/pingdotgg/t3code"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527"
+      },
+      {
+        "title": "[NEU] [mittel] Vaultwarden: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2529"
+      },
+      {
+        "title": "[NEU] [kritisch] vBulletin: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2528"
+      },
+      {
         "title": "[NEU] [hoch] ffmpeg: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-27T10:57:53+00:00",
@@ -158,6 +179,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-27T10:57:54+00:00",
@@ -170,6 +198,34 @@
         "published_at": "2026-07-27T09:19:20+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462"
+      },
+      {
+        "title": "[UPDATE] [mittel] Aqua Security Trivy: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:53+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2082"
+      },
+      {
+        "title": "[UPDATE] [hoch] Aqua Security Trivy: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:53+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1924"
+      },
+      {
+        "title": "[NEU] [mittel] Vaultwarden: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2529"
+      },
+      {
+        "title": "[NEU] [kritisch] vBulletin: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-27T11:17:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2528"
       },
       {
         "title": "[UPDATE] [hoch] Unbound: Mehrere Schwachstellen",
@@ -191,34 +247,6 @@
         "published_at": "2026-07-27T09:19:41+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-27T09:19:20+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443"
-      },
-      {
-        "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-27T06:17:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011"
-      },
-      {
-        "title": "Why Southeast Asia’s regulatory patchwork demands a local-first approach",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-27T01:30:14+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/"
-      },
-      {
-        "title": "Angreifer können MongoDB abstürzen lassen und Daten manipulieren",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-27T08:50:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html"
       }
     ],
     "economy": [
@@ -288,6 +316,13 @@
         "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c"
       },
       {
+        "title": "M 4.6 - 120 km E of Kokopo, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-27T12:16:39.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ng"
+      },
+      {
         "title": "Bridging boundaries: Sony’s blueprint for Japan-Singapore innovation collaboration",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-27T07:52:53+00:00",
@@ -335,13 +370,6 @@
         "published_at": "2026-07-27T00:05:43+00:00",
         "relevance_score": 5,
         "url": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html"
-      },
-      {
-        "title": "【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-26T22:25:38+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html"
       }
     ]
   }

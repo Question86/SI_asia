@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-27T11:16:22+00:00",
+  "generated_at": "2026-07-27T12:29:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 6,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 9,
-    "observe": 34
+    "medium": 14,
+    "observe": 35
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 19,
       "url": "https://github.com/pingdotgg/t3code",
       "summary": "T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider befor…",
+      "section": "medium"
+    },
+    {
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T11:17:53+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, dazu können DoS-Angriffe, die Offenlegung von Informationen, die Beschädigung des Speichers oder die Umgehung von Sicherheitsmaßnahmen ge…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
-      "section": "medium"
-    },
-    {
-      "title": "How AI and blockchain could make commerce decisions more accountable",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-27T04:13:52+00:00",
-      "relevance_score": 15,
-      "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
-      "summary": "Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that act…",
       "section": "medium"
     },
     {
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CoreBunch/Instatic” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=38.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CoreBunch/Instatic",
-        "url": "https://github.com/CoreBunch/Instatic",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-27T02:26:37+00:00",
-        "age_days": 0.4,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 38.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun se…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-27T09:19:20+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können."
-      },
-      {
-        "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
-        "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-27T04:53:20+00:00",
-        "age_days": 0.3,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: shortage",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar ac…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Unbound: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1599",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-27T11:02:53+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um einen Denial of Service Zustand herbeizuführen, um möglicherweise Code auszuführen und um nicht näher spezifizierte Auswirkungen zu verursachen."
-      },
-      {
-        "title": "[NEU] [hoch] ffmpeg: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2526",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-27T10:57:53+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um eine Speicherbeschädigung herbeizuführen, beliebigen Code auszuführen, einen Denial-of-Service-Zustand auszulösen oder vertrauliche Informationen offenzulegen."
-      }
-    ]
-  }
+  ]
 }

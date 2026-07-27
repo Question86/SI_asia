@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T11:16:22+00:00_
+_Generated: 2026-07-27T12:29:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `43`
+- findings: `49`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-27T11:16:22+00:00_
 - url: https://github.com/pingdotgg/t3code
 - summary: T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider befor…
 
-### 2. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 2. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-27T11:17:53+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, dazu können DoS-Angriffe, die Offenlegung von Informationen, die Beschädigung des Speichers oder die Umgehung von Sicherheitsmaßnahmen ge…
+
+### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-27T10:57:54+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0683
 - summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial-of-Service auszulösen und um nicht näher spezifizierte Auswirkungen zu erzielen.
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-27T09:19:20+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
-
-### 4. How AI and blockchain could make commerce decisions more accountable
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-07-27T04:13:52+00:00`
-- url: https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/
-- summary: Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that act…
 
 ### 5. In China, people are renting out their faces to AI
 - source: Rest of World Global Tech Feed
