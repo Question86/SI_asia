@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T05:00:29+00:00_
+_Generated: 2026-07-27T06:13:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `26`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-07-27T05:00:29+00:00_
 - url: https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/
 - summary: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Y…
 
-### 5. Indonesia’s AI hiring gap is real, just not 28×
+### 5. アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました
+- source: Japan Digital Agency News RSS
+- score: `11`
+- published: `2026-07-27T06:00:00+00:00`
+- url: https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c
+- summary: アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました
+
+### 6. Indonesia’s AI hiring gap is real, just not 28×
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-07-27T03:00:38+00:00`
 - url: https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/
 - summary: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t…
-
-### 6. Southeast Asia’s fintech apps don’t have a literacy problem, they have a fear problem​
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-27T02:00:37+00:00`
-- url: https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/
-- summary: For nearly a decade, the pitch behind Southeast Asia’s fintech boom has stayed remarkably consistent: put a bank in everyone’s pocket, simplify the interface, and financial inclusion follows. Billions of dollars in funding, dozens of e-wallets, and a wave of…
 
 END OF DOCUMENT

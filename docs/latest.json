@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:00:29+00:00",
-  "run_id": "2026-07-27T05:00:29+00:00",
+  "generated_at": "2026-07-27T06:13:55+00:00",
+  "run_id": "2026-07-27T06:13:55+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 2,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 2,
-    "observe": 22,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -159,6 +159,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a896594bfd526691e1d2"
+      },
+      {
+        "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-27T06:00:00+00:00",
+        "fetched_at": "2026-07-27T06:13:23+00:00",
+        "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "94ae823fbde674d00522"
       },
       {
         "title": "Indonesia’s AI hiring gap is real, just not 28×",
@@ -505,6 +526,27 @@
         "id": "6ce26ee4c9d873a2ff3c"
       },
       {
+        "title": "出張者が標的に：ホテルWi-Fi経由でMicrosoft 365認証情報を窃取、MFAもすり抜け | 財経新聞",
+        "url": "https://www.zaikei.co.jp/article/20260726/862851.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-26T22:23:33+00:00",
+        "fetched_at": "2026-07-27T06:13:23+00:00",
+        "summary": "米国、インド、サウジアラビアの出張者を標的に、ホテルのWi-Fiを経由してMicrosoft 365の認証情報を盗み出す攻撃キャンペーンが確認された。セキュリティ企業ReliaQuestが7月24日に報告したもので、フィッシングメールや不正な添付ファイルを必要とせず、侵害されたネットワークに接続して業務用アカウントにログインす...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "77709e713b56e97c8176"
+      },
+      {
         "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
         "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
         "source": "Hatena Bookmark Hotentry IT",
@@ -781,6 +823,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a896594bfd526691e1d2"
+    },
+    {
+      "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-27T06:00:00+00:00",
+      "fetched_at": "2026-07-27T06:13:23+00:00",
+      "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "94ae823fbde674d00522"
     },
     {
       "title": "Indonesia’s AI hiring gap is real, just not 28×",
@@ -1127,6 +1190,27 @@
       "id": "6ce26ee4c9d873a2ff3c"
     },
     {
+      "title": "出張者が標的に：ホテルWi-Fi経由でMicrosoft 365認証情報を窃取、MFAもすり抜け | 財経新聞",
+      "url": "https://www.zaikei.co.jp/article/20260726/862851.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T22:23:33+00:00",
+      "fetched_at": "2026-07-27T06:13:23+00:00",
+      "summary": "米国、インド、サウジアラビアの出張者を標的に、ホテルのWi-Fiを経由してMicrosoft 365の認証情報を盗み出す攻撃キャンペーンが確認された。セキュリティ企業ReliaQuestが7月24日に報告したもので、フィッシングメールや不正な添付ファイルを必要とせず、侵害されたネットワークに接続して業務用アカウントにログインす...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77709e713b56e97c8176"
+    },
+    {
       "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
       "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1275,72 +1359,34 @@
   ],
   "new_findings": [
     {
-      "title": "How AI and blockchain could make commerce decisions more accountable",
-      "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-27T04:13:52+00:00",
-      "fetched_at": "2026-07-27T04:59:55+00:00",
-      "summary": "Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…",
+      "published_at": "2026-07-27T06:00:00+00:00",
+      "fetched_at": "2026-07-27T06:13:23+00:00",
+      "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar",
-        "Southeast Asia",
-        "Watchgraph:agriculture_food_fertilizer"
+        "Climate/Disaster Infrastructure"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "agriculture_food_fertilizer"
-      ],
-      "watchgraph_reasons": [
-        "agriculture_food_fertilizer: corn"
-      ],
-      "market_context": [
-        "ADM",
-        "BG",
-        "DE",
-        "NTR",
-        "CF",
-        "MOS",
-        "wheat",
-        "corn",
-        "soy"
-      ],
-      "id": "34a64e6634e96a74e2c5"
-    },
-    {
-      "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
-      "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-27T04:53:20+00:00",
-      "fetched_at": "2026-07-27T04:59:55+00:00",
-      "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a896594bfd526691e1d2"
+      "id": "94ae823fbde674d00522"
     },
     {
-      "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
-      "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
+      "title": "出張者が標的に：ホテルWi-Fi経由でMicrosoft 365認証情報を窃取、MFAもすり抜け | 財経新聞",
+      "url": "https://www.zaikei.co.jp/article/20260726/862851.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-26T21:56:15+00:00",
-      "fetched_at": "2026-07-27T04:59:55+00:00",
-      "summary": "最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。 コードレビューをしていません。 場合によっては、動作確認もしていません。 こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。 でも、事故っていな...",
+      "published_at": "2026-07-26T22:23:33+00:00",
+      "fetched_at": "2026-07-27T06:13:23+00:00",
+      "summary": "米国、インド、サウジアラビアの出張者を標的に、ホテルのWi-Fiを経由してMicrosoft 365の認証情報を盗み出す攻撃キャンペーンが確認された。セキュリティ企業ReliaQuestが7月24日に報告したもので、フィッシングメールや不正な添付ファイルを必要とせず、侵害されたネットワークに接続して業務用アカウントにログインす...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1352,27 +1398,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "92e02a4dc42cd49e9c60"
-    },
-    {
-      "title": "Is Ether quietly stealing Bitcoin’s throne as the institutional favorite?",
-      "url": "https://e27.co/is-ether-quietly-stealing-bitcoins-throne-as-the-institutional-favorite-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-27T04:56:30+00:00",
-      "fetched_at": "2026-07-27T04:59:55+00:00",
-      "summary": "Something feels off about last week in the world of crypto exchange-traded funds, and I think we need to talk about it honestly. US spot bitcoin ETFs recorded roughly US$8.05 billion in trading volume across the five sessions ending Friday. That marks their lowest total for a full trading week since October 2024. Let that […] The post Is Ether quietly stealing Bitcoin’s throne as the institutional favorite? appeared…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "646d9c14988a9405b49f"
+      "id": "77709e713b56e97c8176"
     }
   ],
   "source_errors": [],

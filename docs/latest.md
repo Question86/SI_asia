@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T05:00:29+00:00_
+_Generiert: 2026-07-27T06:13:55+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+26 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -50,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-27T06:00:00+00:00`, fetched `2026-07-27T06:13:23+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Indonesia’s AI hiring gap is real, just not 28×** — Score 10, observation — [Quelle](https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
