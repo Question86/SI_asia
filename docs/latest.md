@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T02:27:09+00:00_
+_Generiert: 2026-07-27T03:44:59+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+20 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun server — and the pages it ships are clean enough to read in view-source. One-Click Deploy · Quick Star…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Indonesia’s AI hiring gap is real, just not 28×** — Score 10, observation — [Quelle](https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-27T03:00:38+00:00`, fetched `2026-07-27T03:44:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia’s fintech apps don’t have a literacy problem, they have a fear problem​** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-27T02:00:37+00:00`, fetched `2026-07-27T02:26:37+00:00`
@@ -51,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: When we started building our GRC company, the plan looked simple enough: host our platform on a hyperscaler — AWS, GCP, or Azure — wherever made sense operationally, and serve customers globally from a small number of regions. That approach mirrored how the established GRC vendors, most of them US-based, were already running their infrastructure, […] The post Why Southeast Asia’s regulatory patchwork demands a local…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.0 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-27T03:37:25.040+00:00`, fetched `2026-07-27T03:44:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-27 03:12:04 UTC 2026-07-27 03:12:04 UTC at epicenter Location 24.438°S 175.090°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-27T01:57:40.040+00:00`, fetched `2026-07-27T02:26:37+00:00`
@@ -69,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-27 01:05:37 UTC 2026-07-27 01:05:37 UTC at epicenter Location 16.563°S 173.917°W Depth 80.47 km (50.00 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GoogleのAI要約が検索よりマシに見えるのはなぜか（ただし、どちらもクソ） » p2ptk[.]org** — Score 8, observation — [Quelle](https://p2ptk.org/ai/5638)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-26T18:39:17+00:00`, fetched `2026-07-27T03:44:30+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 以下の文章は、コリイ・ドクトロウの「Gemini is better than search because Google enshittified search」という記事を翻訳したものである。 Pluralistic AI批判本を書くと、あらゆる人がAIにまつわる自分の罪を告白しにやってきて懺悔の相手役に仕立て上げられてしまう。私の周りの人々は、説明か赦免か断罪を求めて...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Opus 5のプロンプティング** — Score 8, observation — [Quelle](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-opus-5)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-25T20:50:13+00:00`, fetched `2026-07-27T01:32:55+00:00`
@@ -78,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Opus 5の動作の違いとプロンプティングパターン。応答の冗長性、エージェント的なナレーション、タスクのスコープ設定、サブエージェントへの委任、自己修正、思考が無効な場合の出力アーティファクトについて説明します。 このガイドでは、Claude Opus 5に固有のプロンプティングパターンについて説明します。モ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The 3Cs+1 framework: Navigating geopolitical fragmentation as a founder** — Score 6, risk — [Quelle](https://e27.co/the-3cs1-framework-navigating-geopolitical-fragmentation-as-a-founder-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-27T02:15:00+00:00`, fetched `2026-07-27T02:26:37+00:00`
-  - Treffer: APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
-  - Kurz: Some months ago, I made a quiet decision: I stopped trying to build products that could scale globally by default. Not because demand wasn’t there, but because the underlying assumptions had changed. APIs were no longer neutral. Data could not always move freely. Dependencies that once accelerated development had become latent risks. What looked like […] The post The 3Cs+1 framework: Navigating geopolitical fragment…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-26T22:25:38+00:00`, fetched `2026-07-27T01:32:55+00:00`
@@ -95,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-26T16:21:26+00:00`, fetched `2026-07-27T00:04:30+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: TL;DR 2015年の日本年金機構事案を契機とする自治体の「三層の対策（三層分離）」は、制度化から約10年を迎えた LGWAN接続系から安全にWebを閲覧する「インターネット分離」の実現方式は、実行場所 × 分離粒度 × 転送方式 の3軸で4類型に整理できる（本稿独自の便宜的整理） 分離の成否を実運用で分けたのは方式そのもの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **permissionlesstech/bitchat** — Score 5, observation — [Quelle](https://github.com/permissionlesstech/bitchat)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
