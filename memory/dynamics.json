@@ -1,20 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-27T04:27:10Z",
+  "generated_at": "2026-07-27T05:47:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 28,
     "bands": {
       "extreme": 1,
-      "strong": 3,
-      "watch": 4,
-      "quiet": 16
-    },
-    "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 4,
       "watch": 4,
-      "quiet": 16
+      "quiet": 18
+    },
+    "bands_after_gate_recheck": {
+      "strong": 6,
+      "watch": 4,
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -23,7 +24,7 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -49,7 +50,7 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -73,11 +74,39 @@
       "summary": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun se…"
     },
     {
+      "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
+      "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-27T04:53:20+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: shortage",
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar ac…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 38.1,
+      "age_days": 38.16,
       "topics": [
         "ai"
       ],
@@ -96,17 +125,45 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.0 for 38.1d old signal",
+        "aging penalty -6.0 for 38.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "How AI and blockchain could make commerce decisions more accountable",
+      "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-27T04:13:52+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: chain",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can…"
     },
     {
       "title": "Why Southeast Asia’s regulatory patchwork demands a local-first approach",
       "url": "https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:30:14+00:00",
-      "age_days": 0.12,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -133,7 +190,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T03:37:25.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -158,7 +215,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:57:40.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -183,7 +240,7 @@
       "url": "https://github.com/pingdotgg/t3code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -209,7 +266,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:22:56.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -233,7 +290,7 @@
       "url": "https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:00:37+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -253,11 +310,35 @@
       "summary": "For nearly a decade, the pitch behind Southeast Asia’s fintech boom has stayed remarkably consistent: put a bank in everyone’s pocket, simplify the interface, and financial inclusion follows. Billions of dollars in funding, dozens of e-wallets, and a wave of micro-investing apps later, the region has largely delivered…"
     },
     {
+      "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
+      "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-26T21:56:15+00:00",
+      "age_days": 0.33,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code"
+      ],
+      "summary": "最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。 コードレビューをしていません。 場合によっては、動作確認もしていません。 こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。 でも、事故っていな..."
+    },
+    {
       "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道 - Qiita",
       "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T16:21:26+00:00",
-      "age_days": 0.5,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -281,7 +362,7 @@
       "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T11:30:20+00:00",
-      "age_days": 0.71,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -301,11 +382,35 @@
       "summary": "「もう一度同じ作業をやり直し...」と画面を眺めながら、あの時は本当に何度もエラーに悩まされました。Gitのコミットログをたどるたびに「これ、毎回手で打つの大変だよな」と感じていた私が、ついにCLIツールに出会った瞬間、開発のスピードが劇的に変わったのを感じました。もし同じように「何か上手くいくツールがな..."
     },
     {
+      "title": "Is Ether quietly stealing Bitcoin’s throne as the institutional favorite?",
+      "url": "https://e27.co/is-ether-quietly-stealing-bitcoins-throne-as-the-institutional-favorite-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-27T04:56:30+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "infra"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: exchange"
+      ],
+      "summary": "Something feels off about last week in the world of crypto exchange-traded funds, and I think we need to talk about it honestly. US spot bitcoin ETFs recorded roughly US$8.05 billion in trading volume across the five sessions ending Friday. That marks their lowest total for a full trading week since October 2024. Let…"
+    },
+    {
       "title": "Indonesia’s AI hiring gap is real, just not 28×",
       "url": "https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T03:00:38+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -331,7 +436,7 @@
       "url": "https://e27.co/how-singapore-smes-should-choose-a-payment-provider-a-practical-checklist-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:45:38+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -355,7 +460,7 @@
       "url": "https://e27.co/the-3cs1-framework-navigating-geopolitical-fragmentation-as-a-founder-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:15:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -379,7 +484,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T22:25:38+00:00",
-      "age_days": 0.25,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -403,7 +508,7 @@
       "url": "https://e27.co/the-evolution-of-trust-from-early-adoption-to-institutional-maturity-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:15:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -427,7 +532,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.07,
+      "age_days": 37.12,
       "topics": [
         "general"
       ],
@@ -452,7 +557,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.07,
+      "age_days": 37.12,
       "topics": [
         "general"
       ],
@@ -477,7 +582,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.07,
+      "age_days": 37.12,
       "topics": [
         "ai"
       ],
@@ -504,7 +609,7 @@
       "url": "https://e27.co/the-enterprise-ai-adoption-paradox-why-southeast-asian-companies-are-accelerating-digital-transformation-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:30:24+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -530,7 +635,7 @@
       "url": "https://p2ptk.org/ai/5638",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T18:39:17+00:00",
-      "age_days": 0.41,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -555,7 +660,7 @@
       "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-opus-5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T20:50:13+00:00",
-      "age_days": 1.32,
+      "age_days": 1.37,
       "topics": [
         "ai"
       ],
@@ -580,7 +685,7 @@
       "url": "https://e27.co/how-do-you-finance-a-first-nuclear-reactor-for-a-data-centre-the-deal-structure-is-finally-coming-together-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:45:22+00:00",
-      "age_days": 0.11,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -605,7 +710,7 @@
       "url": "https://github.com/yorukot/superfile",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
