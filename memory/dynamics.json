@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-27T10:55:12Z",
+  "generated_at": "2026-07-27T12:02:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 7,
+      "krass": 10,
       "strong": 5,
-      "watch": 6,
-      "quiet": 21
+      "watch": 8,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 12,
-      "watch": 6,
-      "quiet": 21
+      "krass": 2,
+      "strong": 14,
+      "watch": 8,
+      "quiet": 16
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] ffmpeg: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2526",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-27T10:57:53+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um eine Speicherbeschädigung herbeizuführen, beliebigen Code auszuführen, einen Denial-of-Service-Zustand auszulösen oder vertrauliche Informationen offenzulegen."
+    },
     {
       "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T06:17:53+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -50,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T09:19:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -74,7 +99,7 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -100,7 +125,7 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -128,7 +153,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T09:19:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -154,7 +179,7 @@
       "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T04:53:20+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -178,11 +203,37 @@
       "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar ac…"
     },
     {
+      "title": "[UPDATE] [hoch] Unbound: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1599",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-27T11:02:53+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um einen Denial of Service Zustand herbeizuführen, um möglicherweise Code auszuführen und um nicht näher spezifizierte Auswirkungen zu verursachen."
+    },
+    {
       "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-27T09:19:41+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -208,7 +259,7 @@
       "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-27T10:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -231,11 +282,36 @@
       "summary": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0683",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-27T10:57:54+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial-of-Service auszulösen und um nicht näher spezifizierte Auswirkungen zu erzielen."
+    },
+    {
       "title": "The 27 SEA biotech firms betting on cells, fermentation, and code",
       "url": "https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T08:49:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -261,7 +337,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-27T06:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -287,7 +363,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 38.37,
+      "age_days": 38.42,
       "topics": [
         "ai"
       ],
@@ -316,7 +392,7 @@
       "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T04:13:52+00:00",
-      "age_days": 0.28,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -344,7 +420,7 @@
       "url": "https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:30:14+00:00",
-      "age_days": 0.39,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -371,7 +447,7 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-27T08:50:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "security",
         "macro"
@@ -392,11 +468,62 @@
       "summary": "Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken."
     },
     {
+      "title": "M 4.6 - 61 km E of La Tirana, Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-27T11:12:14.609+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - III Time 2026-07-27 10:24:53 UTC 2026-07-27 10:24:53 UTC at epicenter Location 20.244°S 69.077°W Depth 105.24 km (65.39 mi)"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-07-27T03:30:00+00:00",
+      "age_days": 0.36,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+    },
+    {
       "title": "Bridging boundaries: Sony’s blueprint for Japan-Singapore innovation collaboration",
       "url": "https://e27.co/bridging-boundaries-sonys-blueprint-for-japan-singapore-innovation-collaboration-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T07:52:53+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -422,7 +549,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T03:37:25.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -447,7 +574,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:57:40.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -472,7 +599,7 @@
       "url": "https://github.com/pingdotgg/t3code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -498,7 +625,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:22:56.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -522,7 +649,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-07-27T09:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -546,7 +673,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-07-27T08:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -570,7 +697,7 @@
       "url": "https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:00:37+00:00",
-      "age_days": 0.37,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -594,7 +721,7 @@
       "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T21:56:15+00:00",
-      "age_days": 0.54,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -618,7 +745,7 @@
       "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T16:21:26+00:00",
-      "age_days": 0.77,
+      "age_days": 0.82,
       "topics": [
         "general"
       ],
@@ -642,7 +769,7 @@
       "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T11:30:20+00:00",
-      "age_days": 0.98,
+      "age_days": 1.02,
       "topics": [
         "general"
       ],
@@ -666,7 +793,7 @@
       "url": "https://e27.co/is-ether-quietly-stealing-bitcoins-throne-as-the-institutional-favorite-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T04:56:30+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "infra"
       ],
@@ -690,7 +817,7 @@
       "url": "https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T03:00:38+00:00",
-      "age_days": 0.33,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -716,7 +843,7 @@
       "url": "https://e27.co/how-singapore-smes-should-choose-a-payment-provider-a-practical-checklist-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:45:38+00:00",
-      "age_days": 0.34,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -740,7 +867,7 @@
       "url": "https://e27.co/the-3cs1-framework-navigating-geopolitical-fragmentation-as-a-founder-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:15:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -764,7 +891,7 @@
       "url": "https://www.itmedia.co.jp/news/articles/2607/27/news081.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T06:39:16+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -788,7 +915,7 @@
       "url": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T00:05:43+00:00",
-      "age_days": 0.45,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -812,7 +939,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T22:25:38+00:00",
-      "age_days": 0.52,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -836,7 +963,7 @@
       "url": "https://e27.co/the-evolution-of-trust-from-early-adoption-to-institutional-maturity-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:15:40+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "macro"
       ],
@@ -860,7 +987,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.34,
+      "age_days": 37.38,
       "topics": [
         "general"
       ],
@@ -876,7 +1003,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 37.3d old signal"
+        "aging penalty -16.0 for 37.4d old signal"
       ],
       "summary": ""
     },
@@ -885,7 +1012,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.34,
+      "age_days": 37.38,
       "topics": [
         "general"
       ],
@@ -901,138 +1028,10 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 37.3d old signal"
+        "aging penalty -16.0 for 37.4d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 37.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The barrier to AI adoption was never budget, it was knowing where to start",
-      "url": "https://e27.co/the-enterprise-ai-adoption-paradox-why-southeast-asian-companies-are-accelerating-digital-transformation-20260726/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-27T02:30:24+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For years, businesses have talked about digital transformation as if it were something only large corporations could afford. Today, that is no longer true. One conversation that keeps coming up with business owners and leaders is artificial intelligence. Almost everyone agrees that AI has the potential to change how b…"
-    },
-    {
-      "title": "GoogleのAI要約が検索よりマシに見えるのはなぜか（ただし、どちらもクソ） » p2ptk[.]org",
-      "url": "https://p2ptk.org/ai/5638",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-26T18:39:17+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "以下の文章は、コリイ・ドクトロウの「Gemini is better than search because Google enshittified search」という記事を翻訳したものである。 Pluralistic AI批判本を書くと、あらゆる人がAIにまつわる自分の罪を告白しにやってきて懺悔の相手役に仕立て上げられてしまう。私の周りの人々は、説明か赦免か断罪を求めて..."
-    },
-    {
-      "title": "Claude Opus 5のプロンプティング",
-      "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-opus-5",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-25T20:50:13+00:00",
-      "age_days": 1.59,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Claude Opus 5の動作の違いとプロンプティングパターン。応答の冗長性、エージェント的なナレーション、タスクのスコープ設定、サブエージェントへの委任、自己修正、思考が無効な場合の出力アーティファクトについて説明します。 このガイドでは、Claude Opus 5に固有のプロンプティングパターンについて説明します。モ..."
-    },
-    {
-      "title": "How do you finance a first nuclear reactor for a data centre? The deal structure is finally coming together",
-      "url": "https://e27.co/how-do-you-finance-a-first-nuclear-reactor-for-a-data-centre-the-deal-structure-is-finally-coming-together-20260726/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-27T01:45:22+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The technology question around small modular reactors in Southeast Asia is largely resolved. The engineering works. The safety case is well-established. The capacity factor, roughly 90 per cent, compared to 20–25 per cent for solar, makes SMRs the only credible clean baseload technology available at the scale data cen…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] ffmpeg: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
