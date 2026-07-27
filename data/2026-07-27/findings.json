@@ -84,6 +84,29 @@
     "id": "34a64e6634e96a74e2c5"
   },
   {
+    "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-27T06:17:53+00:00",
+    "fetched_at": "2026-07-27T07:26:33+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "56c2ddc12a030393bf48"
+  },
+  {
     "title": "CoreBunch/Instatic",
     "url": "https://github.com/CoreBunch/Instatic",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -471,6 +494,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c730046b74ad284692d8"
+  },
+  {
+    "title": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+    "url": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-27T00:05:43+00:00",
+    "fetched_at": "2026-07-27T07:26:33+00:00",
+    "summary": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "34483580c049559100f9"
   },
   {
     "title": "【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に",

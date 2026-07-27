@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T06:13:55+00:00",
-  "run_id": "2026-07-27T06:13:55+00:00",
+  "generated_at": "2026-07-27T07:27:01+00:00",
+  "run_id": "2026-07-27T07:27:01+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 2,
-    "observe": 24,
+    "medium": 3,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -112,6 +112,29 @@
           "soy"
         ],
         "id": "34a64e6634e96a74e2c5"
+      },
+      {
+        "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-27T06:17:53+00:00",
+        "fetched_at": "2026-07-27T07:26:33+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "56c2ddc12a030393bf48"
       }
     ],
     "observe": [
@@ -505,6 +528,27 @@
         "id": "c730046b74ad284692d8"
       },
       {
+        "title": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+        "url": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-27T00:05:43+00:00",
+        "fetched_at": "2026-07-27T07:26:33+00:00",
+        "summary": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34483580c049559100f9"
+      },
+      {
         "title": "【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に",
         "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -778,6 +822,29 @@
         "soy"
       ],
       "id": "34a64e6634e96a74e2c5"
+    },
+    {
+      "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T06:17:53+00:00",
+      "fetched_at": "2026-07-27T07:26:33+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56c2ddc12a030393bf48"
     },
     {
       "title": "CoreBunch/Instatic",
@@ -1169,6 +1236,27 @@
       "id": "c730046b74ad284692d8"
     },
     {
+      "title": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+      "url": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-27T00:05:43+00:00",
+      "fetched_at": "2026-07-27T07:26:33+00:00",
+      "summary": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34483580c049559100f9"
+    },
+    {
       "title": "【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に",
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1359,34 +1447,36 @@
   ],
   "new_findings": [
     {
-      "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
-      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-27T06:00:00+00:00",
-      "fetched_at": "2026-07-27T06:13:23+00:00",
-      "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+      "published_at": "2026-07-27T06:17:53+00:00",
+      "fetched_at": "2026-07-27T07:26:33+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "94ae823fbde674d00522"
+      "id": "56c2ddc12a030393bf48"
     },
     {
-      "title": "出張者が標的に：ホテルWi-Fi経由でMicrosoft 365認証情報を窃取、MFAもすり抜け | 財経新聞",
-      "url": "https://www.zaikei.co.jp/article/20260726/862851.html",
+      "title": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
+      "url": "https://av.watch.impress.co.jp/docs/series/dal/2127950.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-26T22:23:33+00:00",
-      "fetched_at": "2026-07-27T06:13:23+00:00",
-      "summary": "米国、インド、サウジアラビアの出張者を標的に、ホテルのWi-Fiを経由してMicrosoft 365の認証情報を盗み出す攻撃キャンペーンが確認された。セキュリティ企業ReliaQuestが7月24日に報告したもので、フィッシングメールや不正な添付ファイルを必要とせず、侵害されたネットワークに接続して業務用アカウントにログインす...",
+      "published_at": "2026-07-27T00:05:43+00:00",
+      "fetched_at": "2026-07-27T07:26:33+00:00",
+      "summary": "ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1398,7 +1488,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "77709e713b56e97c8176"
+      "id": "34483580c049559100f9"
     }
   ],
   "source_errors": [],
