@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T16:12:13+00:00",
-  "run_id": "2026-07-27T16:12:13+00:00",
+  "generated_at": "2026-07-27T16:54:52+00:00",
+  "run_id": "2026-07-27T16:54:52+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 62,
     "displayed_findings": 62,
     "high": 0,
@@ -3095,56 +3095,7 @@
       "id": "fe27766d806fa859fec1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot app for Beginners: Getting started",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-27T16:00:00+00:00",
-      "fetched_at": "2026-07-27T16:11:42+00:00",
-      "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
-        "Copilot",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "a297a689be9795d9d22f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
