@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T20:50:14+00:00_
+_Generiert: 2026-07-27T21:19:24+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
+70 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -181,6 +181,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Manage GitHub Copilot app access with a dedicated policy** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-27T20:43:37+00:00`, fetched `2026-07-27T21:18:51+00:00`
+  - Treffer: Copilot, GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: The GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels. Until now, access to the Copilot… The post Manage GitHub Copilot app access with a dedicated policy appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 61 km E of La Tirana, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-27T11:12:14.609+00:00`, fetched `2026-07-27T11:15:46+00:00`
@@ -252,15 +261,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **寄稿：弁護士ドットコムにおける AWS DevOps Agent の活用事例 – インシデント対応の自動化と属人化の解消 | Amazon Web Services** — Score 10, observation — [Quelle](https://aws.amazon.com/jp/blogs/news/bengo4com-devops-agent-case-study/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-27T02:05:08+00:00`, fetched `2026-07-27T20:49:36+00:00`
-  - Treffer: agent, APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: Amazon Web Services ブログ 寄稿：弁護士ドットコムにおける AWS DevOps Agent の活用事例 – インシデント対応の自動化と属人化の解消 本稿は、弁護士ドットコム株式会社 CTO 田中 慎司 氏、プロダクト開発本部 Platform & Reliability Engineering 部 (以下、PRE 部) 部長 熊谷 晃 氏、同 PRE 部 原口 慎太郎 氏による...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
