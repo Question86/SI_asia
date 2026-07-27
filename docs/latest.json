@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T08:42:36+00:00",
-  "run_id": "2026-07-27T08:42:36+00:00",
+  "generated_at": "2026-07-27T10:06:30+00:00",
+  "run_id": "2026-07-27T10:06:30+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 7,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
-    "medium": 3,
-    "observe": 28,
+    "medium": 6,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -77,6 +77,30 @@
         "id": "07ddfffa096f9a6c1bf2"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-27T09:19:20+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "41d4f238e1fbb283a1b8"
+      },
+      {
         "title": "How AI and blockchain could make commerce decisions more accountable",
         "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -114,6 +138,52 @@
         "id": "34a64e6634e96a74e2c5"
       },
       {
+        "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-27T09:19:41+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder andere nicht näher definierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "11b5d7832981ff2b3d6e"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-27T09:19:20+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Tomcat und Tomcat Native ausnutzen, um Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "366339f3685257006dad"
+      },
+      {
         "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
         "source": "BSI CERT-Bund Security Advisories",
@@ -138,6 +208,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "In China, people are renting out their faces to AI",
+        "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-27T10:00:00+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Open Source"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); Open Source (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "efe5a3de1a2880142456"
+      },
       {
         "title": "CoreBunch/Instatic",
         "url": "https://github.com/CoreBunch/Instatic",
@@ -184,6 +276,29 @@
         "id": "a896594bfd526691e1d2"
       },
       {
+        "title": "The 27 SEA biotech firms betting on cells, fermentation, and code",
+        "url": "https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-27T08:49:08+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "Southeast Asia’s startup story is usually told through ride-hailing, fintech, and e-commerce. But a quieter, stranger, and potentially more consequential sector is taking shape in the region’s labs, farms, and hospitals: biotech. Founders are using fermentation to turn waste into biomaterials, growing seafood and fat from cells, building AI tools for cancer care and heart […] The post The 27 SEA biotech firms bettin…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8513ea96076b4ac32a26"
+      },
+      {
         "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
         "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
         "source": "Japan Digital Agency News RSS",
@@ -203,6 +318,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "94ae823fbde674d00522"
+      },
+      {
+        "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-07-27T09:00:00+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
+        "matched_keywords": [
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f116ba2ada1c3cec7cc1"
       },
       {
         "title": "Monetary developments in the euro area: June 2026",
@@ -505,6 +641,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "27b97e515618a3ee30d1"
+      },
+      {
+        "title": "Angreifer können MongoDB abstürzen lassen und Daten manipulieren",
+        "url": "https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-27T08:50:00.000+00:00",
+        "fetched_at": "2026-07-27T10:06:00+00:00",
+        "summary": "Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "29e9bd693dfcb767d063"
       },
       {
         "title": "How Singapore SMEs should choose a payment provider: A practical checklist",
@@ -849,6 +1005,30 @@
       "id": "07ddfffa096f9a6c1bf2"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:19:20+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41d4f238e1fbb283a1b8"
+    },
+    {
       "title": "How AI and blockchain could make commerce decisions more accountable",
       "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -886,6 +1066,52 @@
       "id": "34a64e6634e96a74e2c5"
     },
     {
+      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:19:41+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder andere nicht näher definierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "11b5d7832981ff2b3d6e"
+    },
+    {
+      "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:19:20+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Tomcat und Tomcat Native ausnutzen, um Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "366339f3685257006dad"
+    },
+    {
       "title": "[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011",
       "source": "BSI CERT-Bund Security Advisories",
@@ -907,6 +1133,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "56c2ddc12a030393bf48"
+    },
+    {
+      "title": "In China, people are renting out their faces to AI",
+      "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T10:00:00+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Open Source"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Open Source (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "efe5a3de1a2880142456"
     },
     {
       "title": "CoreBunch/Instatic",
@@ -954,6 +1202,29 @@
       "id": "a896594bfd526691e1d2"
     },
     {
+      "title": "The 27 SEA biotech firms betting on cells, fermentation, and code",
+      "url": "https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T08:49:08+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Southeast Asia’s startup story is usually told through ride-hailing, fintech, and e-commerce. But a quieter, stranger, and potentially more consequential sector is taking shape in the region’s labs, farms, and hospitals: biotech. Founders are using fermentation to turn waste into biomaterials, growing seafood and fat from cells, building AI tools for cancer care and heart […] The post The 27 SEA biotech firms bettin…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8513ea96076b4ac32a26"
+    },
+    {
       "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
       "source": "Japan Digital Agency News RSS",
@@ -973,6 +1244,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "94ae823fbde674d00522"
+    },
+    {
+      "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:00:00+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
+      "matched_keywords": [
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f116ba2ada1c3cec7cc1"
     },
     {
       "title": "Monetary developments in the euro area: June 2026",
@@ -1277,6 +1569,26 @@
       "id": "27b97e515618a3ee30d1"
     },
     {
+      "title": "Angreifer können MongoDB abstürzen lassen und Daten manipulieren",
+      "url": "https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-27T08:50:00.000+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "29e9bd693dfcb767d063"
+    },
+    {
       "title": "How Singapore SMEs should choose a payment provider: A practical checklist",
       "url": "https://e27.co/how-singapore-smes-should-choose-a-payment-provider-a-practical-checklist-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1571,13 +1883,128 @@
   ],
   "new_findings": [
     {
-      "title": "Monetary developments in the euro area: June 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:19:20+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41d4f238e1fbb283a1b8"
+    },
+    {
+      "title": "[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:19:41+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder andere nicht näher definierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "11b5d7832981ff2b3d6e"
+    },
+    {
+      "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-27T09:19:20+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Tomcat und Tomcat Native ausnutzen, um Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "366339f3685257006dad"
+    },
+    {
+      "title": "In China, people are renting out their faces to AI",
+      "url": "https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T10:00:00+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Open Source"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Open Source (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "efe5a3de1a2880142456"
+    },
+    {
+      "title": "The 27 SEA biotech firms betting on cells, fermentation, and code",
+      "url": "https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T08:49:08+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Southeast Asia’s startup story is usually told through ride-hailing, fintech, and e-commerce. But a quieter, stranger, and potentially more consequential sector is taking shape in the region’s labs, farms, and hospitals: biotech. Founders are using fermentation to turn waste into biomaterials, growing seafood and fat from cells, building AI tools for cancer care and heart […] The post The 27 SEA biotech firms bettin…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8513ea96076b4ac32a26"
+    },
+    {
+      "title": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html",
       "source": "ECB Statistical Press Releases",
       "source_type": "rss",
-      "published_at": "2026-07-27T08:00:00+00:00",
-      "fetched_at": "2026-07-27T08:42:08+00:00",
-      "summary": "Monetary developments in the euro area: June 2026",
+      "published_at": "2026-07-27T09:00:00+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Euro area economic and financial developments by institutional sector: first quarter of 2026",
       "matched_keywords": [
         "euro area",
         "Macro/Policy"
@@ -1589,48 +2016,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "74d73f9b47a7ca2f7aec"
+      "id": "f116ba2ada1c3cec7cc1"
     },
     {
-      "title": "Bridging boundaries: Sony’s blueprint for Japan-Singapore innovation collaboration",
-      "url": "https://e27.co/bridging-boundaries-sonys-blueprint-for-japan-singapore-innovation-collaboration-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Angreifer können MongoDB abstürzen lassen und Daten manipulieren",
+      "url": "https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-27T07:52:53+00:00",
-      "fetched_at": "2026-07-27T08:42:08+00:00",
-      "summary": "For over a decade, Sony Acceleration Platform has quietly supported more than 1,000 business development cases through Sony’s internal innovation arm. Its newest initiative, the Boundary Spanning Service, extends that experience across borders, connecting Japanese corporations seeking practical innovation partners with Singapore’s fast-moving startup ecosystem. Developed in collaboration with e27, Boundary Spanning…",
+      "published_at": "2026-07-27T08:50:00.000+00:00",
+      "fetched_at": "2026-07-27T10:06:00+00:00",
+      "summary": "Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2d53bccae81295fe1cf2"
-    },
-    {
-      "title": "メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も",
-      "url": "https://www.itmedia.co.jp/news/articles/2607/27/news081.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-27T06:39:16+00:00",
-      "fetched_at": "2026-07-27T08:42:08+00:00",
-      "summary": "今回の発信の背景には、福岡県うきは市の梨農園で起きた大量盗難がある。テレ朝NEWSなどの報道によると、収穫を目前にした品種「幸水」約5000個が7月中旬に盗難に遭い、被害額は約200万円に上るという。同じ農園は前年にも同規模の被害を受けており、農園主は閉園を決めたと伝えられている。 事件がテレビやSNSで広まる...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cdcfa54296712f2a339e"
+      "id": "29e9bd693dfcb767d063"
     }
   ],
   "source_errors": [],

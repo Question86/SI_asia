@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T08:42:36+00:00_
+_Generiert: 2026-07-27T10:06:30+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+38 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-07-27T08:42:36+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in China
+- **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Italy
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104050)
   - Quelle: GDACS
   - Zeit: ``
@@ -70,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider before use: Codex: install Codex CLI and run codex login Claude: install Claude Code and run claude auth login Cursor: install Cursor CLI and run cursor-agent login…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-27T09:19:20+00:00`, fetched `2026-07-27T10:06:00+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How AI and blockchain could make commerce decisions more accountable** — Score 15, observation — [Quelle](https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-27T04:13:52+00:00`, fetched `2026-07-27T04:59:55+00:00`
@@ -79,18 +92,36 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] ffmpeg: Schwachstelle ermöglicht Codeausführung und Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2011)
+- **[UPDATE] [mittel] ImageMagick: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0484)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-27T06:17:53+00:00`, fetched `2026-07-27T07:26:33+00:00`
+  - Zeit: published `2026-07-27T09:19:41+00:00`, fetched `2026-07-27T10:06:00+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder andere nicht näher definierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0443)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-27T09:19:20+00:00`, fetched `2026-07-27T10:06:00+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Tomcat und Tomcat Native ausnutzen, um Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **In China, people are renting out their faces to AI** — Score 13, observation — [Quelle](https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-27T10:00:00+00:00`, fetched `2026-07-27T10:06:00+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Open Source (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CoreBunch/Instatic** — Score 13, observation — [Quelle](https://github.com/CoreBunch/Instatic)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-27T02:26:37+00:00`
@@ -109,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The 27 SEA biotech firms betting on cells, fermentation, and code** — Score 11, observation — [Quelle](https://e27.co/the-27-sea-biotech-firms-betting-on-cells-fermentation-and-code-20260727/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-27T08:49:08+00:00`, fetched `2026-07-27T10:06:00+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
+  - Kurz: Southeast Asia’s startup story is usually told through ride-hailing, fintech, and e-commerce. But a quieter, stranger, and potentially more consequential sector is taking shape in the region’s labs, farms, and hospitals: biotech. Founders are using fermentation to turn waste into biomaterials, growing seafood and fat from cells, building AI tools for cancer care and heart […] The post The 27 SEA biotech firms bettin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-27T06:00:00+00:00`, fetched `2026-07-27T06:13:23+00:00`
@@ -117,6 +157,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Euro area economic and financial developments by institutional sector: first quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-07-27T09:00:00+00:00`, fetched `2026-07-27T10:06:00+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area economic and financial developments by institutional sector: first quarter of 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Monetary developments in the euro area: June 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
@@ -135,15 +184,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Southeast Asia’s fintech apps don’t have a literacy problem, they have a fear problem​** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-27T02:00:37+00:00`, fetched `2026-07-27T02:26:37+00:00`
-  - Treffer: APAC Trend Radar, funding, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
-  - Kurz: For nearly a decade, the pitch behind Southeast Asia’s fintech boom has stayed remarkably consistent: put a bank in everyone’s pocket, simplify the interface, and financial inclusion follows. Billions of dollars in funding, dozens of e-wallets, and a wave of micro-investing apps later, the region has largely delivered on access. Digital payments volume across ASEAN […] The post Southeast Asia’s fintech apps don’t ha…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -190,6 +230,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Opus 5の動作の違いとプロンプティングパターン。応答の冗長性、エージェント的なナレーション、タスクのスコープ設定、サブエージェントへの委任、自己修正、思考が無効な場合の出力アーティファクトについて説明します。 このガイドでは、Claude Opus 5に固有のプロンプティングパターンについて説明します。モ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angreifer können MongoDB abstürzen lassen und Daten manipulieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-27T08:50:00.000+00:00`, fetched `2026-07-27T10:06:00+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/27/news081.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-27T06:39:16+00:00`, fetched `2026-07-27T08:42:08+00:00`
@@ -198,24 +247,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 今回の発信の背景には、福岡県うきは市の梨農園で起きた大量盗難がある。テレ朝NEWSなどの報道によると、収穫を目前にした品種「幸水」約5000個が7月中旬に盗難に遭い、被害額は約200万円に上るという。同じ農園は前年にも同規模の被害を受けており、農園主は閉園を決めたと伝えられている。 事件がテレビやSNSで広まる...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **permissionlesstech/bitchat** — Score 5, observation — [Quelle](https://github.com/permissionlesstech/bitchat)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-27T02:26:37+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: bluetooth mesh chat, IRC vibes bitchat A decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat. bitchat.free 📲 App Store Getting a copy you can trust Install from the App Store, or build from source you have verifie…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **yorukot/superfile** — Score 4, observation — [Quelle](https://github.com/yorukot/superfile)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-27T02:26:37+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote demo, tutorial (x0.45)
-  - Kurz: Pretty fancy and modern terminal file manager superfile is supported by the community. Demo Perform common operations Content Demo Content Installation macOS and Linux Windows Powershell Winget Scoop More installation methods Build For macOS/Linux For Windows Start superfile Supported Systems Tutorial Plugins Themes Hotkeys Notes Troubleshooting Uninstalling macOS and Linux Windows Contributing Thanks Support Core m…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
