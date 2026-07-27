@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-27T03:00:25Z",
+  "generated_at": "2026-07-27T04:27:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 19,
+    "dynamics": 24,
     "bands": {
       "extreme": 1,
       "strong": 3,
-      "watch": 3,
-      "quiet": 12
+      "watch": 4,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 3,
-      "quiet": 12
+      "watch": 4,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 38.04,
+      "age_days": 38.1,
       "topics": [
         "ai"
       ],
@@ -96,7 +96,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.0 for 38.0d old signal",
+        "aging penalty -6.0 for 38.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -106,7 +106,7 @@
       "url": "https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:30:14+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -129,11 +129,36 @@
       "summary": "When we started building our GRC company, the plan looked simple enough: host our platform on a hyperscaler — AWS, GCP, or Azure — wherever made sense operationally, and serve customers globally from a small number of regions. That approach mirrored how the established GRC vendors, most of them US-based, were already…"
     },
     {
+      "title": "M 5.0 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-27T03:37:25.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-27 03:12:04 UTC 2026-07-27 03:12:04 UTC at epicenter Location 24.438°S 175.090°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - south of Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:57:40.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -158,7 +183,7 @@
       "url": "https://github.com/pingdotgg/t3code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -184,7 +209,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:22:56.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -208,7 +233,7 @@
       "url": "https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:00:37+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -232,7 +257,7 @@
       "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T16:21:26+00:00",
-      "age_days": 0.44,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -256,7 +281,7 @@
       "url": "https://qiita.com/NekoByte/items/efa81aaa8a61d3478568",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T11:30:20+00:00",
-      "age_days": 0.65,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -276,11 +301,61 @@
       "summary": "「もう一度同じ作業をやり直し...」と画面を眺めながら、あの時は本当に何度もエラーに悩まされました。Gitのコミットログをたどるたびに「これ、毎回手で打つの大変だよな」と感じていた私が、ついにCLIツールに出会った瞬間、開発のスピードが劇的に変わったのを感じました。もし同じように「何か上手くいくツールがな..."
     },
     {
+      "title": "Indonesia’s AI hiring gap is real, just not 28×",
+      "url": "https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-27T03:00:38+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: remote",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The p…"
+    },
+    {
+      "title": "How Singapore SMEs should choose a payment provider: A practical checklist",
+      "url": "https://e27.co/how-singapore-smes-should-choose-a-payment-provider-a-practical-checklist-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-27T02:45:38+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Every Singapore SME eventually hits the same wall. The online store runs on one payment gateway, the physical counter runs on a terminal from a different provider, money arrives in a business account at a third company, and at the end of the month someone has to make all three sets of reports agree with […] The post H…"
+    },
+    {
       "title": "The 3Cs+1 framework: Navigating geopolitical fragmentation as a founder",
       "url": "https://e27.co/the-3cs1-framework-navigating-geopolitical-fragmentation-as-a-founder-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:15:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -304,7 +379,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-26T22:25:38+00:00",
-      "age_days": 0.19,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -328,7 +403,7 @@
       "url": "https://e27.co/the-evolution-of-trust-from-early-adoption-to-institutional-maturity-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:15:40+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -352,7 +427,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.01,
+      "age_days": 37.07,
       "topics": [
         "general"
       ],
@@ -368,7 +443,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 37.0d old signal"
+        "aging penalty -16.0 for 37.1d old signal"
       ],
       "summary": ""
     },
@@ -377,7 +452,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.01,
+      "age_days": 37.07,
       "topics": [
         "general"
       ],
@@ -393,7 +468,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 37.0d old signal"
+        "aging penalty -16.0 for 37.1d old signal"
       ],
       "summary": ""
     },
@@ -402,7 +477,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.01,
+      "age_days": 37.07,
       "topics": [
         "ai"
       ],
@@ -419,17 +494,68 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 37.0d old signal",
+        "aging penalty -16.0 for 37.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "The barrier to AI adoption was never budget, it was knowing where to start",
+      "url": "https://e27.co/the-enterprise-ai-adoption-paradox-why-southeast-asian-companies-are-accelerating-digital-transformation-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-27T02:30:24+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For years, businesses have talked about digital transformation as if it were something only large corporations could afford. Today, that is no longer true. One conversation that keeps coming up with business owners and leaders is artificial intelligence. Almost everyone agrees that AI has the potential to change how b…"
+    },
+    {
+      "title": "GoogleのAI要約が検索よりマシに見えるのはなぜか（ただし、どちらもクソ） » p2ptk[.]org",
+      "url": "https://p2ptk.org/ai/5638",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-26T18:39:17+00:00",
+      "age_days": 0.41,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "以下の文章は、コリイ・ドクトロウの「Gemini is better than search because Google enshittified search」という記事を翻訳したものである。 Pluralistic AI批判本を書くと、あらゆる人がAIにまつわる自分の罪を告白しにやってきて懺悔の相手役に仕立て上げられてしまう。私の周りの人々は、説明か赦免か断罪を求めて..."
     },
     {
       "title": "Claude Opus 5のプロンプティング",
       "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-opus-5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-25T20:50:13+00:00",
-      "age_days": 1.26,
+      "age_days": 1.32,
       "topics": [
         "ai"
       ],
@@ -454,7 +580,7 @@
       "url": "https://e27.co/how-do-you-finance-a-first-nuclear-reactor-for-a-data-centre-the-deal-structure-is-finally-coming-together-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:45:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -479,7 +605,7 @@
       "url": "https://github.com/yorukot/superfile",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
