@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T03:44:59+00:00_
+_Generiert: 2026-07-27T05:00:29+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+24 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -62,6 +62,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider before use: Codex: install Codex CLI and run codex login Claude: install Claude Code and run claude auth login Cursor: install Cursor CLI and run cursor-agent login…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How AI and blockchain could make commerce decisions more accountable** — Score 15, observation — [Quelle](https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-27T04:13:52+00:00`, fetched `2026-07-27T04:59:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -73,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun server — and the pages it ships are clean enough to read in view-source. One-Click Deploy · Quick Star…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups** — Score 12, observation — [Quelle](https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-27T04:53:20+00:00`, fetched `2026-07-27T04:59:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Indonesia’s AI hiring gap is real, just not 28×** — Score 10, observation — [Quelle](https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -92,15 +110,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: For nearly a decade, the pitch behind Southeast Asia’s fintech boom has stayed remarkably consistent: put a bank in everyone’s pocket, simplify the interface, and financial inclusion follows. Billions of dollars in funding, dozens of e-wallets, and a wave of micro-investing apps later, the region has largely delivered on access. Digital payments volume across ASEAN […] The post Southeast Asia’s fintech apps don’t ha…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Southeast Asia’s regulatory patchwork demands a local-first approach** — Score 10, opportunity — [Quelle](https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-27T01:30:14+00:00`, fetched `2026-07-27T01:32:55+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: When we started building our GRC company, the plan looked simple enough: host our platform on a hyperscaler — AWS, GCP, or Azure — wherever made sense operationally, and serve customers globally from a small number of regions. That approach mirrored how the established GRC vendors, most of them US-based, were already running their infrastructure, […] The post Why Southeast Asia’s regulatory patchwork demands a local…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.0 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-27T03:37:25.040+00:00`, fetched `2026-07-27T03:44:30+00:00`

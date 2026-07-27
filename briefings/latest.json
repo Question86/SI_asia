@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T03:44:59+00:00",
-  "run_id": "2026-07-27T03:44:59+00:00",
+  "generated_at": "2026-07-27T05:00:29+00:00",
+  "run_id": "2026-07-27T05:00:29+00:00",
   "date": "2026-07-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 4,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 1,
-    "observe": 19,
+    "medium": 2,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -75,6 +75,43 @@
           "PINS"
         ],
         "id": "07ddfffa096f9a6c1bf2"
+      },
+      {
+        "title": "How AI and blockchain could make commerce decisions more accountable",
+        "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-27T04:13:52+00:00",
+        "fetched_at": "2026-07-27T04:59:55+00:00",
+        "summary": "Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia",
+          "Watchgraph:agriculture_food_fertilizer"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "agriculture_food_fertilizer"
+        ],
+        "watchgraph_reasons": [
+          "agriculture_food_fertilizer: corn"
+        ],
+        "market_context": [
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "id": "34a64e6634e96a74e2c5"
       }
     ],
     "observe": [
@@ -100,6 +137,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8842e3eaba357eee95e8"
+      },
+      {
+        "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
+        "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-27T04:53:20+00:00",
+        "fetched_at": "2026-07-27T04:59:55+00:00",
+        "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a896594bfd526691e1d2"
       },
       {
         "title": "Indonesia’s AI hiring gap is real, just not 28×",
@@ -446,6 +505,27 @@
         "id": "6ce26ee4c9d873a2ff3c"
       },
       {
+        "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
+        "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-26T21:56:15+00:00",
+        "fetched_at": "2026-07-27T04:59:55+00:00",
+        "summary": "最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。 コードレビューをしていません。 場合によっては、動作確認もしていません。 こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。 でも、事故っていな...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "92e02a4dc42cd49e9c60"
+      },
+      {
         "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道 - Qiita",
         "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb",
         "source": "Hatena Bookmark Hotentry IT",
@@ -507,6 +587,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c6c285033e072aba364c"
+      },
+      {
+        "title": "Is Ether quietly stealing Bitcoin’s throne as the institutional favorite?",
+        "url": "https://e27.co/is-ether-quietly-stealing-bitcoins-throne-as-the-institutional-favorite-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-27T04:56:30+00:00",
+        "fetched_at": "2026-07-27T04:59:55+00:00",
+        "summary": "Something feels off about last week in the world of crypto exchange-traded funds, and I think we need to talk about it honestly. US spot bitcoin ETFs recorded roughly US$8.05 billion in trading volume across the five sessions ending Friday. That marks their lowest total for a full trading week since October 2024. Let that […] The post Is Ether quietly stealing Bitcoin’s throne as the institutional favorite? appeared…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "646d9c14988a9405b49f"
       },
       {
         "title": "The evolution of trust: From early adoption to institutional maturity",
@@ -601,6 +701,43 @@
       "id": "07ddfffa096f9a6c1bf2"
     },
     {
+      "title": "How AI and blockchain could make commerce decisions more accountable",
+      "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T04:13:52+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "34a64e6634e96a74e2c5"
+    },
+    {
       "title": "CoreBunch/Instatic",
       "url": "https://github.com/CoreBunch/Instatic",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -622,6 +759,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "8842e3eaba357eee95e8"
+    },
+    {
+      "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
+      "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T04:53:20+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a896594bfd526691e1d2"
     },
     {
       "title": "Indonesia’s AI hiring gap is real, just not 28×",
@@ -968,6 +1127,27 @@
       "id": "6ce26ee4c9d873a2ff3c"
     },
     {
+      "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
+      "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T21:56:15+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。 コードレビューをしていません。 場合によっては、動作確認もしていません。 こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。 でも、事故っていな...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "92e02a4dc42cd49e9c60"
+    },
+    {
       "title": "自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道 - Qiita",
       "url": "https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1031,6 +1211,26 @@
       "id": "c6c285033e072aba364c"
     },
     {
+      "title": "Is Ether quietly stealing Bitcoin’s throne as the institutional favorite?",
+      "url": "https://e27.co/is-ether-quietly-stealing-bitcoins-throne-as-the-institutional-favorite-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-27T04:56:30+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "Something feels off about last week in the world of crypto exchange-traded funds, and I think we need to talk about it honestly. US spot bitcoin ETFs recorded roughly US$8.05 billion in trading volume across the five sessions ending Friday. That marks their lowest total for a full trading week since October 2024. Let that […] The post Is Ether quietly stealing Bitcoin’s throne as the institutional favorite? appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "646d9c14988a9405b49f"
+    },
+    {
       "title": "The evolution of trust: From early adoption to institutional maturity",
       "url": "https://e27.co/the-evolution-of-trust-from-early-adoption-to-institutional-maturity-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1075,124 +1275,104 @@
   ],
   "new_findings": [
     {
-      "title": "Indonesia’s AI hiring gap is real, just not 28×",
-      "url": "https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/",
+      "title": "How AI and blockchain could make commerce decisions more accountable",
+      "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-27T03:00:38+00:00",
-      "fetched_at": "2026-07-27T03:44:30+00:00",
-      "summary": "A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .",
+      "published_at": "2026-07-27T04:13:52+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "Southeast Asian (SEA) companies have spent the past two years testing AI in almost every corner of commerce, from product descriptions and customer service to pricing, media buying and demand forecasting. Yet many pilots still sit outside the systems that actually run the business. The result is a familiar gap: AI can generate answers, but […] The post How AI and blockchain could make commerce decisions more account…",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Southeast Asia",
+        "Watchgraph:agriculture_food_fertilizer"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5e0e212e7a26b986bd7c"
-    },
-    {
-      "title": "M 5.0 - south of Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-27T03:37:25.040+00:00",
-      "fetched_at": "2026-07-27T03:44:30+00:00",
-      "summary": "Time 2026-07-27 03:12:04 UTC 2026-07-27 03:12:04 UTC at epicenter Location 24.438°S 175.090°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "agriculture_food_fertilizer"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "agriculture_food_fertilizer: corn"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
       ],
-      "id": "69690f6c9bbee380a2d9"
+      "id": "34a64e6634e96a74e2c5"
     },
     {
-      "title": "The barrier to AI adoption was never budget, it was knowing where to start",
-      "url": "https://e27.co/the-enterprise-ai-adoption-paradox-why-southeast-asian-companies-are-accelerating-digital-transformation-20260726/",
+      "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
+      "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-27T02:30:24+00:00",
-      "fetched_at": "2026-07-27T03:44:30+00:00",
-      "summary": "For years, businesses have talked about digital transformation as if it were something only large corporations could afford. Today, that is no longer true. One conversation that keeps coming up with business owners and leaders is artificial intelligence. Almost everyone agrees that AI has the potential to change how businesses operate. The difference is that […] The post The barrier to AI adoption was never budget,…",
+      "published_at": "2026-07-27T04:53:20+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar across Southeast Asia: promising research often struggles to leave […] The post Sunwah Innovations, Br…",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Southeast Asia"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "27d54de2ef8292bf6168"
+      "id": "a896594bfd526691e1d2"
     },
     {
-      "title": "GoogleのAI要約が検索よりマシに見えるのはなぜか（ただし、どちらもクソ） » p2ptk[.]org",
-      "url": "https://p2ptk.org/ai/5638",
+      "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
+      "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-26T18:39:17+00:00",
-      "fetched_at": "2026-07-27T03:44:30+00:00",
-      "summary": "以下の文章は、コリイ・ドクトロウの「Gemini is better than search because Google enshittified search」という記事を翻訳したものである。 Pluralistic AI批判本を書くと、あらゆる人がAIにまつわる自分の罪を告白しにやってきて懺悔の相手役に仕立て上げられてしまう。私の周りの人々は、説明か赦免か断罪を求めて...",
+      "published_at": "2026-07-26T21:56:15+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。 コードレビューをしていません。 場合によっては、動作確認もしていません。 こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。 でも、事故っていな...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "88251619b74da2d5754e"
+      "id": "92e02a4dc42cd49e9c60"
     },
     {
-      "title": "How Singapore SMEs should choose a payment provider: A practical checklist",
-      "url": "https://e27.co/how-singapore-smes-should-choose-a-payment-provider-a-practical-checklist-20260726/",
+      "title": "Is Ether quietly stealing Bitcoin’s throne as the institutional favorite?",
+      "url": "https://e27.co/is-ether-quietly-stealing-bitcoins-throne-as-the-institutional-favorite-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-27T02:45:38+00:00",
-      "fetched_at": "2026-07-27T03:44:30+00:00",
-      "summary": "Every Singapore SME eventually hits the same wall. The online store runs on one payment gateway, the physical counter runs on a terminal from a different provider, money arrives in a business account at a third company, and at the end of the month someone has to make all three sets of reports agree with […] The post How Singapore SMEs should choose a payment provider: A practical checklist appeared first on e27 .",
+      "published_at": "2026-07-27T04:56:30+00:00",
+      "fetched_at": "2026-07-27T04:59:55+00:00",
+      "summary": "Something feels off about last week in the world of crypto exchange-traded funds, and I think we need to talk about it honestly. US spot bitcoin ETFs recorded roughly US$8.05 billion in trading volume across the five sessions ending Friday. That marks their lowest total for a full trading week since October 2024. Let that […] The post Is Ether quietly stealing Bitcoin’s throne as the institutional favorite? appeared…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5aabfda77f5320ae3c85"
+      "id": "646d9c14988a9405b49f"
     }
   ],
   "source_errors": [],
