@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T17:29:47+00:00_
+_Generiert: 2026-07-27T18:05:13+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
+63 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2025-68686 Fortinet FortiOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-27`
+  - Kurz: Known exploited vulnerability. Added 2026-07-27. Due 2026-08-10. Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability
 - **CISA KEV: CVE-2026-16232 Check Point SmartConsole** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
@@ -25,10 +29,6 @@ _Generiert: 2026-07-27T17:29:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. WordPress Core Interpretation Conflict Vulnerability
-- **CISA KEV: CVE-2026-0770 Langflow Langflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-21`
-  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
 - **GDACS: Green flood alert in China** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104051)
   - Quelle: GDACS
   - Zeit: ``
