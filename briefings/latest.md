@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T19:10:00+00:00_
+_Generiert: 2026-07-27T19:48:17+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
+67 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -13,6 +13,10 @@ _Generiert: 2026-07-27T19:10:00+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-27`
   - Kurz: Known exploited vulnerability. Added 2026-07-27. Due 2026-08-10. Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability
+- **CISA KEV: CVE-2026-16812 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-07-27`
+  - Kurz: Known exploited vulnerability. Added 2026-07-27. Due 2026-07-30. Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability
 - **CISA KEV: CVE-2026-16232 Check Point SmartConsole** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
@@ -25,10 +29,6 @@ _Generiert: 2026-07-27T19:10:00+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability
-- **CISA KEV: CVE-2026-63030 WordPress Core** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-21`
-  - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. WordPress Core Interpretation Conflict Vulnerability
 - **GDACS: Green flood alert in China** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104051)
   - Quelle: GDACS
   - Zeit: ``
@@ -106,6 +106,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - Bonin Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg6e)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-27T19:44:25.040+00:00`, fetched `2026-07-27T19:47:46+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-27 19:03:38 UTC 2026-07-27 19:03:38 UTC at epicenter Location 28.122°N 139.894°E Depth 426.77 km (265.18 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How AI and blockchain could make commerce decisions more accountable** — Score 15, observation — [Quelle](https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-27T04:13:52+00:00`, fetched `2026-07-27T04:59:55+00:00`
@@ -258,6 +267,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

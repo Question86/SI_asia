@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:10:03+00:00",
+  "generated_at": "2026-07-27T19:48:21+00:00",
   "sections": {
     "global_security": [
       {
@@ -12,6 +12,18 @@
         "published_at": "2026-07-27",
         "metrics": {
           "cve": "CVE-2025-68686"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-16812 Arista VeloCloud Orchestrator",
+        "summary": "Known exploited vulnerability. Added 2026-07-27. Due 2026-07-30. Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-07-27",
+        "metrics": {
+          "cve": "CVE-2026-16812"
         }
       },
       {
@@ -48,18 +60,6 @@
         "published_at": "2026-07-21",
         "metrics": {
           "cve": "CVE-2026-60137"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-63030 WordPress Core",
-        "summary": "Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. WordPress Core Interpretation Conflict Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-21",
-        "metrics": {
-          "cve": "CVE-2026-63030"
         }
       },
       {
