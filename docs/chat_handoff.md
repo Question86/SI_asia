@@ -1,25 +1,39 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T00:57:03+00:00_
+_Generated: 2026-07-27T01:33:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `7`
 
 ## Top Signals
 
-### 1. 自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道 - Qiita
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-07-26T16:21:26+00:00`
-- url: https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb
-- summary: TL;DR 2015年の日本年金機構事案を契機とする自治体の「三層の対策（三層分離）」は、制度化から約10年を迎えた LGWAN接続系から安全にWebを閲覧する「インターネット分離」の実現方式は、実行場所 × 分離粒度 × 転送方式 の3軸で4類型に整理できる（本稿独自の便宜的整理） 分離の成否を実運用で分けたのは方式そのもの...
+### 1. Why Southeast Asia’s regulatory patchwork demands a local-first approach
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-07-27T01:30:14+00:00`
+- url: https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/
+- summary: When we started building our GRC company, the plan looked simple enough: host our platform on a hyperscaler — AWS, GCP, or Azure — wherever made sense operationally, and serve customers globally from a small number of regions. That approach mirrored how the e…
 
-### 2. 開発効率が上がったCLIツール・コマンド10選 - Qiita
+### 2. M 4.6 - 68 km S of Hihifo, Tonga
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-07-27T01:22:56.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kd
+- summary: Time 2026-07-27 01:05:37 UTC 2026-07-27 01:05:37 UTC at epicenter Location 16.563°S 173.917°W Depth 80.47 km (50.00 mi)
+
+### 3. Claude Opus 5のプロンプティング
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-07-25T20:50:13+00:00`
+- url: https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-opus-5
+- summary: Claude Opus 5の動作の違いとプロンプティングパターン。応答の冗長性、エージェント的なナレーション、タスクのスコープ設定、サブエージェントへの委任、自己修正、思考が無効な場合の出力アーティファクトについて説明します。 このガイドでは、Claude Opus 5に固有のプロンプティングパターンについて説明します。モ...
+
+### 4. 【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-07-26T11:30:20+00:00`
-- url: https://qiita.com/NekoByte/items/efa81aaa8a61d3478568
-- summary: 「もう一度同じ作業をやり直し...」と画面を眺めながら、あの時は本当に何度もエラーに悩まされました。Gitのコミットログをたどるたびに「これ、毎回手で打つの大変だよな」と感じていた私が、ついにCLIツールに出会った瞬間、開発のスピードが劇的に変わったのを感じました。もし同じように「何か上手くいくツールがな...
+- published: `2026-07-26T22:25:38+00:00`
+- url: https://pc.watch.impress.co.jp/docs/topic/feature/2127882.html
+- summary: 【特集】 もはや待っても安くならない？PC値上げ本格化、平均単価は14万円に
 
 END OF DOCUMENT
