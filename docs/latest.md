@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T21:19:24+00:00_
+_Generiert: 2026-07-27T21:45:08+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
+71 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Claude Code Actionで使うSkillを、リポジトリにコミットせずgh skill installで実行時に入れる - $shibayu36->blog;** — Score 13, observation — [Quelle](https://blog.shibayu36.org/entry/2026/07/27/163000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-27T14:02:17+00:00`, fetched `2026-07-27T21:44:36+00:00`
+  - Treffer: AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: GitHubでPull Requestを作った瞬間に、Claude Code Actionを使って最低限セキュリティレビューをさせる仕組みを導入したいことがあった。またこの仕組みは特定リポジトリだけでなく、他のリポジトリにも簡単に展開していきたいと考えていた。 このときどうやって他リポジトリに展開しやすくしておくか悩んだが、Skillを...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **In China, people are renting out their faces to AI** — Score 13, observation — [Quelle](https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-27T10:00:00+00:00`, fetched `2026-07-27T10:06:00+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Monetary developments in the euro area: June 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Indonesia’s AI hiring gap is real, just not 28×** — Score 10, observation — [Quelle](https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-27T03:00:38+00:00`, fetched `2026-07-27T03:44:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
