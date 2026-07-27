@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T07:27:01+00:00_
+_Generiert: 2026-07-27T08:42:36+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+31 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,18 @@ _Generiert: 2026-07-27T07:27:01+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-07-24. Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability
-- **GDACS: Green notification for tropical cyclone TWELVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297)
+- **GDACS: Green flood alert in China** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104051)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone TWELVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green flood alert in China
+- **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104050)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in France
+- **GDACS: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143)
   - Quelle: GDACS
   - Zeit: ``
@@ -110,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary developments in the euro area: June 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-07-27T08:00:00+00:00`, fetched `2026-07-27T08:42:08+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary developments in the euro area: June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Indonesia’s AI hiring gap is real, just not 28×** — Score 10, observation — [Quelle](https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-27T03:00:38+00:00`, fetched `2026-07-27T03:44:30+00:00`
@@ -173,14 +190,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Opus 5の動作の違いとプロンプティングパターン。応答の冗長性、エージェント的なナレーション、タスクのスコープ設定、サブエージェントへの委任、自己修正、思考が無効な場合の出力アーティファクトについて説明します。 このガイドでは、Claude Opus 5に固有のプロンプティングパターンについて説明します。モ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/series/dal/2127950.html)
+- **メルカリ、梨の転売疑惑に「盗品の出品は確認されず」 誹謗中傷には利用制限も** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/articles/2607/27/news081.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-27T00:05:43+00:00`, fetched `2026-07-27T07:26:33+00:00`
+  - Zeit: published `2026-07-27T06:39:16+00:00`, fetched `2026-07-27T08:42:08+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ウィンドウズが「ASIO」標準対応になる件。裏事情をヤマハに聞いてみた【藤本健のDigital Audio Laboratory】
+  - Kurz: 今回の発信の背景には、福岡県うきは市の梨農園で起きた大量盗難がある。テレ朝NEWSなどの報道によると、収穫を目前にした品種「幸水」約5000個が7月中旬に盗難に遭い、被害額は約200万円に上るという。同じ農園は前年にも同規模の被害を受けており、農園主は閉園を決めたと伝えられている。 事件がテレビやSNSで広まる...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **permissionlesstech/bitchat** — Score 5, observation — [Quelle](https://github.com/permissionlesstech/bitchat)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

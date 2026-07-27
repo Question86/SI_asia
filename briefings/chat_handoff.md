@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T07:27:01+00:00_
+_Generated: 2026-07-27T08:42:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `31`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-07-27T07:27:01+00:00_
 - url: https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c
 - summary: アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました
 
-### 7. Indonesia’s AI hiring gap is real, just not 28×
-- source: e27 Asia Startup and Tech Feed
+### 7. Monetary developments in the euro area: June 2026
+- source: ECB Statistical Press Releases
 - score: `10`
-- published: `2026-07-27T03:00:38+00:00`
-- url: https://e27.co/indonesias-ai-hiring-gap-is-real-just-not-28x-20260726/
-- summary: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t…
+- published: `2026-07-27T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/md/html/ecb.md2606~5ad5ef1f2a.en.html
+- summary: Monetary developments in the euro area: June 2026
 
 END OF DOCUMENT

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:27:03+00:00",
+  "generated_at": "2026-07-27T08:42:39+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,9 +64,29 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in China",
+        "summary": "Green flood alert in China",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104051",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in France",
+        "summary": "Green flood alert in France",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104050",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone TWELVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone TWELVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "title": "GDACS: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297",
         "published_at": "",
