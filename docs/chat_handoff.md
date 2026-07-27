@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T12:29:15+00:00_
+_Generated: 2026-07-27T13:29:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `54`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-07-27T12:29:15+00:00_
 - url: https://restofworld.org/2026/china-ai-microdramas-face-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.
 
-### 6. CoreBunch/Instatic
+### 6. Multiples vulnérabilités dans Microsoft Edge (20 juillet 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-07-20T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0903/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un problème de sécurité non spécifié par l'éditeur.
+
+### 7. CoreBunch/Instatic
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/CoreBunch/Instatic
 - summary: The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual…
 
-### 7. Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups
+### 8. Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-27T04:53:20+00:00`
 - url: https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/
 - summary: Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Y…
-
-### 8. M 4.6 - 61 km E of La Tirana, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-27T11:12:14.609+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3mh
-- summary: DYFI? - III Time 2026-07-27 10:24:53 UTC 2026-07-27 10:24:53 UTC at epicenter Location 20.244°S 69.077°W Depth 105.24 km (65.39 mi)
 
 END OF DOCUMENT

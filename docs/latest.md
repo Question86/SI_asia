@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T12:29:15+00:00_
+_Generiert: 2026-07-27T13:29:32+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+54 neue relevante Treffer. Stärkstes Signal: „pingdotgg/t3code“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Open Source (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: New platforms are paying people to license their likeness for AI-generated dramas and ads, creating a new marketplace for biometric identity.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Edge (20 juillet 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0903/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-20T00:00:00+00:00`, fetched `2026-07-27T13:29:01+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CoreBunch/Instatic** — Score 13, observation — [Quelle](https://github.com/CoreBunch/Instatic)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-27T02:26:37+00:00`
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
   - Kurz: New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Windows (17 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0895/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-17T00:00:00+00:00`, fetched `2026-07-27T13:29:01+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Euro area economic and financial developments by institutional sector: first quarter of 2026** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/stats/ffi/html/ecb.eaefd_full2026q1~ec756b7b1a.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-07-27T09:00:00+00:00`, fetched `2026-07-27T10:06:00+00:00`
@@ -150,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: A few weeks ago, I published a number: Indonesia’s IT job listings mention AI in the title 28 times less often than global remote listings do. It got shared, it got quoted, and it was wrong. When readers pushed on the methodology, a provenance audit couldn’t trace the figure back to any archived dataset, and […] The post Indonesia’s AI hiring gap is real, just not 28× appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Mattermost Server (20 juillet 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0902/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-20T00:00:00+00:00`, fetched `2026-07-27T13:29:01+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 120 km E of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ng)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-27T12:16:39.040+00:00`, fetched `2026-07-27T12:28:44+00:00`
@@ -168,33 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-27 03:12:04 UTC 2026-07-27 03:12:04 UTC at epicenter Location 24.438°S 175.090°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GoogleのAI要約が検索よりマシに見えるのはなぜか（ただし、どちらもクソ） » p2ptk[.]org** — Score 8, observation — [Quelle](https://p2ptk.org/ai/5638)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-26T18:39:17+00:00`, fetched `2026-07-27T03:44:30+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 以下の文章は、コリイ・ドクトロウの「Gemini is better than search because Google enshittified search」という記事を翻訳したものである。 Pluralistic AI批判本を書くと、あらゆる人がAIにまつわる自分の罪を告白しにやってきて懺悔の相手役に仕立て上げられてしまう。私の周りの人々は、説明か赦免か断罪を求めて...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude Opus 5のプロンプティング** — Score 8, observation — [Quelle](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-opus-5)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-25T20:50:13+00:00`, fetched `2026-07-27T01:32:55+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Claude Opus 5の動作の違いとプロンプティングパターン。応答の冗長性、エージェント的なナレーション、タスクのスコープ設定、サブエージェントへの委任、自己修正、思考が無効な場合の出力アーティファクトについて説明します。 このガイドでは、Claude Opus 5に固有のプロンプティングパターンについて説明します。モ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angreifer können MongoDB abstürzen lassen und Daten manipulieren** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-27T08:50:00.000+00:00`, fetched `2026-07-27T10:06:00+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
