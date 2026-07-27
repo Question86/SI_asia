@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-27T23:00:49+00:00_
+_Generiert: 2026-07-27T23:28:34+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
+76 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot app for Beginners: Getting started“ aus GitHub Blog Atom (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
