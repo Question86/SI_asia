@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-27T15:23:16+00:00_
+_Generated: 2026-07-27T16:12:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `62`
 
 ## Top Signals
 
-### 1. pingdotgg/t3code
+### 1. GitHub Copilot app for Beginners: Getting started
+- source: GitHub Blog Atom
+- score: `22`
+- published: `2026-07-27T16:00:00+00:00`
+- url: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/
+- summary: New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .
+
+### 2. pingdotgg/t3code
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/pingdotgg/t3code
 - summary: T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). Installation Warning T3 Code currently supports Codex, Claude, Cursor, and OpenCode. Install and authenticate at least one provider befor…
 
-### 2. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 3. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-27T11:17:53+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2527
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, dazu können DoS-Angriffe, die Offenlegung von Informationen, die Beschädigung des Speichers oder die Umgehung von Sicherheitsmaßnahmen ge…
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-27T10:57:54+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0683
 - summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial-of-Service auszulösen und um nicht näher spezifizierte Auswirkungen zu erzielen.
-
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-27T09:19:20+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0462
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
 ### 5. In China, people are renting out their faces to AI
 - source: Rest of World Global Tech Feed
