@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-27T05:47:57Z",
+  "generated_at": "2026-07-27T07:02:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “permissionlesstech/bitchat” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T04:53:20+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -93,11 +93,37 @@
       "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar ac…"
     },
     {
+      "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-27T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 38.16,
+      "age_days": 38.21,
       "topics": [
         "ai"
       ],
@@ -126,7 +152,7 @@
       "url": "https://e27.co/how-ai-and-blockchain-could-make-commerce-decisions-more-accountable-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T04:13:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -154,7 +180,7 @@
       "url": "https://e27.co/why-southeast-asias-regulatory-patchwork-demands-a-local-first-approach-20260723/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T01:30:14+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -181,7 +207,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T03:37:25.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -206,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:57:40.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -231,7 +257,7 @@
       "url": "https://github.com/pingdotgg/t3code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-27T02:26:37+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -257,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-27T01:22:56.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -281,7 +307,7 @@
       "url": "https://e27.co/southeast-asias-fintech-apps-dont-have-a-literacy-problem-they-have-a-fear-problem-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-27T02:00:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -299,30 +325,6 @@
         "no strong comparative reason"
       ],
       "summary": "For nearly a decade, the pitch behind Southeast Asia’s fintech boom has stayed remarkably consistent: put a bank in everyone’s pocket, simplify the interface, and financial inclusion follows. Billions of dollars in funding, dozens of e-wallets, and a wave of micro-investing apps later, the region has largely delivered…"
-    },
-    {
-      "title": "1日500コミットは、もう読めない ── だからコードレビューをやめた",
-      "url": "https://zenn.dev/singularity/articles/stopped-reviewing-my-code",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-26T21:56:15+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code"
-      ],
-      "summary": "最近、マージボタンを押すとき、僕はその diff を読んでいないことのほうが多くなりました。 コードレビューをしていません。 場合によっては、動作確認もしていません。 こう書くと無責任に聞こえると思います。実際、少し前の僕がこれを読んだら「そんなの事故るに決まってる」と言ったはずです。 でも、事故っていな..."
     }
   ],
   "read_order": [
@@ -334,9 +336,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 7,
       "watch": 4,
-      "quiet": 2
+      "quiet": 1
     }
   }
 }

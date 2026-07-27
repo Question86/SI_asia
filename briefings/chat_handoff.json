@@ -80,5 +80,148 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CoreBunch/Instatic” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=38.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CoreBunch/Instatic",
+        "url": "https://github.com/CoreBunch/Instatic",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-07-27T02:26:37+00:00",
+        "age_days": 0.19,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 38.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. Instatic Own your site. Love building it. A self-hosted CMS where the visual editor, content engine, and publisher all live in one Bun se…"
+      },
+      {
+        "title": "Sunwah Innovations, Brinc launch Vietnam JV to turn university research into startups",
+        "url": "https://e27.co/sunwah-innovations-brinc-launch-vietnam-jv-to-turn-university-research-into-startups-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-27T04:53:20+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: shortage",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Vietnam’s startup ecosystem has no shortage of ambition. Its universities are producing research in fields such as AI, software, advanced manufacturing, and green technologies, while corporates are under pressure to modernise and find new sources of growth. Yet one of the country’s persistent challenges is familiar ac…"
+      },
+      {
+        "title": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました",
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource/agile-review-meeting/ec225afa-a029-418c-ad81-20989f61868c",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-07-27T06:00:00+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "アジャイル開発に関する有識者検討会（第8回）の会議資料等を掲載しました"
+      },
+      {
+        "title": "permissionlesstech/bitchat",
+        "url": "https://github.com/permissionlesstech/bitchat",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-07-27T02:26:37+00:00",
+        "age_days": 0.19,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 25.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "bluetooth mesh chat, IRC vibes bitchat A decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat. bitchat.free 📲 App…"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 38.21,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -6.0 for 38.2d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
