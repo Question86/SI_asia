@@ -110,5 +110,149 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Disrupting supply chain attacks on npm and GitHub Actions” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=57.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-07-28T16:00:00+00:00",
+        "age_days": 0.25,
+        "topics": [
+          "axiom",
+          "ai",
+          "security",
+          "infra"
+        ],
+        "dynamics_score": 57.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: supply, chain",
+          "high terms: 10",
+          "security high-signal: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog ."
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:53+00:00",
+        "age_days": 0.44,
+        "topics": [
+          "axiom",
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 47.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, code",
+          "security high-signal: angriffe, code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder beliebigen Code auszuführen."
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:52:56+00:00",
+        "age_days": 0.43,
+        "topics": [
+          "axiom",
+          "security"
+        ],
+        "dynamics_score": 41.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft .NET Framework und Microsoft .NET ausnutzen, um beliebigen Programmcode auszuführen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzule…"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:52:56+00:00",
+        "age_days": 0.43,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand zu verursachen."
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:53+00:00",
+        "age_days": 0.44,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in den cifs-utils von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
+      }
+    ]
+  }
 }
