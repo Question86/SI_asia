@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T16:48:20+00:00_
+_Generiert: 2026-07-28T17:19:46+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+90 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
 
 ## Priorität Hoch
 
@@ -64,6 +64,15 @@ _Generiert: 2026-07-28T16:48:20+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
   - Kurz: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Scientific computing in the age of agentic AI** — Score 17, observation — [Quelle](https://openai.com/index/scientific-computing-agentic-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-28T17:00:00+00:00`, fetched `2026-07-28T17:19:17+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)
+  - Kurz: A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -295,7 +304,3 @@ _Generiert: 2026-07-28T16:48:20+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
