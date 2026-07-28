@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T05:33:44+00:00",
+  "generated_at": "2026-07-28T06:26:31+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,8 +85,18 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554532",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554518",
         "published_at": "",
@@ -135,15 +145,15 @@
       {
         "domain": "security",
         "severity": "watch",
-        "title": "USGS earthquake M5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
-        "summary": "M5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia. PAGER alert: green. Tsunami flag: 0.",
+        "title": "USGS earthquake M5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
+        "summary": "M5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
-        "published_at": "2026-07-28T04:42:18+00:00",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
+        "published_at": "2026-07-28T05:35:18+00:00",
         "metrics": {
-          "mag": 5.7,
+          "mag": 5.9,
           "alert": "green",
-          "sig": 500.0,
+          "sig": 540.0,
           "tsunami": 0
         }
       },
@@ -157,21 +167,6 @@
         "published_at": "2026-07-28T03:34:05+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "yellow",
-          "sig": 650.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China",
-        "summary": "M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6",
-        "published_at": "2026-07-28T03:16:08+00:00",
-        "metrics": {
-          "mag": 5.7,
           "alert": "yellow",
           "sig": 650.0,
           "tsunami": 0

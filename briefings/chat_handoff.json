@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-28T05:33:41+00:00",
+  "generated_at": "2026-07-28T06:26:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 8,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 8,
-    "observe": 19
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,26 @@
       "section": "medium"
     },
     {
+      "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:24:03.524+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "M 5.4 - 110 km SSE of Akureyri, Iceland",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:12:20.792+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw",
+      "summary": "PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -73,26 +93,6 @@
       "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
       "summary": "Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through…",
       "section": "observe"
-    },
-    {
-      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-05-12T14:00:00+09:00",
-      "relevance_score": 13,
-      "url": "https://jvn.jp/jp/JVN03037325/",
-      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。",
-      "section": "observe"
-    },
-    {
-      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2024-08-27T12:00:00+09:00",
-      "relevance_score": 13,
-      "url": "https://jvn.jp/jp/JVN24885537/",
-      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T05:12:53+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, code",
-          "security high-signal: active, exploitation, code, fortinet"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen oder Code auszuführen."
-      },
-      {
-        "title": "How the next-generation neobank should be built for the agentic economy?",
-        "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:15:41+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "What happens to banking when your customer doesn’t often open the app again, because their AI agent holds the wallet and pays for them? This isn’t a thought experiment anymore. It’s a roadmap that card networks, fintechs, and protocol foundations have already started shipping. And it forces a hard question on every fo…"
-      },
-      {
-        "title": "The real workforce challenge: Bridging the credential-capability gap",
-        "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:15:33+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through SkillsFuture programmes. Across the region—from Indonesia’s…"
-      },
-      {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
-        "url": "https://jvn.jp/jp/JVN56870912/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-28T14:00:00+09:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "amnezia-vpn/amnezia-client",
-        "url": "https://github.com/amnezia-vpn/amnezia-client",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-28T02:13:28+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "ai",
-          "infra"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, vpn",
-          "security high-signal: rce, vpn"
-        ],
-        "summary": "Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocke…"
-      }
-    ]
-  }
+  ]
 }

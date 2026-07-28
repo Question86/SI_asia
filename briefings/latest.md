@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T05:33:41+00:00_
+_Generiert: 2026-07-28T06:26:26+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
+35 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,14 @@ _Generiert: 2026-07-28T05:33:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Italy
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554518)
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554532)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554518)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.
 - **GDACS: Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554511)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,18 +61,14 @@ _Generiert: 2026-07-28T05:33:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.
-- **USGS earthquake M5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae)
+- **USGS earthquake M5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau)
   - Quelle: USGS
-  - Zeit: `2026-07-28T04:42:18+00:00`
-  - Kurz: M5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-07-28T05:35:18+00:00`
+  - Kurz: M5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.8 - 191 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9)
   - Quelle: USGS
   - Zeit: `2026-07-28T03:34:05+00:00`
   - Kurz: M5.8 - 191 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
-- **USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6)
-  - Quelle: USGS
-  - Zeit: `2026-07-28T03:16:08+00:00`
-  - Kurz: M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -151,6 +151,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-28T06:24:03.524+00:00`, fetched `2026-07-28T06:25:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.4 - 110 km SSE of Akureyri, Iceland** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-28T06:12:20.792+00:00`, fetched `2026-07-28T06:25:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-28T05:07:21.242+00:00`, fetched `2026-07-28T05:33:12+00:00`
@@ -187,6 +205,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The Philippines uses AI as a burnout shield; Singapore uses it for deep work** — Score 12, observation — [Quelle](https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-28T06:11:07+00:00`, fetched `2026-07-28T06:25:53+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)
+  - Kurz: On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to “The Gemini Report Southeast Asia 2026” by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring the region’s familiar work rhythm: busy Mondays, compressed deadlines, overflowing inboxes, […] The post The Philippines uses AI as a bu…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI didn’t replace Southeast Asia’s marketing agencies, it repriced them** — Score 12, observation — [Quelle](https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-28T01:30:23+00:00`, fetched `2026-07-28T02:13:28+00:00`
@@ -205,24 +232,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on** — Score 11, observation — [Quelle](https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T02:45:28+00:00`, fetched `2026-07-28T03:24:38+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Every conversation about Asia’s Artificial Intelligence (AI) race is often framed around the same topics: capital, compute, talent, and policy ambition. But the next phase of the region’s digital growth will also be shaped by a more fundamental constraint: power. This is why governments across Asia are advancing digital economy roadmaps, hyperscalers are expanding cloud […] The post Asia’s AI race won’t be won by ca…
+- **Angriffe auf FortiOS und Arista VeloCloud beobachtet** — Score 10, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-28T05:48:00.000+00:00`, fetched `2026-07-28T06:25:53+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 38 km S of Mendoza, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T02:07:11.065+00:00`, fetched `2026-07-28T02:13:28+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **最近の仕事の流れ** — Score 10, observation — [Quelle](https://zenn.dev/kimuchan/articles/bc8e98682f8594)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-27T15:44:04+00:00`, fetched `2026-07-28T03:24:38+00:00`
@@ -232,15 +250,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T01:40:38.040+00:00`, fetched `2026-07-28T02:13:28+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか** — Score 8, observation — [Quelle](https://zenn.dev/fixstars/articles/kimi-k3-benchmark)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-28T00:58:38+00:00`, fetched `2026-07-28T04:31:26+00:00`
@@ -259,32 +268,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年7月28日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260728-01)
+- **地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-28T03:19:14+00:00`, fetched `2026-07-28T03:24:38+00:00`
+  - Zeit: published `2026-07-28T06:00:00+00:00`, fetched `2026-07-28T06:25:53+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年7月28日）動画を掲載しました
+  - Kurz: 地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **opengeos/GeoLibre** — Score 5, observation — [Quelle](https://github.com/opengeos/GeoLibre)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
+- **公金受取口座登録制度：「よくある質問（FAQ）」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/account_registration)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-28T06:00:00+00:00`, fetched `2026-07-28T06:25:53+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks,…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NanmiCoder/MediaCrawler** — Score 5, observation — [Quelle](https://github.com/NanmiCoder/MediaCrawler)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 公金受取口座登録制度：「よくある質問（FAQ）」を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

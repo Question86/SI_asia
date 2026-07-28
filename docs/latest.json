@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T05:33:41+00:00",
-  "run_id": "2026-07-28T05:33:41+00:00",
+  "generated_at": "2026-07-28T06:26:26+00:00",
+  "run_id": "2026-07-28T06:26:26+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 8,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 8,
-    "observe": 19,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -288,6 +288,82 @@
     ],
     "observe": [
       {
+        "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:24:03.524+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "35902ad7aae67cbdf778"
+      },
+      {
+        "title": "M 5.4 - 110 km SSE of Akureyri, Iceland",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:12:20.792+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a453c3b13d9d3e4c4a2c"
+      },
+      {
         "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -390,6 +466,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e9002e9ba41b1b73adf4"
+      },
+      {
+        "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
+        "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:11:07+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to “The Gemini Report Southeast Asia 2026” by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring the region’s familiar work rhythm: busy Mondays, compressed deadlines, overflowing inboxes, […] The post The Philippines uses AI as a bu…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00d7ddcb0c9e0be7e74f"
       },
       {
         "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
@@ -513,6 +611,39 @@
           "LOW"
         ],
         "id": "8b9521da4a57d6e845a3"
+      },
+      {
+        "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
+        "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-28T05:48:00.000+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "97edc454f1415e0685e5"
       },
       {
         "title": "最近の仕事の流れ",
@@ -658,6 +789,66 @@
         "id": "eebf5c187933644ffbd3"
       },
       {
+        "title": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
+        "url": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:00:00+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5b5edb80ac87ff00c85f"
+      },
+      {
+        "title": "公金受取口座登録制度：「よくある質問（FAQ）」を更新しました",
+        "url": "https://www.digital.go.jp/policies/account_registration",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:00:00+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "公金受取口座登録制度：「よくある質問（FAQ）」を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ba8d23b4639651495e08"
+      },
+      {
+        "title": "オープンデータ取組済自治体資料を更新しました",
+        "url": "https://www.digital.go.jp/resources/data_local_governments",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:00:00+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "オープンデータ取組済自治体資料を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "628140851f01ef58936b"
+      },
+      {
         "title": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-260728-01",
         "source": "Japan Digital Agency News RSS",
@@ -759,6 +950,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "da70a7f5074feefd652c"
+      },
+      {
+        "title": "Malaysia, Singapore investors rebalance portfolios without ditching crypto",
+        "url": "https://e27.co/malaysia-singapore-investors-rebalance-portfolios-without-ditching-crypto-20260728/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T05:42:45+00:00",
+        "fetched_at": "2026-07-28T06:25:53+00:00",
+        "summary": "Cryptocurrency has not disappeared from the portfolios of wealthy investors. But it has not become the centrepiece either. A new HSBC survey suggests digital assets remain a small, steady allocation among affluent and high net worth investors, even as many move more money into products seen as either safer, more income-generating, or better suited to […] The post Malaysia, Singapore investors rebalance portfolios wi…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0); watchgraph demote portfolio (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "732168c981a6575a8160"
       }
     ]
   },
@@ -1020,6 +1231,82 @@
       "id": "acce703d0f6b25bf7ca8"
     },
     {
+      "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:24:03.524+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "35902ad7aae67cbdf778"
+    },
+    {
+      "title": "M 5.4 - 110 km SSE of Akureyri, Iceland",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:12:20.792+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a453c3b13d9d3e4c4a2c"
+    },
+    {
       "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1122,6 +1409,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e9002e9ba41b1b73adf4"
+    },
+    {
+      "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
+      "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:11:07+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to “The Gemini Report Southeast Asia 2026” by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring the region’s familiar work rhythm: busy Mondays, compressed deadlines, overflowing inboxes, […] The post The Philippines uses AI as a bu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00d7ddcb0c9e0be7e74f"
     },
     {
       "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
@@ -1245,6 +1554,39 @@
         "LOW"
       ],
       "id": "8b9521da4a57d6e845a3"
+    },
+    {
+      "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
+      "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-28T05:48:00.000+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "97edc454f1415e0685e5"
     },
     {
       "title": "最近の仕事の流れ",
@@ -1390,6 +1732,66 @@
       "id": "eebf5c187933644ffbd3"
     },
     {
+      "title": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b5edb80ac87ff00c85f"
+    },
+    {
+      "title": "公金受取口座登録制度：「よくある質問（FAQ）」を更新しました",
+      "url": "https://www.digital.go.jp/policies/account_registration",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "公金受取口座登録制度：「よくある質問（FAQ）」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ba8d23b4639651495e08"
+    },
+    {
+      "title": "オープンデータ取組済自治体資料を更新しました",
+      "url": "https://www.digital.go.jp/resources/data_local_governments",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "オープンデータ取組済自治体資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "628140851f01ef58936b"
+    },
+    {
       "title": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260728-01",
       "source": "Japan Digital Agency News RSS",
@@ -1491,75 +1893,37 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "da70a7f5074feefd652c"
+    },
+    {
+      "title": "Malaysia, Singapore investors rebalance portfolios without ditching crypto",
+      "url": "https://e27.co/malaysia-singapore-investors-rebalance-portfolios-without-ditching-crypto-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T05:42:45+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "Cryptocurrency has not disappeared from the portfolios of wealthy investors. But it has not become the centrepiece either. A new HSBC survey suggests digital assets remain a small, steady allocation among affluent and high net worth investors, even as many move more money into products seen as either safer, more income-generating, or better suited to […] The post Malaysia, Singapore investors rebalance portfolios wi…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "732168c981a6575a8160"
     }
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-28T05:12:53+00:00",
-      "fetched_at": "2026-07-28T05:33:12+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen oder Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: Fortinet"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "62376bccf2a155e451ef"
-    },
-    {
-      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
-      "url": "https://jvn.jp/jp/JVN56870912/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-28T14:00:00+09:00",
-      "fetched_at": "2026-07-28T05:33:12+00:00",
-      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "acce703d0f6b25bf7ca8"
-    },
-    {
-      "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
+      "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-28T05:07:21.242+00:00",
-      "fetched_at": "2026-07-28T05:33:12+00:00",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-28 04:42:18 UTC 2026-07-28 04:42:18 UTC at epicenter Location 55.881°N 165.070°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-28T06:24:03.524+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "PAGER",
@@ -1588,51 +1952,180 @@
         "HD",
         "LOW"
       ],
-      "id": "718fa2c606e3d4ca2746"
+      "id": "35902ad7aae67cbdf778"
     },
     {
-      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
-      "url": "https://jvn.jp/jp/JVN03037325/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "M 5.4 - 110 km SSE of Akureyri, Iceland",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-05-12T14:00:00+09:00",
-      "fetched_at": "2026-07-28T05:33:12+00:00",
-      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。",
+      "published_at": "2026-07-28T06:12:20.792+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 13,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a453c3b13d9d3e4c4a2c"
+    },
+    {
+      "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
+      "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:11:07+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to “The Gemini Report Southeast Asia 2026” by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring the region’s familiar work rhythm: busy Mondays, compressed deadlines, overflowing inboxes, […] The post The Philippines uses AI as a bu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bf4422649ca205ed35be"
+      "id": "00d7ddcb0c9e0be7e74f"
     },
     {
-      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN24885537/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
+      "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2024-08-27T12:00:00+09:00",
-      "fetched_at": "2026-07-28T05:33:12+00:00",
-      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。",
+      "published_at": "2026-07-28T05:48:00.000+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "97edc454f1415e0685e5"
+    },
+    {
+      "title": "オープンデータ取組済自治体資料を更新しました",
+      "url": "https://www.digital.go.jp/resources/data_local_governments",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "オープンデータ取組済自治体資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e9002e9ba41b1b73adf4"
+      "id": "628140851f01ef58936b"
+    },
+    {
+      "title": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b5edb80ac87ff00c85f"
+    },
+    {
+      "title": "公金受取口座登録制度：「よくある質問（FAQ）」を更新しました",
+      "url": "https://www.digital.go.jp/policies/account_registration",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "公金受取口座登録制度：「よくある質問（FAQ）」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ba8d23b4639651495e08"
+    },
+    {
+      "title": "Malaysia, Singapore investors rebalance portfolios without ditching crypto",
+      "url": "https://e27.co/malaysia-singapore-investors-rebalance-portfolios-without-ditching-crypto-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T05:42:45+00:00",
+      "fetched_at": "2026-07-28T06:25:53+00:00",
+      "summary": "Cryptocurrency has not disappeared from the portfolios of wealthy investors. But it has not become the centrepiece either. A new HSBC survey suggests digital assets remain a small, steady allocation among affluent and high net worth investors, even as many move more money into products seen as either safer, more income-generating, or better suited to […] The post Malaysia, Singapore investors rebalance portfolios wi…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "732168c981a6575a8160"
     }
   ],
   "source_errors": [],
