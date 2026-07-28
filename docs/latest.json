@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T12:24:28+00:00",
-  "run_id": "2026-07-28T12:24:28+00:00",
+  "generated_at": "2026-07-28T13:03:19+00:00",
+  "run_id": "2026-07-28T13:03:19+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 31,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1203,6 +1203,28 @@
           "LOW"
         ],
         "id": "8b9521da4a57d6e845a3"
+      },
+      {
+        "title": "自分の顔をAIにレンタルする行為が中国で流行",
+        "url": "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-28T06:20:16+00:00",
+        "fetched_at": "2026-07-28T13:02:51+00:00",
+        "summary": "顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI https://restofworld.org/2026/china-ai-microdramas-face-...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a3b4367e49112df9cd94"
       },
       {
         "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
@@ -3044,6 +3066,28 @@
       "id": "8b9521da4a57d6e845a3"
     },
     {
+      "title": "自分の顔をAIにレンタルする行為が中国で流行",
+      "url": "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T06:20:16+00:00",
+      "fetched_at": "2026-07-28T13:02:51+00:00",
+      "summary": "顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI https://restofworld.org/2026/china-ai-microdramas-face-...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a3b4367e49112df9cd94"
+    },
+    {
       "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
       "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html",
       "source": "heise Security Alerts",
@@ -3709,181 +3753,26 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-28T11:52:56+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft .NET Framework und Microsoft .NET ausnutzen, um beliebigen Programmcode auszuführen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "75e15b3033727aa85916"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-28T11:52:56+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "604acabfaa89a483b242"
-    },
-    {
-      "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-28T11:57:53+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Airflow FAB provider ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Administratorrechte zu erlangen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e3273741fe0dbc5249fa"
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat OpenShift Service Mesh: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1934",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-28T11:52:57+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "427d9bd095e746a27334"
-    },
-    {
-      "title": "Verschiedene Attacken auf Progress LoadMaster möglich",
-      "url": "https://www.heise.de/news/Verschiedene-Attacken-auf-Progress-LoadMaster-moeglich-11380070.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-28T12:15:00.000+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "Die Load-Balancing- und Cluster-Managementlösung LoadMaster ist verwundbar. Die Entwickler haben nun Sicherheitslücken geschlossen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0511536e1de85aeb7641"
-    },
-    {
-      "title": "データベース「PostgreSQL」がどのように実際には内部で動いているかがシムシティっぽい3Dでわかる「PGSimCity」",
-      "url": "https://gigazine.net/news/20260728-pgsimcity-postgresql/",
+      "title": "自分の顔をAIにレンタルする行為が中国で流行",
+      "url": "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-28T11:29:10+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "PostgreSQLは世界中で広く使われているデータベース管理システムですが、SQLを実行したときに内部でどのプロセスが動き、データがどのようにメモリやディスクへ読み書きされるのかを直感的に把握するのは簡単ではありません。そんなPostgreSQLの内部構造を、シムシティのような3D都市として可視化してくれるウェブアプリ...",
+      "published_at": "2026-07-28T06:20:16+00:00",
+      "fetched_at": "2026-07-28T13:02:51+00:00",
+      "summary": "顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI https://restofworld.org/2026/china-ai-microdramas-face-...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "df8e909ef3b6ff5a56eb"
-    },
-    {
-      "title": "イーロン・マスクが決済サービス「X Money」の正式サービスをスタート",
-      "url": "https://gigazine.net/news/20260728-x-money/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-28T03:06:15+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "X(旧Twitter)が決済サービスの「X Money」を、招待制のベータ版から正式サービスへと移行しました。Apple Wallet対応で、記事作成時点ではアメリカでのみ利用可能です。 X Money — Every dollar works harder on X https://money.x.com/en X Money officially launches in the US with Apple Wallet support after invit...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "986728525cd602cb96d1"
-    },
-    {
-      "title": "中国製高性能AI「Kimi-K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能",
-      "url": "https://gigazine.net/news/20260728-kimi-k3-open/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-28T02:32:32+00:00",
-      "fetched_at": "2026-07-28T12:23:51+00:00",
-      "summary": "中国企業のMoonshot AIが自社製AIモデル「Kimi K3」をオープンモデルとして公開しました。 Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the in...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d22afca0de97a77d214"
+      "id": "a3b4367e49112df9cd94"
     }
   ],
   "source_errors": [],

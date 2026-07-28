@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T12:24:28+00:00_
+_Generiert: 2026-07-28T13:03:19+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+74 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -268,6 +268,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **自分の顔をAIにレンタルする行為が中国で流行** — Score 10, observation — [Quelle](https://gigazine.net/news/20260728-china-people-renting-face-to-ai/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-28T06:20:16+00:00`, fetched `2026-07-28T13:02:51+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: 顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI https://restofworld.org/2026/china-ai-microdramas-face-...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf FortiOS und Arista VeloCloud beobachtet** — Score 10, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-28T05:48:00.000+00:00`, fetched `2026-07-28T06:25:53+00:00`
@@ -285,15 +294,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **説明可能AI(XAI)の現状と展望** — Score 9, observation — [Quelle](https://kaityo256.github.io/explainable-ai-review)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-26T00:54:26+00:00`, fetched `2026-07-28T10:09:18+00:00`
-  - Treffer: AI/KI, GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
-  - Kurz: はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の「ゴール」も明確ではありません。以下では、XAI研究の現状と展望を簡単にサー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft: Proof-of-Concept-Exploit für „Certighost“-AD-Lücke aufgetaucht** — Score 8, risk — [Quelle](https://www.heise.de/news/Microsoft-warnt-vor-Proof-of-Concept-Exploit-fuer-Certighost-AD-Luecke-11379962.html)
   - Quelle: heise Security Alerts / `rss`
