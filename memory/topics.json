@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-28T11:45:06+00:00",
+  "generated_at": "2026-07-28T12:24:28+00:00",
   "topics": {
     "security": [
       {
@@ -24,6 +24,20 @@
         "published_at": "2026-07-28T08:24:13+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:52:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:52:56+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
@@ -59,20 +73,6 @@
         "published_at": "2026-07-28T08:24:12+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520"
-      },
-      {
-        "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T05:12:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387"
-      },
-      {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-28T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN56870912/"
       }
     ],
     "general": [
@@ -177,6 +177,13 @@
         "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/"
       },
       {
+        "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551"
+      },
+      {
         "title": "The real workforce challenge: Bridging the credential-capability gap",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-28T01:15:33+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-07-27T21:58:06+00:00",
         "relevance_score": 12,
         "url": "https://jbpress.ismedia.jp/articles/-/96137"
-      },
-      {
-        "title": "Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:45:28+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
       }
     ],
     "economy": [
@@ -328,6 +328,13 @@
         "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/"
       },
       {
+        "title": "中国製高性能AI「Kimi-K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-28T02:32:32+00:00",
+        "relevance_score": 5,
+        "url": "https://gigazine.net/news/20260728-kimi-k3-open/"
+      },
+      {
         "title": "opengeos/GeoLibre",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -349,6 +356,13 @@
         "published_at": "2026-07-28T02:19:07+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551"
       },
       {
         "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -405,13 +419,6 @@
         "published_at": "2026-07-28T01:15:33+00:00",
         "relevance_score": 13,
         "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/"
-      },
-      {
-        "title": "Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:45:28+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
       }
     ]
   }

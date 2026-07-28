@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T11:45:06+00:00_
+_Generiert: 2026-07-28T12:24:28+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+73 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -240,14 +240,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-28T06:00:00+00:00`, fetched `2026-07-28T06:25:53+00:00`
-  - Treffer: APAC Trend Radar
+- **Verschiedene Attacken auf Progress LoadMaster möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Verschiedene-Attacken-auf-Progress-LoadMaster-moeglich-11380070.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-28T12:15:00.000+00:00`, fetched `2026-07-28T12:23:51+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Load-Balancing- und Cluster-Managementlösung LoadMaster ist verwundbar. Die Entwickler haben nun Sicherheitslücken geschlossen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

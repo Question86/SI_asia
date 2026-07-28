@@ -183,6 +183,54 @@
     "id": "8334bbbb9db22994d399"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:52:56+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "604acabfaa89a483b242"
+  },
+  {
+    "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:52:56+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft .NET Framework und Microsoft .NET ausnutzen, um beliebigen Programmcode auszuführen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "75e15b3033727aa85916"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125",
     "source": "BSI CERT-Bund Security Advisories",
@@ -523,6 +571,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "acce703d0f6b25bf7ca8"
+  },
+  {
+    "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:57:53+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Airflow FAB provider ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e3273741fe0dbc5249fa"
+  },
+  {
+    "title": "[UPDATE] [hoch] Red Hat OpenShift Service Mesh: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1934",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:52:57+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "427d9bd095e746a27334"
   },
   {
     "title": "[UPDATE] [mittel] Golang Go-Module (Net, Image, Crypto: Mehrere Schwachstellen",
@@ -1334,6 +1428,26 @@
     "id": "c23c10cddca29d1f066c"
   },
   {
+    "title": "Verschiedene Attacken auf Progress LoadMaster möglich",
+    "url": "https://www.heise.de/news/Verschiedene-Attacken-auf-Progress-LoadMaster-moeglich-11380070.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-28T12:15:00.000+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "Die Load-Balancing- und Cluster-Managementlösung LoadMaster ist verwundbar. Die Entwickler haben nun Sicherheitslücken geschlossen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0511536e1de85aeb7641"
+  },
+  {
     "title": "Singapore’s Psalion raises US$50M fund for Web3’s next practical phase",
     "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1475,6 +1589,27 @@
     "id": "5767159437fe10c13094"
   },
   {
+    "title": "データベース「PostgreSQL」がどのように実際には内部で動いているかがシムシティっぽい3Dでわかる「PGSimCity」",
+    "url": "https://gigazine.net/news/20260728-pgsimcity-postgresql/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:29:10+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "PostgreSQLは世界中で広く使われているデータベース管理システムですが、SQLを実行したときに内部でどのプロセスが動き、データがどのようにメモリやディスクへ読み書きされるのかを直感的に把握するのは簡単ではありません。そんなPostgreSQLの内部構造を、シムシティのような3D都市として可視化してくれるウェブアプリ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "df8e909ef3b6ff5a56eb"
+  },
+  {
     "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
     "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1536,6 +1671,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "771a77b6191e73f739c5"
+  },
+  {
+    "title": "イーロン・マスクが決済サービス「X Money」の正式サービスをスタート",
+    "url": "https://gigazine.net/news/20260728-x-money/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T03:06:15+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "X(旧Twitter)が決済サービスの「X Money」を、招待制のベータ版から正式サービスへと移行しました。Apple Wallet対応で、記事作成時点ではアメリカでのみ利用可能です。 X Money — Every dollar works harder on X https://money.x.com/en X Money officially launches in the US with Apple Wallet support after invit...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "986728525cd602cb96d1"
+  },
+  {
+    "title": "中国製高性能AI「Kimi-K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能",
+    "url": "https://gigazine.net/news/20260728-kimi-k3-open/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T02:32:32+00:00",
+    "fetched_at": "2026-07-28T12:23:51+00:00",
+    "summary": "中国企業のMoonshot AIが自社製AIモデル「Kimi K3」をオープンモデルとして公開しました。 Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window. New model architecture: 2.5x the in...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6d22afca0de97a77d214"
   },
   {
     "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
