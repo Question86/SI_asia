@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T17:51:11+00:00",
-  "run_id": "2026-07-28T17:51:11+00:00",
+  "generated_at": "2026-07-28T18:21:00+00:00",
+  "run_id": "2026-07-28T18:21:00+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 1,
@@ -4606,31 +4606,7 @@
       "id": "732168c981a6575a8160"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-28T11:57:19+00:00",
-      "fetched_at": "2026-07-28T17:50:41+00:00",
-      "summary": "Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions",
-        "Supply Chain Security"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "75b127528fbc4e522766"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
