@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T20:33:18+00:00_
+_Generated: 2026-07-28T20:57:36+00:00_
 
 ## Status
 - status: `normal`
-- findings: `93`
+- findings: `97`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-07-28T20:33:18+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9
 - summary: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
 
-### 6. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
+### 6. M 5.4 - 211 km SE of Kokopo, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-07-28T20:54:46.288+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm
+- summary: PAGER - GREEN ShakeMap - III Time 2026-07-28 20:27:57 UTC 2026-07-28 20:27:57 UTC at epicenter Location 5.760°S 153.544°E Depth 10.00 km (6.21 mi)
+
+### 7. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-28T06:24:03.524+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)
 
-### 7. M 5.4 - 110 km SSE of Akureyri, Iceland
+### 8. M 5.4 - 110 km SSE of Akureyri, Iceland
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-28T06:12:20.792+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw
 - summary: PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)
 
-### 8. M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia
+### 9. M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-07-28T05:07:21.242+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-07-28 04:42:18 UTC 2026-07-28 04:42:18 UTC at epicenter Location 55.881°N 165.070°E Depth 10.00 km (6.21 mi)
-
-### 9. The real workforce challenge: Bridging the credential-capability gap
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-07-28T01:15:33+00:00`
-- url: https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/
-- summary: Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through…
 
 END OF DOCUMENT
