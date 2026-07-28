@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T04:31:57+00:00",
+  "generated_at": "2026-07-28T05:33:44+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554518",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI&gt;=VII).",
         "summary": "Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -121,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
+        "summary": "M5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
+        "published_at": "2026-07-28T04:42:18+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "green",
+          "sig": 500.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",

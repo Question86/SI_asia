@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T04:31:54+00:00_
+_Generated: 2026-07-28T05:33:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `27`
 
 ## Top Signals
 
@@ -22,46 +22,46 @@ _Generated: 2026-07-28T04:31:54+00:00_
 - url: https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management
 - summary: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configur…
 
-### 3. Why investors often back Vietnamese startups more aggressively than Thai peers
+### 3. [UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-28T05:12:53+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387
+- summary: Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen oder Code auszuführen.
+
+### 4. Why investors often back Vietnamese startups more aggressively than Thai peers
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-07-28T01:15:10+00:00`
 - url: https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/
 - summary: Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company bei…
 
-### 4. M 5.8 - 191 km NW of Oula Xiuma, China
+### 5. M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-28T03:59:11.384+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9
-- summary: PAGER - YELLOW ShakeMap - VII Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)
+- score: `13`
+- published: `2026-07-28T05:07:21.242+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-07-28 04:42:18 UTC 2026-07-28 04:42:18 UTC at epicenter Location 55.881°N 165.070°E Depth 10.00 km (6.21 mi)
 
-### 5. The real workforce challenge: Bridging the credential-capability gap
+### 6. The real workforce challenge: Bridging the credential-capability gap
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-28T01:15:33+00:00`
 - url: https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/
 - summary: Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through…
 
-### 6. AI didn’t replace Southeast Asia’s marketing agencies, it repriced them
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-07-28T01:30:23+00:00`
-- url: https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/
-- summary: For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email ne…
+### 7. エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）
+- source: JVN Japan Vulnerability Notes
+- score: `13`
+- published: `2026-05-12T14:00:00+09:00`
+- url: https://jvn.jp/jp/JVN03037325/
+- summary: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
 
-### 7. ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-07-27T21:58:06+00:00`
-- url: https://jbpress.ismedia.jp/articles/-/96137
-- summary: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
-
-### 8. Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-07-28T02:45:28+00:00`
-- url: https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/
-- summary: Every conversation about Asia’s Artificial Intelligence (AI) race is often framed around the same topics: capital, compute, talent, and policy ambition. But the next phase of the region’s digital growth will also be shaped by a more fundamental constraint: po…
+### 8. エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性
+- source: JVN Japan Vulnerability Notes
+- score: `13`
+- published: `2024-08-27T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN24885537/
+- summary: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
 
 END OF DOCUMENT
