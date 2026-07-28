@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T15:25:25+00:00_
+_Generiert: 2026-07-28T16:10:25+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+87 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,7 +81,15 @@ _Generiert: 2026-07-28T15:25:25+00:00_
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **Disrupting supply chain attacks on npm and GitHub Actions** — Score 29, risk — [Quelle](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-28T16:00:00+00:00`, fetched `2026-07-28T16:09:56+00:00`
+  - Treffer: GitHub, GitHub Actions, Security, Supply Chain Security, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); Supply Chain Security (+10.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Priorität Mittel
 
@@ -268,6 +276,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Projektor** — Score 12, observation — [Quelle](https://tajd.github.io/projektor/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-28T11:53:25+00:00`, fetched `2026-07-28T16:09:56+00:00`
+  - Treffer: agent, AI/KI, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: An issue tracker and wiki your AI coding agent runs as a first-class client - agent-native like a git tracker, deployed and cross-project like Jira, on a single Cloudflare Worker.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How the Philippines and Singapore use AI differently at work** — Score 12, observation — [Quelle](https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-28T11:41:22+00:00`, fetched `2026-07-28T11:44:34+00:00`
@@ -303,15 +320,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国防高等研究計画局（DARPA）は2014年、「Z-Man」と呼ばれるプログラムの成果を公開した。それは、体重90kg超のクライマーが約23kgの荷物を背負い、ロープもハーネスも吸盤も使わず、2つの接着パドルだけを使って、ガラスでできた高さ約7.6mの垂直壁を上るというデモンストレーションだった。 こんな離れ業が可能にな...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自分の顔をAIにレンタルする行為が中国で流行** — Score 10, observation — [Quelle](https://gigazine.net/news/20260728-china-people-renting-face-to-ai/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T06:20:16+00:00`, fetched `2026-07-28T13:02:51+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: 顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI https://restofworld.org/2026/china-ai-microdramas-face-...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffe auf FortiOS und Arista VeloCloud beobachtet** — Score 10, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html)
   - Quelle: heise Security Alerts / `rss`
@@ -352,6 +360,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.

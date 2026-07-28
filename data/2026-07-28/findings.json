@@ -1,5 +1,50 @@
 [
   {
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-28T16:00:00+00:00",
+    "fetched_at": "2026-07-28T16:09:56+00:00",
+    "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "GitHub Actions",
+      "Security",
+      "Supply Chain Security",
+      "Watchgraph:software_supply_chain"
+    ],
+    "relevance_score": 29,
+    "relevance_reason": "GitHub Actions (+6.2); Security (+6.0); Supply Chain Security (+10.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "software_supply_chain"
+    ],
+    "watchgraph_reasons": [
+      "software_supply_chain: npm"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM"
+    ],
+    "id": "107d448f74e5da66395f"
+  },
+  {
     "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1073,6 +1118,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e9002e9ba41b1b73adf4"
+  },
+  {
+    "title": "Projektor",
+    "url": "https://tajd.github.io/projektor/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:53:25+00:00",
+    "fetched_at": "2026-07-28T16:09:56+00:00",
+    "summary": "An issue tracker and wiki your AI coding agent runs as a first-class client - agent-native like a git tracker, deployed and cross-project like Jira, on a single Cloudflare Worker.",
+    "matched_keywords": [
+      "agent",
+      "AI/KI",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d016f66f069a9e8667b"
   },
   {
     "title": "How the Philippines and Singapore use AI differently at work",
