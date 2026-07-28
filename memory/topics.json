@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-28T14:33:45+00:00",
+  "generated_at": "2026-07-28T15:25:25+00:00",
   "topics": {
     "security": [
       {
@@ -84,6 +84,13 @@
         "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"
       },
       {
+        "title": "Dependabot alerts on malicious packages across more ecosystems",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-28T14:55:31+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
+      },
+      {
         "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-28T02:30:17+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-28T11:41:22+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/"
-      },
-      {
-        "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T06:11:07+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/"
       }
     ],
     "github": [
@@ -154,6 +154,13 @@
         "published_at": "2026-07-28T11:57:19+00:00",
         "relevance_score": 20,
         "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"
+      },
+      {
+        "title": "Dependabot alerts on malicious packages across more ecosystems",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-28T14:55:31+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
       },
       {
         "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
@@ -284,6 +291,78 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb4"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "Dependabot alerts on malicious packages across more ecosystems",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-28T14:55:31+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
+      },
+      {
+        "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-28T02:19:07+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:57:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551"
+      },
+      {
+        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2550"
+      },
+      {
+        "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545"
+      },
+      {
+        "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544"
+      },
+      {
+        "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543"
+      },
+      {
+        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2541"
+      },
+      {
+        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2542"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Axis2: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2540"
+      }
+    ],
     "economy": [
       {
         "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
@@ -354,78 +433,6 @@
         "published_at": "2026-07-28T01:00:18+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:19:07+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:57:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551"
-      },
-      {
-        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:37:54+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2550"
-      },
-      {
-        "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545"
-      },
-      {
-        "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544"
-      },
-      {
-        "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543"
-      },
-      {
-        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:42:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2541"
-      },
-      {
-        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:42:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2542"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Axis2: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:42:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2540"
-      },
-      {
-        "title": "The real workforce challenge: Bridging the credential-capability gap",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:15:33+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/"
       }
     ]
   }

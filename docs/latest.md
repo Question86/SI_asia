@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T14:33:45+00:00_
+_Generiert: 2026-07-28T15:25:25+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -38,6 +38,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Dependabot alerts on malicious packages across more ecosystems** — Score 18, risk — [Quelle](https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-28T14:55:31+00:00`, fetched `2026-07-28T15:24:56+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: The GitHub Advisory Database now ingests malware advisories from the OpenSSF malicious-packages repository, significantly expanding the breadth of malware data available to you through Dependabot alerts. What changed With this… The post Dependabot alerts on malicious packages across more ecosystems appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI is making Southeast Asia’s startups faster, not richer, yet** — Score 18, observation — [Quelle](https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

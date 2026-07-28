@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T14:33:45+00:00_
+_Generated: 2026-07-28T15:25:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `83`
+- findings: `85`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-28T14:33:45+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9
 - summary: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
 
-### 4. AI is making Southeast Asia’s startups faster, not richer, yet
-- source: e27 Asia Startup and Tech Feed
+### 4. Dependabot alerts on malicious packages across more ecosystems
+- source: GitHub Changelog Atom
 - score: `18`
-- published: `2026-07-28T02:30:17+00:00`
-- url: https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/
-- summary: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across…
+- published: `2026-07-28T14:55:31+00:00`
+- url: https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems
+- summary: The GitHub Advisory Database now ingests malware advisories from the OpenSSF malicious-packages repository, significantly expanding the breadth of malware data available to you through Dependabot alerts. What changed With this… The post Dependabot alerts on m…
 
 ### 5. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
