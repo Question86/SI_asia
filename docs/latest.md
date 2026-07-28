@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T10:09:46+00:00_
+_Generiert: 2026-07-28T11:00:33+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „M 6.8 - 5 km E of Uto, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+58 neue relevante Treffer. Stärkstes Signal: „M 6.8 - 5 km E of Uto, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 

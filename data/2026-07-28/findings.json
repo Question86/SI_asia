@@ -452,6 +452,144 @@
     "id": "acce703d0f6b25bf7ca8"
   },
   {
+    "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:52:53+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in binutils ausnutzen, um einen Denial of Service Angriff durchzuführen und Daten offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6b282ff86ff6eb4e6f0c"
+  },
+  {
+    "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:52:53+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Progress Software LoadMaster und Progress Software MOVEit ausnutzen, um beliebigen Programmcode auszuführen und Root-Rechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e0f101c6b1094b2a5551"
+  },
+  {
+    "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:52:53+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple macOS Tahoe, Sonoma und Sequoia ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f0fc073d94fe28d258e"
+  },
+  {
+    "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2541",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:42:53+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um Informationen offenzulegen und Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4cfd06daae8d3456b366"
+  },
+  {
+    "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2542",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:42:53+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Devolutions Server ausnutzen, um Administratorrechte zu erlangen und vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "99af2c61eadb368c4ad6"
+  },
+  {
+    "title": "[NEU] [hoch] Apache Axis2: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2540",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:42:53+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Axis2 ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8884c58f7e01f06b5074"
+  },
+  {
     "title": "[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1195,6 +1333,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0c4960c1d8bce2d5ddda"
+  },
+  {
+    "title": "マイナアプリ、8月25日提供開始 マイナポータルとデジタル認証アプリを統合",
+    "url": "https://www.watch.impress.co.jp/docs/news/2128522.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T06:12:35+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "マイナアプリ、8月25日提供開始 マイナポータルとデジタル認証アプリを統合",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d8681b9865a71f1b0e4"
+  },
+  {
+    "title": "セブン、店内で焼き上げる「ピザ」発売 1人分のハンディサイズ",
+    "url": "https://www.watch.impress.co.jp/docs/news/2128399.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T04:37:07+00:00",
+    "fetched_at": "2026-07-28T11:00:00+00:00",
+    "summary": "セブン、店内で焼き上げる「ピザ」発売 1人分のハンディサイズ",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "771a77b6191e73f739c5"
   },
   {
     "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",

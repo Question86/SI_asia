@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-28T10:09:46+00:00",
+  "generated_at": "2026-07-28T11:00:33+00:00",
   "topics": {
     "general": [
       {
@@ -263,25 +263,25 @@
         "url": "https://jvn.jp/jp/JVN56870912/"
       },
       {
-        "title": "[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN",
+        "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T06:52:53+00:00",
+        "published_at": "2026-07-28T10:52:53+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545"
       },
       {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-05-12T14:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN03037325/"
+        "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544"
       },
       {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-08-27T12:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN24885537/"
+        "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543"
       }
     ],
     "github": [
@@ -344,6 +344,48 @@
         "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
       },
       {
+        "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545"
+      },
+      {
+        "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544"
+      },
+      {
+        "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543"
+      },
+      {
+        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2541"
+      },
+      {
+        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2542"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Axis2: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T10:42:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2540"
+      },
+      {
         "title": "The real workforce challenge: Bridging the credential-capability gap",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-28T01:15:33+00:00",
@@ -363,20 +405,6 @@
         "published_at": "2026-07-28T08:57:38+00:00",
         "relevance_score": 9,
         "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/"
-      },
-      {
-        "title": "What BEYOND Expo 2026 taught me about Asia’s hardware edge",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T08:11:37+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/what-beyond-expo-2026-taught-me-about-asias-hardware-edge-20260728/"
-      },
-      {
-        "title": "オープンデータ取組済自治体資料を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-28T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/resources/data_local_governments"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T10:09:46+00:00_
+_Generiert: 2026-07-28T11:00:33+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „M 6.8 - 5 km E of Uto, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+58 neue relevante Treffer. Stärkstes Signal: „M 6.8 - 5 km E of Uto, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,22 +33,18 @@ _Generiert: 2026-07-28T10:09:46+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.5 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
+- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.5 million (in MMI&gt;=VII).
-- **GDACS: Green flood alert in China** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104051)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in China
+  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).
 - **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Italy
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 90 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 90 thousand in MMI VI.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554532)
   - Quelle: GDACS
   - Zeit: ``
@@ -69,6 +65,10 @@ _Generiert: 2026-07-28T10:09:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.
 
 ## Wirtschaft global
 
