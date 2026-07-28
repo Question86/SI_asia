@@ -1,29 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-28T11:52:55Z",
+  "generated_at": "2026-07-28T12:32:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 1,
-      "krass": 15,
-      "strong": 19,
-      "watch": 5
+      "extreme": 2,
+      "krass": 17,
+      "strong": 18,
+      "watch": 3
     },
     "bands_after_gate_recheck": {
-      "krass": 3,
+      "krass": 5,
       "strong": 32,
-      "watch": 5
+      "watch": 3
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-28T11:52:56+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
     {
       "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T05:12:53+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -44,11 +69,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen oder Code auszuführen."
     },
     {
+      "title": "[UPDATE] [hoch] Red Hat OpenShift Service Mesh: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1934",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-28T11:52:57+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Apache Axis2: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2540",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:42:53+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -73,7 +123,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-28T05:48:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -98,7 +148,7 @@
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "infra"
@@ -124,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:37:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -153,7 +203,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:37:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -179,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T08:24:13+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -205,7 +255,7 @@
       "url": "https://jvn.jp/jp/JVN56870912/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-28T14:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -225,11 +275,36 @@
       "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-28T11:57:53+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Airflow FAB provider ausnutzen, um Sicherheitsmaßnahmen zu umgehen und Administratorrechte zu erlangen."
+    },
+    {
       "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2550",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:37:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -253,7 +328,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:52:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -277,7 +352,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2541",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:42:53+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -301,7 +376,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T06:52:53+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -325,7 +400,7 @@
       "url": "https://www.digital.go.jp/resources/data_local_governments",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-28T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -347,11 +422,39 @@
       "summary": "オープンデータ取組済自治体資料を更新しました"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-28T11:52:56+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft .NET Framework und Microsoft .NET ausnutzen, um beliebigen Programmcode auszuführen, um Daten zu manipulieren, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzule…"
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:37:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -377,7 +480,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T08:24:13+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -403,7 +506,7 @@
       "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:15:41+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -429,7 +532,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1653",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:42:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -455,7 +558,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:52:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -481,7 +584,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:52:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -507,7 +610,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2542",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:42:53+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -533,7 +636,7 @@
       "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:15:33+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -559,7 +662,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T09:28:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -584,7 +687,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T09:28:01+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -609,7 +712,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T08:24:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -634,7 +737,7 @@
       "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T09:13:48+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -662,7 +765,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 39.41,
+      "age_days": 39.44,
       "topics": [
         "ai"
       ],
@@ -681,7 +784,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.4 for 39.4d old signal",
+        "aging penalty -6.5 for 39.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -691,7 +794,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T08:12:27.141+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -717,7 +820,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T08:36:09.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -742,7 +845,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T03:59:11.384+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -767,7 +870,7 @@
       "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T18:03:40+00:00",
-      "age_days": 0.74,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -792,7 +895,7 @@
       "url": "https://github.com/opengeos/GeoLibre",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -813,61 +916,11 @@
       "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It…"
     },
     {
-      "title": "M 5.4 - 110 km SSE of Akureyri, Iceland",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-28T06:12:20.792+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-28T05:07:21.242+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-28 04:42:18 UTC 2026-07-28 04:42:18 UTC at epicenter Location 55.881°N 165.070°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "Microsoft: Proof-of-Concept-Exploit für „Certighost“-AD-Lücke aufgetaucht",
       "url": "https://www.heise.de/news/Microsoft-warnt-vor-Proof-of-Concept-Exploit-fuer-Certighost-AD-Luecke-11379962.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-28T11:00:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -891,7 +944,7 @@
       "url": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-28T10:00:42+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -912,11 +965,35 @@
       "summary": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range."
     },
     {
+      "title": "Verschiedene Attacken auf Progress LoadMaster möglich",
+      "url": "https://www.heise.de/news/Verschiedene-Attacken-auf-Progress-LoadMaster-moeglich-11380070.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-28T12:15:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Die Load-Balancing- und Cluster-Managementlösung LoadMaster ist verwundbar. Die Entwickler haben nun Sicherheitslücken geschlossen."
+    },
+    {
       "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
       "url": "https://jvn.jp/jp/JVN03037325/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-05-12T14:00:00+09:00",
-      "age_days": 77.29,
+      "age_days": 77.31,
       "topics": [
         "security"
       ],
@@ -941,7 +1018,7 @@
       "url": "https://jvn.jp/jp/JVN24885537/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-08-27T12:00:00+09:00",
-      "age_days": 700.37,
+      "age_days": 700.4,
       "topics": [
         "security"
       ],
@@ -960,80 +1037,7 @@
         "aging penalty -8.0 for 700.4d old signal"
       ],
       "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "M 5.3 - southern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-28T01:40:38.040+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-28T06:24:03.524+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
-      "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-28T02:19:07+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in the same window. These are not random numbers floating in a…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
