@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:03:53+00:00",
+  "generated_at": "2026-07-28T23:28:15+00:00",
   "sections": {
     "global_security": [
       {
@@ -89,16 +89,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Italy",
-        "summary": "Green flood alert in Italy",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.",
@@ -149,23 +139,33 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 191 km NW of Oula Xiuma, China",
+        "summary": "M5.8 - 191 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
+        "published_at": "2026-07-28T03:34:05+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "yellow",
+          "sig": 650.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China",
+        "summary": "M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6",
+        "published_at": "2026-07-28T03:16:08+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "yellow",
+          "sig": 650.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T23:03:51+00:00_
+_Generiert: 2026-07-28T23:28:12+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-07-28T23:03:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).
-- **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Italy
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,14 +57,14 @@ _Generiert: 2026-07-28T23:03:51+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).
-- **GDACS: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.
+- **USGS earthquake M5.8 - 191 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9)
+  - Quelle: USGS
+  - Zeit: `2026-07-28T03:34:05+00:00`
+  - Kurz: M5.8 - 191 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
+- **USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6)
+  - Quelle: USGS
+  - Zeit: `2026-07-28T03:16:08+00:00`
+  - Kurz: M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 

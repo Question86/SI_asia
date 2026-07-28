@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T23:03:51+00:00",
-  "run_id": "2026-07-28T23:03:51+00:00",
+  "generated_at": "2026-07-28T23:28:12+00:00",
+  "run_id": "2026-07-28T23:28:12+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 99,
     "displayed_findings": 99,
     "high": 1,
@@ -5100,29 +5100,7 @@
       "id": "732168c981a6575a8160"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI検索「Perplexity」もCLIに、コマンドラインツールやエージェントとの連携に／macOS（Apple Silicon）、Linux（x86_64/arm64）で利用可能",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2128588.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-28T09:46:41+00:00",
-      "fetched_at": "2026-07-28T23:03:19+00:00",
-      "summary": "AI検索「Perplexity」もCLIに、コマンドラインツールやエージェントとの連携に／macOS（Apple Silicon）、Linux（x86_64/arm64）で利用可能",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d13b0e988bc7158c5d7e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
