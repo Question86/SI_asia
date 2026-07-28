@@ -256,6 +256,29 @@
     "id": "acce703d0f6b25bf7ca8"
   },
   {
+    "title": "[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T06:52:53+00:00",
+    "fetched_at": "2026-07-28T07:23:27+00:00",
+    "summary": "Dieses Advisory wurde zurückgezogen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f170c6bc4a30ddf613cb"
+  },
+  {
     "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -634,6 +657,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "392861fe0a736481aa62"
+  },
+  {
+    "title": "M 4.5 - 38 km N of Ishqoshim, Tajikistan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb4",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-28T07:14:33.040+00:00",
+    "fetched_at": "2026-07-28T07:23:27+00:00",
+    "summary": "Time 2026-07-28 06:57:07 UTC 2026-07-28 06:57:07 UTC at epicenter Location 37.074°N 71.615°E Depth 132.06 km (82.06 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "7c5694ba51fb3993f46b"
   },
   {
     "title": "Volatility is here to stay: What are you going to do about it?",

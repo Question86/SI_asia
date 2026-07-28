@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T06:26:26+00:00_
+_Generiert: 2026-07-28T07:23:57+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
+37 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-28T06:52:53+00:00`, fetched `2026-07-28T07:23:27+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Patch (+2.5); recent (+1.0)
+  - Kurz: Dieses Advisory wurde zurückgezogen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

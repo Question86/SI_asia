@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T06:26:26+00:00_
+_Generiert: 2026-07-28T07:23:57+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
+37 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,14 +61,14 @@ _Generiert: 2026-07-28T06:26:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.
-- **USGS earthquake M5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau)
-  - Quelle: USGS
-  - Zeit: `2026-07-28T05:35:18+00:00`
-  - Kurz: M5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.8 - 191 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9)
   - Quelle: USGS
   - Zeit: `2026-07-28T03:34:05+00:00`
   - Kurz: M5.8 - 191 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
+- **USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6)
+  - Quelle: USGS
+  - Zeit: `2026-07-28T03:16:08+00:00`
+  - Kurz: M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -148,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-28T06:52:53+00:00`, fetched `2026-07-28T07:23:27+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Patch (+2.5); recent (+1.0)
+  - Kurz: Dieses Advisory wurde zurückgezogen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
