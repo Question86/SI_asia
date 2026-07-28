@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T02:14:00+00:00_
+_Generiert: 2026-07-28T03:25:08+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „Why investors often back Vietnamese startups more aggressively than Thai peers“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+20 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **AI is making Southeast Asia’s startups faster, not richer, yet** — Score 18, observation — [Quelle](https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-28T02:30:17+00:00`, fetched `2026-07-28T03:24:38+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
+  - Kurz: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-28T01:23:10+00:00`, fetched `2026-07-28T03:24:38+00:00`
+  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why investors often back Vietnamese startups more aggressively than Thai peers** — Score 16, observation — [Quelle](https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-28T01:15:10+00:00`, fetched `2026-07-28T01:24:52+00:00`
@@ -20,6 +38,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); funding (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company being financed, but it also reflects the market surrounding it. Investors consider the […] The post Why investors often back Vietnamese startups more aggressively…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken** — Score 15, observation — [Quelle](https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-28T02:19:07+00:00`, fetched `2026-07-28T03:24:38+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
+  - Kurz: The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in the same window. These are not random numbers floating in a […] The post Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -51,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on** — Score 11, observation — [Quelle](https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-28T02:45:28+00:00`, fetched `2026-07-28T03:24:38+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Every conversation about Asia’s Artificial Intelligence (AI) race is often framed around the same topics: capital, compute, talent, and policy ambition. But the next phase of the region’s digital growth will also be shaped by a more fundamental constraint: power. This is why governments across Asia are advancing digital economy roadmaps, hyperscalers are expanding cloud […] The post Asia’s AI race won’t be won by ca…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 38 km S of Mendoza, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-28T02:07:11.065+00:00`, fetched `2026-07-28T02:13:28+00:00`
@@ -60,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **最近の仕事の流れ** — Score 10, observation — [Quelle](https://zenn.dev/kimuchan/articles/bc8e98682f8594)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-27T15:44:04+00:00`, fetched `2026-07-28T03:24:38+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-28T01:40:38.040+00:00`, fetched `2026-07-28T02:13:28+00:00`
@@ -78,14 +123,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vietnam’s tech talent market is broken and most companies are still hiring the wrong way** — Score 7, observation — [Quelle](https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T01:00:18+00:00`, fetched `2026-07-28T01:24:52+00:00`
+- **松本大臣記者会見（令和8年7月28日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260728-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-28T03:19:14+00:00`, fetched `2026-07-28T03:24:38+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
-  - Kurz: Something strange is happening in Vietnam’s engineering hiring market right now. Companies report talent shortages. Candidates report rejection rates higher than ever. Both are telling the truth. The gap between them isn’t a supply problem. It’s a definition problem, a fundamental mismatch between what companies say they need, what their hiring processes actually select for, […] The post Vietnam’s tech talent market…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年7月28日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

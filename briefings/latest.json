@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T02:14:00+00:00",
-  "run_id": "2026-07-28T02:14:00+00:00",
+  "generated_at": "2026-07-28T03:25:08+00:00",
+  "run_id": "2026-07-28T03:25:08+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,88 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 8,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 1,
-    "observe": 11,
+    "medium": 5,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
+        "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:30:17+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Public Health",
+          "Southeast Asia"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b7931a6a39e1615c633"
+      },
+      {
+        "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-28T01:23:10+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Copilot",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP, MCP server"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "8334bbbb9db22994d399"
+      },
       {
         "title": "Why investors often back Vietnamese startups more aggressively than Thai peers",
         "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/",
@@ -72,6 +143,51 @@
           "EWZ"
         ],
         "id": "3807218d052ae0cc5529"
+      },
+      {
+        "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
+        "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:19:07+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in the same window. These are not random numbers floating in a […] The post Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken appear…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Public Health"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fedc1a61529a5c8cd1cc"
+      },
+      {
+        "title": "How the next-generation neobank should be built for the agentic economy?",
+        "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:15:41+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "What happens to banking when your customer doesn’t often open the app again, because their AI agent holds the wallet and pays for them? This isn’t a thought experiment anymore. It’s a roadmap that card networks, fintechs, and protocol foundations have already started shipping. And it forces a hard question on every founder and bank […] The post How the next-generation neobank should be built for the agentic economy?…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e8cfcbe16daad960069"
       }
     ],
     "observe": [
@@ -142,6 +258,49 @@
         "id": "9bb96cfa109fae198b71"
       },
       {
+        "title": "Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on",
+        "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:45:28+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "Every conversation about Asia’s Artificial Intelligence (AI) race is often framed around the same topics: capital, compute, talent, and policy ambition. But the next phase of the region’s digital growth will also be shaped by a more fundamental constraint: power. This is why governments across Asia are advancing digital economy roadmaps, hyperscalers are expanding cloud […] The post Asia’s AI race won’t be won by ca…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "02d8e24d9ff75233d0a8"
+      },
+      {
         "title": "M 4.6 - 38 km S of Mendoza, Argentina",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -176,6 +335,49 @@
           "LOW"
         ],
         "id": "8b9521da4a57d6e845a3"
+      },
+      {
+        "title": "最近の仕事の流れ",
+        "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-27T15:44:04+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "392861fe0a736481aa62"
+      },
+      {
+        "title": "Volatility is here to stay: What are you going to do about it?",
+        "url": "https://e27.co/volatility-is-here-to-stay-what-are-you-going-to-do-about-it-20260726/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:15:42+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "“The normal we once knew is over. The new reality is continuous disruption and perpetual transformation. The best leaders will be those who, rather than waiting for turbulence to pass, learn to fly in it.” — WEF, October 2025 Wow – that’s from the conservative, usually restrained World Economic Forum. And in case it’s not […] The post Volatility is here to stay: What are you going to do about it? appeared first on e…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d688c0a096b35f9fc8f"
       },
       {
         "title": "M 5.3 - southern Mid-Atlantic Ridge",
@@ -254,6 +456,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eebf5c187933644ffbd3"
+      },
+      {
+        "title": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
+        "url": "https://www.digital.go.jp/speech/minister-260728-01",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-28T03:19:14+00:00",
+        "fetched_at": "2026-07-28T03:24:38+00:00",
+        "summary": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5767159437fe10c13094"
       },
       {
         "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
@@ -342,6 +564,77 @@
   },
   "findings": [
     {
+      "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
+      "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:30:17+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b7931a6a39e1615c633"
+    },
+    {
+      "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:23:10+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Copilot",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP, MCP server"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "8334bbbb9db22994d399"
+    },
+    {
       "title": "Why investors often back Vietnamese startups more aggressively than Thai peers",
       "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -384,6 +677,51 @@
         "EWZ"
       ],
       "id": "3807218d052ae0cc5529"
+    },
+    {
+      "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
+      "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:19:07+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in the same window. These are not random numbers floating in a […] The post Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken appear…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fedc1a61529a5c8cd1cc"
+    },
+    {
+      "title": "How the next-generation neobank should be built for the agentic economy?",
+      "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:15:41+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "What happens to banking when your customer doesn’t often open the app again, because their AI agent holds the wallet and pays for them? This isn’t a thought experiment anymore. It’s a roadmap that card networks, fintechs, and protocol foundations have already started shipping. And it forces a hard question on every founder and bank […] The post How the next-generation neobank should be built for the agentic economy?…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e8cfcbe16daad960069"
     },
     {
       "title": "The real workforce challenge: Bridging the credential-capability gap",
@@ -452,6 +790,49 @@
       "id": "9bb96cfa109fae198b71"
     },
     {
+      "title": "Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on",
+      "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:45:28+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "Every conversation about Asia’s Artificial Intelligence (AI) race is often framed around the same topics: capital, compute, talent, and policy ambition. But the next phase of the region’s digital growth will also be shaped by a more fundamental constraint: power. This is why governments across Asia are advancing digital economy roadmaps, hyperscalers are expanding cloud […] The post Asia’s AI race won’t be won by ca…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "02d8e24d9ff75233d0a8"
+    },
+    {
       "title": "M 4.6 - 38 km S of Mendoza, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -486,6 +867,49 @@
         "LOW"
       ],
       "id": "8b9521da4a57d6e845a3"
+    },
+    {
+      "title": "最近の仕事の流れ",
+      "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-27T15:44:04+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "392861fe0a736481aa62"
+    },
+    {
+      "title": "Volatility is here to stay: What are you going to do about it?",
+      "url": "https://e27.co/volatility-is-here-to-stay-what-are-you-going-to-do-about-it-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:15:42+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "“The normal we once knew is over. The new reality is continuous disruption and perpetual transformation. The best leaders will be those who, rather than waiting for turbulence to pass, learn to fly in it.” — WEF, October 2025 Wow – that’s from the conservative, usually restrained World Economic Forum. And in case it’s not […] The post Volatility is here to stay: What are you going to do about it? appeared first on e…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d688c0a096b35f9fc8f"
     },
     {
       "title": "M 5.3 - southern Mid-Atlantic Ridge",
@@ -564,6 +988,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "eebf5c187933644ffbd3"
+    },
+    {
+      "title": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260728-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T03:19:14+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5767159437fe10c13094"
     },
     {
       "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
@@ -651,182 +1095,226 @@
   ],
   "new_findings": [
     {
-      "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
-      "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
+      "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
+      "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-28T01:30:23+00:00",
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish blog articles and create campaign collateral. It wasn’t glamorous work, but it solved a problem. […] The post AI didn’t replace Southeast Asi…",
+      "published_at": "2026-07-28T02:30:17+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
+        "founder",
+        "Public Health",
         "Southeast Asia"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a17fb82890f56f40ab34"
+      "id": "3b7931a6a39e1615c633"
     },
     {
-      "title": "M 4.6 - 38 km S of Mendoza, Argentina",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-28T02:07:11.065+00:00",
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)",
+      "published_at": "2026-07-28T01:23:10+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "AI Agents",
+        "AI/KI",
+        "Copilot",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "ai_agents_workflow"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "ai_agents_workflow: MCP, MCP server"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
       ],
-      "id": "8b9521da4a57d6e845a3"
+      "id": "8334bbbb9db22994d399"
     },
     {
-      "title": "M 5.3 - southern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-28T01:40:38.040+00:00",
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "02035e187fcbc9ffb347"
-    },
-    {
-      "title": "amnezia-vpn/amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Webentwicklung"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c23c10cddca29d1f066c"
-    },
-    {
-      "title": "opengeos/GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks,…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "07e49045e8d2755c9406"
-    },
-    {
-      "title": "NanmiCoder/MediaCrawler",
-      "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4697d3a94146d76ecc48"
-    },
-    {
-      "title": "Why the future of clinical trials depends on understanding patients, not just drugs",
-      "url": "https://e27.co/the-future-of-clinical-trials-20260623/",
+      "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
+      "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-28T02:00:47+00:00",
-      "fetched_at": "2026-07-28T02:13:28+00:00",
-      "summary": "The history of medicine is filled with remarkable scientific breakthroughs. Yet many promising therapies that perform exceptionally in laboratories and animal models fail to deliver the same success in human clinical trials. The reason is often not poor drug design, it is human biological variability. Every patient is different. Genetics, lifestyle, environmental exposure, metabolism, age, […] The post Why the futur…",
+      "published_at": "2026-07-28T02:19:07+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in the same window. These are not random numbers floating in a […] The post Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken appear…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fedc1a61529a5c8cd1cc"
+    },
+    {
+      "title": "How the next-generation neobank should be built for the agentic economy?",
+      "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:15:41+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "What happens to banking when your customer doesn’t often open the app again, because their AI agent holds the wallet and pays for them? This isn’t a thought experiment anymore. It’s a roadmap that card networks, fintechs, and protocol foundations have already started shipping. And it forces a hard question on every founder and bank […] The post How the next-generation neobank should be built for the agentic economy?…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e8cfcbe16daad960069"
+    },
+    {
+      "title": "Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on",
+      "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:45:28+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "Every conversation about Asia’s Artificial Intelligence (AI) race is often framed around the same topics: capital, compute, talent, and policy ambition. But the next phase of the region’s digital growth will also be shaped by a more fundamental constraint: power. This is why governments across Asia are advancing digital economy roadmaps, hyperscalers are expanding cloud […] The post Asia’s AI race won’t be won by ca…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "02d8e24d9ff75233d0a8"
+    },
+    {
+      "title": "最近の仕事の流れ",
+      "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-27T15:44:04+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "392861fe0a736481aa62"
+    },
+    {
+      "title": "Volatility is here to stay: What are you going to do about it?",
+      "url": "https://e27.co/volatility-is-here-to-stay-what-are-you-going-to-do-about-it-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:15:42+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "“The normal we once knew is over. The new reality is continuous disruption and perpetual transformation. The best leaders will be those who, rather than waiting for turbulence to pass, learn to fly in it.” — WEF, October 2025 Wow – that’s from the conservative, usually restrained World Economic Forum. And in case it’s not […] The post Volatility is here to stay: What are you going to do about it? appeared first on e…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d688c0a096b35f9fc8f"
+    },
+    {
+      "title": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260728-01",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-28T03:19:14+00:00",
+      "fetched_at": "2026-07-28T03:24:38+00:00",
+      "summary": "松本大臣記者会見（令和8年7月28日）動画を掲載しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "da70a7f5074feefd652c"
+      "id": "5767159437fe10c13094"
     }
   ],
   "source_errors": [],
