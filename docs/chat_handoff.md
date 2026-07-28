@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T11:00:33+00:00_
+_Generated: 2026-07-28T11:45:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `65`
 
 ## Top Signals
 
-### 1. M 6.8 - 5 km E of Uto, Japan
+### 1. [UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `22`
+- published: `2026-07-28T11:37:53+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen…
+
+### 2. M 6.8 - 5 km E of Uto, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-07-28T08:12:27.141+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9
 - summary: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
 
-### 2. AI is making Southeast Asia’s startups faster, not richer, yet
+### 3. AI is making Southeast Asia’s startups faster, not richer, yet
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-07-28T02:30:17+00:00`
 - url: https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/
 - summary: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across…
 
-### 3. [UPDATE] [hoch] libssh2: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
-- published: `2026-07-28T08:24:13+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.
-
-### 4. GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management
-- source: GitHub Changelog Atom
-- score: `17`
-- published: `2026-07-28T01:23:10+00:00`
-- url: https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management
-- summary: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configur…
+- published: `2026-07-28T11:37:53+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460
+- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…
 
 ### 5. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour

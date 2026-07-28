@@ -1,5 +1,30 @@
 [
   {
+    "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:37:53+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Automatisierung",
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e3f323d2e464f5de67fa"
+  },
+  {
     "title": "M 6.8 - 5 km E of Uto, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -61,6 +86,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3b7931a6a39e1615c633"
+  },
+  {
+    "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:37:53+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7e4ddd30aca7fefad441"
   },
   {
     "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
@@ -132,6 +181,30 @@
       "PINS"
     ],
     "id": "8334bbbb9db22994d399"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:37:53+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in den cifs-utils von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3a362be177f1b02e6cbb"
   },
   {
     "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -450,6 +523,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "acce703d0f6b25bf7ca8"
+  },
+  {
+    "title": "[UPDATE] [mittel] Golang Go-Module (Net, Image, Crypto: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1653",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:42:54+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um erweiterte Privilegien zu erlangen, Cross-Site-Scripting-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5fba90fee196fb50f79a"
+  },
+  {
+    "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2550",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:37:54+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Bouncy Castle ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f502f6866623718e21f7"
   },
   {
     "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
@@ -793,6 +912,28 @@
     "id": "e9002e9ba41b1b73adf4"
   },
   {
+    "title": "How the Philippines and Singapore use AI differently at work",
+    "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:41:22+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Across Southeast Asia, AI is reshaping how workers operate, but not in a uniform way. A new analysis reveals a striking cultural divergence: Filipino professionals are turning to AI primarily as a burnout shield, using it to offload repetitive, draining tasks and protect their mental bandwidth. Singaporean workers, by contrast, are deploying AI as a […] The post How the Philippines and Singapore use AI differently a…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "07af3770002d5b2c5808"
+  },
+  {
     "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
     "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1127,6 +1268,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c6c6befd3d7a3ce3986e"
+  },
+  {
+    "title": "Microsoft: Proof-of-Concept-Exploit für „Certighost“-AD-Lücke aufgetaucht",
+    "url": "https://www.heise.de/news/Microsoft-warnt-vor-Proof-of-Concept-Exploit-fuer-Certighost-AD-Luecke-11379962.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:00:00.000+00:00",
+    "fetched_at": "2026-07-28T11:44:34+00:00",
+    "summary": "Am Juli-Patchday hat Microsoft eine AD-Lücke geschlossen, die Rechteausweitung ermöglicht. Nun warnt das Unternehmen vor PoC-Exploit.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e2f5e95e6090959f859f"
   },
   {
     "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",

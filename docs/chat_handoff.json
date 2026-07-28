@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-28T11:00:33+00:00",
+  "generated_at": "2026-07-28T11:45:06+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 7,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
-    "medium": 22,
-    "observe": 36
+    "medium": 27,
+    "observe": 38
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T11:37:53+00:00",
+      "relevance_score": 22,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen…",
+      "section": "medium"
+    },
     {
       "title": "M 6.8 - 5 km E of Uto, Japan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -35,23 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+      "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-28T08:24:13+00:00",
+      "published_at": "2026-07-28T11:37:53+00:00",
       "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-28T01:23:10+00:00",
-      "relevance_score": 17,
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configur…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten…",
       "section": "medium"
     },
     {

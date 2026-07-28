@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-28T11:00:33+00:00",
+  "generated_at": "2026-07-28T11:45:06+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:53+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452"
+      },
+      {
+        "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:53+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460"
+      },
+      {
+        "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T08:24:13+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125"
+      },
+      {
+        "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T09:28:02+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T09:28:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T08:24:13+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T08:24:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520"
+      },
+      {
+        "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T05:12:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387"
+      },
+      {
+        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-28T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN56870912/"
+      }
+    ],
     "general": [
       {
         "title": "M 6.8 - 5 km E of Uto, Japan",
@@ -112,6 +184,13 @@
         "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/"
       },
       {
+        "title": "How the Philippines and Singapore use AI differently at work",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-28T11:41:22+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/"
+      },
+      {
         "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-28T06:11:07+00:00",
@@ -138,13 +217,6 @@
         "published_at": "2026-07-28T02:45:28+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
-      },
-      {
-        "title": "Volatility is here to stay: What are you going to do about it?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:15:42+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/volatility-is-here-to-stay-what-are-you-going-to-do-about-it-20260726/"
       }
     ],
     "economy": [
@@ -175,6 +247,13 @@
         "published_at": "2026-07-28T02:15:41+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/"
+      },
+      {
+        "title": "How the Philippines and Singapore use AI differently at work",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-28T11:41:22+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/"
       },
       {
         "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
@@ -210,78 +289,6 @@
         "published_at": "2026-07-28T01:00:18+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T08:24:13+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516"
-      },
-      {
-        "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T09:28:02+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T09:28:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T08:24:13+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T08:24:12+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520"
-      },
-      {
-        "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T05:12:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387"
-      },
-      {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-28T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN56870912/"
-      },
-      {
-        "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545"
-      },
-      {
-        "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544"
-      },
-      {
-        "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543"
       }
     ],
     "github": [
@@ -344,6 +351,13 @@
         "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
       },
       {
+        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T11:37:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2550"
+      },
+      {
         "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-28T10:52:53+00:00",
@@ -398,13 +412,6 @@
         "published_at": "2026-07-28T02:45:28+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
-      },
-      {
-        "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T08:57:38+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/"
       }
     ]
   }

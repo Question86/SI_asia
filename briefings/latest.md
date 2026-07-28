@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T11:00:33+00:00_
+_Generiert: 2026-07-28T11:45:06+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „M 6.8 - 5 km E of Uto, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+65 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -85,6 +85,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-28T11:37:53+00:00`, fetched `2026-07-28T11:44:34+00:00`
+  - Treffer: APAC Trend Radar, Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder beliebigen Code auszuführen.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 6.8 - 5 km E of Uto, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-28T08:12:27.141+00:00`, fetched `2026-07-28T08:12:56+00:00`
@@ -103,6 +112,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
   - Kurz: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-28T11:37:53+00:00`, fetched `2026-07-28T11:44:34+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] libssh2: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-28T08:24:13+00:00`, fetched `2026-07-28T09:12:51+00:00`
@@ -120,24 +138,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-28T09:28:02+00:00`, fetched `2026-07-28T10:09:18+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-28T09:28:01+00:00`, fetched `2026-07-28T10:09:18+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder potenziell um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why investors often back Vietnamese startups more aggressively than Thai peers** — Score 16, observation — [Quelle](https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -241,6 +241,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How the Philippines and Singapore use AI differently at work** — Score 12, observation — [Quelle](https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-28T11:41:22+00:00`, fetched `2026-07-28T11:44:34+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)
+  - Kurz: Across Southeast Asia, AI is reshaping how workers operate, but not in a uniform way. A new analysis reveals a striking cultural divergence: Filipino professionals are turning to AI primarily as a burnout shield, using it to offload repetitive, draining tasks and protect their mental bandwidth. Singaporean workers, by contrast, are deploying AI as a […] The post How the Philippines and Singapore use AI differently a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Philippines uses AI as a burnout shield; Singapore uses it for deep work** — Score 12, observation — [Quelle](https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-28T06:11:07+00:00`, fetched `2026-07-28T06:25:53+00:00`
@@ -249,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)
   - Kurz: On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to “The Gemini Report Southeast Asia 2026” by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring the region’s familiar work rhythm: busy Mondays, compressed deadlines, overflowing inboxes, […] The post The Philippines uses AI as a bu…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI didn’t replace Southeast Asia’s marketing agencies, it repriced them** — Score 12, observation — [Quelle](https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T01:30:23+00:00`, fetched `2026-07-28T02:13:28+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish blog articles and create campaign collateral. It wasn’t glamorous work, but it solved a problem. […] The post AI didn’t replace Southeast Asi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)** — Score 12, observation — [Quelle](https://jbpress.ismedia.jp/articles/-/96137)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -295,6 +295,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
   - Kurz: はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の「ゴール」も明確ではありません。以下では、XAI研究の現状と展望を簡単にサー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Microsoft: Proof-of-Concept-Exploit für „Certighost“-AD-Lücke aufgetaucht** — Score 8, risk — [Quelle](https://www.heise.de/news/Microsoft-warnt-vor-Proof-of-Concept-Exploit-fuer-Certighost-AD-Luecke-11379962.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-28T11:00:00.000+00:00`, fetched `2026-07-28T11:44:34+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Am Juli-Patchday hat Microsoft eine AD-Lücke geschlossen, die Rechteausweitung ermöglicht. Nun warnt das Unternehmen vor PoC-Exploit.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **amnezia-vpn/amnezia-client** — Score 8, observation — [Quelle](https://github.com/amnezia-vpn/amnezia-client)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
@@ -313,18 +322,10 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **公金受取口座登録制度：「よくある質問（FAQ）」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/account_registration)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-28T06:00:00+00:00`, fetched `2026-07-28T06:25:53+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 公金受取口座登録制度：「よくある質問（FAQ）」を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
