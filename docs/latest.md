@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T03:25:08+00:00_
+_Generiert: 2026-07-28T04:31:54+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
+22 neue relevante Treffer. Stärkstes Signal: „AI is making Southeast Asia’s startups faster, not richer, yet“ aus e27 Asia Startup and Tech Feed (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); funding (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company being financed, but it also reflects the market surrounding it. Investors consider the […] The post Why investors often back Vietnamese startups more aggressively…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.8 - 191 km NW of Oula Xiuma, China** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-28T03:59:11.384+00:00`, fetched `2026-07-28T04:31:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - YELLOW ShakeMap - VII Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken** — Score 15, observation — [Quelle](https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-28T02:19:07+00:00`, fetched `2026-07-28T03:24:38+00:00`
@@ -114,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか** — Score 8, observation — [Quelle](https://zenn.dev/fixstars/articles/kimi-k3-benchmark)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-28T00:58:38+00:00`, fetched `2026-07-28T04:31:26+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 2026年7月27日、Moonshot AI から Kimi-K3 のモデルウェイトが公開されました。7月16日のモデル発表時点から「オープンウェイトモデルとして史上最大」と大きな話題になっていたモデルです。 フィックスターズでは、ウェイト公開の当日に NVIDIA B300 x8 のシングルノード環境へデプロイし、推論性能のベンチマ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **amnezia-vpn/amnezia-client** — Score 8, observation — [Quelle](https://github.com/amnezia-vpn/amnezia-client)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
@@ -131,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年7月28日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-27T18:03:40+00:00`, fetched `2026-07-28T00:52:28+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Webアプリケーションのホスティングサービス「Vercel」で知られるVercel社は、Node.jsで実行可能なTypeScriptコードを、変更することなく同じ機能を備えたネイティブな実行ファイルにコンパイルするコンパイラ「scriptc」をオープンソースで公開しました。 TypeScriptをC言語へ変換しCコンパイラでコンパイル Node.jsで...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **opengeos/GeoLibre** — Score 5, observation — [Quelle](https://github.com/opengeos/GeoLibre)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -163,6 +172,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T03:25:08+00:00_
+_Generated: 2026-07-28T04:31:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `22`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-28T03:25:08+00:00_
 - url: https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/
 - summary: Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company bei…
 
-### 4. Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken
-- source: e27 Asia Startup and Tech Feed
+### 4. M 5.8 - 191 km NW of Oula Xiuma, China
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-07-28T02:19:07+00:00`
-- url: https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/
-- summary: The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in…
+- published: `2026-07-28T03:59:11.384+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9
+- summary: PAGER - YELLOW ShakeMap - VII Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)
 
 ### 5. The real workforce challenge: Bridging the credential-capability gap
 - source: e27 Asia Startup and Tech Feed

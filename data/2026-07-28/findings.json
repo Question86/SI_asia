@@ -115,6 +115,44 @@
     "id": "3807218d052ae0cc5529"
   },
   {
+    "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-28T03:59:11.384+00:00",
+    "fetched_at": "2026-07-28T04:31:26+00:00",
+    "summary": "PAGER - YELLOW ShakeMap - VII Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "faddbc33747a15274878"
+  },
+  {
     "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
     "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -382,6 +420,28 @@
       "LOW"
     ],
     "id": "02035e187fcbc9ffb347"
+  },
+  {
+    "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
+    "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-28T00:58:38+00:00",
+    "fetched_at": "2026-07-28T04:31:26+00:00",
+    "summary": "はじめに 2026年7月27日、Moonshot AI から Kimi-K3 のモデルウェイトが公開されました。7月16日のモデル発表時点から「オープンウェイトモデルとして史上最大」と大きな話題になっていたモデルです。 フィックスターズでは、ウェイト公開の当日に NVIDIA B300 x8 のシングルノード環境へデプロイし、推論性能のベンチマ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c77671cac2ac1e009a4d"
   },
   {
     "title": "amnezia-vpn/amnezia-client",
