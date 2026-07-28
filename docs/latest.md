@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T01:25:21+00:00_
+_Generiert: 2026-07-28T02:14:00+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Why investors often back Vietnamese startups more aggressively than Thai peers“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+12 neue relevante Treffer. Stärkstes Signal: „Why investors often back Vietnamese startups more aggressively than Thai peers“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
   - Kurz: Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through SkillsFuture programmes. Across the region—from Indonesia’s digital transformation drive to Vietnam’s emerging tech ecosystem—organisations are spending heavily…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI didn’t replace Southeast Asia’s marketing agencies, it repriced them** — Score 12, observation — [Quelle](https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-28T01:30:23+00:00`, fetched `2026-07-28T02:13:28+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish blog articles and create campaign collateral. It wasn’t glamorous work, but it solved a problem. […] The post AI didn’t replace Southeast Asi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)** — Score 12, observation — [Quelle](https://jbpress.ismedia.jp/articles/-/96137)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-27T21:58:06+00:00`, fetched `2026-07-28T00:12:57+00:00`
@@ -41,6 +50,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 38 km S of Mendoza, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-28T02:07:11.065+00:00`, fetched `2026-07-28T02:13:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.3 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-28T01:40:38.040+00:00`, fetched `2026-07-28T02:13:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **amnezia-vpn/amnezia-client** — Score 8, observation — [Quelle](https://github.com/amnezia-vpn/amnezia-client)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vietnam’s tech talent market is broken and most companies are still hiring the wrong way** — Score 7, observation — [Quelle](https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -59,6 +95,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Webアプリケーションのホスティングサービス「Vercel」で知られるVercel社は、Node.jsで実行可能なTypeScriptコードを、変更することなく同じ機能を備えたネイティブな実行ファイルにコンパイルするコンパイラ「scriptc」をオープンソースで公開しました。 TypeScriptをC言語へ変換しCコンパイラでコンパイル Node.jsで...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **opengeos/GeoLibre** — Score 5, observation — [Quelle](https://github.com/opengeos/GeoLibre)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks,…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **NanmiCoder/MediaCrawler** — Score 5, observation — [Quelle](https://github.com/NanmiCoder/MediaCrawler)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

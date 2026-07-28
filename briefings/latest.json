@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T01:25:21+00:00",
-  "run_id": "2026-07-28T01:25:21+00:00",
+  "generated_at": "2026-07-28T02:14:00+00:00",
+  "run_id": "2026-07-28T02:14:00+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 7,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 1,
-    "observe": 4,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -98,6 +98,28 @@
         "id": "3db7260523ca5c3059aa"
       },
       {
+        "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
+        "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T01:30:23+00:00",
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish blog articles and create campaign collateral. It wasn’t glamorous work, but it solved a problem. […] The post AI didn’t replace Southeast Asi…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a17fb82890f56f40ab34"
+      },
+      {
         "title": "ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)",
         "url": "https://jbpress.ismedia.jp/articles/-/96137",
         "source": "Hatena Bookmark Hotentry IT",
@@ -118,6 +140,100 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9bb96cfa109fae198b71"
+      },
+      {
+        "title": "M 4.6 - 38 km S of Mendoza, Argentina",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:07:11.065+00:00",
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8b9521da4a57d6e845a3"
+      },
+      {
+        "title": "M 5.3 - southern Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-28T01:40:38.040+00:00",
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "02035e187fcbc9ffb347"
+      },
+      {
+        "title": "amnezia-vpn/amnezia-client",
+        "url": "https://github.com/amnezia-vpn/amnezia-client",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c23c10cddca29d1f066c"
       },
       {
         "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
@@ -159,6 +275,68 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05b5abb0d61935f54706"
+      },
+      {
+        "title": "opengeos/GeoLibre",
+        "url": "https://github.com/opengeos/GeoLibre",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks,…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07e49045e8d2755c9406"
+      },
+      {
+        "title": "NanmiCoder/MediaCrawler",
+        "url": "https://github.com/NanmiCoder/MediaCrawler",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4697d3a94146d76ecc48"
+      },
+      {
+        "title": "Why the future of clinical trials depends on understanding patients, not just drugs",
+        "url": "https://e27.co/the-future-of-clinical-trials-20260623/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T02:00:47+00:00",
+        "fetched_at": "2026-07-28T02:13:28+00:00",
+        "summary": "The history of medicine is filled with remarkable scientific breakthroughs. Yet many promising therapies that perform exceptionally in laboratories and animal models fail to deliver the same success in human clinical trials. The reason is often not poor drug design, it is human biological variability. Every patient is different. Genetics, lifestyle, environmental exposure, metabolism, age, […] The post Why the futur…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "da70a7f5074feefd652c"
       }
     ]
   },
@@ -230,6 +408,28 @@
       "id": "3db7260523ca5c3059aa"
     },
     {
+      "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
+      "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:30:23+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish blog articles and create campaign collateral. It wasn’t glamorous work, but it solved a problem. […] The post AI didn’t replace Southeast Asi…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a17fb82890f56f40ab34"
+    },
+    {
       "title": "ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)",
       "url": "https://jbpress.ismedia.jp/articles/-/96137",
       "source": "Hatena Bookmark Hotentry IT",
@@ -250,6 +450,100 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9bb96cfa109fae198b71"
+    },
+    {
+      "title": "M 4.6 - 38 km S of Mendoza, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:07:11.065+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8b9521da4a57d6e845a3"
+    },
+    {
+      "title": "M 5.3 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:40:38.040+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "02035e187fcbc9ffb347"
+    },
+    {
+      "title": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c23c10cddca29d1f066c"
     },
     {
       "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
@@ -291,94 +585,248 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "05b5abb0d61935f54706"
+    },
+    {
+      "title": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks,…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07e49045e8d2755c9406"
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4697d3a94146d76ecc48"
+    },
+    {
+      "title": "Why the future of clinical trials depends on understanding patients, not just drugs",
+      "url": "https://e27.co/the-future-of-clinical-trials-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:00:47+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "The history of medicine is filled with remarkable scientific breakthroughs. Yet many promising therapies that perform exceptionally in laboratories and animal models fail to deliver the same success in human clinical trials. The reason is often not poor drug design, it is human biological variability. Every patient is different. Genetics, lifestyle, environmental exposure, metabolism, age, […] The post Why the futur…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da70a7f5074feefd652c"
     }
   ],
   "new_findings": [
     {
-      "title": "Why investors often back Vietnamese startups more aggressively than Thai peers",
-      "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/",
+      "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
+      "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-28T01:15:10+00:00",
-      "fetched_at": "2026-07-28T01:24:52+00:00",
-      "summary": "Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company being financed, but it also reflects the market surrounding it. Investors consider the […] The post Why investors often back Vietnamese startups more aggressively…",
+      "published_at": "2026-07-28T01:30:23+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish blog articles and create campaign collateral. It wasn’t glamorous work, but it solved a problem. […] The post AI didn’t replace Southeast Asi…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "funding",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); funding (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "3807218d052ae0cc5529"
-    },
-    {
-      "title": "The real workforce challenge: Bridging the credential-capability gap",
-      "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-28T01:15:33+00:00",
-      "fetched_at": "2026-07-28T01:24:52+00:00",
-      "summary": "Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through SkillsFuture programmes. Across the region—from Indonesia’s digital transformation drive to Vietnam’s emerging tech ecosystem—organisations are spending heavily…",
-      "matched_keywords": [
-        "AI Agents",
+        "AI/KI",
         "APAC Trend Radar",
         "Southeast Asia"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3db7260523ca5c3059aa"
-    },
-    {
-      "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
-      "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-28T01:00:18+00:00",
-      "fetched_at": "2026-07-28T01:24:52+00:00",
-      "summary": "Something strange is happening in Vietnam’s engineering hiring market right now. Companies report talent shortages. Candidates report rejection rates higher than ever. Both are telling the truth. The gap between them isn’t a supply problem. It’s a definition problem, a fundamental mismatch between what companies say they need, what their hiring processes actually select for, […] The post Vietnam’s tech talent market…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eebf5c187933644ffbd3"
+      "id": "a17fb82890f56f40ab34"
+    },
+    {
+      "title": "M 4.6 - 38 km S of Mendoza, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:07:11.065+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8b9521da4a57d6e845a3"
+    },
+    {
+      "title": "M 5.3 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:40:38.040+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "Time 2026-07-28 01:27:51 UTC 2026-07-28 01:27:51 UTC at epicenter Location 12.778°S 14.510°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "02035e187fcbc9ffb347"
+    },
+    {
+      "title": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c23c10cddca29d1f066c"
+    },
+    {
+      "title": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs everywhere you do, in the web browser, on the desktop, on mobile, and inside Jupyter notebooks,…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07e49045e8d2755c9406"
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 🔥 MediaCrawler - 自媒体平台爬虫 🕷️ 🤝 特别感谢白金赞助商 BrowserAct 支持从任意网站提取数据。只需描述所需数据，BrowserAct 就会在真实浏览器中探索并测试网页，生成可靠、可复用的数据采集 Bot，并返回结构化结果。内置隐身浏览和验证码处理，并提供高质量住宅代理。无需代码，立即免费试用。 免责声明： 大家请以学习为目的使用本仓库⚠️⚠️⚠️⚠️， 爬虫违法违规的案件 本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4697d3a94146d76ecc48"
+    },
+    {
+      "title": "Why the future of clinical trials depends on understanding patients, not just drugs",
+      "url": "https://e27.co/the-future-of-clinical-trials-20260623/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T02:00:47+00:00",
+      "fetched_at": "2026-07-28T02:13:28+00:00",
+      "summary": "The history of medicine is filled with remarkable scientific breakthroughs. Yet many promising therapies that perform exceptionally in laboratories and animal models fail to deliver the same success in human clinical trials. The reason is often not poor drug design, it is human biological variability. Every patient is different. Genetics, lifestyle, environmental exposure, metabolism, age, […] The post Why the futur…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "da70a7f5074feefd652c"
     }
   ],
   "source_errors": [],

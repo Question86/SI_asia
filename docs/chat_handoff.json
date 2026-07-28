@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-28T01:25:21+00:00",
+  "generated_at": "2026-07-28T02:14:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 7,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 1,
-    "observe": 4
+    "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:30:23+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
+      "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email ne…",
+      "section": "observe"
+    },
+    {
       "title": "ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -45,23 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.6 - 38 km S of Mendoza, Argentina",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-28T01:00:18+00:00",
-      "relevance_score": 7,
-      "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/",
-      "summary": "Something strange is happening in Vietnam’s engineering hiring market right now. Companies report talent shortages. Candidates report rejection rates higher than ever. Both are telling the truth. The gap between them isn’t a supply problem. It’s a definition…",
-      "section": "observe"
-    },
-    {
-      "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-27T18:03:40+00:00",
-      "relevance_score": 5,
-      "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
-      "summary": "Webアプリケーションのホスティングサービス「Vercel」で知られるVercel社は、Node.jsで実行可能なTypeScriptコードを、変更することなく同じ機能を備えたネイティブな実行ファイルにコンパイルするコンパイラ「scriptc」をオープンソースで公開しました。 TypeScriptをC言語へ変換しCコンパイラでコンパイル Node.jsで...",
+      "published_at": "2026-07-28T02:07:11.065+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
+      "summary": "DYFI? - IV Time 2026-07-28 01:37:42 UTC 2026-07-28 01:37:42 UTC at epicenter Location 33.238°S 68.877°W Depth 36.49 km (22.67 mi)",
       "section": "observe"
     }
   ],
@@ -70,142 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The real workforce challenge: Bridging the credential-capability gap” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=30.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The real workforce challenge: Bridging the credential-capability gap",
-        "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:15:33+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through SkillsFuture programmes. Across the region—from Indonesia’s…"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 38.99,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -6.3 for 39.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
-        "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-27T18:03:40+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Webアプリケーションのホスティングサービス「Vercel」で知られるVercel社は、Node.jsで実行可能なTypeScriptコードを、変更することなく同じ機能を備えたネイティブな実行ファイルにコンパイルするコンパイラ「scriptc」をオープンソースで公開しました。 TypeScriptをC言語へ変換しCコンパイラでコンパイル Node.jsで..."
-      },
-      {
-        "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
-        "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:00:18+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: supply, shortage"
-        ],
-        "summary": "Something strange is happening in Vietnam’s engineering hiring market right now. Companies report talent shortages. Candidates report rejection rates higher than ever. Both are telling the truth. The gap between them isn’t a supply problem. It’s a definition problem, a fundamental mismatch between what companies say t…"
-      },
-      {
-        "title": "Why investors often back Vietnamese startups more aggressively than Thai peers",
-        "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:15:10+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 8.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company being financed, but it also reflects the market surrounding it.…"
-      }
-    ]
-  }
+  ]
 }
