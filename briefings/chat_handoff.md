@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T08:13:24+00:00_
+_Generated: 2026-07-28T09:13:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `45`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-28T08:13:24+00:00_
 - url: https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/
 - summary: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across…
 
-### 3. GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management
+### 3. [UPDATE] [hoch] libssh2: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-07-28T08:24:13+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.
+
+### 4. GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management
 - source: GitHub Changelog Atom
 - score: `17`
 - published: `2026-07-28T01:23:10+00:00`
 - url: https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management
 - summary: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configur…
-
-### 4. [UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-28T05:12:53+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387
-- summary: Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen oder Code auszuführen.
 
 ### 5. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour

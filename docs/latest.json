@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T08:13:24+00:00",
-  "run_id": "2026-07-28T08:13:24+00:00",
+  "generated_at": "2026-07-28T09:13:19+00:00",
+  "run_id": "2026-07-28T09:13:19+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 6,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
-    "medium": 10,
-    "observe": 29,
+    "medium": 14,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -93,6 +93,30 @@
         "id": "3b7931a6a39e1615c633"
       },
       {
+        "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-28T08:24:13+00:00",
+        "fetched_at": "2026-07-28T09:12:51+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "19ede298fb54c96832ee"
+      },
+      {
         "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
         "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
         "source": "GitHub Changelog Atom",
@@ -138,6 +162,54 @@
           "PINS"
         ],
         "id": "8334bbbb9db22994d399"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-28T08:24:13+00:00",
+        "fetched_at": "2026-07-28T09:12:51+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen und möglicherweise die Authentifizierung zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c110574f3c1ea6a6dc7a"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-28T08:24:12+00:00",
+        "fetched_at": "2026-07-28T09:12:51+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f96b0c8cf8d09fb91b47"
       },
       {
         "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
@@ -218,6 +290,43 @@
           "EWZ"
         ],
         "id": "3807218d052ae0cc5529"
+      },
+      {
+        "title": "M 4.9 - 14 km NNE of Tsunagi, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-28T08:36:09.040+00:00",
+        "fetched_at": "2026-07-28T09:12:51+00:00",
+        "summary": "Time 2026-07-28 08:18:54 UTC 2026-07-28 08:18:54 UTC at epicenter Location 32.359°N 130.543°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "cfbb326bf38430a724a6"
       },
       {
         "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
@@ -730,6 +839,26 @@
         "id": "392861fe0a736481aa62"
       },
       {
+        "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
+        "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T08:57:38+00:00",
+        "fetched_at": "2026-07-28T09:12:51+00:00",
+        "summary": "Across Japan, corporations are grappling with a familiar tension: promising innovation initiatives that stall before they scale, not for lack of merit, but because rigid organisational structures move slower than the market opportunities in front of them. For a growing number of Japanese enterprises, the response has been to look outward, toward ecosystems agile enough […] The post Why Sony Acceleration Platform is…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "176156f556aaf148d036"
+      },
+      {
         "title": "M 4.5 - 38 km N of Ishqoshim, Tajikistan",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb4",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -988,6 +1117,27 @@
         "id": "5767159437fe10c13094"
       },
       {
+        "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+        "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-28T07:15:53+00:00",
+        "fetched_at": "2026-07-28T09:12:51+00:00",
+        "summary": "GMOインターネットは、ドメイン登録サービス「お名前.com」の中古ドメイン販売ページで、おすすめドメインをランキング表示している部分に、「掲載リストはAIによって選定されています」との注記を、7月下旬までに追加した。 また従来、「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」と用...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0c4960c1d8bce2d5ddda"
+      },
+      {
         "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
         "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1157,6 +1307,30 @@
       "id": "3b7931a6a39e1615c633"
     },
     {
+      "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:24:13+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19ede298fb54c96832ee"
+    },
+    {
       "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
       "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
       "source": "GitHub Changelog Atom",
@@ -1202,6 +1376,54 @@
         "PINS"
       ],
       "id": "8334bbbb9db22994d399"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:24:13+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen und möglicherweise die Authentifizierung zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c110574f3c1ea6a6dc7a"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:24:12+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f96b0c8cf8d09fb91b47"
     },
     {
       "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
@@ -1282,6 +1504,43 @@
         "EWZ"
       ],
       "id": "3807218d052ae0cc5529"
+    },
+    {
+      "title": "M 4.9 - 14 km NNE of Tsunagi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:36:09.040+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Time 2026-07-28 08:18:54 UTC 2026-07-28 08:18:54 UTC at epicenter Location 32.359°N 130.543°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cfbb326bf38430a724a6"
     },
     {
       "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
@@ -1792,6 +2051,26 @@
       "id": "392861fe0a736481aa62"
     },
     {
+      "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
+      "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:57:38+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Across Japan, corporations are grappling with a familiar tension: promising innovation initiatives that stall before they scale, not for lack of merit, but because rigid organisational structures move slower than the market opportunities in front of them. For a growing number of Japanese enterprises, the response has been to look outward, toward ecosystems agile enough […] The post Why Sony Acceleration Platform is…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "176156f556aaf148d036"
+    },
+    {
       "title": "M 4.5 - 38 km N of Ishqoshim, Tajikistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2050,6 +2329,27 @@
       "id": "5767159437fe10c13094"
     },
     {
+      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T07:15:53+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "GMOインターネットは、ドメイン登録サービス「お名前.com」の中古ドメイン販売ページで、おすすめドメインをランキング表示している部分に、「掲載リストはAIによって選定されています」との注記を、7月下旬までに追加した。 また従来、「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」と用...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0c4960c1d8bce2d5ddda"
+    },
+    {
       "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
       "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2155,29 +2455,99 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.8 - 5 km E of Uto, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
+      "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:24:13+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19ede298fb54c96832ee"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:24:13+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen und möglicherweise die Authentifizierung zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c110574f3c1ea6a6dc7a"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T08:24:12+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f96b0c8cf8d09fb91b47"
+    },
+    {
+      "title": "M 4.9 - 14 km NNE of Tsunagi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-28T08:12:27.141+00:00",
-      "fetched_at": "2026-07-28T08:12:56+00:00",
-      "summary": "PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-28T08:36:09.040+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Time 2026-07-28 08:18:54 UTC 2026-07-28 08:18:54 UTC at epicenter Location 32.359°N 130.543°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -2191,28 +2561,48 @@
         "HD",
         "LOW"
       ],
-      "id": "1f3dcfef40ae4f87b68f"
+      "id": "cfbb326bf38430a724a6"
     },
     {
-      "title": "What BEYOND Expo 2026 taught me about Asia’s hardware edge",
-      "url": "https://e27.co/what-beyond-expo-2026-taught-me-about-asias-hardware-edge-20260728/",
+      "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
+      "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-28T08:11:37+00:00",
-      "fetched_at": "2026-07-28T08:12:56+00:00",
-      "summary": "I have covered Asian tech for over 15 years, and I thought I had seen most of what this region could throw at a jaded journalist. Then I walked into BEYOND Expo 2026 in Macao, and spent an afternoon standing face-to-face with humanoid robots, trying on AI-powered glasses, and holding a Rubik’s Cube that had […] The post What BEYOND Expo 2026 taught me about Asia’s hardware edge appeared first on e27 .",
+      "published_at": "2026-07-28T08:57:38+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "Across Japan, corporations are grappling with a familiar tension: promising innovation initiatives that stall before they scale, not for lack of merit, but because rigid organisational structures move slower than the market opportunities in front of them. For a growing number of Japanese enterprises, the response has been to look outward, toward ecosystems agile enough […] The post Why Sony Acceleration Platform is…",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3f06a140299dcbd511a8"
+      "id": "176156f556aaf148d036"
+    },
+    {
+      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T07:15:53+00:00",
+      "fetched_at": "2026-07-28T09:12:51+00:00",
+      "summary": "GMOインターネットは、ドメイン登録サービス「お名前.com」の中古ドメイン販売ページで、おすすめドメインをランキング表示している部分に、「掲載リストはAIによって選定されています」との注記を、7月下旬までに追加した。 また従来、「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」と用...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0c4960c1d8bce2d5ddda"
     }
   ],
   "source_errors": [],

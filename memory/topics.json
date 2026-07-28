@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-28T08:13:24+00:00",
+  "generated_at": "2026-07-28T09:13:19+00:00",
   "topics": {
     "general": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-07-28T08:12:27.141+00:00",
         "relevance_score": 19,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9"
+      },
+      {
+        "title": "M 4.9 - 14 km NNE of Tsunagi, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-28T08:36:09.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn"
       },
       {
         "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
@@ -66,13 +73,6 @@
         "published_at": "2026-07-28T01:40:38.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n"
-      },
-      {
-        "title": "地域幸福度（Well-Being）指標の活用促進に関する検討会（第11回）の会議資料を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-07-28T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/councils/digital-garden-city-nation-wellbeing/aad0fd8b-36fd-428b-8dab-58fd6f0fe6d3"
       }
     ],
     "ai": [
@@ -191,11 +191,83 @@
         "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
       },
       {
+        "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-28T08:57:38+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/"
+      },
+      {
         "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-28T01:00:18+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T08:24:13+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T08:24:13+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T08:24:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520"
+      },
+      {
+        "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T05:12:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387"
+      },
+      {
+        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-28T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN56870912/"
+      },
+      {
+        "title": "[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-28T06:52:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525"
+      },
+      {
+        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-05-12T14:00:00+09:00",
+        "relevance_score": 13,
+        "url": "https://jvn.jp/jp/JVN03037325/"
+      },
+      {
+        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2024-08-27T12:00:00+09:00",
+        "relevance_score": 13,
+        "url": "https://jvn.jp/jp/JVN24885537/"
+      },
+      {
+        "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
+        "source": "heise Security Alerts",
+        "published_at": "2026-07-28T05:48:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html"
       }
     ],
     "github": [
@@ -242,50 +314,6 @@
         "url": "https://github.com/NanmiCoder/MediaCrawler"
       }
     ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T05:12:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387"
-      },
-      {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-28T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN56870912/"
-      },
-      {
-        "title": "[UPDATE] [UNGEPATCHT] [hoch] MELDUNG ZURÜCKGEZOGEN",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T06:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2525"
-      },
-      {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-05-12T14:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN03037325/"
-      },
-      {
-        "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-08-27T12:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN24885537/"
-      },
-      {
-        "title": "Angriffe auf FortiOS und Arista VeloCloud beobachtet",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-28T05:48:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html"
-      }
-    ],
     "geopolitics": [
       {
         "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
@@ -307,6 +335,13 @@
         "published_at": "2026-07-28T02:45:28+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
+      },
+      {
+        "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-28T08:57:38+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/"
       },
       {
         "title": "What BEYOND Expo 2026 taught me about Asia’s hardware edge",

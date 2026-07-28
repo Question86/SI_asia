@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-07-28T08:13:26+00:00",
+  "generated_at": "2026-07-28T09:13:22+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "critical",
+        "title": "USGS earthquake M6.8 - 5 km E of Uto, Japan",
+        "summary": "M6.8 - 5 km E of Uto, Japan. PAGER alert: red. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
+        "published_at": "2026-07-28T07:27:15+00:00",
+        "metrics": {
+          "mag": 6.8,
+          "alert": "red",
+          "sig": 723.0,
+          "tsunami": 0
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -95,17 +110,12 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.8 - 5 km E of Uto, Japan",
-        "summary": "M6.8 - 5 km E of Uto, Japan. PAGER alert: pending. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
-        "published_at": "2026-07-28T07:27:15+00:00",
-        "metrics": {
-          "mag": 6.8,
-          "alert": "pending",
-          "sig": 723.0,
-          "tsunami": 0
-        }
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 90 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 90 thousand in MMI VI.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -154,16 +164,6 @@
         "summary": "Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143",
         "published_at": "",
         "metrics": {}
       }
