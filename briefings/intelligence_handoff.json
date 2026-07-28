@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-28T15:55:24Z",
+  "generated_at": "2026-07-28T16:31:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:52:56+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T05:12:53+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1934",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:52:57+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:37:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -115,11 +115,42 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder beliebigen Code auszuführen."
     },
     {
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-07-28T16:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: supply, chain",
+        "high terms: 10",
+        "security high-signal: 10",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog ."
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:52:56+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -147,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:37:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -173,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T08:24:13+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -199,7 +230,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0905/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-07-21T00:00:00+00:00",
-      "age_days": 7.66,
+      "age_days": 7.69,
       "topics": [
         "ai",
         "security"
@@ -226,7 +257,7 @@
       "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:15:41+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -252,7 +283,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1653",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T11:42:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -278,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-28T10:52:53+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -298,32 +329,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Progress Software LoadMaster und Progress Software MOVEit ausnutzen, um beliebigen Programmcode auszuführen und Root-Rechte zu erlangen."
-    },
-    {
-      "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-28T10:52:53+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple macOS Tahoe, Sonoma und Sequoia ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen."
     }
   ],
   "read_order": [
