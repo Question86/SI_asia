@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T09:13:19+00:00",
-  "run_id": "2026-07-28T09:13:19+00:00",
+  "generated_at": "2026-07-28T10:09:46+00:00",
+  "run_id": "2026-07-28T10:09:46+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 5,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 14,
-    "observe": 31,
+    "medium": 16,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -162,6 +162,54 @@
           "PINS"
         ],
         "id": "8334bbbb9db22994d399"
+      },
+      {
+        "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-28T09:28:02+00:00",
+        "fetched_at": "2026-07-28T10:09:18+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "36db70ca7a29bcfc7cdc"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-28T09:28:01+00:00",
+        "fetched_at": "2026-07-28T10:09:18+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder potenziell um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f3fa1c0914c463274ff"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -952,6 +1000,29 @@
         "id": "02035e187fcbc9ffb347"
       },
       {
+        "title": "説明可能AI(XAI)の現状と展望",
+        "url": "https://kaityo256.github.io/explainable-ai-review",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-26T00:54:26+00:00",
+        "fetched_at": "2026-07-28T10:09:18+00:00",
+        "summary": "はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の「ゴール」も明確ではありません。以下では、XAI研究の現状と展望を簡単にサー...",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c6c6befd3d7a3ce3986e"
+      },
+      {
         "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
         "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
         "source": "Hatena Bookmark Hotentry IT",
@@ -994,6 +1065,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c23c10cddca29d1f066c"
+      },
+      {
+        "title": "Singapore’s Psalion raises US$50M fund for Web3’s next practical phase",
+        "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T09:13:48+00:00",
+        "fetched_at": "2026-07-28T10:09:18+00:00",
+        "summary": "For much of the past two years, crypto investors have been forced to separate signal from noise. Token prices recovered, regulators tightened their grip, and the industry’s loudest claims about remaking finance gave way to a quieter question: which parts of blockchain are actually useful? Singapore-based digital asset firm Psalion is betting that the answer […] The post Singapore’s Psalion raises US$50M fund for Web…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d5328a73fb1a6e459d53"
       },
       {
         "title": "What BEYOND Expo 2026 taught me about Asia’s hardware edge",
@@ -1221,6 +1312,24 @@
         "id": "da70a7f5074feefd652c"
       },
       {
+        "title": "Indian EV makers beat Tesla and BYD on energy efficiency",
+        "url": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-28T10:00:42+00:00",
+        "fetched_at": "2026-07-28T10:09:18+00:00",
+        "summary": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
+        "matched_keywords": [],
+        "relevance_score": 3,
+        "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b066827f8b216119de8d"
+      },
+      {
         "title": "Malaysia, Singapore investors rebalance portfolios without ditching crypto",
         "url": "https://e27.co/malaysia-singapore-investors-rebalance-portfolios-without-ditching-crypto-20260728/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1376,6 +1485,54 @@
         "PINS"
       ],
       "id": "8334bbbb9db22994d399"
+    },
+    {
+      "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T09:28:02+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "36db70ca7a29bcfc7cdc"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-28T09:28:01+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder potenziell um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f3fa1c0914c463274ff"
     },
     {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -2164,6 +2321,29 @@
       "id": "02035e187fcbc9ffb347"
     },
     {
+      "title": "説明可能AI(XAI)の現状と展望",
+      "url": "https://kaityo256.github.io/explainable-ai-review",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-26T00:54:26+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の「ゴール」も明確ではありません。以下では、XAI研究の現状と展望を簡単にサー...",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c6c6befd3d7a3ce3986e"
+    },
+    {
       "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
       "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2206,6 +2386,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c23c10cddca29d1f066c"
+    },
+    {
+      "title": "Singapore’s Psalion raises US$50M fund for Web3’s next practical phase",
+      "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T09:13:48+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "For much of the past two years, crypto investors have been forced to separate signal from noise. Token prices recovered, regulators tightened their grip, and the industry’s loudest claims about remaking finance gave way to a quieter question: which parts of blockchain are actually useful? Singapore-based digital asset firm Psalion is betting that the answer […] The post Singapore’s Psalion raises US$50M fund for Web…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5328a73fb1a6e459d53"
     },
     {
       "title": "What BEYOND Expo 2026 taught me about Asia’s hardware edge",
@@ -2433,6 +2633,24 @@
       "id": "da70a7f5074feefd652c"
     },
     {
+      "title": "Indian EV makers beat Tesla and BYD on energy efficiency",
+      "url": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T10:00:42+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
+      "matched_keywords": [],
+      "relevance_score": 3,
+      "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b066827f8b216119de8d"
+    },
+    {
       "title": "Malaysia, Singapore investors rebalance portfolios without ditching crypto",
       "url": "https://e27.co/malaysia-singapore-investors-rebalance-portfolios-without-ditching-crypto-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2455,37 +2673,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516",
+      "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-28T08:24:13+00:00",
-      "fetched_at": "2026-07-28T09:12:51+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "19ede298fb54c96832ee"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-28T08:24:13+00:00",
-      "fetched_at": "2026-07-28T09:12:51+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen und möglicherweise die Authentifizierung zu umgehen.",
+      "published_at": "2026-07-28T09:28:02+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2500,16 +2694,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c110574f3c1ea6a6dc7a"
+      "id": "36db70ca7a29bcfc7cdc"
     },
     {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (go-billy): Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2520",
+      "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-28T08:24:12+00:00",
-      "fetched_at": "2026-07-28T09:12:51+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-07-28T09:28:01+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder potenziell um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2524,85 +2718,68 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f96b0c8cf8d09fb91b47"
+      "id": "7f3fa1c0914c463274ff"
     },
     {
-      "title": "M 4.9 - 14 km NNE of Tsunagi, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-28T08:36:09.040+00:00",
-      "fetched_at": "2026-07-28T09:12:51+00:00",
-      "summary": "Time 2026-07-28 08:18:54 UTC 2026-07-28 08:18:54 UTC at epicenter Location 32.359°N 130.543°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "cfbb326bf38430a724a6"
-    },
-    {
-      "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
-      "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-28T08:57:38+00:00",
-      "fetched_at": "2026-07-28T09:12:51+00:00",
-      "summary": "Across Japan, corporations are grappling with a familiar tension: promising innovation initiatives that stall before they scale, not for lack of merit, but because rigid organisational structures move slower than the market opportunities in front of them. For a growing number of Japanese enterprises, the response has been to look outward, toward ecosystems agile enough […] The post Why Sony Acceleration Platform is…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "176156f556aaf148d036"
-    },
-    {
-      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
-      "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
+      "title": "説明可能AI(XAI)の現状と展望",
+      "url": "https://kaityo256.github.io/explainable-ai-review",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-28T07:15:53+00:00",
-      "fetched_at": "2026-07-28T09:12:51+00:00",
-      "summary": "GMOインターネットは、ドメイン登録サービス「お名前.com」の中古ドメイン販売ページで、おすすめドメインをランキング表示している部分に、「掲載リストはAIによって選定されています」との注記を、7月下旬までに追加した。 また従来、「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイトに」と用...",
+      "published_at": "2026-07-26T00:54:26+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の「ゴール」も明確ではありません。以下では、XAI研究の現状と展望を簡単にサー...",
       "matched_keywords": [
+        "AI/KI",
+        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0c4960c1d8bce2d5ddda"
+      "id": "c6c6befd3d7a3ce3986e"
+    },
+    {
+      "title": "Singapore’s Psalion raises US$50M fund for Web3’s next practical phase",
+      "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T09:13:48+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "For much of the past two years, crypto investors have been forced to separate signal from noise. Token prices recovered, regulators tightened their grip, and the industry’s loudest claims about remaking finance gave way to a quieter question: which parts of blockchain are actually useful? Singapore-based digital asset firm Psalion is betting that the answer […] The post Singapore’s Psalion raises US$50M fund for Web…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5328a73fb1a6e459d53"
+    },
+    {
+      "title": "Indian EV makers beat Tesla and BYD on energy efficiency",
+      "url": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-28T10:00:42+00:00",
+      "fetched_at": "2026-07-28T10:09:18+00:00",
+      "summary": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
+      "matched_keywords": [],
+      "relevance_score": 3,
+      "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b066827f8b216119de8d"
     }
   ],
   "source_errors": [],

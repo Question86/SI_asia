@@ -134,6 +134,54 @@
     "id": "8334bbbb9db22994d399"
   },
   {
+    "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T09:28:02+00:00",
+    "fetched_at": "2026-07-28T10:09:18+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36db70ca7a29bcfc7cdc"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-28T09:28:01+00:00",
+    "fetched_at": "2026-07-28T10:09:18+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder potenziell um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f3fa1c0914c463274ff"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518",
     "source": "BSI CERT-Bund Security Advisories",
@@ -920,6 +968,29 @@
     "id": "02035e187fcbc9ffb347"
   },
   {
+    "title": "説明可能AI(XAI)の現状と展望",
+    "url": "https://kaityo256.github.io/explainable-ai-review",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-26T00:54:26+00:00",
+    "fetched_at": "2026-07-28T10:09:18+00:00",
+    "summary": "はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の「ゴール」も明確ではありません。以下では、XAI研究の現状と展望を簡単にサー...",
+    "matched_keywords": [
+      "AI/KI",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c6c6befd3d7a3ce3986e"
+  },
+  {
     "title": "【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか",
     "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
     "source": "Hatena Bookmark Hotentry IT",
@@ -962,6 +1033,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c23c10cddca29d1f066c"
+  },
+  {
+    "title": "Singapore’s Psalion raises US$50M fund for Web3’s next practical phase",
+    "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-28T09:13:48+00:00",
+    "fetched_at": "2026-07-28T10:09:18+00:00",
+    "summary": "For much of the past two years, crypto investors have been forced to separate signal from noise. Token prices recovered, regulators tightened their grip, and the industry’s loudest claims about remaking finance gave way to a quieter question: which parts of blockchain are actually useful? Singapore-based digital asset firm Psalion is betting that the answer […] The post Singapore’s Psalion raises US$50M fund for Web…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d5328a73fb1a6e459d53"
   },
   {
     "title": "What BEYOND Expo 2026 taught me about Asia’s hardware edge",
@@ -1187,6 +1278,24 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "da70a7f5074feefd652c"
+  },
+  {
+    "title": "Indian EV makers beat Tesla and BYD on energy efficiency",
+    "url": "https://restofworld.org/2026/indian-evs-beat-tesla-byd-icct-efficiency-ranking/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-28T10:00:42+00:00",
+    "fetched_at": "2026-07-28T10:09:18+00:00",
+    "summary": "Tata Motors and Mahindra topped a global ranking of battery efficiency, showing India's strength in building frugal electric cars — even as they lag on charging speed and driving range.",
+    "matched_keywords": [],
+    "relevance_score": 3,
+    "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b066827f8b216119de8d"
   },
   {
     "title": "Malaysia, Singapore investors rebalance portfolios without ditching crypto",
