@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T23:28:12+00:00_
+_Generiert: 2026-07-28T23:49:56+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
+100 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
 
 ## Priorität Hoch
 

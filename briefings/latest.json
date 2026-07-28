@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T23:28:12+00:00",
-  "run_id": "2026-07-28T23:28:12+00:00",
+  "generated_at": "2026-07-28T23:49:56+00:00",
+  "run_id": "2026-07-28T23:49:56+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "new_relevant_findings": 1,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 1,
     "medium": 36,
-    "observe": 62,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -2090,6 +2090,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eebf5c187933644ffbd3"
+      },
+      {
+        "title": "GitHub Copilot app usage metrics now expand across report rollups",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-28T23:35:01+00:00",
+        "fetched_at": "2026-07-28T23:49:25+00:00",
+        "summary": "Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.… The post GitHub Copilot app usage metrics now expand across report rollups appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "95f48f52570d73716ca3"
       },
       {
         "title": "令和8年熊本地震に関する対応状況について",
@@ -4627,6 +4648,27 @@
       "id": "eebf5c187933644ffbd3"
     },
     {
+      "title": "GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-28T23:35:01+00:00",
+      "fetched_at": "2026-07-28T23:49:25+00:00",
+      "summary": "Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.… The post GitHub Copilot app usage metrics now expand across report rollups appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95f48f52570d73716ca3"
+    },
+    {
       "title": "令和8年熊本地震に関する対応状況について",
       "url": "https://www.digital.go.jp/news/0af1c2ec-b5f1-430b-abc6-cdbbe9952292",
       "source": "Japan Digital Agency News RSS",
@@ -5100,7 +5142,29 @@
       "id": "732168c981a6575a8160"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-28T23:35:01+00:00",
+      "fetched_at": "2026-07-28T23:49:25+00:00",
+      "summary": "Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.… The post GitHub Copilot app usage metrics now expand across report rollups appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95f48f52570d73716ca3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
