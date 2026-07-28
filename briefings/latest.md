@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T17:19:46+00:00_
+_Generiert: 2026-07-28T17:51:11+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
+91 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.8 - 5 km E of Uto, Japan** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9)
+- **USGS earthquake M6.8 - 2026 Uto, Japan Earthquake ** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9)
   - Quelle: USGS
   - Zeit: `2026-07-28T07:27:15+00:00`
-  - Kurz: M6.8 - 5 km E of Uto, Japan. PAGER alert: red. Tsunami flag: 0.
+  - Kurz: M6.8 - 2026 Uto, Japan Earthquake . PAGER alert: red. Tsunami flag: 0.
 - **CISA KEV: CVE-2025-68686 Fortinet FortiOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-27`
@@ -33,42 +33,16 @@ _Generiert: 2026-07-28T17:19:46+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI&gt;=VII).
-- **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Italy
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554532)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554518)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.
-- **GDACS: Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554511)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI&gt;=VII).
-- **GDACS: Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554510)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).
-- **GDACS: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001297)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554143)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.
+- **USGS earthquake M5.8 - 191 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9)
+  - Quelle: USGS
+  - Zeit: `2026-07-28T03:34:05+00:00`
+  - Kurz: M5.8 - 191 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
+- **USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6)
+  - Quelle: USGS
+  - Zeit: `2026-07-28T03:16:08+00:00`
+  - Kurz: M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f0aca22ee50>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -105,6 +79,15 @@ _Generiert: 2026-07-28T17:19:46+00:00_
 - **GitHub Actions holds potentially malicious workflows for approval** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-28T11:57:19+00:00`, fetched `2026-07-28T13:42:02+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub Actions holds potentially malicious workflows for approval** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-28T11:57:19+00:00`, fetched `2026-07-28T17:50:41+00:00`
   - Treffer: Actions, GitHub, GitHub Actions, Supply Chain Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -164,15 +147,6 @@ _Generiert: 2026-07-28T17:19:46+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-28T01:23:10+00:00`, fetched `2026-07-28T03:24:38+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why investors often back Vietnamese startups more aggressively than Thai peers** — Score 16, observation — [Quelle](https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

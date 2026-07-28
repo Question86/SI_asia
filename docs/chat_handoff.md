@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T17:19:46+00:00_
+_Generated: 2026-07-28T17:51:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `90`
+- findings: `91`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-07-28T17:19:46+00:00_
 - url: https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval
 - summary: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially…
 
-### 4. M 6.8 - 5 km E of Uto, Japan
+### 4. GitHub Actions holds potentially malicious workflows for approval
+- source: GitHub Changelog Atom
+- score: `20`
+- published: `2026-07-28T11:57:19+00:00`
+- url: https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval
+- summary: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially…
+
+### 5. M 6.8 - 5 km E of Uto, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-07-28T08:12:27.141+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9
 - summary: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
-
-### 5. Dependabot alerts on malicious packages across more ecosystems
-- source: GitHub Changelog Atom
-- score: `18`
-- published: `2026-07-28T14:55:31+00:00`
-- url: https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems
-- summary: The GitHub Advisory Database now ingests malware advisories from the OpenSSF malicious-packages repository, significantly expanding the breadth of malware data available to you through Dependabot alerts. What changed With this… The post Dependabot alerts on m…
 
 ### 6. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour

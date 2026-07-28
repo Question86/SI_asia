@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T17:19:46+00:00_
+_Generiert: 2026-07-28T17:51:11+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
+91 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
 
 ## Priorität Hoch
 
@@ -32,6 +32,15 @@ _Generiert: 2026-07-28T17:19:46+00:00_
 - **GitHub Actions holds potentially malicious workflows for approval** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-28T11:57:19+00:00`, fetched `2026-07-28T13:42:02+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub Actions holds potentially malicious workflows for approval** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-28T11:57:19+00:00`, fetched `2026-07-28T17:50:41+00:00`
   - Treffer: Actions, GitHub, GitHub Actions, Supply Chain Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -91,15 +100,6 @@ _Generiert: 2026-07-28T17:19:46+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-28T01:23:10+00:00`, fetched `2026-07-28T03:24:38+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why investors often back Vietnamese startups more aggressively than Thai peers** — Score 16, observation — [Quelle](https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
