@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T20:57:36+00:00_
+_Generiert: 2026-07-28T21:26:00+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-07-28T20:57:36+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
+- **GDACS: Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI&gt;=VII).
+  - Kurz: Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).
 - **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053)
   - Quelle: GDACS
   - Zeit: ``
