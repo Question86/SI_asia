@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-28T00:20:30Z",
+  "generated_at": "2026-07-28T00:58:18Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 38.93,
+      "age_days": 38.96,
       "topics": [
         "ai"
       ],
@@ -34,17 +34,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.3 for 38.9d old signal",
+        "aging penalty -6.3 for 39.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
+      "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-27T18:03:40+00:00",
+      "age_days": 0.29,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "Webアプリケーションのホスティングサービス「Vercel」で知られるVercel社は、Node.jsで実行可能なTypeScriptコードを、変更することなく同じ機能を備えたネイティブな実行ファイルにコンパイルするコンパイラ「scriptc」をオープンソースで公開しました。 TypeScriptをC言語へ変換しCコンパイラでコンパイル Node.jsで..."
     },
     {
       "title": "ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)",
       "url": "https://jbpress.ismedia.jp/articles/-/96137",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T21:58:06+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -69,7 +94,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.9,
+      "age_days": 37.92,
       "topics": [
         "general"
       ],
@@ -94,7 +119,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.9,
+      "age_days": 37.92,
       "topics": [
         "general"
       ],
@@ -119,7 +144,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 37.9,
+      "age_days": 37.92,
       "topics": [
         "ai"
       ],
@@ -151,7 +176,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 2,
       "quiet": 4
     }
   }
