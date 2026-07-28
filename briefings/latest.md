@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T13:42:31+00:00_
+_Generiert: 2026-07-28T14:33:45+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+83 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-07-28T13:42:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-21`
   - Kurz: Known exploited vulnerability. Added 2026-07-21. Due 2026-08-04. WordPress Core SQL Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
+- **GDACS: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).
+  - Kurz: Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI&gt;=VII).
 - **GDACS: Green flood alert in Italy** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104053)
   - Quelle: GDACS
   - Zeit: ``
@@ -74,7 +74,7 @@ _Generiert: 2026-07-28T13:42:31+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 503 Server Error: Service Unavailable for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -156,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); funding (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company being financed, but it also reflects the market surrounding it. Investors consider the […] The post Why investors often back Vietnamese startups more aggressively…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Tenable Security Center (21 juillet 2026)** — Score 16, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0905/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-21T00:00:00+00:00`, fetched `2026-07-28T14:33:17+00:00`
+  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 14 km NNE of Tsunagi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -277,6 +286,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ヤモリの足裏を科学した米軍の装備、粘着剤なしで垂直壁を走る驚異の技術* | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 11, observation — [Quelle](https://forbesjapan.com/articles/detail/101739)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-28T09:34:23+00:00`, fetched `2026-07-28T14:33:17+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米国防高等研究計画局（DARPA）は2014年、「Z-Man」と呼ばれるプログラムの成果を公開した。それは、体重90kg超のクライマーが約23kgの荷物を背負い、ロープもハーネスも吸盤も使わず、2つの接着パドルだけを使って、ガラスでできた高さ約7.6mの垂直壁を上るというデモンストレーションだった。 こんな離れ業が可能にな...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **自分の顔をAIにレンタルする行為が中国で流行** — Score 10, observation — [Quelle](https://gigazine.net/news/20260728-china-people-renting-face-to-ai/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-28T06:20:16+00:00`, fetched `2026-07-28T13:02:51+00:00`
@@ -295,15 +313,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **最近の仕事の流れ** — Score 10, observation — [Quelle](https://zenn.dev/kimuchan/articles/bc8e98682f8594)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-27T15:44:04+00:00`, fetched `2026-07-28T03:24:38+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに ここ数ヶ月で働き方がかなり変わった。 リファインメントで grill して認識を合わせ、実装は Claude Code に書かせ、多層モデルのレビュー と 厚い CI を通し、babysit-pr で green になるまで面倒を見させる。この流れが回り始めてから、かなりの信頼度の change list が安定して生産できるようになった。 全...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft: Proof-of-Concept-Exploit für „Certighost“-AD-Lücke aufgetaucht** — Score 8, risk — [Quelle](https://www.heise.de/news/Microsoft-warnt-vor-Proof-of-Concept-Exploit-fuer-Certighost-AD-Luecke-11379962.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-28T11:00:00.000+00:00`, fetched `2026-07-28T11:44:34+00:00`
@@ -313,23 +322,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Am Juli-Patchday hat Microsoft eine AD-Lücke geschlossen, die Rechteausweitung ermöglicht. Nun warnt das Unternehmen vor PoC-Exploit.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **amnezia-vpn/amnezia-client** — Score 8, observation — [Quelle](https://github.com/amnezia-vpn/amnezia-client)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-28T02:13:28+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+- **Vulnérabilité dans Traefik (11 juin 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0738/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-06-11T00:00:00+00:00`, fetched `2026-07-28T14:33:17+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocked in your region, you can use an Alternative website link . All releases Features Very easy to use -…
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Verschiedene Attacken auf Progress LoadMaster möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Verschiedene-Attacken-auf-Progress-LoadMaster-moeglich-11380070.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-28T12:15:00.000+00:00`, fetched `2026-07-28T12:23:51+00:00`
-  - Treffer: Security
+- **Multiples vulnérabilités dans Roundcube (19 mars 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-03-19T00:00:00+00:00`, fetched `2026-07-28T14:33:17+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die Load-Balancing- und Cluster-Managementlösung LoadMaster ist verwundbar. Die Entwickler haben nun Sicherheitslücken geschlossen.
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
