@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-28T05:00:50Z",
+  "generated_at": "2026-07-28T06:07:41Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,6 +23,11 @@
   ],
   "current_dynamic_memory_candidates": [
     {
+      "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "How the next-generation neobank should be built for the agentic economy?",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
@@ -31,6 +36,11 @@
       "title": "The real workforce challenge: Bridging the credential-capability gap",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
       "title": "amnezia-vpn/amnezia-client",
@@ -49,11 +59,6 @@
     },
     {
       "title": "opengeos/GeoLibre",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }

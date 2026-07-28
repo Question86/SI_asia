@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-28T05:00:50Z",
+  "generated_at": "2026-07-28T06:07:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 26,
+    "dynamics": 31,
     "bands": {
-      "krass": 2,
-      "strong": 5,
-      "watch": 3,
+      "krass": 3,
+      "strong": 7,
+      "watch": 5,
       "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 3,
+      "krass": 1,
+      "strong": 9,
+      "watch": 5,
       "quiet": 16
     }
   },
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0387",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-28T05:12:53+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, code",
+        "security high-signal: active, exploitation, code, fortinet"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen oder Code auszuführen."
+    },
+    {
       "title": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "infra"
@@ -45,11 +71,35 @@
       "summary": "Amnezia VPN Client (Desktop+Mobile) Amnezia VPN The best client for self-hosted VPN English | Русский Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server. Website | Alt website link | Documentation | Troubleshooting Tip If the Amnezia website is blocke…"
     },
     {
+      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）",
+      "url": "https://jvn.jp/jp/JVN56870912/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-28T14:00:00+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。"
+    },
+    {
       "title": "How the next-generation neobank should be built for the agentic economy?",
       "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:15:41+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -75,7 +125,7 @@
       "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:15:33+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -101,7 +151,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 39.13,
+      "age_days": 39.17,
       "topics": [
         "ai"
       ],
@@ -120,7 +170,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.3 for 39.1d old signal",
+        "aging penalty -6.4 for 39.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -130,7 +180,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T03:59:11.384+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -155,7 +205,7 @@
       "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T18:03:40+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -180,7 +230,7 @@
       "url": "https://github.com/opengeos/GeoLibre",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -201,11 +251,86 @@
       "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. GeoLibre A free and open-source, lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It…"
     },
     {
+      "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-28T05:07:21.242+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-07-28 04:42:18 UTC 2026-07-28 04:42:18 UTC at epicenter Location 55.881°N 165.070°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）",
+      "url": "https://jvn.jp/jp/JVN03037325/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-05-12T14:00:00+09:00",
+      "age_days": 77.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security",
+        "aging penalty -8.0 for 77.0d old signal"
+      ],
+      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN24885537/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2024-08-27T12:00:00+09:00",
+      "age_days": 700.13,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security",
+        "aging penalty -8.0 for 700.1d old signal"
+      ],
+      "summary": "エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。"
+    },
+    {
       "title": "M 5.3 - southern Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T01:40:38.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -230,7 +355,7 @@
       "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:19:07+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -254,7 +379,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T02:07:11.065+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -278,7 +403,7 @@
       "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:30:17+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -304,7 +429,7 @@
       "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:00:18+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -328,7 +453,7 @@
       "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T01:23:10+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -353,7 +478,7 @@
       "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:15:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -379,7 +504,7 @@
       "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T15:44:04+00:00",
-      "age_days": 0.55,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -405,7 +530,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260728-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-28T03:19:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -429,7 +554,7 @@
       "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:30:23+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -455,7 +580,7 @@
       "url": "https://jbpress.ismedia.jp/articles/-/96137",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T21:58:06+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -480,7 +605,7 @@
       "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:45:28+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -505,7 +630,7 @@
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -531,7 +656,7 @@
       "url": "https://e27.co/volatility-is-here-to-stay-what-are-you-going-to-do-about-it-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:15:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -556,7 +681,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 38.09,
+      "age_days": 38.14,
       "topics": [
         "general"
       ],
@@ -581,7 +706,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 38.09,
+      "age_days": 38.14,
       "topics": [
         "general"
       ],
@@ -606,7 +731,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 38.09,
+      "age_days": 38.14,
       "topics": [
         "ai"
       ],
@@ -633,7 +758,7 @@
       "url": "https://zenn.dev/fixstars/articles/kimi-k3-benchmark",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T00:58:38+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -658,7 +783,7 @@
       "url": "https://e27.co/the-future-of-clinical-trials-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:00:47+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -679,5 +804,5 @@
       "summary": "The history of medicine is filled with remarkable scientific breakthroughs. Yet many promising therapies that perform exceptionally in laboratories and animal models fail to deliver the same success in human clinical trials. The reason is often not poor drug design, it is human biological variability. Every patient is…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “amnezia-vpn/amnezia-client” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Fortinet FortiOS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
