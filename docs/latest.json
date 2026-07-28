@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T13:03:19+00:00",
-  "run_id": "2026-07-28T13:03:19+00:00",
+  "generated_at": "2026-07-28T13:42:31+00:00",
+  "run_id": "2026-07-28T13:42:31+00:00",
   "date": "2026-07-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 2,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
-    "medium": 31,
-    "observe": 43,
+    "medium": 32,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -53,6 +53,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e3f323d2e464f5de67fa"
+      },
+      {
+        "title": "GitHub Actions holds potentially malicious workflows for approval",
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-28T11:57:19+00:00",
+        "fetched_at": "2026-07-28T13:42:02+00:00",
+        "summary": "Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Actions",
+          "GitHub",
+          "GitHub Actions",
+          "Supply Chain Security"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4a113cf4752392018eb4"
       },
       {
         "title": "M 6.8 - 5 km E of Uto, Japan",
@@ -1664,6 +1687,27 @@
         "id": "df8e909ef3b6ff5a56eb"
       },
       {
+        "title": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2128607.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-28T10:33:51+00:00",
+        "fetched_at": "2026-07-28T13:42:02+00:00",
+        "summary": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "73817e029ef9894be7aa"
+      },
+      {
         "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
         "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1916,6 +1960,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e3f323d2e464f5de67fa"
+    },
+    {
+      "title": "GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-28T11:57:19+00:00",
+      "fetched_at": "2026-07-28T13:42:02+00:00",
+      "summary": "Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions",
+        "Supply Chain Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4a113cf4752392018eb4"
     },
     {
       "title": "M 6.8 - 5 km E of Uto, Japan",
@@ -3525,6 +3592,27 @@
       "id": "df8e909ef3b6ff5a56eb"
     },
     {
+      "title": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2128607.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T10:33:51+00:00",
+      "fetched_at": "2026-07-28T13:42:02+00:00",
+      "summary": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "73817e029ef9894be7aa"
+    },
+    {
       "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
       "url": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3753,26 +3841,48 @@
   ],
   "new_findings": [
     {
-      "title": "自分の顔をAIにレンタルする行為が中国で流行",
-      "url": "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
+      "title": "GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-28T11:57:19+00:00",
+      "fetched_at": "2026-07-28T13:42:02+00:00",
+      "summary": "Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "GitHub",
+        "GitHub Actions",
+        "Supply Chain Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4a113cf4752392018eb4"
+    },
+    {
+      "title": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2128607.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-28T06:20:16+00:00",
-      "fetched_at": "2026-07-28T13:02:51+00:00",
-      "summary": "顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI https://restofworld.org/2026/china-ai-microdramas-face-...",
+      "published_at": "2026-07-28T10:33:51+00:00",
+      "fetched_at": "2026-07-28T13:42:02+00:00",
+      "summary": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a3b4367e49112df9cd94"
+      "id": "73817e029ef9894be7aa"
     }
   ],
   "source_errors": [],
