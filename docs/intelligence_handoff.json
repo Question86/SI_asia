@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-28T03:49:07Z",
+  "generated_at": "2026-07-28T05:00:50Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “amnezia-vpn/amnezia-client” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:15:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:15:33+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -93,7 +93,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 39.08,
+      "age_days": 39.13,
       "topics": [
         "ai"
       ],
@@ -118,11 +118,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-28T03:59:11.384+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - YELLOW ShakeMap - VII Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
       "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-27T18:03:40+00:00",
-      "age_days": 0.41,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -147,7 +172,7 @@
       "url": "https://github.com/opengeos/GeoLibre",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-28T02:13:28+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -172,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T01:40:38.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -197,7 +222,7 @@
       "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:19:07+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -221,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-28T02:07:11.065+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -245,7 +270,7 @@
       "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T02:30:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -271,7 +296,7 @@
       "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-28T01:00:18+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -289,31 +314,6 @@
         "early terms: supply, shortage"
       ],
       "summary": "Something strange is happening in Vietnam’s engineering hiring market right now. Companies report talent shortages. Candidates report rejection rates higher than ever. Both are telling the truth. The gap between them isn’t a supply problem. It’s a definition problem, a fundamental mismatch between what companies say t…"
-    },
-    {
-      "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-07-28T01:23:10+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and… The post GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management appeared first on The GitHub Blog…"
     }
   ],
   "read_order": [
@@ -325,9 +325,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 7,
       "watch": 3,
-      "quiet": 3
+      "quiet": 2
     }
   }
 }
