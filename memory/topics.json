@@ -1,438 +1,72 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-28T23:49:56+00:00",
+  "generated_at": "2026-07-29T00:11:23+00:00",
   "topics": {
-    "ai": [
-      {
-        "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-07-28T16:00:00+00:00",
-        "relevance_score": 29,
-        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-      },
-      {
-        "title": "GitHub Actions holds potentially malicious workflows for approval",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T11:57:19+00:00",
-        "relevance_score": 20,
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"
-      },
-      {
-        "title": "GitHub Actions holds potentially malicious workflows for approval",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T11:57:19+00:00",
-        "relevance_score": 20,
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval"
-      },
-      {
-        "title": "Dependabot alerts on malicious packages across more ecosystems",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T14:55:31+00:00",
-        "relevance_score": 18,
-        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
-      },
-      {
-        "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:30:17+00:00",
-        "relevance_score": 18,
-        "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/"
-      },
-      {
-        "title": "Scientific computing in the age of agentic AI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-07-28T17:00:00+00:00",
-        "relevance_score": 17,
-        "url": "https://openai.com/index/scientific-computing-agentic-ai"
-      },
-      {
-        "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T01:23:10+00:00",
-        "relevance_score": 17,
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management"
-      },
-      {
-        "title": "Why investors often back Vietnamese startups more aggressively than Thai peers",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:15:10+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans Tenable Security Center (21 juillet 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-07-21T00:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0905/"
-      },
-      {
-        "title": "How the next-generation neobank should be built for the agentic economy?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:15:41+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/"
-      }
-    ],
     "security": [
       {
-        "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-07-28T16:00:00+00:00",
-        "relevance_score": 29,
-        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:37:53+00:00",
-        "relevance_score": 22,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452"
-      },
-      {
-        "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:37:53+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460"
-      },
-      {
-        "title": "[UPDATE] [hoch] libssh2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T08:24:13+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (LibRaw): Mehrere Schwachstellen ermöglichen Codeausführung oder DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:52:56+00:00",
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-29T09:00:00+09:00",
         "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1298"
+        "url": "https://jvn.jp/vu/JVNVU90008749/"
       },
       {
-        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:52:56+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1488"
+        "title": "npm publish-time malware scanning and dual-use metadata",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-28T22:50:05+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-28T09:16:14+00:00",
+        "relevance_score": 15,
+        "url": "https://forest.watch.impress.co.jp/docs/news/2128581.html"
       },
       {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (cifs-utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:37:53+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2125"
+        "title": "npm publish-time malware scanning and dual-use metadata",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-28T22:50:05+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
       },
       {
-        "title": "[UPDATE] [niedrig] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T09:28:02+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1587"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T09:28:01+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1555"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libreswan): Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T08:24:13+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2518"
+        "title": "AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-28T22:19:31+00:00",
+        "relevance_score": 8,
+        "url": "https://mainichi.jp/articles/20260728/k00/00m/040/190000c"
       }
     ],
     "github": [
       {
-        "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-07-28T16:00:00+00:00",
-        "relevance_score": 29,
-        "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-      },
-      {
-        "title": "GitHub Actions holds potentially malicious workflows for approval",
+        "title": "npm publish-time malware scanning and dual-use metadata",
         "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T11:57:19+00:00",
-        "relevance_score": 20,
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"
-      },
-      {
-        "title": "GitHub Actions holds potentially malicious workflows for approval",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T11:57:19+00:00",
-        "relevance_score": 20,
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval"
-      },
-      {
-        "title": "Dependabot alerts on malicious packages across more ecosystems",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T14:55:31+00:00",
-        "relevance_score": 18,
-        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
-      },
-      {
-        "title": "Scientific computing in the age of agentic AI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-07-28T17:00:00+00:00",
-        "relevance_score": 17,
-        "url": "https://openai.com/index/scientific-computing-agentic-ai"
-      },
-      {
-        "title": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T01:23:10+00:00",
-        "relevance_score": 17,
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management"
-      },
-      {
-        "title": "Projektor",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-28T11:53:25+00:00",
-        "relevance_score": 12,
-        "url": "https://tajd.github.io/projektor/"
-      },
-      {
-        "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T06:11:07+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/"
-      },
-      {
-        "title": "Grok 4.5 is now available in GitHub Copilot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T19:10:45+00:00",
-        "relevance_score": 11,
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot"
-      },
-      {
-        "title": "説明可能AI(XAI)の現状と展望",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-26T00:54:26+00:00",
-        "relevance_score": 9,
-        "url": "https://kaityo256.github.io/explainable-ai-review"
-      }
-    ],
-    "general": [
-      {
-        "title": "M 6.8 - 5 km E of Uto, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T08:12:27.141+00:00",
-        "relevance_score": 19,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9"
-      },
-      {
-        "title": "M 4.9 - 14 km NNE of Tsunagi, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T08:36:09.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn"
-      },
-      {
-        "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T03:59:11.384+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
-      },
-      {
-        "title": "M 5.4 - 211 km SE of Kokopo, Papua New Guinea",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T20:54:46.288+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
-      },
-      {
-        "title": "M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T06:24:03.524+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau"
-      },
-      {
-        "title": "M 5.4 - 110 km SSE of Akureyri, Iceland",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T06:12:20.792+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw"
-      },
-      {
-        "title": "M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T05:07:21.242+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae"
-      },
-      {
-        "title": "M 4.7 - 51 km E of Denali National Park, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T20:54:03.255+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovufno"
-      },
-      {
-        "title": "M 4.6 - 38 km S of Mendoza, Argentina",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-07-28T02:07:11.065+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9q"
-      },
-      {
-        "title": "最近の仕事の流れ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-27T15:44:04+00:00",
-        "relevance_score": 10,
-        "url": "https://zenn.dev/kimuchan/articles/bc8e98682f8594"
+        "published_at": "2026-07-28T22:50:05+00:00",
+        "relevance_score": 14,
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
       }
     ],
     "geopolitics": [
       {
-        "title": "Dependabot alerts on malicious packages across more ecosystems",
+        "title": "npm publish-time malware scanning and dual-use metadata",
         "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T14:55:31+00:00",
-        "relevance_score": 18,
-        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
-      },
-      {
-        "title": "Scientific computing in the age of agentic AI",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-07-28T17:00:00+00:00",
-        "relevance_score": 17,
-        "url": "https://openai.com/index/scientific-computing-agentic-ai"
-      },
-      {
-        "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:19:07+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Airflow FAB provider: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:57:53+00:00",
+        "published_at": "2026-07-28T22:50:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2551"
-      },
-      {
-        "title": "[NEU] [mittel] Bouncy Castle: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T11:37:54+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2550"
-      },
-      {
-        "title": "[NEU] [mittel] binutils: Schwachstelle ermöglicht Denial of Service und Offenlegung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2545"
-      },
-      {
-        "title": "[NEU] [hoch] Progress Software LoadMaster und MOVEit WAF: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2544"
-      },
-      {
-        "title": "[NEU] [hoch] Apple macOS (Tahoe, Sonoma und Sequoia): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:52:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2543"
-      },
-      {
-        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:42:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2541"
-      },
-      {
-        "title": "[NEU] [mittel] Devolutions Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-28T10:42:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2542"
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
       }
     ],
-    "economy": [
+    "general": [
       {
-        "title": "AI is making Southeast Asia’s startups faster, not richer, yet",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:30:17+00:00",
-        "relevance_score": 18,
-        "url": "https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/"
-      },
-      {
-        "title": "Why investors often back Vietnamese startups more aggressively than Thai peers",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:15:10+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/"
-      },
-      {
-        "title": "Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:19:07+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/"
-      },
-      {
-        "title": "How the next-generation neobank should be built for the agentic economy?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:15:41+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/"
-      },
-      {
-        "title": "How the Philippines and Singapore use AI differently at work",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T11:41:22+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/"
-      },
-      {
-        "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:30:23+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/"
-      },
-      {
-        "title": "Asia’s AI race won’t be won by capital or talent, but by whoever can keep the lights on",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T02:45:28+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/asias-ai-race-wont-be-won-by-capital-or-talent-but-by-whoever-can-keep-the-lights-on-20260726/"
-      },
-      {
-        "title": "Why Sony Acceleration Platform is turning to Singapore for innovation, and what it means for your startup",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T08:57:38+00:00",
+        "title": "M 4.8 - 76 km E of Kokopo, Papua New Guinea",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-29T00:10:17.040+00:00",
         "relevance_score": 9,
-        "url": "https://e27.co/why-sony-acceleration-platform-is-turning-to-singapore-for-innovation-and-what-it-means-for-your-startup-20260728/"
-      },
-      {
-        "title": "Singapore’s Psalion raises US$50M fund for Web3’s next practical phase",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T09:13:48+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/singapores-psalion-raises-us50m-fund-for-web3s-next-practical-phase-20260728/"
-      },
-      {
-        "title": "Vietnam’s tech talent market is broken and most companies are still hiring the wrong way",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-28T01:00:18+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/vietnams-tech-talent-market-is-broken-and-most-companies-are-still-hiring-the-wrong-way-20260727/"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz"
       }
     ]
   }

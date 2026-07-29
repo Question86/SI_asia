@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-28T23:49:56+00:00_
+_Generiert: 2026-07-29T00:11:23+00:00_
 
 ## Kurzlage
 
-100 neue relevante Treffer. Stärkstes Signal: „Disrupting supply chain attacks on npm and GitHub Actions“ aus GitHub Blog Atom (Score 29, risk).
+5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,296 +77,61 @@ _Generiert: 2026-07-28T23:49:56+00:00_
 
 ## Priorität Hoch
 
-- **Disrupting supply chain attacks on npm and GitHub Actions** — Score 29, risk — [Quelle](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-07-28T16:00:00+00:00`, fetched `2026-07-28T16:09:56+00:00`
-  - Treffer: GitHub, GitHub Actions, Security, Supply Chain Security, Watchgraph:software_supply_chain
-  - Watchgraph: software_supply_chain
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); Supply Chain Security (+10.0); GitHub (+2.5); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
-  - Kurz: Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **[UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-28T11:37:53+00:00`, fetched `2026-07-28T11:44:34+00:00`
-  - Treffer: APAC Trend Radar, Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder beliebigen Code auszuführen.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **GitHub Actions holds potentially malicious workflows for approval** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-28T11:57:19+00:00`, fetched `2026-07-28T13:42:02+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
-  - Kurz: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GitHub Actions holds potentially malicious workflows for approval** — Score 20, risk — [Quelle](https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-28T11:57:19+00:00`, fetched `2026-07-28T17:50:41+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); Supply Chain Security (+8.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
-  - Kurz: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially malicious workflows for approval appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 6.8 - 5 km E of Uto, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T08:12:27.141+00:00`, fetched `2026-07-28T08:12:56+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Dependabot alerts on malicious packages across more ecosystems** — Score 18, risk — [Quelle](https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-28T14:55:31+00:00`, fetched `2026-07-28T15:24:56+00:00`
-  - Treffer: CodeQL/Dependabot, GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: The GitHub Advisory Database now ingests malware advisories from the OpenSSF malicious-packages repository, significantly expanding the breadth of malware data available to you through Dependabot alerts. What changed With this… The post Dependabot alerts on malicious packages across more ecosystems appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI is making Southeast Asia’s startups faster, not richer, yet** — Score 18, observation — [Quelle](https://e27.co/ai-is-making-southeast-asias-startups-faster-not-richer-yet-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T02:30:17+00:00`, fetched `2026-07-28T03:24:38+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Public Health, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
-  - Kurz: Ask a room of Southeast Asian founders whether AI has saved their team time, and every hand goes up. Ask who has made more money because of it, and most hands come down. I run a digital marketing agency, invest in early-stage companies and train teams across the region, and this gap shows up in […] The post AI is making Southeast Asia’s startups faster, not richer, yet appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Scientific computing in the age of agentic AI** — Score 17, observation — [Quelle](https://openai.com/index/scientific-computing-agentic-ai)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-28T17:00:00+00:00`, fetched `2026-07-28T17:19:17+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0)
-  - Kurz: A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2460)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-28T11:37:53+00:00`, fetched `2026-07-28T11:44:34+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye, Crucible, Jira und Jira Service Management ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] libssh2: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2516)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-28T08:24:13+00:00`, fetched `2026-07-28T09:12:51+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um möglicherweise vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen oder beliebigen Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why investors often back Vietnamese startups more aggressively than Thai peers** — Score 16, observation — [Quelle](https://e27.co/why-investors-often-back-vietnamese-startups-more-aggressively-than-thai-peers-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T01:15:10+00:00`, fetched `2026-07-28T01:24:52+00:00`
-  - Treffer: APAC Trend Radar, founder, funding, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); funding (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Thai founders sometimes ask why a Vietnamese startup with a comparable product or level of traction can appear to raise a larger funding round. The answer is rarely that one startup is inherently better than the other. Venture capital reflects the company being financed, but it also reflects the market surrounding it. Investors consider the […] The post Why investors often back Vietnamese startups more aggressively…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Tenable Security Center (21 juillet 2026)** — Score 16, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0905/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-21T00:00:00+00:00`, fetched `2026-07-28T14:33:17+00:00`
-  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection SQL (SQLi) et un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 14 km NNE of Tsunagi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgbn)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T08:36:09.040+00:00`, fetched `2026-07-28T09:12:51+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-28 08:18:54 UTC 2026-07-28 08:18:54 UTC at epicenter Location 32.359°N 130.543°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.8 - 191 km NW of Oula Xiuma, China** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T03:59:11.384+00:00`, fetched `2026-07-28T04:31:26+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - YELLOW ShakeMap - VII Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken** — Score 15, observation — [Quelle](https://e27.co/bitcoin-just-lost-us65500-three-times-in-a-row-and-the-fed-has-not-even-spoken-20260728/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T02:19:07+00:00`, fetched `2026-07-28T03:24:38+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: The crypto market just reminded everyone who actually pulls the strings. Bitcoin slipped 2.45 per cent to US$63,555.73 over the past 24 hours, and Ethereum fell even harder at 3.24 per cent to US$1,884.62. The total crypto market cap dropped 2.36 per cent in the same window. These are not random numbers floating in a […] The post Bitcoin just lost US$65,500 three times in a row and the Fed has not even spoken appear…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年7月）** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN56870912/)
+- **CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90008749/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-28T14:00:00+09:00`, fetched `2026-07-28T05:33:12+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+  - Zeit: published `2026-07-29T09:00:00+09:00`, fetched `2026-07-29T00:10:53+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントは、複数の脆弱性が存在します。
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装** — Score 15, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2128581.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-28T09:16:14+00:00`, fetched `2026-07-29T00:10:53+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **npm publish-time malware scanning and dual-use metadata** — Score 14, risk — [Quelle](https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-28T22:50:05+00:00`, fetched `2026-07-29T00:10:53+00:00`
+  - Treffer: GitHub, Security, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement… The post npm publish-time malware scanning and dual-use metadata appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
-- **M 5.4 - 211 km SE of Kokopo, Papua New Guinea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm)
+- **M 4.8 - 76 km E of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T20:54:46.288+00:00`, fetched `2026-07-28T20:57:04+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Zeit: published `2026-07-29T00:10:17.040+00:00`, fetched `2026-07-29T00:10:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-28 20:27:57 UTC 2026-07-28 20:27:57 UTC at epicenter Location 5.760°S 153.544°E Depth 10.00 km (6.21 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-28 23:51:44 UTC 2026-07-28 23:51:44 UTC at epicenter Location 4.393°S 152.954°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T06:24:03.524+00:00`, fetched `2026-07-28T06:25:53+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.4 - 110 km SSE of Akureyri, Iceland** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-28T06:12:20.792+00:00`, fetched `2026-07-28T06:25:53+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The real workforce challenge: Bridging the credential-capability gap** — Score 13, risk — [Quelle](https://e27.co/the-real-workforce-challenge-bridging-the-credential-capability-gap-20260726/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T01:15:33+00:00`, fetched `2026-07-28T01:24:52+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
-  - Kurz: Southeast Asia is in the midst of a workforce transformation paradox that has quietly become the region’s most pressing business challenge. Governments have invested billions in upskilling initiatives. Singapore alone has trained over 555,000 workers through SkillsFuture programmes. Across the region—from Indonesia’s digital transformation drive to Vietnam’s emerging tech ecosystem—organisations are spending heavily…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性（2026年5月）** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN03037325/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-05-12T14:00:00+09:00`, fetched `2026-07-28T05:33:12+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **エレコム製無線LANルーターおよび無線アクセスポイントにおける複数の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN24885537/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2024-08-27T12:00:00+09:00`, fetched `2026-07-28T05:33:12+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: エレコム株式会社が提供する無線LANルーターおよび無線アクセスポイントには、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Projektor** — Score 12, observation — [Quelle](https://tajd.github.io/projektor/)
+- **AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞** — Score 8, observation — [Quelle](https://mainichi.jp/articles/20260728/k00/00m/040/190000c)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T11:53:25+00:00`, fetched `2026-07-28T16:09:56+00:00`
-  - Treffer: agent, AI/KI, GitHub, Hatena, hotentry
+  - Zeit: published `2026-07-28T22:19:31+00:00`, fetched `2026-07-29T00:10:53+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.0); recent (+1.0)
-  - Kurz: An issue tracker and wiki your AI coding agent runs as a first-class client - agent-native like a git tracker, deployed and cross-project like Jira, on a single Cloudflare Worker.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How the Philippines and Singapore use AI differently at work** — Score 12, observation — [Quelle](https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T11:41:22+00:00`, fetched `2026-07-28T11:44:34+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)
-  - Kurz: Across Southeast Asia, AI is reshaping how workers operate, but not in a uniform way. A new analysis reveals a striking cultural divergence: Filipino professionals are turning to AI primarily as a burnout shield, using it to offload repetitive, draining tasks and protect their mental bandwidth. Singaporean workers, by contrast, are deploying AI as a […] The post How the Philippines and Singapore use AI differently a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Philippines uses AI as a burnout shield; Singapore uses it for deep work** — Score 12, observation — [Quelle](https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-28T06:11:07+00:00`, fetched `2026-07-28T06:25:53+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines (+2.0)
-  - Kurz: On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to “The Gemini Report Southeast Asia 2026” by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring the region’s familiar work rhythm: busy Mondays, compressed deadlines, overflowing inboxes, […] The post The Philippines uses AI as a bu…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ChatGPTの回答を変えるという選挙戦術、米中間選挙の候補者が競う「AIへの説得」 【生成AI事件簿】米国で広がるAEO、Wikipedia更新12分で候補者評価が書き換わる新たな現実 | JBpress (ジェイビープレス)** — Score 12, observation — [Quelle](https://jbpress.ismedia.jp/articles/-/96137)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-27T21:58:06+00:00`, fetched `2026-07-28T00:12:57+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米ミズーリ州の州議会選挙に民主党から出馬するダスティン・ロイドは、地元では名の知れた存在だった。ところが、彼を全く知らない「相手」がいた。OpenAIのChatGPTやGoogleのGeminiといった、AIチャットボットである。 ニューヨーク・タイムズ（NYT）紙の記事によれば、米国の選挙キャンペーンはいま、チャットボットの...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Grok 4.5 is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-28T19:10:45+00:00`, fetched `2026-07-28T20:57:04+00:00`
-  - Treffer: AI Agents, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Grok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up… The post Grok 4.5 is now available in GitHub Copilot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ヤモリの足裏を科学した米軍の装備、粘着剤なしで垂直壁を走る驚異の技術* | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 11, observation — [Quelle](https://forbesjapan.com/articles/detail/101739)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T09:34:23+00:00`, fetched `2026-07-28T14:33:17+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米国防高等研究計画局（DARPA）は2014年、「Z-Man」と呼ばれるプログラムの成果を公開した。それは、体重90kg超のクライマーが約23kgの荷物を背負い、ロープもハーネスも吸盤も使わず、2つの接着パドルだけを使って、ガラスでできた高さ約7.6mの垂直壁を上るというデモンストレーションだった。 こんな離れ業が可能にな...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf FortiOS und Arista VeloCloud beobachtet** — Score 10, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-FortiOS-und-Arista-VeloCloud-beobachtet-11379680.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-28T05:48:00.000+00:00`, fetched `2026-07-28T06:25:53+00:00`
-  - Treffer: Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Die IT-Sicherheitsbehörde CISA meldet Angriffe auf Sicherheitslücken in Fortinet FortiOS sowie Arista VeloCloud.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft: Proof-of-Concept-Exploit für „Certighost“-AD-Lücke aufgetaucht** — Score 8, risk — [Quelle](https://www.heise.de/news/Microsoft-warnt-vor-Proof-of-Concept-Exploit-fuer-Certighost-AD-Luecke-11379962.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-28T11:00:00.000+00:00`, fetched `2026-07-28T11:44:34+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); recent (+1.0)
-  - Kurz: Am Juli-Patchday hat Microsoft eine AD-Lücke geschlossen, die Rechteausweitung ermöglicht. Nun warnt das Unternehmen vor PoC-Exploit.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Vulnérabilité dans Traefik (11 juin 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0738/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-06-11T00:00:00+00:00`, fetched `2026-07-28T14:33:17+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 

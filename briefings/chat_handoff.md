@@ -1,74 +1,46 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-28T23:49:56+00:00_
+_Generated: 2026-07-29T00:11:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `100`
+- findings: `5`
 
 ## Top Signals
 
-### 1. Disrupting supply chain attacks on npm and GitHub Actions
-- source: GitHub Blog Atom
-- score: `29`
-- published: `2026-07-28T16:00:00+00:00`
-- url: https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/
-- summary: Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .
+### 1. CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-07-29T09:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU90008749/
+- summary: 2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. [UPDATE] [hoch] Red Hat Ansible Automation Platform (node-tar, linkify-it, protobufjs, brace-expansion, fast-uri, DOMPurify): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `22`
-- published: `2026-07-28T11:37:53+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2452
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen…
+### 2. Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装
+- source: Hatena Bookmark Hotentry IT
+- score: `15`
+- published: `2026-07-28T09:16:14+00:00`
+- url: https://forest.watch.impress.co.jp/docs/news/2128581.html
+- summary: Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装
 
-### 3. GitHub Actions holds potentially malicious workflows for approval
+### 3. npm publish-time malware scanning and dual-use metadata
 - source: GitHub Changelog Atom
-- score: `20`
-- published: `2026-07-28T11:57:19+00:00`
-- url: https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval
-- summary: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially…
+- score: `14`
+- published: `2026-07-28T22:50:05+00:00`
+- url: https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata
+- summary: As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement… The post npm publish-time malware scanning and dual-use meta…
 
-### 4. GitHub Actions holds potentially malicious workflows for approval
-- source: GitHub Changelog Atom
-- score: `20`
-- published: `2026-07-28T11:57:19+00:00`
-- url: https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval
-- summary: Recent supply chain attacks use compromised GitHub credentials to push malicious GitHub Actions workflows that steal CI/CD credentials and carry out additional attacks. To help protect public repositories from these… The post GitHub Actions holds potentially…
-
-### 5. M 6.8 - 5 km E of Uto, Japan
+### 4. M 4.8 - 76 km E of Kokopo, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-07-28T08:12:27.141+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9
-- summary: PAGER - PENDING ShakeMap - VIII DYFI? - VII Time 2026-07-28 07:27:15 UTC 2026-07-28 07:27:15 UTC at epicenter Location 32.682°N 130.722°E Depth 10.00 km (6.21 mi)
+- score: `9`
+- published: `2026-07-29T00:10:17.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz
+- summary: Time 2026-07-28 23:51:44 UTC 2026-07-28 23:51:44 UTC at epicenter Location 4.393°S 152.954°E Depth 10.00 km (6.21 mi)
 
-### 6. M 5.4 - 211 km SE of Kokopo, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-07-28T20:54:46.288+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm
-- summary: PAGER - GREEN ShakeMap - III Time 2026-07-28 20:27:57 UTC 2026-07-28 20:27:57 UTC at epicenter Location 5.760°S 153.544°E Depth 10.00 km (6.21 mi)
-
-### 7. M 5.9 - 50 km WSW of Brisas Barra de Suchiate, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-07-28T06:24:03.524+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgau
-- summary: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-28 05:35:18 UTC 2026-07-28 05:35:18 UTC at epicenter Location 14.296°N 92.622°W Depth 35.00 km (21.75 mi)
-
-### 8. M 5.4 - 110 km SSE of Akureyri, Iceland
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-07-28T06:12:20.792+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgaw
-- summary: PAGER - GREEN ShakeMap - VIII Time 2026-07-28 05:36:40 UTC 2026-07-28 05:36:40 UTC at epicenter Location 64.725°N 17.449°W Depth 10.00 km (6.21 mi)
-
-### 9. M 5.7 - 166 km ESE of Ust’-Kamchatsk Staryy, Russia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `13`
-- published: `2026-07-28T05:07:21.242+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae
-- summary: PAGER - GREEN ShakeMap - IV Time 2026-07-28 04:42:18 UTC 2026-07-28 04:42:18 UTC at epicenter Location 55.881°N 165.070°E Depth 10.00 km (6.21 mi)
+### 5. AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-07-28T22:19:31+00:00`
+- url: https://mainichi.jp/articles/20260728/k00/00m/040/190000c
+- summary: 多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発...
 
 END OF DOCUMENT
