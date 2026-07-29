@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-29T12:36:45Z",
+  "generated_at": "2026-07-29T13:18:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 13,
-      "strong": 24,
-      "watch": 1
+      "strong": 23,
+      "watch": 2
     },
     "bands_after_gate_recheck": {
-      "strong": 39,
-      "watch": 1
+      "strong": 38,
+      "watch": 2
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN99975039/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T12:00:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2571",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2568",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:32:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://jvn.jp/vu/JVNVU99139115/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T11:15:00+09:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0679",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:26+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1546",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:15:19+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -219,7 +219,7 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -247,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:52:53+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:25+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -299,7 +299,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T05:52:54+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -325,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -351,7 +351,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2567",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:32:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -377,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1510",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -403,7 +403,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.57,
+      "age_days": 0.6,
       "topics": [
         "ai",
         "security"
@@ -430,7 +430,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -455,7 +455,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:26+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -480,7 +480,7 @@
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -505,7 +505,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-29T07:21:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -531,7 +531,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11048-c8ce2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-29T03:12:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -557,7 +557,7 @@
       "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T06:56:32+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security"
@@ -584,7 +584,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 40.44,
+      "age_days": 40.47,
       "topics": [
         "ai"
       ],
@@ -603,7 +603,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.8 for 40.4d old signal",
+        "aging penalty -6.8 for 40.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -613,7 +613,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2572",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -641,7 +641,7 @@
       "url": "https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:45:07+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security",
@@ -670,7 +670,7 @@
       "url": "https://zenn.dev/explaza/articles/20f7f41cff8428",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T22:23:21+00:00",
-      "age_days": 0.59,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "macro"
@@ -697,7 +697,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "security",
@@ -725,7 +725,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-29T07:12:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -752,7 +752,7 @@
       "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-29T09:45:11+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -778,7 +778,7 @@
       "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T04:05:19+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security",
@@ -806,7 +806,7 @@
       "url": "https://github.com/andrewyng/aisuite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -832,7 +832,7 @@
       "url": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-29T10:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -857,7 +857,7 @@
       "url": "https://www.heise.de/news/OpenWrt-Updates-schliessen-teils-kritische-Sicherheitsluecken-11381496.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-29T09:08:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -882,7 +882,7 @@
       "url": "https://www.heise.de/news/Admin-Sicherheitsluecke-bedroht-Apache-Airflow-mit-FAB-Authentifizierung-11381355.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-29T08:24:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -908,7 +908,7 @@
       "url": "https://e27.co/why-building-a-people-first-work-culture-in-hr-tech-matters-more-than-ever-in-southeast-asia-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:01+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -934,7 +934,7 @@
       "url": "https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:00:06+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -961,7 +961,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:17:29.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -986,7 +986,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:19:58.057+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -1007,39 +1007,35 @@
       "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "Southeast Asia’s AI boom is becoming visual, vocal and local",
-      "url": "https://e27.co/southeast-asias-ai-boom-is-becoming-visual-vocal-and-local-20260729/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-29T02:44:38+00:00",
-      "age_days": 0.41,
+      "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-29T12:42:00.000+00:00",
+      "age_days": 0.03,
       "topics": [
-        "ai",
-        "macro"
+        "security"
       ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "early terms: local",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
+        "security high-signal: security"
       ],
-      "summary": "Southeast Asia’s artificial intelligence adoption is not following the neat, text-first path seen in many early AI markets. Instead, users across the region appear to be jumping straight into a more instinctive mode of interaction: talking to AI, showing it photos, and asking it to work with images, video and sound. T…"
+      "summary": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen."
     },
     {
       "title": "Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig",
       "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-29T12:03:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
