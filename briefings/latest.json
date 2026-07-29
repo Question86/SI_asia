@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T19:52:48+00:00",
-  "run_id": "2026-07-29T19:52:48+00:00",
+  "generated_at": "2026-07-29T20:17:35+00:00",
+  "run_id": "2026-07-29T20:17:35+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 1,
@@ -4990,54 +4990,7 @@
       "id": "b3c18b231eb02495cf7a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-29T00:00:00+00:00",
-      "fetched_at": "2026-07-29T19:52:13+00:00",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: agentic workflow"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "dabaab4108ac17ce04b2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
