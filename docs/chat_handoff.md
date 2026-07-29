@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-29T06:33:01+00:00_
+_Generated: 2026-07-29T07:31:59+00:00_
 
 ## Status
 - status: `warning`
-- findings: `37`
+- findings: `42`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-29T06:33:01+00:00_
 - url: https://github.com/affaan-m/ECC
 - summary: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | T…
 
-### 3. The future of leadership: Owning outcomes in the age of AI
+### 3. 防禦工具反成駭客利器？最新研究揭露「Friendly Fire」攻擊，誘導 AI Agent 觸發遠端控制
+- source: TWCERT/CC Security News RSS
+- score: `22`
+- published: `2026-07-29T07:12:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html
+- summary: 隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Pyt…
+
+### 4. The future of leadership: Owning outcomes in the age of AI
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-07-29T01:00:18+00:00`
 - url: https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/
 - summary: A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next…
-
-### 4. andrewyng/aisuite
-- source: GitHub Trending RSS All Languages Daily
-- score: `18`
-- published: `None`
-- url: https://github.com/andrewyng/aisuite
-- summary: Simple, unified interface to multiple Generative AI providers OpenWorker A desktop AI coworker, built on aisuite — now in its own repository: andrewyng/openworker . OpenWorker chats, does deep research, and carries out real tasks on your computer — reading fi…
 
 ### 5. M 5.4 - 153 km NE of Neiafu, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
@@ -43,25 +43,25 @@ _Generated: 2026-07-29T06:33:01+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje
 - summary: PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)
 
-### 6. M 4.6 - 102 km WNW of Aykol, China
+### 6. Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-07-29T08:15:18+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html
+- summary: Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式
+- source: TWCERT/CC Security News RSS
+- score: `11`
+- published: `2026-07-29T07:21:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html
+- summary: 企業說自己「有做SBOM」，但格式對不對，可能才是真正決定合不合規的關鍵。歐盟網路安全局（European Union Agency, ENISA）今年6月公布的最新調查顯示，將近三成企業的軟體物料清單，用的格式根本不在國際主流之列。 格式不是小事，是SBOM能不能用的前提 歐盟網路韌性法（Cyber Resilience Act, CRA）要求製造商為每項具數位功能的產品建立軟體物料清單（Software Bill of Materials, SBOM），並規定格式必須「常用且機器可讀」（a commonly…
+
+### 8. M 4.6 - 102 km WNW of Aykol, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-07-29T06:29:54.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla
 - summary: Time 2026-07-29 06:09:57 UTC 2026-07-29 06:09:57 UTC at epicenter Location 41.181°N 78.959°E Depth 10.00 km (6.21 mi)
-
-### 7. How companies can adapt early-career hiring for a remote world
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-07-29T02:00:06+00:00`
-- url: https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/
-- summary: The discussion around the youth hiring crisis often focuses on AI and automation replacing entry-level jobs. While automation is certainly changing work, there’s a strong argument that remote work has had a more immediate impact on early-career hiring. Here’s…
-
-### 8. hello245m/free-stockdb
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/hello245m/free-stockdb
-- summary: 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 [07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！ free-stockdb 本地量化数据引擎 面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。 ❤️双击更新 -> 双击启动 -> 直接调用。 下载地址1 数据本地落盘，研究不再依赖远程接口。…
 
 END OF DOCUMENT

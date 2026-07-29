@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-07-29T06:33:06+00:00",
+  "generated_at": "2026-07-29T07:32:02+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "critical",
-        "title": "USGS earthquake M6.8 - 2026 Uto, Japan Earthquake ",
-        "summary": "M6.8 - 2026 Uto, Japan Earthquake . PAGER alert: red. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9",
-        "published_at": "2026-07-28T07:27:15+00:00",
-        "metrics": {
-          "mag": 6.8,
-          "alert": "red",
-          "sig": 723.0,
-          "tsunami": 0
-        }
-      },
       {
         "domain": "security",
         "severity": "high",

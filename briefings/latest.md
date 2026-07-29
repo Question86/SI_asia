@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T06:33:01+00:00_
+_Generiert: 2026-07-29T07:31:59+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+42 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.8 - 2026 Uto, Japan Earthquake ** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgb9)
-  - Quelle: USGS
-  - Zeit: `2026-07-28T07:27:15+00:00`
-  - Kurz: M6.8 - 2026 Uto, Japan Earthquake . PAGER alert: red. Tsunami flag: 0.
 - **CISA KEV: CVE-2025-68686 Fortinet FortiOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-27`
@@ -91,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **防禦工具反成駭客利器？最新研究揭露「Friendly Fire」攻擊，誘導 AI Agent 觸發遠端控制** — Score 22, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-07-29T07:12:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
+  - Treffer: AI Agents, AI/KI, Security, TWCERT, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: 隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Injection）」攻擊。 這項攻擊分為兩階段：首先，攻擊者會先在程式儲存庫混入惡意的二進位檔案，並將其偽裝成合法的資安檢測元件（例如命名為security.sh），接著攻擊者會在開發者經常使用的READM…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The future of leadership: Owning outcomes in the age of AI** — Score 18, observation — [Quelle](https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-29T01:00:18+00:00`, fetched `2026-07-29T01:24:33+00:00`
@@ -202,6 +207,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-07-29T08:15:18+00:00`, fetched `2026-07-29T07:31:13+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式** — Score 11, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-07-29T07:21:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
+  - Treffer: Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
+  - Kurz: 企業說自己「有做SBOM」，但格式對不對，可能才是真正決定合不合規的關鍵。歐盟網路安全局（European Union Agency, ENISA）今年6月公布的最新調查顯示，將近三成企業的軟體物料清單，用的格式根本不在國際主流之列。 格式不是小事，是SBOM能不能用的前提 歐盟網路韌性法（Cyber Resilience Act, CRA）要求製造商為每項具數位功能的產品建立軟體物料清單（Software Bill of Materials, SBOM），並規定格式必須「常用且機器可讀」（a commonly used and machine-readable format）。這項規定看似給予不少彈性，但ENISA在報告結論中直言，格式的一致性不只是技術上的偏好，而是SBOM能不能真正發揮作用的必要條件。換句話說，格式選擇並非可有可無的技術枝節，而是攸關整份SBOM合規效力的核心環節。 近三成企業，格式其實不合格 這份調查共…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 102 km WNW of Aykol, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-29T06:29:54.040+00:00`, fetched `2026-07-29T06:32:15+00:00`
@@ -210,6 +233,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-29 06:09:57 UTC 2026-07-29 06:09:57 UTC at epicenter Location 41.181°N 78.959°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **馥鴻科技｜IP攝影機 - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11048-c8ce2-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-07-29T03:12:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 馥鴻科技｜IP攝影機 - 存在2個漏洞
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How companies can adapt early-career hiring for a remote world** — Score 11, opportunity — [Quelle](https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -283,6 +315,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built-in viewer set, then load the built-in plugin once before mounting <Viewer> : npm install @pascal-ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ガバメントAI 源内の公式ロゴをリリースしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-29T06:50:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI 源内の公式ロゴをリリースしました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-29T02:23:08+00:00`, fetched `2026-07-29T03:24:17+00:00`
@@ -291,24 +332,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年熊本地震に関する対応状況について（第2報）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/2f3ebd5f-0c1f-4049-affb-3da489d5d4f5)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-29T02:14:51+00:00`, fetched `2026-07-29T03:24:17+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年熊本地震に関する対応状況について（第2報）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も** — Score 5, observation — [Quelle](https://togetter.com/li/2725950)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-29T01:10:30+00:00`, fetched `2026-07-29T03:24:17+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -323,4 +346,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
