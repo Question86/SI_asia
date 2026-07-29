@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-29T15:51:22Z",
+  "generated_at": "2026-07-29T16:28:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -39,11 +39,42 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in NGINX Open Source and NGINX Plus ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
     },
     {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-07-29T16:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: supply, chain, flood",
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fa…"
+    },
+    {
       "title": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -71,7 +102,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:52:53+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -97,7 +128,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:25+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -123,7 +154,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T05:52:54+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -149,7 +180,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -175,7 +206,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2567",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:32:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -201,7 +232,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1510",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -227,7 +258,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "ai",
         "security"
@@ -254,7 +285,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -279,7 +310,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:26+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -298,31 +329,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen und um nicht näher beschriebene Auswirkungen zu verursachen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
-      "url": "https://jvn.jp/vu/JVNVU90008749/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.66,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     }
   ],
   "read_order": [
