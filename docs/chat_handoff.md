@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-29T17:03:39+00:00_
+_Generated: 2026-07-29T17:35:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `84`
 
 ## Top Signals
 
@@ -50,25 +50,25 @@ _Generated: 2026-07-29T17:03:39+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje
 - summary: PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)
 
-### 7. Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Accelerating scientific discovery with ChatGPT for Academic Researchers
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-07-29T10:00:00+00:00`
+- url: https://openai.com/index/chatgpt-for-academic-researchers
+- summary: OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
+
+### 8. Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-07-29T08:15:18+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html
 - summary: Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 8. SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式
+### 9. SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式
 - source: TWCERT/CC Security News RSS
 - score: `11`
 - published: `2026-07-29T07:21:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html
 - summary: 企業說自己「有做SBOM」，但格式對不對，可能才是真正決定合不合規的關鍵。歐盟網路安全局（European Union Agency, ENISA）今年6月公布的最新調查顯示，將近三成企業的軟體物料清單，用的格式根本不在國際主流之列。 格式不是小事，是SBOM能不能用的前提 歐盟網路韌性法（Cyber Resilience Act, CRA）要求製造商為每項具數位功能的產品建立軟體物料清單（Software Bill of Materials, SBOM），並規定格式必須「常用且機器可讀」（a commonly…
-
-### 9. M 4.6 - 102 km WNW of Aykol, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-07-29T06:29:54.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla
-- summary: Time 2026-07-29 06:09:57 UTC 2026-07-29 06:09:57 UTC at epicenter Location 41.181°N 78.959°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
