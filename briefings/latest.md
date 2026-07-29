@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T21:45:38+00:00_
+_Generiert: 2026-07-29T22:09:50+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+93 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -149,6 +149,15 @@ _Generiert: 2026-07-29T21:45:38+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-07-29 13:19:36 UTC 2026-07-29 13:19:36 UTC at epicenter Location 32.340°N 130.488°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Copilot code review: Agent skills and MCP now generally available** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-07-29T21:26:19+00:00`, fetched `2026-07-29T22:09:20+00:00`
+  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Copilot code review support for agent skills and MCP servers is now generally available for all Copilot Pro, Pro+, Business, and Enterprise users. Previously announced in public preview, these capabilities… The post Copilot code review: Agent skills and MCP now generally available appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CodeQL 2.26.1 improves analysis accuracy and framework coverage** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-29T09:45:11+00:00`, fetched `2026-07-29T10:18:46+00:00`
@@ -203,15 +212,6 @@ _Generiert: 2026-07-29T21:45:38+00:00_
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: 2026年7月29日、認証を必要とせず、リモートからの任意コード実行（RCE）につながり得る脆弱性「CVE-2026-66066」を修正したRuby on Rails 7.2.3.2、8.0.5.1、8.1.3.1が公開されました（参考：Possible arbitrary file read and remote code execution in Active Storage variant processing）。 本脆弱性は、弊社GMO Fl...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-29T11:52:53+00:00`, fetched `2026-07-29T12:33:45+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -341,14 +341,14 @@ _Generiert: 2026-07-29T21:45:38+00:00_
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞** — Score 8, observation — [Quelle](https://mainichi.jp/articles/20260728/k00/00m/040/190000c)
+- **GitHub - reflex-dev/xy: Ultra-fast and customizable Python charts** — Score 8, observation — [Quelle](https://github.com/reflex-dev/xy)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T22:19:31+00:00`, fetched `2026-07-29T00:10:53+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+  - Zeit: published `2026-07-29T07:06:59+00:00`, fetched `2026-07-29T22:09:20+00:00`
+  - Treffer: GitHub, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: XY is an extremely fast, interactive, customizable Python charting library for the web, notebooks, and static exports. Charts are composed declaratively or through matplotlib conventions. You can fully customize them with Python, CSS, or Tailwind. With small charts, every point is sent to the bro...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
