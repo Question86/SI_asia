@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T19:21:17+00:00_
+_Generiert: 2026-07-29T19:52:48+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+89 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ _Generiert: 2026-07-29T19:21:17+00:00_
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: 隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Injection）」攻擊。 這項攻擊分為兩階段：首先，攻擊者會先在程式儲存庫混入惡意的二進位檔案，並將其偽裝成合法的資安檢測元件（例如命名為security.sh），接著攻擊者會在開發者經常使用的READM…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How GPT-5.6 fuses frontier intelligence with frontier efficiency** — Score 20, opportunity — [Quelle](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-29T00:00:00+00:00`, fetched `2026-07-29T19:52:13+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.4 - 53 km E of Rapu-Rapu, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-29T15:47:36.771+00:00`, fetched `2026-07-29T16:02:40+00:00`
@@ -203,15 +212,6 @@ _Generiert: 2026-07-29T19:21:17+00:00_
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90008749/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-29T09:00:00+09:00`, fetched `2026-07-29T00:10:53+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
