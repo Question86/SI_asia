@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T07:31:59+00:00_
+_Generiert: 2026-07-29T08:24:58+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+44 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 [07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！ free-stockdb 本地量化数据引擎 面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。 ❤️双击更新 -> 双击启动 -> 直接调用。 下载地址1 数据本地落盘，研究不再依赖远程接口。 本地优先 增量同步 数据支持(按需) 本地指标计算 五种调用方式 数据在用户磁盘 只处理变化数据 日/周/月/1/5/15/30分钟/tick 39 种指标、5 种指数 Python / HTTP / Excel / HTML / MCP flowchart TB A["数据更新：同步、清洗、复权、增量"] -->…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MAS, ABS launch ACT taskforce as AI raises cyber risks for banks** — Score 10, observation — [Quelle](https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-29T06:56:32+00:00`, fetched `2026-07-29T08:24:28+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Banks in Singapore (ABS) have established the AI-Driven Cyber and Technology Risk Taskforce, or […] The post MAS, ABS launch ACT taskforce as…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The one-person AI business is coming for the agency model** — Score 10, observation — [Quelle](https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-29T03:00:00+00:00`, fetched `2026-07-29T03:24:17+00:00`
@@ -213,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: In June 2025, I started a business built on an uncomfortable question: how much of an agency does a client actually pay for, and how much of it is overhead wearing a lanyard? I run an education business in Singapore as my day job, so I see the demand side up close. SMEs want content, […] The post The one-person AI business is coming for the agency model appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Southeast Asia’s AI boom is becoming visual, vocal and local** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-ai-boom-is-becoming-visual-vocal-and-local-20260729/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T02:44:38+00:00`, fetched `2026-07-29T03:24:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s artificial intelligence adoption is not following the neat, text-first path seen in many early AI markets. Instead, users across the region appear to be jumping straight into a more instinctive mode of interaction: talking to AI, showing it photos, and asking it to work with images, video and sound. That is the central […] The post Southeast Asia’s AI boom is becoming visual, vocal and local appeare…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claudeで共有した会話、Google検索にインデックスされていたと判明--企業の内部データも** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251032/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-28T22:13:27+00:00`, fetched `2026-07-29T02:13:13+00:00`
@@ -230,6 +230,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米AnthropicのAIチャットボット「Claude」で共有された会話が、GoogleやBingといった検索エンジンから誰でも閲覧できる状態になっていたことが先週末に明らかになった。会話には医療記録や企業の内部データも含まれており、ユーザーとAnthropicの双方にとって深刻なプライバシー問題となっている。 AIを巡るプライバシー...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-29T08:00:00+00:00`, fetched `2026-07-29T08:24:28+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 209 km ENE of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントAI 源内の公式ロゴをリリースしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-29T02:23:08+00:00`, fetched `2026-07-29T03:24:17+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -286,7 +286,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

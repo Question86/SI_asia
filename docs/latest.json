@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-29T07:31:59+00:00",
-  "run_id": "2026-07-29T07:31:59+00:00",
+  "generated_at": "2026-07-29T08:24:58+00:00",
+  "run_id": "2026-07-29T08:24:58+00:00",
   "date": "2026-07-29",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 2,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 17,
-    "observe": 25,
-    "source_errors": 1
+    "observe": 27,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -752,6 +752,27 @@
         "id": "e910de6659a99b8d9633"
       },
       {
+        "title": "MAS, ABS launch ACT taskforce as AI raises cyber risks for banks",
+        "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-29T06:56:32+00:00",
+        "fetched_at": "2026-07-29T08:24:28+00:00",
+        "summary": "Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Banks in Singapore (ABS) have established the AI-Driven Cyber and Technology Risk Taskforce, or […] The post MAS, ABS launch ACT taskforce as…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12ad3a7fbb95d699fbc9"
+      },
+      {
         "title": "The one-person AI business is coming for the agency model",
         "url": "https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -861,6 +882,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e50404953e2a912a85f6"
+      },
+      {
+        "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-07-29T08:00:00+00:00",
+        "fetched_at": "2026-07-29T08:24:28+00:00",
+        "summary": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "db358fb5c1a084b2d25d"
       },
       {
         "title": "M 4.9 - 209 km ENE of Levuka, Fiji",
@@ -1966,6 +2007,27 @@
       "id": "e910de6659a99b8d9633"
     },
     {
+      "title": "MAS, ABS launch ACT taskforce as AI raises cyber risks for banks",
+      "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-29T06:56:32+00:00",
+      "fetched_at": "2026-07-29T08:24:28+00:00",
+      "summary": "Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Banks in Singapore (ABS) have established the AI-Driven Cyber and Technology Risk Taskforce, or […] The post MAS, ABS launch ACT taskforce as…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12ad3a7fbb95d699fbc9"
+    },
+    {
       "title": "The one-person AI business is coming for the agency model",
       "url": "https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2075,6 +2137,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e50404953e2a912a85f6"
+    },
+    {
+      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-07-29T08:00:00+00:00",
+      "fetched_at": "2026-07-29T08:24:28+00:00",
+      "summary": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db358fb5c1a084b2d25d"
     },
     {
       "title": "M 4.9 - 209 km ENE of Levuka, Fiji",
@@ -2459,135 +2541,48 @@
   ],
   "new_findings": [
     {
-      "title": "防禦工具反成駭客利器？最新研究揭露「Friendly Fire」攻擊，誘導 AI Agent 觸發遠端控制",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html",
-      "source": "TWCERT/CC Security News RSS",
+      "title": "MAS, ABS launch ACT taskforce as AI raises cyber risks for banks",
+      "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-29T07:12:00+00:00",
-      "fetched_at": "2026-07-29T07:31:13+00:00",
-      "summary": "隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Injection）」攻擊。 這項攻擊分為兩階段：首先，攻擊者會先在程式儲存庫混入惡意的二進位檔案，並將其偽裝成合法的資安檢測元件（例如命名為security.sh），接著攻擊者會在開發者經常使用的READM…",
+      "published_at": "2026-07-29T06:56:32+00:00",
+      "fetched_at": "2026-07-29T08:24:28+00:00",
+      "summary": "Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Banks in Singapore (ABS) have established the AI-Driven Cyber and Technology Risk Taskforce, or […] The post MAS, ABS launch ACT taskforce as…",
       "matched_keywords": [
-        "AI Agents",
         "AI/KI",
-        "Security",
-        "TWCERT",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: RCE"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "58924eef1b8d6fddcd35"
-    },
-    {
-      "title": "Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-07-29T08:15:18+00:00",
-      "fetched_at": "2026-07-29T07:31:13+00:00",
-      "summary": "Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "586444ddd66dd9dd02f7"
-    },
-    {
-      "title": "SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-29T07:21:00+00:00",
-      "fetched_at": "2026-07-29T07:31:13+00:00",
-      "summary": "企業說自己「有做SBOM」，但格式對不對，可能才是真正決定合不合規的關鍵。歐盟網路安全局（European Union Agency, ENISA）今年6月公布的最新調查顯示，將近三成企業的軟體物料清單，用的格式根本不在國際主流之列。 格式不是小事，是SBOM能不能用的前提 歐盟網路韌性法（Cyber Resilience Act, CRA）要求製造商為每項具數位功能的產品建立軟體物料清單（Software Bill of Materials, SBOM），並規定格式必須「常用且機器可讀」（a commonly used and machine-readable format）。這項規定看似給予不少彈性，但ENISA在報告結論中直言，格式的一致性不只是技術上的偏好，而是SBOM能不能真正發揮作用的必要條件。換句話說，格式選擇並非可有可無的技術枝節，而是攸關整份SBOM合規效力的核心環節。 近三成企業，格式其實不合格 這份調查共…",
-      "matched_keywords": [
-        "Security",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph region europe: European Union (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5e110d4edb71b6c687df"
-    },
-    {
-      "title": "馥鴻科技｜IP攝影機 - 存在2個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11048-c8ce2-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-29T03:12:00+00:00",
-      "fetched_at": "2026-07-29T07:31:13+00:00",
-      "summary": "馥鴻科技｜IP攝影機 - 存在2個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f7e6623a3d3517aa730a"
-    },
-    {
-      "title": "ガバメントAI 源内の公式ロゴをリリースしました",
-      "url": "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-29T06:50:00+00:00",
-      "fetched_at": "2026-07-29T07:31:13+00:00",
-      "summary": "ガバメントAI 源内の公式ロゴをリリースしました",
-      "matched_keywords": [
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bafbdfe93a994610c9e0"
-    }
-  ],
-  "source_errors": [
+      "id": "12ad3a7fbb95d699fbc9"
+    },
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-07-29T08:00:00+00:00",
+      "fetched_at": "2026-07-29T08:24:28+00:00",
+      "summary": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db358fb5c1a084b2d25d"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
