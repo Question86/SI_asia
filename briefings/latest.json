@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:00:42+00:00",
-  "run_id": "2026-07-29T18:00:42+00:00",
+  "generated_at": "2026-07-29T18:28:41+00:00",
+  "run_id": "2026-07-29T18:28:41+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 1,
@@ -4784,49 +4784,7 @@
       "id": "b3c18b231eb02495cf7a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "source": "Federal Reserve Monetary Policy Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-29T18:00:00+00:00",
-      "fetched_at": "2026-07-29T18:00:13+00:00",
-      "summary": "Federal Reserve issues FOMC statement",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7ef9e96c6146eb2d7e6a"
-    },
-    {
-      "title": "はてな情報削除ガイドラインを改定しました - はてなの告知",
-      "url": "https://hatena-announce.hatenastaff.com/entry/2026/07/29/160000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-29T09:02:58+00:00",
-      "fetched_at": "2026-07-29T18:00:13+00:00",
-      "summary": "本日、はてな情報削除ガイドラインを改定しました。下記ページより改定版のダウンロードが可能です。 policies.hatena.ne.jp 今回の改定は、2012年の改定以来となる大幅な改定となります。 本ガイドラインは、2004年12月に制定された後、サービスを取り巻く環境の変化に沿い改定を重ねてまいりました。特に近年の変化と...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "03a673fec357434a4400"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
