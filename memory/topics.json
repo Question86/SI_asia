@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-29T09:24:39+00:00",
+  "generated_at": "2026-07-29T10:19:16+00:00",
   "topics": {
     "security": [
       {
@@ -26,6 +26,13 @@
         "url": "https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html"
       },
       {
+        "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-29T09:45:11+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage"
+      },
+      {
         "title": "[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-29T09:23:57+00:00",
@@ -40,6 +47,20 @@
         "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/"
       },
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:43:26+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:43:25+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-29T09:00:00+09:00",
@@ -52,30 +73,16 @@
         "published_at": "2026-07-29T05:52:54+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308"
-      },
-      {
-        "title": "てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-29T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN99975039/"
-      },
-      {
-        "title": "Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-29T11:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99139115/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-29T09:23:58+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1546"
       }
     ],
     "ai": [
+      {
+        "title": "【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-28T22:23:21+00:00",
+        "relevance_score": 23,
+        "url": "https://zenn.dev/explaza/articles/20f7f41cff8428"
+      },
       {
         "title": "affaan-m/ECC",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-29T02:30:09+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/ai-is-vietnams-new-capital-magnet-20260727/"
-      },
-      {
-        "title": "npm publish-time malware scanning and dual-use metadata",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T22:50:05+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
       }
     ],
     "github": [
@@ -154,6 +154,13 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-07-29T09:45:11+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage"
       },
       {
         "title": "andrewyng/aisuite",
@@ -219,6 +226,13 @@
         "published_at": "2026-07-29T04:05:19+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:43:25+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047"
       },
       {
         "title": "[UPDATE] [hoch] SAP Patch Day Juli 2026",
