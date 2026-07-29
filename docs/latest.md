@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T18:28:41+00:00_
+_Generiert: 2026-07-29T18:50:52+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+88 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 ## Priorität Hoch
 
@@ -257,6 +257,15 @@ _Generiert: 2026-07-29T18:28:41+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米AnthropicのAIチャットボット「Claude」で共有された会話が、GoogleやBingといった検索エンジンから誰でも閲覧できる状態になっていたことが先週末に明らかになった。会話には医療記録や企業の内部データも含まれており、ユーザーとAnthropicの双方にとって深刻なプライバシー問題となっている。 AIを巡るプライバシー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgs2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-29T18:30:44.040+00:00`, fetched `2026-07-29T18:50:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-29 18:09:46 UTC 2026-07-29 18:09:46 UTC at epicenter Location 15.286°N 45.901°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Federal Reserve issues FOMC statement** — Score 9, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
   - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
   - Zeit: published `2026-07-29T18:00:00+00:00`, fetched `2026-07-29T18:00:13+00:00`
@@ -266,15 +275,6 @@ _Generiert: 2026-07-29T18:28:41+00:00_
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Federal Reserve issues FOMC statement
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgrk)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T17:27:40.040+00:00`, fetched `2026-07-29T17:34:48+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-29 17:07:35 UTC 2026-07-29 17:07:35 UTC at epicenter Location 24.696°S 175.290°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-07-29T08:00:00+00:00`, fetched `2026-07-29T08:24:28+00:00`
