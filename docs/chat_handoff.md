@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-29T01:25:05+00:00_
+_Generated: 2026-07-29T02:13:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `19`
 
 ## Top Signals
 
-### 1. The future of leadership: Owning outcomes in the age of AI
+### 1. affaan-m/ECC
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/affaan-m/ECC
+- summary: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | T…
+
+### 2. The future of leadership: Owning outcomes in the age of AI
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-07-29T01:00:18+00:00`
 - url: https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/
 - summary: A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）
+### 3. andrewyng/aisuite
+- source: GitHub Trending RSS All Languages Daily
+- score: `18`
+- published: `None`
+- url: https://github.com/andrewyng/aisuite
+- summary: Simple, unified interface to multiple Generative AI providers OpenWorker A desktop AI coworker, built on aisuite — now in its own repository: andrewyng/openworker . OpenWorker chats, does deep research, and carries out real tasks on your computer — reading fi…
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-07-29T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU90008749/
 - summary: 2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 3. M 4.8 - 23 km N of Santa Monica, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-07-29T01:17:29.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc
-- summary: Time 2026-07-29 00:39:36 UTC 2026-07-29 00:39:36 UTC at epicenter Location 10.236°N 126.053°E Depth 53.56 km (33.28 mi)
-
-### 4. Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装
-- source: Hatena Bookmark Hotentry IT
-- score: `15`
-- published: `2026-07-28T09:16:14+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2128581.html
-- summary: Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装
 
 ### 5. M 5.4 - 153 km NE of Neiafu, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
@@ -43,25 +43,25 @@ _Generated: 2026-07-29T01:25:05+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje
 - summary: PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)
 
-### 6. M 4.8 - 76 km E of Kokopo, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-07-29T00:10:17.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz
-- summary: Time 2026-07-28 23:51:44 UTC 2026-07-28 23:51:44 UTC at epicenter Location 4.393°S 152.954°E Depth 10.00 km (6.21 mi)
-
-### 7. The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns
+### 6. How companies can adapt early-career hiring for a remote world
 - source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-07-29T01:15:19+00:00`
-- url: https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/
-- summary: Hyperscalers are preparing to spend roughly US$700 billion in 2026 to make artificial intelligence more capable and cheaper to run. That sounds like a straightforward growth story. More models, more compute, more demand, more data centres. The risk is that th…
+- score: `11`
+- published: `2026-07-29T02:00:06+00:00`
+- url: https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/
+- summary: The discussion around the youth hiring crisis often focuses on AI and automation replacing entry-level jobs. While automation is certainly changing work, there’s a strong argument that remote work has had a more immediate impact on early-career hiring. Here’s…
 
-### 8. AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-07-28T22:19:31+00:00`
-- url: https://mainichi.jp/articles/20260728/k00/00m/040/190000c
-- summary: 多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発...
+### 7. hello245m/free-stockdb
+- source: GitHub Trending RSS All Languages Daily
+- score: `11`
+- published: `None`
+- url: https://github.com/hello245m/free-stockdb
+- summary: 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 [07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！ free-stockdb 本地量化数据引擎 面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。 ❤️双击更新 -> 双击启动 -> 直接调用。 下载地址1 数据本地落盘，研究不再依赖远程接口。…
+
+### 8. As global trade fragments, Southeast Asia must build leverage, not just attract investment
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-07-29T01:45:21+00:00`
+- url: https://e27.co/as-global-trade-fragments-southeast-asia-must-build-leverage-not-just-attract-investment-20260727/
+- summary: A few years ago, a Southeast Asian technology company considering international expansion would usually begin with a familiar question: how large is the market? Today, the first questions are increasingly less glamorous. Where will the data sit? Which cloud i…
 
 END OF DOCUMENT
