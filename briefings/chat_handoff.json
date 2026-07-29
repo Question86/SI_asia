@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-29T11:10:38+00:00",
+  "generated_at": "2026-07-29T11:53:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 6,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
-    "medium": 26,
+    "medium": 32,
     "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-29T11:37:54+00:00",
+      "relevance_score": 23,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2572",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Hashicorp Terraform MCP Server ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Daten zu manipulieren.",
+      "section": "medium"
+    },
     {
       "title": "The demand for SMB cybersecurity is inevitable, the supply was never built correctly",
       "source": "e27 Asia Startup and Tech Feed",
@@ -42,16 +52,6 @@
       "relevance_score": 23,
       "url": "https://github.com/affaan-m/ECC",
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | T…",
-      "section": "medium"
-    },
-    {
-      "title": "防禦工具反成駭客利器？最新研究揭露「Friendly Fire」攻擊，誘導 AI Agent 觸發遠端控制",
-      "source": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-29T07:12:00+00:00",
-      "relevance_score": 22,
-      "url": "https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html",
-      "summary": "隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Pyt…",
       "section": "medium"
     },
     {

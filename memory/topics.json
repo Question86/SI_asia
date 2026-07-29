@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-29T11:10:38+00:00",
+  "generated_at": "2026-07-29T11:53:33+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:37:54+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2572"
+      },
       {
         "title": "The demand for SMB cybersecurity is inevitable, the supply was never built correctly",
         "source": "e27 Asia Startup and Tech Feed",
@@ -47,6 +54,13 @@
         "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:37:53+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-29T09:43:26+00:00",
@@ -59,13 +73,43 @@
         "published_at": "2026-07-29T09:43:25+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:37:54+00:00",
+        "relevance_score": 23,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2572"
       },
       {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-29T09:00:00+09:00",
+        "title": "affaan-m/ECC",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      {
+        "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-29T04:05:19+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:37:53+00:00",
         "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU90008749/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:43:25+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047"
       },
       {
         "title": "[UPDATE] [hoch] SAP Patch Day Juli 2026",
@@ -73,6 +117,34 @@
         "published_at": "2026-07-29T05:52:54+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Tomcat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:37:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2571"
+      },
+      {
+        "title": "[NEU] [hoch] VMware Produkte: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:37:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2569"
+      },
+      {
+        "title": "[NEU] [mittel] Checkmk: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:32:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2567"
+      },
+      {
+        "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T11:32:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2568"
       }
     ],
     "ai": [
@@ -210,78 +282,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/pascalorg/editor"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "affaan-m/ECC",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 23,
-        "url": "https://github.com/affaan-m/ECC"
-      },
-      {
-        "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-29T04:05:19+00:00",
-        "relevance_score": 17,
-        "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-29T09:43:25+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047"
-      },
-      {
-        "title": "[UPDATE] [hoch] SAP Patch Day Juli 2026",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-29T05:52:54+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308"
-      },
-      {
-        "title": "Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-29T11:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99139115/"
-      },
-      {
-        "title": "npm publish-time malware scanning and dual-use metadata",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T22:50:05+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
-      },
-      {
-        "title": "Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-07-29T08:15:18+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html"
-      },
-      {
-        "title": "SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-07-29T07:21:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html"
-      },
-      {
-        "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-07-29T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html"
-      },
-      {
-        "title": "The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-29T01:15:19+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/"
       }
     ],
     "economy": [
