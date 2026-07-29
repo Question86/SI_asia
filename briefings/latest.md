@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T14:45:16+00:00_
+_Generiert: 2026-07-29T15:28:58+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
+78 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
