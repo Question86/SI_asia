@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T02:13:41+00:00_
+_Generiert: 2026-07-29T03:24:51+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „affaan-m/ECC“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+29 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-07-29T02:13:41+00:00_
   - Quelle: USGS
   - Zeit: `2026-07-28T03:34:05+00:00`
   - Kurz: M5.8 - 191 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
-- **USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6)
-  - Quelle: USGS
-  - Zeit: `2026-07-28T03:16:08+00:00`
-  - Kurz: M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -81,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **The demand for SMB cybersecurity is inevitable, the supply was never built correctly** — Score 23, risk — [Quelle](https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-29T02:45:07+00:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Security, Watchgraph:humanitarian_migration_food_water, Watchgraph:public_health_biosecurity
+  - Watchgraph: humanitarian_migration_food_water, public_health_biosecurity
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy, MAERSK-B.CO, ZIM, MATX
+  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph modules humanitarian_migration_food_water, public_health_biosecurity (+6.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: In 1858, London was battling a cholera outbreak, and the Thames River stank of sewage. They had attempted to battle the disease by fixing localised water pumps to prevent people from drinking contaminated water. The real solution required them to build an urban sewer infrastructure system, which solved both the stench and disease. Today, we […] The post The demand for SMB cybersecurity is inevitable, the supply was…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **affaan-m/ECC** — Score 23, observation — [Quelle](https://github.com/affaan-m/ECC)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-29T02:13:13+00:00`
@@ -153,6 +158,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Jenkins automation server Table of Contents About What to Use Jenkins for and When to Use It Downloads Getting Started (Development) Source Contributing to Jenkins News and Website Governance Adopters License About In a nutshell, Jenkins is the leading open-source automation server. Built with Java, it provides over 2,000 plugins to support automating virtually anything, so that humans can spend their time doing thi…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN99975039/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-29T12:00:00+09:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: にししふぁくとりーが提供するてがろぐ -Fumy Otegaru Memo Logger-には、制限が不十分な正規表現を使用している脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99139115/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-07-29T11:15:00+09:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-66299）に対してアドバイザリが公開されました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **npm publish-time malware scanning and dual-use metadata** — Score 14, risk — [Quelle](https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-07-28T22:50:05+00:00`, fetched `2026-07-29T00:10:53+00:00`
@@ -192,14 +215,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 [07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！ free-stockdb 本地量化数据引擎 面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。 ❤️双击更新 -> 双击启动 -> 直接调用。 下载地址1 数据本地落盘，研究不再依赖远程接口。 本地优先 增量同步 数据支持(按需) 本地指标计算 五种调用方式 数据在用户磁盘 只处理变化数据 日/周/月/1/5/15/30分钟/tick 39 种指标、5 种指数 Python / HTTP / Excel / HTML / MCP flowchart TB A["数据更新：同步、清洗、复权、增量"] -->…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **As global trade fragments, Southeast Asia must build leverage, not just attract investment** — Score 10, observation — [Quelle](https://e27.co/as-global-trade-fragments-southeast-asia-must-build-leverage-not-just-attract-investment-20260727/)
+- **The one-person AI business is coming for the agency model** — Score 10, observation — [Quelle](https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T01:45:21+00:00`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:chips_compute_datacenters
-  - Watchgraph: chips_compute_datacenters
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)
-  - Kurz: A few years ago, a Southeast Asian technology company considering international expansion would usually begin with a familiar question: how large is the market? Today, the first questions are increasingly less glamorous. Where will the data sit? Which cloud infrastructure can we use? Will our components, investors or customers trigger export controls? Could a change […] The post As global trade fragments, Southeast…
+  - Zeit: published `2026-07-29T03:00:00+00:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: In June 2025, I started a business built on an uncomfortable question: how much of an agency does a client actually pay for, and how much of it is overhead wearing a lanyard? I run an education business in Singapore as my day job, so I see the demand side up close. SMEs want content, […] The post The one-person AI business is coming for the agency model appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Southeast Asia’s AI boom is becoming visual, vocal and local** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-ai-boom-is-becoming-visual-vocal-and-local-20260729/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-29T02:44:38+00:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s artificial intelligence adoption is not following the neat, text-first path seen in many early AI markets. Instead, users across the region appear to be jumping straight into a more instinctive mode of interaction: talking to AI, showing it photos, and asking it to work with images, video and sound. That is the central […] The post Southeast Asia’s AI boom is becoming visual, vocal and local appeare…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claudeで共有した会話、Google検索にインデックスされていたと判明--企業の内部データも** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251032/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -219,15 +251,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-07-28 23:51:44 UTC 2026-07-28 23:51:44 UTC at epicenter Location 4.393°S 152.954°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns** — Score 8, observation — [Quelle](https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T01:15:19+00:00`, fetched `2026-07-29T01:24:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Hyperscalers are preparing to spend roughly US$700 billion in 2026 to make artificial intelligence more capable and cheaper to run. That sounds like a straightforward growth story. More models, more compute, more demand, more data centres. The risk is that the spending is buying the very forces that weaken part of the demand case. AI […] The post The US$5 trillion AI data-centre buildout unleashes the paradox that l…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞** — Score 8, observation — [Quelle](https://mainichi.jp/articles/20260728/k00/00m/040/190000c)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-28T22:19:31+00:00`, fetched `2026-07-29T00:10:53+00:00`
@@ -246,12 +269,39 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built-in viewer set, then load the built-in plugin once before mounting <Viewer> : npm install @pascal-ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-29T02:23:08+00:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年熊本地震に関する対応状況について（第2報）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/2f3ebd5f-0c1f-4049-affb-3da489d5d4f5)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-29T02:14:51+00:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年熊本地震に関する対応状況について（第2報）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も** — Score 5, observation — [Quelle](https://togetter.com/li/2725950)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-29T01:10:30+00:00`, fetched `2026-07-29T03:24:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

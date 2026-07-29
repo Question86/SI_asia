@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:13:44+00:00",
+  "generated_at": "2026-07-29T03:24:54+00:00",
   "sections": {
     "global_security": [
       {
@@ -147,21 +147,6 @@
         "published_at": "2026-07-28T03:34:05+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "yellow",
-          "sig": 650.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 192 km NW of Oula Xiuma, China",
-        "summary": "M5.7 - 192 km NW of Oula Xiuma, China. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6",
-        "published_at": "2026-07-28T03:16:08+00:00",
-        "metrics": {
-          "mag": 5.7,
           "alert": "yellow",
           "sig": 650.0,
           "tsunami": 0
