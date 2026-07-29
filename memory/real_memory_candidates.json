@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-07-29T10:10:16Z",
+  "generated_at": "2026-07-29T11:04:53Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -33,6 +33,11 @@
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "[UPDATE] [hoch] SAP Patch Day Juli 2026",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
@@ -48,17 +53,12 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "馥鴻科技｜IP攝影機 - 存在2個漏洞",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }

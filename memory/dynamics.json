@@ -1,21 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-29T10:10:16Z",
+  "generated_at": "2026-07-29T11:04:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 7,
-      "strong": 17,
-      "watch": 8,
-      "quiet": 6
+      "krass": 9,
+      "strong": 21,
+      "watch": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 26,
-      "watch": 8,
-      "quiet": 6
+      "strong": 32,
+      "watch": 8
     }
   },
   "top_dynamics": [
@@ -24,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -52,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN99975039/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -76,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU99139115/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T11:15:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -96,11 +94,35 @@
       "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-66299）に対してアドバイザリが公開されました。"
     },
     {
+      "title": "[UPDATE] [mittel] Golang Go: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0679",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-29T09:43:26+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Golang Go ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1546",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:58+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -124,7 +146,7 @@
       "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:15:19+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -149,7 +171,7 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -173,11 +195,37 @@
       "summary": "Jenkins automation server Table of Contents About What to Use Jenkins for and When to Use It Downloads Getting Started (Development) Source Contributing to Jenkins News and Website Governance Adopters License About In a nutshell, Jenkins is the leading open-source automation server. Built with Java, it provides over 2…"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-29T09:43:25+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen und weitere nicht spezifizierte Angriffe zu starten."
+    },
+    {
       "title": "[UPDATE] [hoch] SAP Patch Day Juli 2026",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T05:52:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -203,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1510",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -229,7 +277,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "security"
@@ -252,11 +300,36 @@
       "summary": "As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement… The post npm publish-time malware scanning and dual-use metadata appeared first on The GitHub Blog ."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-29T09:43:26+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen und um nicht näher beschriebene Auswirkungen zu verursachen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -281,7 +354,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-29T07:21:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -307,7 +380,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11048-c8ce2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-29T03:12:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -333,7 +406,7 @@
       "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T06:56:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -360,7 +433,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 40.34,
+      "age_days": 40.38,
       "topics": [
         "ai"
       ],
@@ -379,7 +452,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.8 for 40.3d old signal",
+        "aging penalty -6.8 for 40.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -389,7 +462,7 @@
       "url": "https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:45:07+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security",
@@ -414,11 +487,38 @@
       "summary": "In 1858, London was battling a cholera outbreak, and the Thames River stank of sewage. They had attempted to battle the disease by fixing localised water pumps to prevent people from drinking contaminated water. The real solution required them to build an urban sewer infrastructure system, which solved both the stench…"
     },
     {
+      "title": "【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)",
+      "url": "https://zenn.dev/explaza/articles/20f7f41cff8428",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-28T22:23:21+00:00",
+      "age_days": 0.53,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "ごまんと触れられてきた話題であるのにも関わらず、細かい所に手の届くツールが無かったので作成しました。 有名どころから個人で制作されているツールまで、一通り使わせていただいたのですが実際に困った場面があり・・・ サマリ 課題 同じプロジェクトでCodexとClaude Codeの両方を使っているとき、AGENTS.mdやSKILLS..."
+    },
+    {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security",
@@ -446,7 +546,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-29T07:12:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -469,11 +569,37 @@
       "summary": "隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Inje…"
     },
     {
+      "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-07-29T09:45:11+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.1, which improves framework coverage for Go,… The post CodeQL 2.26.1 improves analysis accuracy and framework coverage appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
       "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T04:05:19+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -501,7 +627,7 @@
       "url": "https://github.com/andrewyng/aisuite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -523,11 +649,36 @@
       "summary": "Simple, unified interface to multiple Generative AI providers OpenWorker A desktop AI coworker, built on aisuite — now in its own repository: andrewyng/openworker . OpenWorker chats, does deep research, and carries out real tasks on your computer — reading files with permission, connecting to Slack/email, producing PD…"
     },
     {
+      "title": "Anxious Chinese students are trusting AI to help pick colleges and majors",
+      "url": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-07-29T10:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”"
+    },
+    {
       "title": "OpenWrt: Updates schließen teils kritische Sicherheitslücken",
       "url": "https://www.heise.de/news/OpenWrt-Updates-schliessen-teils-kritische-Sicherheitsluecken-11381496.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-29T09:08:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -552,7 +703,7 @@
       "url": "https://www.heise.de/news/Admin-Sicherheitsluecke-bedroht-Apache-Airflow-mit-FAB-Authentifizierung-11381355.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-29T08:24:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security"
@@ -578,7 +729,7 @@
       "url": "https://e27.co/why-building-a-people-first-work-culture-in-hr-tech-matters-more-than-ever-in-southeast-asia-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:01+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -604,7 +755,7 @@
       "url": "https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:00:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -631,7 +782,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:17:29.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -656,7 +807,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:19:58.057+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -681,7 +832,7 @@
       "url": "https://e27.co/southeast-asias-ai-boom-is-becoming-visual-vocal-and-local-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:44:38+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -709,7 +860,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T06:29:54.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -734,7 +885,7 @@
       "url": "https://github.com/pascalorg/editor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -762,7 +913,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T04:13:41.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -787,7 +938,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T00:10:17.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -812,7 +963,7 @@
       "url": "https://e27.co/endeavors-singapore-hub-targets-founders-building-from-asean-to-the-world-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T05:16:07+00:00",
-      "age_days": 0.2,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -836,7 +987,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T09:16:14+00:00",
-      "age_days": 1.04,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -862,7 +1013,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-07-29T08:15:18+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -886,7 +1037,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T04:22:20.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -904,154 +1055,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-07-29 04:07:22 UTC 2026-07-29 04:07:22 UTC at epicenter Location 17.657°S 178.754°W Depth 524.64 km (326.00 mi)"
-    },
-    {
-      "title": "The future of leadership: Owning outcomes in the age of AI",
-      "url": "https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-29T01:00:18+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next decade. After the talk, one of them raised his […] The post…"
-    },
-    {
-      "title": "As global trade fragments, Southeast Asia must build leverage, not just attract investment",
-      "url": "https://e27.co/as-global-trade-fragments-southeast-asia-must-build-leverage-not-just-attract-investment-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-29T01:45:21+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "A few years ago, a Southeast Asian technology company considering international expansion would usually begin with a familiar question: how large is the market? Today, the first questions are increasingly less glamorous. Where will the data sit? Which cloud infrastructure can we use? Will our components, investors or…"
-    },
-    {
-      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-07-29T08:00:00+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures"
-    },
-    {
-      "title": "Claudeで共有した会話、Google検索にインデックスされていたと判明--企業の内部データも",
-      "url": "https://japan.cnet.com/article/35251032/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-28T22:13:27+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "米AnthropicのAIチャットボット「Claude」で共有された会話が、GoogleやBingといった検索エンジンから誰でも閲覧できる状態になっていたことが先週末に明らかになった。会話には医療記録や企業の内部データも含まれており、ユーザーとAnthropicの双方にとって深刻なプライバシー問題となっている。 AIを巡るプライバシー..."
-    },
-    {
-      "title": "Your product is not your startup",
-      "url": "https://e27.co/your-product-is-not-your-startup-20260726/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-29T01:45:55+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Yesterday, I visited another startup that operates in a similar space to ours. On paper, they have every reason to feel anxious. Their current office will have to be vacated by the end of the year, which means they need to find a new location and reorganise their operations. Naturally, I asked the founder how […] The…"
-    },
-    {
-      "title": "Tallinn taps StepHow to test AI assistant for public-sector document search",
-      "url": "https://e27.co/tallinn-taps-stephow-to-test-ai-assistant-for-public-sector-document-search-20260729/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-29T08:48:50+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "StepHow tests citation-first AI assistant with Tallinn in govtech push For many city officials, the hardest part of answering a public query is not the answer itself. It is finding the correct document, checking whether it is still valid, and proving where the answer came from. StepHow, a B2B AI company led by CEO Jas…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."

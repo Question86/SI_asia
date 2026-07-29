@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-29T10:10:16Z",
+  "generated_at": "2026-07-29T11:04:53Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -43,7 +43,7 @@
       "url": "https://jvn.jp/jp/JVN99975039/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -63,59 +63,11 @@
       "summary": "にししふぁくとりーが提供するてがろぐ -Fumy Otegaru Memo Logger-には、制限が不十分な正規表現を使用している脆弱性が存在します。"
     },
     {
-      "title": "Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
-      "url": "https://jvn.jp/vu/JVNVU99139115/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-07-29T11:15:00+09:00",
-      "age_days": 0.33,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, cve, security"
-      ],
-      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-66299）に対してアドバイザリが公開されました。"
-    },
-    {
-      "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1546",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-29T09:23:58+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Grafana ausnutzen, um erweiterte Privilegien zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
-    },
-    {
       "title": "jenkinsci/jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -139,11 +91,37 @@
       "summary": "Jenkins automation server Table of Contents About What to Use Jenkins for and When to Use It Downloads Getting Started (Development) Source Contributing to Jenkins News and Website Governance Adopters License About In a nutshell, Jenkins is the leading open-source automation server. Built with Java, it provides over 2…"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-29T09:43:25+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen und weitere nicht spezifizierte Angriffe zu starten."
+    },
+    {
       "title": "[UPDATE] [hoch] SAP Patch Day Juli 2026",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T05:52:54+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -169,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1510",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -195,7 +173,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "security"
@@ -218,11 +196,36 @@
       "summary": "As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement… The post npm publish-time malware scanning and dual-use metadata appeared first on The GitHub Blog ."
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-29T09:43:26+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen und um nicht näher beschriebene Auswirkungen zu verursachen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -247,7 +250,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-29T07:21:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -273,7 +276,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11048-c8ce2-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-29T03:12:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -299,7 +302,7 @@
       "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T06:56:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"

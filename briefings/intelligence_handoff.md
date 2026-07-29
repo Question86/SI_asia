@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-29T10:10:16Z_
+_Generated: 2026-07-29T11:04:53Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T09:23:57+00:00` / age_days `0.03`
+- Published: `2026-07-29T09:23:57+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,47 +22,37 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-07-29T12:00:00+09:00` / age_days `0.3`
+- Published: `2026-07-29T12:00:00+09:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/jp/JVN99975039/
 
-### Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-07-29T11:15:00+09:00` / age_days `0.33`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: jvn, cve, security
-- Quelle: https://jvn.jp/vu/JVNVU99139115/
-
-### [UPDATE] [mittel] Grafana: Mehrere Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-07-29T09:23:58+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1546
-
 ### jenkinsci/jenkins
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T02:13:13+00:00` / age_days `0.33`
+- Published: `2026-07-29T02:13:13+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
 - Quelle: https://github.com/jenkinsci/jenkins
 
+### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-07-29T09:43:25+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047
+
 ### [UPDATE] [hoch] SAP Patch Day Juli 2026
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T05:52:54+00:00` / age_days `0.18`
+- Published: `2026-07-29T05:52:54+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T09:23:57+00:00` / age_days `0.03`
+- Published: `2026-07-29T09:23:57+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, 10, security high-signal: angriffe, 10, official security but no high-signal phrase: capped at strong
@@ -82,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-28T22:50:05+00:00` / age_days `0.47`
+- Published: `2026-07-28T22:50:05+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata
 
+### [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-07-29T09:43:26+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545
+
 ### CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T09:00:00+09:00` / age_days `0.42`
+- Published: `2026-07-29T09:00:00+09:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T07:21:00+00:00` / age_days `0.12`
+- Published: `2026-07-29T07:21:00+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T03:12:00+00:00` / age_days `0.29`
+- Published: `2026-07-29T03:12:00+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NG
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-29T06:56:32+00:00` / age_days `0.13`
+- Published: `2026-07-29T06:56:32+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, auth, security high-signal: rce, auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
