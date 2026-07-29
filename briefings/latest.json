@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T16:37:26+00:00",
-  "run_id": "2026-07-29T16:37:26+00:00",
+  "generated_at": "2026-07-29T17:03:39+00:00",
+  "run_id": "2026-07-29T17:03:39+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 1,
     "medium": 39,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -2079,6 +2079,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dd2ad73e4a091fc2443e"
+      },
+      {
+        "title": "Default model enablement for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-29T14:01:07+00:00",
+        "fetched_at": "2026-07-29T17:03:09+00:00",
+        "summary": "We’re introducing a global default enablement policy for generally available Copilot models on Copilot Business and Copilot Enterprise plans. Instead of requiring admins to manually turn on each new model… The post Default model enablement for Copilot Business and Enterprise appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5ab9ad8aabd824787356"
       },
       {
         "title": "ガバメントAI 源内の公式ロゴをリリースしました",
@@ -4339,6 +4360,27 @@
       "id": "dd2ad73e4a091fc2443e"
     },
     {
+      "title": "Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-29T14:01:07+00:00",
+      "fetched_at": "2026-07-29T17:03:09+00:00",
+      "summary": "We’re introducing a global default enablement policy for generally available Copilot models on Copilot Business and Copilot Enterprise plans. Instead of requiring admins to manually turn on each new model… The post Default model enablement for Copilot Business and Enterprise appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5ab9ad8aabd824787356"
+    },
+    {
       "title": "ガバメントAI 源内の公式ロゴをリリースしました",
       "url": "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df",
       "source": "Japan Digital Agency News RSS",
@@ -4548,39 +4590,25 @@
   ],
   "new_findings": [
     {
-      "title": "深刻度「緊急」のRails脆弱性「KindaRails2Shell」（CVE-2026-66066）の概要と対応指針 - GMO Flatt Security Blog",
-      "url": "https://blog.flatt.tech/entry/kindarails2shell_rails",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-29T15:19:18+00:00",
-      "fetched_at": "2026-07-29T16:36:50+00:00",
-      "summary": "2026年7月29日、認証を必要とせず、リモートからの任意コード実行（RCE）につながり得る脆弱性「CVE-2026-66066」を修正したRuby on Rails 7.2.3.2、8.0.5.1、8.1.3.1が公開されました（参考：Possible arbitrary file read and remote code execution in Active Storage variant processing）。 本脆弱性は、弊社GMO Fl...",
+      "published_at": "2026-07-29T14:01:07+00:00",
+      "fetched_at": "2026-07-29T17:03:09+00:00",
+      "summary": "We’re introducing a global default enablement policy for generally available Copilot models on Copilot Business and Copilot Enterprise plans. Instead of requiring admins to manually turn on each new model… The post Default model enablement for Copilot Business and Enterprise appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
+        "Copilot",
+        "GitHub"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: RCE"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "f8dc6d3da34ea1ef0655"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5ab9ad8aabd824787356"
     }
   ],
   "source_errors": [],

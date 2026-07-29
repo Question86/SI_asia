@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T16:37:26+00:00_
+_Generiert: 2026-07-29T17:03:39+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+82 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 ## Priorität Hoch
 
