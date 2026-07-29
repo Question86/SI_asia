@@ -349,6 +349,30 @@
     "id": "635bfc4fc4a5f3b0fc4d"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-29T11:52:53+00:00",
+    "fetched_at": "2026-07-29T12:33:45+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17bb2de46795cebb388b"
+  },
+  {
     "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1500,6 +1524,26 @@
     "id": "bd1c44fb19e35e036ae0"
   },
   {
+    "title": "Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig",
+    "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-29T12:03:00.000+00:00",
+    "fetched_at": "2026-07-29T12:33:45+00:00",
+    "summary": "Eine seit 2004 im IPMI-Protokoll zur Server-Fernwartung vorhandene und seit 2013 bekannte Sicherheitslücke betrifft tausende Geräte.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9fa3cbcf01a06308957f"
+  },
+  {
     "title": "Anxious Chinese students are trusting AI to help pick colleges and majors",
     "url": "https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
@@ -1702,6 +1746,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "22d41f45196daa47b979"
+  },
+  {
+    "title": "世界を席巻する中国の人型ロボット、米国が輸入を禁止 「容認できない」安保リスク",
+    "url": "https://www.cnn.co.jp/business/35251078.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-29T08:36:08+00:00",
+    "fetched_at": "2026-07-29T12:33:45+00:00",
+    "summary": "生産施設で製造ラインから出荷された人型ロボット「EngineAI T800」＝7月24日、中国・鄭州/VCG/Getty Images （CNN） 米政府が外国テクノロジー依存の低減に動く中、世界の人型ロボット（ヒューマノイド）の大部分を供給する中国が突然、最大の輸出市場から締め出された。 トランプ政権は28日、米国の国家安全保障に「容...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f88e6b30ac4ff06a4b8"
   },
   {
     "title": "ヨドバシ.com、領収書の「商品同梱」「メール送信」終了",

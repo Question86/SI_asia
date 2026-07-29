@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T11:53:33+00:00_
+_Generiert: 2026-07-29T12:34:14+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
+68 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -102,14 +102,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Security (+7.5); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Ransomware used to be understood mainly as a technology crisis: malware enters a network, locks files, and leaves the victim weighing whether to restore from backups or pay up. A new Proofpoint study suggests that view is now too narrow, especially for digitally dense markets such as Singapore. According to Proofpoint’s “2026 AI-Era Ransomware Report”, […] The post Ransomware in Singapore is becoming a human problem…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570)
+- **[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-29T11:37:53+00:00`, fetched `2026-07-29T11:53:04+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-07-29T11:52:53+00:00`, fetched `2026-07-29T12:33:45+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90008749/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -276,14 +276,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built-in viewer set, then load the built-in plugin once before mounting <Viewer> : npm install @pascal-ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Anxious Chinese students are trusting AI to help pick colleges and majors** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-ai-bot-college-advice/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-29T10:00:00+00:00`, fetched `2026-07-29T10:18:46+00:00`
-  - Treffer: AI/KI
+- **Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig** — Score 7, observation — [Quelle](https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-29T12:03:00.000+00:00`, fetched `2026-07-29T12:33:45+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Students leave the gaokao exam in Nanjing in June under a banner that reads “Win top marks.”
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Eine seit 2004 im IPMI-Protokoll zur Server-Fernwartung vorhandene und seit 2013 bekannte Sicherheitslücke betrifft tausende Geräte.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
