@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T16:03:09+00:00_
+_Generiert: 2026-07-29T16:37:26+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+81 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -193,6 +193,15 @@ _Generiert: 2026-07-29T16:03:09+00:00_
   - Warum relevant: AI/KI (+3.0); Security (+7.5); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Ransomware used to be understood mainly as a technology crisis: malware enters a network, locks files, and leaves the victim weighing whether to restore from backups or pay up. A new Proofpoint study suggests that view is now too narrow, especially for digitally dense markets such as Singapore. According to Proofpoint’s “2026 AI-Era Ransomware Report”, […] The post Ransomware in Singapore is becoming a human problem…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **深刻度「緊急」のRails脆弱性「KindaRails2Shell」（CVE-2026-66066）の概要と対応指針 - GMO Flatt Security Blog** — Score 16, risk — [Quelle](https://blog.flatt.tech/entry/kindarails2shell_rails)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-29T15:19:18+00:00`, fetched `2026-07-29T16:36:50+00:00`
+  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: 2026年7月29日、認証を必要とせず、リモートからの任意コード実行（RCE）につながり得る脆弱性「CVE-2026-66066」を修正したRuby on Rails 7.2.3.2、8.0.5.1、8.1.3.1が公開されました（参考：Possible arbitrary file read and remote code execution in Active Storage variant processing）。 本脆弱性は、弊社GMO Fl...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-29T11:52:53+00:00`, fetched `2026-07-29T12:33:45+00:00`
@@ -210,15 +219,6 @@ _Generiert: 2026-07-29T16:03:09+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 79 km NE of Casuguran, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgnu)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T14:42:26.823+00:00`, fetched `2026-07-29T14:44:46+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-07-29 14:11:03 UTC 2026-07-29 14:11:03 UTC at epicenter Location 15.269°N 122.853°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten

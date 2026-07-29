@@ -477,6 +477,41 @@
     "id": "635bfc4fc4a5f3b0fc4d"
   },
   {
+    "title": "深刻度「緊急」のRails脆弱性「KindaRails2Shell」（CVE-2026-66066）の概要と対応指針 - GMO Flatt Security Blog",
+    "url": "https://blog.flatt.tech/entry/kindarails2shell_rails",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-29T15:19:18+00:00",
+    "fetched_at": "2026-07-29T16:36:50+00:00",
+    "summary": "2026年7月29日、認証を必要とせず、リモートからの任意コード実行（RCE）につながり得る脆弱性「CVE-2026-66066」を修正したRuby on Rails 7.2.3.2、8.0.5.1、8.1.3.1が公開されました（参考：Possible arbitrary file read and remote code execution in Active Storage variant processing）。 本脆弱性は、弊社GMO Fl...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: RCE"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "f8dc6d3da34ea1ef0655"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573",
     "source": "BSI CERT-Bund Security Advisories",
