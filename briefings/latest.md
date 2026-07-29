@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T04:33:44+00:00_
+_Generiert: 2026-07-29T05:38:23+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „The demand for SMB cybersecurity is inevitable, the supply was never built correctly“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
