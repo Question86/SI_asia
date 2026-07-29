@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T12:34:14+00:00",
-  "run_id": "2026-07-29T12:34:14+00:00",
+  "generated_at": "2026-07-29T13:13:00+00:00",
+  "run_id": "2026-07-29T13:13:00+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 2,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 33,
-    "observe": 35,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -1556,6 +1556,26 @@
         "id": "bd1c44fb19e35e036ae0"
       },
       {
+        "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+        "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-29T12:42:00.000+00:00",
+        "fetched_at": "2026-07-29T13:12:31+00:00",
+        "summary": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d6fe7e6cdb341ab3c524"
+      },
+      {
         "title": "Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig",
         "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
         "source": "heise Security Alerts",
@@ -1778,6 +1798,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "22d41f45196daa47b979"
+      },
+      {
+        "title": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
+        "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2129015.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-29T09:31:17+00:00",
+        "fetched_at": "2026-07-29T13:12:31+00:00",
+        "summary": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "67b9f7bb4d2876dd0256"
       },
       {
         "title": "世界を席巻する中国の人型ロボット、米国が輸入を禁止 「容認できない」安保リスク",
@@ -3412,6 +3453,26 @@
       "id": "bd1c44fb19e35e036ae0"
     },
     {
+      "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-29T12:42:00.000+00:00",
+      "fetched_at": "2026-07-29T13:12:31+00:00",
+      "summary": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d6fe7e6cdb341ab3c524"
+    },
+    {
       "title": "Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig",
       "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
       "source": "heise Security Alerts",
@@ -3636,6 +3697,27 @@
       "id": "22d41f45196daa47b979"
     },
     {
+      "title": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2129015.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-29T09:31:17+00:00",
+      "fetched_at": "2026-07-29T13:12:31+00:00",
+      "summary": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "67b9f7bb4d2876dd0256"
+    },
+    {
       "title": "世界を席巻する中国の人型ロボット、米国が輸入を禁止 「容認できない」安保リスク",
       "url": "https://www.cnn.co.jp/business/35251078.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3743,37 +3825,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-07-29T11:52:53+00:00",
-      "fetched_at": "2026-07-29T12:33:45+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "17bb2de46795cebb388b"
-    },
-    {
-      "title": "Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig",
-      "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
+      "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
       "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-29T12:03:00.000+00:00",
-      "fetched_at": "2026-07-29T12:33:45+00:00",
-      "summary": "Eine seit 2004 im IPMI-Protokoll zur Server-Fernwartung vorhandene und seit 2013 bekannte Sicherheitslücke betrifft tausende Geräte.",
+      "published_at": "2026-07-29T12:42:00.000+00:00",
+      "fetched_at": "2026-07-29T13:12:31+00:00",
+      "summary": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.",
       "matched_keywords": [
         "Security"
       ],
@@ -3784,16 +3842,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9fa3cbcf01a06308957f"
+      "id": "d6fe7e6cdb341ab3c524"
     },
     {
-      "title": "世界を席巻する中国の人型ロボット、米国が輸入を禁止 「容認できない」安保リスク",
-      "url": "https://www.cnn.co.jp/business/35251078.html",
+      "title": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2129015.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-29T08:36:08+00:00",
-      "fetched_at": "2026-07-29T12:33:45+00:00",
-      "summary": "生産施設で製造ラインから出荷された人型ロボット「EngineAI T800」＝7月24日、中国・鄭州/VCG/Getty Images （CNN） 米政府が外国テクノロジー依存の低減に動く中、世界の人型ロボット（ヒューマノイド）の大部分を供給する中国が突然、最大の輸出市場から締め出された。 トランプ政権は28日、米国の国家安全保障に「容...",
+      "published_at": "2026-07-29T09:31:17+00:00",
+      "fetched_at": "2026-07-29T13:12:31+00:00",
+      "summary": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3805,7 +3863,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4f88e6b30ac4ff06a4b8"
+      "id": "67b9f7bb4d2876dd0256"
     }
   ],
   "source_errors": [],

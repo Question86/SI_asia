@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T12:34:14+00:00_
+_Generiert: 2026-07-29T13:13:00+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
+70 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -337,14 +337,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built-in viewer set, then load the built-in plugin once before mounting <Viewer> : npm install @pascal-ap…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Server-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig** — Score 7, observation — [Quelle](https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html)
+- **Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-29T12:03:00.000+00:00`, fetched `2026-07-29T12:33:45+00:00`
+  - Zeit: published `2026-07-29T12:42:00.000+00:00`, fetched `2026-07-29T13:12:31+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Eine seit 2004 im IPMI-Protokoll zur Server-Fernwartung vorhandene und seit 2013 bekannte Sicherheitslücke betrifft tausende Geräte.
+  - Kurz: In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
