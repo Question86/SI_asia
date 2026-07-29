@@ -1,5 +1,55 @@
 [
   {
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-29T16:00:00+00:00",
+    "fetched_at": "2026-07-29T16:02:40+00:00",
+    "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "CodeQL/Dependabot",
+      "GitHub",
+      "Open Source",
+      "Security",
+      "Watchgraph:storms_floods_weather"
+    ],
+    "relevance_score": 30,
+    "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+7.5); Open Source (+3.0); Climate/Disaster Infrastructure (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)",
+    "risk_or_opportunity": "mixed",
+    "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+    "watchgraph_modules": [
+      "storms_floods_weather"
+    ],
+    "watchgraph_reasons": [
+      "storms_floods_weather: flood"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "d73279bd926511871361"
+  },
+  {
     "title": "[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2572",
     "source": "BSI CERT-Bund Security Advisories",
@@ -232,6 +282,45 @@
       "S"
     ],
     "id": "58924eef1b8d6fddcd35"
+  },
+  {
+    "title": "M 5.4 - 53 km E of Rapu-Rapu, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-29T15:47:36.771+00:00",
+    "fetched_at": "2026-07-29T16:02:40+00:00",
+    "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-29 15:10:02 UTC 2026-07-29 15:10:02 UTC at epicenter Location 13.138°N 124.614°E Depth 46.28 km (28.76 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "ed621d892ff44c9f17d8"
   },
   {
     "title": "M 5.4 - 11 km N of Tsunagi, Japan",

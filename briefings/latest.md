@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T15:28:58+00:00_
+_Generiert: 2026-07-29T16:03:09+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
+80 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,7 +73,15 @@ _Generiert: 2026-07-29T15:28:58+00:00_
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **Tame Dependabot: Group your updates, slow the cadence, keep security fast** — Score 30, mixed — [Quelle](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-29T16:00:00+00:00`, fetched `2026-07-29T16:02:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, CodeQL/Dependabot, GitHub, Open Source, Security, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); Open Source (+3.0); Climate/Disaster Infrastructure (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Priorität Mittel
 
@@ -121,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: 隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Injection）」攻擊。 這項攻擊分為兩階段：首先，攻擊者會先在程式儲存庫混入惡意的二進位檔案，並將其偽裝成合法的資安檢測元件（例如命名為security.sh），接著攻擊者會在開發者經常使用的READM…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.4 - 53 km E of Rapu-Rapu, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-29T15:47:36.771+00:00`, fetched `2026-07-29T16:02:40+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-29 15:10:02 UTC 2026-07-29 15:10:02 UTC at epicenter Location 13.138°N 124.614°E Depth 46.28 km (28.76 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 11 km N of Tsunagi, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -202,15 +219,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-07-29 14:11:03 UTC 2026-07-29 14:11:03 UTC at epicenter Location 15.269°N 122.853°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 4 km NNE of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmy)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T13:54:41.885+00:00`, fetched `2026-07-29T13:56:02+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-07-29 13:16:59 UTC 2026-07-29 13:16:59 UTC at epicenter Location 5.616°N 125.365°E Depth 54.24 km (33.70 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -353,6 +361,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
