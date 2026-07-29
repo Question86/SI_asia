@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T00:11:23+00:00",
-  "run_id": "2026-07-29T00:11:23+00:00",
+  "generated_at": "2026-07-29T01:25:05+00:00",
+  "run_id": "2026-07-29T01:25:05+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 5
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 4,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 3,
-    "observe": 2,
+    "medium": 5,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "The future of leadership: Owning outcomes in the age of AI",
+        "url": "https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-29T01:00:18+00:00",
+        "fetched_at": "2026-07-29T01:24:33+00:00",
+        "summary": "A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next decade. After the talk, one of them raised his […] The post The future of leadership: Owning outcomes in the age of AI appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "85c6b34c2f291791c792"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
         "url": "https://jvn.jp/vu/JVNVU90008749/",
@@ -51,6 +74,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "522927126d23e01945b4"
+      },
+      {
+        "title": "M 4.8 - 23 km N of Santa Monica, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T01:17:29.040+00:00",
+        "fetched_at": "2026-07-29T01:24:33+00:00",
+        "summary": "Time 2026-07-29 00:39:36 UTC 2026-07-29 00:39:36 UTC at epicenter Location 10.236°N 126.053°E Depth 53.56 km (33.28 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5dbcbc6b9639d456e88f"
       },
       {
         "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
@@ -121,6 +181,44 @@
     ],
     "observe": [
       {
+        "title": "M 5.4 - 153 km NE of Neiafu, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T01:19:58.057+00:00",
+        "fetched_at": "2026-07-29T01:24:33+00:00",
+        "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7a9ed5b9779c4c65927a"
+      },
+      {
         "title": "M 4.8 - 76 km E of Kokopo, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -157,6 +255,27 @@
         "id": "6f66d7c753aec0e9a3fd"
       },
       {
+        "title": "The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns",
+        "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-29T01:15:19+00:00",
+        "fetched_at": "2026-07-29T01:24:33+00:00",
+        "summary": "Hyperscalers are preparing to spend roughly US$700 billion in 2026 to make artificial intelligence more capable and cheaper to run. That sounds like a straightforward growth story. More models, more compute, more demand, more data centres. The risk is that the spending is buying the very forces that weaken part of the demand case. AI […] The post The US$5 trillion AI data-centre buildout unleashes the paradox that l…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07da8d43785573898308"
+      },
+      {
         "title": "AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞",
         "url": "https://mainichi.jp/articles/20260728/k00/00m/040/190000c",
         "source": "Hatena Bookmark Hotentry IT",
@@ -182,6 +301,29 @@
   },
   "findings": [
     {
+      "title": "The future of leadership: Owning outcomes in the age of AI",
+      "url": "https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-29T01:00:18+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next decade. After the talk, one of them raised his […] The post The future of leadership: Owning outcomes in the age of AI appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "85c6b34c2f291791c792"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
@@ -203,6 +345,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "522927126d23e01945b4"
+    },
+    {
+      "title": "M 4.8 - 23 km N of Santa Monica, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T01:17:29.040+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "Time 2026-07-29 00:39:36 UTC 2026-07-29 00:39:36 UTC at epicenter Location 10.236°N 126.053°E Depth 53.56 km (33.28 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5dbcbc6b9639d456e88f"
     },
     {
       "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
@@ -271,6 +450,44 @@
       "id": "bdb4108ae86a71fc805a"
     },
     {
+      "title": "M 5.4 - 153 km NE of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T01:19:58.057+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7a9ed5b9779c4c65927a"
+    },
+    {
       "title": "M 4.8 - 76 km E of Kokopo, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -305,6 +522,27 @@
         "LOW"
       ],
       "id": "6f66d7c753aec0e9a3fd"
+    },
+    {
+      "title": "The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns",
+      "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-29T01:15:19+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "Hyperscalers are preparing to spend roughly US$700 billion in 2026 to make artificial intelligence more capable and cheaper to run. That sounds like a straightforward growth story. More models, more compute, more demand, more data centres. The risk is that the spending is buying the very forces that weaken part of the demand case. AI […] The post The US$5 trillion AI data-centre buildout unleashes the paradox that l…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07da8d43785573898308"
     },
     {
       "title": "AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞",
@@ -331,108 +569,43 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月28日）",
-      "url": "https://jvn.jp/vu/JVNVU90008749/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "The future of leadership: Owning outcomes in the age of AI",
+      "url": "https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-29T09:00:00+09:00",
-      "fetched_at": "2026-07-29T00:10:53+00:00",
-      "summary": "2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "522927126d23e01945b4"
-    },
-    {
-      "title": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-28T09:16:14+00:00",
-      "fetched_at": "2026-07-29T00:10:53+00:00",
-      "summary": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装",
+      "published_at": "2026-07-29T01:00:18+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next decade. After the talk, one of them raised his […] The post The future of leadership: Owning outcomes in the age of AI appeared first on e27 .",
       "matched_keywords": [
         "AI Agents",
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Public Health"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 18,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "75c60bfa608c638f983e"
+      "id": "85c6b34c2f291791c792"
     },
     {
-      "title": "npm publish-time malware scanning and dual-use metadata",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-28T22:50:05+00:00",
-      "fetched_at": "2026-07-29T00:10:53+00:00",
-      "summary": "As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement… The post npm publish-time malware scanning and dual-use metadata appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Security",
-        "Watchgraph:software_supply_chain"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "software_supply_chain"
-      ],
-      "watchgraph_reasons": [
-        "software_supply_chain: npm"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM"
-      ],
-      "id": "bdb4108ae86a71fc805a"
-    },
-    {
-      "title": "M 4.8 - 76 km E of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz",
+      "title": "M 4.8 - 23 km N of Santa Monica, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-29T00:10:17.040+00:00",
-      "fetched_at": "2026-07-29T00:10:53+00:00",
-      "summary": "Time 2026-07-28 23:51:44 UTC 2026-07-28 23:51:44 UTC at epicenter Location 4.393°S 152.954°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-29T01:17:29.040+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "Time 2026-07-29 00:39:36 UTC 2026-07-29 00:39:36 UTC at epicenter Location 10.236°N 126.053°E Depth 53.56 km (33.28 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -453,29 +626,66 @@
         "HD",
         "LOW"
       ],
-      "id": "6f66d7c753aec0e9a3fd"
+      "id": "5dbcbc6b9639d456e88f"
     },
     {
-      "title": "AI新世紀：皆がコード書ける時代…プログラミング学ぶ意味は 開発者の見解 | 毎日新聞",
-      "url": "https://mainichi.jp/articles/20260728/k00/00m/040/190000c",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.4 - 153 km NE of Neiafu, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-28T22:19:31+00:00",
-      "fetched_at": "2026-07-29T00:10:53+00:00",
-      "summary": "多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発...",
+      "published_at": "2026-07-29T01:19:58.057+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7a9ed5b9779c4c65927a"
+    },
+    {
+      "title": "The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns",
+      "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-29T01:15:19+00:00",
+      "fetched_at": "2026-07-29T01:24:33+00:00",
+      "summary": "Hyperscalers are preparing to spend roughly US$700 billion in 2026 to make artificial intelligence more capable and cheaper to run. That sounds like a straightforward growth story. More models, more compute, more demand, more data centres. The risk is that the spending is buying the very forces that weaken part of the demand case. AI […] The post The US$5 trillion AI data-centre buildout unleashes the paradox that l…",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
       "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "86a0967a473a06565a1c"
+      "id": "07da8d43785573898308"
     }
   ],
   "source_errors": [],
