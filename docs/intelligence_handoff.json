@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-29T11:53:50Z",
+  "generated_at": "2026-07-29T12:36:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -43,7 +43,7 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -67,11 +67,37 @@
       "summary": "Jenkins automation server Table of Contents About What to Use Jenkins for and When to Use It Downloads Getting Started (Development) Source Contributing to Jenkins News and Website Governance Adopters License About In a nutshell, Jenkins is the leading open-source automation server. Built with Java, it provides over 2…"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2573",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-29T11:52:53+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0047",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:25+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -97,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T05:52:54+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -123,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2569",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -149,7 +175,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2567",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:32:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -175,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1510",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:23:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -201,7 +227,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.54,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "security"
@@ -228,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2570",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T11:37:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -253,7 +279,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0545",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-29T09:43:26+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -278,7 +304,7 @@
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -297,32 +323,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html",
-      "source": "TWCERT/CC Security News RSS",
-      "published_at": "2026-07-29T07:21:00+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10",
-        "security high-signal: 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "企業說自己「有做SBOM」，但格式對不對，可能才是真正決定合不合規的關鍵。歐盟網路安全局（European Union Agency, ENISA）今年6月公布的最新調查顯示，將近三成企業的軟體物料清單，用的格式根本不在國際主流之列。 格式不是小事，是SBOM能不能用的前提 歐盟網路韌性法（Cyber Resilience Act, CRA）要求製造商為每項具數位功能的產品建立軟體物料清單（Software Bill of Materials, SBOM），並規定格式必須「常用且機器可讀」（a commonly used and machine-readable format）。這項規定看似給予不少彈性，但ENISA在報告結論中直…"
     }
   ],
   "read_order": [
