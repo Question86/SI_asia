@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:33:06+00:00",
+  "generated_at": "2026-07-29T22:56:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,26 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Kermadec Islands Region 29/07/2026 22:27 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:10km) in Kermadec Islands Region 29/07/2026 22:27 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554971",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Pacific-Antarctic Ridge 29/07/2026 22:08 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Pacific-Antarctic Ridge 29/07/2026 22:08 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554970",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.",
         "source": "GDACS",
@@ -121,6 +141,36 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554510",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - Kermadec Islands region",
+        "summary": "M5.9 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf",
+        "published_at": "2026-07-29T22:27:57+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "green",
+          "sig": 536.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - Pacific-Antarctic Ridge",
+        "summary": "M5.6 - Pacific-Antarctic Ridge. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud",
+        "published_at": "2026-07-29T22:08:07+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T22:33:03+00:00_
+_Generiert: 2026-07-29T22:56:13+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+95 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 ## Priorität Hoch
 
@@ -158,6 +158,15 @@ _Generiert: 2026-07-29T22:33:03+00:00_
 
 ## Nur beobachten
 
+- **M 5.9 - Kermadec Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-29T22:54:13.114+00:00`, fetched `2026-07-29T22:55:43+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-29 22:27:57 UTC 2026-07-29 22:27:57 UTC at epicenter Location 28.498°S 176.517°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 153 km NE of Neiafu, Tonga** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-29T01:19:58.057+00:00`, fetched `2026-07-29T01:24:33+00:00`
@@ -257,15 +266,6 @@ _Generiert: 2026-07-29T22:33:03+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米AnthropicのAIチャットボット「Claude」で共有された会話が、GoogleやBingといった検索エンジンから誰でも閲覧できる状態になっていたことが先週末に明らかになった。会話には医療記録や企業の内部データも含まれており、ユーザーとAnthropicの双方にとって深刻なプライバシー問題となっている。 AIを巡るプライバシー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - Pacific-Antarctic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T22:31:37.040+00:00`, fetched `2026-07-29T22:32:34+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-29 22:08:07 UTC 2026-07-29 22:08:07 UTC at epicenter Location 65.165°S 179.271°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Federal Reserve issues FOMC statement** — Score 9, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
   - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
   - Zeit: published `2026-07-29T18:00:00+00:00`, fetched `2026-07-29T18:00:13+00:00`
