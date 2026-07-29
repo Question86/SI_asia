@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T13:13:00+00:00",
-  "run_id": "2026-07-29T13:13:00+00:00",
+  "generated_at": "2026-07-29T13:56:31+00:00",
+  "run_id": "2026-07-29T13:56:31+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 6,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
-    "medium": 33,
-    "observe": 37,
+    "medium": 36,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -262,6 +262,45 @@
           "S"
         ],
         "id": "58924eef1b8d6fddcd35"
+      },
+      {
+        "title": "M 5.4 - 11 km N of Tsunagi, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T13:47:16.037+00:00",
+        "fetched_at": "2026-07-29T13:56:02+00:00",
+        "summary": "PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-07-29 13:19:36 UTC 2026-07-29 13:19:36 UTC at epicenter Location 32.340°N 130.488°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d5e2207e42813822d25b"
       },
       {
         "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
@@ -566,6 +605,80 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bd33945ad6eaebdada72"
+      },
+      {
+        "title": "M 5.0 - 4 km NNE of Balangonan, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmy",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T13:54:41.885+00:00",
+        "fetched_at": "2026-07-29T13:56:02+00:00",
+        "summary": "DYFI? - IV Time 2026-07-29 13:16:59 UTC 2026-07-29 13:16:59 UTC at epicenter Location 5.616°N 125.365°E Depth 54.24 km (33.70 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "93d15f3fe15ad445d090"
+      },
+      {
+        "title": "M 5.0 - 48 km SW of Balangonan, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn0",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T13:51:25.600+00:00",
+        "fetched_at": "2026-07-29T13:56:02+00:00",
+        "summary": "DYFI? - III Time 2026-07-29 13:23:56 UTC 2026-07-29 13:23:56 UTC at epicenter Location 5.318°N 124.995°E Depth 63.99 km (39.76 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4c6dd037a102095d7201"
       },
       {
         "title": "M 4.8 - 23 km N of Santa Monica, Philippines",
@@ -1513,6 +1626,52 @@
         "id": "86a0967a473a06565a1c"
       },
       {
+        "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (22 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0908/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-22T00:00:00+00:00",
+        "fetched_at": "2026-07-29T13:56:02+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fa87dc032ce4ad14f080"
+      },
+      {
+        "title": "Multiples vulnérabilités dans GLPI (22 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0909/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-22T00:00:00+00:00",
+        "fetched_at": "2026-07-29T13:56:02+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7cac5f5aff0b035ff32d"
+      },
+      {
         "title": "pascalorg/editor",
         "url": "https://github.com/pascalorg/editor",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -1554,6 +1713,26 @@
           "TEAM"
         ],
         "id": "bd1c44fb19e35e036ae0"
+      },
+      {
+        "title": "TeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
+        "url": "https://www.heise.de/news/TeamViewer-Zwei-Faktor-Authentifizierung-unter-macOS-umgehbar-11382884.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-29T13:36:00.000+00:00",
+        "fetched_at": "2026-07-29T13:56:02+00:00",
+        "summary": "Unter bestimmten Bedingungen können Angreifer TeamViewer-Remotesessions unter macOS erstellen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c08cda13f6ffb86633b0"
       },
       {
         "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
@@ -2163,6 +2342,45 @@
       "id": "58924eef1b8d6fddcd35"
     },
     {
+      "title": "M 5.4 - 11 km N of Tsunagi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:47:16.037+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-07-29 13:19:36 UTC 2026-07-29 13:19:36 UTC at epicenter Location 32.340°N 130.488°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d5e2207e42813822d25b"
+    },
+    {
       "title": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
       "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
       "source": "GitHub Changelog Atom",
@@ -2465,6 +2683,80 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bd33945ad6eaebdada72"
+    },
+    {
+      "title": "M 5.0 - 4 km NNE of Balangonan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:54:41.885+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "DYFI? - IV Time 2026-07-29 13:16:59 UTC 2026-07-29 13:16:59 UTC at epicenter Location 5.616°N 125.365°E Depth 54.24 km (33.70 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "93d15f3fe15ad445d090"
+    },
+    {
+      "title": "M 5.0 - 48 km SW of Balangonan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:51:25.600+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "DYFI? - III Time 2026-07-29 13:23:56 UTC 2026-07-29 13:23:56 UTC at epicenter Location 5.318°N 124.995°E Depth 63.99 km (39.76 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c6dd037a102095d7201"
     },
     {
       "title": "M 4.8 - 23 km N of Santa Monica, Philippines",
@@ -3410,6 +3702,52 @@
       "id": "86a0967a473a06565a1c"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (22 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0908/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fa87dc032ce4ad14f080"
+    },
+    {
+      "title": "Multiples vulnérabilités dans GLPI (22 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0909/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7cac5f5aff0b035ff32d"
+    },
+    {
       "title": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -3451,6 +3789,26 @@
         "TEAM"
       ],
       "id": "bd1c44fb19e35e036ae0"
+    },
+    {
+      "title": "TeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
+      "url": "https://www.heise.de/news/TeamViewer-Zwei-Faktor-Authentifizierung-unter-macOS-umgehbar-11382884.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:36:00.000+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "Unter bestimmten Bedingungen können Angreifer TeamViewer-Remotesessions unter macOS erstellen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c08cda13f6ffb86633b0"
     },
     {
       "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
@@ -3825,13 +4183,172 @@
   ],
   "new_findings": [
     {
-      "title": "Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
+      "title": "M 5.4 - 11 km N of Tsunagi, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:47:16.037+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-07-29 13:19:36 UTC 2026-07-29 13:19:36 UTC at epicenter Location 32.340°N 130.488°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d5e2207e42813822d25b"
+    },
+    {
+      "title": "M 5.0 - 4 km NNE of Balangonan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:54:41.885+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "DYFI? - IV Time 2026-07-29 13:16:59 UTC 2026-07-29 13:16:59 UTC at epicenter Location 5.616°N 125.365°E Depth 54.24 km (33.70 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "93d15f3fe15ad445d090"
+    },
+    {
+      "title": "M 5.0 - 48 km SW of Balangonan, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T13:51:25.600+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "DYFI? - III Time 2026-07-29 13:23:56 UTC 2026-07-29 13:23:56 UTC at epicenter Location 5.318°N 124.995°E Depth 63.99 km (39.76 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c6dd037a102095d7201"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (22 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0908/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fa87dc032ce4ad14f080"
+    },
+    {
+      "title": "Multiples vulnérabilités dans GLPI (22 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0909/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7cac5f5aff0b035ff32d"
+    },
+    {
+      "title": "TeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
+      "url": "https://www.heise.de/news/TeamViewer-Zwei-Faktor-Authentifizierung-unter-macOS-umgehbar-11382884.html",
       "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-29T12:42:00.000+00:00",
-      "fetched_at": "2026-07-29T13:12:31+00:00",
-      "summary": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.",
+      "published_at": "2026-07-29T13:36:00.000+00:00",
+      "fetched_at": "2026-07-29T13:56:02+00:00",
+      "summary": "Unter bestimmten Bedingungen können Angreifer TeamViewer-Remotesessions unter macOS erstellen.",
       "matched_keywords": [
         "Security"
       ],
@@ -3842,28 +4359,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d6fe7e6cdb341ab3c524"
-    },
-    {
-      "title": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2129015.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-29T09:31:17+00:00",
-      "fetched_at": "2026-07-29T13:12:31+00:00",
-      "summary": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "67b9f7bb4d2876dd0256"
+      "id": "c08cda13f6ffb86633b0"
     }
   ],
   "source_errors": [],

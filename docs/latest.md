@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T13:13:00+00:00_
+_Generiert: 2026-07-29T13:56:31+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
+76 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: 隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Injection）」攻擊。 這項攻擊分為兩階段：首先，攻擊者會先在程式儲存庫混入惡意的二進位檔案，並將其偽裝成合法的資安檢測元件（例如命名為security.sh），接著攻擊者會在開發者經常使用的READM…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.4 - 11 km N of Tsunagi, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-29T13:47:16.037+00:00`, fetched `2026-07-29T13:56:02+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-07-29 13:19:36 UTC 2026-07-29 13:19:36 UTC at epicenter Location 32.340°N 130.488°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CodeQL 2.26.1 improves analysis accuracy and framework coverage** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -120,33 +129,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月28日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 23 km N of Santa Monica, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc)
+- **M 5.0 - 4 km NNE of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T01:17:29.040+00:00`, fetched `2026-07-29T01:24:33+00:00`
+  - Zeit: published `2026-07-29T13:54:41.885+00:00`, fetched `2026-07-29T13:56:02+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-29 00:39:36 UTC 2026-07-29 00:39:36 UTC at epicenter Location 10.236°N 126.053°E Depth 53.56 km (33.28 mi)
+  - Kurz: DYFI? - IV Time 2026-07-29 13:16:59 UTC 2026-07-29 13:16:59 UTC at epicenter Location 5.616°N 125.365°E Depth 54.24 km (33.70 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装** — Score 15, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2128581.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T09:16:14+00:00`, fetched `2026-07-29T00:10:53+00:00`
-  - Treffer: AI Agents, AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **jenkinsci/jenkins** — Score 15, opportunity — [Quelle](https://github.com/jenkinsci/jenkins)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: APAC Trend Radar, Automatisierung, GitHub Trending, Open Source, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Jenkins automation server Table of Contents About What to Use Jenkins for and When to Use It Downloads Getting Started (Development) Source Contributing to Jenkins News and Website Governance Adopters License About In a nutshell, Jenkins is the leading open-source automation server. Built with Java, it provides over 2,000 plugins to support automating virtually anything, so that humans can spend their time doing thi…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.0 - 48 km SW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgn0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-29T13:51:25.600+00:00`, fetched `2026-07-29T13:56:02+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-07-29 13:23:56 UTC 2026-07-29 13:23:56 UTC at epicenter Location 5.318°N 124.995°E Depth 63.99 km (39.76 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -267,23 +267,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pascalorg/editor** — Score 8, observation — [Quelle](https://github.com/pascalorg/editor)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Watchgraph:software_supply_chain
-  - Watchgraph: software_supply_chain
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)
-  - Kurz: Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built-in viewer set, then load the built-in plugin once before mounting <Viewer> : npm install @pascal-ap…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-29T12:42:00.000+00:00`, fetched `2026-07-29T13:12:31+00:00`
-  - Treffer: Security
+- **Multiples vulnérabilités dans les produits HPE Aruba Networking (22 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0908/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-22T00:00:00+00:00`, fetched `2026-07-29T13:56:02+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans GLPI (22 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0909/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-22T00:00:00+00:00`, fetched `2026-07-29T13:56:02+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
