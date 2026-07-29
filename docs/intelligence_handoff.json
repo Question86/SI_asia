@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-29T02:36:51Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
+  "generated_at": "2026-07-29T03:50:52Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,59 @@
   ],
   "top_dynamics": [
     {
+      "title": "てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性",
+      "url": "https://jvn.jp/jp/JVN99975039/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "にししふぁくとりーが提供するてがろぐ -Fumy Otegaru Memo Logger-には、制限が不十分な正規表現を使用している脆弱性が存在します。"
+    },
+    {
+      "title": "Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
+      "url": "https://jvn.jp/vu/JVNVU99139115/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-29T11:15:00+09:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, cve, security"
+      ],
+      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-66299）に対してアドバイザリが公開されました。"
+    },
+    {
       "title": "The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns",
       "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:15:19+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -40,7 +88,7 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -68,7 +116,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security"
@@ -95,7 +143,7 @@
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -120,7 +168,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 40.03,
+      "age_days": 40.08,
       "topics": [
         "ai"
       ],
@@ -139,17 +187,46 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.7 for 40.0d old signal",
+        "aging penalty -6.7 for 40.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "The demand for SMB cybersecurity is inevitable, the supply was never built correctly",
+      "url": "https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-29T02:45:07+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, local",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "In 1858, London was battling a cholera outbreak, and the Thames River stank of sewage. They had attempted to battle the disease by fixing localised water pumps to prevent people from drinking contaminated water. The real solution required them to build an urban sewer infrastructure system, which solved both the stench…"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -177,7 +254,7 @@
       "url": "https://github.com/andrewyng/aisuite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -203,7 +280,7 @@
       "url": "https://e27.co/why-building-a-people-first-work-culture-in-hr-tech-matters-more-than-ever-in-southeast-asia-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -229,7 +306,7 @@
       "url": "https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:00:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -250,84 +327,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The discussion around the youth hiring crisis often focuses on AI and automation replacing entry-level jobs. While automation is certainly changing work, there’s a strong argument that remote work has had a more immediate impact on early-career hiring. Here’s why. Junior employees learn by osmosis, not just training B…"
-    },
-    {
-      "title": "M 4.8 - 23 km N of Santa Monica, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-29T01:17:29.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-29 00:39:36 UTC 2026-07-29 00:39:36 UTC at epicenter Location 10.236°N 126.053°E Depth 53.56 km (33.28 mi)"
-    },
-    {
-      "title": "M 5.4 - 153 km NE of Neiafu, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-29T01:19:58.057+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: supply, chain",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built…"
     }
   ],
   "read_order": [
@@ -339,8 +338,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }

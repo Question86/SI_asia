@@ -1,30 +1,78 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-29T02:36:51Z",
+  "generated_at": "2026-07-29T03:50:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 33,
     "bands": {
       "extreme": 1,
       "krass": 2,
-      "strong": 8,
+      "strong": 12,
       "watch": 3,
-      "quiet": 9
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
+      "strong": 15,
       "watch": 3,
-      "quiet": 9
+      "quiet": 15
     }
   },
   "top_dynamics": [
+    {
+      "title": "てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性",
+      "url": "https://jvn.jp/jp/JVN99975039/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-29T12:00:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "にししふぁくとりーが提供するてがろぐ -Fumy Otegaru Memo Logger-には、制限が不十分な正規表現を使用している脆弱性が存在します。"
+    },
+    {
+      "title": "Apache TomcatのWebSocket chatサンプルにおけるサービス運用妨害（DoS）の脆弱性（2026年7月28日）",
+      "url": "https://jvn.jp/vu/JVNVU99139115/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-29T11:15:00+09:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, cve, security"
+      ],
+      "summary": "The Apache Software Foundationから、Apache Tomcatの脆弱性（CVE-2026-66299）に対してアドバイザリが公開されました。"
+    },
     {
       "title": "The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns",
       "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:15:19+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -49,7 +97,7 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -77,7 +125,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security"
@@ -104,7 +152,7 @@
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -129,7 +177,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 40.03,
+      "age_days": 40.08,
       "topics": [
         "ai"
       ],
@@ -148,17 +196,46 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -6.7 for 40.0d old signal",
+        "aging penalty -6.7 for 40.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "The demand for SMB cybersecurity is inevitable, the supply was never built correctly",
+      "url": "https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-29T02:45:07+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, local",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "In 1858, London was battling a cholera outbreak, and the Thames River stank of sewage. They had attempted to battle the disease by fixing localised water pumps to prevent people from drinking contaminated water. The real solution required them to build an urban sewer infrastructure system, which solved both the stench…"
     },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -186,7 +263,7 @@
       "url": "https://github.com/andrewyng/aisuite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -212,7 +289,7 @@
       "url": "https://e27.co/why-building-a-people-first-work-culture-in-hr-tech-matters-more-than-ever-in-southeast-asia-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -238,7 +315,7 @@
       "url": "https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:00:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -265,7 +342,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:17:29.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -290,7 +367,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:19:58.057+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -311,11 +388,39 @@
       "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Southeast Asia’s AI boom is becoming visual, vocal and local",
+      "url": "https://e27.co/southeast-asias-ai-boom-is-becoming-visual-vocal-and-local-20260729/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-29T02:44:38+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Southeast Asia’s artificial intelligence adoption is not following the neat, text-first path seen in many early AI markets. Instead, users across the region appear to be jumping straight into a more instinctive mode of interaction: talking to AI, showing it photos, and asking it to work with images, video and sound. T…"
+    },
+    {
       "title": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -343,7 +448,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T00:10:17.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -368,7 +473,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T09:16:14+00:00",
-      "age_days": 0.72,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -394,7 +499,7 @@
       "url": "https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:00:18+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -419,7 +524,7 @@
       "url": "https://e27.co/as-global-trade-fragments-southeast-asia-must-build-leverage-not-just-attract-investment-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -443,7 +548,7 @@
       "url": "https://japan.cnet.com/article/35251032/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T22:13:27+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -469,7 +574,7 @@
       "url": "https://e27.co/your-product-is-not-your-startup-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:55+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -489,11 +594,85 @@
       "summary": "Yesterday, I visited another startup that operates in a similar space to ours. On paper, they have every reason to feel anxious. Their current office will have to be vacated by the end of the year, which means they need to find a new location and reorganise their operations. Naturally, I asked the founder how […] The…"
     },
     {
+      "title": "AI is Vietnam’s new capital magnet",
+      "url": "https://e27.co/ai-is-vietnams-new-capital-magnet-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-29T02:30:09+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Vietnam’s AI startups just had their best year on record. Capital deployed into AI ventures grew roughly 13x between 2023 and 2025, closing the year at a new high, while the number of deals nearly doubled over the same stretch. In a private capital market that is still finding its footing on the world stage, […] The p…"
+    },
+    {
+      "title": "令和8年熊本地震に関する対応状況について（第2報）",
+      "url": "https://www.digital.go.jp/news/2f3ebd5f-0c1f-4049-affb-3da489d5d4f5",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-29T02:14:51+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "令和8年熊本地震に関する対応状況について（第2報）"
+    },
+    {
+      "title": "https://www.watch.impress.co.jp/docs/news/2128715.html",
+      "url": "https://www.watch.impress.co.jp/docs/news/2128715.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-29T00:24:42+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "https://www.watch.impress.co.jp/docs/news/2128715.html"
+    },
+    {
       "title": "hello245m/free-stockdb",
       "url": "https://github.com/hello245m/free-stockdb",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -514,11 +693,36 @@
       "summary": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 [07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！ free-stockdb 本地量化数据引擎 面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。 ❤️双击更新 -> 双击启动 -> 直接调用。 下载地址1 数据本地落盘，研究不再依赖远程接口。 本地优先 增量同步 数据支持(按需) 本地指标计算 五种调用方式 数据在用户磁盘 只处理变化数据 日/周/月/1/5/…"
     },
     {
+      "title": "The one-person AI business is coming for the agency model",
+      "url": "https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-29T03:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In June 2025, I started a business built on an uncomfortable question: how much of an agency does a client actually pay for, and how much of it is overhead wearing a lanyard? I run an education business in Singapore as my day job, so I see the demand side up close. SMEs want content, […] The post The one-person AI bus…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 38.99,
+      "age_days": 39.04,
       "topics": [
         "general"
       ],
@@ -543,7 +747,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 38.99,
+      "age_days": 39.04,
       "topics": [
         "general"
       ],
@@ -568,7 +772,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 38.99,
+      "age_days": 39.04,
       "topics": [
         "ai"
       ],
@@ -595,7 +799,7 @@
       "url": "https://mainichi.jp/articles/20260728/k00/00m/040/190000c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T22:19:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -614,7 +818,57 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "多くの仕事が人工知能（AI）に置き換わる時代を迎えた。中でも強い影響を受けているのがIT業界で、海外では大規模な人員削減が進む。日本国内の学校では近年、プログラミング教育が導入されたばかりだが、AIがコードを書いてくれる時代に、細かな技術を学ぶ必要はあるのか。プログラミング言語「Ruby」（ルビー）の開発..."
+    },
+    {
+      "title": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します",
+      "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-29T02:23:08+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "熊本地震の被災自治体等へ、ガバメントAI 源内を緊急提供します"
+    },
+    {
+      "title": "田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も",
+      "url": "https://togetter.com/li/2725950",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-29T01:10:30+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "田舎で家族5人が写ったAI生成画像を見て、ポスト主が何で直感的に「AIに作らせた画像だ！」とわかるのか？と投稿→集まった様々な考察が興味深い「光の印象」との声も"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The US$5 trillion AI data-centre buildout unleashes the paradox that limits its returns” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “てがろぐ -Fumy Otegaru Memo Logger-における制限が不十分な正規表現を使用している脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
