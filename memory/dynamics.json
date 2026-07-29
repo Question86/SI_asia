@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-29T03:50:52Z",
+  "generated_at": "2026-07-29T05:01:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 33,
+    "dynamics": 36,
     "bands": {
       "extreme": 1,
       "krass": 2,
-      "strong": 12,
-      "watch": 3,
+      "strong": 13,
+      "watch": 5,
       "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 15,
-      "watch": 3,
+      "strong": 16,
+      "watch": 5,
       "quiet": 15
     }
   },
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN99975039/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU99139115/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T11:15:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://e27.co/the-us5-trillion-ai-data-centre-buildout-unleashes-the-paradox-that-limits-its-returns-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:15:19+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -97,7 +97,7 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-07-28T22:50:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -152,7 +152,7 @@
       "url": "https://jvn.jp/vu/JVNVU90008749/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-29T09:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 40.08,
+      "age_days": 40.13,
       "topics": [
         "ai"
       ],
@@ -206,7 +206,7 @@
       "url": "https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:45:07+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -235,7 +235,7 @@
       "url": "https://github.com/affaan-m/ECC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security",
@@ -259,11 +259,39 @@
       "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español Warning Official sources…"
     },
     {
+      "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
+      "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-29T04:05:19+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: ransomware",
+        "security high-signal: ransomware",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ransomware used to be understood mainly as a technology crisis: malware enters a network, locks files, and leaves the victim weighing whether to restore from backups or pay up. A new Proofpoint study suggests that view is now too narrow, especially for digitally dense markets such as Singapore. According to Proofpoint…"
+    },
+    {
       "title": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -289,7 +317,7 @@
       "url": "https://e27.co/why-building-a-people-first-work-culture-in-hr-tech-matters-more-than-ever-in-southeast-asia-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:01+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -315,7 +343,7 @@
       "url": "https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:00:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -342,7 +370,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgjc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:17:29.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -367,7 +395,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T01:19:58.057+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -392,7 +420,7 @@
       "url": "https://e27.co/southeast-asias-ai-boom-is-becoming-visual-vocal-and-local-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:44:38+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -420,7 +448,7 @@
       "url": "https://github.com/pascalorg/editor",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -444,11 +472,36 @@
       "summary": "Create and share 3D architectural projects. Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. https://github.com/user-attachments/assets/8b50e7cf-cebe-4579-9cf3-8786b35f7b6b Using Published Packages The viewer runtime and built-in node definitions are separate packages. Install the full built…"
     },
     {
+      "title": "M 5.0 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-29T04:13:41.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-29 03:52:22 UTC 2026-07-29 03:52:22 UTC at epicenter Location 24.636°S 174.924°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.8 - 76 km E of Kokopo, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgiz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-29T00:10:17.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -473,7 +526,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2128581.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T09:16:14+00:00",
-      "age_days": 0.77,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -495,11 +548,35 @@
       "summary": "Sakana AI、「Fable 5」越えを達成した「Fugu-Ultra」v1.1を発表／「Claude Code」互換エンドポイントも実装"
     },
     {
+      "title": "M 4.9 - 209 km ENE of Levuka, Fiji",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgkg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-29T04:22:20.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-29 04:07:22 UTC 2026-07-29 04:07:22 UTC at epicenter Location 17.657°S 178.754°W Depth 524.64 km (326.00 mi)"
+    },
+    {
       "title": "The future of leadership: Owning outcomes in the age of AI",
       "url": "https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:00:18+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -524,7 +601,7 @@
       "url": "https://e27.co/as-global-trade-fragments-southeast-asia-must-build-leverage-not-just-attract-investment-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:21+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -548,7 +625,7 @@
       "url": "https://japan.cnet.com/article/35251032/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T22:13:27+00:00",
-      "age_days": 0.23,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -574,7 +651,7 @@
       "url": "https://e27.co/your-product-is-not-your-startup-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T01:45:55+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -598,7 +675,7 @@
       "url": "https://e27.co/ai-is-vietnams-new-capital-magnet-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T02:30:09+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -624,7 +701,7 @@
       "url": "https://www.digital.go.jp/news/2f3ebd5f-0c1f-4049-affb-3da489d5d4f5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-29T02:14:51+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -648,7 +725,7 @@
       "url": "https://www.watch.impress.co.jp/docs/news/2128715.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-29T00:24:42+00:00",
-      "age_days": 0.14,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -672,7 +749,7 @@
       "url": "https://github.com/hello245m/free-stockdb",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-29T02:13:13+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -697,7 +774,7 @@
       "url": "https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-29T03:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -722,7 +799,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 39.04,
+      "age_days": 39.09,
       "topics": [
         "general"
       ],
@@ -738,7 +815,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 39.0d old signal"
+        "aging penalty -16.0 for 39.1d old signal"
       ],
       "summary": ""
     },
@@ -747,7 +824,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 39.04,
+      "age_days": 39.09,
       "topics": [
         "general"
       ],
@@ -763,7 +840,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 39.0d old signal"
+        "aging penalty -16.0 for 39.1d old signal"
       ],
       "summary": ""
     },
@@ -772,7 +849,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 39.04,
+      "age_days": 39.09,
       "topics": [
         "ai"
       ],
@@ -789,7 +866,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 39.0d old signal",
+        "aging penalty -16.0 for 39.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -799,7 +876,7 @@
       "url": "https://mainichi.jp/articles/20260728/k00/00m/040/190000c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T22:19:31+00:00",
-      "age_days": 0.23,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -824,7 +901,7 @@
       "url": "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-29T02:23:08+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -849,7 +926,7 @@
       "url": "https://togetter.com/li/2725950",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-29T01:10:30+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
