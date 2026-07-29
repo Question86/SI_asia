@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-29T08:24:58+00:00",
+  "generated_at": "2026-07-29T09:24:39+00:00",
   "topics": {
     "security": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-07-29T07:12:00+00:00",
         "relevance_score": 22,
         "url": "https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html"
+      },
+      {
+        "title": "[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:23:57+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527"
       },
       {
         "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
@@ -61,18 +68,11 @@
         "url": "https://jvn.jp/vu/JVNVU99139115/"
       },
       {
-        "title": "npm publish-time malware scanning and dual-use metadata",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-07-28T22:50:05+00:00",
+        "title": "[UPDATE] [mittel] Grafana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:23:58+00:00",
         "relevance_score": 14,
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
-      },
-      {
-        "title": "SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-07-29T07:21:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1546"
       }
     ],
     "ai": [
@@ -126,6 +126,13 @@
         "url": "https://github.com/jenkinsci/jenkins"
       },
       {
+        "title": "Tallinn taps StepHow to test AI assistant for public-sector document search",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-29T08:48:50+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/tallinn-taps-stephow-to-test-ai-assistant-for-public-sector-document-search-20260729/"
+      },
+      {
         "title": "AI is Vietnam’s new capital magnet",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-07-29T02:30:09+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-07-28T22:50:05+00:00",
         "relevance_score": 14,
         "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata"
-      },
-      {
-        "title": "How companies can adapt early-career hiring for a remote world",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-29T02:00:06+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/"
       }
     ],
     "github": [
@@ -161,6 +161,13 @@
         "published_at": null,
         "relevance_score": 18,
         "url": "https://github.com/andrewyng/aisuite"
+      },
+      {
+        "title": "[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-29T09:23:57+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527"
       },
       {
         "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
