@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T22:56:13+00:00_
+_Generiert: 2026-07-29T23:42:23+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+99 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,18 +57,6 @@ _Generiert: 2026-07-29T22:56:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI&gt;=VII).
-- **GDACS: Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554510)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).
-- **USGS earthquake M5.9 - Kermadec Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf)
-  - Quelle: USGS
-  - Zeit: `2026-07-29T22:27:57+00:00`
-  - Kurz: M5.9 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.6 - Pacific-Antarctic Ridge** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud)
-  - Quelle: USGS
-  - Zeit: `2026-07-29T22:08:07+00:00`
-  - Kurz: M5.6 - Pacific-Antarctic Ridge. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

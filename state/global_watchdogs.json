@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:56:17+00:00",
+  "generated_at": "2026-07-29T23:42:26+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,46 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554511",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI&gt;=VII).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554510",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.9 - Kermadec Islands region",
-        "summary": "M5.9 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf",
-        "published_at": "2026-07-29T22:27:57+00:00",
-        "metrics": {
-          "mag": 5.9,
-          "alert": "green",
-          "sig": 536.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - Pacific-Antarctic Ridge",
-        "summary": "M5.6 - Pacific-Antarctic Ridge. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud",
-        "published_at": "2026-07-29T22:08:07+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "green",
-          "sig": 482.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

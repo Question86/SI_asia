@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T22:56:13+00:00",
-  "run_id": "2026-07-29T22:56:13+00:00",
+  "generated_at": "2026-07-29T23:42:23+00:00",
+  "run_id": "2026-07-29T23:42:23+00:00",
   "date": "2026-07-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 4,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 1,
     "medium": 41,
-    "observe": 53,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1733,6 +1733,78 @@
         "id": "e50404953e2a912a85f6"
       },
       {
+        "title": "M 4.5 - 72 km WSW of Aquiles Serdán, Mexico",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgup",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T23:30:47.040+00:00",
+        "fetched_at": "2026-07-29T23:41:53+00:00",
+        "summary": "Time 2026-07-29 23:17:39 UTC 2026-07-29 23:17:39 UTC at epicenter Location 14.625°N 93.100°W Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a5253a791aea704ef522"
+      },
+      {
+        "title": "M 5.2 - Kermadec Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguj",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-29T23:05:40.040+00:00",
+        "fetched_at": "2026-07-29T23:41:53+00:00",
+        "summary": "Time 2026-07-29 22:42:25 UTC 2026-07-29 22:42:25 UTC at epicenter Location 28.559°S 176.637°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c2bc40d73657c29ad39d"
+      },
+      {
         "title": "M 5.1 - Pacific-Antarctic Ridge",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2213,6 +2285,26 @@
           "TEAM"
         ],
         "id": "bd1c44fb19e35e036ae0"
+      },
+      {
+        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-29T15:00:00+00:00",
+        "fetched_at": "2026-07-29T23:41:53+00:00",
+        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b32ef18cf471515580ad"
       },
       {
         "title": "TeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
@@ -2708,6 +2800,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b3c18b231eb02495cf7a"
+      },
+      {
+        "title": "｢いまの日本は清朝に似ている｣豊かさゆえの\"思考停止\"に危機感を抱く中国人記者が､無償で在日外国人を取材し続ける理由",
+        "url": "https://toyokeizai.net/articles/-/952061?display=b",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-24T12:54:36+00:00",
+        "fetched_at": "2026-07-29T23:41:53+00:00",
+        "summary": "東京・中野区を愛するフランス人ITエンジニア、日本に住む中国人たちの合唱団やボランティア団体、都内の大学院で学ぶベトナム人留学生、日中夫妻のインフルエンサー、日本の「モノづくり」に魅せられメーカーの海外展開支援を行っているタイ人、ミャンマー料理店の店主、外国人と関わり合いながら働く日本人……。生活も...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "78afa4c564309429f8e1"
       }
     ]
   },
@@ -4413,6 +4526,78 @@
       "id": "e50404953e2a912a85f6"
     },
     {
+      "title": "M 4.5 - 72 km WSW of Aquiles Serdán, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgup",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T23:30:47.040+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "Time 2026-07-29 23:17:39 UTC 2026-07-29 23:17:39 UTC at epicenter Location 14.625°N 93.100°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a5253a791aea704ef522"
+    },
+    {
+      "title": "M 5.2 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T23:05:40.040+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "Time 2026-07-29 22:42:25 UTC 2026-07-29 22:42:25 UTC at epicenter Location 28.559°S 176.637°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c2bc40d73657c29ad39d"
+    },
+    {
       "title": "M 5.1 - Pacific-Antarctic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4893,6 +5078,26 @@
         "TEAM"
       ],
       "id": "bd1c44fb19e35e036ae0"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-29T15:00:00+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b32ef18cf471515580ad"
     },
     {
       "title": "TeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
@@ -5388,32 +5593,51 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b3c18b231eb02495cf7a"
+    },
+    {
+      "title": "｢いまの日本は清朝に似ている｣豊かさゆえの\"思考停止\"に危機感を抱く中国人記者が､無償で在日外国人を取材し続ける理由",
+      "url": "https://toyokeizai.net/articles/-/952061?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T12:54:36+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "東京・中野区を愛するフランス人ITエンジニア、日本に住む中国人たちの合唱団やボランティア団体、都内の大学院で学ぶベトナム人留学生、日中夫妻のインフルエンサー、日本の「モノづくり」に魅せられメーカーの海外展開支援を行っているタイ人、ミャンマー料理店の店主、外国人と関わり合いながら働く日本人……。生活も...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "78afa4c564309429f8e1"
     }
   ],
   "new_findings": [
     {
-      "title": "M 5.9 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf",
+      "title": "M 4.5 - 72 km WSW of Aquiles Serdán, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgup",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-29T22:54:13.114+00:00",
-      "fetched_at": "2026-07-29T22:55:43+00:00",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-07-29 22:27:57 UTC 2026-07-29 22:27:57 UTC at epicenter Location 28.498°S 176.517°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-07-29T23:30:47.040+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "Time 2026-07-29 23:17:39 UTC 2026-07-29 23:17:39 UTC at epicenter Location 14.625°N 93.100°W Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -5427,7 +5651,84 @@
         "HD",
         "LOW"
       ],
-      "id": "772a7c0085cd9e5b4ca9"
+      "id": "a5253a791aea704ef522"
+    },
+    {
+      "title": "M 5.2 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-29T23:05:40.040+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "Time 2026-07-29 22:42:25 UTC 2026-07-29 22:42:25 UTC at epicenter Location 28.559°S 176.637°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c2bc40d73657c29ad39d"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-29T15:00:00+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b32ef18cf471515580ad"
+    },
+    {
+      "title": "｢いまの日本は清朝に似ている｣豊かさゆえの\"思考停止\"に危機感を抱く中国人記者が､無償で在日外国人を取材し続ける理由",
+      "url": "https://toyokeizai.net/articles/-/952061?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-24T12:54:36+00:00",
+      "fetched_at": "2026-07-29T23:41:53+00:00",
+      "summary": "東京・中野区を愛するフランス人ITエンジニア、日本に住む中国人たちの合唱団やボランティア団体、都内の大学院で学ぶベトナム人留学生、日中夫妻のインフルエンサー、日本の「モノづくり」に魅せられメーカーの海外展開支援を行っているタイ人、ミャンマー料理店の店主、外国人と関わり合いながら働く日本人……。生活も...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "78afa4c564309429f8e1"
     }
   ],
   "source_errors": [],
