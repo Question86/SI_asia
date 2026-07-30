@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T18:54:18+00:00",
-  "run_id": "2026-07-30T18:54:18+00:00",
+  "generated_at": "2026-07-30T19:26:58+00:00",
+  "run_id": "2026-07-30T19:26:58+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 21,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -1357,6 +1357,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1eefde9027fc5e222e9e"
+      },
+      {
+        "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました",
+        "url": "https://virtualtech.jp/2026-07-29/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-30T15:36:27+00:00",
+        "fetched_at": "2026-07-30T19:26:28+00:00",
+        "summary": "技術メディア ThinkIT にて連載していた「Windowsユーザーのための WSL2で始める Linux環境構築術」の全29回に渡って執筆を担当いたしました。 執筆完了を記念し、構成・内容・文章をすべて見直し、最新の知見を踏まえて全面的にリライトした再構築版として公開しました。 連載で培われた知見をもとに、より体系的で実践...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a3e577a10b6acd17237f"
       },
       {
         "title": "Limit remote control to managed devices",
@@ -3101,6 +3122,27 @@
       "id": "1eefde9027fc5e222e9e"
     },
     {
+      "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました",
+      "url": "https://virtualtech.jp/2026-07-29/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T15:36:27+00:00",
+      "fetched_at": "2026-07-30T19:26:28+00:00",
+      "summary": "技術メディア ThinkIT にて連載していた「Windowsユーザーのための WSL2で始める Linux環境構築術」の全29回に渡って執筆を担当いたしました。 執筆完了を記念し、構成・内容・文章をすべて見直し、最新の知見を踏まえて全面的にリライトした再構築版として公開しました。 連載で培われた知見をもとに、より体系的で実践...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a3e577a10b6acd17237f"
+    },
+    {
       "title": "Limit remote control to managed devices",
       "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
       "source": "GitHub Changelog Atom",
@@ -3515,13 +3557,13 @@
   ],
   "new_findings": [
     {
-      "title": "ホーム",
-      "url": "https://5gctextbook.com/",
+      "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』を公開しました",
+      "url": "https://virtualtech.jp/2026-07-29/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-30T09:10:42+00:00",
-      "fetched_at": "2026-07-30T18:53:43+00:00",
-      "summary": "5GC教科書 — 世界最高品質の無料5G Coreオンライン教材¶ このサイトのゴールは「仕様書を要約すること」ではありません。 あなたが 5G Core Network（5GC）を 本当に理解し、自分の言葉で説明でき、実務で使えるようになること を最優先にした教科書です。 なぜこのサイトを作ったのか（Why）¶ 3GPP仕様書（TS 23.501 / ...",
+      "published_at": "2026-07-30T15:36:27+00:00",
+      "fetched_at": "2026-07-30T19:26:28+00:00",
+      "summary": "技術メディア ThinkIT にて連載していた「Windowsユーザーのための WSL2で始める Linux環境構築術」の全29回に渡って執筆を担当いたしました。 執筆完了を記念し、構成・内容・文章をすべて見直し、最新の知見を踏まえて全面的にリライトした再構築版として公開しました。 連載で培われた知見をもとに、より体系的で実践...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3533,7 +3575,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "442741a3eb58a6c09fa4"
+      "id": "a3e577a10b6acd17237f"
     }
   ],
   "source_errors": [],

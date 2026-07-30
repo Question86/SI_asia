@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T18:54:18+00:00_
+_Generiert: 2026-07-30T19:26:58+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-07-30T18:54:18+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Pacific-Antarctic Ridge 29/07/2026 22:08 UTC, [unknown].
-- **USGS earthquake M5.9 - 247 km NNE of Colonia, Micronesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h)
-  - Quelle: USGS
-  - Zeit: `2026-07-30T17:55:59+00:00`
-  - Kurz: M5.9 - 247 km NNE of Colonia, Micronesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
