@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T17:16:32+00:00_
+_Generiert: 2026-07-30T17:51:36+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+73 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Opening remarks by Mr Fabio Panetta, Governor of the Bank of Italy, at a conference organised by the Bank of Italy and the European Investment Bank, Rome, 2 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Stacked sessions and pull requests in the GitHub Copilot app** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-07-30T17:30:24+00:00`, fetched `2026-07-30T17:51:02+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Christopher J Waller: Two thoughts on the transmission of monetary policy** — Score 9, opportunity — [Quelle](https://www.bis.org/review/r260730e.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-07-30T12:43:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Oracle Java SE (23 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0915/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-07-23T00:00:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

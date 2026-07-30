@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T17:16:32+00:00",
-  "run_id": "2026-07-30T17:16:32+00:00",
+  "generated_at": "2026-07-30T17:51:36+00:00",
+  "run_id": "2026-07-30T17:51:36+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 1,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 20,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -826,6 +826,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb7c2769c328ef7ed765"
+      },
+      {
+        "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-30T17:30:24+00:00",
+        "fetched_at": "2026-07-30T17:51:02+00:00",
+        "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f0b4eda8900d68952efd"
       },
       {
         "title": "Christopher J Waller: Two thoughts on the transmission of monetary policy",
@@ -2467,6 +2489,28 @@
       "id": "eb7c2769c328ef7ed765"
     },
     {
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-30T17:30:24+00:00",
+      "fetched_at": "2026-07-30T17:51:02+00:00",
+      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f0b4eda8900d68952efd"
+    },
+    {
       "title": "Christopher J Waller: Two thoughts on the transmission of monetary policy",
       "url": "https://www.bis.org/review/r260730e.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3309,87 +3353,26 @@
   ],
   "new_findings": [
     {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI News RSS",
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-30T10:00:00+00:00",
-      "fetched_at": "2026-07-30T17:16:00+00:00",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "published_at": "2026-07-30T17:30:24+00:00",
+      "fetched_at": "2026-07-30T17:51:02+00:00",
+      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
       "matched_keywords": [
         "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f57a6aed7d4ef056a072"
-    },
-    {
-      "title": "Limit remote control to managed devices",
-      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-30T14:54:47+00:00",
-      "fetched_at": "2026-07-30T17:16:00+00:00",
-      "summary": "Enterprises and organizations can now restrict which devices are eligible to host remotely controlled Copilot sessions, giving administrators fine-grained control over where remote control access is permitted. The new remoteControl… The post Limit remote control to managed devices appeared first on The GitHub Blog .",
-      "matched_keywords": [
         "Copilot",
         "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ecdfeecb89d477cbc059"
-    },
-    {
-      "title": "“ダサい”不評の「ドコモの銀行」、従来のアプリアイコン選択可能に 「ご意見・ご要望も踏まえ」",
-      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000301/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-30T06:56:06+00:00",
-      "fetched_at": "2026-07-30T17:16:00+00:00",
-      "summary": "住信SBIネット銀行は7月29日、8月3日から展開する個人向けブランド「ドコモの銀行」のアプリについて、ブランド名をそのまま書いた新アイコンだけでなく、従来の「NEOBANK」などのアイコンデザインも選べる機能を追加すると発表した。 「これまでお寄せいただいたさまざまなご意見・ご要望も踏まえ」対応するという。9月...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "50b1307becf079caca10"
-    },
-    {
-      "title": "Stacked pull requests are now in public preview",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-30T16:14:29+00:00",
-      "fetched_at": "2026-07-30T17:16:00+00:00",
-      "summary": "Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can… The post Stacked pull requests are now in public preview appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2589038f49ceb903054d"
+      "id": "f0b4eda8900d68952efd"
     }
   ],
   "source_errors": [],
