@@ -172,6 +172,144 @@
     "id": "e15369ac5d88cda752c6"
   },
   {
+    "title": "[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2582",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:27:54+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c31e0ea20267e0bed90"
+  },
+  {
+    "title": "[NEU] [hoch] SQLite: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2581",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:27:53+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in SQLite ausnutzen, um beliebigen Programmcode auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aeb161d957a0a09927c6"
+  },
+  {
+    "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2580",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:22:53+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "10867058b567ce1c6477"
+  },
+  {
+    "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2578",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:12:53+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in ImageMagick ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7527004157d5f825adc4"
+  },
+  {
+    "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2579",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:12:53+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d5a5a082db0f615c5ea0"
+  },
+  {
+    "title": "[NEU] [mittel] Red Hat OpenStack (Neutron): Schwachstelle ermöglicht Manipulation von Daten und Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2577",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:07:54+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Red Hat OpenStack Neutron ausnutzen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f669df15f3f422dd8a3"
+  },
+  {
     "title": "Say it out loud: AI is forcing companies to explain themselves",
     "url": "https://e27.co/say-it-out-loud-ai-is-forcing-companies-to-explain-themselves-20260730/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -447,6 +585,26 @@
     "id": "21cb6b9fa24b424f2892"
   },
   {
+    "title": "Digital euro app to incorporate highest accessibility standards",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-07-30T08:00:00+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Digital euro app to incorporate highest accessibility standards",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9fb2f8c186fb4113881a"
+  },
+  {
     "title": "Atome Financial revenue hits US$470M as Southeast Asia credit demand grows",
     "url": "https://e27.co/atome-financial-revenue-hits-us470m-as-southeast-asia-credit-demand-grows-20260729/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -466,6 +624,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e685d2484a38dcf2bf04"
+  },
+  {
+    "title": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
+    "url": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:00:00+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35b43b405b5f5b2f3d7a"
   },
   {
     "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
@@ -673,6 +851,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "59aa69df3cd3e1abb621"
+  },
+  {
+    "title": "パナソニックのパルックLED照明、本体取付後は自分で交換できる - 家電 Watch",
+    "url": "https://kaden.watch.impress.co.jp/docs/news/2128451.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-30T00:07:42+00:00",
+    "fetched_at": "2026-07-30T10:39:44+00:00",
+    "summary": "パナソニックのパルックLED照明、本体取付後は自分で交換できる - 家電 Watch",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "237de35fc135c66ae60b"
   },
   {
     "title": "ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab",

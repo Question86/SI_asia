@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T07:58:30+00:00_
+_Generiert: 2026-07-30T10:40:18+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+44 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2582)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-30T10:27:54+00:00`, fetched `2026-07-30T10:39:44+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] SQLite: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2581)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-30T10:27:53+00:00`, fetched `2026-07-30T10:39:44+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in SQLite ausnutzen, um beliebigen Programmcode auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2580)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-30T10:22:53+00:00`, fetched `2026-07-30T10:39:44+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um Dateien zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **huggingface/speech-to-speech** — Score 14, observation — [Quelle](https://github.com/huggingface/speech-to-speech)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-30T02:04:58+00:00`
@@ -189,6 +216,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 一般的な話題 査読に AI を使われた体験談 2026/7/29 一般的な話題, 化学者のつぶやき, 日常から, 論文 AI, 研究倫理 コメント: 0 投稿者: やぶ 生成 AI の普及は加速しており、調べもの、英文校閲など研究者の皆さんも活用していることと思います。一方、論文の査読といった場面で生成AI が倫理的に不適切に使用される...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Digital euro app to incorporate highest accessibility standards** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-07-30T08:00:00+00:00`, fetched `2026-07-30T10:39:44+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Digital euro app to incorporate highest accessibility standards
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **With Moonshot’s free Kimi K3, China changes the sovereign AI playbook** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-07-30T10:00:00+00:00`, fetched `2026-07-30T10:39:44+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware** — Score 7, risk — [Quelle](https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-30T07:28:00.000+00:00`, fetched `2026-07-30T07:57:58+00:00`
@@ -252,24 +297,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年7月28日、熊本県熊本地方を震源とする最大震度7の地震が発生し(出典:1)、気象庁はこの地震とそれ以降に発生した一連の地震活動を「令和8年熊本地震」と命名しました(出典:2)。発生直後からSNS上では、地震の原因を人為的なものとする言説、生成AIによる偽の被害映像、被災者を装った偽の救助要請・送金要求など、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI企業に最後まで引き抜かれなかった教授は何を研究していた？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260730122953)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T03:37:12+00:00`, fetched `2026-07-30T07:11:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AI企業に最後まで引き抜かれなかった教授は何を研究していた？
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 8 km WNW of La Democracia, Guatemala** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwd)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-30T07:57:35.534+00:00`, fetched `2026-07-30T07:57:58+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph demote demo (x0.45)
-  - Kurz: DYFI? - IV Time 2026-07-30 06:58:56 UTC 2026-07-30 06:58:56 UTC at epicenter Location 14.245°N 91.027°W Depth 97.01 km (60.28 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
