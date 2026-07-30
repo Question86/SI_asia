@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T10:40:18+00:00_
+_Generiert: 2026-07-30T11:24:54+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+49 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,14 @@ _Generiert: 2026-07-30T10:40:18+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
-- **GDACS: Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552)
+- **GDACS: Green flood alert in Austria** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104059)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).
+  - Kurz: Green flood alert in Austria
+- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104061)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Mexico
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Kermadec Islands Region 30/07/2026 05:08 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555036)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,14 +49,6 @@ _Generiert: 2026-07-30T10:40:18+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Pacific-Antarctic Ridge 29/07/2026 22:08 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554532)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.
 
 ## Wirtschaft global
 
@@ -87,6 +83,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-30T11:02:55+00:00`, fetched `2026-07-30T11:24:22+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-30T11:02:54+00:00`, fetched `2026-07-30T11:24:22+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to get beyond the chatbot and boost your AI productivity** — Score 16, observation — [Quelle](https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-30T01:30:58+00:00`, fetched `2026-07-30T02:04:58+00:00`
@@ -114,6 +128,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia is not entering the second half of the decade as a spectator to global change. It is becoming one of the places where that change will be absorbed, negotiated, and in some cases redirected. For founders and business leaders, the implication is simple but uncomfortable: the rules that shaped regional growth over the […] The post Southeast Asia in the 2026-2030 world order: Trade, chips, AI, and capital…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-30T11:02:53+00:00`, fetched `2026-07-30T11:24:22+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Check Point SmartConsole ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorzugriff, zu erlangen oder beliebigen Code auszuführen – sogar mit Root-Rechten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91587639/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-30T11:00:00+09:00`, fetched `2026-07-30T02:04:58+00:00`
@@ -123,33 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2582)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-30T10:27:54+00:00`, fetched `2026-07-30T10:39:44+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] SQLite: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2581)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-30T10:27:53+00:00`, fetched `2026-07-30T10:39:44+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in SQLite ausnutzen, um beliebigen Programmcode auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2580)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-30T10:22:53+00:00`, fetched `2026-07-30T10:39:44+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **huggingface/speech-to-speech** — Score 14, observation — [Quelle](https://github.com/huggingface/speech-to-speech)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-30T02:04:58+00:00`
@@ -288,14 +284,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **令和8年熊本地震に乗じたSNS上の偽情報についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/07/30/143946)
+- **クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様** — Score 5, observation — [Quelle](https://togetter.com/li/2726439)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T05:53:38+00:00`, fetched `2026-07-30T07:57:58+00:00`
+  - Zeit: published `2026-07-30T06:38:33+00:00`, fetched `2026-07-30T11:24:22+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年7月28日、熊本県熊本地方を震源とする最大震度7の地震が発生し(出典:1)、気象庁はこの地震とそれ以降に発生した一連の地震活動を「令和8年熊本地震」と命名しました(出典:2)。発生直後からSNS上では、地震の原因を人為的なものとする言説、生成AIによる偽の被害映像、被災者を装った偽の救助要請・送金要求など、...
+  - Kurz: クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

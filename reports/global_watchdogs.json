@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:40:22+00:00",
+  "generated_at": "2026-07-30T11:24:57+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,10 +65,20 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI&gt;=VII).",
+        "title": "GDACS: Green flood alert in Austria",
+        "summary": "Green flood alert in Austria",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554552",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104059",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Mexico",
+        "summary": "Green flood alert in Mexico",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104061",
         "published_at": "",
         "metrics": {}
       },
@@ -99,26 +109,6 @@
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Pacific-Antarctic Ridge 29/07/2026 22:08 UTC, [unknown].",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554970",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 28/07/2026 08:08 UTC, 40 thousand in MMI VI.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554567",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554532",
         "published_at": "",
         "metrics": {}
       }

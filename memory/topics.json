@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-30T10:40:18+00:00",
+  "generated_at": "2026-07-30T11:24:54+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,27 @@
         "url": "https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T11:02:55+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T11:02:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591"
+      },
+      {
+        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T10:57:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2590"
+      },
+      {
         "title": "[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-07-30T10:27:54+00:00",
@@ -168,27 +189,6 @@
         "published_at": "2026-07-30T10:07:54+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2577"
-      },
-      {
-        "title": "Why Dropbox refuses to pick a side in the ChatGPT-Claude-Gemini fight",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-30T04:00:06+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/why-dropbox-refuses-to-pick-a-side-in-the-chatgpt-claude-gemini-fight-20260729/"
-      },
-      {
-        "title": "Bukalapak stays EBITDA-positive as gaming powers first-half revenue growth",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-30T05:00:44+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/bukalapak-stays-ebitda-positive-as-gaming-powers-first-half-revenue-growth-20260729/"
-      },
-      {
-        "title": "Why Southeast Asia may be better prepared for the next era of global expansion",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-30T02:15:04+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/"
       }
     ],
     "general": [
@@ -219,6 +219,13 @@
         "published_at": "2026-07-30T02:45:14+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350"
+      },
+      {
+        "title": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-30T06:38:33+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2726439"
       },
       {
         "title": "タムロン、ソニーからの買収提案を公表。特別委員会を設置",
@@ -254,16 +261,23 @@
         "published_at": "2026-07-29T21:35:55+00:00",
         "relevance_score": 5,
         "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2128703.html"
-      },
-      {
-        "title": "ソフトウェアエンジニアとして視野を広げるためのブックガイド",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-29T04:45:53+00:00",
-        "relevance_score": 5,
-        "url": "https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T11:02:55+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592"
+      },
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T11:02:54+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591"
+      },
       {
         "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
         "source": "JVN Japan Vulnerability Notes",
@@ -272,11 +286,25 @@
         "url": "https://jvn.jp/vu/JVNVU98815601/"
       },
       {
+        "title": "[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T11:02:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495"
+      },
+      {
         "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-30T11:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91587639/"
+      },
+      {
+        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-30T10:57:54+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2590"
       },
       {
         "title": "[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen",
@@ -305,34 +333,6 @@
         "published_at": "2026-07-30T10:12:53+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2578"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-30T10:12:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2579"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat OpenStack (Neutron): Schwachstelle ermöglicht Manipulation von Daten und Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-30T10:07:54+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2577"
-      },
-      {
-        "title": "駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-07-30T05:43:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html"
-      },
-      {
-        "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
-        "source": "heise Security Alerts",
-        "published_at": "2026-07-30T07:28:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html"
       }
     ],
     "github": [

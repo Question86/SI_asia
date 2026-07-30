@@ -61,6 +61,54 @@
     "id": "aeab1fe2fd5462be83bd"
   },
   {
+    "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T11:02:55+00:00",
+    "fetched_at": "2026-07-30T11:24:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b945256845061e504c21"
+  },
+  {
+    "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T11:02:54+00:00",
+    "fetched_at": "2026-07-30T11:24:22+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fcd4c16e8fa228f99358"
+  },
+  {
     "title": "How to get beyond the chatbot and boost your AI productivity",
     "url": "https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -150,6 +198,29 @@
     "id": "a118274be9911153bbe1"
   },
   {
+    "title": "[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T11:02:53+00:00",
+    "fetched_at": "2026-07-30T11:24:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Check Point SmartConsole ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorzugriff, zu erlangen oder beliebigen Code auszuführen – sogar mit Root-Rechten.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa99846d353d64d54afc"
+  },
+  {
     "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
     "url": "https://jvn.jp/vu/JVNVU91587639/",
     "source": "JVN Japan Vulnerability Notes",
@@ -170,6 +241,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e15369ac5d88cda752c6"
+  },
+  {
+    "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2590",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T10:57:54+00:00",
+    "fetched_at": "2026-07-30T11:24:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um seine Privilegien zu erhöhen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f86798604dec8521fa3f"
   },
   {
     "title": "[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen",
@@ -767,6 +861,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1eefde9027fc5e222e9e"
+  },
+  {
+    "title": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様",
+    "url": "https://togetter.com/li/2726439",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-30T06:38:33+00:00",
+    "fetched_at": "2026-07-30T11:24:22+00:00",
+    "summary": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bb292bd1eeebfef84528"
   },
   {
     "title": "令和8年熊本地震に乗じたSNS上の偽情報についてまとめてみた - piyolog",

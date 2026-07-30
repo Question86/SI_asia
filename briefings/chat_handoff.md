@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-30T10:40:18+00:00_
+_Generated: 2026-07-30T11:24:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `49`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-30T10:40:18+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
 
-### 3. How to get beyond the chatbot and boost your AI productivity
-- source: e27 Asia Startup and Tech Feed
+### 3. [NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-07-30T01:30:58+00:00`
-- url: https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/
-- summary: Malaysian businesses have taken up AI at a remarkable speed, but the truth is not necessarily as impressive as it could be. According to data, around 2.4 million businesses, or 27 per cent of the total, now use AI in some form. There is roughly one new adopte…
+- published: `2026-07-30T11:02:55+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.
 
-### 4. トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）
-- source: JVN Japan Vulnerability Notes
-- score: `15`
-- published: `2026-07-30T09:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU98815601/
-- summary: トレンドマイクロ株式会社から、TrendAI Vision OneのService Gateway向けのアップデートが公開されました。
+### 4. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-07-30T11:02:54+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. 駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊
 - source: TWCERT/CC Security News RSS

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-30T10:40:18+00:00",
+  "generated_at": "2026-07-30T11:24:54+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 5,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 14,
-    "observe": 30
+    "medium": 18,
+    "observe": 31
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,23 +35,23 @@
       "section": "medium"
     },
     {
-      "title": "How to get beyond the chatbot and boost your AI productivity",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-30T01:30:58+00:00",
+      "published_at": "2026-07-30T11:02:55+00:00",
       "relevance_score": 16,
-      "url": "https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/",
-      "summary": "Malaysian businesses have taken up AI at a remarkable speed, but the truth is not necessarily as impressive as it could be. According to data, around 2.4 million businesses, or 27 per cent of the total, now use AI in some form. There is roughly one new adopte…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.",
       "section": "medium"
     },
     {
-      "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-30T09:30:00+09:00",
-      "relevance_score": 15,
-      "url": "https://jvn.jp/vu/JVNVU98815601/",
-      "summary": "トレンドマイクロ株式会社から、TrendAI Vision OneのService Gateway向けのアップデートが公開されました。",
+      "published_at": "2026-07-30T11:02:54+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=38.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊",
-        "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-07-30T05:43:00+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 38.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: execution, 10",
-          "security high-signal: execution, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "近期資安研究人員持續觀察到 ClickFix 社交工程的攻擊活動，攻擊者透過惡意廣告（Malvertising）、釣魚郵件、偽造驗證頁面或遭入侵網站接觸使用者，並利用系統錯誤、軟體安裝或身分驗證等情境，誘導使用者自行複製及執行惡意命令。隨著生成式 AI 與 AI 開發工具快速普及，相關服務亦逐漸成為攻擊者建立社交工程情境的誘餌或載體。 ClickFix 主要利用虛假 CAPTCHA、系統錯誤或技術支援訊息，要求使用者開啟 PowerShell、Terminal 等命令列工具，將指定內容複製、貼上並執行。MITRE ATT&CK 已將相關行為列為 T1204.004「User Execution: Malicious Copy an…"
-      },
-      {
-        "title": "[NEU] [mittel] Autodesk AutoCAD: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2582",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-30T10:27:54+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen."
-      },
-      {
-        "title": "[NEU] [hoch] SQLite: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2581",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-30T10:27:53+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in SQLite ausnutzen, um beliebigen Programmcode auszuführen Informationen offenzulegen oder einen Denial of Service zu verursachen."
-      },
-      {
-        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2580",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-30T10:22:53+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um Dateien zu manipulieren."
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2579",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-30T10:12:53+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen."
-      }
-    ]
-  }
+  ]
 }
