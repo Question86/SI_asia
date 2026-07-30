@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T14:01:47+00:00_
+_Generiert: 2026-07-30T14:51:56+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -150,6 +150,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: I watched the Federal Reserve deliver exactly what everyone expected on Wednesday, and the market reaction still managed to surprise me. The central bank kept its benchmark interest rate unchanged at 3.50 per cent-3.75 per cent at its July meeting, and on the surface, that sounds like a non-event. Markets priced it in. Analysts called […] The post The Fed held rates, but the real story is what that means for crypto…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claudia Buch: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament** — Score 11, observation — [Quelle](https://www.bis.org/review/r260730c.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-07-30T12:36:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Introductory statement by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Hearing of the Committee on Economic and Monetary Affairs of the European Parliament, Brussels, 2 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Fabio Panetta: Finance for innovation and artificial intelligence as drivers of development** — Score 10, opportunity — [Quelle](https://www.bis.org/review/r260730a.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-07-30T09:15:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Opening remarks by Mr Fabio Panetta, Governor of the Bank of Italy, at a conference organised by the Bank of Italy and the European Investment Bank, Rome, 2 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Christopher J Waller: Two thoughts on the transmission of monetary policy** — Score 9, opportunity — [Quelle](https://www.bis.org/review/r260730e.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-07-30T12:43:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the ChaMP Conference "Challenges for monetary policy transmission in a changing world", hosted by the Bank of Italy for the research network initiated by the European System of Central Banks, Rome, 6 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.3 - 217 km SE of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-30T03:04:46.040+00:00`, fetched `2026-07-30T03:12:30+00:00`
@@ -177,6 +204,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Digital euro app to incorporate highest accessibility standards
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Oracle MySQL (23 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0916/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-23T00:00:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Oracle Java SE (23 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0915/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-23T00:00:00+00:00`, fetched `2026-07-30T14:51:25+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IBM WebSphere Application Server: Sicherheitsproblem in Admin-Konsole gelöst** — Score 7, observation — [Quelle](https://www.heise.de/news/IBM-WebSphere-Application-Server-Sicherheitsproblem-in-Admin-Konsole-geloest-11386356.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-30T12:58:00.000+00:00`, fetched `2026-07-30T13:17:04+00:00`
@@ -194,51 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: VMware-Updates für ESX, vCenter, Workstation und Fusion schließen Sicherheitslücken, die etwa die Umgehung der Authentifizierung erlauben.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitslücken: GitLab-Entwickler raten zu zügigem Update** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-11384515.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-30T11:56:00.000+00:00`, fetched `2026-07-30T12:04:28+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die Softwareentwicklungsumgebung GitLab ist verwundbar. Reparierte Ausgaben lösen mehrere Sicherheitsprobleme.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **With Moonshot’s free Kimi K3, China changes the sovereign AI playbook** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-07-30T10:00:00+00:00`, fetched `2026-07-30T10:39:44+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Governments can now deploy top-tier AI locally, bypassing costly U.S. cloud rentals.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-30T06:00:00+00:00`, fetched `2026-07-30T06:13:33+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/agency)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-30T06:00:00+00:00`, fetched `2026-07-30T06:13:33+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-30T02:45:14+00:00`, fetched `2026-07-30T03:12:30+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
