@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-30T23:32:51+00:00_
+_Generated: 2026-07-30T23:56:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `87`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-30T23:32:51+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
 
-### 4. AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 4. MCPの大型アップデート（2026-07-28）で何が変わったか —— TypeScript SDK v2で試す
 - source: Hatena Bookmark Hotentry IT
-- score: `17`
-- published: `2026-07-30T07:22:26+00:00`
-- url: https://forbesjapan.com/articles/detail/101752
-- summary: ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...
+- score: `18`
+- published: `2026-07-30T05:23:06+00:00`
+- url: https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026
+- summary: こんにちは！ブロックチェーン×AI Agentで自律経済圏を創るKomlock labでエンジニアをしている小原（@brto_0224）です。 MCPが2026年7月28日に大型アップデートされた、という話を見かけて調べてみました。公開された2026-07-28仕様はMCP発足以来もっとも大きな仕様変更で、通信の土台が作り直されたほか、認可の強化や...
 
 ### 5. Go 1.27 リリース連載：ジェネリクスメソッド (generic methods) | フューチャー技術ブログ
 - source: Hatena Bookmark Hotentry IT
