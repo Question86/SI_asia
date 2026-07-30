@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-30T07:12:05+00:00",
+  "generated_at": "2026-07-30T07:58:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 3,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 8,
-    "observe": 24
+    "observe": 27
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,144 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=38.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊",
-        "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-07-30T05:43:00+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 38.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: execution, 10",
-          "security high-signal: execution, 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "近期資安研究人員持續觀察到 ClickFix 社交工程的攻擊活動，攻擊者透過惡意廣告（Malvertising）、釣魚郵件、偽造驗證頁面或遭入侵網站接觸使用者，並利用系統錯誤、軟體安裝或身分驗證等情境，誘導使用者自行複製及執行惡意命令。隨著生成式 AI 與 AI 開發工具快速普及，相關服務亦逐漸成為攻擊者建立社交工程情境的誘餌或載體。 ClickFix 主要利用虛假 CAPTCHA、系統錯誤或技術支援訊息，要求使用者開啟 PowerShell、Terminal 等命令列工具，將指定內容複製、貼上並執行。MITRE ATT&CK 已將相關行為列為 T1204.004「User Execution: Malicious Copy an…"
-      },
-      {
-        "title": "grokability/snipe-it",
-        "url": "https://github.com/grokability/snipe-it",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-07-30T02:04:58+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: actively, active, rce",
-          "security high-signal: actively, active, rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-…"
-      },
-      {
-        "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
-        "url": "https://jvn.jp/vu/JVNVU98815601/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-30T09:30:00+09:00",
-        "age_days": 0.31,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "トレンドマイクロ株式会社から、TrendAI Vision OneのService Gateway向けのアップデートが公開されました。"
-      },
-      {
-        "title": "Why Southeast Asia may be better prepared for the next era of global expansion",
-        "url": "https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-30T02:15:04+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "For companies headquartered in Europe or North America, the fragmentation of global commerce often feels like a recent development. Trade tensions have become more pronounced. Governments have embraced industrial policy. Data is increasingly regulated within national borders. Artificial intelligence is being governed…"
-      },
-      {
-        "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU91587639/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-30T11:00:00+09:00",
-        "age_days": 0.25,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

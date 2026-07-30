@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T07:12:05+00:00_
+_Generiert: 2026-07-30T07:58:30+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -189,6 +189,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 一般的な話題 査読に AI を使われた体験談 2026/7/29 一般的な話題, 化学者のつぶやき, 日常から, 論文 AI, 研究倫理 コメント: 0 投稿者: やぶ 生成 AI の普及は加速しており、調べもの、英文校閲など研究者の皆さんも活用していることと思います。一方、論文の査読といった場面で生成AI が倫理的に不適切に使用される...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware** — Score 7, risk — [Quelle](https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-30T07:28:00.000+00:00`, fetched `2026-07-30T07:57:58+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer missbrauchen fest einprogrammierte Zugangsdaten in Ciscos Firewall-Verwaltungssoftware. Updates sollen dagegen helfen.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Chrome-Update stopft weitere 370 Sicherheitslecks** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-30T05:45:00.000+00:00`, fetched `2026-07-30T06:13:33+00:00`
@@ -234,6 +243,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **令和8年熊本地震に乗じたSNS上の偽情報についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/07/30/143946)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-30T05:53:38+00:00`, fetched `2026-07-30T07:57:58+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年7月28日、熊本県熊本地方を震源とする最大震度7の地震が発生し(出典:1)、気象庁はこの地震とそれ以降に発生した一連の地震活動を「令和8年熊本地震」と命名しました(出典:2)。発生直後からSNS上では、地震の原因を人為的なものとする言説、生成AIによる偽の被害映像、被災者を装った偽の救助要請・送金要求など、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI企業に最後まで引き抜かれなかった教授は何を研究していた？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260730122953)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-30T03:37:12+00:00`, fetched `2026-07-30T07:11:35+00:00`
@@ -243,15 +261,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI企業に最後まで引き抜かれなかった教授は何を研究していた？
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **タムロン、ソニーからの買収提案を公表。特別委員会を設置** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/news/2129146.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T02:45:20+00:00`, fetched `2026-07-30T04:18:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: タムロン、ソニーからの買収提案を公表。特別委員会を設置
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 8 km WNW of La Democracia, Guatemala** — Score 4, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwd)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-30T07:57:35.534+00:00`, fetched `2026-07-30T07:57:58+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph demote demo (x0.45)
+  - Kurz: DYFI? - IV Time 2026-07-30 06:58:56 UTC 2026-07-30 06:58:56 UTC at epicenter Location 14.245°N 91.027°W Depth 97.01 km (60.28 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

@@ -468,6 +468,26 @@
     "id": "e685d2484a38dcf2bf04"
   },
   {
+    "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
+    "url": "https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-30T07:28:00.000+00:00",
+    "fetched_at": "2026-07-30T07:57:58+00:00",
+    "summary": "Angreifer missbrauchen fest einprogrammierte Zugangsdaten in Ciscos Firewall-Verwaltungssoftware. Updates sollen dagegen helfen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "00ae6d780af940b5b3eb"
+  },
+  {
     "title": "Chrome-Update stopft weitere 370 Sicherheitslecks",
     "url": "https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html",
     "source": "heise Security Alerts",
@@ -569,6 +589,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1eefde9027fc5e222e9e"
+  },
+  {
+    "title": "令和8年熊本地震に乗じたSNS上の偽情報についてまとめてみた - piyolog",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/07/30/143946",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-30T05:53:38+00:00",
+    "fetched_at": "2026-07-30T07:57:58+00:00",
+    "summary": "2026年7月28日、熊本県熊本地方を震源とする最大震度7の地震が発生し(出典:1)、気象庁はこの地震とそれ以降に発生した一連の地震活動を「令和8年熊本地震」と命名しました(出典:2)。発生直後からSNS上では、地震の原因を人為的なものとする言説、生成AIによる偽の被害映像、被災者を装った偽の救助要請・送金要求など、...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b21cb5dd5ad635a1e4b"
   },
   {
     "title": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
@@ -716,6 +757,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c418de548345ee95df2d"
+  },
+  {
+    "title": "M 5.0 - 8 km WNW of La Democracia, Guatemala",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwd",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-30T07:57:35.534+00:00",
+    "fetched_at": "2026-07-30T07:57:58+00:00",
+    "summary": "DYFI? - IV Time 2026-07-30 06:58:56 UTC 2026-07-30 06:58:56 UTC at epicenter Location 14.245°N 91.027°W Depth 97.01 km (60.28 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e44c56d0409960b41c28"
   },
   {
     "title": "Bring uncertainty out for lunch: Why leadership may need a new management discipline in a changing world",
