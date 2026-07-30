@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T06:14:02+00:00_
+_Generiert: 2026-07-30T07:12:05+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **AI企業に最後まで引き抜かれなかった教授は何を研究していた？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260730122953)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-30T03:37:12+00:00`, fetched `2026-07-30T07:11:35+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI企業に最後まで引き抜かれなかった教授は何を研究していた？
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **タムロン、ソニーからの買収提案を公表。特別委員会を設置** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/news/2129146.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-30T02:45:20+00:00`, fetched `2026-07-30T04:18:08+00:00`
@@ -185,15 +194,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: タムロン、ソニーからの買収提案を公表。特別委員会を設置
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「働くしんどさ」とどう付き合っていくか———『エンジニアのための自己管理入門』著者、小田中育生さんインタビュー** — Score 5, observation — [Quelle](https://agend.jp/media/ikuo-self-management/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T01:42:05+00:00`, fetched `2026-07-30T05:21:09+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「働くしんどさ」とどう付き合っていくか———『エンジニアのための自己管理入門』著者、小田中育生さんインタビュー
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

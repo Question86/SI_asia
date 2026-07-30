@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T06:14:02+00:00",
-  "run_id": "2026-07-30T06:14:02+00:00",
+  "generated_at": "2026-07-30T07:12:05+00:00",
+  "run_id": "2026-07-30T07:12:05+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 1,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 8,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -601,6 +601,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1eefde9027fc5e222e9e"
+      },
+      {
+        "title": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
+        "url": "https://anond.hatelabo.jp/20260730122953",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-30T03:37:12+00:00",
+        "fetched_at": "2026-07-30T07:11:35+00:00",
+        "summary": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "32347ccb194bf11e1518"
       },
       {
         "title": "タムロン、ソニーからの買収提案を公表。特別委員会を設置",
@@ -1323,6 +1344,27 @@
       "id": "1eefde9027fc5e222e9e"
     },
     {
+      "title": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
+      "url": "https://anond.hatelabo.jp/20260730122953",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T03:37:12+00:00",
+      "fetched_at": "2026-07-30T07:11:35+00:00",
+      "summary": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32347ccb194bf11e1518"
+    },
+    {
       "title": "タムロン、ソニーからの買収提案を公表。特別委員会を設置",
       "url": "https://av.watch.impress.co.jp/docs/news/2129146.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1471,86 +1513,25 @@
   ],
   "new_findings": [
     {
-      "title": "駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html",
-      "source": "TWCERT/CC Security News RSS",
+      "title": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
+      "url": "https://anond.hatelabo.jp/20260730122953",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-30T05:43:00+00:00",
-      "fetched_at": "2026-07-30T06:13:33+00:00",
-      "summary": "近期資安研究人員持續觀察到 ClickFix 社交工程的攻擊活動，攻擊者透過惡意廣告（Malvertising）、釣魚郵件、偽造驗證頁面或遭入侵網站接觸使用者，並利用系統錯誤、軟體安裝或身分驗證等情境，誘導使用者自行複製及執行惡意命令。隨著生成式 AI 與 AI 開發工具快速普及，相關服務亦逐漸成為攻擊者建立社交工程情境的誘餌或載體。 ClickFix 主要利用虛假 CAPTCHA、系統錯誤或技術支援訊息，要求使用者開啟 PowerShell、Terminal 等命令列工具，將指定內容複製、貼上並執行。MITRE ATT&CK 已將相關行為列為 T1204.004「User Execution: Malicious Copy and Paste」，其攻擊關鍵在於誘導使用者主動執行惡意程式碼。 Microsoft Threat Intelligence 及美國網路安全暨基礎設施安全局（CISA）均曾於不同威脅活動中觀察到 Cli…",
+      "published_at": "2026-07-30T03:37:12+00:00",
+      "fetched_at": "2026-07-30T07:11:35+00:00",
+      "summary": "AI企業に最後まで引き抜かれなかった教授は何を研究していた？",
       "matched_keywords": [
-        "AI/KI",
-        "Security",
-        "TWCERT"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); TWCERT (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9cd4ec89f81f28951b8e"
-    },
-    {
-      "title": "Chrome-Update stopft weitere 370 Sicherheitslecks",
-      "url": "https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-07-30T05:45:00.000+00:00",
-      "fetched_at": "2026-07-30T06:13:33+00:00",
-      "summary": "Google hat wieder ein massives Sicherheitsupdate für Chrome veröffentlicht. Sieben der geschlossenen Lücken gelten als kritisch.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0139fef07c3219398425"
-    },
-    {
-      "title": "地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました",
-      "url": "https://www.digital.go.jp/about/agency",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-30T06:00:00+00:00",
-      "fetched_at": "2026-07-30T06:13:33+00:00",
-      "summary": "地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9797d580d213483e66d0"
-    },
-    {
-      "title": "都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-30T06:00:00+00:00",
-      "fetched_at": "2026-07-30T06:13:33+00:00",
-      "summary": "都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "96ee41d610543c69bab2"
+      "id": "32347ccb194bf11e1518"
     }
   ],
   "source_errors": [],
