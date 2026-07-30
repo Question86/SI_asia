@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T22:41:42+00:00",
-  "run_id": "2026-07-30T22:41:42+00:00",
+  "generated_at": "2026-07-30T23:07:42+00:00",
+  "run_id": "2026-07-30T23:07:42+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 84
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "today_file_total": 84,
+    "displayed_findings": 84,
     "high": 0,
-    "medium": 21,
+    "medium": 22,
     "observe": 62,
     "source_errors": 0
   },
@@ -128,6 +128,29 @@
           "LOW"
         ],
         "id": "aeab1fe2fd5462be83bd"
+      },
+      {
+        "title": "AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+        "url": "https://forbesjapan.com/articles/detail/101752",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-30T07:22:26+00:00",
+        "fetched_at": "2026-07-30T23:07:12+00:00",
+        "summary": "ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8be21ba1fe32ff5eb55d"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
@@ -2052,6 +2075,29 @@
       "id": "aeab1fe2fd5462be83bd"
     },
     {
+      "title": "AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/101752",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T07:22:26+00:00",
+      "fetched_at": "2026-07-30T23:07:12+00:00",
+      "summary": "ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8be21ba1fe32ff5eb55d"
+    },
+    {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3871,26 +3917,27 @@
   ],
   "new_findings": [
     {
-      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
-      "url": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
+      "title": "AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/101752",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-30T08:40:38+00:00",
-      "fetched_at": "2026-07-30T22:41:06+00:00",
-      "summary": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。 How GPT-5.6 fuses frontier intelligence with frontier efficiency | OpenAI https://openai.com/index/gpt-5-6-frontier-...",
+      "published_at": "2026-07-30T07:22:26+00:00",
+      "fetched_at": "2026-07-30T23:07:12+00:00",
+      "summary": "ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Hatena",
         "hotentry",
         "OpenAI"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dc5cd4cfb886bad1f8d6"
+      "id": "8be21ba1fe32ff5eb55d"
     }
   ],
   "source_errors": [],

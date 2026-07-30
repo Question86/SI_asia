@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T22:41:42+00:00_
+_Generiert: 2026-07-30T23:07:42+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+84 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 17, observation — [Quelle](https://forbesjapan.com/articles/detail/101752)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-30T07:22:26+00:00`, fetched `2026-07-30T23:07:12+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-30T11:02:55+00:00`, fetched `2026-07-30T11:24:22+00:00`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-30T22:41:42+00:00_
+_Generated: 2026-07-30T23:07:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `83`
+- findings: `84`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-07-30T22:41:42+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
 
-### 4. [NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-30T11:02:55+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.
+### 4. AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+- source: Hatena Bookmark Hotentry IT
+- score: `17`
+- published: `2026-07-30T07:22:26+00:00`
+- url: https://forbesjapan.com/articles/detail/101752
+- summary: ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...
 
 ### 5. Go 1.27 リリース連載：ジェネリクスメソッド (generic methods) | フューチャー技術ブログ
 - source: Hatena Bookmark Hotentry IT
