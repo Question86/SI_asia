@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-30T12:06:06Z",
+  "generated_at": "2026-07-30T12:50:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 13,
-      "strong": 11,
+      "strong": 12,
       "watch": 3,
-      "quiet": 12
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 22,
+      "strong": 23,
       "watch": 3,
-      "quiet": 12
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2115",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T11:42:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T11:02:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:12:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://jvn.jp/vu/JVNVU91587639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-30T11:00:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2590",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:57:54+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2578",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:12:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2577",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:07:54+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-30T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -222,7 +222,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-30T05:43:00+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -251,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T11:42:57+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -277,7 +277,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2582",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:27:54+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -303,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2581",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:27:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -329,7 +329,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2580",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:22:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -355,7 +355,7 @@
       "url": "https://github.com/grokability/snipe-it",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-30T02:04:58+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -383,7 +383,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T11:02:55+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -408,7 +408,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T11:02:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -433,7 +433,7 @@
       "url": "https://jvn.jp/vu/JVNVU98815601/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-30T09:30:00+09:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "security"
@@ -459,7 +459,7 @@
       "url": "https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:15:04+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -486,7 +486,7 @@
       "url": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-30T10:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -513,7 +513,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 41.42,
+      "age_days": 41.45,
       "topics": [
         "ai"
       ],
@@ -532,7 +532,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -7.1 for 41.4d old signal",
+        "aging penalty -7.2 for 41.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -542,7 +542,7 @@
       "url": "https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:00:46+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -571,7 +571,7 @@
       "url": "https://github.com/huggingface/speech-to-speech",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-30T02:04:58+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "infra"
@@ -595,11 +595,36 @@
       "summary": "Build local voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD -> STT -> LLM -> TTS , exposed through an OpenAI Realtime-compatible WebSocket API . Every component is swappable. The LLM slot speaks OpenAI-compatible p…"
     },
     {
+      "title": "VMware ESX, vCenter, Workstation und Fusion: Updates schließen kritische Lücken",
+      "url": "https://www.heise.de/news/VMware-ESX-vCenter-Workstation-und-Fusion-Updates-schliessen-kritische-Luecken-11386401.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-30T12:34:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, auth",
+        "security high-signal: kritisch, auth"
+      ],
+      "summary": "VMware-Updates für ESX, vCenter, Workstation und Fusion schließen Sicherheitslücken, die etwa die Umgehung der Authentifizierung erlauben."
+    },
+    {
       "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
       "url": "https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-30T07:28:00.000+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "security",
         "infra"
@@ -625,7 +650,7 @@
       "url": "https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-30T05:45:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -650,7 +675,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-30T05:05:07.941+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -674,7 +699,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-11384515.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-30T11:56:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security",
         "macro"
@@ -699,7 +724,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-30T03:04:46.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -724,7 +749,7 @@
       "url": "https://e27.co/the-fed-held-rates-but-the-real-story-is-what-that-means-for-crypto-and-risk-assets-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:57:46+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -748,7 +773,7 @@
       "url": "https://e27.co/bukalapak-stays-ebitda-positive-as-gaming-powers-first-half-revenue-growth-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T05:00:44+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "macro"
       ],
@@ -772,7 +797,7 @@
       "url": "https://e27.co/southeast-asia-in-the-2026-2030-world-order-trade-chips-ai-and-capital-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T03:00:12+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -798,7 +823,7 @@
       "url": "https://e27.co/why-ai-literacy-may-become-the-new-financial-literacy-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T03:07:36+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -824,7 +849,7 @@
       "url": "https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T01:30:58+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -849,7 +874,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-07-30T08:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -873,7 +898,7 @@
       "url": "https://e27.co/atome-financial-revenue-hits-us470m-as-southeast-asia-credit-demand-grows-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T01:00:54+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -897,7 +922,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgwd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-30T07:57:35.534+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -921,7 +946,7 @@
       "url": "https://e27.co/say-it-out-loud-ai-is-forcing-companies-to-explain-themselves-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T03:14:53+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -946,7 +971,7 @@
       "url": "https://www.digital.go.jp/about/agency",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-30T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -970,7 +995,7 @@
       "url": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-30T02:45:14+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -994,7 +1019,7 @@
       "url": "https://e27.co/google-bets-on-schools-telcos-and-local-languages-to-scale-gemini-in-southeast-asia-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:00:07+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -1014,30 +1039,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Artificial intelligence is no longer being treated as a novelty in Southeast Asia. The question for governments, schools, telcos and technology companies is shifting from whether people will use AI to whether they can use it well, safely and at scale. That is the central argument running through Google’s Gemini Report…"
-    },
-    {
-      "title": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様",
-      "url": "https://togetter.com/li/2726439",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-30T06:38:33+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
