@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-30T04:18:39+00:00_
+_Generated: 2026-07-30T05:21:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `27`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-30T04:18:39+00:00_
 - url: https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/
 - summary: A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the…
 
-### 2. How to get beyond the chatbot and boost your AI productivity
+### 2. M 5.4 - 201 km W of Abepura, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-07-30T05:05:07.941+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu
+- summary: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
+
+### 3. How to get beyond the chatbot and boost your AI productivity
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-07-30T01:30:58+00:00`
 - url: https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/
 - summary: Malaysian businesses have taken up AI at a remarkable speed, but the truth is not necessarily as impressive as it could be. According to data, around 2.4 million businesses, or 27 per cent of the total, now use AI in some form. There is roughly one new adopte…
 
-### 3. トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）
+### 4. トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）
 - source: JVN Japan Vulnerability Notes
 - score: `15`
 - published: `2026-07-30T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU98815601/
 - summary: トレンドマイクロ株式会社から、TrendAI Vision OneのService Gateway向けのアップデートが公開されました。
-
-### 4. Southeast Asia in the 2026-2030 world order: Trade, chips, AI, and capital
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-07-30T03:00:12+00:00`
-- url: https://e27.co/southeast-asia-in-the-2026-2030-world-order-trade-chips-ai-and-capital-20260728/
-- summary: Southeast Asia is not entering the second half of the decade as a spectator to global change. It is becoming one of the places where that change will be absorbed, negotiated, and in some cases redirected. For founders and business leaders, the implication is…
 
 ### 5. Why AI literacy may become the new financial literacy
 - source: e27 Asia Startup and Tech Feed
@@ -57,11 +57,11 @@ _Generated: 2026-07-30T04:18:39+00:00_
 - url: https://e27.co/the-fed-held-rates-but-the-real-story-is-what-that-means-for-crypto-and-risk-assets-20260730/
 - summary: I watched the Federal Reserve deliver exactly what everyone expected on Wednesday, and the market reaction still managed to surprise me. The central bank kept its benchmark interest rate unchanged at 3.50 per cent-3.75 per cent at its July meeting, and on the…
 
-### 8. Why Southeast Asia may be better prepared for the next era of global expansion
+### 8. Bukalapak stays EBITDA-positive as gaming powers first-half revenue growth
 - source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-30T02:15:04+00:00`
-- url: https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/
-- summary: For companies headquartered in Europe or North America, the fragmentation of global commerce often feels like a recent development. Trade tensions have become more pronounced. Governments have embraced industrial policy. Data is increasingly regulated within…
+- score: `11`
+- published: `2026-07-30T05:00:44+00:00`
+- url: https://e27.co/bukalapak-stays-ebitda-positive-as-gaming-powers-first-half-revenue-growth-20260729/
+- summary: Bukalapak’s latest results show a company still trying to prove that its post-marketplace reinvention can work. The Indonesian listed technology firm reported revenue of US$88.6 million in the second quarter of 2026, while first-half revenue rose 29 per cent…
 
 END OF DOCUMENT

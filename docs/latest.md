@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T04:18:39+00:00_
+_Generiert: 2026-07-30T05:21:42+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the Philippines formally joined Pax Silica, a United States-led initiative intended to build trusted supply chains across artificial […] The post Pax Silica could…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.4 - 201 km W of Abepura, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-30T05:05:07.941+00:00`, fetched `2026-07-30T05:21:09+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How to get beyond the chatbot and boost your AI productivity** — Score 16, observation — [Quelle](https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -141,14 +150,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: タムロン、ソニーからの買収提案を公表。特別委員会を設置
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab** — Score 5, observation — [Quelle](https://tech-lab.sios.jp/archives/53583)
+- **「働くしんどさ」とどう付き合っていくか———『エンジニアのための自己管理入門』著者、小田中育生さんインタビュー** — Score 5, observation — [Quelle](https://agend.jp/media/ikuo-self-management/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-29T23:08:39+00:00`, fetched `2026-07-30T00:06:08+00:00`
+  - Zeit: published `2026-07-30T01:42:05+00:00`, fetched `2026-07-30T05:21:09+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんな方へ特におすすめ エヴァンゲリオンが好きな方 ローカルLLM（Ollama）や Raspberry Pi で、何か動くものを作ってみたい方 LangGraph でマルチエージェントを試したい方 概要 こんにちは。サイオステクノロジーのはらちゃんです！ 今回はOSCの展示ブース用開発として、『新世紀エヴァンゲリオン』の意思決定コンピ...
+  - Kurz: 「働くしんどさ」とどう付き合っていくか———『エンジニアのための自己管理入門』著者、小田中育生さんインタビュー
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
