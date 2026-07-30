@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T15:35:13+00:00_
+_Generiert: 2026-07-30T16:10:32+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For decades, we’ve taught financial literacy as one of life’s most important skills. Save before you spend. Build an emergency fund. Invest early. Understand compound interest. Avoid unnecessary debt. Those lessons remain just as relevant today as they were a generation ago. But I believe future generations will need to master another form of literacy […] The post Why AI literacy may become the new financial literac…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介** — Score 12, observation — [Quelle](https://zenn.dev/u1/articles/rhw-reviewable-html-workbench)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-30T12:42:54+00:00`, fetched `2026-07-30T16:10:04+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: 出力量が増えると何が起きるか 2026 年 4 月の CHI ワークショップで発表された研究が、この負荷の分布を実際に観察しています(Catalan et al.)。Samsung R&amp;D Institute Philippines と York University のグループが、経験 1 年未満から 10 年超まで 4 人のソフトウェアエンジニアに Cline でコード生成タスクをやらせ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Dropbox refuses to pick a side in the ChatGPT-Claude-Gemini fight** — Score 12, observation — [Quelle](https://e27.co/why-dropbox-refuses-to-pick-a-side-in-the-chatgpt-claude-gemini-fight-20260729/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-30T04:00:06+00:00`, fetched `2026-07-30T04:18:08+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Mehrere Sicherheitslücken bedrohen IBM WebSphere Application Server und WebSphere Application Server Liberty.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VMware ESX, vCenter, Workstation und Fusion: Updates schließen kritische Lücken** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-ESX-vCenter-Workstation-und-Fusion-Updates-schliessen-kritische-Luecken-11386401.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-30T12:34:00.000+00:00`, fetched `2026-07-30T12:44:25+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: VMware-Updates für ESX, vCenter, Workstation und Fusion schließen Sicherheitslücken, die etwa die Umgehung der Authentifizierung erlauben.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
