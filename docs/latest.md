@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T12:04:57+00:00_
+_Generiert: 2026-07-30T12:44:56+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+54 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Digital euro app to incorporate highest accessibility standards
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **VMware ESX, vCenter, Workstation und Fusion: Updates schließen kritische Lücken** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-ESX-vCenter-Workstation-und-Fusion-Updates-schliessen-kritische-Luecken-11386401.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-30T12:34:00.000+00:00`, fetched `2026-07-30T12:44:25+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: VMware-Updates für ESX, vCenter, Workstation und Fusion schließen Sicherheitslücken, die etwa die Umgehung der Authentifizierung erlauben.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken: GitLab-Entwickler raten zu zügigem Update** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-11384515.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-07-30T11:56:00.000+00:00`, fetched `2026-07-30T12:04:28+00:00`
@@ -195,15 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer missbrauchen fest einprogrammierte Zugangsdaten in Ciscos Firewall-Verwaltungssoftware. Updates sollen dagegen helfen.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Chrome-Update stopft weitere 370 Sicherheitslecks** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-30T05:45:00.000+00:00`, fetched `2026-07-30T06:13:33+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Google hat wieder ein massives Sicherheitsupdate für Chrome veröffentlicht. Sieben der geschlossenen Lücken gelten als kritisch.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-30T06:00:00+00:00`, fetched `2026-07-30T06:13:33+00:00`
