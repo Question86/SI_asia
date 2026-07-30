@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T05:21:42+00:00_
+_Generiert: 2026-07-30T06:14:02+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊** — Score 13, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-07-30T05:43:00+00:00`, fetched `2026-07-30T06:13:33+00:00`
+  - Treffer: AI/KI, Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: 近期資安研究人員持續觀察到 ClickFix 社交工程的攻擊活動，攻擊者透過惡意廣告（Malvertising）、釣魚郵件、偽造驗證頁面或遭入侵網站接觸使用者，並利用系統錯誤、軟體安裝或身分驗證等情境，誘導使用者自行複製及執行惡意命令。隨著生成式 AI 與 AI 開發工具快速普及，相關服務亦逐漸成為攻擊者建立社交工程情境的誘餌或載體。 ClickFix 主要利用虛假 CAPTCHA、系統錯誤或技術支援訊息，要求使用者開啟 PowerShell、Terminal 等命令列工具，將指定內容複製、貼上並執行。MITRE ATT&CK 已將相關行為列為 T1204.004「User Execution: Malicious Copy and Paste」，其攻擊關鍵在於誘導使用者主動執行惡意程式碼。 Microsoft Threat Intelligence 及美國網路安全暨基礎設施安全局（CISA）均曾於不同威脅活動中觀察到 Cli…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why AI literacy may become the new financial literacy** — Score 13, observation — [Quelle](https://e27.co/why-ai-literacy-may-become-the-new-financial-literacy-20260730/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-30T03:07:36+00:00`, fetched `2026-07-30T03:12:30+00:00`
@@ -122,6 +131,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 一般的な話題 査読に AI を使われた体験談 2026/7/29 一般的な話題, 化学者のつぶやき, 日常から, 論文 AI, 研究倫理 コメント: 0 投稿者: やぶ 生成 AI の普及は加速しており、調べもの、英文校閲など研究者の皆さんも活用していることと思います。一方、論文の査読といった場面で生成AI が倫理的に不適切に使用される...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Chrome-Update stopft weitere 370 Sicherheitslecks** — Score 7, observation — [Quelle](https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-30T05:45:00.000+00:00`, fetched `2026-07-30T06:13:33+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Google hat wieder ein massives Sicherheitsupdate für Chrome veröffentlicht. Sieben der geschlossenen Lücken gelten als kritisch.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-30T06:00:00+00:00`, fetched `2026-07-30T06:13:33+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードのデータを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/agency)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-30T06:00:00+00:00`, fetched `2026-07-30T06:13:33+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 地方公共団体情報システム機構における個人番号カード関係事務に係る評価資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350)
   - Quelle: Japan Digital Agency News RSS / `rss`
