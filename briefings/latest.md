@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T19:26:58+00:00_
+_Generiert: 2026-07-30T20:01:32+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
