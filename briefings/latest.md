@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T18:21:37+00:00_
+_Generiert: 2026-07-30T18:54:18+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+76 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,10 @@ _Generiert: 2026-07-30T18:21:37+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:34.505km) in W. Caroline Islands, Micronesia 30/07/2026 17:55 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555167)
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:34.505km) in Micronesia 30/07/2026 17:55 UTC, 1 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555167)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:34.505km) in W. Caroline Islands, Micronesia 30/07/2026 17:55 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:34.505km) in Micronesia 30/07/2026 17:55 UTC, 1 thousand in MMI&gt;=III.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:10km) in Kermadec Islands Region 30/07/2026 05:08 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555036)
   - Quelle: GDACS
   - Zeit: ``

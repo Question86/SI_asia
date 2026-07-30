@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T18:21:37+00:00",
-  "run_id": "2026-07-30T18:21:37+00:00",
+  "generated_at": "2026-07-30T18:54:18+00:00",
+  "run_id": "2026-07-30T18:54:18+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 21,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1378,6 +1378,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ecdfeecb89d477cbc059"
+      },
+      {
+        "title": "ホーム",
+        "url": "https://5gctextbook.com/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-30T09:10:42+00:00",
+        "fetched_at": "2026-07-30T18:53:43+00:00",
+        "summary": "5GC教科書 — 世界最高品質の無料5G Coreオンライン教材¶ このサイトのゴールは「仕様書を要約すること」ではありません。 あなたが 5G Core Network（5GC）を 本当に理解し、自分の言葉で説明でき、実務で使えるようになること を最優先にした教科書です。 なぜこのサイトを作ったのか（Why）¶ 3GPP仕様書（TS 23.501 / ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "442741a3eb58a6c09fa4"
       },
       {
         "title": "chat.exe - あの頃のUIで繋がる、超軽量ビデオ＆音声チャット",
@@ -3101,6 +3122,27 @@
       "id": "ecdfeecb89d477cbc059"
     },
     {
+      "title": "ホーム",
+      "url": "https://5gctextbook.com/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T09:10:42+00:00",
+      "fetched_at": "2026-07-30T18:53:43+00:00",
+      "summary": "5GC教科書 — 世界最高品質の無料5G Coreオンライン教材¶ このサイトのゴールは「仕様書を要約すること」ではありません。 あなたが 5G Core Network（5GC）を 本当に理解し、自分の言葉で説明でき、実務で使えるようになること を最優先にした教科書です。 なぜこのサイトを作ったのか（Why）¶ 3GPP仕様書（TS 23.501 / ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "442741a3eb58a6c09fa4"
+    },
+    {
       "title": "chat.exe - あの頃のUIで繋がる、超軽量ビデオ＆音声チャット",
       "url": "https://chatexe.net/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3473,64 +3515,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.9 - 247 km NNE of Colonia, Micronesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "ホーム",
+      "url": "https://5gctextbook.com/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-30T18:19:47.846+00:00",
-      "fetched_at": "2026-07-30T18:21:04+00:00",
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-30 17:55:59 UTC 2026-07-30 17:55:59 UTC at epicenter Location 11.581°N 138.999°E Depth 34.51 km (21.44 mi)",
+      "published_at": "2026-07-30T09:10:42+00:00",
+      "fetched_at": "2026-07-30T18:53:43+00:00",
+      "summary": "5GC教科書 — 世界最高品質の無料5G Coreオンライン教材¶ このサイトのゴールは「仕様書を要約すること」ではありません。 あなたが 5G Core Network（5GC）を 本当に理解し、自分の言葉で説明でき、実務で使えるようになること を最優先にした教科書です。 なぜこのサイトを作ったのか（Why）¶ 3GPP仕様書（TS 23.501 / ...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "GitHub Actions",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "346a254fdc98a174d6ae"
-    },
-    {
-      "title": "Reference same-repository actions with self-repository syntax",
-      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-30T17:39:46+00:00",
-      "fetched_at": "2026-07-30T18:21:04+00:00",
-      "summary": "You can now reference an action or reusable workflow that lives in the same repository using the new self-repository syntax. A uses: value that starts with $/ resolves to your… The post Reference same-repository actions with self-repository syntax appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Actions (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "eb9a7353246dc307b7bb"
+      "id": "442741a3eb58a6c09fa4"
     }
   ],
   "source_errors": [],
