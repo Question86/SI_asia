@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-30T10:41:09Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Google Chrome: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-07-30T11:25:51Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-30T11:02:53+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, root",
+        "security high-signal: code, root"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Check Point SmartConsole ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorzugriff, zu erlangen oder beliebigen Code auszuführen – sogar mit Root-Rechten."
+    },
+    {
       "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2579",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:12:53+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -36,83 +61,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen."
     },
     {
-      "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU91587639/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-07-30T11:00:00+09:00",
-      "age_days": 0.36,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "[NEU] [mittel] ImageMagick: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2578",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-30T10:12:53+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in ImageMagick ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[NEU] [mittel] Red Hat OpenStack (Neutron): Schwachstelle ermöglicht Manipulation von Daten und Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2577",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-07-30T10:07:54+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in Red Hat OpenStack Neutron ausnutzen, um Daten zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
       "title": "駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊",
       "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-30T05:43:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -141,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2582",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:27:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -167,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2581",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:27:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -193,7 +146,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2580",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-30T10:22:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -219,7 +172,7 @@
       "url": "https://github.com/grokability/snipe-it",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-30T02:04:58+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -243,11 +196,61 @@
       "summary": "A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-…"
     },
     {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-30T11:02:55+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren."
+    },
+    {
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-07-30T11:02:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
       "url": "https://jvn.jp/vu/JVNVU98815601/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-30T09:30:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "security"
@@ -273,7 +276,7 @@
       "url": "https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:15:04+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -300,7 +303,7 @@
       "url": "https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-30T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -332,8 +335,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 2,
+      "strong": 10
     }
   }
 }
