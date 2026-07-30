@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T01:19:27+00:00",
-  "run_id": "2026-07-30T01:19:27+00:00",
+  "generated_at": "2026-07-30T02:05:29+00:00",
+  "run_id": "2026-07-30T02:05:29+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,61 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 7,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 1,
-    "observe": 5,
+    "medium": 5,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Pax Silica could reshape the Philippine economy, the real question is who benefits",
+        "url": "https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-30T02:00:46+00:00",
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the Philippines formally joined Pax Silica, a United States-led initiative intended to build trusted supply chains across artificial […] The post Pax Silica could…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health",
+          "Supply Chain Security"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bec295a9026a42a8e433"
+      },
+      {
+        "title": "How to get beyond the chatbot and boost your AI productivity",
+        "url": "https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-30T01:30:58+00:00",
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "Malaysian businesses have taken up AI at a remarkable speed, but the truth is not necessarily as impressive as it could be. According to data, around 2.4 million businesses, or 27 per cent of the total, now use AI in some form. There is roughly one new adopter every minute. That seems like a success […] The post How to get beyond the chatbot and boost your AI productivity appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab62bdc6595bf95eb0b2"
+      },
       {
         "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
         "url": "https://jvn.jp/vu/JVNVU98815601/",
@@ -50,9 +94,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9e9dbc009939cfecd100"
+      },
+      {
+        "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU91587639/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-30T11:00:00+09:00",
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e15369ac5d88cda752c6"
+      },
+      {
+        "title": "huggingface/speech-to-speech",
+        "url": "https://github.com/huggingface/speech-to-speech",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "Build local voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD -> STT -> LLM -> TTS , exposed through an OpenAI Realtime-compatible WebSocket API . Every component is swappable. The LLM slot speaks OpenAI-compatible protocols, so you can point it at a hosted provider, at HF Inference Providers , or at a vLLM or llam…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5bb6f552b1aa89290221"
       }
     ],
     "observe": [
+      {
+        "title": "Google bets on schools, telcos and local languages to scale Gemini in Southeast Asia",
+        "url": "https://e27.co/google-bets-on-schools-telcos-and-local-languages-to-scale-gemini-in-southeast-asia-20260729/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-30T02:00:07+00:00",
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "Artificial intelligence is no longer being treated as a novelty in Southeast Asia. The question for governments, schools, telcos and technology companies is shifting from whether people will use AI to whether they can use it well, safely and at scale. That is the central argument running through Google’s Gemini Report Southeast Asia 2026, which […] The post Google bets on schools, telcos and local languages to scale…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ff98077be27e445e83fe"
+      },
+      {
+        "title": "The pitch you never gave: What AI tells buyers about your startup",
+        "url": "https://e27.co/the-pitch-you-never-gave-what-ai-tells-buyers-about-your-startup-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-30T01:45:03+00:00",
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "Before I take an intro call with a company, I ask a few AI assistants about it first. What does this company do, and would you recommend it? Five minutes, and the meeting changes, because the answers are wrong more often than founders would like to believe. Old positioning survives, pivots go missing, and a […] The post The pitch you never gave: What AI tells buyers about your startup appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eb7c2769c328ef7ed765"
+      },
       {
         "title": "査読に AI を使われた体験談 | Chem-Station (ケムステ)",
         "url": "https://www.chem-station.com/blog/2026/07/review.html",
@@ -95,6 +228,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e685d2484a38dcf2bf04"
+      },
+      {
+        "title": "grokability/snipe-it",
+        "url": "https://github.com/grokability/snipe-it",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-07-30T02:04:58+00:00",
+        "summary": "A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Open Source",
+          "Public Health"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1eefde9027fc5e222e9e"
       },
       {
         "title": "ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab",
@@ -163,6 +319,50 @@
   },
   "findings": [
     {
+      "title": "Pax Silica could reshape the Philippine economy, the real question is who benefits",
+      "url": "https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-30T02:00:46+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the Philippines formally joined Pax Silica, a United States-led initiative intended to build trusted supply chains across artificial […] The post Pax Silica could…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health",
+        "Supply Chain Security"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bec295a9026a42a8e433"
+    },
+    {
+      "title": "How to get beyond the chatbot and boost your AI productivity",
+      "url": "https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-30T01:30:58+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Malaysian businesses have taken up AI at a remarkable speed, but the truth is not necessarily as impressive as it could be. According to data, around 2.4 million businesses, or 27 per cent of the total, now use AI in some form. There is roughly one new adopter every minute. That seems like a success […] The post How to get beyond the chatbot and boost your AI productivity appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab62bdc6595bf95eb0b2"
+    },
+    {
       "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
       "url": "https://jvn.jp/vu/JVNVU98815601/",
       "source": "JVN Japan Vulnerability Notes",
@@ -183,6 +383,95 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9e9dbc009939cfecd100"
+    },
+    {
+      "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91587639/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-30T11:00:00+09:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e15369ac5d88cda752c6"
+    },
+    {
+      "title": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Build local voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD -> STT -> LLM -> TTS , exposed through an OpenAI Realtime-compatible WebSocket API . Every component is swappable. The LLM slot speaks OpenAI-compatible protocols, so you can point it at a hosted provider, at HF Inference Providers , or at a vLLM or llam…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5bb6f552b1aa89290221"
+    },
+    {
+      "title": "Google bets on schools, telcos and local languages to scale Gemini in Southeast Asia",
+      "url": "https://e27.co/google-bets-on-schools-telcos-and-local-languages-to-scale-gemini-in-southeast-asia-20260729/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-30T02:00:07+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Artificial intelligence is no longer being treated as a novelty in Southeast Asia. The question for governments, schools, telcos and technology companies is shifting from whether people will use AI to whether they can use it well, safely and at scale. That is the central argument running through Google’s Gemini Report Southeast Asia 2026, which […] The post Google bets on schools, telcos and local languages to scale…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ff98077be27e445e83fe"
+    },
+    {
+      "title": "The pitch you never gave: What AI tells buyers about your startup",
+      "url": "https://e27.co/the-pitch-you-never-gave-what-ai-tells-buyers-about-your-startup-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-30T01:45:03+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Before I take an intro call with a company, I ask a few AI assistants about it first. What does this company do, and would you recommend it? Five minutes, and the meeting changes, because the answers are wrong more often than founders would like to believe. Old positioning survives, pivots go missing, and a […] The post The pitch you never gave: What AI tells buyers about your startup appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb7c2769c328ef7ed765"
     },
     {
       "title": "査読に AI を使われた体験談 | Chem-Station (ケムステ)",
@@ -226,6 +515,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e685d2484a38dcf2bf04"
+    },
+    {
+      "title": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source",
+        "Public Health"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1eefde9027fc5e222e9e"
     },
     {
       "title": "ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab",
@@ -293,47 +605,160 @@
   ],
   "new_findings": [
     {
-      "title": "査読に AI を使われた体験談 | Chem-Station (ケムステ)",
-      "url": "https://www.chem-station.com/blog/2026/07/review.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Pax Silica could reshape the Philippine economy, the real question is who benefits",
+      "url": "https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-29T11:37:19+00:00",
-      "fetched_at": "2026-07-30T01:18:58+00:00",
-      "summary": "一般的な話題 査読に AI を使われた体験談 2026/7/29 一般的な話題, 化学者のつぶやき, 日常から, 論文 AI, 研究倫理 コメント: 0 投稿者: やぶ 生成 AI の普及は加速しており、調べもの、英文校閲など研究者の皆さんも活用していることと思います。一方、論文の査読といった場面で生成AI が倫理的に不適切に使用される...",
+      "published_at": "2026-07-30T02:00:46+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the Philippines formally joined Pax Silica, a United States-led initiative intended to build trusted supply chains across artificial […] The post Pax Silica could…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health",
+        "Supply Chain Security"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bec295a9026a42a8e433"
+    },
+    {
+      "title": "How to get beyond the chatbot and boost your AI productivity",
+      "url": "https://e27.co/how-to-get-beyond-the-chatbot-and-boost-your-ai-productivity-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-30T01:30:58+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Malaysian businesses have taken up AI at a remarkable speed, but the truth is not necessarily as impressive as it could be. According to data, around 2.4 million businesses, or 27 per cent of the total, now use AI in some form. There is roughly one new adopter every minute. That seems like a success […] The post How to get beyond the chatbot and boost your AI productivity appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Content-Chance"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "21cb6b9fa24b424f2892"
+      "id": "ab62bdc6595bf95eb0b2"
     },
     {
-      "title": "Atome Financial revenue hits US$470M as Southeast Asia credit demand grows",
-      "url": "https://e27.co/atome-financial-revenue-hits-us470m-as-southeast-asia-credit-demand-grows-20260729/",
+      "title": "Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91587639/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-30T11:00:00+09:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e15369ac5d88cda752c6"
+    },
+    {
+      "title": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Build local voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD -> STT -> LLM -> TTS , exposed through an OpenAI Realtime-compatible WebSocket API . Every component is swappable. The LLM slot speaks OpenAI-compatible protocols, so you can point it at a hosted provider, at HF Inference Providers , or at a vLLM or llam…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5bb6f552b1aa89290221"
+    },
+    {
+      "title": "Google bets on schools, telcos and local languages to scale Gemini in Southeast Asia",
+      "url": "https://e27.co/google-bets-on-schools-telcos-and-local-languages-to-scale-gemini-in-southeast-asia-20260729/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-30T01:00:54+00:00",
-      "fetched_at": "2026-07-30T01:18:58+00:00",
-      "summary": "Atome Financial has reported its strongest year yet, with revenue rising 80 per cent year-on-year to US$470 million in 2025, as the Singapore-based digital financial services platform expanded its lending book, merchant network, and card products across Southeast Asia. The company, which comprises Atome’s buy-now-pay-later business, Atome Card, and Indonesian digital lending platform Kredit Pintar, […] The post Atom…",
+      "published_at": "2026-07-30T02:00:07+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Artificial intelligence is no longer being treated as a novelty in Southeast Asia. The question for governments, schools, telcos and technology companies is shifting from whether people will use AI to whether they can use it well, safely and at scale. That is the central argument running through Google’s Gemini Report Southeast Asia 2026, which […] The post Google bets on schools, telcos and local languages to scale…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar",
         "Southeast Asia"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e685d2484a38dcf2bf04"
+      "id": "ff98077be27e445e83fe"
+    },
+    {
+      "title": "The pitch you never gave: What AI tells buyers about your startup",
+      "url": "https://e27.co/the-pitch-you-never-gave-what-ai-tells-buyers-about-your-startup-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-30T01:45:03+00:00",
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "Before I take an intro call with a company, I ask a few AI assistants about it first. What does this company do, and would you recommend it? Five minutes, and the meeting changes, because the answers are wrong more often than founders would like to believe. Old positioning survives, pivots go missing, and a […] The post The pitch you never gave: What AI tells buyers about your startup appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb7c2769c328ef7ed765"
+    },
+    {
+      "title": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-07-30T02:04:58+00:00",
+      "summary": "A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Open Source",
+        "Public Health"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1eefde9027fc5e222e9e"
     }
   ],
   "source_errors": [],
