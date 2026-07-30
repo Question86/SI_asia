@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T11:24:54+00:00_
+_Generiert: 2026-07-30T12:04:57+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+52 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -128,14 +128,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Southeast Asia is not entering the second half of the decade as a spectator to global change. It is becoming one of the places where that change will be absorbed, negotiated, and in some cases redirected. For founders and business leaders, the implication is simple but uncomfortable: the rules that shaped regional growth over the […] The post Southeast Asia in the 2026-2030 world order: Trade, chips, AI, and capital…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495)
+- **[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2115)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-30T11:02:53+00:00`, fetched `2026-07-30T11:24:22+00:00`
+  - Zeit: published `2026-07-30T11:42:58+00:00`, fetched `2026-07-30T12:04:28+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Check Point SmartConsole ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorzugriff, zu erlangen oder beliebigen Code auszuführen – sogar mit Root-Rechten.
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91587639/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -221,6 +221,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Digital euro app to incorporate highest accessibility standards
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitslücken: GitLab-Entwickler raten zu zügigem Update** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-11384515.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-30T11:56:00.000+00:00`, fetched `2026-07-30T12:04:28+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Softwareentwicklungsumgebung GitLab ist verwundbar. Reparierte Ausgaben lösen mehrere Sicherheitsprobleme.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **With Moonshot’s free Kimi K3, China changes the sovereign AI playbook** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-moonshot-kimi-k3-free-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-07-30T10:00:00+00:00`, fetched `2026-07-30T10:39:44+00:00`
@@ -284,15 +293,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様** — Score 5, observation — [Quelle](https://togetter.com/li/2726439)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T06:38:33+00:00`, fetched `2026-07-30T11:24:22+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

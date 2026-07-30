@@ -198,6 +198,52 @@
     "id": "a118274be9911153bbe1"
   },
   {
+    "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2115",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T11:42:58+00:00",
+    "fetched_at": "2026-07-30T12:04:28+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da6e6febe1797e0db83f"
+  },
+  {
+    "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2088",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-30T11:42:57+00:00",
+    "fetched_at": "2026-07-30T12:04:28+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7bb9dbb528f6bd78e8a3"
+  },
+  {
     "title": "[UPDATE] [hoch] Check Point SmartConsole: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2495",
     "source": "BSI CERT-Bund Security Advisories",
@@ -718,6 +764,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e685d2484a38dcf2bf04"
+  },
+  {
+    "title": "Sicherheitslücken: GitLab-Entwickler raten zu zügigem Update",
+    "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-11384515.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-30T11:56:00.000+00:00",
+    "fetched_at": "2026-07-30T12:04:28+00:00",
+    "summary": "Die Softwareentwicklungsumgebung GitLab ist verwundbar. Reparierte Ausgaben lösen mehrere Sicherheitsprobleme.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "60af4e22093c03682c68"
   },
   {
     "title": "With Moonshot’s free Kimi K3, China changes the sovereign AI playbook",
