@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T23:07:42+00:00",
-  "run_id": "2026-07-30T23:07:42+00:00",
+  "generated_at": "2026-07-30T23:32:51+00:00",
+  "run_id": "2026-07-30T23:32:51+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 22,
-    "observe": 62,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -1559,6 +1559,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ecdfeecb89d477cbc059"
+      },
+      {
+        "title": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2129357.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-30T13:07:53+00:00",
+        "fetched_at": "2026-07-30T23:32:20+00:00",
+        "summary": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4a6e6adbb398f519e43e"
       },
       {
         "title": "ホーム",
@@ -3504,6 +3525,27 @@
       "id": "ecdfeecb89d477cbc059"
     },
     {
+      "title": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2129357.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T13:07:53+00:00",
+      "fetched_at": "2026-07-30T23:32:20+00:00",
+      "summary": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4a6e6adbb398f519e43e"
+    },
+    {
       "title": "ホーム",
       "url": "https://5gctextbook.com/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3917,27 +3959,25 @@
   ],
   "new_findings": [
     {
-      "title": "AIの嘘を封じ込める最強プロンプト、「わからない」と言えない人工知能の弱点 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "url": "https://forbesjapan.com/articles/detail/101752",
+      "title": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2129357.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-30T07:22:26+00:00",
-      "fetched_at": "2026-07-30T23:07:12+00:00",
-      "summary": "ChatGPTに質問し、答えが返ってくる。自信に満ち、網羅的で、情報源も明記され、すぐに使える状態だ。それをプレゼン資料や記事、クライアントへの報告書にコピー＆ペーストする。だが、その内容のどこかに、実在しない研究が紛れ込んでいた。自分では気づかなかったが、後に誰かが気づくことになる。その過程で、あなた...",
+      "published_at": "2026-07-30T13:07:53+00:00",
+      "fetched_at": "2026-07-30T23:32:20+00:00",
+      "summary": "カセットテープの音声をPCに保存できる「USB Type-C搭載カセットプレイヤー」、ナカバヤシが発売",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Hatena",
-        "hotentry",
-        "OpenAI"
+        "hotentry"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "OpenAI (+6.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8be21ba1fe32ff5eb55d"
+      "id": "4a6e6adbb398f519e43e"
     }
   ],
   "source_errors": [],
