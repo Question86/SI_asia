@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-30T00:56:41Z",
+  "generated_at": "2026-07-30T01:34:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
       "krass": 1,
       "strong": 1,
-      "quiet": 6
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "quiet": 6
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -21,7 +21,7 @@
       "url": "https://jvn.jp/vu/JVNVU98815601/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-30T09:30:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 40.96,
+      "age_days": 40.98,
       "topics": [
         "ai"
       ],
@@ -72,11 +72,35 @@
       "summary": ""
     },
     {
+      "title": "Atome Financial revenue hits US$470M as Southeast Asia credit demand grows",
+      "url": "https://e27.co/atome-financial-revenue-hits-us470m-as-southeast-asia-credit-demand-grows-20260729/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-30T01:00:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Atome Financial has reported its strongest year yet, with revenue rising 80 per cent year-on-year to US$470 million in 2025, as the Singapore-based digital financial services platform expanded its lending book, merchant network, and card products across Southeast Asia. The company, which comprises Atome’s buy-now-pay-…"
+    },
+    {
       "title": "ユナイテッド航空もヒト・動物型ロボットの機内持ち込みを禁止。サウスウェスト航空に続き業界2社目 | テクノエッジ TechnoEdge",
       "url": "https://www.techno-edge.net/article/2026/07/30/5347.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-29T22:57:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -100,7 +124,7 @@
       "url": "https://zenn.dev/shotaro_tsuji/articles/091517e89ab17d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-29T04:45:53+00:00",
-      "age_days": 0.84,
+      "age_days": 0.87,
       "topics": [
         "general"
       ],
@@ -120,11 +144,36 @@
       "summary": "はじめに 私が読んできたソフトウェアエンジニアリングに関する書籍を紹介しようと思います。全てを紹介しているとキリがないので、プログラミング、データベース、アーキテクチャ、プロダクト、組織とマネジメントという括りで、それぞれ何冊か選びました。コードを書くところから始めて、徐々にシステム、プロダクト、..."
     },
     {
+      "title": "査読に AI を使われた体験談 | Chem-Station (ケムステ)",
+      "url": "https://www.chem-station.com/blog/2026/07/review.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-29T11:37:19+00:00",
+      "age_days": 0.58,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "一般的な話題 査読に AI を使われた体験談 2026/7/29 一般的な話題, 化学者のつぶやき, 日常から, 論文 AI, 研究倫理 コメント: 0 投稿者: やぶ 生成 AI の普及は加速しており、調べもの、英文校閲など研究者の皆さんも活用していることと思います。一方、論文の査読といった場面で生成AI が倫理的に不適切に使用される..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 39.92,
+      "age_days": 39.95,
       "topics": [
         "general"
       ],
@@ -149,7 +198,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 39.92,
+      "age_days": 39.95,
       "topics": [
         "general"
       ],
@@ -174,7 +223,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 39.92,
+      "age_days": 39.95,
       "topics": [
         "ai"
       ],
@@ -201,7 +250,7 @@
       "url": "https://tech-lab.sios.jp/archives/53583",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-29T23:08:39+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
