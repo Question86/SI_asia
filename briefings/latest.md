@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-29T23:42:23+00:00_
+_Generiert: 2026-07-30T00:06:39+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Tame Dependabot: Group your updates, slow the cadence, keep security fast“ aus GitHub Blog Atom (Score 30, mixed).
+1 neue relevante Treffer. Stärkstes Signal: „ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,298 +69,27 @@ _Generiert: 2026-07-29T23:42:23+00:00_
 
 ## Priorität Hoch
 
-- **Tame Dependabot: Group your updates, slow the cadence, keep security fast** — Score 30, mixed — [Quelle](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-07-29T16:00:00+00:00`, fetched `2026-07-29T16:02:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, CodeQL/Dependabot, GitHub, Open Source, Security, Watchgraph:storms_floods_weather
-  - Watchgraph: storms_floods_weather
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
-  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); Open Source (+3.0); Climate/Disaster Infrastructure (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
-  - Kurz: Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .
-  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **[NEU] [hoch] Hashicorp Terraform MCP Server: Mehrere Schwachstellen** — Score 23, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2572)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-29T11:37:54+00:00`, fetched `2026-07-29T11:53:04+00:00`
-  - Treffer: AI Agents, AI/KI, BSI, CERT-Bund, Schwachstelle, Security, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Hashicorp Terraform MCP Server ausnutzen, um Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und Daten zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The demand for SMB cybersecurity is inevitable, the supply was never built correctly** — Score 23, risk — [Quelle](https://e27.co/the-demand-for-smb-cybersecurity-is-inevitable-the-supply-was-never-built-correctly-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T02:45:07+00:00`, fetched `2026-07-29T03:24:17+00:00`
-  - Treffer: APAC Trend Radar, Public Health, Security, Watchgraph:humanitarian_migration_food_water, Watchgraph:public_health_biosecurity
-  - Watchgraph: humanitarian_migration_food_water, public_health_biosecurity
-  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy, MAERSK-B.CO, ZIM, MATX
-  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph modules humanitarian_migration_food_water, public_health_biosecurity (+6.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: In 1858, London was battling a cholera outbreak, and the Thames River stank of sewage. They had attempted to battle the disease by fixing localised water pumps to prevent people from drinking contaminated water. The real solution required them to build an urban sewer infrastructure system, which solved both the stench and disease. Today, we […] The post The demand for SMB cybersecurity is inevitable, the supply was…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **【決着】Claude CodeとCodexの設定ファイルを同期させる (みんな仲良く)** — Score 23, observation — [Quelle](https://zenn.dev/explaza/articles/20f7f41cff8428)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T22:23:21+00:00`, fetched `2026-07-29T10:18:46+00:00`
-  - Treffer: agent, AI Agents, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: ごまんと触れられてきた話題であるのにも関わらず、細かい所に手の届くツールが無かったので作成しました。 有名どころから個人で制作されているツールまで、一通り使わせていただいたのですが実際に困った場面があり・・・ サマリ 課題 同じプロジェクトでCodexとClaude Codeの両方を使っているとき、AGENTS.mdやSKILLS...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **affaan-m/ECC** — Score 23, observation — [Quelle](https://github.com/affaan-m/ECC)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, OpenAI, Security, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. Language: English | Português (Brasil) | 简体中文 | 繁體中文 | 日本語 | 한국어 | Türkçe | Русский | Tiếng Việt | ไทย | Deutsch | Español Warning Official sources only. Install ECC only from verified channels: the GitHub repository github.com/affaan-m/ECC , the…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **防禦工具反成駭客利器？最新研究揭露「Friendly Fire」攻擊，誘導 AI Agent 觸發遠端控制** — Score 22, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11052-5c467-1.html)
-  - Quelle: TWCERT/CC Security News RSS / `rss`
-  - Zeit: published `2026-07-29T07:12:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
-  - Treffer: AI Agents, AI/KI, Security, TWCERT, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: 隨著人工智慧代理（AI Agent）逐漸導入軟體開發及資安作業，一項新興的安全威脅正悄悄浮現。AI Now Institute研究人員Boyan Milanov與Heidy Khlaaf於2026年7月8日發布名為「Friendly Fire」的概念驗證（Proof of Concept, PoC）研究，揭露攻擊者可在程式儲存庫內植入誘導令，使原本負責偵測惡意程式的AI agent誤判檔案安全性並主動執行惡意程式，最終造成遠端程式碼執行（Remote Code Execution, RCE）。 研究團隊以 Python 地理資訊套件「geopy」作為測試標的，展示了這種不需直接竄改 AI 設定檔的「提示注入（Prompt Injection）」攻擊。 這項攻擊分為兩階段：首先，攻擊者會先在程式儲存庫混入惡意的二進位檔案，並將其偽裝成合法的資安檢測元件（例如命名為security.sh），接著攻擊者會在開發者經常使用的READM…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How GPT-5.6 fuses frontier intelligence with frontier efficiency** — Score 20, opportunity — [Quelle](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-29T00:00:00+00:00`, fetched `2026-07-29T19:52:13+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.4 - 53 km E of Rapu-Rapu, Philippines** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgpr)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T15:47:36.771+00:00`, fetched `2026-07-29T16:02:40+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-07-29 15:10:02 UTC 2026-07-29 15:10:02 UTC at epicenter Location 13.138°N 124.614°E Depth 46.28 km (28.76 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.4 - 11 km N of Tsunagi, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T13:47:16.037+00:00`, fetched `2026-07-29T13:56:02+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-07-29 13:19:36 UTC 2026-07-29 13:19:36 UTC at epicenter Location 32.340°N 130.488°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Copilot code review: Agent skills and MCP now generally available** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-29T21:26:19+00:00`, fetched `2026-07-29T22:09:20+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Copilot code review support for agent skills and MCP servers is now generally available for all Copilot Pro, Pro+, Business, and Enterprise users. Previously announced in public preview, these capabilities… The post Copilot code review: Agent skills and MCP now generally available appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CodeQL 2.26.1 improves analysis accuracy and framework coverage** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-29T09:45:11+00:00`, fetched `2026-07-29T10:18:46+00:00`
-  - Treffer: CodeQL/Dependabot, GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.1, which improves framework coverage for Go,… The post CodeQL 2.26.1 improves analysis accuracy and framework coverage appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The future of leadership: Owning outcomes in the age of AI** — Score 18, observation — [Quelle](https://e27.co/the-future-of-leadership-owning-outcomes-in-the-age-of-ai-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T01:00:18+00:00`, fetched `2026-07-29T01:24:33+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: A few months ago, I was invited to a private university to deliver a keynote on C-Suite skills for 2026 and beyond. The audience was a room full of MBA students. Smart, ambitious, mid-career. People who had paid real money to think seriously about their next decade. After the talk, one of them raised his […] The post The future of leadership: Owning outcomes in the age of AI appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **andrewyng/aisuite** — Score 18, opportunity — [Quelle](https://github.com/andrewyng/aisuite)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, GitHub Trending, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Simple, unified interface to multiple Generative AI providers OpenWorker A desktop AI coworker, built on aisuite — now in its own repository: andrewyng/openworker . OpenWorker chats, does deep research, and carries out real tasks on your computer — reading files with permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled automations. Bring your own API key (OpenAI,…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **[UPDATE] [hoch] NGINX Open Source and NGINX Plus: Mehrere Schwachstellen** — Score 17, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1527)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-29T09:23:57+00:00`, fetched `2026-07-29T09:24:10+00:00`
-  - Treffer: BSI, CERT-Bund, Open Source, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in NGINX Open Source and NGINX Plus ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Ransomware in Singapore is becoming a human problem, not just a malware one** — Score 17, risk — [Quelle](https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T04:05:19+00:00`, fetched `2026-07-29T04:33:16+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Security (+7.5); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Ransomware used to be understood mainly as a technology crisis: malware enters a network, locks files, and leaves the victim weighing whether to restore from backups or pay up. A new Proofpoint study suggests that view is now too narrow, especially for digitally dense markets such as Singapore. According to Proofpoint’s “2026 AI-Era Ransomware Report”, […] The post Ransomware in Singapore is becoming a human problem…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **深刻度「緊急」のRails脆弱性「KindaRails2Shell」（CVE-2026-66066）の概要と対応指針 - GMO Flatt Security Blog** — Score 16, risk — [Quelle](https://blog.flatt.tech/entry/kindarails2shell_rails)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-29T15:19:18+00:00`, fetched `2026-07-29T16:36:50+00:00`
-  - Treffer: Hatena, hotentry, Security, Watchgraph:cyber_active_exploitation
-  - Watchgraph: cyber_active_exploitation
-  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: 2026年7月29日、認証を必要とせず、リモートからの任意コード実行（RCE）につながり得る脆弱性「CVE-2026-66066」を修正したRuby on Rails 7.2.3.2、8.0.5.1、8.1.3.1が公開されました（参考：Possible arbitrary file read and remote code execution in Active Storage variant processing）。 本脆弱性は、弊社GMO Fl...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **M 5.9 - Kermadec Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tguf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T22:54:13.114+00:00`, fetched `2026-07-29T22:55:43+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-29 22:27:57 UTC 2026-07-29 22:27:57 UTC at epicenter Location 28.498°S 176.517°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.4 - 153 km NE of Neiafu, Tonga** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgje)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T01:19:58.057+00:00`, fetched `2026-07-29T01:24:33+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-07-29 00:47:59 UTC 2026-07-29 00:47:59 UTC at epicenter Location 17.826°S 172.818°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Accelerating scientific discovery with ChatGPT for Academic Researchers** — Score 12, opportunity — [Quelle](https://openai.com/index/chatgpt-for-academic-researchers)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-07-29T10:00:00+00:00`, fetched `2026-07-29T17:34:48+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
-  - Kurz: OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260067.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-07-29T08:15:18+00:00`, fetched `2026-07-29T07:31:13+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260067 (OT,liquidity providing), for 7 days deadline 09:45
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SBOM做了，為什麼還可能不合規？ENISA調查揭露近三成企業用錯格式** — Score 11, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11053-02aca-1.html)
-  - Quelle: TWCERT/CC Security News RSS / `rss`
-  - Zeit: published `2026-07-29T07:21:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
-  - Treffer: Security, TWCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
-  - Kurz: 企業說自己「有做SBOM」，但格式對不對，可能才是真正決定合不合規的關鍵。歐盟網路安全局（European Union Agency, ENISA）今年6月公布的最新調查顯示，將近三成企業的軟體物料清單，用的格式根本不在國際主流之列。 格式不是小事，是SBOM能不能用的前提 歐盟網路韌性法（Cyber Resilience Act, CRA）要求製造商為每項具數位功能的產品建立軟體物料清單（Software Bill of Materials, SBOM），並規定格式必須「常用且機器可讀」（a commonly used and machine-readable format）。這項規定看似給予不少彈性，但ENISA在報告結論中直言，格式的一致性不只是技術上的偏好，而是SBOM能不能真正發揮作用的必要條件。換句話說，格式選擇並非可有可無的技術枝節，而是攸關整份SBOM合規效力的核心環節。 近三成企業，格式其實不合格 這份調查共…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 102 km WNW of Aykol, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgla)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-07-29T06:29:54.040+00:00`, fetched `2026-07-29T06:32:15+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-07-29 06:09:57 UTC 2026-07-29 06:09:57 UTC at epicenter Location 41.181°N 78.959°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **馥鴻科技｜IP攝影機 - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11048-c8ce2-1.html)
-  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
-  - Zeit: published `2026-07-29T03:12:00+00:00`, fetched `2026-07-29T07:31:13+00:00`
-  - Treffer: Security, TVN, TWCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
-  - Kurz: 馥鴻科技｜IP攝影機 - 存在2個漏洞
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How companies can adapt early-career hiring for a remote world** — Score 11, opportunity — [Quelle](https://e27.co/how-companies-can-adapt-early-career-hiring-for-a-remote-world-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T02:00:06+00:00`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Automatisierung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The discussion around the youth hiring crisis often focuses on AI and automation replacing entry-level jobs. While automation is certainly changing work, there’s a strong argument that remote work has had a more immediate impact on early-career hiring. Here’s why. Junior employees learn by osmosis, not just training Before 2020, much of a graduate’s learning […] The post How companies can adapt early-career hiring f…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **hello245m/free-stockdb** — Score 11, observation — [Quelle](https://github.com/hello245m/free-stockdb)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 [07-27]经过众多用户几个月测试，bug已基本消除，即将提供mac和linux版本！ free-stockdb 本地量化数据引擎 面向 A 股日K、分钟K与 ETF 分钟、tick级数据的本地量化引擎。free-stockdb 将数据同步、清洗、复权、组织为可直接用于批量查询、批量计算研究的数据底座。 ❤️双击更新 -> 双击启动 -> 直接调用。 下载地址1 数据本地落盘，研究不再依赖远程接口。 本地优先 增量同步 数据支持(按需) 本地指标计算 五种调用方式 数据在用户磁盘 只处理变化数据 日/周/月/1/5/15/30分钟/tick 39 种指标、5 种指数 Python / HTTP / Excel / HTML / MCP flowchart TB A["数据更新：同步、清洗、复权、增量"] -->…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MAS, ABS launch ACT taskforce as AI raises cyber risks for banks** — Score 10, observation — [Quelle](https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T06:56:32+00:00`, fetched `2026-07-29T08:24:28+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Banks in Singapore (ABS) have established the AI-Driven Cyber and Technology Risk Taskforce, or […] The post MAS, ABS launch ACT taskforce as…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The one-person AI business is coming for the agency model** — Score 10, observation — [Quelle](https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-29T03:00:00+00:00`, fetched `2026-07-29T03:24:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: In June 2025, I started a business built on an uncomfortable question: how much of an agency does a client actually pay for, and how much of it is overhead wearing a lanyard? I run an education business in Singapore as my day job, so I see the demand side up close. SMEs want content, […] The post The one-person AI business is coming for the agency model appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claudeで共有した会話、Google検索にインデックスされていたと判明--企業の内部データも** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251032/)
+- **ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab** — Score 5, observation — [Quelle](https://tech-lab.sios.jp/archives/53583)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-28T22:13:27+00:00`, fetched `2026-07-29T02:13:13+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Zeit: published `2026-07-29T23:08:39+00:00`, fetched `2026-07-30T00:06:08+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米AnthropicのAIチャットボット「Claude」で共有された会話が、GoogleやBingといった検索エンジンから誰でも閲覧できる状態になっていたことが先週末に明らかになった。会話には医療記録や企業の内部データも含まれており、ユーザーとAnthropicの双方にとって深刻なプライバシー問題となっている。 AIを巡るプライバシー...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Federal Reserve issues FOMC statement** — Score 9, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
-  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
-  - Zeit: published `2026-07-29T18:00:00+00:00`, fetched `2026-07-29T18:00:13+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Federal Reserve issues FOMC statement
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-07-29T08:00:00+00:00`, fetched `2026-07-29T08:24:28+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub - reflex-dev/xy: Ultra-fast and customizable Python charts** — Score 8, observation — [Quelle](https://github.com/reflex-dev/xy)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-29T07:06:59+00:00`, fetched `2026-07-29T22:09:20+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: XY is an extremely fast, interactive, customizable Python charting library for the web, notebooks, and static exports. Charts are composed declaratively or through matplotlib conventions. You can fully customize them with Python, CSS, or Tailwind. With small charts, every point is sent to the bro...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: こんな方へ特におすすめ エヴァンゲリオンが好きな方 ローカルLLM（Ollama）や Raspberry Pi で、何か動くものを作ってみたい方 LangGraph でマルチエージェントを試したい方 概要 こんにちは。サイオステクノロジーのはらちゃんです！ 今回はOSCの展示ブース用開発として、『新世紀エヴァンゲリオン』の意思決定コンピ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
