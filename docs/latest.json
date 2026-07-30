@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T16:10:32+00:00",
-  "run_id": "2026-07-30T16:10:32+00:00",
+  "generated_at": "2026-07-30T17:16:32+00:00",
+  "run_id": "2026-07-30T17:16:32+00:00",
   "date": "2026-07-30",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 4,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 20,
-    "observe": 48,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -613,6 +613,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3b54df760e313a1c3545"
+      },
+      {
+        "title": "Advancing the price-performance frontier with GPT-5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-30T10:00:00+00:00",
+        "fetched_at": "2026-07-30T17:16:00+00:00",
+        "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f57a6aed7d4ef056a072"
       },
       {
         "title": "Why Dropbox refuses to pick a side in the ChatGPT-Claude-Gemini fight",
@@ -1256,6 +1277,27 @@
         "id": "1eefde9027fc5e222e9e"
       },
       {
+        "title": "Limit remote control to managed devices",
+        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-30T14:54:47+00:00",
+        "fetched_at": "2026-07-30T17:16:00+00:00",
+        "summary": "Enterprises and organizations can now restrict which devices are eligible to host remotely controlled Copilot sessions, giving administrators fine-grained control over where remote control access is permitted. The new remoteControl… The post Limit remote control to managed devices appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ecdfeecb89d477cbc059"
+      },
+      {
         "title": "chat.exe - あの頃のUIで繋がる、超軽量ビデオ＆音声チャット",
         "url": "https://chatexe.net/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1317,6 +1359,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0ef43d0283386aa5c254"
+      },
+      {
+        "title": "“ダサい”不評の「ドコモの銀行」、従来のアプリアイコン選択可能に 「ご意見・ご要望も踏まえ」",
+        "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000301/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-30T06:56:06+00:00",
+        "fetched_at": "2026-07-30T17:16:00+00:00",
+        "summary": "住信SBIネット銀行は7月29日、8月3日から展開する個人向けブランド「ドコモの銀行」のアプリについて、ブランド名をそのまま書いた新アイコンだけでなく、従来の「NEOBANK」などのアイコンデザインも選べる機能を追加すると発表した。 「これまでお寄せいただいたさまざまなご意見・ご要望も踏まえ」対応するという。9月...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "50b1307becf079caca10"
       },
       {
         "title": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様",
@@ -1583,6 +1646,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d2cf83d9886beba58991"
+      },
+      {
+        "title": "Stacked pull requests are now in public preview",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-30T16:14:29+00:00",
+        "fetched_at": "2026-07-30T17:16:00+00:00",
+        "summary": "Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can… The post Stacked pull requests are now in public preview appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2589038f49ceb903054d"
       }
     ]
   },
@@ -2169,6 +2252,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3b54df760e313a1c3545"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-30T10:00:00+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f57a6aed7d4ef056a072"
     },
     {
       "title": "Why Dropbox refuses to pick a side in the ChatGPT-Claude-Gemini fight",
@@ -2812,6 +2916,27 @@
       "id": "1eefde9027fc5e222e9e"
     },
     {
+      "title": "Limit remote control to managed devices",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-30T14:54:47+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "Enterprises and organizations can now restrict which devices are eligible to host remotely controlled Copilot sessions, giving administrators fine-grained control over where remote control access is permitted. The new remoteControl… The post Limit remote control to managed devices appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ecdfeecb89d477cbc059"
+    },
+    {
       "title": "chat.exe - あの頃のUIで繋がる、超軽量ビデオ＆音声チャット",
       "url": "https://chatexe.net/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2873,6 +2998,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0ef43d0283386aa5c254"
+    },
+    {
+      "title": "“ダサい”不評の「ドコモの銀行」、従来のアプリアイコン選択可能に 「ご意見・ご要望も踏まえ」",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000301/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T06:56:06+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "住信SBIネット銀行は7月29日、8月3日から展開する個人向けブランド「ドコモの銀行」のアプリについて、ブランド名をそのまま書いた新アイコンだけでなく、従来の「NEOBANK」などのアイコンデザインも選べる機能を追加すると発表した。 「これまでお寄せいただいたさまざまなご意見・ご要望も踏まえ」対応するという。9月...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50b1307becf079caca10"
     },
     {
       "title": "クレジットカードの不正利用が発覚… どうやってカード番号と暗証番号を手に入れたのかわからないが、犯人は高級中国ホテル(1泊60万円)を予約し、80万円使って豪遊している模様",
@@ -3139,51 +3285,111 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d2cf83d9886beba58991"
+    },
+    {
+      "title": "Stacked pull requests are now in public preview",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-30T16:14:29+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can… The post Stacked pull requests are now in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2589038f49ceb903054d"
     }
   ],
   "new_findings": [
     {
-      "title": "生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介",
-      "url": "https://zenn.dev/u1/articles/rhw-reviewable-html-workbench",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-30T12:42:54+00:00",
-      "fetched_at": "2026-07-30T16:10:04+00:00",
-      "summary": "出力量が増えると何が起きるか 2026 年 4 月の CHI ワークショップで発表された研究が、この負荷の分布を実際に観察しています(Catalan et al.)。Samsung R&amp;D Institute Philippines と York University のグループが、経験 1 年未満から 10 年超まで 4 人のソフトウェアエンジニアに Cline でコード生成タスクをやらせ...",
+      "published_at": "2026-07-30T10:00:00+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "OpenAI"
       ],
       "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3b54df760e313a1c3545"
+      "id": "f57a6aed7d4ef056a072"
     },
     {
-      "title": "GitHub Copilot in Visual Studio — July update",
-      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "title": "Limit remote control to managed devices",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-07-30T15:01:48+00:00",
-      "fetched_at": "2026-07-30T16:10:04+00:00",
-      "summary": "July 2026 brought a new agent based on the Copilot SDK, built-in expertise from the .NET and Azure teams, and more ways to tailor GitHub Copilot to how you and… The post GitHub Copilot in Visual Studio — July update appeared first on The GitHub Blog .",
+      "published_at": "2026-07-30T14:54:47+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "Enterprises and organizations can now restrict which devices are eligible to host remotely controlled Copilot sessions, giving administrators fine-grained control over where remote control access is permitted. The new remoteControl… The post Limit remote control to managed devices appeared first on The GitHub Blog .",
       "matched_keywords": [
         "Copilot",
         "GitHub"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c1581adea9106014a066"
+      "id": "ecdfeecb89d477cbc059"
+    },
+    {
+      "title": "“ダサい”不評の「ドコモの銀行」、従来のアプリアイコン選択可能に 「ご意見・ご要望も踏まえ」",
+      "url": "https://www.itmedia.co.jp/news/article/2607/30/2000000301/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-30T06:56:06+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "住信SBIネット銀行は7月29日、8月3日から展開する個人向けブランド「ドコモの銀行」のアプリについて、ブランド名をそのまま書いた新アイコンだけでなく、従来の「NEOBANK」などのアイコンデザインも選べる機能を追加すると発表した。 「これまでお寄せいただいたさまざまなご意見・ご要望も踏まえ」対応するという。9月...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50b1307becf079caca10"
+    },
+    {
+      "title": "Stacked pull requests are now in public preview",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-30T16:14:29+00:00",
+      "fetched_at": "2026-07-30T17:16:00+00:00",
+      "summary": "Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can… The post Stacked pull requests are now in public preview appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2589038f49ceb903054d"
     }
   ],
   "source_errors": [],
