@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T17:51:36+00:00_
+_Generiert: 2026-07-30T18:21:37+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+75 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the Philippines formally joined Pax Silica, a United States-led initiative intended to build trusted supply chains across artificial […] The post Pax Silica could…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.9 - 247 km NNE of Colonia, Micronesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-30T18:19:47.846+00:00`, fetched `2026-07-30T18:21:04+00:00`
+  - Treffer: Climate/Disaster Infrastructure, GitHub Actions, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-07-30 17:55:59 UTC 2026-07-30 17:55:59 UTC at epicenter Location 11.581°N 138.999°E Depth 34.51 km (21.44 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 201 km W of Abepura, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

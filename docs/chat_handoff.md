@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-30T17:51:36+00:00_
+_Generated: 2026-07-30T18:21:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `75`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-07-30T17:51:36+00:00_
 - url: https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/
 - summary: A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the…
 
-### 2. M 5.4 - 201 km W of Abepura, Indonesia
+### 2. M 5.9 - 247 km NNE of Colonia, Micronesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-07-30T18:19:47.846+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h
+- summary: PAGER - GREEN ShakeMap - I Time 2026-07-30 17:55:59 UTC 2026-07-30 17:55:59 UTC at epicenter Location 11.581°N 138.999°E Depth 34.51 km (21.44 mi)
+
+### 3. M 5.4 - 201 km W of Abepura, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-07-30T05:05:07.941+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu
 - summary: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
 
-### 3. [NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (Pillow): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-07-30T11:02:55+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2592
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (Pillow) ausnutzen, um Informationen offenzulegen, um einen Denial of Service Angriff durchzuführen, und um Daten zu manipulieren.
-
-### 4. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-07-30T11:02:54+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2591
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Go 1.27 リリース連載：ジェネリクスメソッド (generic methods) | フューチャー技術ブログ
 - source: Hatena Bookmark Hotentry IT

@@ -22,6 +22,45 @@
     "id": "bec295a9026a42a8e433"
   },
   {
+    "title": "M 5.9 - 247 km NNE of Colonia, Micronesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-30T18:19:47.846+00:00",
+    "fetched_at": "2026-07-30T18:21:04+00:00",
+    "summary": "PAGER - GREEN ShakeMap - I Time 2026-07-30 17:55:59 UTC 2026-07-30 17:55:59 UTC at epicenter Location 11.581°N 138.999°E Depth 34.51 km (21.44 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "GitHub Actions",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "GitHub Actions (+6.2); Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "346a254fdc98a174d6ae"
+  },
+  {
     "title": "M 5.4 - 201 km W of Abepura, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1121,6 +1160,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0139fef07c3219398425"
+  },
+  {
+    "title": "Reference same-repository actions with self-repository syntax",
+    "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-30T17:39:46+00:00",
+    "fetched_at": "2026-07-30T18:21:04+00:00",
+    "summary": "You can now reference an action or reusable workflow that lives in the same repository using the new self-repository syntax. A uses: value that starts with $/ resolves to your… The post Reference same-repository actions with self-repository syntax appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "GitHub"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "GitHub (+2.0); Actions (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb9a7353246dc307b7bb"
   },
   {
     "title": "GitHub Copilot in Visual Studio — July update",
