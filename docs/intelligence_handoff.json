@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-30T07:57:31Z",
+  "generated_at": "2026-07-30T08:59:16Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Develar製app-builder(zipx.Unzip)における任意のファイルが上書きされる脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91587639/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-30T11:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-30T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -65,7 +65,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-07-30T05:43:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -94,7 +94,7 @@
       "url": "https://github.com/grokability/snipe-it",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-30T02:04:58+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -122,7 +122,7 @@
       "url": "https://jvn.jp/vu/JVNVU98815601/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-30T09:30:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security"
@@ -148,7 +148,7 @@
       "url": "https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:15:04+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -175,7 +175,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 41.25,
+      "age_days": 41.29,
       "topics": [
         "ai"
       ],
@@ -194,7 +194,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -7.1 for 41.2d old signal",
+        "aging penalty -7.1 for 41.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -204,7 +204,7 @@
       "url": "https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-30T02:00:46+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -233,7 +233,7 @@
       "url": "https://github.com/huggingface/speech-to-speech",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-30T02:04:58+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "infra"
@@ -257,11 +257,37 @@
       "summary": "Build local voice agents with open-source models Speech To Speech: Build voice agents with open-source models A low-latency, fully modular voice-agent pipeline: VAD -> STT -> LLM -> TTS , exposed through an OpenAI Realtime-compatible WebSocket API . Every component is swappable. The LLM slot speaks OpenAI-compatible p…"
     },
     {
+      "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
+      "url": "https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-30T07:28:00.000+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: firewall",
+        "security high-signal: firewall"
+      ],
+      "summary": "Angreifer missbrauchen fest einprogrammierte Zugangsdaten in Ciscos Firewall-Verwaltungssoftware. Updates sollen dagegen helfen."
+    },
+    {
       "title": "Chrome-Update stopft weitere 370 Sicherheitslecks",
       "url": "https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-30T05:45:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -286,7 +312,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-30T05:05:07.941+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -304,31 +330,6 @@
         "early terms: earthquake"
       ],
       "summary": "PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)"
-    },
-    {
-      "title": "M 5.3 - 217 km SE of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-30T03:04:46.040+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-30 02:46:24 UTC 2026-07-30 02:46:24 UTC at epicenter Location 5.811°S 153.580°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -340,8 +341,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
