@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-30T03:13:02+00:00_
+_Generiert: 2026-07-30T04:18:39+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Pax Silica could reshape the Philippine economy, the real question is who benefits“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -135,6 +135,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For decades, we’ve taught financial literacy as one of life’s most important skills. Save before you spend. Build an emergency fund. Invest early. Understand compound interest. Avoid unnecessary debt. Those lessons remain just as relevant today as they were a generation ago. But I believe future generations will need to master another form of literacy […] The post Why AI literacy may become the new financial literac…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Dropbox refuses to pick a side in the ChatGPT-Claude-Gemini fight** — Score 12, observation — [Quelle](https://e27.co/why-dropbox-refuses-to-pick-a-side-in-the-chatgpt-claude-gemini-fight-20260729/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-30T04:00:06+00:00`, fetched `2026-07-30T04:18:08+00:00`
+  - Treffer: APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Ask most people what Dropbox does, and they’ll tell you it’s where they store files. Ask Kenny Takeuchi, the company’s newly appointed VP of APJ Sales, and he’ll tell you that’s precisely the problem the tech firm is trying to move past. As ChatGPT, Claude and Gemini become the starting point for how knowledge workers […] The post Why Dropbox refuses to pick a side in the ChatGPT-Claude-Gemini fight appeared first o…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Fed held rates, but the real story is what that means for crypto and risk assets** — Score 12, observation — [Quelle](https://e27.co/the-fed-held-rates-but-the-real-story-is-what-that-means-for-crypto-and-risk-assets-20260730/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-30T02:57:46+00:00`, fetched `2026-07-30T03:12:30+00:00`
@@ -143,15 +152,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: I watched the Federal Reserve deliver exactly what everyone expected on Wednesday, and the market reaction still managed to surprise me. The central bank kept its benchmark interest rate unchanged at 3.50 per cent-3.75 per cent at its July meeting, and on the surface, that sounds like a non-event. Markets priced it in. Analysts called […] The post The Fed held rates, but the real story is what that means for crypto…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Southeast Asia may be better prepared for the next era of global expansion** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asia-may-be-better-prepared-for-the-next-era-of-global-expansion-20260727/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-30T02:15:04+00:00`, fetched `2026-07-30T03:12:30+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: For companies headquartered in Europe or North America, the fragmentation of global commerce often feels like a recent development. Trade tensions have become more pronounced. Governments have embraced industrial policy. Data is increasingly regulated within national borders. Artificial intelligence is being governed through different legal frameworks. Markets that once appeared to be converging are beginning […] Th…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 217 km SE of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -189,6 +189,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: A free open source IT asset/license management system Snipe-IT - Open Source Asset Management System This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc. It is built on Laravel 12 . Snipe-IT is actively developed and we release quite frequently . ( Check out the live demo here .) Tip Thi…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **タムロン、ソニーからの買収提案を公表。特別委員会を設置** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/news/2129146.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-30T02:45:20+00:00`, fetched `2026-07-30T04:18:08+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: タムロン、ソニーからの買収提案を公表。特別委員会を設置
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ラズパイ3台でエヴァのMAGIを作る｜ローカルLLMで動く合議AIシステム | SIOS Tech Lab** — Score 5, observation — [Quelle](https://tech-lab.sios.jp/archives/53583)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-29T23:08:39+00:00`, fetched `2026-07-30T00:06:08+00:00`
@@ -197,15 +206,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんな方へ特におすすめ エヴァンゲリオンが好きな方 ローカルLLM（Ollama）や Raspberry Pi で、何か動くものを作ってみたい方 LangGraph でマルチエージェントを試したい方 概要 こんにちは。サイオステクノロジーのはらちゃんです！ 今回はOSCの展示ブース用開発として、『新世紀エヴァンゲリオン』の意思決定コンピ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ユナイテッド航空もヒト・動物型ロボットの機内持ち込みを禁止。サウスウェスト航空に続き業界2社目 | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/07/30/5347.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-29T22:57:09+00:00`, fetched `2026-07-30T00:47:29+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ユナイテッド航空は、ヒト型および動物型ロボットを、機内持ち込みおよび受託手荷物としての持ち込みいずれにおいても禁止すると発表しました。 この禁止措置は、対象となるロボットのサイズや用途を問わず、一律に適用されます。同様の禁止措置はLCCのサウスウエスト航空が同年5月に先行して導入していますが、米大手航...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
