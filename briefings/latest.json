@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T12:32:16+00:00",
-  "run_id": "2026-07-31T12:32:16+00:00",
+  "generated_at": "2026-07-31T13:11:20+00:00",
+  "run_id": "2026-07-31T13:11:20+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 65
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 10,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
-    "medium": 25,
-    "observe": 40,
+    "medium": 26,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -314,6 +314,53 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "76cce1c114690a4dbb44"
+      },
+      {
+        "title": "Can we train AI to choose safety over speed?",
+        "url": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-31T13:00:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: flood"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "50f980afda7214947c02"
       },
       {
         "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
@@ -835,6 +882,52 @@
         "id": "7d69abcb0d77930901a7"
       },
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (24 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-24T00:00:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "sécurité",
+          "vulnérabilité",
+          "éditeur"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "899286e03c4451177c36"
+      },
+      {
+        "title": "Michael S Barr: Will artificial intelligence broadly raise living standards or drive income and wealth inequality?",
+        "url": "https://www.bis.org/review/r260730n.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:01:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9398376e0ce1d7acabf9"
+      },
+      {
         "title": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
         "url": "https://pc.watch.impress.co.jp/docs/news/2129506.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -941,6 +1034,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ed78b5761d1f50dc6d53"
+      },
+      {
+        "title": "Michelle W Bowman: Modernizing financial regulation",
+        "url": "https://www.bis.org/review/r260730j.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:43:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bank Policy Institute London Conference, London, 13 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0f0753d77773a7c1c9f2"
       },
       {
         "title": "BIS global liquidity indicators at end-March 2026",
@@ -1252,6 +1365,67 @@
         "id": "9c496dc90f1e81fa18d3"
       },
       {
+        "title": "Andrew Bailey: Growth and regulation",
+        "url": "https://www.bis.org/review/r260730s.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:39:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Mansion House Financial and Professional Services Dinner, London, 14 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c15fbd161cf3cbbd67d8"
+      },
+      {
+        "title": "Lisa D Cook: Economic outlook",
+        "url": "https://www.bis.org/review/r260730r.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:31:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at The Exchequer Club of Washington DC, Washington DC, 15 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e4f5c70603f4ecf4b6a2"
+      },
+      {
+        "title": "Fabio Panetta: The economic and financial system amidst uncertainty and innovation",
+        "url": "https://www.bis.org/review/r260730p.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:21:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Speech by Mr Fabio Panetta, Governor of the Bank of Italy, at the annual meeting of the Italian Banking Association (ABI), Rome, 15 July 2026.",
+        "matched_keywords": [
+          "banking",
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ae9b9e9c1679f21f2527"
+      },
+      {
         "title": "Stacked pull requests are now in public preview - GitHub Changelog",
         "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1292,6 +1466,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b7c2c8ad583d55bb7a78"
+      },
+      {
+        "title": "Vulnérabilité dans NetApp ONTAP 9 (24 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0923/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-24T00:00:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "212837bca36ebd45137a"
+      },
+      {
+        "title": "Vulnérabilité dans Moodle (23 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0921/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-23T00:00:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "24af278f507866bb9a24"
       },
       {
         "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
@@ -1352,6 +1572,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "79c0e61c2a13a1890c14"
+      },
+      {
+        "title": "Joachim Nagel: The euro in a fragmented world - stability, sovereignty, and global responsibility",
+        "url": "https://www.bis.org/review/r260730q.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:25:00+00:00",
+        "fetched_at": "2026-07-31T13:10:49+00:00",
+        "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, to the Hohenheimer Kreis &#8211; Corporate Governance, Stuttgart, 15 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4012a2085129dcb121ec"
       },
       {
         "title": "令和8年熊本地震に関する対応状況について（7月31日）",
@@ -1931,6 +2171,53 @@
       "id": "76cce1c114690a4dbb44"
     },
     {
+      "title": "Can we train AI to choose safety over speed?",
+      "url": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T13:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:storms_floods_weather"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "watchgraph_reasons": [
+        "storms_floods_weather: flood"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "50f980afda7214947c02"
+    },
+    {
       "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2448,6 +2735,52 @@
       "id": "7d69abcb0d77930901a7"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "899286e03c4451177c36"
+    },
+    {
+      "title": "Michael S Barr: Will artificial intelligence broadly raise living standards or drive income and wealth inequality?",
+      "url": "https://www.bis.org/review/r260730n.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:01:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9398376e0ce1d7acabf9"
+    },
+    {
       "title": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
       "url": "https://pc.watch.impress.co.jp/docs/news/2129506.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2554,6 +2887,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ed78b5761d1f50dc6d53"
+    },
+    {
+      "title": "Michelle W Bowman: Modernizing financial regulation",
+      "url": "https://www.bis.org/review/r260730j.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:43:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bank Policy Institute London Conference, London, 13 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0f0753d77773a7c1c9f2"
     },
     {
       "title": "BIS global liquidity indicators at end-March 2026",
@@ -2865,6 +3218,67 @@
       "id": "9c496dc90f1e81fa18d3"
     },
     {
+      "title": "Andrew Bailey: Growth and regulation",
+      "url": "https://www.bis.org/review/r260730s.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:39:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Mansion House Financial and Professional Services Dinner, London, 14 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c15fbd161cf3cbbd67d8"
+    },
+    {
+      "title": "Lisa D Cook: Economic outlook",
+      "url": "https://www.bis.org/review/r260730r.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:31:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at The Exchequer Club of Washington DC, Washington DC, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4f5c70603f4ecf4b6a2"
+    },
+    {
+      "title": "Fabio Panetta: The economic and financial system amidst uncertainty and innovation",
+      "url": "https://www.bis.org/review/r260730p.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:21:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Mr Fabio Panetta, Governor of the Bank of Italy, at the annual meeting of the Italian Banking Association (ABI), Rome, 15 July 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae9b9e9c1679f21f2527"
+    },
+    {
       "title": "Stacked pull requests are now in public preview - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2905,6 +3319,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b7c2c8ad583d55bb7a78"
+    },
+    {
+      "title": "Vulnérabilité dans NetApp ONTAP 9 (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0923/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "212837bca36ebd45137a"
+    },
+    {
+      "title": "Vulnérabilité dans Moodle (23 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0921/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "24af278f507866bb9a24"
     },
     {
       "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
@@ -2965,6 +3425,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "79c0e61c2a13a1890c14"
+    },
+    {
+      "title": "Joachim Nagel: The euro in a fragmented world - stability, sovereignty, and global responsibility",
+      "url": "https://www.bis.org/review/r260730q.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:25:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, to the Hohenheimer Kreis &#8211; Corporate Governance, Stuttgart, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4012a2085129dcb121ec"
     },
     {
       "title": "令和8年熊本地震に関する対応状況について（7月31日）",
@@ -3255,7 +3735,248 @@
       "id": "add1ba2c3574ffd9a904"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Can we train AI to choose safety over speed?",
+      "url": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T13:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:storms_floods_weather"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "watchgraph_reasons": [
+        "storms_floods_weather: flood"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "50f980afda7214947c02"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "899286e03c4451177c36"
+    },
+    {
+      "title": "Michael S Barr: Will artificial intelligence broadly raise living standards or drive income and wealth inequality?",
+      "url": "https://www.bis.org/review/r260730n.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:01:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9398376e0ce1d7acabf9"
+    },
+    {
+      "title": "Michelle W Bowman: Modernizing financial regulation",
+      "url": "https://www.bis.org/review/r260730j.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:43:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bank Policy Institute London Conference, London, 13 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0f0753d77773a7c1c9f2"
+    },
+    {
+      "title": "Andrew Bailey: Growth and regulation",
+      "url": "https://www.bis.org/review/r260730s.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:39:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Mr Andrew Bailey, Governor of the Bank of England, at the Mansion House Financial and Professional Services Dinner, London, 14 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: London (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c15fbd161cf3cbbd67d8"
+    },
+    {
+      "title": "Lisa D Cook: Economic outlook",
+      "url": "https://www.bis.org/review/r260730r.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:31:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at The Exchequer Club of Washington DC, Washington DC, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4f5c70603f4ecf4b6a2"
+    },
+    {
+      "title": "Fabio Panetta: The economic and financial system amidst uncertainty and innovation",
+      "url": "https://www.bis.org/review/r260730p.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:21:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Mr Fabio Panetta, Governor of the Bank of Italy, at the annual meeting of the Italian Banking Association (ABI), Rome, 15 July 2026.",
+      "matched_keywords": [
+        "banking",
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); banking (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae9b9e9c1679f21f2527"
+    },
+    {
+      "title": "Vulnérabilité dans NetApp ONTAP 9 (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0923/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP 9. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "212837bca36ebd45137a"
+    },
+    {
+      "title": "Vulnérabilité dans Moodle (23 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0921/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-23T00:00:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "24af278f507866bb9a24"
+    },
+    {
+      "title": "Joachim Nagel: The euro in a fragmented world - stability, sovereignty, and global responsibility",
+      "url": "https://www.bis.org/review/r260730q.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:25:00+00:00",
+      "fetched_at": "2026-07-31T13:10:49+00:00",
+      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, to the Hohenheimer Kreis &#8211; Corporate Governance, Stuttgart, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4012a2085129dcb121ec"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
