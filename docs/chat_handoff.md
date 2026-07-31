@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-31T02:35:28+00:00_
+_Generated: 2026-07-31T03:51:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `28`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-07-31T02:35:28+00:00_
 - url: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 - summary: Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evalua…
 
-### 8. Huawei launches Thailand AI Ecosystem Initiative to support ASEAN hub ambition
+### 8. Why Southeast Asian enterprises need AI governance before scaling generative AI
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
-- published: `2026-07-31T02:25:44+00:00`
-- url: https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/
-- summary: Thailand’s bid to become a regional centre for artificial intelligence is moving from policy ambition to ecosystem-building. At the Huawei Thailand Digital & AI Summit 2026 in Bangkok, Huawei joined Thai customers, local large language model developers, AI as…
+- published: `2026-07-31T03:00:07+00:00`
+- url: https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/
+- summary: Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims…
 
 END OF DOCUMENT
