@@ -1,21 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-31T13:06:10Z",
+  "generated_at": "2026-07-31T13:52:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 12,
-      "strong": 17,
-      "watch": 7,
-      "quiet": 4
+      "strong": 19,
+      "watch": 9
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 27,
-      "watch": 7,
-      "quiet": 4
+      "strong": 29,
+      "watch": 9
     }
   },
   "top_dynamics": [
@@ -24,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2598",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:17:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -49,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:15:14+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -75,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU92540957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -99,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU98759887/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -123,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU90278463/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -147,7 +145,7 @@
       "url": "https://jvn.jp/vu/JVNVU92804348/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:15+09:00",
-      "age_days": 0.5,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -172,7 +170,7 @@
       "url": "https://jvn.jp/vu/JVNVU94952030/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:00+09:00",
-      "age_days": 0.5,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -196,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:17:53+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -220,7 +218,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:15:12+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -244,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T10:54:19+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -270,7 +268,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T10:54:18+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -296,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T05:22:54+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -348,7 +346,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1939",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T11:43:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -373,7 +371,7 @@
       "url": "https://jvn.jp/vu/JVNVU97496464/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:15+09:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -398,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1827",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T10:54:17+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -423,7 +421,7 @@
       "url": "https://openai.com/index/unive",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-31T07:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -449,7 +447,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11072-3a4d4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-31T05:41:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -475,7 +473,7 @@
       "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:11:14+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -503,7 +501,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 42.46,
+      "age_days": 42.5,
       "topics": [
         "ai"
       ],
@@ -532,7 +530,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -555,11 +553,39 @@
       "summary": "The open-source alternative to Claude Cowork (powered by opencode) OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible age…"
     },
     {
+      "title": "Can we train AI to choose safety over speed?",
+      "url": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-07-31T13:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: flood",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Delivery personnel from Swiggy navigate a flooded street amid heavy rainfall in Mumbai, India, on July 4, 2026."
+    },
+    {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T23:14:46+00:00",
-      "age_days": 0.58,
+      "age_days": 0.61,
       "topics": [
         "ai",
         "security"
@@ -584,7 +610,7 @@
       "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T07:11:00.000+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -609,7 +635,7 @@
       "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T06:24:00.000+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -635,7 +661,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T08:48:47.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -660,7 +686,7 @@
       "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:15:31+00:00",
-      "age_days": 0.49,
+      "age_days": 0.53,
       "topics": [
         "macro"
       ],
@@ -685,7 +711,7 @@
       "url": "https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:15:03+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -711,7 +737,7 @@
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -737,7 +763,7 @@
       "url": "https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:25:44+00:00",
-      "age_days": 0.44,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -760,11 +786,38 @@
       "summary": "Thailand’s bid to become a regional centre for artificial intelligence is moving from policy ambition to ecosystem-building. At the Huawei Thailand Digital & AI Summit 2026 in Bangkok, Huawei joined Thai customers, local large language model developers, AI associations and universities to launch the Thailand AI Ecosys…"
     },
     {
+      "title": "Michael S Barr: Will artificial intelligence broadly raise living standards or drive income and wealth inequality?",
+      "url": "https://www.bis.org/review/r260730n.htm",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-07-31T09:01:00+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026."
+    },
+    {
       "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
       "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T09:02:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -789,7 +842,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T01:35:07.339+00:00",
-      "age_days": 0.48,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -809,11 +862,38 @@
       "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-07-31 00:58:44 UTC 2026-07-31 00:58:44 UTC at epicenter Location 8.335°S 74.435°W Depth 154.36 km (95.91 mi)"
     },
     {
+      "title": "Michelle W Bowman: Modernizing financial regulation",
+      "url": "https://www.bis.org/review/r260730j.htm",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-07-31T09:43:00+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Bank Policy Institute London Conference, London, 13 July 2026."
+    },
+    {
       "title": "Thinking Machines joins Temus group in regional push for production-grade AI",
       "url": "https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T05:39:20+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro",
@@ -841,7 +921,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-07-31T08:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -861,11 +941,35 @@
       "summary": "Euro area bank interest rate statistics: June 2026"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "age_days": 7.58,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+    },
+    {
       "title": "M 4.5 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th63",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T07:49:04.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -889,7 +993,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T06:48:01.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -913,7 +1017,7 @@
       "url": "https://e27.co/mid-year-2026-look-at-malaysias-digital-and-technology-regulatory-updates-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:00:05+00:00",
-      "age_days": 0.46,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security",
@@ -933,106 +1037,6 @@
         "early terms: pipeline"
       ],
       "summary": "The first seven months of 2026 have produced a volume of legislative activity that technology companies in Malaysia will reckon with for years. Lawmakers passed laws on cybercrime to promote online safety and competition, often within days of each other. Other bills in the pipeline include AI governance and amendments…"
-    },
-    {
-      "title": "令和8年熊本地震に関する対応状況について（7月31日）",
-      "url": "https://www.digital.go.jp/news/183780a9-3477-443f-91c7-5cff13c5e710",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-07-31T07:48:54+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "令和8年熊本地震に関する対応状況について（7月31日）"
-    },
-    {
-      "title": "BIS global liquidity indicators at end-March 2026",
-      "url": "https://www.bis.org/statistics/gli2607.htm",
-      "source": "BIS Statistical Releases",
-      "published_at": "2026-07-31T09:03:00+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace."
-    },
-    {
-      "title": "Stacked pull requests are now in public preview - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-30T16:53:18+00:00",
-      "age_days": 0.84,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Menu. Currently selected: Get started with the CLI extension Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can independently review and check each pull ..."
-    },
-    {
-      "title": "iWOW’s US$11M placement tests investor appetite for Singapore’s ageing economy",
-      "url": "https://e27.co/iwows-us11m-placement-tests-investor-appetite-for-singapores-ageing-economy-20260731/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-31T04:20:21+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "ai",
-        "infra",
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: exchange",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For a small-cap company on the Singapore Exchange’s Catalist board, iWOW Technology’s latest fundraising could have passed as a fairly standard capital markets move. The company placed 66.7 million new shares at US$0.17 each, raising gross proceeds of about US$11.1 million. But the investor list, timing and stated use…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] PHP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
