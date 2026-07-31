@@ -190,6 +190,78 @@
     "id": "94a7b1c873e4005f6b7c"
   },
   {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2056",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-31T10:54:19+00:00",
+    "fetched_at": "2026-07-31T11:09:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Angriff auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5b4d25c91d5e2ce8c1dd"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1870",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-31T10:54:18+00:00",
+    "fetched_at": "2026-07-31T11:09:53+00:00",
+    "summary": "Eiin Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere, nicht näher bezeichnete Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2ead1959cebd4f26d033"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1827",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-31T10:54:17+00:00",
+    "fetched_at": "2026-07-31T11:09:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht bekannte Auswirkungen zu erzielen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "76cce1c114690a4dbb44"
+  },
+  {
     "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -793,6 +865,28 @@
     "id": "c892188f3856ca4fd1f0"
   },
   {
+    "title": "盛源｜DMS+ (非行動端) - Use of Hard-coded Credentials",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11072-3a4d4-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-31T05:41:00+00:00",
+    "fetched_at": "2026-07-31T11:09:53+00:00",
+    "summary": "盛源｜DMS+ (非行動端) - Use of Hard-coded Credentials",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ed78b5761d1f50dc6d53"
+  },
+  {
     "title": "BIS global liquidity indicators at end-March 2026",
     "url": "https://www.bis.org/statistics/gli2607.htm",
     "source": "BIS Statistical Releases",
@@ -1323,6 +1417,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9bbc4121c7d7fdbebc9b"
+  },
+  {
+    "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2129478.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-31T04:29:23+00:00",
+    "fetched_at": "2026-07-31T11:09:53+00:00",
+    "summary": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6070990dcc23049ee33a"
   },
   {
     "title": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】",
