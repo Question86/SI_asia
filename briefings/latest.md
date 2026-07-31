@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T18:00:37+00:00_
+_Generiert: 2026-07-31T18:39:09+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+84 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -296,6 +296,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern history. Airports stopped boarding. Hospitals reverted to paper. Customer service platforms inside Asian banks went dark for […] The post Why concentration disc…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 69 km W of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-31T18:05:01.040+00:00`, fetched `2026-07-31T18:38:37+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-31 17:47:07 UTC 2026-07-31 17:47:07 UTC at epicenter Location 29.895°S 72.061°W Depth 21.34 km (13.26 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Univé builds an AI-ready workforce** — Score 11, observation — [Quelle](https://openai.com/index/unive)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-31T07:00:00+00:00`, fetched `2026-07-31T09:20:29+00:00`
@@ -340,15 +349,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); statistics (+2.0); credit (+2.0)
   - Kurz: The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **iWOW’s US$11M placement tests investor appetite for Singapore’s ageing economy** — Score 10, observation — [Quelle](https://e27.co/iwows-us11m-placement-tests-investor-appetite-for-singapores-ageing-economy-20260731/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-31T04:20:21+00:00`, fetched `2026-07-31T05:04:58+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: For a small-cap company on the Singapore Exchange’s Catalist board, iWOW Technology’s latest fundraising could have passed as a fairly standard capital markets move. The company placed 66.7 million new shares at US$0.17 each, raising gross proceeds of about US$11.1 million. But the investor list, timing and stated use of funds point to something more […] The post iWOW’s US$11M placement tests investor appetite for S…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
