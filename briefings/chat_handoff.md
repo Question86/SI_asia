@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-31T16:13:57+00:00_
+_Generated: 2026-07-31T16:52:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `81`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-07-31T16:13:57+00:00_
 - url: https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/
 - summary: For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal h…
 
-### 3. Advancing responsible AI across Europe
+### 3. Disrupting a Criminal Scam Operation
+- source: OpenAI News RSS
+- score: `21`
+- published: `2026-08-04T00:00:00+00:00`
+- url: https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
+- summary: OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
+
+### 4. Advancing responsible AI across Europe
 - source: OpenAI News RSS
 - score: `18`
 - published: `2026-07-31T15:00:00+00:00`
 - url: https://openai.com/index/advancing-responsible-ai-across-europe
 - summary: OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
-
-### 4. Huawei Cloud bets on Thailand as enterprises move from AI pilots to production
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-07-31T02:11:14+00:00`
-- url: https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/
-- summary: Huawei Cloud has launched its agentic AI infrastructure in Thailand and opened beta testing for CodeArts Agent, a software development tool that uses AI agents to generate code, answer engineering questions and automate parts of the development process. The a…
 
 ### 5. Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026
 - source: BIS Statistical Releases

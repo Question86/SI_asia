@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T16:13:57+00:00_
+_Generiert: 2026-07-31T16:52:48+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+81 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
   - Kurz: For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal hackathons to show what generative AI can do. Also Read: Southeast Asia doesn’t have an AI adoption problem, it […] The post Thinking Machines joins Temus group…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Disrupting a Criminal Scam Operation** — Score 21, risk — [Quelle](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-04T00:00:00+00:00`, fetched `2026-07-31T16:52:16+00:00`
+  - Treffer: AI/KI, OpenAI, Reputationsrisiko, Watchgraph:narrative_social_reputation
+  - Watchgraph: narrative_social_reputation
+  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Reputationsrisiko (+8.8); watchgraph modules narrative_social_reputation (+3.0)
+  - Kurz: OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Advancing responsible AI across Europe** — Score 18, observation — [Quelle](https://openai.com/index/advancing-responsible-ai-across-europe)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-31T15:00:00+00:00`, fetched `2026-07-31T08:16:12+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **microsoft/AI-For-Beginners** — Score 14, observation — [Quelle](https://github.com/microsoft/AI-For-Beginners)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-31T02:34:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: 12 Weeks, 24 Lessons, AI for All! Artificial Intelligence for Beginners - A Curriculum AI For Beginners - Sketchnote by @girlie_mac Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI 🌐 Multi-Language Support Supported via Gi…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -355,8 +355,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
