@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T20:41:34+00:00",
-  "run_id": "2026-07-31T20:41:34+00:00",
+  "generated_at": "2026-07-31T21:33:51+00:00",
+  "run_id": "2026-07-31T21:33:51+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 89
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 89,
-    "displayed_findings": 89,
+    "new_relevant_findings": 1,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 0,
     "medium": 28,
-    "observe": 61,
+    "observe": 62,
     "source_errors": 0
   },
   "sections": {
@@ -1799,6 +1799,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "24af278f507866bb9a24"
+      },
+      {
+        "title": "『ドンキーコング バナンザ』おもしろいバグは仕様にしちゃう。マイナスを減らしプラスを伸ばすQA（品質保証）とデバッグ環境作り【CEDEC2026】 | ゲーム・エンタメ最新情報のファミ通.com",
+        "url": "https://www.famitsu.com/article/202607/82908",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:06:17+00:00",
+        "fetched_at": "2026-07-31T21:33:22+00:00",
+        "summary": "2026年7月22日から7月24日にかけての3日間で行われた、“CEDEC2026（Computer Entertainment Developers Conference 2026）”。本イベントは、CESA（コンピュータエンターテインメント協会）が主催する、日本最大のゲーム開発者向けカンファレンスだ。 本稿では、その中で行われた“『ドンキーコング バナンザ』の破壊を推...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d4edfa5ded3a60e9f7a4"
       },
       {
         "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
@@ -4045,6 +4067,28 @@
       "id": "24af278f507866bb9a24"
     },
     {
+      "title": "『ドンキーコング バナンザ』おもしろいバグは仕様にしちゃう。マイナスを減らしプラスを伸ばすQA（品質保証）とデバッグ環境作り【CEDEC2026】 | ゲーム・エンタメ最新情報のファミ通.com",
+      "url": "https://www.famitsu.com/article/202607/82908",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:06:17+00:00",
+      "fetched_at": "2026-07-31T21:33:22+00:00",
+      "summary": "2026年7月22日から7月24日にかけての3日間で行われた、“CEDEC2026（Computer Entertainment Developers Conference 2026）”。本イベントは、CESA（コンピュータエンターテインメント協会）が主催する、日本最大のゲーム開発者向けカンファレンスだ。 本稿では、その中で行われた“『ドンキーコング バナンザ』の破壊を推...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d4edfa5ded3a60e9f7a4"
+    },
+    {
       "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
       "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
       "source": "heise Security Alerts",
@@ -4519,84 +4563,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 141 km ENE of Masohi, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-31T20:38:39.040+00:00",
-      "fetched_at": "2026-07-31T20:41:04+00:00",
-      "summary": "Time 2026-07-31 20:19:26 UTC 2026-07-31 20:19:26 UTC at epicenter Location 2.845°S 130.155°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "521a16c4ef267ff0ec04"
-    },
-    {
-      "title": "GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう",
-      "url": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
+      "title": "『ドンキーコング バナンザ』おもしろいバグは仕様にしちゃう。マイナスを減らしプラスを伸ばすQA（品質保証）とデバッグ環境作り【CEDEC2026】 | ゲーム・エンタメ最新情報のファミ通.com",
+      "url": "https://www.famitsu.com/article/202607/82908",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T13:51:43+00:00",
-      "fetched_at": "2026-07-31T20:41:04+00:00",
-      "summary": "GitHubでPRを細かく作り、前のブランチに対して数珠つなぎのようにPRを作る私が大歓喜！ GitHubに「スタックプルリクエスト」機能が来ました💐 3行まとめ 大きな変更を、順序付きの小さなPR群（スタック）に分割して扱える機能がGitHub公式で登場 gh extension install github/gh-stackでCLIから使える gh stack syncで...",
+      "published_at": "2026-07-31T09:06:17+00:00",
+      "fetched_at": "2026-07-31T21:33:22+00:00",
+      "summary": "2026年7月22日から7月24日にかけての3日間で行われた、“CEDEC2026（Computer Entertainment Developers Conference 2026）”。本イベントは、CESA（コンピュータエンターテインメント協会）が主催する、日本最大のゲーム開発者向けカンファレンスだ。 本稿では、その中で行われた“『ドンキーコング バナンザ』の破壊を推...",
       "matched_keywords": [
-        "GitHub",
+        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a8b77db18625df006b05"
-    },
-    {
-      "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-31T20:04:01+00:00",
-      "fetched_at": "2026-07-31T20:41:04+00:00",
-      "summary": "As of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model… The post Gemini 2.5 Pro and Gemini 3 Flash deprecated appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c71152974a97fce805ef"
+      "id": "d4edfa5ded3a60e9f7a4"
     }
   ],
   "source_errors": [],
