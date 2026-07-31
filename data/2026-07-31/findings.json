@@ -320,6 +320,43 @@
     "id": "76cce1c114690a4dbb44"
   },
   {
+    "title": "M 5.2 - 141 km ENE of Masohi, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-31T20:38:39.040+00:00",
+    "fetched_at": "2026-07-31T20:41:04+00:00",
+    "summary": "Time 2026-07-31 20:19:26 UTC 2026-07-31 20:19:26 UTC at epicenter Location 2.845°S 130.155°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "521a16c4ef267ff0ec04"
+  },
+  {
     "title": "Can we train AI to choose safety over speed?",
     "url": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
     "source": "Rest of World Global Tech Feed",
@@ -1539,6 +1576,28 @@
     "id": "025060cba2398e3c74d9"
   },
   {
+    "title": "GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう",
+    "url": "https://zenn.dev/ubie_dev/articles/gh-stack-introduction",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-31T13:51:43+00:00",
+    "fetched_at": "2026-07-31T20:41:04+00:00",
+    "summary": "GitHubでPRを細かく作り、前のブランチに対して数珠つなぎのようにPRを作る私が大歓喜！ GitHubに「スタックプルリクエスト」機能が来ました💐 3行まとめ 大きな変更を、順序付きの小さなPR群（スタック）に分割して扱える機能がGitHub公式で登場 gh extension install github/gh-stackでCLIから使える gh stack syncで...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a8b77db18625df006b05"
+  },
+  {
     "title": "AI時代の強いチームの作り方",
     "url": "https://speakerdeck.com/yuukiyo/building-strong-teams-in-the-age-of-ai",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1930,6 +1989,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9bbc4121c7d7fdbebc9b"
+  },
+  {
+    "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+    "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-07-31T20:04:01+00:00",
+    "fetched_at": "2026-07-31T20:41:04+00:00",
+    "summary": "As of today, July 31, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model… The post Gemini 2.5 Pro and Gemini 3 Flash deprecated appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c71152974a97fce805ef"
   },
   {
     "title": "Don’t stop early: Case-folding source code at memory speed",
