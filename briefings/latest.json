@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T21:57:49+00:00",
-  "run_id": "2026-07-31T21:57:49+00:00",
+  "generated_at": "2026-07-31T22:22:42+00:00",
+  "run_id": "2026-07-31T22:22:42+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
@@ -4603,29 +4603,7 @@
       "id": "add1ba2c3574ffd9a904"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2129514.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-31T06:10:39+00:00",
-      "fetched_at": "2026-07-31T21:57:19+00:00",
-      "summary": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4138206a1b3aa7892dd1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
