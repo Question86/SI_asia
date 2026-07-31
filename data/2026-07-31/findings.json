@@ -190,6 +190,43 @@
     "id": "94a7b1c873e4005f6b7c"
   },
   {
+    "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-31T08:48:47.040+00:00",
+    "fetched_at": "2026-07-31T09:20:29+00:00",
+    "summary": "Time 2026-07-31 08:31:28 UTC 2026-07-31 08:31:28 UTC at epicenter Location 4.090°N 93.181°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "35e35078072d73362209"
+  },
+  {
     "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -358,6 +395,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "431d479f81162f4b9741"
+  },
+  {
+    "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-31T09:15:14+00:00",
+    "fetched_at": "2026-07-31T09:20:29+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff732428c34e67a87341"
+  },
+  {
+    "title": "[UPDATE] [hoch] Samba: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-31T09:15:12+00:00",
+    "fetched_at": "2026-07-31T09:20:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1e17cdfe16f2d162e3a3"
   },
   {
     "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
@@ -619,6 +702,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3e82f7a12dabe479d3ff"
+  },
+  {
+    "title": "Univé builds an AI-ready workforce",
+    "url": "https://openai.com/index/unive",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-07-31T07:00:00+00:00",
+    "fetched_at": "2026-07-31T09:20:29+00:00",
+    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c892188f3856ca4fd1f0"
   },
   {
     "title": "BIS global liquidity indicators at end-March 2026",
@@ -970,6 +1074,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b7c2c8ad583d55bb7a78"
+  },
+  {
+    "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
+    "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-31T09:02:00.000+00:00",
+    "fetched_at": "2026-07-31T09:20:29+00:00",
+    "summary": "IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "69d9ffee711b2a15b861"
   },
   {
     "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",

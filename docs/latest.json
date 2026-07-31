@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T08:16:45+00:00",
-  "run_id": "2026-07-31T08:16:45+00:00",
+  "generated_at": "2026-07-31T09:21:00+00:00",
+  "run_id": "2026-07-31T09:21:00+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 5,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
-    "medium": 16,
-    "observe": 33,
+    "medium": 19,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -220,6 +220,43 @@
         "id": "94a7b1c873e4005f6b7c"
       },
       {
+        "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-31T08:48:47.040+00:00",
+        "fetched_at": "2026-07-31T09:20:29+00:00",
+        "summary": "Time 2026-07-31 08:31:28 UTC 2026-07-31 08:31:28 UTC at epicenter Location 4.090°N 93.181°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "35e35078072d73362209"
+      },
+      {
         "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -388,6 +425,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "431d479f81162f4b9741"
+      },
+      {
+        "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:15:14+00:00",
+        "fetched_at": "2026-07-31T09:20:29+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ff732428c34e67a87341"
+      },
+      {
+        "title": "[UPDATE] [hoch] Samba: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:15:12+00:00",
+        "fetched_at": "2026-07-31T09:20:29+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1e17cdfe16f2d162e3a3"
       },
       {
         "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
@@ -651,6 +734,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3e82f7a12dabe479d3ff"
+      },
+      {
+        "title": "Univé builds an AI-ready workforce",
+        "url": "https://openai.com/index/unive",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-31T07:00:00+00:00",
+        "fetched_at": "2026-07-31T09:20:29+00:00",
+        "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c892188f3856ca4fd1f0"
       },
       {
         "title": "BIS global liquidity indicators at end-March 2026",
@@ -1002,6 +1106,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b7c2c8ad583d55bb7a78"
+      },
+      {
+        "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
+        "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:02:00.000+00:00",
+        "fetched_at": "2026-07-31T09:20:29+00:00",
+        "summary": "IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "69d9ffee711b2a15b861"
       },
       {
         "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
@@ -1462,6 +1586,43 @@
       "id": "94a7b1c873e4005f6b7c"
     },
     {
+      "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-31T08:48:47.040+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "Time 2026-07-31 08:31:28 UTC 2026-07-31 08:31:28 UTC at epicenter Location 4.090°N 93.181°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "35e35078072d73362209"
+    },
+    {
       "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1630,6 +1791,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "431d479f81162f4b9741"
+    },
+    {
+      "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:15:14+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ff732428c34e67a87341"
+    },
+    {
+      "title": "[UPDATE] [hoch] Samba: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:15:12+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1e17cdfe16f2d162e3a3"
     },
     {
       "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
@@ -1891,6 +2098,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3e82f7a12dabe479d3ff"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c892188f3856ca4fd1f0"
     },
     {
       "title": "BIS global liquidity indicators at end-March 2026",
@@ -2244,6 +2472,26 @@
       "id": "b7c2c8ad583d55bb7a78"
     },
     {
+      "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
+      "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:02:00.000+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "69d9ffee711b2a15b861"
+    },
+    {
       "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
       "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
       "source": "heise Security Alerts",
@@ -2511,109 +2759,20 @@
   ],
   "new_findings": [
     {
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-31T15:00:00+00:00",
-      "fetched_at": "2026-07-31T08:16:12+00:00",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "safety",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); safety (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e866fe07102a874c2147"
-    },
-    {
-      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
-      "url": "https://www.bis.org/statistics/rppb2607.htm",
-      "source": "BIS Statistical Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-31T08:17:00+00:00",
-      "fetched_at": "2026-07-31T08:16:12+00:00",
-      "summary": "Cross-border bank credit rose by 11% year on year at end-March 2026. The expansion was broad-based across instruments and counterparty sectors. Bank credit to emerging market and developing economies expanded by $148 billion in Q1 2026, primarily concentrated in Africa and the Middle East and emerging Europe. The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dol…",
-      "matched_keywords": [
-        "banking",
-        "credit",
-        "Macro/Policy",
-        "statistics"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+6.2); statistics (+2.5); credit (+2.0); banking (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "95de012c5dcf97202772"
-    },
-    {
-      "title": "Euro area bank interest rate statistics: June 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-31T08:00:00+00:00",
-      "fetched_at": "2026-07-31T08:16:12+00:00",
-      "summary": "Euro area bank interest rate statistics: June 2026",
-      "matched_keywords": [
-        "euro area",
-        "Macro/Policy",
-        "statistics"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d35c58f560e6f4f3b5c9"
-    },
-    {
-      "title": "BIS global liquidity indicators at end-March 2026",
-      "url": "https://www.bis.org/statistics/gli2607.htm",
-      "source": "BIS Statistical Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-31T09:03:00+00:00",
-      "fetched_at": "2026-07-31T08:16:12+00:00",
-      "summary": "The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace.",
-      "matched_keywords": [
-        "credit",
-        "Macro/Policy",
-        "statistics"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); statistics (+2.0); credit (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "80b225b6422f2e11bf33"
-    },
-    {
-      "title": "M 4.5 - Fiji region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th63",
+      "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-31T07:49:04.040+00:00",
-      "fetched_at": "2026-07-31T08:16:12+00:00",
-      "summary": "Time 2026-07-31 07:32:54 UTC 2026-07-31 07:32:54 UTC at epicenter Location 19.267°S 177.465°W Depth 581.05 km (361.05 mi)",
+      "published_at": "2026-07-31T08:48:47.040+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "Time 2026-07-31 08:31:28 UTC 2026-07-31 08:31:28 UTC at epicenter Location 4.090°N 93.181°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2634,27 +2793,94 @@
         "HD",
         "LOW"
       ],
-      "id": "77363ff57ef0da34591f"
+      "id": "35e35078072d73362209"
     },
     {
-      "title": "令和8年熊本地震に関する対応状況について（7月31日）",
-      "url": "https://www.digital.go.jp/news/183780a9-3477-443f-91c7-5cff13c5e710",
-      "source": "Japan Digital Agency News RSS",
+      "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-31T07:48:54+00:00",
-      "fetched_at": "2026-07-31T08:16:12+00:00",
-      "summary": "令和8年熊本地震に関する対応状況について（7月31日）",
+      "published_at": "2026-07-31T09:15:14+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann.",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9cb347a9332b16896818"
+      "id": "ff732428c34e67a87341"
+    },
+    {
+      "title": "[UPDATE] [hoch] Samba: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:15:12+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1e17cdfe16f2d162e3a3"
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c892188f3856ca4fd1f0"
+    },
+    {
+      "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
+      "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:02:00.000+00:00",
+      "fetched_at": "2026-07-31T09:20:29+00:00",
+      "summary": "IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "69d9ffee711b2a15b861"
     }
   ],
   "source_errors": [],

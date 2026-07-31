@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T08:16:45+00:00_
+_Generiert: 2026-07-31T09:21:00+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+54 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -118,6 +118,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年07月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 287 km SW of Banda Aceh, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-31T08:48:47.040+00:00`, fetched `2026-07-31T09:20:29+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-31 08:31:28 UTC 2026-07-31 08:31:28 UTC at epicenter Location 4.090°N 93.181°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.6 - 13 km ENE of San Fernando, Peru** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-31T01:35:07.339+00:00`, fetched `2026-07-31T01:39:10+00:00`
@@ -154,6 +163,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-31T09:15:14+00:00`, fetched `2026-07-31T09:20:29+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Samba: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-31T09:15:12+00:00`, fetched `2026-07-31T09:20:29+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-07-31T05:22:54+00:00`, fetched `2026-07-31T06:13:49+00:00`
@@ -238,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unau...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Univé builds an AI-ready workforce** — Score 11, observation — [Quelle](https://openai.com/index/unive)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-31T07:00:00+00:00`, fetched `2026-07-31T09:20:29+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **BIS global liquidity indicators at end-March 2026** — Score 10, observation — [Quelle](https://www.bis.org/statistics/gli2607.htm)
   - Quelle: BIS Statistical Releases / `rss`
   - Zeit: published `2026-07-31T09:03:00+00:00`, fetched `2026-07-31T08:16:12+00:00`
@@ -292,23 +328,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus** — Score 7, observation — [Quelle](https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html)
+- **IBM App Connect Enterprise: Angreifer können Daten manipulieren** — Score 7, observation — [Quelle](https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-31T07:11:00.000+00:00`, fetched `2026-07-31T07:16:59+00:00`
+  - Zeit: published `2026-07-31T09:02:00.000+00:00`, fetched `2026-07-31T09:20:29+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Russische Akteure greifen über Outlook-Web-Access-Lücke an** — Score 7, observation — [Quelle](https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-07-31T06:24:00.000+00:00`, fetched `2026-07-31T07:16:59+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.
+  - Kurz: IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
