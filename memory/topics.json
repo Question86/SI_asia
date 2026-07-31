@@ -1,9 +1,48 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-31T00:58:48+00:00",
+  "generated_at": "2026-07-31T01:39:39+00:00",
   "topics": {
-    "ai": [
+    "general": [
+      {
+        "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-07-31T01:35:07.339+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Your real customer might be procurement, legal, or the CFO, not the user",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T01:15:31+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/"
+      },
+      {
+        "title": "Why concentration disclosure is key to ASEAN’s financial stability",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T01:15:45+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/"
+      }
+    ],
+    "security": [
+      {
+        "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T10:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92804348/"
+      },
+      {
+        "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94952030/"
+      },
       {
         "title": "Investigating three real-world incidents in our cybersecurity evaluations",
         "source": "Hatena Bookmark Hotentry IT",
@@ -12,13 +51,36 @@
         "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
       }
     ],
-    "security": [
+    "ai": [
+      {
+        "title": "How to use AI to become a better investor",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T01:30:11+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/"
+      },
+      {
+        "title": "Why concentration disclosure is key to ASEAN’s financial stability",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T01:15:45+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/"
+      },
       {
         "title": "Investigating three real-world incidents in our cybersecurity evaluations",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-07-30T23:14:46+00:00",
         "relevance_score": 12,
         "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Why concentration disclosure is key to ASEAN’s financial stability",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T01:15:45+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/"
       }
     ],
     "github": [

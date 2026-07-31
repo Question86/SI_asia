@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T00:58:48+00:00",
-  "run_id": "2026-07-31T00:58:48+00:00",
+  "generated_at": "2026-07-31T01:39:39+00:00",
+  "run_id": "2026-07-31T01:39:39+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,166 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 6,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
-    "medium": 0,
-    "observe": 2,
+    "medium": 5,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-31T01:35:07.339+00:00",
+        "fetched_at": "2026-07-31T01:39:10+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-07-31 00:58:44 UTC 2026-07-31 00:58:44 UTC at epicenter Location 8.335°S 74.435°W Depth 154.36 km (95.91 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1803e60a1b3119062471"
+      },
+      {
+        "title": "Your real customer might be procurement, legal, or the CFO, not the user",
+        "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-31T01:15:31+00:00",
+        "fetched_at": "2026-07-31T01:39:10+00:00",
+        "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth will follow. In […] The post Your real customer might be procurement, legal, or the CFO, not the use…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Markets/Capital Structure",
+          "Public Health"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0d511cfa819bc9909e8"
+      },
+      {
+        "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU92804348/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-31T10:00:15+09:00",
+        "fetched_at": "2026-07-31T01:39:10+00:00",
+        "summary": "ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7eb89da68b264a1726ea"
+      },
+      {
+        "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94952030/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-07-31T10:00:00+09:00",
+        "fetched_at": "2026-07-31T01:39:10+00:00",
+        "summary": "baserCMSユーザー会が提供するBaserCMSには、CSVファイルインジェクションの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "431d479f81162f4b9741"
+      },
+      {
+        "title": "How to use AI to become a better investor",
+        "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-31T01:30:11+00:00",
+        "fetched_at": "2026-07-31T01:39:10+00:00",
+        "summary": "Every few months, a new platform promises to hand retail traders the same edge that institutional desks have spent decades building. Plug in the AI, sit back, let it run. The pitch has become so familiar it barely registers anymore. I’ve been trading for thirty years and made every mistake in the book. What I’ve […] The post How to use AI to become a better investor appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c049c51532959a15c0b4"
+      }
+    ],
     "observe": [
+      {
+        "title": "Why concentration disclosure is key to ASEAN’s financial stability",
+        "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-07-31T01:15:45+00:00",
+        "fetched_at": "2026-07-31T01:39:10+00:00",
+        "summary": "On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern history. Airports stopped boarding. Hospitals reverted to paper. Customer service platforms inside Asian banks went dark for […] The post Why concentration disc…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bbdafd45579e89eb7baf"
+      },
       {
         "title": "Investigating three real-world incidents in our cybersecurity evaluations",
         "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
@@ -78,6 +226,153 @@
   },
   "findings": [
     {
+      "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:35:07.339+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-07-31 00:58:44 UTC 2026-07-31 00:58:44 UTC at epicenter Location 8.335°S 74.435°W Depth 154.36 km (95.91 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1803e60a1b3119062471"
+    },
+    {
+      "title": "Your real customer might be procurement, legal, or the CFO, not the user",
+      "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:15:31+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth will follow. In […] The post Your real customer might be procurement, legal, or the CFO, not the use…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0d511cfa819bc9909e8"
+    },
+    {
+      "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92804348/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-31T10:00:15+09:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7eb89da68b264a1726ea"
+    },
+    {
+      "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94952030/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-31T10:00:00+09:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "baserCMSユーザー会が提供するBaserCMSには、CSVファイルインジェクションの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "431d479f81162f4b9741"
+    },
+    {
+      "title": "How to use AI to become a better investor",
+      "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:30:11+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "Every few months, a new platform promises to hand retail traders the same edge that institutional desks have spent decades building. Plug in the AI, sit back, let it run. The pitch has become so familiar it barely registers anymore. I’ve been trading for thirty years and made every mistake in the book. What I’ve […] The post How to use AI to become a better investor appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c049c51532959a15c0b4"
+    },
+    {
+      "title": "Why concentration disclosure is key to ASEAN’s financial stability",
+      "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:15:45+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern history. Airports stopped boarding. Hospitals reverted to paper. Customer service platforms inside Asian banks went dark for […] The post Why concentration disc…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bbdafd45579e89eb7baf"
+    },
+    {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
@@ -124,26 +419,151 @@
   ],
   "new_findings": [
     {
-      "title": "Stacked pull requests are now in public preview - GitHub Changelog",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-30T16:53:18+00:00",
-      "fetched_at": "2026-07-31T00:58:17+00:00",
-      "summary": "Menu. Currently selected: Get started with the CLI extension Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can independently review and check each pull ...",
+      "published_at": "2026-07-31T01:35:07.339+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-07-31 00:58:44 UTC 2026-07-31 00:58:44 UTC at epicenter Location 8.335°S 74.435°W Depth 154.36 km (95.91 mi)",
       "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1803e60a1b3119062471"
+    },
+    {
+      "title": "Your real customer might be procurement, legal, or the CFO, not the user",
+      "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:15:31+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth will follow. In […] The post Your real customer might be procurement, legal, or the CFO, not the use…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure",
+        "Public Health"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3a358862ac3d38239bf6"
+      "id": "b0d511cfa819bc9909e8"
+    },
+    {
+      "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92804348/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-31T10:00:15+09:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7eb89da68b264a1726ea"
+    },
+    {
+      "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94952030/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-31T10:00:00+09:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "baserCMSユーザー会が提供するBaserCMSには、CSVファイルインジェクションの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "431d479f81162f4b9741"
+    },
+    {
+      "title": "How to use AI to become a better investor",
+      "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:30:11+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "Every few months, a new platform promises to hand retail traders the same edge that institutional desks have spent decades building. Plug in the AI, sit back, let it run. The pitch has become so familiar it barely registers anymore. I’ve been trading for thirty years and made every mistake in the book. What I’ve […] The post How to use AI to become a better investor appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c049c51532959a15c0b4"
+    },
+    {
+      "title": "Why concentration disclosure is key to ASEAN’s financial stability",
+      "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:15:45+00:00",
+      "fetched_at": "2026-07-31T01:39:10+00:00",
+      "summary": "On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern history. Airports stopped boarding. Hospitals reverted to paper. Customer service platforms inside Asian banks went dark for […] The post Why concentration disc…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bbdafd45579e89eb7baf"
     }
   ],
   "source_errors": [],

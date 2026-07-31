@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T00:58:52+00:00",
+  "generated_at": "2026-07-31T01:39:42+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:34.505km) in Micronesia 30/07/2026 17:55 UTC, 1 thousand in MMI&gt;=III.",
         "summary": "Green earthquake (Magnitude 5.9M, Depth:34.505km) in Micronesia 30/07/2026 17:55 UTC, 1 thousand in MMI&gt;=III.",
         "source": "GDACS",
@@ -121,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554970",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 13 km ENE of San Fernando, Peru",
+        "summary": "M5.6 - 13 km ENE of San Fernando, Peru. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
+        "published_at": "2026-07-31T00:58:44+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 483.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
