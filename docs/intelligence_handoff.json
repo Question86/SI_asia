@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-31T06:32:25Z",
+  "generated_at": "2026-07-31T07:40:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU92540957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:15+09:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98759887/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU90278463/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU92804348/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:15+09:00",
-      "age_days": 0.23,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security"
@@ -112,7 +112,7 @@
       "url": "https://jvn.jp/vu/JVNVU94952030/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -136,7 +136,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T05:22:54+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -162,7 +162,7 @@
       "url": "https://jvn.jp/vu/JVNVU97496464/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:15+09:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -187,7 +187,7 @@
       "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:11:14+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -215,7 +215,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 42.19,
+      "age_days": 42.24,
       "topics": [
         "ai"
       ],
@@ -244,7 +244,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -271,7 +271,7 @@
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T23:14:46+00:00",
-      "age_days": 0.3,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security"
@@ -292,16 +292,15 @@
       "summary": "Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unau..."
     },
     {
-      "title": "paperswithbacktest/awesome-systematic-trading",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.16,
+      "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
+      "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-07-31T07:11:00.000+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai",
-        "macro"
+        "security"
       ],
-      "dynamics_score": 21.0,
+      "dynamics_score": 24.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -312,10 +311,10 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: rce",
-        "security high-signal: rce"
+        "high terms: kritisch, auth",
+        "security high-signal: kritisch, auth"
       ],
-      "summary": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. Awesome Systematic Trading 希望阅读中文版？点我 We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. What will…"
+      "summary": "SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen."
     }
   ],
   "read_order": [

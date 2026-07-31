@@ -100,5 +100,138 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-31T05:22:54+00:00",
+        "age_days": 0.1,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty und IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um…"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
+        "url": "https://jvn.jp/vu/JVNVU97496464/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T11:00:15+09:00",
+        "age_days": 0.24,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "2026年07月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "Huawei Cloud bets on Thailand as enterprises move from AI pilots to production",
+        "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T02:11:14+00:00",
+        "age_days": 0.23,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Huawei Cloud has launched its agentic AI infrastructure in Thailand and opened beta testing for CodeArts Agent, a software development tool that uses AI agents to generate code, answer engineering questions and automate parts of the development process. The announcements were made at Huawei Cloud Summit Thailand 2026…"
+      },
+      {
+        "title": "シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題",
+        "url": "https://jvn.jp/vu/JVNVU92540957/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T13:00:15+09:00",
+        "age_days": 0.15,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "シャープ株式会社が提供するネットワークスキャナーツールおよびネットワークスキャナーツールLiteの初期設定では、接続時に認証を要求せず、無制限にファイルをアップロード可能です。"
+      },
+      {
+        "title": "シャープ製および東芝テック製複合機（MFP）における複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU98759887/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T13:00:00+09:00",
+        "age_days": 0.15,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。"
+      }
+    ]
+  }
 }
