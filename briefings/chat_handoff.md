@@ -1,67 +1,18 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-30T23:56:05+00:00_
+_Generated: 2026-07-31T00:20:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `87`
+- findings: `1`
 
 ## Top Signals
 
-### 1. Pax Silica could reshape the Philippine economy, the real question is who benefits
-- source: e27 Asia Startup and Tech Feed
-- score: `22`
-- published: `2026-07-30T02:00:46+00:00`
-- url: https://e27.co/pax-silica-could-reshape-the-philippine-economy-the-real-question-is-who-benefits-20260727/
-- summary: A few years ago, selecting a location for a technology facility could be framed mainly as a commercial exercise: compare labour costs, infrastructure, incentives, logistics and market size. That calculation is becoming less straightforward. In April 2026, the…
-
-### 2. M 5.9 - 247 km NNE of Colonia, Micronesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-07-30T18:19:47.846+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000th1h
-- summary: PAGER - GREEN ShakeMap - I Time 2026-07-30 17:55:59 UTC 2026-07-30 17:55:59 UTC at epicenter Location 11.581°N 138.999°E Depth 34.51 km (21.44 mi)
-
-### 3. M 5.4 - 201 km W of Abepura, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-07-30T05:05:07.941+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu
-- summary: PAGER - GREEN ShakeMap - V Time 2026-07-30 04:42:12 UTC 2026-07-30 04:42:12 UTC at epicenter Location 2.602°S 138.821°E Depth 35.00 km (21.75 mi)
-
-### 4. MCPの大型アップデート（2026-07-28）で何が変わったか —— TypeScript SDK v2で試す
-- source: Hatena Bookmark Hotentry IT
-- score: `18`
-- published: `2026-07-30T05:23:06+00:00`
-- url: https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026
-- summary: こんにちは！ブロックチェーン×AI Agentで自律経済圏を創るKomlock labでエンジニアをしている小原（@brto_0224）です。 MCPが2026年7月28日に大型アップデートされた、という話を見かけて調べてみました。公開された2026-07-28仕様はMCP発足以来もっとも大きな仕様変更で、通信の土台が作り直されたほか、認可の強化や...
-
-### 5. Go 1.27 リリース連載：ジェネリクスメソッド (generic methods) | フューチャー技術ブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `13`
-- published: `2026-07-30T07:30:21+00:00`
-- url: https://future-architect.github.io/articles/20260730a/
-- summary: The Go gopher was designed by Renee French. Go 1.27 ブログ連載 の 3 本目です。 はじめにこんにちは。 CSIG (Cyber Security Innovation Group) の市川です。普段は、 FutureVuls の開発・運用に従事しており、最近はパフォーマンスの課題に主に取り組んでいます。 本記事では、 Go 1.27 より導入される「ジェネリッ...
-
-### 6. 駭客結合惡意廣告與 AI 平台發動 ClickFix 攻擊
-- source: TWCERT/CC Security News RSS
-- score: `13`
-- published: `2026-07-30T05:43:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-104-11064-f2fdc-1.html
-- summary: 近期資安研究人員持續觀察到 ClickFix 社交工程的攻擊活動，攻擊者透過惡意廣告（Malvertising）、釣魚郵件、偽造驗證頁面或遭入侵網站接觸使用者，並利用系統錯誤、軟體安裝或身分驗證等情境，誘導使用者自行複製及執行惡意命令。隨著生成式 AI 與 AI 開發工具快速普及，相關服務亦逐漸成為攻擊者建立社交工程情境的誘餌或載體。 ClickFix 主要利用虛假 CAPTCHA、系統錯誤或技術支援訊息，要求使用者開啟 PowerShell、Terminal 等命令列工具，將指定內容複製、貼上並執行。MITRE…
-
-### 7. Why AI literacy may become the new financial literacy
-- source: e27 Asia Startup and Tech Feed
-- score: `13`
-- published: `2026-07-30T03:07:36+00:00`
-- url: https://e27.co/why-ai-literacy-may-become-the-new-financial-literacy-20260730/
-- summary: For decades, we’ve taught financial literacy as one of life’s most important skills. Save before you spend. Build an emergency fund. Invest early. Understand compound interest. Avoid unnecessary debt. Those lessons remain just as relevant today as they were a…
-
-### 8. 生成AIにおけるHTML/画像出力の必要性と改善案としてのRHW(reviewable-html-workbench)の紹介
+### 1. Investigating three real-world incidents in our cybersecurity evaluations
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
-- published: `2026-07-30T12:42:54+00:00`
-- url: https://zenn.dev/u1/articles/rhw-reviewable-html-workbench
-- summary: 出力量が増えると何が起きるか 2026 年 4 月の CHI ワークショップで発表された研究が、この負荷の分布を実際に観察しています(Catalan et al.)。Samsung R&amp;D Institute Philippines と York University のグループが、経験 1 年未満から 10 年超まで 4 人のソフトウェアエンジニアに Cline でコード生成タスクをやらせ...
+- published: `2026-07-30T23:14:46+00:00`
+- url: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+- summary: Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evalua…
 
 END OF DOCUMENT
