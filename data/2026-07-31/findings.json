@@ -167,6 +167,30 @@
     "id": "9aaa68b96fef8be128e3"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel (ntfs3): Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1939",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-07-31T11:43:23+00:00",
+    "fetched_at": "2026-07-31T11:52:33+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dd506145e75f0470d1b1"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
     "url": "https://jvn.jp/vu/JVNVU97496464/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1417,6 +1441,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9bbc4121c7d7fdbebc9b"
+  },
+  {
+    "title": "「みいちゃんと山田さん」批判アカウントの差別心と存在否定の残酷さ｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
+    "url": "https://note.com/ganot/n/na64785a15085",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-07-31T08:19:56+00:00",
+    "fetched_at": "2026-07-31T11:52:33+00:00",
+    "summary": "本稿では、「みいちゃんと山田さん」批判アカウントに共通する分析枠組みを抽出し、「逸脱する存在」としてみいちゃんの生き方を対比する。次に、障害者セックスワーカーと接してきた鈴木大介氏の発言を取り上げ、批判アカウントの抑圧的フレームを批判する。最後に鈴木氏の作品への要望を示す。 1 批判アカウントに共通...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0ff346d809ee68ad34d1"
   },
   {
     "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",

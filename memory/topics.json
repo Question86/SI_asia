@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-07-31T11:10:23+00:00",
+  "generated_at": "2026-07-31T11:53:03+00:00",
   "topics": {
     "ai": [
       {
@@ -265,6 +265,13 @@
         "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel (ntfs3): Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-07-31T11:43:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1939"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-07-31T11:00:15+09:00",
@@ -319,13 +326,6 @@
         "published_at": "2026-07-31T10:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU92804348/"
-      },
-      {
-        "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94952030/"
       }
     ],
     "general": [

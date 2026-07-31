@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T11:10:23+00:00_
+_Generiert: 2026-07-31T11:53:03+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+65 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Huawei Cloud has launched its agentic AI infrastructure in Thailand and opened beta testing for CodeArts Agent, a software development tool that uses AI agents to generate code, answer engineering questions and automate parts of the development process. The announcements were made at Huawei Cloud Summit Thailand 2026 in Bangkok, where the company gathered government […] The post Huawei Cloud bets on Thailand as ente…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [mittel] Linux Kernel (ntfs3): Schwachstelle ermöglicht Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1939)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-31T11:43:23+00:00`, fetched `2026-07-31T11:52:33+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU97496464/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-07-31T11:00:15+09:00`, fetched `2026-07-31T02:34:55+00:00`
@@ -74,15 +83,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Eiin Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere, nicht näher bezeichnete Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1827)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-07-31T10:54:17+00:00`, fetched `2026-07-31T11:09:53+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht bekannte Auswirkungen zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 287 km SW of Banda Aceh, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
