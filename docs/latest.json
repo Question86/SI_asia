@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-31T09:21:00+00:00",
-  "run_id": "2026-07-31T09:21:00+00:00",
+  "generated_at": "2026-07-31T10:15:50+00:00",
+  "run_id": "2026-07-31T10:15:50+00:00",
   "date": "2026-07-31",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 4,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
-    "medium": 19,
-    "observe": 35,
-    "source_errors": 0
+    "medium": 21,
+    "observe": 37,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -427,6 +427,52 @@
         "id": "431d479f81162f4b9741"
       },
       {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2597",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:17:53+00:00",
+        "fetched_at": "2026-07-31T10:15:14+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f4b3e23bb703521fe172"
+      },
+      {
+        "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2598",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-07-31T09:17:53+00:00",
+        "fetched_at": "2026-07-31T10:15:14+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2bb435d393f025bc89b9"
+      },
+      {
         "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
         "source": "BSI CERT-Bund Security Advisories",
@@ -691,6 +737,28 @@
           "soy"
         ],
         "id": "7d69abcb0d77930901a7"
+      },
+      {
+        "title": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2129506.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-31T04:32:26+00:00",
+        "fetched_at": "2026-07-31T10:15:14+00:00",
+        "summary": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aed7ecfe95db4b2a5b49"
       },
       {
         "title": "Why concentration disclosure is key to ASEAN’s financial stability",
@@ -1310,6 +1378,27 @@
         "id": "4da00d38e7fa0c9901f1"
       },
       {
+        "title": "「かつてのMP3プレーヤーを思わせる」スティック型DAP、FIIO「Snowsky ECHO NANO」。約1.3万円、6色展開",
+        "url": "https://av.watch.impress.co.jp/docs/news/2129333.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-31T01:36:39+00:00",
+        "fetched_at": "2026-07-31T10:15:14+00:00",
+        "summary": "「かつてのMP3プレーヤーを思わせる」スティック型DAP、FIIO「Snowsky ECHO NANO」。約1.3万円、6色展開",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b47d9dad1695877548b6"
+      },
+      {
         "title": "はやぶさ2、トリフネへの最接近距離は400mと判明 フライバイ探査で世界記録",
         "url": "https://www.watch.impress.co.jp/docs/news/2129332.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1793,6 +1882,52 @@
       "id": "431d479f81162f4b9741"
     },
     {
+      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2597",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:17:53+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f4b3e23bb703521fe172"
+    },
+    {
+      "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2598",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-07-31T09:17:53+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2bb435d393f025bc89b9"
+    },
+    {
       "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2055,6 +2190,28 @@
         "soy"
       ],
       "id": "7d69abcb0d77930901a7"
+    },
+    {
+      "title": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2129506.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T04:32:26+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aed7ecfe95db4b2a5b49"
     },
     {
       "title": "Why concentration disclosure is key to ASEAN’s financial stability",
@@ -2674,6 +2831,27 @@
       "id": "4da00d38e7fa0c9901f1"
     },
     {
+      "title": "「かつてのMP3プレーヤーを思わせる」スティック型DAP、FIIO「Snowsky ECHO NANO」。約1.3万円、6色展開",
+      "url": "https://av.watch.impress.co.jp/docs/news/2129333.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T01:36:39+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "「かつてのMP3プレーヤーを思わせる」スティック型DAP、FIIO「Snowsky ECHO NANO」。約1.3万円、6色展開",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b47d9dad1695877548b6"
+    },
+    {
       "title": "はやぶさ2、トリフネへの最接近距離は400mと判明 フライバイ探査で世界記録",
       "url": "https://www.watch.impress.co.jp/docs/news/2129332.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2759,50 +2937,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 287 km SW of Banda Aceh, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-07-31T08:48:47.040+00:00",
-      "fetched_at": "2026-07-31T09:20:29+00:00",
-      "summary": "Time 2026-07-31 08:31:28 UTC 2026-07-31 08:31:28 UTC at epicenter Location 4.090°N 93.181°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "35e35078072d73362209"
-    },
-    {
-      "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
+      "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2598",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-31T09:15:14+00:00",
-      "fetched_at": "2026-07-31T09:20:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann.",
+      "published_at": "2026-07-31T09:17:53+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2816,16 +2957,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ff732428c34e67a87341"
+      "id": "2bb435d393f025bc89b9"
     },
     {
-      "title": "[UPDATE] [hoch] Samba: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
+      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2597",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-07-31T09:15:12+00:00",
-      "fetched_at": "2026-07-31T09:20:29+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samba ausnutzen, um vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder Daten zu manipulieren.",
+      "published_at": "2026-07-31T09:17:53+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2839,51 +2980,60 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1e17cdfe16f2d162e3a3"
+      "id": "f4b3e23bb703521fe172"
     },
     {
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "source": "OpenAI News RSS",
+      "title": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2129506.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "fetched_at": "2026-07-31T09:20:29+00:00",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "published_at": "2026-07-31T04:32:26+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "\"先に言っといて\"はAIにも効く。OpenAIの新文字起こしは誤認識が半減",
       "matched_keywords": [
-        "AI/KI",
+        "Hatena",
+        "hotentry",
         "OpenAI"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c892188f3856ca4fd1f0"
+      "id": "aed7ecfe95db4b2a5b49"
     },
     {
-      "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
-      "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
-      "source": "heise Security Alerts",
+      "title": "「かつてのMP3プレーヤーを思わせる」スティック型DAP、FIIO「Snowsky ECHO NANO」。約1.3万円、6色展開",
+      "url": "https://av.watch.impress.co.jp/docs/news/2129333.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T09:02:00.000+00:00",
-      "fetched_at": "2026-07-31T09:20:29+00:00",
-      "summary": "IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.",
+      "published_at": "2026-07-31T01:36:39+00:00",
+      "fetched_at": "2026-07-31T10:15:14+00:00",
+      "summary": "「かつてのMP3プレーヤーを思わせる」スティック型DAP、FIIO「Snowsky ECHO NANO」。約1.3万円、6色展開",
       "matched_keywords": [
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "69d9ffee711b2a15b861"
+      "id": "b47d9dad1695877548b6"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fbf66616c10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
