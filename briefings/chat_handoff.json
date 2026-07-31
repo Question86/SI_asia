@@ -1,19 +1,49 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-31T01:39:39+00:00",
+  "generated_at": "2026-07-31T02:35:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 15,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
-    "medium": 5,
-    "observe": 3
+    "medium": 11,
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "different-ai/openwork",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 23,
+      "url": "https://github.com/different-ai/openwork",
+      "summary": "The open-source alternative to Claude Cowork (powered by opencode) OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork…",
+      "section": "medium"
+    },
+    {
+      "title": "Huawei Cloud bets on Thailand as enterprises move from AI pilots to production",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T02:11:14+00:00",
+      "relevance_score": 18,
+      "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
+      "summary": "Huawei Cloud has launched its agentic AI infrastructure in Thailand and opened beta testing for CodeArts Agent, a software development tool that uses AI agents to generate code, answer engineering questions and automate parts of the development process. The a…",
+      "section": "medium"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-07-31T11:00:15+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU97496464/",
+      "summary": "2026年07月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
     {
       "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -25,34 +55,14 @@
       "section": "medium"
     },
     {
-      "title": "Your real customer might be procurement, legal, or the CFO, not the user",
+      "title": "The outlier advantage: Why your startup needs glitch talent",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-31T01:15:31+00:00",
-      "relevance_score": 15,
-      "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
-      "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something peopl…",
-      "section": "medium"
-    },
-    {
-      "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-31T10:00:15+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU92804348/",
-      "summary": "ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
-      "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-07-31T10:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU94952030/",
-      "summary": "baserCMSユーザー会が提供するBaserCMSには、CSVファイルインジェクションの脆弱性が存在します。",
-      "section": "medium"
+      "published_at": "2026-07-31T02:15:37+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/the-outlier-advantage-why-your-startup-needs-glitch-talent-20260623/",
+      "summary": "In a world of hyper-optimisation, startups are accidentally engineering themselves into a corner. We use AI to remove variance, to predict customer behaviour, and to standardise our outputs. But as behavioural economics research from 2026 warns, once behaviou…",
+      "section": "observe"
     },
     {
       "title": "Why concentration disclosure is key to ASEAN’s financial stability",
@@ -75,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Stacked pull requests are now in public preview - GitHub Changelog",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Huawei launches Thailand AI Ecosystem Initiative to support ASEAN hub ambition",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-07-30T16:53:18+00:00",
-      "relevance_score": 8,
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "summary": "Menu. Currently selected: Get started with the CLI extension Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can ind…",
+      "published_at": "2026-07-31T02:25:44+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/",
+      "summary": "Thailand’s bid to become a regional centre for artificial intelligence is moving from policy ambition to ecosystem-building. At the Huawei Thailand Digital & AI Summit 2026 in Bangkok, Huawei joined Thai customers, local large language model developers, AI as…",
       "section": "observe"
     }
   ],
@@ -90,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92804348/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T10:00:15+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU94952030/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T10:00:00+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "baserCMSユーザー会が提供するBaserCMSには、CSVファイルインジェクションの脆弱性が存在します。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 42.0,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -7.3 for 42.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-07-30T23:14:46+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 24.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unau..."
-      },
-      {
-        "title": "Your real customer might be procurement, legal, or the CFO, not the user",
-        "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-31T01:15:31+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "axiom",
-          "macro"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth…"
-      }
-    ]
-  }
+  ]
 }
