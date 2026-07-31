@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-07-31T03:51:13+00:00_
+_Generated: 2026-07-31T05:05:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `34`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-07-31T03:51:13+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-07-31 00:58:44 UTC 2026-07-31 00:58:44 UTC at epicenter Location 8.335°S 74.435°W Depth 154.36 km (95.91 mi)
 
-### 5. The outlier advantage: Why your startup needs glitch talent
+### 5. AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-07-31T03:22:55+00:00`
+- url: https://takoratta.hatenablog.com/entry/ai-amplifier-radical-candor
+- summary: 昨日、Google Cloud Next Tokyoで話す機会があった。そこで触れた話と、セッションが終わったあとに聞かれて考え込んでしまったことを、忘れないうちに書いておく。 明らかな間違い 少し前まで、AIは堂々と嘘をついた。存在しないAPIを呼び出し、動かないコードを平然と出してきた。だからこそ、指摘は簡単だった。実行...
+
+### 6. The outlier advantage: Why your startup needs glitch talent
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-07-31T02:15:37+00:00`
 - url: https://e27.co/the-outlier-advantage-why-your-startup-needs-glitch-talent-20260623/
 - summary: In a world of hyper-optimisation, startups are accidentally engineering themselves into a corner. We use AI to remove variance, to predict customer behaviour, and to standardise our outputs. But as behavioural economics research from 2026 warns, once behaviou…
 
-### 6. Why concentration disclosure is key to ASEAN’s financial stability
+### 7. Why concentration disclosure is key to ASEAN’s financial stability
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-07-31T01:15:45+00:00`
 - url: https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/
 - summary: On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern…
 
-### 7. Investigating three real-world incidents in our cybersecurity evaluations
+### 8. Investigating three real-world incidents in our cybersecurity evaluations
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-07-30T23:14:46+00:00`
 - url: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 - summary: Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evalua…
-
-### 8. Why Southeast Asian enterprises need AI governance before scaling generative AI
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-07-31T03:00:07+00:00`
-- url: https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/
-- summary: Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T03:51:13+00:00_
+_Generiert: 2026-07-31T05:05:26+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+34 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -57,23 +57,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth will follow. In […] The post Your real customer might be procurement, legal, or the CFO, not the use…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SGLangにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90278463/)
+- **シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92540957/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-31T11:00:00+09:00`, fetched `2026-07-31T02:34:55+00:00`
+  - Zeit: published `2026-07-31T13:00:15+09:00`, fetched `2026-07-31T05:04:58+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Kurz: シャープ株式会社が提供するネットワークスキャナーツールおよびネットワークスキャナーツールLiteの初期設定では、接続時に認証を要求せず、無制限にファイルをアップロード可能です。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92804348/)
+- **シャープ製および東芝テック製複合機（MFP）における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98759887/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-07-31T10:00:15+09:00`, fetched `2026-07-31T01:39:10+00:00`
+  - Zeit: published `2026-07-31T13:00:00+09:00`, fetched `2026-07-31T05:04:58+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。
+  - Kurz: シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Southeast Asia doesn’t have an AI adoption problem, it has a scaling problem** — Score 14, opportunity — [Quelle](https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.** — Score 13, observation — [Quelle](https://takoratta.hatenablog.com/entry/ai-amplifier-radical-candor)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-31T03:22:55+00:00`, fetched `2026-07-31T05:04:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: 昨日、Google Cloud Next Tokyoで話す機会があった。そこで触れた話と、セッションが終わったあとに聞かれて考え込んでしまったことを、忘れないうちに書いておく。 明らかな間違い 少し前まで、AIは堂々と嘘をついた。存在しないAPIを呼び出し、動かないコードを平然と出してきた。だからこそ、指摘は簡単だった。実行...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The outlier advantage: Why your startup needs glitch talent** — Score 13, observation — [Quelle](https://e27.co/the-outlier-advantage-why-your-startup-needs-glitch-talent-20260623/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-31T02:15:37+00:00`, fetched `2026-07-31T02:34:55+00:00`
@@ -123,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unau...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Southeast Asian enterprises need AI governance before scaling generative AI** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/)
+- **iWOW’s US$11M placement tests investor appetite for Singapore’s ageing economy** — Score 10, observation — [Quelle](https://e27.co/iwows-us11m-placement-tests-investor-appetite-for-singapores-ageing-economy-20260731/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-31T03:00:07+00:00`, fetched `2026-07-31T03:50:41+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims processing. Logistics and manufacturing companies are adopting AI for operations optimisation. The first phase of enterprise AI was about access: How can employ…
+  - Zeit: published `2026-07-31T04:20:21+00:00`, fetched `2026-07-31T05:04:58+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: For a small-cap company on the Singapore Exchange’s Catalist board, iWOW Technology’s latest fundraising could have passed as a fairly standard capital markets move. The company placed 66.7 million new shares at US$0.17 each, raising gross proceeds of about US$11.1 million. But the investor list, timing and stated use of funds point to something more […] The post iWOW’s US$11M placement tests investor appetite for S…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WhiskeySockets/Baileys** — Score 10, observation — [Quelle](https://github.com/WhiskeySockets/Baileys)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 前書き コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか 社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。 ドキュメントの中身自体は正しく引けるも...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Stacked pull requests are now in public preview - GitHub Changelog** — Score 8, observation — [Quelle](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T16:53:18+00:00`, fetched `2026-07-31T00:58:17+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: Menu. Currently selected: Get started with the CLI extension Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can independently review and check each pull ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How avatarin built a 24/7 retail agent with GPT-Realtime** — Score 8, observation — [Quelle](https://openai.com/index/avatarin)
   - Quelle: OpenAI News RSS / `rss`
