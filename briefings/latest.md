@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T16:52:48+00:00_
+_Generiert: 2026-07-31T17:25:40+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+82 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
