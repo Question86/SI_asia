@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-31T05:05:26+00:00",
+  "generated_at": "2026-07-31T06:14:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 6,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 13,
-    "observe": 21
+    "medium": 15,
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/different-ai/openwork",
       "summary": "The open-source alternative to Claude Cowork (powered by opencode) OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork…",
+      "section": "medium"
+    },
+    {
+      "title": "Thinking Machines joins Temus group in regional push for production-grade AI",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-07-31T05:39:20+00:00",
+      "relevance_score": 22,
+      "url": "https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/",
+      "summary": "For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal h…",
       "section": "medium"
     },
     {
@@ -45,14 +55,14 @@
       "section": "medium"
     },
     {
-      "title": "M 5.6 - 13 km ENE of San Fernando, Peru",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T01:35:07.339+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-07-31 00:58:44 UTC 2026-07-31 00:58:44 UTC at epicenter Location 8.335°S 74.435°W Depth 154.36 km (95.91 mi)",
-      "section": "medium"
+      "published_at": "2026-07-31T04:28:03+00:00",
+      "relevance_score": 13,
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "summary": "スクウェア・エニックスが、ゲームの品質を検証するQAテストの自動化に米GoogleのAI「Gemini」を活用している。同社の荒牧岳志氏（AI＆エンジン開発ディビジョン ジェネラル・マネージャー）が7月30日、「Google Cloud Next Tokyo '26」の基調講演で披露した。AIがゲーム画面を見て状況を把握し、コントローラーを自動で...",
+      "section": "observe"
     },
     {
       "title": "AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/",
       "summary": "On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern…",
       "section": "observe"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-30T23:14:46+00:00",
-      "relevance_score": 12,
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "summary": "Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evalua…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
-        "url": "https://jvn.jp/vu/JVNVU97496464/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T11:00:15+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年07月30日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Huawei Cloud bets on Thailand as enterprises move from AI pilots to production",
-        "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-07-31T02:11:14+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Huawei Cloud has launched its agentic AI infrastructure in Thailand and opened beta testing for CodeArts Agent, a software development tool that uses AI agents to generate code, answer engineering questions and automate parts of the development process. The announcements were made at Huawei Cloud Summit Thailand 2026…"
-      },
-      {
-        "title": "シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題",
-        "url": "https://jvn.jp/vu/JVNVU92540957/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T13:00:15+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "シャープ株式会社が提供するネットワークスキャナーツールおよびネットワークスキャナーツールLiteの初期設定では、接続時に認証を要求せず、無制限にファイルをアップロード可能です。"
-      },
-      {
-        "title": "シャープ製および東芝テック製複合機（MFP）における複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU98759887/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T13:00:00+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "SGLangにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90278463/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-07-31T11:00:00+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

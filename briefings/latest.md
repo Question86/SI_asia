@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T05:05:26+00:00_
+_Generiert: 2026-07-31T06:14:20+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+40 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: The open-source alternative to Claude Cowork (powered by opencode) OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible agent and reuse the same skills, MCPs, and connected services across your tools, teammates, and machine…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Thinking Machines joins Temus group in regional push for production-grade AI** — Score 22, mixed — [Quelle](https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-07-31T05:39:20+00:00`, fetched `2026-07-31T06:13:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, Climate/Disaster Infrastructure, Southeast Asia, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal hackathons to show what generative AI can do. Also Read: Southeast Asia doesn’t have an AI adoption problem, it […] The post Thinking Machines joins Temus group…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - **Huawei Cloud bets on Thailand as enterprises move from AI pilots to production** — Score 18, opportunity — [Quelle](https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-31T02:11:14+00:00`, fetched `2026-07-31T02:34:55+00:00`
@@ -136,15 +145,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Southeast Asia doesn’t have an AI adoption problem, it has a scaling problem** — Score 14, opportunity — [Quelle](https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-07-31T02:15:03+00:00`, fetched `2026-07-31T02:34:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, Southeast Asia
+- **[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-07-31T05:22:54+00:00`, fetched `2026-07-31T06:13:49+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Every quarter, I sit down with the operating reviews of businesses that use my scaling framework. Over the last year, one pattern has become impossible to ignore. The AI tooling line in these reviews has grown fast. New copilots, new agents, new automation layers stacked on top of CRMs and ERPs that have not changed […] The post Southeast Asia doesn’t have an AI adoption problem, it has a scaling problem appeared fi…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty und IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/AI-For-Beginners** — Score 14, observation — [Quelle](https://github.com/microsoft/AI-For-Beginners)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-07-31T02:34:55+00:00`
@@ -157,6 +166,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走** — Score 13, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-31T04:28:03+00:00`, fetched `2026-07-31T06:13:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: スクウェア・エニックスが、ゲームの品質を検証するQAテストの自動化に米GoogleのAI「Gemini」を活用している。同社の荒牧岳志氏（AI＆エンジン開発ディビジョン ジェネラル・マネージャー）が7月30日、「Google Cloud Next Tokyo '26」の基調講演で披露した。AIがゲーム画面を見て状況を把握し、コントローラーを自動で...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.** — Score 13, observation — [Quelle](https://takoratta.hatenablog.com/entry/ai-amplifier-radical-candor)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-31T03:22:55+00:00`, fetched `2026-07-31T05:04:58+00:00`
@@ -211,15 +229,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: Socket-based TS/JavaScript API for WhatsApp Web Caution NOTICE OF BREAKING CHANGE. As of 7.0.0, multiple breaking changes were introduced into the library. Please check out https://whiskey.so/migrate-latest for more information. Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API. Join the WhiskeySockets community via the link: https://whiskey.so/discord Usage & Guide Important…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **コードベースのナレッジ化なら、LLM Wikiで十分かもしれない - Qiita** — Score 9, observation — [Quelle](https://qiita.com/Syoitu/items/ff38655fed51a2920910)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-07-30T22:17:23+00:00`, fetched `2026-07-31T03:50:41+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 前書き コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか 社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。 ドキュメントの中身自体は正しく引けるも...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How avatarin built a 24/7 retail agent with GPT-Realtime** — Score 8, observation — [Quelle](https://openai.com/index/avatarin)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-30T00:00:00+00:00`, fetched `2026-07-31T02:34:55+00:00`
@@ -229,6 +238,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/laws)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-31T06:02:16+00:00`, fetched `2026-07-31T06:13:49+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル社会構想会議の開催についての資料を一部改正しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-concept)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-07-31T06:00:00+00:00`, fetched `2026-07-31T06:13:49+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル社会構想会議の開催についての資料を一部改正しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年7月31日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260731-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-07-31T03:18:42+00:00`, fetched `2026-07-31T03:50:41+00:00`
@@ -237,15 +264,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年7月31日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年7月31日、8月3日、8月4日付デジタル庁人事を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/e6905740-7ff5-41d7-ba2b-5830458ec070)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-31T02:00:00+00:00`, fetched `2026-07-31T02:34:55+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年7月31日、8月3日、8月4日付デジタル庁人事を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **paperswithbacktest/awesome-systematic-trading** — Score 4, observation — [Quelle](https://github.com/paperswithbacktest/awesome-systematic-trading)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -260,6 +278,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
