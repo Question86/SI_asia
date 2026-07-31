@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T21:33:51+00:00",
-  "run_id": "2026-07-31T21:33:51+00:00",
+  "generated_at": "2026-07-31T21:57:49+00:00",
+  "run_id": "2026-07-31T21:57:49+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 0,
     "medium": 28,
-    "observe": 62,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -2147,6 +2147,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f8f97f9b05615d81a27f"
+      },
+      {
+        "title": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2129514.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-31T06:10:39+00:00",
+        "fetched_at": "2026-07-31T21:57:19+00:00",
+        "summary": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4138206a1b3aa7892dd1"
       },
       {
         "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",
@@ -4415,6 +4436,27 @@
       "id": "f8f97f9b05615d81a27f"
     },
     {
+      "title": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2129514.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T06:10:39+00:00",
+      "fetched_at": "2026-07-31T21:57:19+00:00",
+      "summary": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4138206a1b3aa7892dd1"
+    },
+    {
       "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",
       "url": "https://forest.watch.impress.co.jp/docs/news/2129478.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4563,26 +4605,25 @@
   ],
   "new_findings": [
     {
-      "title": "『ドンキーコング バナンザ』おもしろいバグは仕様にしちゃう。マイナスを減らしプラスを伸ばすQA（品質保証）とデバッグ環境作り【CEDEC2026】 | ゲーム・エンタメ最新情報のファミ通.com",
-      "url": "https://www.famitsu.com/article/202607/82908",
+      "title": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2129514.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T09:06:17+00:00",
-      "fetched_at": "2026-07-31T21:33:22+00:00",
-      "summary": "2026年7月22日から7月24日にかけての3日間で行われた、“CEDEC2026（Computer Entertainment Developers Conference 2026）”。本イベントは、CESA（コンピュータエンターテインメント協会）が主催する、日本最大のゲーム開発者向けカンファレンスだ。 本稿では、その中で行われた“『ドンキーコング バナンザ』の破壊を推...",
+      "published_at": "2026-07-31T06:10:39+00:00",
+      "fetched_at": "2026-07-31T21:57:19+00:00",
+      "summary": "Claudeが演習と勘違いし実在システムに攻撃。原因は設定ミス",
       "matched_keywords": [
-        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d4edfa5ded3a60e9f7a4"
+      "id": "4138206a1b3aa7892dd1"
     }
   ],
   "source_errors": [],
