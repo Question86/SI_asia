@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T19:06:15+00:00",
-  "run_id": "2026-07-31T19:06:15+00:00",
+  "generated_at": "2026-07-31T19:44:02+00:00",
+  "run_id": "2026-07-31T19:44:02+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 85,
     "displayed_findings": 85,
     "high": 0,
@@ -4315,29 +4315,7 @@
       "id": "add1ba2c3574ffd9a904"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-07-31T18:11:50+00:00",
-      "fetched_at": "2026-07-31T19:05:44+00:00",
-      "summary": "![A configuration window for an enterprise team called Data team with the “Default models” tab selected, listing AI models and showing a status menu with “Enabled” selected and “Optional” as… The post Enterprise teams model policy targeting in public preview appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c07f50d378ca03a7ed5b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
