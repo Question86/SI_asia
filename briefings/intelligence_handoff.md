@@ -1,18 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-07-31T01:01:02Z_
+_Generated: 2026-07-31T01:53:40Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-07-31T10:00:15+09:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/vu/JVNVU92804348/
+
+### BaserCMSにおけるCSVファイルインジェクションの脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-07-31T10:00:00+09:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/vu/JVNVU94952030/
 
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `41.96`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `42.0`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -7.3 for 42.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,50 +42,90 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-07-30T23:14:46+00:00` / age_days `0.07`
+- Published: `2026-07-30T23:14:46+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
 - Quelle: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
 
+### Your real customer might be procurement, legal, or the CFO, not the user
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-07-31T01:15:31+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
+- Quelle: https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/
+
+### M 5.6 - 13 km ENE of San Fernando, Peru
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.0`
+- Published: `2026-07-31T01:35:07.339+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k
+
 ### Stacked pull requests are now in public preview - GitHub Changelog
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-07-30T16:53:18+00:00` / age_days `0.34`
+- Published: `2026-07-30T16:53:18+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
 
+### How to use AI to become a better investor
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-07-31T01:30:11+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/
+
+### Why concentration disclosure is key to ASEAN’s financial stability
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `4.0`
+- Published: `2026-07-31T01:15:45+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/
+
 ### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `40.92`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `40.96`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 40.9d old signal
+- Warum: momentum delta +1, aging penalty -16.0 for 41.0d old signal
 - Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
 
 ### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `40.92`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `40.96`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 40.9d old signal
+- Warum: momentum delta +1, aging penalty -16.0 for 41.0d old signal
 - Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
 
 ### 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `40.92`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `40.96`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 40.9d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 41.0d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
 
 END OF DOCUMENT

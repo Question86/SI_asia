@@ -90,5 +90,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "ロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROにおける複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU92804348/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T10:00:15+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "ECOVACS ROBOTICSが開発し、日本国内ではHellohas Robotics株式会社が提供するロボット掃除機DEEBOT PRO M1、DEEBOT PRO K1VACおよびスマートフォンアプリECOVACS PROには、複数の脆弱性が存在します。"
+      },
+      {
+        "title": "BaserCMSにおけるCSVファイルインジェクションの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94952030/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-07-31T10:00:00+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "baserCMSユーザー会が提供するBaserCMSには、CSVファイルインジェクションの脆弱性が存在します。"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 42.0,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -7.3 for 42.0d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-07-30T23:14:46+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 24.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security"
+        ],
+        "summary": "Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unau..."
+      },
+      {
+        "title": "Your real customer might be procurement, legal, or the CFO, not the user",
+        "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-07-31T01:15:31+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "axiom",
+          "macro"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth…"
+      }
+    ]
+  }
 }
