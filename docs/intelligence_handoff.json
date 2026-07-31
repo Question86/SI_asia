@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-07-31T04:13:47Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SGLangにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-07-31T05:28:39Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,59 @@
   ],
   "top_dynamics": [
     {
+      "title": "シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題",
+      "url": "https://jvn.jp/vu/JVNVU92540957/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-31T13:00:15+09:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "シャープ株式会社が提供するネットワークスキャナーツールおよびネットワークスキャナーツールLiteの初期設定では、接続時に認証を要求せず、無制限にファイルをアップロード可能です。"
+    },
+    {
+      "title": "シャープ製および東芝テック製複合機（MFP）における複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98759887/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-07-31T13:00:00+09:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "シャープ製および東芝テック製の複合機（MFP）には、複数の脆弱性が存在します。"
+    },
+    {
       "title": "SGLangにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90278463/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -39,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU92804348/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:15+09:00",
-      "age_days": 0.13,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -64,7 +112,7 @@
       "url": "https://jvn.jp/vu/JVNVU94952030/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -88,7 +136,7 @@
       "url": "https://jvn.jp/vu/JVNVU97496464/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:15+09:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -113,7 +161,7 @@
       "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:11:14+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -141,7 +189,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 42.09,
+      "age_days": 42.15,
       "topics": [
         "ai"
       ],
@@ -170,7 +218,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -197,7 +245,7 @@
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T23:14:46+00:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -222,7 +270,7 @@
       "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:15:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -243,37 +291,11 @@
       "summary": "One of the most persistent mistakes in product and growth strategy is the assumption that the person using the product is the person who matters most in the buying decision. That belief is comforting because it gives teams a clean story. Build something people love, remove friction, improve the experience, and growth…"
     },
     {
-      "title": "Southeast Asia doesn’t have an AI adoption problem, it has a scaling problem",
-      "url": "https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-31T02:15:03+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Every quarter, I sit down with the operating reviews of businesses that use my scaling framework. Over the last year, one pattern has become impossible to ignore. The AI tooling line in these reviews has grown fast. New copilots, new agents, new automation layers stacked on top of CRMs and ERPs that have not changed […"
-    },
-    {
       "title": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -293,33 +315,6 @@
         "security high-signal: rce"
       ],
       "summary": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. Awesome Systematic Trading 希望阅读中文版？点我 We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. What will…"
-    },
-    {
-      "title": "Huawei launches Thailand AI Ecosystem Initiative to support ASEAN hub ambition",
-      "url": "https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-31T02:25:44+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local, regional",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Thailand’s bid to become a regional centre for artificial intelligence is moving from policy ambition to ecosystem-building. At the Huawei Thailand Digital & AI Summit 2026 in Bangkok, Huawei joined Thai customers, local large language model developers, AI associations and universities to launch the Thailand AI Ecosys…"
     }
   ],
   "read_order": [
