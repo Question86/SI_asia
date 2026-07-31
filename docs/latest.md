@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T14:43:23+00:00_
+_Generiert: 2026-07-31T15:31:24+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+76 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -249,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 盛源｜DMS+ (非行動端) - Use of Hard-coded Credentials
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Building abundant intelligence** — Score 10, observation — [Quelle](https://openai.com/index/building-abundant-intelligence)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-31T15:00:00+00:00`, fetched `2026-07-31T15:30:53+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Michelle W Bowman: Modernizing financial regulation** — Score 10, opportunity — [Quelle](https://www.bis.org/review/r260730j.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-07-31T09:43:00+00:00`, fetched `2026-07-31T13:10:49+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For a small-cap company on the Singapore Exchange’s Catalist board, iWOW Technology’s latest fundraising could have passed as a fairly standard capital markets move. The company placed 66.7 million new shares at US$0.17 each, raising gross proceeds of about US$11.1 million. But the investor list, timing and stated use of funds point to something more […] The post iWOW’s US$11M placement tests investor appetite for S…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **WhiskeySockets/Baileys** — Score 10, observation — [Quelle](https://github.com/WhiskeySockets/Baileys)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-31T02:34:55+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
-  - Kurz: Socket-based TS/JavaScript API for WhatsApp Web Caution NOTICE OF BREAKING CHANGE. As of 7.0.0, multiple breaking changes were introduced into the library. Please check out https://whiskey.so/migrate-latest for more information. Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API. Join the WhiskeySockets community via the link: https://whiskey.so/discord Usage & Guide Important…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T14:43:23+00:00",
-  "run_id": "2026-07-31T14:43:23+00:00",
+  "generated_at": "2026-07-31T15:31:24+00:00",
+  "run_id": "2026-07-31T15:31:24+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 26,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1034,6 +1034,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ed78b5761d1f50dc6d53"
+      },
+      {
+        "title": "Building abundant intelligence",
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-07-31T15:00:00+00:00",
+        "fetched_at": "2026-07-31T15:30:53+00:00",
+        "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c474e36d7ed902c24c7c"
       },
       {
         "title": "Michelle W Bowman: Modernizing financial regulation",
@@ -2889,6 +2910,27 @@
       "id": "ed78b5761d1f50dc6d53"
     },
     {
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "fetched_at": "2026-07-31T15:30:53+00:00",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c474e36d7ed902c24c7c"
+    },
+    {
       "title": "Michelle W Bowman: Modernizing financial regulation",
       "url": "https://www.bis.org/review/r260730j.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3735,7 +3777,29 @@
       "id": "add1ba2c3574ffd9a904"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "fetched_at": "2026-07-31T15:30:53+00:00",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c474e36d7ed902c24c7c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
