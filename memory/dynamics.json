@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-31T07:40:45Z",
+  "generated_at": "2026-07-31T08:39:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 3,
+      "krass": 4,
       "strong": 14,
-      "watch": 4,
-      "quiet": 19
+      "watch": 6,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 17,
-      "watch": 4,
-      "quiet": 19
+      "strong": 18,
+      "watch": 6,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92540957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU98759887/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU90278463/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU92804348/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:15+09:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -120,7 +120,7 @@
       "url": "https://jvn.jp/vu/JVNVU94952030/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T05:22:54+00:00",
-      "age_days": 0.1,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -166,11 +166,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty und IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um…"
     },
     {
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "age_days": 0,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年07月30日）",
       "url": "https://jvn.jp/vu/JVNVU97496464/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:15+09:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -195,7 +221,7 @@
       "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:11:14+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -223,7 +249,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 42.24,
+      "age_days": 42.28,
       "topics": [
         "ai"
       ],
@@ -242,7 +268,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -7.4 for 42.2d old signal",
+        "aging penalty -7.4 for 42.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -252,7 +278,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -279,7 +305,7 @@
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T23:14:46+00:00",
-      "age_days": 0.35,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -304,7 +330,7 @@
       "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T07:11:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -329,7 +355,7 @@
       "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T06:24:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -355,7 +381,7 @@
       "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:15:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -380,7 +406,7 @@
       "url": "https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:15:03+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -406,7 +432,7 @@
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -432,7 +458,7 @@
       "url": "https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:25:44+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -459,7 +485,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T01:35:07.339+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -483,7 +509,7 @@
       "url": "https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T05:39:20+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro",
@@ -507,11 +533,59 @@
       "summary": "For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal hackathons to show what generative AI can do. Also Read: Sout…"
     },
     {
+      "title": "Euro area bank interest rate statistics: June 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html",
+      "source": "ECB Statistical Press Releases",
+      "published_at": "2026-07-31T08:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Euro area bank interest rate statistics: June 2026"
+    },
+    {
+      "title": "M 4.5 - Fiji region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th63",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-31T07:49:04.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-07-31 07:32:54 UTC 2026-07-31 07:32:54 UTC at epicenter Location 19.267°S 177.465°W Depth 581.05 km (361.05 mi)"
+    },
+    {
       "title": "M 5.0 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T06:48:01.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -535,7 +609,7 @@
       "url": "https://e27.co/mid-year-2026-look-at-malaysias-digital-and-technology-regulatory-updates-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:00:05+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security",
@@ -557,11 +631,59 @@
       "summary": "The first seven months of 2026 have produced a volume of legislative activity that technology companies in Malaysia will reckon with for years. Lawmakers passed laws on cybercrime to promote online safety and competition, often within days of each other. Other bills in the pipeline include AI governance and amendments…"
     },
     {
+      "title": "令和8年熊本地震に関する対応状況について（7月31日）",
+      "url": "https://www.digital.go.jp/news/183780a9-3477-443f-91c7-5cff13c5e710",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-31T07:48:54+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "令和8年熊本地震に関する対応状況について（7月31日）"
+    },
+    {
+      "title": "BIS global liquidity indicators at end-March 2026",
+      "url": "https://www.bis.org/statistics/gli2607.htm",
+      "source": "BIS Statistical Releases",
+      "published_at": "2026-07-31T09:03:00+00:00",
+      "age_days": 0,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace."
+    },
+    {
       "title": "Stacked pull requests are now in public preview - GitHub Changelog",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T16:53:18+00:00",
-      "age_days": 0.62,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -585,7 +707,7 @@
       "url": "https://e27.co/iwows-us11m-placement-tests-investor-appetite-for-singapores-ageing-economy-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T04:20:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "infra",
@@ -613,7 +735,7 @@
       "url": "https://e27.co/why-southeast-asian-startups-should-stop-treating-europe-as-one-market-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:45:27+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -640,7 +762,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T01:11:42+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -666,7 +788,7 @@
       "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:30:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -691,7 +813,7 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -716,7 +838,7 @@
       "url": "https://qiita.com/Syoitu/items/ff38655fed51a2920910",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T22:17:23+00:00",
-      "age_days": 0.39,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -743,7 +865,7 @@
       "url": "https://www.digital.go.jp/laws",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-31T06:02:16+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -767,7 +889,7 @@
       "url": "https://www.digital.go.jp/councils/social-concept",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-31T06:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -791,7 +913,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260731-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-31T03:18:42+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -815,7 +937,7 @@
       "url": "https://www.digital.go.jp/news/e6905740-7ff5-41d7-ba2b-5830458ec070",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-31T02:00:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -835,11 +957,37 @@
       "summary": "令和8年7月31日、8月3日、8月4日付デジタル庁人事を掲載しました"
     },
     {
+      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
+      "url": "https://www.bis.org/statistics/rppb2607.htm",
+      "source": "BIS Statistical Releases",
+      "published_at": "2026-07-31T08:17:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Cross-border bank credit rose by 11% year on year at end-March 2026. The expansion was broad-based across instruments and counterparty sectors. Bank credit to emerging market and developing economies expanded by $148 billion in Q1 2026, primarily concentrated in Africa and the Middle East and emerging Europe. The BIS…"
+    },
+    {
       "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
       "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T04:28:03+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -864,7 +1012,7 @@
       "url": "https://takoratta.hatenablog.com/entry/ai-amplifier-radical-candor",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T03:22:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -883,156 +1031,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "昨日、Google Cloud Next Tokyoで話す機会があった。そこで触れた話と、セッションが終わったあとに聞かれて考え込んでしまったことを、忘れないうちに書いておく。 明らかな間違い 少し前まで、AIは堂々と嘘をついた。存在しないAPIを呼び出し、動かないコードを平然と出してきた。だからこそ、指摘は簡単だった。実行..."
-    },
-    {
-      "title": "The outlier advantage: Why your startup needs glitch talent",
-      "url": "https://e27.co/the-outlier-advantage-why-your-startup-needs-glitch-talent-20260623/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-31T02:15:37+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "In a world of hyper-optimisation, startups are accidentally engineering themselves into a corner. We use AI to remove variance, to predict customer behaviour, and to standardise our outputs. But as behavioural economics research from 2026 warns, once behaviour is modelled, it becomes a commodity. If your startup is pe…"
-    },
-    {
-      "title": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】",
-      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2129451.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-31T02:30:05+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】"
-    },
-    {
-      "title": "はやぶさ2、トリフネへの最接近距離は400mと判明 フライバイ探査で世界記録",
-      "url": "https://www.watch.impress.co.jp/docs/news/2129332.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-30T14:22:23+00:00",
-      "age_days": 0.72,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "はやぶさ2、トリフネへの最接近距離は400mと判明 フライバイ探査で世界記録"
-    },
-    {
-      "title": "Why concentration disclosure is key to ASEAN’s financial stability",
-      "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-31T01:15:45+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern history. Airports stopped boarding. Hospitals reverted to pa…"
-    },
-    {
-      "title": "Why Southeast Asian enterprises need AI governance before scaling generative AI",
-      "url": "https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-07-31T03:00:07+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims processing. Logistics and manufacturing companies are adopti…"
-    },
-    {
-      "title": "WhiskeySockets/Baileys",
-      "url": "https://github.com/WhiskeySockets/Baileys",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Socket-based TS/JavaScript API for WhatsApp Web Caution NOTICE OF BREAKING CHANGE. As of 7.0.0, multiple breaking changes were introduced into the library. Please check out https://whiskey.so/migrate-latest for more information. Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “シャープ製ネットワークスキャナーツールの初期設定がセキュアでない問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
