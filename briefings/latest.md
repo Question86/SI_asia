@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T07:17:30+00:00_
+_Generiert: 2026-07-31T08:16:45+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+49 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)
   - Kurz: For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal hackathons to show what generative AI can do. Also Read: Southeast Asia doesn’t have an AI adoption problem, it […] The post Thinking Machines joins Temus group…
   - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
+- **Advancing responsible AI across Europe** — Score 18, observation — [Quelle](https://openai.com/index/advancing-responsible-ai-across-europe)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-07-31T15:00:00+00:00`, fetched `2026-07-31T08:16:12+00:00`
+  - Treffer: AI/KI, OpenAI, safety, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Security (+6.0); safety (+2.0)
+  - Kurz: OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Huawei Cloud bets on Thailand as enterprises move from AI pilots to production** — Score 18, opportunity — [Quelle](https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-31T02:11:14+00:00`, fetched `2026-07-31T02:34:55+00:00`
@@ -166,6 +175,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026** — Score 13, observation — [Quelle](https://www.bis.org/statistics/rppb2607.htm)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-07-31T08:17:00+00:00`, fetched `2026-07-31T08:16:12+00:00`
+  - Treffer: banking, credit, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); credit (+2.0); banking (+2.5)
+  - Kurz: Cross-border bank credit rose by 11% year on year at end-March 2026. The expansion was broad-based across instruments and counterparty sectors. Bank credit to emerging market and developing economies expanded by $148 billion in Q1 2026, primarily concentrated in Africa and the Middle East and emerging Europe. The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dol…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Euro area bank interest rate statistics: June 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-07-31T08:00:00+00:00`, fetched `2026-07-31T08:16:12+00:00`
+  - Treffer: euro area, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); statistics (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area bank interest rate statistics: June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走** — Score 13, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-07-31T04:28:03+00:00`, fetched `2026-07-31T06:13:49+00:00`
@@ -211,6 +238,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Investigating three real-world incidents in our cybersecurity evaluations In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unau...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **BIS global liquidity indicators at end-March 2026** — Score 10, observation — [Quelle](https://www.bis.org/statistics/gli2607.htm)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-07-31T09:03:00+00:00`, fetched `2026-07-31T08:16:12+00:00`
+  - Treffer: credit, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.0); credit (+2.0)
+  - Kurz: The BIS global liquidity indicators exhibited robust growth in foreign currency credit denominated in US dollars and euros, with the latter expanding at a relatively faster pace.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **iWOW’s US$11M placement tests investor appetite for Singapore’s ageing economy** — Score 10, observation — [Quelle](https://e27.co/iwows-us11m-placement-tests-investor-appetite-for-singapores-ageing-economy-20260731/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-07-31T04:20:21+00:00`, fetched `2026-07-31T05:04:58+00:00`
@@ -229,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: Socket-based TS/JavaScript API for WhatsApp Web Caution NOTICE OF BREAKING CHANGE. As of 7.0.0, multiple breaking changes were introduced into the library. Please check out https://whiskey.so/migrate-latest for more information. Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API. Join the WhiskeySockets community via the link: https://whiskey.so/discord Usage & Guide Important…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th63)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-31T07:49:04.040+00:00`, fetched `2026-07-31T08:16:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-31 07:32:54 UTC 2026-07-31 07:32:54 UTC at epicenter Location 19.267°S 177.465°W Depth 581.05 km (361.05 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-07-31T06:48:01.040+00:00`, fetched `2026-07-31T07:16:59+00:00`
@@ -264,42 +309,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/laws)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-31T06:02:16+00:00`, fetched `2026-07-31T06:13:49+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル社会構想会議の開催についての資料を一部改正しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-concept)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-31T06:00:00+00:00`, fetched `2026-07-31T06:13:49+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル社会構想会議の開催についての資料を一部改正しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年7月31日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260731-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-07-31T03:18:42+00:00`, fetched `2026-07-31T03:50:41+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年7月31日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **paperswithbacktest/awesome-systematic-trading** — Score 4, observation — [Quelle](https://github.com/paperswithbacktest/awesome-systematic-trading)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-07-31T02:34:55+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote awesome, tutorial (x0.45)
-  - Kurz: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. Awesome Systematic Trading 希望阅读中文版？点我 We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. What will you find here? 97 libraries and packages for research and live trading 40+ strategies described by i…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
