@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T18:39:09+00:00_
+_Generiert: 2026-07-31T19:06:15+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+85 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,18 +29,6 @@ _Generiert: 2026-07-31T18:39:09+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
-- **GDACS: Green flood alert in Chile** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104063)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Chile
-- **GDACS: Green flood alert in Austria** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104059)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Austria
-- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104061)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Mexico
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 180 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237)
   - Quelle: GDACS
   - Zeit: ``
