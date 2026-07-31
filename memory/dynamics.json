@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-31T03:00:07Z",
+  "generated_at": "2026-07-31T04:13:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 32,
     "bands": {
       "krass": 2,
       "strong": 10,
       "watch": 2,
-      "quiet": 13
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 12,
       "watch": 2,
-      "quiet": 13
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU90278463/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU92804348/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:15+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU94952030/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU97496464/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:15+09:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:11:14+00:00",
-      "age_days": 0.03,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -149,7 +149,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 42.04,
+      "age_days": 42.09,
       "topics": [
         "ai"
       ],
@@ -168,7 +168,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -7.4 for 42.0d old signal",
+        "aging penalty -7.4 for 42.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -178,7 +178,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -205,7 +205,7 @@
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T23:14:46+00:00",
-      "age_days": 0.16,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security"
@@ -230,7 +230,7 @@
       "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:15:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -255,7 +255,7 @@
       "url": "https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:15:03+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -281,7 +281,7 @@
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -307,7 +307,7 @@
       "url": "https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:25:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -334,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T01:35:07.339+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -358,7 +358,7 @@
       "url": "https://e27.co/mid-year-2026-look-at-malaysias-digital-and-technology-regulatory-updates-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:00:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -384,7 +384,7 @@
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T16:53:18+00:00",
-      "age_days": 0.42,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -404,11 +404,38 @@
       "summary": "Menu. Currently selected: Get started with the CLI extension Stacked pull requests break large changes into small, reviewable pull requests. They’re an ordered series of pull requests that each represent focused layers of your change. With stacks, you can independently review and check each pull ..."
     },
     {
+      "title": "Why Southeast Asian startups should stop treating Europe as one market",
+      "url": "https://e27.co/why-southeast-asian-startups-should-stop-treating-europe-as-one-market-20260730/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-31T02:45:27+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: active",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For many startups in Southeast Asia, Europe appears attractive for obvious reasons. It offers affluent consumers, mature digital infrastructure, access to capital, strong demand for innovation and a large number of business customers looking for new technologies. From a distance, it can also look relatively simple: on…"
+    },
+    {
       "title": "How to use AI to become a better investor",
       "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:30:11+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -433,7 +460,7 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -454,11 +481,62 @@
       "summary": "12 Weeks, 24 Lessons, AI for All! Artificial Intelligence for Beginners - A Curriculum AI For Beginners - Sketchnote by @girlie_mac Explore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers…"
     },
     {
+      "title": "コードベースのナレッジ化なら、LLM Wikiで十分かもしれない - Qiita",
+      "url": "https://qiita.com/Syoitu/items/ff38655fed51a2920910",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-30T22:17:23+00:00",
+      "age_days": 0.25,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "前書き コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか 社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。 ドキュメントの中身自体は正しく引けるも..."
+    },
+    {
+      "title": "松本大臣記者会見（令和8年7月31日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260731-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-07-31T03:18:42+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "松本大臣記者会見（令和8年7月31日）動画を掲載しました"
+    },
+    {
       "title": "令和8年7月31日、8月3日、8月4日付デジタル庁人事を掲載しました",
       "url": "https://www.digital.go.jp/news/e6905740-7ff5-41d7-ba2b-5830458ec070",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-07-31T02:00:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -482,7 +560,7 @@
       "url": "https://e27.co/the-outlier-advantage-why-your-startup-needs-glitch-talent-20260623/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:15:37+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -504,11 +582,35 @@
       "summary": "In a world of hyper-optimisation, startups are accidentally engineering themselves into a corner. We use AI to remove variance, to predict customer behaviour, and to standardise our outputs. But as behavioural economics research from 2026 warns, once behaviour is modelled, it becomes a commodity. If your startup is pe…"
     },
     {
+      "title": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】",
+      "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2129451.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-07-31T02:30:05+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "ロシアの「.ru」ドメイン、日本からの利用が9月1日から実質困難に？ ユーザー混乱【やじうまWatch】"
+    },
+    {
       "title": "はやぶさ2、トリフネへの最接近距離は400mと判明 フライバイ探査で世界記録",
       "url": "https://www.watch.impress.co.jp/docs/news/2129332.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T14:22:23+00:00",
-      "age_days": 0.53,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -532,7 +634,7 @@
       "url": "https://e27.co/why-concentration-disclosure-is-key-to-aseans-financial-stability-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:15:45+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -553,11 +655,36 @@
       "summary": "On a Friday morning in July 2024, a single software update, pushed by a single vendor, applied automatically across customer environments, took the operational layer of more financial institutions offline simultaneously than any single bank failure in modern history. Airports stopped boarding. Hospitals reverted to pa…"
     },
     {
+      "title": "Why Southeast Asian enterprises need AI governance before scaling generative AI",
+      "url": "https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-07-31T03:00:07+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims processing. Logistics and manufacturing companies are adopti…"
+    },
+    {
       "title": "WhiskeySockets/Baileys",
       "url": "https://github.com/WhiskeySockets/Baileys",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -583,7 +710,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 41.01,
+      "age_days": 41.06,
       "topics": [
         "general"
       ],
@@ -599,7 +726,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 41.0d old signal"
+        "aging penalty -16.0 for 41.1d old signal"
       ],
       "summary": ""
     },
@@ -608,7 +735,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 41.01,
+      "age_days": 41.06,
       "topics": [
         "general"
       ],
@@ -624,7 +751,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 41.0d old signal"
+        "aging penalty -16.0 for 41.1d old signal"
       ],
       "summary": ""
     },
@@ -633,7 +760,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 41.01,
+      "age_days": 41.06,
       "topics": [
         "ai"
       ],
@@ -650,7 +777,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 41.0d old signal",
+        "aging penalty -16.0 for 41.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -660,7 +787,7 @@
       "url": "https://openai.com/index/avatarin",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-30T00:00:00+00:00",
-      "age_days": 1.13,
+      "age_days": 1.18,
       "topics": [
         "ai"
       ],
@@ -685,7 +812,7 @@
       "url": "https://e27.co/sea-isnt-just-a-growth-market-anymore-its-a-hedge-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:30:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
