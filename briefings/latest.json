@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T15:31:24+00:00",
-  "run_id": "2026-07-31T15:31:24+00:00",
+  "generated_at": "2026-07-31T16:13:57+00:00",
+  "run_id": "2026-07-31T16:13:57+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 3,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 26,
-    "observe": 50,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -1386,6 +1386,28 @@
         "id": "9c496dc90f1e81fa18d3"
       },
       {
+        "title": "AI時代の強いチームの作り方",
+        "url": "https://speakerdeck.com/yuukiyo/building-strong-teams-in-the-age-of-ai",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-31T13:23:13+00:00",
+        "fetched_at": "2026-07-31T16:13:26+00:00",
+        "summary": "「それ、どこに出しても恥ずかしくないTerraformコードになってるか？」 / Terraform AWS Best Practices",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "92939d36172619711736"
+      },
+      {
         "title": "Andrew Bailey: Growth and regulation",
         "url": "https://www.bis.org/review/r260730s.htm",
         "source": "BIS Central Bankers Speeches",
@@ -1736,6 +1758,26 @@
         "id": "9bbc4121c7d7fdbebc9b"
       },
       {
+        "title": "Don’t stop early: Case-folding source code at memory speed",
+        "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-31T16:00:00+00:00",
+        "fetched_at": "2026-07-31T16:13:26+00:00",
+        "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07c87e099d648817d9b9"
+      },
+      {
         "title": "「みいちゃんと山田さん」批判アカウントの差別心と存在否定の残酷さ｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
         "url": "https://note.com/ganot/n/na64785a15085",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1755,6 +1797,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0ff346d809ee68ad34d1"
+      },
+      {
+        "title": "Copilot Chat（Microsoft 365）の会話を Markdown に保存・エクスポートする方法（拡張機能不要）",
+        "url": "https://zenn.dev/dxclab/articles/bdc3935d10706c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-31T07:31:07+00:00",
+        "fetched_at": "2026-07-31T16:13:26+00:00",
+        "summary": "Copilot Chat の会話をあとから見返したい、Markdown ファイルとして保存しておきたいと思ったことはありませんか？ 現時点では、Copilot Chat には会話全体をまとめてエクスポート・一括保存する機能がありません。できるのは、回答を1つずつコピーするか、プロンプトを使って1つの回答にまとめさせ Wordファイル や Pa...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f8f97f9b05615d81a27f"
       },
       {
         "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",
@@ -3260,6 +3323,28 @@
       "id": "9c496dc90f1e81fa18d3"
     },
     {
+      "title": "AI時代の強いチームの作り方",
+      "url": "https://speakerdeck.com/yuukiyo/building-strong-teams-in-the-age-of-ai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T13:23:13+00:00",
+      "fetched_at": "2026-07-31T16:13:26+00:00",
+      "summary": "「それ、どこに出しても恥ずかしくないTerraformコードになってるか？」 / Terraform AWS Best Practices",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "92939d36172619711736"
+    },
+    {
       "title": "Andrew Bailey: Growth and regulation",
       "url": "https://www.bis.org/review/r260730s.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3610,6 +3695,26 @@
       "id": "9bbc4121c7d7fdbebc9b"
     },
     {
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-31T16:00:00+00:00",
+      "fetched_at": "2026-07-31T16:13:26+00:00",
+      "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07c87e099d648817d9b9"
+    },
+    {
       "title": "「みいちゃんと山田さん」批判アカウントの差別心と存在否定の残酷さ｜Ganot/哲学,政治思想,法律と人権/記事作成にAI補助利用",
       "url": "https://note.com/ganot/n/na64785a15085",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3629,6 +3734,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0ff346d809ee68ad34d1"
+    },
+    {
+      "title": "Copilot Chat（Microsoft 365）の会話を Markdown に保存・エクスポートする方法（拡張機能不要）",
+      "url": "https://zenn.dev/dxclab/articles/bdc3935d10706c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T07:31:07+00:00",
+      "fetched_at": "2026-07-31T16:13:26+00:00",
+      "summary": "Copilot Chat の会話をあとから見返したい、Markdown ファイルとして保存しておきたいと思ったことはありませんか？ 現時点では、Copilot Chat には会話全体をまとめてエクスポート・一括保存する機能がありません。できるのは、回答を1つずつコピーするか、プロンプトを使って1つの回答にまとめさせ Wordファイル や Pa...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f8f97f9b05615d81a27f"
     },
     {
       "title": "『WindowsユーザーのためのWSLで始めるLinux環境構築術』が無償公開、全215ページ／技術メディア「Think IT」連載記事を再構成、「Ubuntu 26.04 LTS」対応",
@@ -3779,25 +3905,67 @@
   ],
   "new_findings": [
     {
-      "title": "Building abundant intelligence",
-      "url": "https://openai.com/index/building-abundant-intelligence",
-      "source": "OpenAI News RSS",
+      "title": "AI時代の強いチームの作り方",
+      "url": "https://speakerdeck.com/yuukiyo/building-strong-teams-in-the-age-of-ai",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T15:00:00+00:00",
-      "fetched_at": "2026-07-31T15:30:53+00:00",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "published_at": "2026-07-31T13:23:13+00:00",
+      "fetched_at": "2026-07-31T16:13:26+00:00",
+      "summary": "「それ、どこに出しても恥ずかしくないTerraformコードになってるか？」 / Terraform AWS Best Practices",
       "matched_keywords": [
         "AI/KI",
-        "OpenAI"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c474e36d7ed902c24c7c"
+      "id": "92939d36172619711736"
+    },
+    {
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-31T16:00:00+00:00",
+      "fetched_at": "2026-07-31T16:13:26+00:00",
+      "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07c87e099d648817d9b9"
+    },
+    {
+      "title": "Copilot Chat（Microsoft 365）の会話を Markdown に保存・エクスポートする方法（拡張機能不要）",
+      "url": "https://zenn.dev/dxclab/articles/bdc3935d10706c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-31T07:31:07+00:00",
+      "fetched_at": "2026-07-31T16:13:26+00:00",
+      "summary": "Copilot Chat の会話をあとから見返したい、Markdown ファイルとして保存しておきたいと思ったことはありませんか？ 現時点では、Copilot Chat には会話全体をまとめてエクスポート・一括保存する機能がありません。できるのは、回答を1つずつコピーするか、プロンプトを使って1つの回答にまとめさせ Wordファイル や Pa...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f8f97f9b05615d81a27f"
     }
   ],
   "source_errors": [],
