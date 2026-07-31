@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T06:14:20+00:00",
-  "run_id": "2026-07-31T06:14:20+00:00",
+  "generated_at": "2026-07-31T07:17:30+00:00",
+  "run_id": "2026-07-31T07:17:30+00:00",
   "date": "2026-07-31",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 3,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 0,
     "medium": 15,
-    "observe": 25,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -757,6 +757,42 @@
         "id": "fac725600e57c0bd5f05"
       },
       {
+        "title": "M 5.0 - Kermadec Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-07-31T06:48:01.040+00:00",
+        "fetched_at": "2026-07-31T07:16:59+00:00",
+        "summary": "Time 2026-07-31 06:30:26 UTC 2026-07-31 06:30:26 UTC at epicenter Location 29.411°S 176.552°W Depth 37.85 km (23.52 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8dd88963ce266c16839a"
+      },
+      {
         "title": "Mid-year 2026 look at Malaysia’s digital and technology regulatory updates",
         "url": "https://e27.co/mid-year-2026-look-at-malaysias-digital-and-technology-regulatory-updates-20260728/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -840,6 +876,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b7c2c8ad583d55bb7a78"
+      },
+      {
+        "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
+        "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-31T07:11:00.000+00:00",
+        "fetched_at": "2026-07-31T07:16:59+00:00",
+        "summary": "SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3096e2f0afc819ef7ae6"
+      },
+      {
+        "title": "Russische Akteure greifen über Outlook-Web-Access-Lücke an",
+        "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-07-31T06:24:00.000+00:00",
+        "fetched_at": "2026-07-31T07:16:59+00:00",
+        "summary": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "79c0e61c2a13a1890c14"
       },
       {
         "title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました",
@@ -1775,6 +1851,42 @@
       "id": "fac725600e57c0bd5f05"
     },
     {
+      "title": "M 5.0 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-07-31T06:48:01.040+00:00",
+      "fetched_at": "2026-07-31T07:16:59+00:00",
+      "summary": "Time 2026-07-31 06:30:26 UTC 2026-07-31 06:30:26 UTC at epicenter Location 29.411°S 176.552°W Depth 37.85 km (23.52 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8dd88963ce266c16839a"
+    },
+    {
       "title": "Mid-year 2026 look at Malaysia’s digital and technology regulatory updates",
       "url": "https://e27.co/mid-year-2026-look-at-malaysias-digital-and-technology-regulatory-updates-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1858,6 +1970,46 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b7c2c8ad583d55bb7a78"
+    },
+    {
+      "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
+      "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-31T07:11:00.000+00:00",
+      "fetched_at": "2026-07-31T07:16:59+00:00",
+      "summary": "SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3096e2f0afc819ef7ae6"
+    },
+    {
+      "title": "Russische Akteure greifen über Outlook-Web-Access-Lücke an",
+      "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-07-31T06:24:00.000+00:00",
+      "fetched_at": "2026-07-31T07:16:59+00:00",
+      "summary": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79c0e61c2a13a1890c14"
     },
     {
       "title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました",
@@ -2067,30 +2219,26 @@
   ],
   "new_findings": [
     {
-      "title": "Thinking Machines joins Temus group in regional push for production-grade AI",
-      "url": "https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.0 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-31T05:39:20+00:00",
-      "fetched_at": "2026-07-31T06:13:49+00:00",
-      "summary": "For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal hackathons to show what generative AI can do. Also Read: Southeast Asia doesn’t have an AI adoption problem, it […] The post Thinking Machines joins Temus group…",
+      "published_at": "2026-07-31T06:48:01.040+00:00",
+      "fetched_at": "2026-07-31T07:16:59+00:00",
+      "summary": "Time 2026-07-31 06:30:26 UTC 2026-07-31 06:30:26 UTC at epicenter Location 29.411°S 176.552°W Depth 37.85 km (23.52 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung",
         "Climate/Disaster Infrastructure",
-        "Southeast Asia",
-        "Watchgraph:storms_floods_weather"
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules storms_floods_weather (+3.0)",
-      "risk_or_opportunity": "mixed",
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "storms_floods_weather"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "storms_floods_weather: flood"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
         "MUV2.DE",
@@ -2102,127 +2250,49 @@
         "MLM",
         "HOLN.SW",
         "HD",
-        "LOW",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
+        "LOW"
       ],
-      "id": "3a1e66413bf1fc89fba8"
+      "id": "8dd88963ce266c16839a"
     },
     {
-      "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
+      "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-31T05:22:54+00:00",
-      "fetched_at": "2026-07-31T06:13:49+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty und IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-07-31T07:11:00.000+00:00",
+      "fetched_at": "2026-07-31T07:16:59+00:00",
+      "summary": "SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1d29ba8bd03bc92605e1"
+      "id": "3096e2f0afc819ef7ae6"
     },
     {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Russische Akteure greifen über Outlook-Web-Access-Lücke an",
+      "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-07-31T04:28:03+00:00",
-      "fetched_at": "2026-07-31T06:13:49+00:00",
-      "summary": "スクウェア・エニックスが、ゲームの品質を検証するQAテストの自動化に米GoogleのAI「Gemini」を活用している。同社の荒牧岳志氏（AI＆エンジン開発ディビジョン ジェネラル・マネージャー）が7月30日、「Google Cloud Next Tokyo '26」の基調講演で披露した。AIがゲーム画面を見て状況を把握し、コントローラーを自動で...",
+      "published_at": "2026-07-31T06:24:00.000+00:00",
+      "fetched_at": "2026-07-31T07:16:59+00:00",
+      "summary": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "Security"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "91ce9482e9a5b6d81614"
-    },
-    {
-      "title": "アンソロピックAI「Claude」も暴走 試験中にサイバー攻撃3件 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN310KW0R30C26A7000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-31T01:11:42+00:00",
-      "fetched_at": "2026-07-31T06:13:49+00:00",
-      "summary": "【シリコンバレー=山田遼太郎】米新興アンソロピックは30日、同社の人工知能（AI）「クロード」が本来隔離された環境での試験中にインターネットに接続し、システムにサイバー攻撃や不正アクセスをした事案が3件あったと明らかにした。米オープンAIでも類似の事態が起きており、AIの性能向上に制御が追いつかないリスク...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f475f50bfc6697a80bc9"
-    },
-    {
-      "title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました",
-      "url": "https://www.digital.go.jp/laws",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-31T06:02:16+00:00",
-      "fetched_at": "2026-07-31T06:13:49+00:00",
-      "summary": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "da924d8ab1aeff0d0e1b"
-    },
-    {
-      "title": "デジタル社会構想会議の開催についての資料を一部改正しました",
-      "url": "https://www.digital.go.jp/councils/social-concept",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-31T06:00:00+00:00",
-      "fetched_at": "2026-07-31T06:13:49+00:00",
-      "summary": "デジタル社会構想会議の開催についての資料を一部改正しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34530f4fd474affb2dc8"
+      "id": "79c0e61c2a13a1890c14"
     }
   ],
   "source_errors": [],

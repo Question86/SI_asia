@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-07-31T06:14:20+00:00_
+_Generiert: 2026-07-31T07:17:30+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+43 neue relevante Treffer. Stärkstes Signal: „different-ai/openwork“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -229,6 +229,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: Socket-based TS/JavaScript API for WhatsApp Web Caution NOTICE OF BREAKING CHANGE. As of 7.0.0, multiple breaking changes were introduced into the library. Please check out https://whiskey.so/migrate-latest for more information. Baileys is a WebSockets-based TypeScript library for interacting with the WhatsApp Web API. Join the WhiskeySockets community via the link: https://whiskey.so/discord Usage & Guide Important…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-07-31T06:48:01.040+00:00`, fetched `2026-07-31T07:16:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-07-31 06:30:26 UTC 2026-07-31 06:30:26 UTC at epicenter Location 29.411°S 176.552°W Depth 37.85 km (23.52 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How avatarin built a 24/7 retail agent with GPT-Realtime** — Score 8, observation — [Quelle](https://openai.com/index/avatarin)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-07-30T00:00:00+00:00`, fetched `2026-07-31T02:34:55+00:00`
@@ -237,6 +246,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus** — Score 7, observation — [Quelle](https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-31T07:11:00.000+00:00`, fetched `2026-07-31T07:16:59+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Russische Akteure greifen über Outlook-Web-Access-Lücke an** — Score 7, observation — [Quelle](https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-07-31T06:24:00.000+00:00`, fetched `2026-07-31T07:16:59+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/laws)
   - Quelle: Japan Digital Agency News RSS / `rss`

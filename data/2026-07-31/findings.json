@@ -725,6 +725,42 @@
     "id": "fac725600e57c0bd5f05"
   },
   {
+    "title": "M 5.0 - Kermadec Islands region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-07-31T06:48:01.040+00:00",
+    "fetched_at": "2026-07-31T07:16:59+00:00",
+    "summary": "Time 2026-07-31 06:30:26 UTC 2026-07-31 06:30:26 UTC at epicenter Location 29.411°S 176.552°W Depth 37.85 km (23.52 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "8dd88963ce266c16839a"
+  },
+  {
     "title": "Mid-year 2026 look at Malaysia’s digital and technology regulatory updates",
     "url": "https://e27.co/mid-year-2026-look-at-malaysias-digital-and-technology-regulatory-updates-20260728/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -808,6 +844,46 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b7c2c8ad583d55bb7a78"
+  },
+  {
+    "title": "SolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
+    "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-31T07:11:00.000+00:00",
+    "fetched_at": "2026-07-31T07:16:59+00:00",
+    "summary": "SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3096e2f0afc819ef7ae6"
+  },
+  {
+    "title": "Russische Akteure greifen über Outlook-Web-Access-Lücke an",
+    "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-07-31T06:24:00.000+00:00",
+    "fetched_at": "2026-07-31T07:16:59+00:00",
+    "summary": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "79c0e61c2a13a1890c14"
   },
   {
     "title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十条の内閣総理大臣が指定する公的給付を定める告示を更新しました",
