@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T01:13:11+00:00",
-  "run_id": "2026-08-01T01:13:11+00:00",
+  "generated_at": "2026-08-01T01:56:55+00:00",
+  "run_id": "2026-08-01T01:56:55+00:00",
   "date": "2026-08-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,79 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 2,
+    "medium": 1,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "zhaoxuya520/reverse-skill",
+        "url": "https://github.com/zhaoxuya520/reverse-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-01T01:56:26+00:00",
+        "summary": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark water…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Security"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96b766d295d9b4b5c74a"
+      }
+    ],
     "observe": [
+      {
+        "title": "M 4.7 - 206 km NW of Oula Xiuma, China",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-01T01:50:57.040+00:00",
+        "fetched_at": "2026-08-01T01:56:26+00:00",
+        "summary": "Time 2026-08-01 01:29:36 UTC 2026-08-01 01:29:36 UTC at epicenter Location 35.480°N 99.426°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "085ace2c40f67fe2bfca"
+      },
       {
         "title": "AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
         "url": "https://forbesjapan.com/articles/detail/101804",
@@ -51,6 +112,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7ab6f12082f00bd32f5f"
+      },
+      {
+        "title": "M 4.6 - 163 km ENE of Tokār, Sudan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-01T01:38:57.040+00:00",
+        "fetched_at": "2026-08-01T01:56:26+00:00",
+        "summary": "Time 2026-08-01 01:24:09 UTC 2026-08-01 01:24:09 UTC at epicenter Location 18.877°N 39.200°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "445c3291e81e7f566d0a"
       },
       {
         "title": "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
@@ -77,6 +174,66 @@
   },
   "findings": [
     {
+      "title": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-01T01:56:26+00:00",
+      "summary": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark water…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Security"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96b766d295d9b4b5c74a"
+    },
+    {
+      "title": "M 4.7 - 206 km NW of Oula Xiuma, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-01T01:50:57.040+00:00",
+      "fetched_at": "2026-08-01T01:56:26+00:00",
+      "summary": "Time 2026-08-01 01:29:36 UTC 2026-08-01 01:29:36 UTC at epicenter Location 35.480°N 99.426°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "085ace2c40f67fe2bfca"
+    },
+    {
       "title": "AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/101804",
       "source": "Hatena Bookmark Hotentry IT",
@@ -97,6 +254,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7ab6f12082f00bd32f5f"
+    },
+    {
+      "title": "M 4.6 - 163 km ENE of Tokār, Sudan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-01T01:38:57.040+00:00",
+      "fetched_at": "2026-08-01T01:56:26+00:00",
+      "summary": "Time 2026-08-01 01:24:09 UTC 2026-08-01 01:24:09 UTC at epicenter Location 18.877°N 39.200°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "445c3291e81e7f566d0a"
     },
     {
       "title": "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
@@ -122,26 +315,100 @@
   ],
   "new_findings": [
     {
-      "title": "AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "url": "https://forbesjapan.com/articles/detail/101804",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-07-31T03:37:53+00:00",
-      "fetched_at": "2026-08-01T01:12:42+00:00",
-      "summary": "今年、AIを理由に解雇や人員削減の対象となった人がいるかもしれない。 だが、悲観する必要はない。元の職場や同等のポジションに復帰できる可能性は十分に残されている。 AIブームに乗って性急に従業員を解雇した企業が、その軽率な決定が大きな代償を伴うものであることに気づき始めている。結局のところ、AIはそれほ...",
+      "published_at": null,
+      "fetched_at": "2026-08-01T01:56:26+00:00",
+      "summary": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark water…",
       "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
         "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+        "GitHub Trending",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7ab6f12082f00bd32f5f"
+      "id": "96b766d295d9b4b5c74a"
+    },
+    {
+      "title": "M 4.7 - 206 km NW of Oula Xiuma, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-01T01:50:57.040+00:00",
+      "fetched_at": "2026-08-01T01:56:26+00:00",
+      "summary": "Time 2026-08-01 01:29:36 UTC 2026-08-01 01:29:36 UTC at epicenter Location 35.480°N 99.426°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "085ace2c40f67fe2bfca"
+    },
+    {
+      "title": "M 4.6 - 163 km ENE of Tokār, Sudan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-01T01:38:57.040+00:00",
+      "fetched_at": "2026-08-01T01:56:26+00:00",
+      "summary": "Time 2026-08-01 01:24:09 UTC 2026-08-01 01:24:09 UTC at epicenter Location 18.877°N 39.200°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "445c3291e81e7f566d0a"
     }
   ],
   "source_errors": [],
