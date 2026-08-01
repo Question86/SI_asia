@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-07-31T23:34:25Z",
+  "generated_at": "2026-08-01T00:05:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 12,
-      "strong": 21,
-      "watch": 7
+      "strong": 23,
+      "watch": 5
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 31,
-      "watch": 7
+      "strong": 33,
+      "watch": 5
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2598",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:17:53+00:00",
-      "age_days": 0.59,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:15:14+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "ai",
         "security"
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU92540957/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:15+09:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU98759887/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T13:00:00+09:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU90278463/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:00+09:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://jvn.jp/vu/JVNVU92804348/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:15+09:00",
-      "age_days": 0.94,
+      "age_days": 0.96,
       "topics": [
         "ai",
         "security"
@@ -170,7 +170,7 @@
       "url": "https://jvn.jp/vu/JVNVU94952030/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T10:00:00+09:00",
-      "age_days": 0.94,
+      "age_days": 0.96,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2597",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:17:53+00:00",
-      "age_days": 0.59,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -218,7 +218,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2549",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T09:15:12+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2056",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T10:54:19+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -268,7 +268,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T10:54:18+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -294,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T05:22:54+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "security"
       ],
@@ -320,7 +320,7 @@
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-31T15:00:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -346,7 +346,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1939",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T11:43:23+00:00",
-      "age_days": 0.49,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -371,7 +371,7 @@
       "url": "https://jvn.jp/vu/JVNVU97496464/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-07-31T11:00:15+09:00",
-      "age_days": 0.9,
+      "age_days": 0.92,
       "topics": [
         "security"
       ],
@@ -396,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1827",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-07-31T10:54:17+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -421,7 +421,7 @@
       "url": "https://openai.com/index/unive",
       "source": "OpenAI News RSS",
       "published_at": "2026-07-31T07:00:00+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -447,7 +447,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11072-3a4d4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-07-31T05:41:00+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "security"
       ],
@@ -473,7 +473,7 @@
       "url": "https://e27.co/huawei-cloud-bets-on-thailand-as-enterprises-move-from-ai-pilots-to-production-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:11:14+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "ai",
         "macro"
@@ -501,7 +501,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 42.9,
+      "age_days": 42.92,
       "topics": [
         "ai"
       ],
@@ -530,7 +530,7 @@
       "url": "https://github.com/different-ai/openwork",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.87,
+      "age_days": 0.9,
       "topics": [
         "ai",
         "macro"
@@ -557,7 +557,7 @@
       "url": "https://restofworld.org/2026/india-ai-extreme-weather/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-07-31T13:00:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "disaster"
@@ -585,7 +585,7 @@
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-30T23:14:46+00:00",
-      "age_days": 1.01,
+      "age_days": 1.04,
       "topics": [
         "ai",
         "security"
@@ -610,7 +610,7 @@
       "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T07:11:00.000+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "security"
       ],
@@ -635,7 +635,7 @@
       "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T06:24:00.000+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "security"
@@ -657,11 +657,61 @@
       "summary": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus."
     },
     {
+      "title": "M 5.1 - 132 km ENE of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-31T23:41:14.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-31 23:17:37 UTC 2026-07-31 23:17:37 UTC at epicenter Location 3.003°S 130.124°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.1 - 153 km ENE of Masohi, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thcq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-07-31T23:33:25.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-07-31 23:15:49 UTC 2026-07-31 23:15:49 UTC at epicenter Location 2.898°S 130.294°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 141 km ENE of Masohi, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thbq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T20:38:39.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -686,7 +736,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T08:48:47.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -711,7 +761,7 @@
       "url": "https://e27.co/your-real-customer-might-be-procurement-legal-or-the-cfo-not-the-user-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T01:15:31+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "macro"
       ],
@@ -736,7 +786,7 @@
       "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -761,7 +811,7 @@
       "url": "https://e27.co/southeast-asia-doesnt-have-an-ai-adoption-problem-it-has-a-scaling-problem-20260728/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:15:03+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
@@ -787,7 +837,7 @@
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-07-31T02:34:55+00:00",
-      "age_days": 0.87,
+      "age_days": 0.9,
       "topics": [
         "ai",
         "macro"
@@ -813,7 +863,7 @@
       "url": "https://e27.co/huawei-launches-thailand-ai-ecosystem-initiative-to-support-asean-hub-ambition-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T02:25:44+00:00",
-      "age_days": 0.88,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -840,7 +890,7 @@
       "url": "https://www.bis.org/review/r260730n.htm",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-07-31T09:01:00+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "macro"
@@ -867,7 +917,7 @@
       "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html",
       "source": "heise Security Alerts",
       "published_at": "2026-07-31T09:02:00.000+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "security"
@@ -892,7 +942,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T18:05:01.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -917,7 +967,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th4k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-07-31T01:35:07.339+00:00",
-      "age_days": 0.92,
+      "age_days": 0.94,
       "topics": [
         "disaster"
       ],
@@ -941,7 +991,7 @@
       "url": "https://www.bis.org/review/r260730j.htm",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-07-31T09:43:00+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai",
         "macro"
@@ -968,7 +1018,7 @@
       "url": "https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-07-31T05:39:20+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai",
         "macro",
@@ -990,57 +1040,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal hackathons to show what generative AI can do. Also Read: Sout…"
-    },
-    {
-      "title": "M 5.2 - 85 km SW of El Arenal, Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th8n",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-07-31T16:32:13.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-07-31 16:15:58 UTC 2026-07-31 16:15:58 UTC at epicenter Location 14.603°N 93.231°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "『ドンキーコング バナンザ』おもしろいバグは仕様にしちゃう。マイナスを減らしプラスを伸ばすQA（品質保証）とデバッグ環境作り【CEDEC2026】 | ゲーム・エンタメ最新情報のファミ通.com",
-      "url": "https://www.famitsu.com/article/202607/82908",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-31T09:06:17+00:00",
-      "age_days": 0.6,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "2026年7月22日から7月24日にかけての3日間で行われた、“CEDEC2026（Computer Entertainment Developers Conference 2026）”。本イベントは、CESA（コンピュータエンターテインメント協会）が主催する、日本最大のゲーム開発者向けカンファレンスだ。 本稿では、その中で行われた“『ドンキーコング バナンザ』の破壊を推..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] PHP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
