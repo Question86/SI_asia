@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T05:27:11+00:00",
+  "generated_at": "2026-08-01T06:18:42+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,21 +111,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555036",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - 200 km SW of Port McNeill, Canada",
-        "summary": "M5.6 - 200 km SW of Port McNeill, Canada. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej",
-        "published_at": "2026-08-01T04:49:01+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "green",
-          "sig": 483.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

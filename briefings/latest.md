@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-01T05:27:07+00:00_
+_Generiert: 2026-08-01T06:18:38+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-08-01T05:27:07+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Kermadec Islands Region 30/07/2026 05:08 UTC, [unknown].
-- **USGS earthquake M5.6 - 200 km SW of Port McNeill, Canada** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej)
-  - Quelle: USGS
-  - Zeit: `2026-08-01T04:49:01+00:00`
-  - Kurz: M5.6 - 200 km SW of Port McNeill, Canada. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
