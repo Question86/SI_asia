@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-01T11:26:11Z",
+  "generated_at": "2026-08-01T11:50:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI フレンドリーな CLI を開発するテクニック” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T03:10:46+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 43.39,
+      "age_days": 43.41,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-01T01:56:26+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security"
@@ -98,7 +98,7 @@
       "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-01T09:35:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -124,7 +124,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T05:21:59.382+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -149,7 +149,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T01:50:57.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -174,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thef",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T04:00:38.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -198,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T03:01:34.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -219,10 +219,35 @@
     },
     {
       "title": "M 5.1 - Tristan da Cunha region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-01T11:26:47.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-01 11:07:20 UTC 2026-08-01 11:07:20 UTC at epicenter Location 39.534°S 15.961°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.1 - Tristan da Cunha region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thfp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T10:08:56.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -247,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000the7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T04:09:41.585+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T01:38:57.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -291,29 +316,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-01 01:24:09 UTC 2026-08-01 01:24:09 UTC at epicenter Location 18.877°N 39.200°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "カンファレンス生態系の変化と CFP の功罪 | blog.jxck.io",
-      "url": "https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-01T05:58:02+00:00",
-      "age_days": 0.23,
-      "topics": [],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "Intro コロナを経て、一旦はシュリンクしてしまったテック系のカンファレンスが、また徐々に増え始めた。 再開したというよりは、新しい主催、新しい名前で、全国で開催されている。 それ自体は歓迎されるべきことだ。筆者もよく参加したり、招待してもらったりしている。 ところが、カンファレンスの生態系は、コロナ以..."
     }
   ],
   "read_order": [
