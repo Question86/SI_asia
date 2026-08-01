@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-01T01:56:55+00:00_
+_Generiert: 2026-08-01T03:02:39+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+8 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-08-01T01:56:55+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 180 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 180 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:34.505km) in Micronesia 30/07/2026 17:55 UTC, 1 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555167)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,6 +49,10 @@ _Generiert: 2026-08-01T01:56:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Pacific-Antarctic Ridge 29/07/2026 22:08 UTC, [unknown].
+- **USGS earthquake M5.5 - 57 km E of Mutsu, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk)
+  - Quelle: USGS
+  - Zeit: `2026-08-01T02:48:01+00:00`
+  - Kurz: M5.5 - 57 km E of Mutsu, Japan. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -74,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark water…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.5 - 57 km E of Mutsu, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-01T03:01:34.040+00:00`, fetched `2026-08-01T03:02:09+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-01 02:48:01 UTC 2026-08-01 02:48:01 UTC at epicenter Location 41.352°N 141.896°E Depth 82.29 km (51.13 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -94,6 +107,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今年、AIを理由に解雇や人員削減の対象となった人がいるかもしれない。 だが、悲観する必要はない。元の職場や同等のポジションに復帰できる可能性は十分に残されている。 AIブームに乗って性急に従業員を解雇した企業が、その軽率な決定が大きな代償を伴うものであることに気づき始めている。結局のところ、AIはそれほ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **EU、生成AIコンテンツに識別表示義務 禁止行為なら制裁金63億円 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-31T20:10:43+00:00`, fetched `2026-08-01T03:02:09+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 【ブリュッセル=時事】欧州連合（EU）欧州委員会は31日、人工知能（AI）規制法に基づき、AIが生成・加工したコンテンツに識別表示を義務付ける規定を8月2日から適用すると発表した。欧州委と加盟国当局による規制の執行も同日開始し、利用者の保護とAIへの信頼確保を図る。人の行動を不当に操作するなど、禁止されたAI利...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 163 km ENE of Tokār, Sudan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -117,6 +139,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

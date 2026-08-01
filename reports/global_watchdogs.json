@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T01:56:59+00:00",
+  "generated_at": "2026-08-01T03:02:43+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,8 +65,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 180 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 180 thousand in MMI IV.",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237",
         "published_at": "",
@@ -111,6 +111,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554970",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 57 km E of Mutsu, Japan",
+        "summary": "M5.5 - 57 km E of Mutsu, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk",
+        "published_at": "2026-08-01T02:48:01+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
