@@ -1,14 +1,21 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-01T00:39:27+00:00_
+_Generated: 2026-08-01T01:13:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `1`
+- findings: `2`
 
 ## Top Signals
 
-### 1. 日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア
+### 1. AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-07-31T03:37:53+00:00`
+- url: https://forbesjapan.com/articles/detail/101804
+- summary: 今年、AIを理由に解雇や人員削減の対象となった人がいるかもしれない。 だが、悲観する必要はない。元の職場や同等のポジションに復帰できる可能性は十分に残されている。 AIブームに乗って性急に従業員を解雇した企業が、その軽率な決定が大きな代償を伴うものであることに気づき始めている。結局のところ、AIはそれほ...
+
+### 2. 日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア
 - source: Hatena Bookmark Hotentry IT
 - score: `7`
 - published: `2026-07-31T06:46:27+00:00`
