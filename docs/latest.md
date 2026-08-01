@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-01T07:56:47+00:00_
+_Generiert: 2026-08-01T08:45:24+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+18 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ブリュッセル=時事】欧州連合（EU）欧州委員会は31日、人工知能（AI）規制法に基づき、AIが生成・加工したコンテンツに識別表示を義務付ける規定を8月2日から適用すると発表した。欧州委と加盟国当局による規制の執行も同日開始し、利用者の保護とAIへの信頼確保を図る。人の行動を不当に操作するなど、禁止されたAI利...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-01T08:02:03.040+00:00`, fetched `2026-08-01T08:44:55+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-01 07:46:03 UTC 2026-08-01 07:46:03 UTC at epicenter Location 22.382°S 179.126°W Depth 544.37 km (338.25 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thel)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-01T05:15:21.040+00:00`, fetched `2026-08-01T05:26:34+00:00`
@@ -95,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-01 04:50:12 UTC 2026-08-01 04:50:12 UTC at epicenter Location 23.744°S 179.557°W Depth 493.55 km (306.68 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 44 km NW of Te Anau, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000the7)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-01T04:09:41.585+00:00`, fetched `2026-08-01T04:13:38+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-08-01 03:23:55 UTC 2026-08-01 03:23:55 UTC at epicenter Location 45.097°S 167.375°E Depth 112.49 km (69.90 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Ten advances in mathematics and theoretical computer science** — Score 7, observation — [Quelle](https://openai.com/index/ten-advances-in-mathematics)
   - Quelle: OpenAI News RSS / `rss`
