@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T18:58:47+00:00",
-  "run_id": "2026-08-01T18:58:47+00:00",
+  "generated_at": "2026-08-01T19:28:51+00:00",
+  "run_id": "2026-08-01T19:28:51+00:00",
   "date": "2026-08-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 5,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -204,6 +204,29 @@
       }
     ],
     "observe": [
+      {
+        "title": "Web Streams API 入門 ― 基本概念から実践まで",
+        "url": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-01T10:33:29+00:00",
+        "fetched_at": "2026-08-01T19:28:21+00:00",
+        "summary": "こんにちは、tasshi です。 この記事では、JavaScriptでストリーム処理を行うための標準API「Web Streams API（Streams API）」について、基本概念から実践的な使い方、Node.js Streamとの違いまでを解説します。 本記事は、TSKaigi 2025で発表した「Web Streams APIの基本と実践、TypeScriptでの活用法」をベースに、現...",
+        "matched_keywords": [
+          "Content-Chance",
+          "Hatena",
+          "hotentry",
+          "Webentwicklung"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "db6caf5c2eb16118112c"
+      },
       {
         "title": "Claude Codeの使い方を分析して最適化するcclensが良さげかも | kawarimidoll.com",
         "url": "https://kawarimidoll.com/posts/202608011/",
@@ -1011,6 +1034,29 @@
       "id": "77abc07011d2a978ed8d"
     },
     {
+      "title": "Web Streams API 入門 ― 基本概念から実践まで",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-01T10:33:29+00:00",
+      "fetched_at": "2026-08-01T19:28:21+00:00",
+      "summary": "こんにちは、tasshi です。 この記事では、JavaScriptでストリーム処理を行うための標準API「Web Streams API（Streams API）」について、基本概念から実践的な使い方、Node.js Streamとの違いまでを解説します。 本記事は、TSKaigi 2025で発表した「Web Streams APIの基本と実践、TypeScriptでの活用法」をベースに、現...",
+      "matched_keywords": [
+        "Content-Chance",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db6caf5c2eb16118112c"
+    },
+    {
       "title": "Claude Codeの使い方を分析して最適化するcclensが良さげかも | kawarimidoll.com",
       "url": "https://kawarimidoll.com/posts/202608011/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1641,7 +1687,31 @@
       "id": "763dfb8fdb6b2519236f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Web Streams API 入門 ― 基本概念から実践まで",
+      "url": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-01T10:33:29+00:00",
+      "fetched_at": "2026-08-01T19:28:21+00:00",
+      "summary": "こんにちは、tasshi です。 この記事では、JavaScriptでストリーム処理を行うための標準API「Web Streams API（Streams API）」について、基本概念から実践的な使い方、Node.js Streamとの違いまでを解説します。 本記事は、TSKaigi 2025で発表した「Web Streams APIの基本と実践、TypeScriptでの活用法」をベースに、現...",
+      "matched_keywords": [
+        "Content-Chance",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "db6caf5c2eb16118112c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
