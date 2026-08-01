@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-07-31T23:58:25+00:00",
+  "generated_at": "2026-08-01T00:39:27+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 30,
-    "observe": 64
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "different-ai/openwork",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 23,
-      "url": "https://github.com/different-ai/openwork",
-      "summary": "The open-source alternative to Claude Cowork (powered by opencode) OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork…",
-      "section": "medium"
-    },
-    {
-      "title": "Thinking Machines joins Temus group in regional push for production-grade AI",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-07-31T05:39:20+00:00",
-      "relevance_score": 22,
-      "url": "https://e27.co/thinking-machines-joins-temus-group-in-regional-push-for-production-grade-ai-20260731/",
-      "summary": "For much of the past two years, Southeast Asian boardrooms have been flooded with AI experiments. Banks have tested copilots, retailers have trialled demand forecasting tools, government agencies have explored automation, and conglomerates have run internal h…",
-      "section": "medium"
-    },
-    {
-      "title": "Disrupting a Criminal Scam Operation",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-04T00:00:00+00:00",
-      "relevance_score": 21,
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "section": "medium"
-    },
-    {
-      "title": "Advancing responsible AI across Europe",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-07-31T15:00:00+00:00",
-      "relevance_score": 18,
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "section": "medium"
-    },
-    {
-      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
-      "source": "BIS Statistical Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-31T08:17:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.bis.org/statistics/rppb2607.htm",
-      "summary": "Cross-border bank credit rose by 11% year on year at end-March 2026. The expansion was broad-based across instruments and counterparty sectors. Bank credit to emerging market and developing economies expanded by $148 billion in Q1 2026, primarily concentrated…",
-      "section": "observe"
-    },
-    {
-      "title": "Euro area bank interest rate statistics: June 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-07-31T08:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260731~208a979498.en.html",
-      "summary": "Euro area bank interest rate statistics: June 2026",
-      "section": "observe"
-    },
-    {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "title": "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-07-31T04:28:03+00:00",
-      "relevance_score": 13,
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "summary": "スクウェア・エニックスが、ゲームの品質を検証するQAテストの自動化に米GoogleのAI「Gemini」を活用している。同社の荒牧岳志氏（AI＆エンジン開発ディビジョン ジェネラル・マネージャー）が7月30日、「Google Cloud Next Tokyo '26」の基調講演で披露した。AIがゲーム画面を見て状況を把握し、コントローラーを自動で...",
-      "section": "observe"
-    },
-    {
-      "title": "AIを活かしたいなら、人は切れない、かもしれない - Nothing ventured, nothing gained.",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-07-31T03:22:55+00:00",
-      "relevance_score": 13,
-      "url": "https://takoratta.hatenablog.com/entry/ai-amplifier-radical-candor",
-      "summary": "昨日、Google Cloud Next Tokyoで話す機会があった。そこで触れた話と、セッションが終わったあとに聞かれて考え込んでしまったことを、忘れないうちに書いておく。 明らかな間違い 少し前まで、AIは堂々と嘘をついた。存在しないAPIを呼び出し、動かないコードを平然と出してきた。だからこそ、指摘は簡単だった。実行...",
+      "published_at": "2026-07-31T06:46:27+00:00",
+      "relevance_score": 7,
+      "url": "https://www.recordchina.co.jp/b987936-s25-c20-d0193.html",
+      "summary": "27日、香港メディアの香港01は、AI汎用ヒューマノイド本体の市場で米国と中国が主導権を握る一方、日本が本体開発の競争から後退した背景について報じた。画像はAIで作成。 2026年7月27日、香港メディアの香港01は「日本のロボットはなぜ夜明け前に死したのか」と題し、AI汎用ヒューマノイド（人型ロボット）本体の市場...",
       "section": "observe"
     }
   ],
@@ -100,140 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2056",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-31T10:54:19+00:00",
-        "age_days": 0.55,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Angriff auszulösen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1870",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-31T10:54:18+00:00",
-        "age_days": 0.55,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Eiin Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder andere, nicht näher bezeichnete Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [hoch] PHP: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2598",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-31T09:17:53+00:00",
-        "age_days": 0.62,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in PHP ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Ruby on Rails: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2574",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-31T09:15:14+00:00",
-        "age_days": 0.62,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: remote, code",
-          "security high-signal: remote, code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ruby on Rails ausnutzen, um Informationen offenzulegen, was möglicherweise zur Remote-Codeausführung oder zu lateraler Bewegung führen kann."
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM WebSphere Application Server und Application Server Liberty: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2564",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-07-31T05:22:54+00:00",
-        "age_days": 0.78,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty und IBM WebSphere Application Server ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um…"
-      }
-    ]
-  }
+  ]
 }
