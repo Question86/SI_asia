@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-01T11:16:51+00:00_
+_Generated: 2026-08-01T11:44:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-01T11:16:51+00:00_
 - url: https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly
 - summary: 自分は趣味で様々な CLI を OSS として公開しています (aqua, pinact, tfcmt, ghalint, ghir, etc)。 昨今では AI がこれらを扱うことも増えてきていますが、それなりに知られた OSS でないかぎり AI はその OSS に関する質問に答えたりトラブルシューティングしたりするための知識を持ち合わせていません。 そのため Co...
 
-### 7. M 4.7 - 206 km NW of Oula Xiuma, China
+### 7. 宮本佳林『アイドルがAIと配信のシステムを全部作った話』
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-01T08:05:19+00:00`
+- url: https://ameblo.jp/miyamotokarin-official/entry-12974432505.html
+- summary: コードが書けないアイドルが、AIと一緒に10時間配信のシステムを全部作った話自分がシステムをしっかり理解するためにも、どんなことをやったのか残しておく為にもClaudeとChatGPTと一緒に（間違ってるところがあったらいけないのでね！）どんな風に制作して行ったのかブログに書いて行くことにしました。配信アーカイブ...
+
+### 8. M 4.7 - 206 km NW of Oula Xiuma, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-01T01:50:57.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc
 - summary: Time 2026-08-01 01:29:36 UTC 2026-08-01 01:29:36 UTC at epicenter Location 35.480°N 99.426°E Depth 10.00 km (6.21 mi)
-
-### 8. AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-07-31T03:37:53+00:00`
-- url: https://forbesjapan.com/articles/detail/101804
-- summary: 今年、AIを理由に解雇や人員削減の対象となった人がいるかもしれない。 だが、悲観する必要はない。元の職場や同等のポジションに復帰できる可能性は十分に残されている。 AIブームに乗って性急に従業員を解雇した企業が、その軽率な決定が大きな代償を伴うものであることに気づき始めている。結局のところ、AIはそれほ...
 
 END OF DOCUMENT

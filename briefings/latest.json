@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T11:16:51+00:00",
-  "run_id": "2026-08-01T11:16:51+00:00",
+  "generated_at": "2026-08-01T11:44:30+00:00",
+  "run_id": "2026-08-01T11:44:30+00:00",
   "date": "2026-08-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 2,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 4,
-    "observe": 18,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -214,6 +214,28 @@
         "id": "38e3c505c65f027aa100"
       },
       {
+        "title": "宮本佳林『アイドルがAIと配信のシステムを全部作った話』",
+        "url": "https://ameblo.jp/miyamotokarin-official/entry-12974432505.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-01T08:05:19+00:00",
+        "fetched_at": "2026-08-01T11:43:57+00:00",
+        "summary": "コードが書けないアイドルが、AIと一緒に10時間配信のシステムを全部作った話自分がシステムをしっかり理解するためにも、どんなことをやったのか残しておく為にもClaudeとChatGPTと一緒に（間違ってるところがあったらいけないのでね！）どんな風に制作して行ったのかブログに書いて行くことにしました。配信アーカイブ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c603fb370d439fafca6a"
+      },
+      {
         "title": "M 4.7 - 206 km NW of Oula Xiuma, China",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -292,6 +314,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d9be7bdec56df3f6f1dd"
+      },
+      {
+        "title": "M 5.1 - Tristan da Cunha region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-01T11:26:47.040+00:00",
+        "fetched_at": "2026-08-01T11:43:57+00:00",
+        "summary": "Time 2026-08-01 11:07:20 UTC 2026-08-01 11:07:20 UTC at epicenter Location 39.534°S 15.961°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1bf8866613ccf95df1f3"
       },
       {
         "title": "M 5.1 - Tristan da Cunha region",
@@ -825,6 +883,28 @@
       "id": "38e3c505c65f027aa100"
     },
     {
+      "title": "宮本佳林『アイドルがAIと配信のシステムを全部作った話』",
+      "url": "https://ameblo.jp/miyamotokarin-official/entry-12974432505.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-01T08:05:19+00:00",
+      "fetched_at": "2026-08-01T11:43:57+00:00",
+      "summary": "コードが書けないアイドルが、AIと一緒に10時間配信のシステムを全部作った話自分がシステムをしっかり理解するためにも、どんなことをやったのか残しておく為にもClaudeとChatGPTと一緒に（間違ってるところがあったらいけないのでね！）どんな風に制作して行ったのかブログに書いて行くことにしました。配信アーカイブ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c603fb370d439fafca6a"
+    },
+    {
       "title": "M 4.7 - 206 km NW of Oula Xiuma, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -903,6 +983,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d9be7bdec56df3f6f1dd"
+    },
+    {
+      "title": "M 5.1 - Tristan da Cunha region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-01T11:26:47.040+00:00",
+      "fetched_at": "2026-08-01T11:43:57+00:00",
+      "summary": "Time 2026-08-01 11:07:20 UTC 2026-08-01 11:07:20 UTC at epicenter Location 39.534°S 15.961°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1bf8866613ccf95df1f3"
     },
     {
       "title": "M 5.1 - Tristan da Cunha region",
@@ -1253,25 +1369,62 @@
   ],
   "new_findings": [
     {
-      "title": "宮本佳林『HANAKIN配信システムの技術構成』",
-      "url": "https://ameblo.jp/miyamotokarin-official/entry-12974440752.html",
+      "title": "宮本佳林『アイドルがAIと配信のシステムを全部作った話』",
+      "url": "https://ameblo.jp/miyamotokarin-official/entry-12974432505.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-01T08:05:57+00:00",
-      "fetched_at": "2026-08-01T11:16:23+00:00",
-      "summary": "HANAKIN配信システムの技術構成2026年7月31日、5thシングル「HANAKIN／シャニカマー」の発売週に、10時間のYouTube生配信をやりました。企画は「みんなと協力して家にあるものでMV再現配信」。視聴者がCDを買ってハッシュタグで投稿するたびに、メイク・衣装・編集アプリが解禁されていく参加型の配信です。 配信アーカ...",
+      "published_at": "2026-08-01T08:05:19+00:00",
+      "fetched_at": "2026-08-01T11:43:57+00:00",
+      "summary": "コードが書けないアイドルが、AIと一緒に10時間配信のシステムを全部作った話自分がシステムをしっかり理解するためにも、どんなことをやったのか残しておく為にもClaudeとChatGPTと一緒に（間違ってるところがあったらいけないのでね！）どんな風に制作して行ったのかブログに書いて行くことにしました。配信アーカイブ...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4c10fdd948f3c176072b"
+      "id": "c603fb370d439fafca6a"
+    },
+    {
+      "title": "M 5.1 - Tristan da Cunha region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-01T11:26:47.040+00:00",
+      "fetched_at": "2026-08-01T11:43:57+00:00",
+      "summary": "Time 2026-08-01 11:07:20 UTC 2026-08-01 11:07:20 UTC at epicenter Location 39.534°S 15.961°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1bf8866613ccf95df1f3"
     }
   ],
   "source_errors": [],
