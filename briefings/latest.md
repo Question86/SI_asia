@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-01T04:14:10+00:00_
+_Generiert: 2026-08-01T05:27:07+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+14 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-01T04:14:10+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555461)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555442)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,10 @@ _Generiert: 2026-08-01T04:14:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Kermadec Islands Region 30/07/2026 05:08 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Kermadec Islands Region 29/07/2026 22:27 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1554971)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Kermadec Islands Region 29/07/2026 22:27 UTC, [unknown].
+- **USGS earthquake M5.6 - 200 km SW of Port McNeill, Canada** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej)
+  - Quelle: USGS
+  - Zeit: `2026-08-01T04:49:01+00:00`
+  - Kurz: M5.6 - 200 km SW of Port McNeill, Canada. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -74,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 reverse-skill Cybersecurity Skills Router · 逆向技能路由包 Navigate the dark water…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.6 - 200 km SW of Port McNeill, Canada** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-01T05:21:59.382+00:00`, fetched `2026-08-01T05:26:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region canada: Canada (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - I Time 2026-08-01 04:49:01 UTC 2026-08-01 04:49:01 UTC at epicenter Location 49.603°N 129.425°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 25 km S of Daliao, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thef)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-01T04:00:38.040+00:00`, fetched `2026-08-01T04:13:38+00:00`
@@ -131,6 +144,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ブリュッセル=時事】欧州連合（EU）欧州委員会は31日、人工知能（AI）規制法に基づき、AIが生成・加工したコンテンツに識別表示を義務付ける規定を8月2日から適用すると発表した。欧州委と加盟国当局による規制の執行も同日開始し、利用者の保護とAIへの信頼確保を図る。人の行動を不当に操作するなど、禁止されたAI利...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thel)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-01T05:15:21.040+00:00`, fetched `2026-08-01T05:26:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-01 04:50:12 UTC 2026-08-01 04:50:12 UTC at epicenter Location 23.744°S 179.557°W Depth 493.55 km (306.68 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 44 km NW of Te Anau, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000the7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-01T04:09:41.585+00:00`, fetched `2026-08-01T04:13:38+00:00`
@@ -139,15 +161,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-08-01 03:23:55 UTC 2026-08-01 03:23:55 UTC at epicenter Location 45.097°S 167.375°E Depth 112.49 km (69.90 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 163 km ENE of Tokār, Sudan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-01T01:38:57.040+00:00`, fetched `2026-08-01T01:56:26+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-01 01:24:09 UTC 2026-08-01 01:24:09 UTC at epicenter Location 18.877°N 39.200°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
