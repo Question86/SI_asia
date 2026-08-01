@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-01T09:30:31+00:00_
+_Generated: 2026-08-01T10:12:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `21`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-01T09:30:31+00:00_
 - url: https://kawarimidoll.com/posts/202608011/
 - summary: cclens — a lens onto your Claude Code usage. Contribute to lambdalisue/cclens development by creating an account on GitHub. 機能 cclensはClaude Codeの使い方を分析するCLIツールです。過去のセッションの記録と設定を読み解いて、時間・トークン・労力の無駄を見つけ出します。 過去ログを抽出してローカルのS...
 
-### 6. M 4.7 - 206 km NW of Oula Xiuma, China
+### 6. AI フレンドリーな CLI を開発するテクニック
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-08-01T03:10:46+00:00`
+- url: https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly
+- summary: 自分は趣味で様々な CLI を OSS として公開しています (aqua, pinact, tfcmt, ghalint, ghir, etc)。 昨今では AI がこれらを扱うことも増えてきていますが、それなりに知られた OSS でないかぎり AI はその OSS に関する質問に答えたりトラブルシューティングしたりするための知識を持ち合わせていません。 そのため Co...
+
+### 7. M 4.7 - 206 km NW of Oula Xiuma, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-01T01:50:57.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc
 - summary: Time 2026-08-01 01:29:36 UTC 2026-08-01 01:29:36 UTC at epicenter Location 35.480°N 99.426°E Depth 10.00 km (6.21 mi)
 
-### 7. AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 8. AI人員削減の「誤算」、元従業員の再雇用を行う企業が続出する理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-07-31T03:37:53+00:00`
 - url: https://forbesjapan.com/articles/detail/101804
 - summary: 今年、AIを理由に解雇や人員削減の対象となった人がいるかもしれない。 だが、悲観する必要はない。元の職場や同等のポジションに復帰できる可能性は十分に残されている。 AIブームに乗って性急に従業員を解雇した企業が、その軽率な決定が大きな代償を伴うものであることに気づき始めている。結局のところ、AIはそれほ...
-
-### 8. EU、生成AIコンテンツに識別表示義務 禁止行為なら制裁金63億円 - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-07-31T20:10:43+00:00`
-- url: https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/
-- summary: 【ブリュッセル=時事】欧州連合（EU）欧州委員会は31日、人工知能（AI）規制法に基づき、AIが生成・加工したコンテンツに識別表示を義務付ける規定を8月2日から適用すると発表した。欧州委と加盟国当局による規制の執行も同日開始し、利用者の保護とAIへの信頼確保を図る。人の行動を不当に操作するなど、禁止されたAI利...
 
 END OF DOCUMENT
