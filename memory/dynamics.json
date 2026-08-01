@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-01T19:39:25Z",
+  "generated_at": "2026-08-01T20:07:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 34,
+    "dynamics": 35,
     "bands": {
       "krass": 1,
-      "strong": 5,
+      "strong": 6,
       "watch": 11,
       "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 7,
       "watch": 11,
       "quiet": 17
     }
@@ -23,7 +23,7 @@
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T03:10:46+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 43.74,
+      "age_days": 43.76,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 43.7d old signal",
+        "aging penalty -8.0 for 43.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -78,7 +78,7 @@
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-01T01:56:26+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "ai",
         "security"
@@ -106,7 +106,7 @@
       "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-01T09:35:00.000+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -128,11 +128,36 @@
       "summary": "Über kompromittierte Bilder können Angreifer Umgebungsvariablen des Servers einschließlich der Secrets auslesen und sich damit weitere Türen ins System öffnen."
     },
     {
+      "title": "M 5.2 - 48 km ESE of Tsunō, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-01T19:31:08.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-01 19:10:52 UTC 2026-08-01 19:10:52 UTC at epicenter Location 32.008°N 132.000°E Depth 26.23 km (16.30 mi)"
+    },
+    {
       "title": "M 4.9 - 3 km W of Matsubase, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T13:02:36.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -157,7 +182,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T05:21:59.382+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -182,7 +207,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T01:50:57.040+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -207,7 +232,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thef",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T04:00:38.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -231,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T03:01:34.040+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "disaster"
       ],
@@ -255,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T11:26:47.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -280,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thfp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T10:08:56.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -305,7 +330,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000the7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T04:09:41.585+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -330,7 +355,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T01:38:57.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "disaster"
       ],
@@ -355,7 +380,7 @@
       "url": "https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T05:58:02+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -378,7 +403,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T16:10:25.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -402,7 +427,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thf3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T08:02:03.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -426,7 +451,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thel",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T05:15:21.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -450,7 +475,7 @@
       "url": "https://kawarimidoll.com/posts/202608011/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T00:13:28+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -476,7 +501,7 @@
       "url": "https://www.4gamer.net/games/029/G102970/20260801009/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T09:20:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -500,7 +525,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12974432505.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T08:05:19+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -526,7 +551,7 @@
       "url": "https://forbesjapan.com/articles/detail/101804",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T03:37:53+00:00",
-      "age_days": 1.67,
+      "age_days": 1.69,
       "topics": [
         "ai"
       ],
@@ -552,7 +577,7 @@
       "url": "https://zenn.dev/cybozu_frontend/articles/web-streams-api-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T10:33:29+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -577,7 +602,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2129807.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T20:31:53+00:00",
-      "age_days": 0.96,
+      "age_days": 0.98,
       "topics": [
         "general"
       ],
@@ -601,7 +626,7 @@
       "url": "https://dev.classmethod.jp/articles/playwright-e2e-test-architecture-patterns/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T10:22:34+00:00",
-      "age_days": 1.39,
+      "age_days": 1.41,
       "topics": [
         "ai"
       ],
@@ -627,7 +652,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOCB31BZX0R30C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T20:10:43+00:00",
-      "age_days": 0.98,
+      "age_days": 1.0,
       "topics": [
         "ai"
       ],
@@ -652,7 +677,7 @@
       "url": "https://togetter.com/li/2727453",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T09:48:24+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -678,7 +703,7 @@
       "url": "https://ameblo.jp/miyamotokarin-official/entry-12974440752.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T08:05:57+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -704,7 +729,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 42.7,
+      "age_days": 42.72,
       "topics": [
         "general"
       ],
@@ -729,7 +754,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 42.7,
+      "age_days": 42.72,
       "topics": [
         "general"
       ],
@@ -754,7 +779,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 42.7,
+      "age_days": 42.72,
       "topics": [
         "ai"
       ],
@@ -781,7 +806,7 @@
       "url": "https://openai.com/index/ten-advances-in-mathematics",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-01T00:00:00+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -806,7 +831,7 @@
       "url": "https://www.recordchina.co.jp/b987936-s25-c20-d0193.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T06:46:27+00:00",
-      "age_days": 1.54,
+      "age_days": 1.56,
       "topics": [
         "ai"
       ],
@@ -831,7 +856,7 @@
       "url": "https://note.com/chan_san_jp/n/n3c72de4fedd9",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T00:09:47+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "ai",
         "macro"
@@ -857,7 +882,7 @@
       "url": "https://john.fun/elevators",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T16:06:39+00:00",
-      "age_days": 1.15,
+      "age_days": 1.17,
       "topics": [
         "ai"
       ],

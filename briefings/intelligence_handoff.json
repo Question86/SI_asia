@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-01T19:39:25Z",
+  "generated_at": "2026-08-01T20:07:53Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI フレンドリーな CLI を開発するテクニック” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T03:10:46+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 43.74,
+      "age_days": 43.76,
       "topics": [
         "ai"
       ],
@@ -60,7 +60,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 43.7d old signal",
+        "aging penalty -8.0 for 43.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -70,7 +70,7 @@
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-01T01:56:26+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "ai",
         "security"
@@ -98,7 +98,7 @@
       "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-01T09:35:00.000+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security"
@@ -120,11 +120,36 @@
       "summary": "Über kompromittierte Bilder können Angreifer Umgebungsvariablen des Servers einschließlich der Secrets auslesen und sich damit weitere Türen ins System öffnen."
     },
     {
+      "title": "M 5.2 - 48 km ESE of Tsunō, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-01T19:31:08.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-01 19:10:52 UTC 2026-08-01 19:10:52 UTC at epicenter Location 32.008°N 132.000°E Depth 26.23 km (16.30 mi)"
+    },
+    {
       "title": "M 4.9 - 3 km W of Matsubase, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thgg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T13:02:36.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -149,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thej",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T05:21:59.382+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -174,7 +199,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T01:50:57.040+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -199,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thef",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T04:00:38.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -223,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T03:01:34.040+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "disaster"
       ],
@@ -247,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thg5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T11:26:47.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thfp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-01T10:08:56.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -291,31 +316,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-01 09:50:33 UTC 2026-08-01 09:50:33 UTC at epicenter Location 39.690°S 15.976°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 44 km NW of Te Anau, New Zealand",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000the7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-01T04:09:41.585+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 9.9"
-      ],
-      "summary": "DYFI? - IV Time 2026-08-01 03:23:55 UTC 2026-08-01 03:23:55 UTC at epicenter Location 45.097°S 167.375°E Depth 112.49 km (69.90 mi)"
     }
   ],
   "read_order": [
@@ -327,8 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 7,
+      "watch": 5
     }
   }
 }
