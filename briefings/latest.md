@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-01T21:40:47+00:00_
+_Generiert: 2026-08-01T22:26:53+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+34 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは、tasshi です。 この記事では、JavaScriptでストリーム処理を行うための標準API「Web Streams API（Streams API）」について、基本概念から実践的な使い方、Node.js Streamとの違いまでを解説します。 本記事は、TSKaigi 2025で発表した「Web Streams APIの基本と実践、TypeScriptでの活用法」をベースに、現...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **skills/plugins/html/skills/html at main · mathbullet/skills** — Score 13, observation — [Quelle](https://github.com/mathbullet/skills/tree/main/plugins/html/skills/html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-01T05:17:24+00:00`, fetched `2026-08-01T22:26:23+00:00`
+  - Treffer: AI Agents, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Codeの使い方を分析して最適化するcclensが良さげかも | kawarimidoll.com** — Score 13, observation — [Quelle](https://kawarimidoll.com/posts/202608011/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-01T00:13:28+00:00`, fetched `2026-08-01T04:13:38+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: cclens — a lens onto your Claude Code usage. Contribute to lambdalisue/cclens development by creating an account on GitHub. 機能 cclensはClaude Codeの使い方を分析するCLIツールです。過去のセッションの記録と設定を読み解いて、時間・トークン・労力の無駄を見つけ出します。 過去ログを抽出してローカルのS...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI フレンドリーな CLI を開発するテクニック** — Score 12, observation — [Quelle](https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-01T03:10:46+00:00`, fetched `2026-08-01T10:11:56+00:00`
-  - Treffer: AI/KI, Hatena, hotentry, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 自分は趣味で様々な CLI を OSS として公開しています (aqua, pinact, tfcmt, ghalint, ghir, etc)。 昨今では AI がこれらを扱うことも増えてきていますが、それなりに知られた OSS でないかぎり AI はその OSS に関する質問に答えたりトラブルシューティングしたりするための知識を持ち合わせていません。 そのため Co...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 206 km NW of Oula Xiuma, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thdc)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
