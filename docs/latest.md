@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-01T07:12:46+00:00_
+_Generiert: 2026-08-01T07:56:47+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+16 neue relevante Treffer. Stärkstes Signal: „zhaoxuya520/reverse-skill“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-08-01 03:23:55 UTC 2026-08-01 03:23:55 UTC at epicenter Location 45.097°S 167.375°E Depth 112.49 km (69.90 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Ten advances in mathematics and theoretical computer science** — Score 7, observation — [Quelle](https://openai.com/index/ten-advances-in-mathematics)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-01T00:00:00+00:00`, fetched `2026-08-01T07:56:17+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); recent (+1.0)
+  - Kurz: OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

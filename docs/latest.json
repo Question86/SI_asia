@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:12:46+00:00",
-  "run_id": "2026-08-01T07:12:46+00:00",
+  "generated_at": "2026-08-01T07:56:47+00:00",
+  "run_id": "2026-08-01T07:56:47+00:00",
   "date": "2026-08-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 4,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -377,6 +377,26 @@
           "LOW"
         ],
         "id": "445c3291e81e7f566d0a"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-01T00:00:00+00:00",
+        "fetched_at": "2026-08-01T07:56:17+00:00",
+        "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f4f1c3ce3d6ee87c189b"
       },
       {
         "title": "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
@@ -813,6 +833,26 @@
       "id": "445c3291e81e7f566d0a"
     },
     {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "fetched_at": "2026-08-01T07:56:17+00:00",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f4f1c3ce3d6ee87c189b"
+    },
+    {
       "title": "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
       "url": "https://www.recordchina.co.jp/b987936-s25-c20-d0193.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -899,25 +939,24 @@
   ],
   "new_findings": [
     {
-      "title": "DeepSeekショック再来？「DeepSeek V4 Flash」正式版が無償公開。公式版は167GB、Unsloth版は最小82GB台",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2129807.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-07-31T20:31:53+00:00",
-      "fetched_at": "2026-08-01T07:12:15+00:00",
-      "summary": "DeepSeekショック再来？「DeepSeek V4 Flash」正式版が無償公開。公式版は167GB、Unsloth版は最小82GB台",
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "fetched_at": "2026-08-01T07:56:17+00:00",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "OpenAI (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1115a551010b06cf6128"
+      "id": "f4f1c3ce3d6ee87c189b"
     }
   ],
   "source_errors": [],
