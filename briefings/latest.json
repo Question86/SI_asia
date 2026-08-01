@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T15:32:26+00:00",
-  "run_id": "2026-08-01T15:32:26+00:00",
+  "generated_at": "2026-08-01T15:55:20+00:00",
+  "run_id": "2026-08-01T15:55:20+00:00",
   "date": "2026-08-01",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -1569,29 +1569,7 @@
       "id": "763dfb8fdb6b2519236f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「メタルサーガ 〜鋼の季節〜」がリマスター！ 埋もれた一作をなぜ今よみがえらせるのか――開発者に聞いた［CJ2026］",
-      "url": "https://www.4gamer.net/games/029/G102970/20260801009/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-01T09:20:05+00:00",
-      "fetched_at": "2026-08-01T15:31:57+00:00",
-      "summary": "「メタルサーガ 〜鋼の季節〜」がリマスター！ 埋もれた一作をなぜ今よみがえらせるのか――開発者に聞いた［CJ2026］ 編集部：haruka 中国のゲームメーカーJoystickは，サクセスが2006年に発売したニンテンドーDS用ソフト「メタルサーガ 〜鋼の季節〜」のリマスター版（PC / PS5 / PS4 / Nintendo Switch 2）を発表し，20...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cda350acd02057dfafb7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
