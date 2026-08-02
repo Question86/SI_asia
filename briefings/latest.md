@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T06:06:49+00:00_
+_Generiert: 2026-08-02T07:04:47+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+15 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-08-02 03:16:45 UTC 2026-08-02 03:16:45 UTC at epicenter Location 10.533°N 68.690°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260802123158)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-02T03:43:36+00:00`, fetched `2026-08-02T07:04:16+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **26/8/1 キヴォトスではガチャを期待値で語るのは恥ずかしいことなんだよ - LWのサイゼリヤ** — Score 5, observation — [Quelle](https://saize-lw.hatenablog.com/entry/2026/08/01/205832)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-01T23:55:37+00:00`, fetched `2026-08-02T03:53:27+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: この記事について 「セキュリティをやりたいけど、転職しないと無理だと思っている」——情シスやインフラ運用をしている人から、わりとよく聞く話です。 でも実際にやってみて思うのは、セキュリティの仕事は、たいてい社内に落ちているということです。誰の担当でもないまま放置されているタスクが必ずあって、それを拾...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **新しい SLO が良い感じにハマっている話** — Score 5, observation — [Quelle](https://speakerdeck.com/z63d/about-how-the-new-slo-is-fitting-in-nicely)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-01T01:00:01+00:00`, fetched `2026-08-02T01:40:36+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: もう一度考えるSRE #1 https://topotal.connpass.com/event/399194/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

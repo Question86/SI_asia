@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T06:06:49+00:00",
-  "run_id": "2026-08-02T06:06:49+00:00",
+  "generated_at": "2026-08-02T07:04:47+00:00",
+  "run_id": "2026-08-02T07:04:47+00:00",
   "date": "2026-08-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 3,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -328,6 +328,27 @@
           "LOW"
         ],
         "id": "33a32669781a2519073a"
+      },
+      {
+        "title": "昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない",
+        "url": "https://anond.hatelabo.jp/20260802123158",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-02T03:43:36+00:00",
+        "fetched_at": "2026-08-02T07:04:16+00:00",
+        "summary": "anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ee7db942710cf9d0f091"
       },
       {
         "title": "26/8/1 キヴォトスではガチャを期待値で語るのは恥ずかしいことなんだよ - LWのサイゼリヤ",
@@ -736,6 +757,27 @@
       "id": "33a32669781a2519073a"
     },
     {
+      "title": "昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない",
+      "url": "https://anond.hatelabo.jp/20260802123158",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-02T03:43:36+00:00",
+      "fetched_at": "2026-08-02T07:04:16+00:00",
+      "summary": "anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee7db942710cf9d0f091"
+    },
+    {
       "title": "26/8/1 キヴォトスではガチャを期待値で語るのは恥ずかしいことなんだよ - LWのサイゼリヤ",
       "url": "https://saize-lw.hatenablog.com/entry/2026/08/01/205832",
       "source": "Hatena Bookmark Hotentry IT",
@@ -843,102 +885,25 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub - microsoft/skill-recorder",
-      "url": "https://github.com/microsoft/skill-recorder",
+      "title": "昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない",
+      "url": "https://anond.hatelabo.jp/20260802123158",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-02T00:10:53+00:00",
-      "fetched_at": "2026-08-02T06:06:14+00:00",
-      "summary": "Record yourself doing a task once, then turn it into a skill your AI agent can repeat. Skill Recorder captures a real work session on your screen: the clicks, the app and window switches, the pages you visit, and (if you want) your spoken narration. It then uses the GitHub Copilot CLI to reconstr...",
+      "published_at": "2026-08-02T03:43:36+00:00",
+      "fetched_at": "2026-08-02T07:04:16+00:00",
+      "summary": "anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
-        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3240d398d41a26fa7755"
-    },
-    {
-      "title": "M 4.8 - 77 km SE of Atka, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-02T05:33:42.040+00:00",
-      "fetched_at": "2026-08-02T06:06:14+00:00",
-      "summary": "ShakeMap - III Time 2026-08-02 05:18:40 UTC 2026-08-02 05:18:40 UTC at epicenter Location 51.658°N 173.480°W Depth 44.29 km (27.52 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "dd554ffdf4bf51c810b7"
-    },
-    {
-      "title": "M 4.9 - 36 km SSW of Mendi, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-02T05:53:06.040+00:00",
-      "fetched_at": "2026-08-02T06:06:14+00:00",
-      "summary": "Time 2026-08-02 05:38:58 UTC 2026-08-02 05:38:58 UTC at epicenter Location 6.471°S 143.588°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e54ff23b876baf50fc9a"
+      "id": "ee7db942710cf9d0f091"
     }
   ],
   "source_errors": [],
