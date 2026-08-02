@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T07:55:37Z",
+  "generated_at": "2026-08-02T08:46:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.25,
+      "age_days": 44.28,
       "topics": [
         "ai"
       ],
@@ -62,7 +62,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 44.2d old signal",
+        "aging penalty -8.0 for 44.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T03:52:37.693+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -121,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T00:29:12.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -146,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T05:33:42.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -170,7 +170,7 @@
       "url": "https://note.com/nobel/n/n92fb2ecf10f4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T00:41:48+00:00",
-      "age_days": 1.3,
+      "age_days": 1.34,
       "topics": [
         "ai"
       ],
@@ -192,11 +192,35 @@
       "summary": "この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい..."
     },
     {
+      "title": "M 4.9 - 149 km S of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T08:38:02.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-02 08:22:06 UTC 2026-08-02 08:22:06 UTC at epicenter Location 49.329°N 156.201°E Depth 33.83 km (21.02 mi)"
+    },
+    {
       "title": "GitHub - microsoft/skill-recorder",
       "url": "https://github.com/microsoft/skill-recorder",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T00:10:53+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -221,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T05:53:06.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "disaster"
@@ -249,7 +273,7 @@
       "url": "https://anond.hatelabo.jp/20260802123158",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T03:43:36+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -273,7 +297,7 @@
       "url": "https://zenn.dev/gangy/articles/7ae64ac2a9e435",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T06:32:51+00:00",
-      "age_days": 1.06,
+      "age_days": 1.09,
       "topics": [
         "general"
       ],
@@ -291,30 +315,6 @@
         "no strong comparative reason"
       ],
       "summary": "この記事について 「セキュリティをやりたいけど、転職しないと無理だと思っている」——情シスやインフラ運用をしている人から、わりとよく聞く話です。 でも実際にやってみて思うのは、セキュリティの仕事は、たいてい社内に落ちているということです。誰の担当でもないまま放置されているタスクが必ずあって、それを拾..."
-    },
-    {
-      "title": "新しい SLO が良い感じにハマっている話",
-      "url": "https://speakerdeck.com/z63d/about-how-the-new-slo-is-fitting-in-nicely",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-01T01:00:01+00:00",
-      "age_days": 1.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "もう一度考えるSRE #1 https://topotal.connpass.com/event/399194/"
     }
   ],
   "read_order": [
@@ -327,8 +327,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 5,
-      "quiet": 5
+      "watch": 6,
+      "quiet": 4
     }
   }
 }
