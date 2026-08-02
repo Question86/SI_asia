@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-02T18:25:22+00:00",
+  "generated_at": "2026-08-02T18:46:16+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 6,
-    "observe": 29
+    "observe": 30
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.0 - 16 km NW of Changning, China",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-02T18:41:59.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0",
+      "summary": "Time 2026-08-02 18:21:46 UTC 2026-08-02 18:21:46 UTC at epicenter Location 28.670°N 104.783°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.9 - 207 km NW of Oula Xiuma, China",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://forbesjapan.com/articles/detail/102130",
       "summary": "「組織は、公共や宿泊施設のネットワークインフラが信頼できない可能性があると想定すべきだ」と、マイクロソフトは米国時間7月31日に警告した。これは、出張者に対する同社のセキュリティアドバイスが著しく厳格化したことを示している。ロシアのサイバー攻撃者（脅威アクター）によるものとされる新たなハッキングの脅...",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.6 - 73 km W of San Antonio de los Cobres, Argentina",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-02T09:24:08.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
-      "summary": "Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)",
       "section": "observe"
     }
   ],
