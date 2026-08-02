@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T19:14:23+00:00_
+_Generiert: 2026-08-02T19:42:46+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+37 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -190,7 +190,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

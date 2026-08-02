@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-02T19:14:23+00:00",
-  "run_id": "2026-08-02T19:14:23+00:00",
+  "generated_at": "2026-08-02T19:42:46+00:00",
+  "run_id": "2026-08-02T19:42:46+00:00",
   "date": "2026-08-02",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 37
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 37,
     "displayed_findings": 37,
     "high": 0,
     "medium": 6,
     "observe": 31,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2239,37 +2239,8 @@
       "id": "2aed1dfa8c3ac93fb301"
     }
   ],
-  "new_findings": [
-    {
-      "title": "自動車整備士だが、客が「中古で軽トラ買ったんだけどさ、なんか足元がフワフワするんだよ」というので見てみたら、察し… その後、フロアマットをめくって見せたら、客「うわぁ！何これ！」",
-      "url": "https://togetter.com/li/2728109",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-02T13:36:30+00:00",
-      "fetched_at": "2026-08-02T19:13:48+00:00",
-      "summary": "チームMHO 自動車整備士 @teammho 客 「中古で軽トラ買ったんだけどさ、なんか足元がフワフワするんだよ」 僕 「……あ、サンバーですね。」 （この時点で8割察する） 客 「ちょっと運転席座ってみてよ」 僕 「原因、多分分かります。心の準備だけしてください。」 ベリッ… （フロアマットをめくる） 客 「うわぁぁぁ！！...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a33a6bfaf903465e8e4a"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "ecb_open_market_operations",
-      "source_name": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
