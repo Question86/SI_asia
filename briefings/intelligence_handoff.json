@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T13:07:42Z",
+  "generated_at": "2026-08-02T13:47:58Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.46,
+      "age_days": 44.49,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:08.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -117,11 +117,36 @@
       "summary": "Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)"
     },
     {
+      "title": "M 5.1 - 60 km W of Bahía de Lobos, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T13:30:43.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-02 13:10:47 UTC 2026-08-02 13:10:47 UTC at epicenter Location 27.374°N 111.061°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.3 - north of Ascension Island",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T12:26:21.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -146,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T10:53:14.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -171,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:37:08.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -196,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T03:52:37.693+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -221,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T00:29:12.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -246,7 +271,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:12.354+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -270,7 +295,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T05:33:42.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -288,32 +313,6 @@
         "early terms: earthquake"
       ],
       "summary": "ShakeMap - III Time 2026-08-02 05:18:40 UTC 2026-08-02 05:18:40 UTC at epicenter Location 51.658°N 173.480°W Depth 44.29 km (27.52 mi)"
-    },
-    {
-      "title": "OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki",
-      "url": "https://note.com/nobel/n/n92fb2ecf10f4",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-01T00:41:48+00:00",
-      "age_days": 1.52,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい..."
     }
   ],
   "read_order": [
