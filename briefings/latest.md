@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T13:32:23+00:00_
+_Generiert: 2026-08-02T14:08:49+00:00_
 
 ## Kurzlage
 
@@ -29,26 +29,8 @@ _Generiert: 2026-08-02T13:32:23+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
-- **GDACS: Green flood alert in Poland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104064)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Poland
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555671)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555461)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555442)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f5bfef2aad0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
