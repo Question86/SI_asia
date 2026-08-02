@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T02:37:03Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-02T03:57:07Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,39 @@
   ],
   "top_dynamics": [
     {
+      "title": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-02T03:53:27+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. Quick Start | Website | Cloud | Discord Why Kaneo? After years of using bloated, overcomplicated project management platforms that distracted from actual work, we built Kaneo to be different. The problem with most to…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.03,
+      "age_days": 44.08,
       "topics": [
         "ai"
       ],
@@ -34,7 +62,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 44.0d old signal",
+        "aging penalty -8.0 for 44.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -64,11 +92,36 @@
       "summary": "Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)"
     },
     {
+      "title": "M 4.5 - 7 km SSW of Yumare, Venezuela",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T03:52:37.693+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - IV Time 2026-08-02 03:16:45 UTC 2026-08-02 03:16:45 UTC at epicenter Location 10.533°N 68.690°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.2 - 112 km SW of Severo-Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T00:29:12.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -89,11 +142,37 @@
       "summary": "Time 2026-08-02 00:13:38 UTC 2026-08-02 00:13:38 UTC at epicenter Location 49.867°N 155.171°E Depth 80.69 km (50.14 mi)"
     },
     {
+      "title": "OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki",
+      "url": "https://note.com/nobel/n/n92fb2ecf10f4",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-01T00:41:48+00:00",
+      "age_days": 1.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code, 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい..."
+    },
+    {
       "title": "セキュリティの仕事は、社内に落ちている──情シス・インフラが最初に拾うべき5つ",
       "url": "https://zenn.dev/gangy/articles/7ae64ac2a9e435",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T06:32:51+00:00",
-      "age_days": 0.84,
+      "age_days": 0.89,
       "topics": [
         "general"
       ],
@@ -117,7 +196,7 @@
       "url": "https://speakerdeck.com/z63d/about-how-the-new-slo-is-fitting-in-nicely",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T01:00:01+00:00",
-      "age_days": 1.07,
+      "age_days": 1.12,
       "topics": [
         "general"
       ],
@@ -137,11 +216,36 @@
       "summary": "もう一度考えるSRE #1 https://topotal.connpass.com/event/399194/"
     },
     {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-02T03:53:27+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian | Burmese (Myanmar) | Chinese (Simplified) | Chinese (Tradit…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 42.99,
+      "age_days": 43.05,
       "topics": [
         "general"
       ],
@@ -166,7 +270,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 42.99,
+      "age_days": 43.05,
       "topics": [
         "general"
       ],
@@ -191,7 +295,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 42.99,
+      "age_days": 43.05,
       "topics": [
         "ai"
       ],
@@ -212,30 +316,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "［論説］生食ジャガイモの輸入 拙速な解禁は許されぬ / 日本農業新聞公式ウェブサイト",
-      "url": "https://www.agrinews.co.jp/opinion/index/381216",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-05-20T01:32:21+00:00",
-      "age_days": 74.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 74.0d old signal"
-      ],
-      "summary": "米国政府が、生食用ジャガイモの輸入解禁を日本に求めている。米国は３月末、解禁に向けた協議が進展しているとの報告書を公表。日本の産地は、病害虫のまん延防止に神経をとがらせている最中だけに、拙速な解禁に踏み切らないよう、日本政府には毅然とした対応を求めたい。 米国産の生鮮ジャガイモは、大幅な減収をもた..."
     }
   ],
   "read_order": [
@@ -247,8 +327,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 2,
+      "strong": 2,
+      "watch": 4,
       "quiet": 6
     }
   }
