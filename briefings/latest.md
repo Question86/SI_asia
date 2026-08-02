@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T17:58:55+00:00_
+_Generiert: 2026-08-02T18:25:22+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+35 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,26 +29,8 @@ _Generiert: 2026-08-02T17:58:55+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
-- **GDACS: Green flood alert in Poland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104064)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Poland
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555671)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555461)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555442)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555237)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f9d74591c90>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -167,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: 21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian | Burmese (Myanmar) | Chinese (Simplified) | Chinese (Traditional, Hong Kong) | Chinese (Traditional, Macau) | Chinese (Traditional, Taiwan) | Croatian | Czech…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **クラウドセキュリティ入門 ～安全なクラウド利用のための基礎知識～** — Score 5, observation — [Quelle](https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-02T10:08:24+00:00`, fetched `2026-08-02T18:24:51+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 第03回shirosec しろおび夏祭り2026 https://shirosec.connpass.com/event/397254/ 本セッションではクラウドを支える技術の解説から、実際の攻撃手法までを解説します。前半で攻撃手法の理解に必要な前提知識の提供を行い、後半では、実際に発生したイン…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/02/165033)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-02T09:00:51+00:00`, fetched `2026-08-02T12:57:24+00:00`
@@ -175,15 +166,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年7月29日、公益社団法人2025年日本国際博覧会協会は、過去に大阪・関西万博の関連事業で専用サイトとして使用していた複数のドメインについて「既に運用を終了しております」としたうえで、現在これらのドメインを使ったURLやメールアドレスが使われていても協会の事業とは全く関係ないと注意喚起しました。piyokan...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech** — Score 5, observation — [Quelle](https://blog.magnolia.tech/entry/2026/08/02/133343)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-02T04:43:57+00:00`, fetched `2026-08-02T12:33:17+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: エンジニアのための自己管理入門【リフロー型】 堅牢でスケーラブルな働き方を構築する技術 作者:小田中 育生翔泳社Amazon 小田中育生さんが執筆された『エンジニアのための自己管理入門』を購入して読みました。 とにかく扱っている話題の幅が広く、筆者の引き出しの多さに感心させられましたが、何より構成の素晴らし...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

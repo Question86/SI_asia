@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T17:58:55+00:00",
-  "run_id": "2026-08-02T17:58:55+00:00",
+  "generated_at": "2026-08-02T18:25:22+00:00",
+  "run_id": "2026-08-02T18:25:22+00:00",
   "date": "2026-08-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 6,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -823,6 +823,27 @@
           "LOW"
         ],
         "id": "33a32669781a2519073a"
+      },
+      {
+        "title": "クラウドセキュリティ入門 ～安全なクラウド利用のための基礎知識～",
+        "url": "https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-02T10:08:24+00:00",
+        "fetched_at": "2026-08-02T18:24:51+00:00",
+        "summary": "第03回shirosec しろおび夏祭り2026 https://shirosec.connpass.com/event/397254/ 本セッションではクラウドを支える技術の解説から、実際の攻撃手法までを解説します。前半で攻撃手法の理解に必要な前提知識の提供を行い、後半では、実際に発生したイン…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "141b71d9fbdacc5bf175"
       },
       {
         "title": "大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog",
@@ -1852,6 +1873,27 @@
       "id": "33a32669781a2519073a"
     },
     {
+      "title": "クラウドセキュリティ入門 ～安全なクラウド利用のための基礎知識～",
+      "url": "https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-02T10:08:24+00:00",
+      "fetched_at": "2026-08-02T18:24:51+00:00",
+      "summary": "第03回shirosec しろおび夏祭り2026 https://shirosec.connpass.com/event/397254/ 本セッションではクラウドを支える技術の解説から、実際の攻撃手法までを解説します。前半で攻撃手法の理解に必要な前提知識の提供を行い、後半では、実際に発生したイン…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "141b71d9fbdacc5bf175"
+    },
+    {
       "title": "大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2083,7 +2125,29 @@
       "id": "2aed1dfa8c3ac93fb301"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "クラウドセキュリティ入門 ～安全なクラウド利用のための基礎知識～",
+      "url": "https://speakerdeck.com/lhazy/kuraudosekiyuriteiru-men-an-quan-nakuraudoli-yong-notamenoji-chu-zhi-shi",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-02T10:08:24+00:00",
+      "fetched_at": "2026-08-02T18:24:51+00:00",
+      "summary": "第03回shirosec しろおび夏祭り2026 https://shirosec.connpass.com/event/397254/ 本セッションではクラウドを支える技術の解説から、実際の攻撃手法までを解説します。前半で攻撃手法の理解に必要な前提知識の提供を行い、後半では、実際に発生したイン…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "141b71d9fbdacc5bf175"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
