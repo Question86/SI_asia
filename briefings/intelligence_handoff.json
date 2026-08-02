@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T20:18:34Z",
+  "generated_at": "2026-08-02T20:45:19Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.76,
+      "age_days": 44.78,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T18:41:59.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T14:51:20.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:08.040+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -147,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T16:56:05.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T15:14:00.204+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -195,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T14:39:40.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -219,7 +219,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -239,11 +239,36 @@
       "summary": "Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)"
     },
     {
+      "title": "M 4.5 - 85 km SSE of Shikotan, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thna",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T20:28:29.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-02 20:02:10 UTC 2026-08-02 20:02:10 UTC at epicenter Location 43.068°N 147.055°E Depth 35.00 km (21.75 mi)"
+    },
+    {
       "title": "M 5.0 - south of Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T15:55:19.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -268,7 +293,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T13:30:43.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -287,31 +312,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-02 13:10:47 UTC 2026-08-02 13:10:47 UTC at epicenter Location 27.374°N 111.061°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.3 - north of Ascension Island",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-02T12:26:21.040+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-02 11:52:33 UTC 2026-08-02 11:52:33 UTC at epicenter Location 3.214°S 12.176°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
