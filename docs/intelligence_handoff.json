@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T14:52:54Z",
+  "generated_at": "2026-08-02T15:21:35Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.54,
+      "age_days": 44.56,
       "topics": [
         "ai"
       ],
@@ -62,17 +62,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 44.5d old signal",
+        "aging penalty -8.0 for 44.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.9 - 207 km NW of Oula Xiuma, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T14:51:20.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-02 14:31:42 UTC 2026-08-02 14:31:42 UTC at epicenter Location 35.392°N 99.327°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 4.6 - 73 km W of San Antonio de los Cobres, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:08.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -97,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T14:39:40.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -121,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "disaster"
       ],
@@ -145,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T13:30:43.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -170,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T12:26:21.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -195,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T10:53:14.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -220,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:37:08.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -245,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T03:52:37.693+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -270,7 +295,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T00:29:12.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -289,30 +314,6 @@
         "high terms: 9.8"
       ],
       "summary": "Time 2026-08-02 00:13:38 UTC 2026-08-02 00:13:38 UTC at epicenter Location 49.867°N 155.171°E Depth 80.69 km (50.14 mi)"
-    },
-    {
-      "title": "M 5.6 - 14 km S of Hicks Bay, New Zealand",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-02T09:24:12.354+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)"
     }
   ],
   "read_order": [
