@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T03:53:59+00:00_
+_Generiert: 2026-08-02T05:03:13+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+11 neue relevante Treffer. Stärkstes Signal: „OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
