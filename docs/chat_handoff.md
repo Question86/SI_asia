@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-02T23:04:18+00:00_
+_Generated: 2026-08-02T23:28:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `41`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-02T23:04:18+00:00_
 - url: https://note.com/nobel/n/n92fb2ecf10f4
 - summary: この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい...
 
-### 3. M 4.7 - 170 km SE of Sarangani, Philippines
+### 3. M 4.5 - 16 km SW of Sarangani, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-02T23:07:31.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thp0
+- summary: Time 2026-08-02 22:48:30 UTC 2026-08-02 22:48:30 UTC at epicenter Location 5.298°N 125.361°E Depth 10.41 km (6.47 mi)
+
+### 4. M 4.7 - 170 km SE of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-02T16:56:05.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn
 - summary: Time 2026-08-02 16:27:02 UTC 2026-08-02 16:27:02 UTC at epicenter Location 4.175°N 126.390°E Depth 29.55 km (18.36 mi)
-
-### 4. M 4.8 - 18 km N of Honchō, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-02T15:14:00.204+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9
-- summary: DYFI? - III Time 2026-08-02 14:49:47 UTC 2026-08-02 14:49:47 UTC at epicenter Location 42.294°N 142.919°E Depth 62.56 km (38.87 mi)
 
 ### 5. M 5.6 - 14 km S of Hicks Bay, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
