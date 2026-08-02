@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-02T14:29:23Z",
+  "generated_at": "2026-08-02T14:52:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 33,
     "bands": {
       "extreme": 1,
       "strong": 1,
-      "watch": 12,
-      "quiet": 17
+      "watch": 13,
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 12,
-      "quiet": 17
+      "watch": 13,
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.52,
+      "age_days": 44.54,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:08.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -101,11 +101,35 @@
       "summary": "Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)"
     },
     {
+      "title": "M 4.6 - 65 km NW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T14:39:40.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-02 14:17:41 UTC 2026-08-02 14:17:41 UTC at epicenter Location 8.453°S 121.214°E Depth 51.44 km (31.96 mi)"
+    },
+    {
       "title": "M 4.8 - 64 km ENE of Noda, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -129,7 +153,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T13:30:43.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -154,7 +178,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T12:26:21.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -179,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T10:53:14.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -204,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:37:08.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -229,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T03:52:37.693+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -254,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T00:29:12.040+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -279,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:12.354+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -303,7 +327,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T05:33:42.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -327,7 +351,7 @@
       "url": "https://note.com/nobel/n/n92fb2ecf10f4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T00:41:48+00:00",
-      "age_days": 1.57,
+      "age_days": 1.59,
       "topics": [
         "ai"
       ],
@@ -353,7 +377,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T08:38:02.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -377,7 +401,7 @@
       "url": "https://github.com/microsoft/skill-recorder",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T00:10:53+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -402,7 +426,7 @@
       "url": "https://togetter.com/li/2727744",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T03:47:58+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -426,7 +450,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T05:53:06.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "disaster"
@@ -454,7 +478,7 @@
       "url": "https://forbesjapan.com/articles/detail/102130",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T10:15:14+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -480,7 +504,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T09:00:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -504,7 +528,7 @@
       "url": "https://blog.magnolia.tech/entry/2026/08/02/133343",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T04:43:57+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -528,7 +552,7 @@
       "url": "https://anond.hatelabo.jp/20260802123158",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T03:43:36+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -548,11 +572,35 @@
       "summary": "anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は..."
     },
     {
+      "title": "ＡＩで生成した画像や動画、ＥＵが識別できる表示義務づけ…違反なら最大２７億円か年売上高３％の制裁金",
+      "url": "https://www.yomiuri.co.jp/economy/20260801-GYT1T00222/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-01T11:23:54+00:00",
+      "age_days": 1.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "【読売新聞】 【ブリュッセル＝秋山洋成】欧州連合（ＥＵ）は２日、ＡＩ（人工知能）で生成・加工した画像や音声、動画などの内容に対し、利用者がＡＩによるものだと分かる表示をするよう事業者に義務づける。規制によって利用者を偽情報などから守"
+    },
+    {
       "title": "セキュリティの仕事は、社内に落ちている──情シス・インフラが最初に拾うべき5つ",
       "url": "https://zenn.dev/gangy/articles/7ae64ac2a9e435",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T06:32:51+00:00",
-      "age_days": 1.33,
+      "age_days": 1.35,
       "topics": [
         "general"
       ],
@@ -576,7 +624,7 @@
       "url": "https://www.nichepcgamer.com/archives/post-131358.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T05:27:47+00:00",
-      "age_days": 1.38,
+      "age_days": 1.39,
       "topics": [
         "general"
       ],
@@ -600,7 +648,7 @@
       "url": "https://speakerdeck.com/z63d/about-how-the-new-slo-is-fitting-in-nicely",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T01:00:01+00:00",
-      "age_days": 1.56,
+      "age_days": 1.58,
       "topics": [
         "general"
       ],
@@ -624,7 +672,7 @@
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -649,7 +697,7 @@
       "url": "https://gihyo.jp/book/2026/978-4-297-15788-3",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T02:18:06+00:00",
-      "age_days": 2.51,
+      "age_days": 2.52,
       "topics": [
         "ai"
       ],
@@ -675,7 +723,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 43.49,
+      "age_days": 43.5,
       "topics": [
         "general"
       ],
@@ -700,7 +748,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 43.49,
+      "age_days": 43.5,
       "topics": [
         "general"
       ],
@@ -725,7 +773,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 43.49,
+      "age_days": 43.5,
       "topics": [
         "ai"
       ],
@@ -752,7 +800,7 @@
       "url": "https://saize-lw.hatenablog.com/entry/2026/08/01/205832",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T23:55:37+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -777,7 +825,7 @@
       "url": "https://www.agrinews.co.jp/opinion/index/381216",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-05-20T01:32:21+00:00",
-      "age_days": 74.54,
+      "age_days": 74.56,
       "topics": [
         "general"
       ],
@@ -792,7 +840,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 74.5d old signal"
+        "aging penalty -16.0 for 74.6d old signal"
       ],
       "summary": "米国政府が、生食用ジャガイモの輸入解禁を日本に求めている。米国は３月末、解禁に向けた協議が進展しているとの報告書を公表。日本の産地は、病害虫のまん延防止に神経をとがらせている最中だけに、拙速な解禁に踏み切らないよう、日本政府には毅然とした対応を求めたい。 米国産の生鮮ジャガイモは、大幅な減収をもた..."
     }
