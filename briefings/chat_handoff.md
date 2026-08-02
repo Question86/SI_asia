@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-02T14:08:49+00:00_
+_Generated: 2026-08-02T14:43:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `29`
 
 ## Top Signals
 
@@ -22,35 +22,42 @@ _Generated: 2026-08-02T14:08:49+00:00_
 - url: https://note.com/nobel/n/n92fb2ecf10f4
 - summary: この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい...
 
-### 3. M 4.8 - 64 km ENE of Noda, Japan
+### 3. M 4.6 - 65 km NW of Ende, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-02T14:39:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6
+- summary: Time 2026-08-02 14:17:41 UTC 2026-08-02 14:17:41 UTC at epicenter Location 8.453°S 121.214°E Depth 51.44 km (31.96 mi)
+
+### 4. M 4.8 - 64 km ENE of Noda, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-02T01:08:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm
 - summary: Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)
 
-### 4. M 5.6 - 14 km S of Hicks Bay, New Zealand
+### 5. M 5.6 - 14 km S of Hicks Bay, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-08-02T09:24:12.354+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)
 
-### 5. Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 6. Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-02T10:15:14+00:00`
 - url: https://forbesjapan.com/articles/detail/102130
 - summary: 「組織は、公共や宿泊施設のネットワークインフラが信頼できない可能性があると想定すべきだ」と、マイクロソフトは米国時間7月31日に警告した。これは、出張者に対する同社のセキュリティアドバイスが著しく厳格化したことを示している。ロシアのサイバー攻撃者（脅威アクター）によるものとされる新たなハッキングの脅...
 
-### 6. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
+### 7. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-02T09:24:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6
 - summary: Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)
 
-### 7. M 4.8 - 77 km SE of Atka, Alaska
+### 8. M 4.8 - 77 km SE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-02T05:33:42.040+00:00`
