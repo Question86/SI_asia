@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-02T14:43:05+00:00_
+_Generated: 2026-08-02T15:08:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-02T14:43:05+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)
 
-### 6. Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 6. M 4.9 - 207 km NW of Oula Xiuma, China
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-02T14:51:20.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm7
+- summary: Time 2026-08-02 14:31:42 UTC 2026-08-02 14:31:42 UTC at epicenter Location 35.392°N 99.327°E Depth 10.00 km (6.21 mi)
+
+### 7. Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-02T10:15:14+00:00`
 - url: https://forbesjapan.com/articles/detail/102130
 - summary: 「組織は、公共や宿泊施設のネットワークインフラが信頼できない可能性があると想定すべきだ」と、マイクロソフトは米国時間7月31日に警告した。これは、出張者に対する同社のセキュリティアドバイスが著しく厳格化したことを示している。ロシアのサイバー攻撃者（脅威アクター）によるものとされる新たなハッキングの脅...
 
-### 7. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
+### 8. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-02T09:24:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6
 - summary: Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)
-
-### 8. M 4.8 - 77 km SE of Atka, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-02T05:33:42.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg
-- summary: ShakeMap - III Time 2026-08-02 05:18:40 UTC 2026-08-02 05:18:40 UTC at epicenter Location 51.658°N 173.480°W Depth 44.29 km (27.52 mi)
 
 END OF DOCUMENT
