@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T15:08:48+00:00_
+_Generiert: 2026-08-02T15:35:25+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+31 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,6 +83,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 18 km N of Honchō, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-02T15:14:00.204+00:00`, fetched `2026-08-02T15:34:57+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-08-02 14:49:47 UTC 2026-08-02 14:49:47 UTC at epicenter Location 42.294°N 142.919°E Depth 62.56 km (38.87 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 65 km NW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-02T14:39:40.040+00:00`, fetched `2026-08-02T14:42:35+00:00`

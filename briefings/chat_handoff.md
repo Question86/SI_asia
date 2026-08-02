@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-02T15:08:48+00:00_
+_Generated: 2026-08-02T15:35:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-02T15:08:48+00:00_
 - url: https://note.com/nobel/n/n92fb2ecf10f4
 - summary: この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい...
 
-### 3. M 4.6 - 65 km NW of Ende, Indonesia
+### 3. M 4.8 - 18 km N of Honchō, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-02T15:14:00.204+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9
+- summary: DYFI? - III Time 2026-08-02 14:49:47 UTC 2026-08-02 14:49:47 UTC at epicenter Location 42.294°N 142.919°E Depth 62.56 km (38.87 mi)
+
+### 4. M 4.6 - 65 km NW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-02T14:39:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6
 - summary: Time 2026-08-02 14:17:41 UTC 2026-08-02 14:17:41 UTC at epicenter Location 8.453°S 121.214°E Depth 51.44 km (31.96 mi)
-
-### 4. M 4.8 - 64 km ENE of Noda, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-02T01:08:41.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm
-- summary: Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)
 
 ### 5. M 5.6 - 14 km S of Hicks Bay, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
