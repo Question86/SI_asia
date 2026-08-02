@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T09:37:53Z",
+  "generated_at": "2026-08-02T10:17:27Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.32,
+      "age_days": 44.35,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:08.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -117,11 +117,36 @@
       "summary": "Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)"
     },
     {
+      "title": "M 5.0 - north of Ascension Island",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T09:37:08.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-02 09:17:11 UTC 2026-08-02 09:17:11 UTC at epicenter Location 3.295°S 12.244°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 7 km SSW of Yumare, Venezuela",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T03:52:37.693+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -146,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T00:29:12.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -171,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:12.354+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -195,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T05:33:42.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -219,7 +244,7 @@
       "url": "https://note.com/nobel/n/n92fb2ecf10f4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-01T00:41:48+00:00",
-      "age_days": 1.37,
+      "age_days": 1.4,
       "topics": [
         "ai"
       ],
@@ -245,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T08:38:02.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -269,7 +294,7 @@
       "url": "https://github.com/microsoft/skill-recorder",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T00:10:53+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -288,34 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Record yourself doing a task once, then turn it into a skill your AI agent can repeat. Skill Recorder captures a real work session on your screen: the clicks, the app and window switches, the pages you visit, and (if you want) your spoken narration. It then uses the GitHub Copilot CLI to reconstr..."
-    },
-    {
-      "title": "M 4.9 - 36 km SSW of Mendi, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-02T05:53:06.040+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Time 2026-08-02 05:38:58 UTC 2026-08-02 05:38:58 UTC at epicenter Location 6.471°S 143.588°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -328,8 +325,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 8,
-      "quiet": 2
+      "watch": 9,
+      "quiet": 1
     }
   }
 }
