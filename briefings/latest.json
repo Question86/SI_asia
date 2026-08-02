@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T15:35:25+00:00",
-  "run_id": "2026-08-02T15:35:25+00:00",
+  "generated_at": "2026-08-02T15:59:00+00:00",
+  "run_id": "2026-08-02T15:59:00+00:00",
   "date": "2026-08-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 5,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -426,6 +426,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c61ba38227f4c7b47acc"
+      },
+      {
+        "title": "M 5.0 - south of Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-02T15:55:19.040+00:00",
+        "fetched_at": "2026-08-02T15:58:32+00:00",
+        "summary": "Time 2026-08-02 15:35:30 UTC 2026-08-02 15:35:30 UTC at epicenter Location 25.044°S 175.132°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "058eb9082e0582337ff1"
       },
       {
         "title": "M 5.1 - 60 km W of Bahía de Lobos, Mexico",
@@ -1346,6 +1382,42 @@
       "id": "c61ba38227f4c7b47acc"
     },
     {
+      "title": "M 5.0 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-02T15:55:19.040+00:00",
+      "fetched_at": "2026-08-02T15:58:32+00:00",
+      "summary": "Time 2026-08-02 15:35:30 UTC 2026-08-02 15:35:30 UTC at epicenter Location 25.044°S 175.132°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "058eb9082e0582337ff1"
+    },
+    {
       "title": "M 5.1 - 60 km W of Bahía de Lobos, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1867,20 +1939,19 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 18 km N of Honchō, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9",
+      "title": "M 5.0 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-02T15:14:00.204+00:00",
-      "fetched_at": "2026-08-02T15:34:57+00:00",
-      "summary": "DYFI? - III Time 2026-08-02 14:49:47 UTC 2026-08-02 14:49:47 UTC at epicenter Location 42.294°N 142.919°E Depth 62.56 km (38.87 mi)",
+      "published_at": "2026-08-02T15:55:19.040+00:00",
+      "fetched_at": "2026-08-02T15:58:32+00:00",
+      "summary": "Time 2026-08-02 15:35:30 UTC 2026-08-02 15:35:30 UTC at epicenter Location 25.044°S 175.132°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -1901,7 +1972,7 @@
         "HD",
         "LOW"
       ],
-      "id": "39c4b19de2948ed03721"
+      "id": "058eb9082e0582337ff1"
     }
   ],
   "source_errors": [],

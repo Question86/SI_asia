@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T15:35:25+00:00_
+_Generiert: 2026-08-02T15:59:00+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+32 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
