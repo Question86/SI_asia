@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T12:33:49+00:00_
+_Generiert: 2026-08-02T12:57:54+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+25 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: 21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian | Burmese (Myanmar) | Chinese (Simplified) | Chinese (Traditional, Hong Kong) | Chinese (Traditional, Macau) | Chinese (Traditional, Taiwan) | Croatian | Czech…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/02/165033)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-02T09:00:51+00:00`, fetched `2026-08-02T12:57:24+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年7月29日、公益社団法人2025年日本国際博覧会協会は、過去に大阪・関西万博の関連事業で専用サイトとして使用していた複数のドメインについて「既に運用を終了しております」としたうえで、現在これらのドメインを使ったURLやメールアドレスが使われていても協会の事業とは全く関係ないと注意喚起しました。piyokan...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech** — Score 5, observation — [Quelle](https://blog.magnolia.tech/entry/2026/08/02/133343)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-02T04:43:57+00:00`, fetched `2026-08-02T12:33:17+00:00`
@@ -157,15 +166,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 人間が大好き2 @hito_horobe2 『2ch、発言小町、はてな、ヤフトピ ネット釣り師が人々をとりこにする手口はこんなに凄い』(2014)再読した 嘘で注目を集める人たちが好んで使う題材の一覧は相変わらず有効という印象で進歩のなさが悲しい pic.x.com/GcFGQ2aFcG 2026-08-01 14:00:45 人間が大好き2 @hito_horobe2 この本...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260802123158)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-02T03:43:36+00:00`, fetched `2026-08-02T07:04:16+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
