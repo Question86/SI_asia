@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T08:41:42+00:00_
+_Generiert: 2026-08-02T09:26:43+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+18 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -42,6 +42,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.6 - 14 km S of Hicks Bay, New Zealand** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-02T09:24:12.354+00:00`, fetched `2026-08-02T09:26:09+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - 73 km W of San Antonio de los Cobres, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-02T09:24:08.040+00:00`, fetched `2026-08-02T09:26:09+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 77 km SE of Atka, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-02T05:33:42.040+00:00`, fetched `2026-08-02T06:06:14+00:00`
@@ -69,24 +87,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: 21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian | Burmese (Myanmar) | Chinese (Simplified) | Chinese (Traditional, Hong Kong) | Chinese (Traditional, Macau) | Chinese (Traditional, Taiwan) | Croatian | Czech…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 149 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-02T08:38:02.040+00:00`, fetched `2026-08-02T08:41:08+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-02 08:22:06 UTC 2026-08-02 08:22:06 UTC at epicenter Location 49.329°N 156.201°E Depth 33.83 km (21.02 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 36 km SSW of Mendi, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thki)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-02T05:53:06.040+00:00`, fetched `2026-08-02T06:06:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-02 05:38:58 UTC 2026-08-02 05:38:58 UTC at epicenter Location 6.471°S 143.588°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260802123158)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-02T03:43:36+00:00`, fetched `2026-08-02T07:04:16+00:00`

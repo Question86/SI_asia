@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-02T08:41:42+00:00",
+  "generated_at": "2026-08-02T09:26:43+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 3,
-    "observe": 13
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,6 +45,26 @@
       "section": "medium"
     },
     {
+      "title": "M 5.6 - 14 km S of Hicks Bay, New Zealand",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-02T09:24:12.354+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3",
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "M 4.6 - 73 km W of San Antonio de los Cobres, Argentina",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-02T09:24:08.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
+      "summary": "Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.8 - 77 km SE of Atka, Alaska",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -63,26 +83,6 @@
       "url": "https://github.com/usekaneo/kaneo",
       "summary": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. Quick Start | Website | Cloud | Discord Why Kaneo? After years of using bloated, overcomplicated project management platforms that distracted from actual wo…",
       "section": "observe"
-    },
-    {
-      "title": "microsoft/generative-ai-for-beginners",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 11,
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "summary": "21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian…",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.9 - 149 km S of Severo-Kuril’sk, Russia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-02T08:38:02.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2",
-      "summary": "Time 2026-08-02 08:22:06 UTC 2026-08-02 08:22:06 UTC at epicenter Location 49.329°N 156.201°E Depth 33.83 km (21.02 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -90,144 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “usekaneo/kaneo” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=36.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "usekaneo/kaneo",
-        "url": "https://github.com/usekaneo/kaneo",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-02T03:53:27+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 36.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. Quick Start | Website | Cloud | Discord Why Kaneo? After years of using bloated, overcomplicated project management platforms that distracted from actual work, we built Kaneo to be different. The problem with most to…"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 44.28,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 44.3d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.8 - 64 km ENE of Noda, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-02T01:08:41.040+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)"
-      },
-      {
-        "title": "M 4.5 - 7 km SSW of Yumare, Venezuela",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-02T03:52:37.693+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - IV Time 2026-08-02 03:16:45 UTC 2026-08-02 03:16:45 UTC at epicenter Location 10.533°N 68.690°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.2 - 112 km SW of Severo-Kuril’sk, Russia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-02T00:29:12.040+00:00",
-        "age_days": 0.35,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 9.8"
-        ],
-        "summary": "Time 2026-08-02 00:13:38 UTC 2026-08-02 00:13:38 UTC at epicenter Location 49.867°N 155.171°E Depth 80.69 km (50.14 mi)"
-      }
-    ]
-  }
+  ]
 }

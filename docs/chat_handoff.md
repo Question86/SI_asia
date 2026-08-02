@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-02T08:41:42+00:00_
+_Generated: 2026-08-02T09:26:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-08-02T08:41:42+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm
 - summary: Time 2026-08-02 00:45:40 UTC 2026-08-02 00:45:40 UTC at epicenter Location 40.302°N 142.532°E Depth 56.35 km (35.02 mi)
 
-### 4. M 4.8 - 77 km SE of Atka, Alaska
+### 4. M 5.6 - 14 km S of Hicks Bay, New Zealand
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-02T09:24:12.354+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)
+
+### 5. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-02T09:24:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6
+- summary: Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)
+
+### 6. M 4.8 - 77 km SE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-02T05:33:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg
 - summary: ShakeMap - III Time 2026-08-02 05:18:40 UTC 2026-08-02 05:18:40 UTC at epicenter Location 51.658°N 173.480°W Depth 44.29 km (27.52 mi)
 
-### 5. usekaneo/kaneo
+### 7. usekaneo/kaneo
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/usekaneo/kaneo
 - summary: 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. Quick Start | Website | Cloud | Discord Why Kaneo? After years of using bloated, overcomplicated project management platforms that distracted from actual wo…
-
-### 6. microsoft/generative-ai-for-beginners
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/microsoft/generative-ai-for-beginners
-- summary: 21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian…
-
-### 7. M 4.9 - 149 km S of Severo-Kuril’sk, Russia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-02T08:38:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl2
-- summary: Time 2026-08-02 08:22:06 UTC 2026-08-02 08:22:06 UTC at epicenter Location 49.329°N 156.201°E Depth 33.83 km (21.02 mi)
 
 END OF DOCUMENT
