@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T09:26:43+00:00_
+_Generiert: 2026-08-02T10:07:59+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+19 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,6 @@ _Generiert: 2026-08-02T09:26:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:154.355km) in Peru 31/07/2026 00:58 UTC, 210 thousand in MMI IV.
-- **USGS earthquake M5.6 - 14 km S of Hicks Bay, New Zealand** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3)
-  - Quelle: USGS
-  - Zeit: `2026-08-02T08:35:27+00:00`
-  - Kurz: M5.6 - 14 km S of Hicks Bay, New Zealand. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
