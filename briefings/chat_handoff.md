@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-02T12:57:54+00:00_
+_Generated: 2026-08-02T13:32:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-08-02T12:57:54+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl3
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-08-02 08:35:27 UTC 2026-08-02 08:35:27 UTC at epicenter Location 37.730°S 178.329°E Depth 52.81 km (32.81 mi)
 
-### 5. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
+### 5. Windowsユーザーは「ホテルのWi-Fiは使うな」マイクロソフトが緊急警告 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-02T10:15:14+00:00`
+- url: https://forbesjapan.com/articles/detail/102130
+- summary: 「組織は、公共や宿泊施設のネットワークインフラが信頼できない可能性があると想定すべきだ」と、マイクロソフトは米国時間7月31日に警告した。これは、出張者に対する同社のセキュリティアドバイスが著しく厳格化したことを示している。ロシアのサイバー攻撃者（脅威アクター）によるものとされる新たなハッキングの脅...
+
+### 6. M 4.6 - 73 km W of San Antonio de los Cobres, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-02T09:24:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6
 - summary: Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)
 
-### 6. M 4.8 - 77 km SE of Atka, Alaska
+### 7. M 4.8 - 77 km SE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-02T05:33:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thkg
 - summary: ShakeMap - III Time 2026-08-02 05:18:40 UTC 2026-08-02 05:18:40 UTC at epicenter Location 51.658°N 173.480°W Depth 44.29 km (27.52 mi)
-
-### 7. usekaneo/kaneo
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/usekaneo/kaneo
-- summary: 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. Quick Start | Website | Cloud | Discord Why Kaneo? After years of using bloated, overcomplicated project management platforms that distracted from actual wo…
 
 END OF DOCUMENT
