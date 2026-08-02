@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T16:44:57+00:00",
-  "run_id": "2026-08-02T16:44:57+00:00",
+  "generated_at": "2026-08-02T17:10:48+00:00",
+  "run_id": "2026-08-02T17:10:48+00:00",
   "date": "2026-08-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 28,
     "source_errors": 0
   },
@@ -99,6 +99,43 @@
           "PINS"
         ],
         "id": "3ff61b9eec2f5ed0bd38"
+      },
+      {
+        "title": "M 4.7 - 170 km SE of Sarangani, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-02T16:56:05.040+00:00",
+        "fetched_at": "2026-08-02T17:10:18+00:00",
+        "summary": "Time 2026-08-02 16:27:02 UTC 2026-08-02 16:27:02 UTC at epicenter Location 4.175°N 126.390°E Depth 29.55 km (18.36 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "638270cd0f64c1f92bce"
       },
       {
         "title": "M 4.8 - 18 km N of Honchō, Japan",
@@ -1093,6 +1130,43 @@
       "id": "3ff61b9eec2f5ed0bd38"
     },
     {
+      "title": "M 4.7 - 170 km SE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-02T16:56:05.040+00:00",
+      "fetched_at": "2026-08-02T17:10:18+00:00",
+      "summary": "Time 2026-08-02 16:27:02 UTC 2026-08-02 16:27:02 UTC at epicenter Location 4.175°N 126.390°E Depth 29.55 km (18.36 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "638270cd0f64c1f92bce"
+    },
+    {
       "title": "M 4.8 - 18 km N of Honchō, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2011,19 +2085,20 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 8 km N of Belén, Nicaragua",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmh",
+      "title": "M 4.7 - 170 km SE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-02T16:25:21.040+00:00",
-      "fetched_at": "2026-08-02T16:44:25+00:00",
-      "summary": "Time 2026-08-02 16:09:30 UTC 2026-08-02 16:09:30 UTC at epicenter Location 11.579°N 85.898°W Depth 136.51 km (84.82 mi)",
+      "published_at": "2026-08-02T16:56:05.040+00:00",
+      "fetched_at": "2026-08-02T17:10:18+00:00",
+      "summary": "Time 2026-08-02 16:27:02 UTC 2026-08-02 16:27:02 UTC at epicenter Location 4.175°N 126.390°E Depth 29.55 km (18.36 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2044,7 +2119,7 @@
         "HD",
         "LOW"
       ],
-      "id": "88c35741601ad522a8e3"
+      "id": "638270cd0f64c1f92bce"
     }
   ],
   "source_errors": [],
