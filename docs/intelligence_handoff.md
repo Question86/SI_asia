@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-02T23:17:30Z_
+_Generated: 2026-08-02T23:46:35Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-02T03:53:27+00:00` / age_days `0.81`
+- Published: `2026-08-02T03:53:27+00:00` / age_days `0.83`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -22,17 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `44.89`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `44.91`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 44.9d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
+### M 4.5 - 16 km SW of Sarangani, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-08-02T23:07:31.040+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thp0
+
 ### M 5.0 - 16 km NW of Changning, China
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-02T18:41:59.040+00:00` / age_days `0.19`
+- Published: `2026-08-02T18:41:59.040+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-02T14:51:20.040+00:00` / age_days `0.35`
+- Published: `2026-08-02T14:51:20.040+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-02T09:24:08.040+00:00` / age_days `0.58`
+- Published: `2026-08-02T09:24:08.040+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-02T16:56:05.040+00:00` / age_days `0.26`
+- Published: `2026-08-02T16:56:05.040+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-02T15:14:00.204+00:00` / age_days `0.34`
+- Published: `2026-08-02T15:14:00.204+00:00` / age_days `0.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-02T14:39:40.040+00:00` / age_days `0.36`
+- Published: `2026-08-02T14:39:40.040+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-02T01:08:41.040+00:00` / age_days `0.92`
+- Published: `2026-08-02T01:08:41.040+00:00` / age_days `0.94`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-02T20:28:29.040+00:00` / age_days `0.12`
+- Published: `2026-08-02T20:28:29.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-02T15:55:19.040+00:00` / age_days `0.31`
+- Published: `2026-08-02T15:55:19.040+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd
-
-### M 5.1 - 60 km W of Bahía de Lobos, Mexico
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-08-02T13:30:43.040+00:00` / age_days `0.41`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1
 
 END OF DOCUMENT
