@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T12:07:59+00:00_
+_Generiert: 2026-08-02T12:33:49+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+24 neue relevante Treffer. Stärkstes Signal: „GitHub - microsoft/skill-recorder“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: 21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian | Burmese (Myanmar) | Chinese (Simplified) | Chinese (Traditional, Hong Kong) | Chinese (Traditional, Macau) | Chinese (Traditional, Taiwan) | Croatian | Czech…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **『エンジニアのための自己管理入門』で自身の”行動を設計”する - Magnolia Tech** — Score 5, observation — [Quelle](https://blog.magnolia.tech/entry/2026/08/02/133343)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-02T04:43:57+00:00`, fetched `2026-08-02T12:33:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: エンジニアのための自己管理入門【リフロー型】 堅牢でスケーラブルな働き方を構築する技術 作者:小田中 育生翔泳社Amazon 小田中育生さんが執筆された『エンジニアのための自己管理入門』を購入して読みました。 とにかく扱っている話題の幅が広く、筆者の引き出しの多さに感心させられましたが、何より構成の素晴らし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「この図を作った人は面識のない男に刺されて死んだ」10年以上前に書かれた本、嘘で注目を集めるための題材が今も有効という印象を感じる** — Score 5, observation — [Quelle](https://togetter.com/li/2727744)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-02T03:47:58+00:00`, fetched `2026-08-02T10:45:20+00:00`
@@ -157,15 +166,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **26/8/1 キヴォトスではガチャを期待値で語るのは恥ずかしいことなんだよ - LWのサイゼリヤ** — Score 5, observation — [Quelle](https://saize-lw.hatenablog.com/entry/2026/08/01/205832)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-01T23:55:37+00:00`, fetched `2026-08-02T03:53:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 回してないのに熱いよ～ まだ皆が読んでるうちにグラフを貼る ガチャストレスのモデリングをしよう ユーザーの気持ちになるですよ 別に読まなくていい数学 ガチャストレスを可視化しよう 旧仕様のストレス体験 新仕様のストレス体験 ユーザーごとのストレス体験 平均的な運のユーザー 運の悪いユーザー 運の良いユーザー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
