@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T07:04:47+00:00_
+_Generiert: 2026-08-02T07:52:23+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-08-02T07:04:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
+- **GDACS: Green flood alert in Poland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104064)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Poland
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555461)
   - Quelle: GDACS
   - Zeit: ``

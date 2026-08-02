@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:04:51+00:00",
+  "generated_at": "2026-08-02T07:52:27+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-50522"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Poland",
+        "summary": "Green flood alert in Poland",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104064",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

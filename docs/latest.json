@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T07:04:47+00:00",
-  "run_id": "2026-08-02T07:04:47+00:00",
+  "generated_at": "2026-08-02T07:52:23+00:00",
+  "run_id": "2026-08-02T07:52:23+00:00",
   "date": "2026-08-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -883,29 +883,7 @@
       "id": "2aed1dfa8c3ac93fb301"
     }
   ],
-  "new_findings": [
-    {
-      "title": "昔ベンチャーで働いてた頃、役員に〇されて俺は内臓の一部がない",
-      "url": "https://anond.hatelabo.jp/20260802123158",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-02T03:43:36+00:00",
-      "fetched_at": "2026-08-02T07:04:16+00:00",
-      "summary": "anond:20260801194409 こういう記事がバズっているので、ふとこの増田を見てたら昔を思い出したので気持ちの整理がてらに書いておこうと思う。 題名通り、俺には内臓の一部がない、無いというより厳密には、胃が半分ない。また、利き腕が神経障害で握力が殆どないし、一定以上の速さで動かすだけで痺れが出るので普段は...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee7db942710cf9d0f091"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
