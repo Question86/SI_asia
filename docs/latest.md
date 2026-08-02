@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-02T01:41:11+00:00_
+_Generiert: 2026-08-02T03:53:59+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 64 km ENE of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+10 neue relevante Treffer. Stärkstes Signal: „OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki** — Score 16, observation — [Quelle](https://note.com/nobel/n/n92fb2ecf10f4)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-01T00:41:48+00:00`, fetched `2026-08-02T03:53:27+00:00`
+  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安く、Grokもコストパフォーマンスがいい...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 64 km ENE of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-02T01:08:41.040+00:00`, fetched `2026-08-02T01:40:36+00:00`
@@ -24,6 +33,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **usekaneo/kaneo** — Score 11, opportunity — [Quelle](https://github.com/usekaneo/kaneo)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-02T03:53:27+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Open Source, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. Quick Start | Website | Cloud | Discord Why Kaneo? After years of using bloated, overcomplicated project management platforms that distracted from actual work, we built Kaneo to be different. The problem with most tools isn't that they lack features—it's that they have too many . Every notification, every unnecessa…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **microsoft/generative-ai-for-beginners** — Score 11, observation — [Quelle](https://github.com/microsoft/generative-ai-for-beginners)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-02T03:53:27+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0)
+  - Kurz: 21 Lessons, Get Started Building with Generative AI 21 Lessons teaching everything you need to know to start building Generative AI applications 🌐 Multi-Language Support Supported via GitHub Action (Automated & Always Up-to-Date) Arabic | Bengali | Bulgarian | Burmese (Myanmar) | Chinese (Simplified) | Chinese (Traditional, Hong Kong) | Chinese (Traditional, Macau) | Chinese (Traditional, Taiwan) | Croatian | Czech…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 7 km SSW of Yumare, Venezuela** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thk4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-02T03:52:37.693+00:00`, fetched `2026-08-02T03:53:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-08-02 03:16:45 UTC 2026-08-02 03:16:45 UTC at epicenter Location 10.533°N 68.690°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 112 km SW of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thj5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-02T00:29:12.040+00:00`, fetched `2026-08-02T00:59:13+00:00`
@@ -33,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-02 00:13:38 UTC 2026-08-02 00:13:38 UTC at epicenter Location 49.867°N 155.171°E Depth 80.69 km (50.14 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **26/8/1 キヴォトスではガチャを期待値で語るのは恥ずかしいことなんだよ - LWのサイゼリヤ** — Score 5, observation — [Quelle](https://saize-lw.hatenablog.com/entry/2026/08/01/205832)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-01T23:55:37+00:00`, fetched `2026-08-02T03:53:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 回してないのに熱いよ～ まだ皆が読んでるうちにグラフを貼る ガチャストレスのモデリングをしよう ユーザーの気持ちになるですよ 別に読まなくていい数学 ガチャストレスを可視化しよう 旧仕様のストレス体験 新仕様のストレス体験 ユーザーごとのストレス体験 平均的な運のユーザー 運の悪いユーザー 運の良いユーザー...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **セキュリティの仕事は、社内に落ちている──情シス・インフラが最初に拾うべき5つ** — Score 5, observation — [Quelle](https://zenn.dev/gangy/articles/7ae64ac2a9e435)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-01T06:32:51+00:00`, fetched `2026-08-02T01:40:36+00:00`
@@ -51,24 +96,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: もう一度考えるSRE #1 https://topotal.connpass.com/event/399194/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **［論説］生食ジャガイモの輸入 拙速な解禁は許されぬ / 日本農業新聞公式ウェブサイト** — Score 4, observation — [Quelle](https://www.agrinews.co.jp/opinion/index/381216)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-05-20T01:32:21+00:00`, fetched `2026-08-02T00:59:13+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
-  - Kurz: 米国政府が、生食用ジャガイモの輸入解禁を日本に求めている。米国は３月末、解禁に向けた協議が進展しているとの報告書を公表。日本の産地は、病害虫のまん延防止に神経をとがらせている最中だけに、拙速な解禁に踏み切らないよう、日本政府には毅然とした対応を求めたい。 米国産の生鮮ジャガイモは、大幅な減収をもた...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4f428bce50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
