@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-02T16:45:59Z",
+  "generated_at": "2026-08-02T17:19:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “usekaneo/kaneo” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/usekaneo/kaneo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-02T03:53:27+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 44.62,
+      "age_days": 44.64,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T14:51:20.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thl6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T09:24:08.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -118,11 +118,35 @@
       "summary": "Time 2026-08-02 08:49:51 UTC 2026-08-02 08:49:51 UTC at epicenter Location 24.231°S 67.041°W Depth 172.53 km (107.20 mi)"
     },
     {
+      "title": "M 4.7 - 170 km SE of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-02T16:56:05.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-02 16:27:02 UTC 2026-08-02 16:27:02 UTC at epicenter Location 4.175°N 126.390°E Depth 29.55 km (18.36 mi)"
+    },
+    {
       "title": "M 4.8 - 18 km N of Honchō, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T15:14:00.204+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -146,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T14:39:40.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -170,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thjm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T01:08:41.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -194,7 +218,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T15:55:19.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -219,7 +243,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T13:30:43.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -244,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thly",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T12:26:21.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -269,7 +293,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-02T10:53:14.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -288,31 +312,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-02 10:34:14 UTC 2026-08-02 10:34:14 UTC at epicenter Location 23.739°S 174.944°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - north of Ascension Island",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thlb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-02T09:37:08.040+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-02 09:17:11 UTC 2026-08-02 09:17:11 UTC at epicenter Location 3.295°S 12.244°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
