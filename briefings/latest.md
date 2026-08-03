@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T19:30:43+00:00_
+_Generiert: 2026-08-03T20:08:29+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+67 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
