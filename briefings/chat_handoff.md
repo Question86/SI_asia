@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-03T20:08:29+00:00_
+_Generated: 2026-08-03T20:40:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `70`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-08-03T20:08:29+00:00_
 - url: https://jvn.jp/vu/JVNVU91736352/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 4. オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた
+- source: Hatena Bookmark Hotentry IT
+- score: `18`
+- published: `2026-08-03T09:58:20+00:00`
+- url: https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy
+- summary: はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 AI エージェントを業務に入れようとすると、必ず同じ壁にぶつかります。データはあるのに、業務の意味が渡っていないという壁です。 「売上」は total_amount の合計なのか、送料込みなのか、キャンセル分を引くのか 「この注文は...
+
+### 5. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-03T10:12:36+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1294
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierte Angriffe durchzuführen, die einen Denial-of-Service-Zustand, die Ausführung von Code oder eine Speicherbeschädigung verursachen können.
-
-### 5. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-03T09:36:10+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
 ### 6. Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication

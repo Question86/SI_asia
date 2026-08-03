@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T20:08:29+00:00_
+_Generiert: 2026-08-03T20:40:10+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+70 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ _Generiert: 2026-08-03T20:08:29+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた** — Score 18, observation — [Quelle](https://zenn.dev/aws_japan/articles/context-ontology-accelerator-deploy)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T09:58:20+00:00`, fetched `2026-08-03T20:39:41+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Open Source (+3.8); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 AI エージェントを業務に入れようとすると、必ず同じ壁にぶつかります。データはあるのに、業務の意味が渡っていないという壁です。 「売上」は total_amount の合計なのか、送料込みなのか、キャンセル分を引くのか 「この注文は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1294)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-03T10:12:36+00:00`, fetched `2026-08-03T11:10:09+00:00`
@@ -216,6 +225,15 @@ _Generiert: 2026-08-03T20:08:29+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami, shipping_chokepoints_supply_chain (+6.0)
   - Kurz: DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How we built a realtime system for responsive voice AI in six months** — Score 11, observation — [Quelle](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-03T07:00:00+00:00`, fetched `2026-08-03T20:39:41+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 66 km WNW of San Alejandro, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-03T01:58:41.040+00:00`, fetched `2026-08-03T02:26:52+00:00`
@@ -252,14 +270,14 @@ _Generiert: 2026-08-03T20:08:29+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.7 - 61 km S of Shikotan, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2)
+- **M 4.7 - 64 km SSW of Midelt, Morocco** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thv7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-03T15:05:33.040+00:00`, fetched `2026-08-03T15:17:33+00:00`
+  - Zeit: published `2026-08-03T20:31:39.040+00:00`, fetched `2026-08-03T20:39:41+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-03 14:39:45 UTC 2026-08-03 14:39:45 UTC at epicenter Location 43.255°N 146.848°E Depth 35.00 km (21.75 mi)
+  - Kurz: Time 2026-08-03 20:14:45 UTC 2026-08-03 20:14:45 UTC at epicenter Location 32.201°N 5.125°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective** — Score 9, observation — [Quelle](https://www.bis.org/review/r260731b.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -288,15 +306,6 @@ _Generiert: 2026-08-03T20:08:29+00:00_
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Michelle W Bowman: Responsible innovation and financial inclusion** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260730o.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-08-03T09:17:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)
-  - Kurz: Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at "Next-gen financial inclusion", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
