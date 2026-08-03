@@ -80,5 +80,147 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 45.0,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 45.0d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The most valuable employee in 2030 won’t be the smartest—it’ll be the one who knows how to work with AI",
+        "url": "https://e27.co/the-most-valuable-employee-in-2030-wont-be-the-smartest-itll-be-the-one-who-knows-how-to-work-with-ai-20260731/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-03T01:30:38+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "For most of modern history, organisations rewarded people for what they knew. Knowledge was power because information was scarce. The person with the most experience, the deepest expertise, or the strongest technical skills often became the most valuable person in the room. Artificial intelligence is quietly changing…"
+      },
+      {
+        "title": "Stakeholder: Mapping who can kill the deal quietly",
+        "url": "https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-03T01:15:42+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 24.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the decision maker, the user, the procurement lead, and perhaps one…"
+      },
+      {
+        "title": "M 5.3 - 41 km NNE of Suez, Egypt",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-03T00:54:24.050+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "ai",
+          "disaster"
+        ],
+        "dynamics_score": 12.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: supply, chain, earthquake",
+          "high terms: 10",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2129460.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-02T22:08:07+00:00",
+        "age_days": 0.16,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 10.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10"
+        ],
+        "summary": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を"
+      }
+    ]
+  }
 }
