@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T10:01:46+00:00_
+_Generiert: 2026-08-03T11:10:44+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+45 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -38,6 +38,15 @@ _Generiert: 2026-08-03T10:01:46+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1294)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-03T10:12:36+00:00`, fetched `2026-08-03T11:10:09+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierte Angriffe durchzuführen, die einen Denial-of-Service-Zustand, die Ausführung von Code oder eine Speicherbeschädigung verursachen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-03T09:36:10+00:00`, fetched `2026-08-03T10:01:17+00:00`
@@ -74,6 +83,15 @@ _Generiert: 2026-08-03T10:01:46+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+6.2); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the decision maker, the user, the procurement lead, and perhaps one […] The post Stakeholder: Mapping who can kill the deal quietly appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why Silicon Valley is divided over China’s powerful, cheap AI models** — Score 15, observation — [Quelle](https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-03T10:00:00+00:00`, fetched `2026-08-03T11:10:09+00:00`
+  - Treffer: AI/KI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98879231/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-03T12:30:00+09:00`, fetched `2026-08-03T03:44:34+00:00`
@@ -92,15 +110,6 @@ _Generiert: 2026-08-03T10:01:46+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: サイボウズ株式会社が提供するサイボウズ Garoonには、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [niedrig] Checkmk: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2519)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-03T07:18:05+00:00`, fetched `2026-08-03T07:23:07+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -158,14 +167,14 @@ _Generiert: 2026-08-03T10:01:46+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.8 - 152 km S of Hydaburg, Alaska** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attj6shm)
+- **M 4.9 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thra)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-03T09:45:18.737+00:00`, fetched `2026-08-03T10:01:17+00:00`
+  - Zeit: published `2026-08-03T11:10:23.040+00:00`, fetched `2026-08-03T11:10:09+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-08-03 09:17:46 UTC 2026-08-03 09:17:46 UTC at epicenter Location 53.837°N 132.974°W Depth 15.00 km (9.32 mi)
+  - Kurz: Time 2026-08-03 10:45:23 UTC 2026-08-03 10:45:23 UTC at epicenter Location 17.123°S 176.677°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **lyogavin/airllm** — Score 8, observation — [Quelle](https://github.com/lyogavin/airllm)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -212,6 +221,15 @@ _Generiert: 2026-08-03T10:01:46+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIで仕事を効率化したら、なぜか僕の仕事だけ増えた話** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260803162719)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T07:29:48+00:00`, fetched `2026-08-03T11:10:09+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: こんにちは。 突然ですが、みなさんは仕事を効率化していますか？ 僕はしていました。 めちゃくちゃしていました。 AIが世の中で騒がれ始めた頃から、「これは仕事のやり方が根本から変わるぞ」と思って、画像生成AIや文章生成AIを試し、社内業務に応用できそうな方法を検証し、結果を資料にまとめ、周囲に共有していま...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **宮本佳林『元アイドルがバイブコーディングできるようになるまで。』** — Score 5, observation — [Quelle](https://ameblo.jp/miyamotokarin-official/entry-12974640519.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-03T06:38:19+00:00`, fetched `2026-08-03T08:38:46+00:00`
@@ -229,15 +247,6 @@ _Generiert: 2026-08-03T10:01:46+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: BASE傘下のEストアー（東京都港区）は8月1日、ECサイト構築・運営支援サービス「ショップサーブ」が不正アクセスを受け、購入者の個人情報など最大885万3839件が漏えいしたと発表した。2日には漏えいした情報の内訳も公開。会員のID・パスワード・クレジットカード番号の一部などが含まれるという。件数は延べ数で、対象...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」** — Score 5, observation — [Quelle](https://togetter.com/li/2728344)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-03T02:27:15+00:00`, fetched `2026-08-03T03:44:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 蓑虫 @MinMin_minomusi 姪(小3)にiPadとApplePencil貸したらこれ 怒りたいのこっちなんやが🥹 え〜〜これ私が悪いカンジ？😅 pic.x.com/xdnBy4cNLb 2026-08-02 15:08:09 蓑虫 @MinMin_minomusi 姪のこと私なりに可愛がってはいるけど、周りの大人に甘やかされすぎてもう色々と手遅れ…な気がする ねだって買ってもらったも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

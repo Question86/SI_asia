@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-03T10:01:46+00:00_
+_Generated: 2026-08-03T11:10:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `41`
+- findings: `45`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-08-03T10:01:46+00:00_
 - url: https://jvn.jp/vu/JVNVU91736352/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-03T10:12:36+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1294
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierte Angriffe durchzuführen, die einen Denial-of-Service-Zustand, die Ausführung von Code oder eine Speicherbeschädigung verursachen können.
+
+### 5. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-03T09:36:10+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
-
-### 5. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-03T09:22:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, welche zu einem Denial-of-Service-Zustand, einer Rechteausweitung, der Ausführung von Code oder einer Speicherbeschädigung führen könnten.
 
 ### 6. Why TikTok Shop wants Singapore merchants to think like content teams
 - source: e27 Asia Startup and Tech Feed
