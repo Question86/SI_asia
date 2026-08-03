@@ -680,6 +680,54 @@
     "id": "a9e1737e6975d175967a"
   },
   {
+    "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (24 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0927/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-24T00:00:00+00:00",
+    "fetched_at": "2026-08-03T13:23:37+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9629c3de247d19af34e4"
+  },
+  {
+    "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0926/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-24T00:00:00+00:00",
+    "fetched_at": "2026-08-03T13:23:37+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a5444ce95ecf5c3e914d"
+  },
+  {
     "title": "iv-org/invidious",
     "url": "https://github.com/iv-org/invidious",
     "source": "GitHub Trending RSS All Languages Daily",

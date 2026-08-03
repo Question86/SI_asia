@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T12:21:51+00:00_
+_Generiert: 2026-08-03T13:24:10+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+54 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -158,6 +158,24 @@ _Generiert: 2026-08-03T12:21:51+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-03 01:42:24 UTC 2026-08-03 01:42:24 UTC at epicenter Location 8.572°S 75.760°W Depth 125.26 km (77.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (24 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0927/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-24T00:00:00+00:00`, fetched `2026-08-03T13:23:37+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0926/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-24T00:00:00+00:00`, fetched `2026-08-03T13:23:37+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **iv-org/invidious** — Score 11, opportunity — [Quelle](https://github.com/iv-org/invidious)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-03T02:26:52+00:00`
@@ -230,24 +248,6 @@ _Generiert: 2026-08-03T12:21:51+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIで仕事を効率化したら、なぜか僕の仕事だけ増えた話** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260803162719)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-03T07:29:48+00:00`, fetched `2026-08-03T11:10:09+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは。 突然ですが、みなさんは仕事を効率化していますか？ 僕はしていました。 めちゃくちゃしていました。 AIが世の中で騒がれ始めた頃から、「これは仕事のやり方が根本から変わるぞ」と思って、画像生成AIや文章生成AIを試し、社内業務に応用できそうな方法を検証し、結果を資料にまとめ、周囲に共有していま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **宮本佳林『元アイドルがバイブコーディングできるようになるまで。』** — Score 5, observation — [Quelle](https://ameblo.jp/miyamotokarin-official/entry-12974640519.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-03T06:38:19+00:00`, fetched `2026-08-03T08:38:46+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは！2020年までハロー！プロジェクト Juice=Juiceで活動をし、卒業以降はソロで音楽活動をしております。 宮本佳林です！はじめましての方もこの記事にはいらっしゃるかな、、？先日、 AIで配信システムを作ったものを自分の勉強のためにAIと一緒にブログを書いたところ、かなり反響があり嬉しい気持ちとびっく...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -257,7 +257,3 @@ _Generiert: 2026-08-03T12:21:51+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
