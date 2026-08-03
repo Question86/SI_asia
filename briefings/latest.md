@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T18:56:34+00:00_
+_Generiert: 2026-08-03T19:30:43+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+66 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -198,6 +198,15 @@ _Generiert: 2026-08-03T18:56:34+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Bengaluru (+2.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
   - Kurz: ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the financial terms of the transaction. Following the acquisition, the combined group will operate […] The post ADA acquires India’s Algonomy i…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAIの次期主力AIモデル「Astra」が10件の数学・理論計算機科学の課題で新成果、証明をLean 4で形式化し機械検証可能に** — Score 12, observation — [Quelle](https://gigazine.net/news/20260803-openai-astra-lean/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T03:43:49+00:00`, fetched `2026-08-03T19:30:13+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: OpenAIは2026年8月1日、次期主力AIモデル「Astra」の内部バージョンが数学と理論計算機科学にまたがる10件の未解決課題について新たな成果を上げたと発表しました。対象は「未解決のまま残されており、主要な結論について少なくとも10年間進展がなかった問題」で、OpenAIは249ページの論文と証明を機械的に検査できるデ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 41 km NNE of Suez, Egypt** — Score 12, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-03T00:54:24.050+00:00`, fetched `2026-08-03T00:56:13+00:00`
@@ -270,6 +279,15 @@ _Generiert: 2026-08-03T18:56:34+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Neue Malware-Welle: Arch Linux blockiert AUR-Updates** — Score 8, risk — [Quelle](https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-03T19:25:00.000+00:00`, fetched `2026-08-03T19:30:13+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Michelle W Bowman: Responsible innovation and financial inclusion** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260730o.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-03T09:17:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
@@ -279,24 +297,6 @@ _Generiert: 2026-08-03T18:56:34+00:00_
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)
   - Kurz: Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at "Next-gen financial inclusion", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **John C Williams: Stability of Thy Times** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260731a.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-08-03T06:57:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
-  - Kurz: Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Partnership for New York City, New York City, 15 July 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **lyogavin/airllm** — Score 8, observation — [Quelle](https://github.com/lyogavin/airllm)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-03T02:26:52+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run 405B Llama 3.1 on 8GB , DeepSeek-V3 (671B) on ~12GB , and Kimi K3 (2.8T) — the largest open-source model released to date — on under 4…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
