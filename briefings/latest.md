@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T03:45:11+00:00_
+_Generiert: 2026-08-03T04:59:40+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+27 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -126,6 +126,24 @@ _Generiert: 2026-08-03T03:45:11+00:00_
 
 ## Nur beobachten
 
+- **Malaysia’s chip suppliers face rising pressure to prove cyber resilience** — Score 12, observation — [Quelle](https://e27.co/cybersecurity-becomes-a-new-gatekeeper-for-malaysias-semiconductor-suppliers-20260803/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-03T04:30:50+00:00`, fetched `2026-08-03T04:59:04+00:00`
+  - Treffer: APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: For years, Malaysian technology hardware suppliers won business from global semiconductor customers by proving they could deliver on the industry’s familiar demands: quality, cost, punctual delivery and manufacturing capability. Increasingly, they must now clear another test before they even get through the door: cybersecurity. Kenanga Research said on Thursday that cybersecurity is shifting from a […] The post Mala…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ADA acquires India’s Algonomy in push beyond customer data into AI-led action** — Score 12, observation — [Quelle](https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-03T03:59:44+00:00`, fetched `2026-08-03T04:59:04+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Bengaluru (+2.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
+  - Kurz: ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the financial terms of the transaction. Following the acquisition, the combined group will operate […] The post ADA acquires India’s Algonomy i…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 41 km NNE of Suez, Egypt** — Score 12, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-03T00:54:24.050+00:00`, fetched `2026-08-03T00:56:13+00:00`
@@ -171,24 +189,6 @@ _Generiert: 2026-08-03T03:45:11+00:00_
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run 405B Llama 3.1 on 8GB , DeepSeek-V3 (671B) on ~12GB , and Kimi K3 (2.8T) — the largest open-source model released to date — on under 4…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Japan shows how non-USD stablecoins complement USDC and USDT** — Score 7, observation — [Quelle](https://e27.co/japan-shows-how-non-usd-stablecoins-complement-usdc-and-usdt-20260801/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-03T02:15:04+00:00`, fetched `2026-08-03T02:26:52+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: SBI Group’s June launch of Japan’s first trust bank-backed yen stablecoin, JPYSC, could be a long-awaited game changer for non-USD fiat-backed cryptocurrencies. Currently, less than one per cent of the US$310 billion in circulating stablecoins is denominated in currencies other than the USD. The greenback dominates the stablecoin market because it is the top global […] The post Japan shows how non-USD stablecoins co…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The funnel was never neutral: What Asia’s markets reveal about Western marketing theory** — Score 6, observation — [Quelle](https://e27.co/the-funnel-was-never-neutral-what-asias-markets-reveal-about-western-marketing-theory-20260803/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-03T03:30:09+00:00`, fetched `2026-08-03T03:44:34+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: In 2007, a Singapore entrepreneur named Johnson Han launched two soft drinks called Anything and Whatever. The concept was simple: you bought a can without knowing which of six flavours you would get. The naming itself was the joke, the answer you give when someone asks what you want to drink and you genuinely don’t […] The post The funnel was never neutral: What Asia’s markets reveal about Western marketing theory…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」** — Score 5, observation — [Quelle](https://togetter.com/li/2728344)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-03T02:27:15+00:00`, fetched `2026-08-03T03:44:34+00:00`
@@ -198,6 +198,15 @@ _Generiert: 2026-08-03T03:45:11+00:00_
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 蓑虫 @MinMin_minomusi 姪(小3)にiPadとApplePencil貸したらこれ 怒りたいのこっちなんやが🥹 え〜〜これ私が悪いカンジ？😅 pic.x.com/xdnBy4cNLb 2026-08-02 15:08:09 蓑虫 @MinMin_minomusi 姪のこと私なりに可愛がってはいるけど、周りの大人に甘やかされすぎてもう色々と手遅れ…な気がする ねだって買ってもらったも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Windows 11、メモリ8GB環境への最適化を年内実施へ** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2129907.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T01:57:47+00:00`, fetched `2026-08-03T04:59:04+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Windows 11、メモリ8GB環境への最適化を年内実施へ
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか** — Score 5, observation — [Quelle](https://togetter.com/li/2728312)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-03T00:28:55+00:00`, fetched `2026-08-03T02:26:52+00:00`
@@ -206,15 +215,6 @@ _Generiert: 2026-08-03T03:45:11+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: hina@3y @hina47116083 今更だけど、乾太君って洗濯した後の濡れた衣類を乾太君へ移す人間の作業がある認識でOK？ それだと留守中に洗濯から乾燥まで終わらせられないから、出社あり夫婦には不向きでは？なぜ絶賛されているかがイマイチ分からず。乾燥力が強くても、留守中にワンストップで終わらないなら意味なくない？...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **これはTailscaleか？ 国産WireGuardメッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/shimizu/2128634.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-02T23:17:25+00:00`, fetched `2026-08-03T01:33:31+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: これはTailscaleか？ 国産WireGuardメッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

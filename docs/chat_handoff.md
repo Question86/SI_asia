@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-03T03:45:11+00:00_
+_Generated: 2026-08-03T04:59:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-08-03T03:45:11+00:00_
 - url: https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/
 - summary: One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the dec…
 
-### 6. M 5.3 - 41 km NNE of Suez, Egypt
+### 6. Malaysia’s chip suppliers face rising pressure to prove cyber resilience
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-08-03T04:30:50+00:00`
+- url: https://e27.co/cybersecurity-becomes-a-new-gatekeeper-for-malaysias-semiconductor-suppliers-20260803/
+- summary: For years, Malaysian technology hardware suppliers won business from global semiconductor customers by proving they could deliver on the industry’s familiar demands: quality, cost, punctual delivery and manufacturing capability. Increasingly, they must now cl…
+
+### 7. ADA acquires India’s Algonomy in push beyond customer data into AI-led action
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-08-03T03:59:44+00:00`
+- url: https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/
+- summary: ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company…
+
+### 8. M 5.3 - 41 km NNE of Suez, Egypt
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `12`
 - published: `2026-08-03T00:54:24.050+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb
 - summary: DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)
 
-### 7. M 5.2 - 66 km WNW of San Alejandro, Peru
+### 9. M 5.2 - 66 km WNW of San Alejandro, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-03T01:58:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt
 - summary: Time 2026-08-03 01:42:24 UTC 2026-08-03 01:42:24 UTC at epicenter Location 8.572°S 75.760°W Depth 125.26 km (77.83 mi)
-
-### 8. iv-org/invidious
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/iv-org/invidious
-- summary: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features L…
-
-### 9. When global uncertainty becomes workplace anxiety
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-03T02:30:26+00:00`
-- url: https://e27.co/when-global-uncertainty-becomes-workplace-anxiety-20260801/
-- summary: A woman I worked with recently, details changed here for privacy, had kept her role through two rounds of restructuring. By any external measure, she had come out ahead. She described her days to me in careful detail: the early login, the messages answered wi…
 
 END OF DOCUMENT
