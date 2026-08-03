@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-03T01:53:37Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-03T03:00:03Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “lyogavin/airllm” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,89 @@
   ],
   "top_dynamics": [
     {
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-03T02:26:52+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run 405B Llama 3.1 on 8GB , DeepSeek-V…"
+    },
+    {
+      "title": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-03T02:26:52+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/D…"
+    },
+    {
+      "title": "VPS.orgのone-click deploymentテンプレートにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91736352/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-03T11:00:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 45.0,
+      "age_days": 45.04,
       "topics": [
         "ai"
       ],
@@ -44,7 +122,7 @@
       "url": "https://e27.co/the-most-valuable-employee-in-2030-wont-be-the-smartest-itll-be-the-one-who-knows-how-to-work-with-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:30:38+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -71,7 +149,7 @@
       "url": "https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:15:42+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -94,11 +172,62 @@
       "summary": "One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the decision maker, the user, the procurement lead, and perhaps one…"
     },
     {
+      "title": "The new map of growth: Where Southeast Asia fits in a fragmented world",
+      "url": "https://e27.co/the-new-map-of-growth-where-southeast-asia-fits-in-a-fragmented-world-20260731/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T01:45:24+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: escalation",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The operating system of the global economy is changing. For three decades, companies assumed capital, technology, energy and goods could move across borders with manageable friction. That assumption is weakening. Market access increasingly depends on export controls, sanctions, data rules, industrial policy and politi…"
+    },
+    {
+      "title": "M 5.2 - 66 km WNW of San Alejandro, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-03T01:58:41.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-03 01:42:24 UTC 2026-08-03 01:42:24 UTC at epicenter Location 8.572°S 75.760°W Depth 125.26 km (77.83 mi)"
+    },
+    {
       "title": "M 5.3 - 41 km NNE of Suez, Egypt",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T00:54:24.050+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "disaster"
@@ -122,11 +251,38 @@
       "summary": "DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Sovereignty as a sales strategy: How infrastructure choices shape market access",
+      "url": "https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T02:00:25+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: critical",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For years, cross-border technology decisions often began with a familiar set of questions: Which cloud is cheapest? Which vendor is easiest to deploy? Which architecture will scale? For AI products sold into regulated industries, that sequence is becoming less reliable. A bank, hospital, insurer, public agency, or cri…"
+    },
+    {
       "title": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を",
       "url": "https://forest.watch.impress.co.jp/docs/news/2129460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T22:08:07+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -146,11 +302,11 @@
       "summary": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を"
     },
     {
-      "title": "引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査 「ゲームで社会復帰」に落とし穴？",
-      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000329/",
+      "title": "「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか",
+      "url": "https://togetter.com/li/2728312",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-02T21:49:52+00:00",
-      "age_days": 0.17,
+      "published_at": "2026-08-03T00:28:55+00:00",
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -167,158 +323,7 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi..."
-    },
-    {
-      "title": "OKRの本質 / Scrum Fest Osaka 2026",
-      "url": "https://speakerdeck.com/kawaguti/okr-essence-scrum-fest-osaka-2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-02T08:23:43+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Scrum Fest Osaka 2026 (2026/8/1 13:30 Room 2) 登壇資料。 『Measure What Matters』に学ぶOKRの本質 — カスケードしない、評価に使わない、四半期で回す。 セッション概要（ConfEngine）: https://confengi…"
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 43.96,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 44.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 43.96,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 44.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 43.96,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 44.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "これはTailscaleか？ 国産WireGuardメッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】",
-      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2128634.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-02T23:17:25+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "これはTailscaleか？ 国産WireGuardメッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】"
-    },
-    {
-      "title": "PayPay中山社長が語る「セブン提携」と「生保参入」の勝算 購買データ×AIで目指す金融プラットフォーム",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2608/01/news007.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-07-31T16:02:59+00:00",
-      "age_days": 2.41,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "決済セグメントの売り上げは、前年同期比25％増の886億円で、全体の約8割を占める。好調の背景には、決済取扱高を示すGMV（総流通額）の伸びが挙げられ、決済セグメントのGMVは前年同期比23％増の5.39兆円に達した。前年同期比44％増のオンライン決済GMVが伸びたことに加え、PayPayアプリに「PayPayカード」を連携させる..."
+      "summary": "hina@3y @hina47116083 今更だけど、乾太君って洗濯した後の濡れた衣類を乾太君へ移す人間の作業がある認識でOK？ それだと留守中に洗濯から乾燥まで終わらせられないから、出社あり夫婦には不向きでは？なぜ絶賛されているかがイマイチ分からず。乾燥力が強くても、留守中にワンストップで終わらないなら意味なくない？..."
     }
   ],
   "read_order": [
@@ -330,9 +335,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 1,
-      "quiet": 8
+      "strong": 7,
+      "watch": 2,
+      "quiet": 3
     }
   }
 }
