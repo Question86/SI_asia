@@ -1,30 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-03T11:56:56Z",
+  "generated_at": "2026-08-03T13:05:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 6,
-      "strong": 12,
-      "watch": 4,
-      "quiet": 17
+      "krass": 8,
+      "strong": 16,
+      "watch": 5,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 19,
-      "watch": 4,
-      "quiet": 17
+      "krass": 1,
+      "strong": 24,
+      "watch": 5,
+      "quiet": 10
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2620",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-03T11:26:07+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um Dateien zu manipulieren, beliebigen Code auszuführen und vertrauliche Informationen offenzulegen."
+    },
     {
       "title": "三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性",
       "url": "https://jvn.jp/vu/JVNVU98879231/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T12:30:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -48,7 +74,7 @@
       "url": "https://jvn.jp/jp/JVN72334274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -68,11 +94,83 @@
       "summary": "サイボウズ株式会社が提供するサイボウズ Garoonには、クロスサイトスクリプティングの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] N-able N-Central: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2621",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-03T11:31:05+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Bouncy Castle: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2622",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-03T11:31:05+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Bouncy Castle ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2618",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-03T11:26:07+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] Node.js: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2585",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T07:18:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -96,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2488",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T07:18:03+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -120,7 +218,7 @@
       "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -145,7 +243,7 @@
       "url": "https://github.com/iv-org/invidious",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -173,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T10:12:36+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -199,7 +297,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T09:36:10+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -225,7 +323,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T09:22:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -251,7 +349,7 @@
       "url": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-03T10:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -274,11 +372,37 @@
       "summary": "Low-cost Chinese open-weight models are splitting tech executives and Washington over national security and competitiveness."
     },
     {
+      "title": "[NEU] [hoch] IBM Langflow Desktop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2619",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-03T11:26:07+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu Manipulieren, und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[UPDATE] [niedrig] Checkmk: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2519",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T07:18:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -304,7 +428,7 @@
       "url": "https://jvn.jp/vu/JVNVU91736352/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T11:00:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -329,7 +453,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 45.42,
+      "age_days": 45.46,
       "topics": [
         "ai"
       ],
@@ -348,7 +472,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 45.4d old signal",
+        "aging penalty -8.0 for 45.5d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -358,7 +482,7 @@
       "url": "https://e27.co/the-most-valuable-employee-in-2030-wont-be-the-smartest-itll-be-the-one-who-knows-how-to-work-with-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:30:38+00:00",
-      "age_days": 0.43,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "macro"
@@ -385,7 +509,7 @@
       "url": "https://e27.co/cybersecurity-becomes-a-new-gatekeeper-for-malaysias-semiconductor-suppliers-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T04:30:50+00:00",
-      "age_days": 0.31,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -410,7 +534,7 @@
       "url": "https://www.heise.de/news/Kritische-Schadcode-Sicherheitsluecke-bedroht-Adobe-Campaign-Classic-11394802.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-03T06:41:00.000+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security"
@@ -436,7 +560,7 @@
       "url": "https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:15:42+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -459,11 +583,36 @@
       "summary": "One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the decision maker, the user, the procurement lead, and perhaps one…"
     },
     {
+      "title": "[NEU] [hoch] rclone: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2623",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-03T11:36:05+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/refill-prescription",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-03T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -488,7 +637,7 @@
       "url": "https://e27.co/the-new-map-of-growth-where-southeast-asia-fits-in-a-fragmented-world-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:45:24+00:00",
-      "age_days": 0.42,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -511,11 +660,36 @@
       "summary": "The operating system of the global economy is changing. For three decades, companies assumed capital, technology, energy and goods could move across borders with manageable friction. That assumption is weakening. Market access increasingly depends on export controls, sanctions, data rules, industrial policy and politi…"
     },
     {
+      "title": "M 4.9 - 85 km S of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-03T11:53:04.040+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.9"
+      ],
+      "summary": "Time 2026-08-03 11:26:42 UTC 2026-08-03 11:26:42 UTC at epicenter Location 49.919°N 155.945°E Depth 57.70 km (35.85 mi)"
+    },
+    {
       "title": "M 4.9 - Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thra",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T11:10:23.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -540,7 +714,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T01:58:41.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -564,7 +738,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T00:54:24.050+00:00",
-      "age_days": 0.46,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "disaster"
@@ -592,7 +766,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attj6shm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T09:45:18.737+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -616,7 +790,7 @@
       "url": "https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:45:12+00:00",
-      "age_days": 0.38,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -642,7 +816,7 @@
       "url": "https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:00:25+00:00",
-      "age_days": 0.41,
+      "age_days": 0.46,
       "topics": [
         "ai",
         "macro"
@@ -669,7 +843,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2129460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T22:08:07+00:00",
-      "age_days": 0.58,
+      "age_days": 0.62,
       "topics": [
         "general"
       ],
@@ -693,7 +867,7 @@
       "url": "https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-03T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -717,7 +891,7 @@
       "url": "https://www.digital.go.jp/policies/digital_garden_city_nation",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-03T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -741,7 +915,7 @@
       "url": "https://e27.co/the-funnel-was-never-neutral-what-asias-markets-reveal-about-western-marketing-theory-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T03:30:09+00:00",
-      "age_days": 0.35,
+      "age_days": 0.4,
       "topics": [
         "macro"
       ],
@@ -765,7 +939,7 @@
       "url": "https://e27.co/market-access-is-the-new-moat-why-international-expansion-is-no-longer-a-size-game-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T03:00:54+00:00",
-      "age_days": 0.37,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "macro"
@@ -793,7 +967,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000355/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T06:10:48+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -817,7 +991,7 @@
       "url": "https://togetter.com/li/2728344",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T02:27:15+00:00",
-      "age_days": 0.4,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -841,7 +1015,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2129907.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T01:57:47+00:00",
-      "age_days": 0.42,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -859,183 +1033,7 @@
         "no strong comparative reason"
       ],
       "summary": "Windows 11、メモリ8GB環境への最適化を年内実施へ"
-    },
-    {
-      "title": "「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか",
-      "url": "https://togetter.com/li/2728312",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-03T00:28:55+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "hina@3y @hina47116083 今更だけど、乾太君って洗濯した後の濡れた衣類を乾太君へ移す人間の作業がある認識でOK？ それだと留守中に洗濯から乾燥まで終わらせられないから、出社あり夫婦には不向きでは？なぜ絶賛されているかがイマイチ分からず。乾燥力が強くても、留守中にワンストップで終わらないなら意味なくない？..."
-    },
-    {
-      "title": "引きこもりはゲーム内でも交流を好まない、奈良先端大が587人調査 「ゲームで社会復帰」に落とし穴？",
-      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000329/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-02T21:49:52+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi..."
-    },
-    {
-      "title": "OKRの本質 / Scrum Fest Osaka 2026",
-      "url": "https://speakerdeck.com/kawaguti/okr-essence-scrum-fest-osaka-2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-02T08:23:43+00:00",
-      "age_days": 1.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Scrum Fest Osaka 2026 (2026/8/1 13:30 Room 2) 登壇資料。 『Measure What Matters』に学ぶOKRの本質 — カスケードしない、評価に使わない、四半期で回す。 セッション概要（ConfEngine）: https://confengi…"
-    },
-    {
-      "title": "Why TikTok Shop wants Singapore merchants to think like content teams",
-      "url": "https://e27.co/why-tiktok-shop-wants-singapore-merchants-to-think-like-content-teams-20260803/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-03T07:30:51+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "TikTok Shop is moving beyond the basic pitch of helping merchants sell through short videos and livestreams. In Singapore, it now wants to train a larger slice of the people who make that model work: the sellers in front of the products and the creators who turn browsing into buying. At its inaugural TikTok Shop […] T…"
-    },
-    {
-      "title": "ADA acquires India’s Algonomy in push beyond customer data into AI-led action",
-      "url": "https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-03T03:59:44+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the financial terms of the transaction. Fol…"
-    },
-    {
-      "title": "New Singapore payments code takes aim at hidden mark-ups and misleading “zero fee” claims",
-      "url": "https://e27.co/new-singapore-payments-code-takes-aim-at-hidden-mark-ups-and-misleading-zero-fee-claims-20260803/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-03T06:00:31+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Singapore’s payments industry is getting a new conduct playbook at a time when digital wallets, cross-border transfers and instant payments have become part of daily life for consumers and businesses. The Singapore FinTech Association (SFA), together with industry players, today launched the Payments Industry Code of…"
-    },
-    {
-      "title": "Japan shows how non-USD stablecoins complement USDC and USDT",
-      "url": "https://e27.co/japan-shows-how-non-usd-stablecoins-complement-usdc-and-usdt-20260801/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-03T02:15:04+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "SBI Group’s June launch of Japan’s first trust bank-backed yen stablecoin, JPYSC, could be a long-awaited game changer for non-USD fiat-backed cryptocurrencies. Currently, less than one per cent of the US$310 billion in circulating stablecoins is denominated in currencies other than the USD. The greenback dominates th…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Wazuh: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
