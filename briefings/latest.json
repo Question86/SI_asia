@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T13:24:10+00:00",
-  "run_id": "2026-08-03T13:24:10+00:00",
+  "generated_at": "2026-08-03T14:13:50+00:00",
+  "run_id": "2026-08-03T14:13:50+00:00",
   "date": "2026-08-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 1,
     "medium": 19,
-    "observe": 34,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -559,6 +559,28 @@
     ],
     "observe": [
       {
+        "title": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-08-03T14:40:19+00:00",
+        "fetched_at": "2026-08-03T14:13:21+00:00",
+        "summary": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "01e6c726bc47a5c17492"
+      },
+      {
         "title": "Why TikTok Shop wants Singapore merchants to think like content teams",
         "url": "https://e27.co/why-tiktok-shop-wants-singapore-merchants-to-think-like-content-teams-20260803/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -803,6 +825,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "36bf3f151b4c8b5fff95"
+      },
+      {
+        "title": "M 4.8 - 106 km NW of Gizo, Solomon Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-03T13:40:21.040+00:00",
+        "fetched_at": "2026-08-03T14:13:21+00:00",
+        "summary": "Time 2026-08-03 13:14:01 UTC 2026-08-03 13:14:01 UTC at epicenter Location 7.496°S 156.087°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "365c6ecf7f19999be4cb"
       },
       {
         "title": "M 4.9 - 85 km S of Severo-Kuril’sk, Russia",
@@ -1898,6 +1956,28 @@
       "id": "c5268936914771fc15ba"
     },
     {
+      "title": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-08-03T14:40:19+00:00",
+      "fetched_at": "2026-08-03T14:13:21+00:00",
+      "summary": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "01e6c726bc47a5c17492"
+    },
+    {
       "title": "Why TikTok Shop wants Singapore merchants to think like content teams",
       "url": "https://e27.co/why-tiktok-shop-wants-singapore-merchants-to-think-like-content-teams-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2142,6 +2222,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "36bf3f151b4c8b5fff95"
+    },
+    {
+      "title": "M 4.8 - 106 km NW of Gizo, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-03T13:40:21.040+00:00",
+      "fetched_at": "2026-08-03T14:13:21+00:00",
+      "summary": "Time 2026-08-03 13:14:01 UTC 2026-08-03 13:14:01 UTC at epicenter Location 7.496°S 156.087°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "365c6ecf7f19999be4cb"
     },
     {
       "title": "M 4.9 - 85 km S of Severo-Kuril’sk, Russia",
@@ -2710,52 +2826,62 @@
   ],
   "new_findings": [
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0926/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-07-24T00:00:00+00:00",
-      "fetched_at": "2026-08-03T13:23:37+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "published_at": "2026-08-03T14:40:19+00:00",
+      "fetched_at": "2026-08-03T14:13:21+00:00",
+      "summary": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "sécurité",
-        "vulnérabilité"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a5444ce95ecf5c3e914d"
+      "id": "01e6c726bc47a5c17492"
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (24 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0927/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "M 4.8 - 106 km NW of Gizo, Solomon Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-24T00:00:00+00:00",
-      "fetched_at": "2026-08-03T13:23:37+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "published_at": "2026-08-03T13:40:21.040+00:00",
+      "fetched_at": "2026-08-03T14:13:21+00:00",
+      "summary": "Time 2026-08-03 13:14:01 UTC 2026-08-03 13:14:01 UTC at epicenter Location 7.496°S 156.087°E Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Linux",
-        "sécurité",
-        "vulnérabilité"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9629c3de247d19af34e4"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "365c6ecf7f19999be4cb"
     }
   ],
   "source_errors": [],

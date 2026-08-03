@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-03T13:24:10+00:00_
+_Generated: 2026-08-03T14:13:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `54`
+- findings: `56`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-08-03T13:24:10+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
-### 6. Why TikTok Shop wants Singapore merchants to think like content teams
+### 6. Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-03T14:40:19+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html
+- summary: Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 7. Why TikTok Shop wants Singapore merchants to think like content teams
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-03T07:30:51+00:00`
 - url: https://e27.co/why-tiktok-shop-wants-singapore-merchants-to-think-like-content-teams-20260803/
 - summary: TikTok Shop is moving beyond the basic pitch of helping merchants sell through short videos and livestreams. In Singapore, it now wants to train a larger slice of the people who make that model work: the sellers in front of the products and the creators who t…
 
-### 7. Malaysia’s chip suppliers face rising pressure to prove cyber resilience
+### 8. Malaysia’s chip suppliers face rising pressure to prove cyber resilience
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-03T04:30:50+00:00`
 - url: https://e27.co/cybersecurity-becomes-a-new-gatekeeper-for-malaysias-semiconductor-suppliers-20260803/
 - summary: For years, Malaysian technology hardware suppliers won business from global semiconductor customers by proving they could deliver on the industry’s familiar demands: quality, cost, punctual delivery and manufacturing capability. Increasingly, they must now cl…
 
-### 8. ADA acquires India’s Algonomy in push beyond customer data into AI-led action
+### 9. ADA acquires India’s Algonomy in push beyond customer data into AI-led action
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-03T03:59:44+00:00`
 - url: https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/
 - summary: ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company…
-
-### 9. M 5.3 - 41 km NNE of Suez, Egypt
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `12`
-- published: `2026-08-03T00:54:24.050+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb
-- summary: DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

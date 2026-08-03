@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T13:24:10+00:00_
+_Generiert: 2026-08-03T14:13:50+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+56 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -162,6 +162,15 @@ _Generiert: 2026-08-03T13:24:10+00:00_
 
 ## Nur beobachten
 
+- **Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-08-03T14:40:19+00:00`, fetched `2026-08-03T14:13:21+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why TikTok Shop wants Singapore merchants to think like content teams** — Score 12, observation — [Quelle](https://e27.co/why-tiktok-shop-wants-singapore-merchants-to-think-like-content-teams-20260803/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-03T07:30:51+00:00`, fetched `2026-08-03T08:38:46+00:00`
@@ -234,14 +243,14 @@ _Generiert: 2026-08-03T13:24:10+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.9 - 85 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thre)
+- **M 4.8 - 106 km NW of Gizo, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-03T11:53:04.040+00:00`, fetched `2026-08-03T12:21:23+00:00`
+  - Zeit: published `2026-08-03T13:40:21.040+00:00`, fetched `2026-08-03T14:13:21+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-03 11:26:42 UTC 2026-08-03 11:26:42 UTC at epicenter Location 49.919°N 155.945°E Depth 57.70 km (35.85 mi)
+  - Kurz: Time 2026-08-03 13:14:01 UTC 2026-08-03 13:14:01 UTC at epicenter Location 7.496°S 156.087°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **lyogavin/airllm** — Score 8, observation — [Quelle](https://github.com/lyogavin/airllm)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -287,15 +296,6 @@ _Generiert: 2026-08-03T13:24:10+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-03T06:00:00+00:00`, fetched `2026-08-03T06:08:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
