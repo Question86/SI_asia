@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T17:36:53+00:00",
-  "run_id": "2026-08-03T17:36:53+00:00",
+  "generated_at": "2026-08-03T18:16:21+00:00",
+  "run_id": "2026-08-03T18:16:21+00:00",
   "date": "2026-08-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 1,
@@ -3144,30 +3144,7 @@
       "id": "f39bd46ed1e9c6a2d9d4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG",
-      "url": "https://blog.techscore.com/entry/2026/08/03/080000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-03T03:30:27+00:00",
-      "fetched_at": "2026-08-03T17:36:22+00:00",
-      "summary": "はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0ba6fdcdc94566acd947"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
