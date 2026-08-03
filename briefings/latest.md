@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T18:16:21+00:00_
+_Generiert: 2026-08-03T18:56:34+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+64 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-18577 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-03`
+  - Kurz: Known exploited vulnerability. Added 2026-08-03. Due 2026-08-06. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability
 - **CISA KEV: CVE-2026-20316 Cisco Secure Firewall Management Center (FMC)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-07-29`
@@ -25,10 +29,6 @@ _Generiert: 2026-08-03T18:16:21+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-22`
   - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Check Point SmartConsole Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-50522 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-22`
-  - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Microsoft SharePoint Deserialization of Untrusted Data Vulnerability 
 - **GDACS: Green flood alert in Belarus** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104065)
   - Quelle: GDACS
   - Zeit: ``
