@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T16:58:56+00:00",
-  "run_id": "2026-08-03T16:58:56+00:00",
+  "generated_at": "2026-08-03T17:36:53+00:00",
+  "run_id": "2026-08-03T17:36:53+00:00",
   "date": "2026-08-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 1,
     "medium": 19,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1025,6 +1025,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7aabccbc82779cc134f2"
+      },
+      {
+        "title": "herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG",
+        "url": "https://blog.techscore.com/entry/2026/08/03/080000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-03T03:30:27+00:00",
+        "fetched_at": "2026-08-03T17:36:22+00:00",
+        "summary": "はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0ba6fdcdc94566acd947"
       },
       {
         "title": "Michelle W Bowman: Responsible innovation and financial inclusion",
@@ -2562,6 +2584,28 @@
       "id": "7aabccbc82779cc134f2"
     },
     {
+      "title": "herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG",
+      "url": "https://blog.techscore.com/entry/2026/08/03/080000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-03T03:30:27+00:00",
+      "fetched_at": "2026-08-03T17:36:22+00:00",
+      "summary": "はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0ba6fdcdc94566acd947"
+    },
+    {
       "title": "Michelle W Bowman: Responsible innovation and financial inclusion",
       "url": "https://www.bis.org/review/r260730o.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3102,25 +3146,26 @@
   ],
   "new_findings": [
     {
-      "title": "つい見せたくなる延長コード、開発したのは東大阪の電線メーカー 3000万円の機械導入で思いを形に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000364/",
+      "title": "herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG",
+      "url": "https://blog.techscore.com/entry/2026/08/03/080000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-03T11:42:25+00:00",
-      "fetched_at": "2026-08-03T16:58:21+00:00",
-      "summary": "新たな「快適」や「便利」を届けたい、消費者と直接つながりたい……私たちが何げなく手にする製品には、作り手のさまざまな思いと、それを形に変えた確かな技術が込められている。大阪府が中小企業の創造力にあふれた自社製品を認定する「大阪製ブランド」を通じ、ものづくりへの思いと技術、そして情熱を紹介するこのシ...",
+      "published_at": "2026-08-03T03:30:27+00:00",
+      "fetched_at": "2026-08-03T17:36:22+00:00",
+      "summary": "はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0e868fc88af9c48ca20e"
+      "id": "0ba6fdcdc94566acd947"
     }
   ],
   "source_errors": [],

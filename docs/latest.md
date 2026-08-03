@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T16:58:56+00:00_
+_Generiert: 2026-08-03T17:36:53+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+63 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -212,6 +212,15 @@ _Generiert: 2026-08-03T16:58:56+00:00_
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California, 16 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **herdr を使いこなす: 複数 AI エージェントの連携から自作プラグインまで - TECHSCORE BLOG** — Score 9, observation — [Quelle](https://blog.techscore.com/entry/2026/08/03/080000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T03:30:27+00:00`, fetched `2026-08-03T17:36:22+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Michelle W Bowman: Responsible innovation and financial inclusion** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260730o.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-03T09:17:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
@@ -238,15 +247,6 @@ _Generiert: 2026-08-03T16:58:56+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run 405B Llama 3.1 on 8GB , DeepSeek-V3 (671B) on ~12GB , and Kimi K3 (2.8T) — the largest open-source model released to date — on under 4…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Kritische Schadcode-Sicherheitslücke bedroht Adobe Campaign Classic** — Score 7, observation — [Quelle](https://www.heise.de/news/Kritische-Schadcode-Sicherheitsluecke-bedroht-Adobe-Campaign-Classic-11394802.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-03T06:41:00.000+00:00`, fetched `2026-08-03T07:23:07+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer können Adobe Bridge und Campaign Classic attackieren. Dagegen abgesicherte Versionen stehen zum Download.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
