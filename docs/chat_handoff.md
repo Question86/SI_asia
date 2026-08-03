@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-03T08:39:20+00:00_
+_Generated: 2026-08-03T10:01:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `41`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-08-03T08:39:20+00:00_
 - url: https://jvn.jp/vu/JVNVU91736352/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-03T02:45:12+00:00`
-- url: https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/
-- summary: I spent twenty years living and working inside British and European business culture, long enough to know that landscape well. Moving my base back to Asia, through Thailand, Malaysia and Taiwan, has handed me a dual perspective I didn’t expect to find so usef…
+- published: `2026-08-03T09:36:10+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
-### 5. Stakeholder: Mapping who can kill the deal quietly
-- source: e27 Asia Startup and Tech Feed
+### 5. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-03T01:15:42+00:00`
-- url: https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/
-- summary: One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the dec…
+- published: `2026-08-03T09:22:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, welche zu einem Denial-of-Service-Zustand, einer Rechteausweitung, der Ausführung von Code oder einer Speicherbeschädigung führen könnten.
 
 ### 6. Why TikTok Shop wants Singapore merchants to think like content teams
 - source: e27 Asia Startup and Tech Feed

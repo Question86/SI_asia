@@ -112,6 +112,54 @@
     "id": "cd0d529c990210c060c2"
   },
   {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-03T09:36:10+00:00",
+    "fetched_at": "2026-08-03T10:01:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "711e6a2e922f7524ae1c"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-03T09:22:05+00:00",
+    "fetched_at": "2026-08-03T10:01:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, welche zu einem Denial-of-Service-Zustand, einer Rechteausweitung, der Ausführung von Code oder einer Speicherbeschädigung führen könnten.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "75420a5411512ddb92cd"
+  },
+  {
     "title": "I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship",
     "url": "https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -516,6 +564,42 @@
     "id": "36bf3f151b4c8b5fff95"
   },
   {
+    "title": "M 4.8 - 152 km S of Hydaburg, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attj6shm",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-03T09:45:18.737+00:00",
+    "fetched_at": "2026-08-03T10:01:17+00:00",
+    "summary": "DYFI? - III Time 2026-08-03 09:17:46 UTC 2026-08-03 09:17:46 UTC at epicenter Location 53.837°N 132.974°W Depth 15.00 km (9.32 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "21e2d606704f5e0dcecc"
+  },
+  {
     "title": "lyogavin/airllm",
     "url": "https://github.com/lyogavin/airllm",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -717,6 +801,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a0496f737c26ef35aa21"
+  },
+  {
+    "title": "BASE子会社、最大885万件漏えいか カード番号の一部も ECサイト構築サービスに不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000355/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T06:10:48+00:00",
+    "fetched_at": "2026-08-03T10:01:17+00:00",
+    "summary": "BASE傘下のEストアー（東京都港区）は8月1日、ECサイト構築・運営支援サービス「ショップサーブ」が不正アクセスを受け、購入者の個人情報など最大885万3839件が漏えいしたと発表した。2日には漏えいした情報の内訳も公開。会員のID・パスワード・クレジットカード番号の一部などが含まれるという。件数は延べ数で、対象...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "100a455edda86a6d873c"
   },
   {
     "title": "姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」",

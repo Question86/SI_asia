@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T08:39:20+00:00_
+_Generiert: 2026-08-03T10:01:46+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+41 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -38,6 +38,24 @@ _Generiert: 2026-08-03T08:39:20+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-03T09:36:10+00:00`, fetched `2026-08-03T10:01:17+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-03T09:22:05+00:00`, fetched `2026-08-03T10:01:17+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, welche zu einem Denial-of-Service-Zustand, einer Rechteausweitung, der Ausführung von Code oder einer Speicherbeschädigung führen könnten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship** — Score 16, observation — [Quelle](https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-03T02:45:12+00:00`, fetched `2026-08-03T03:44:34+00:00`
@@ -82,24 +100,6 @@ _Generiert: 2026-08-03T08:39:20+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Node.js: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2585)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-03T07:18:05+00:00`, fetched `2026-08-03T07:23:07+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Node.js ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] IBM App Connect Enterprise: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2488)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-03T07:18:03+00:00`, fetched `2026-08-03T07:23:07+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -158,6 +158,15 @@ _Generiert: 2026-08-03T08:39:20+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.8 - 152 km S of Hydaburg, Alaska** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attj6shm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-03T09:45:18.737+00:00`, fetched `2026-08-03T10:01:17+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-08-03 09:17:46 UTC 2026-08-03 09:17:46 UTC at epicenter Location 53.837°N 132.974°W Depth 15.00 km (9.32 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **lyogavin/airllm** — Score 8, observation — [Quelle](https://github.com/lyogavin/airllm)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-03T02:26:52+00:00`
@@ -212,6 +221,15 @@ _Generiert: 2026-08-03T08:39:20+00:00_
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは！2020年までハロー！プロジェクト Juice=Juiceで活動をし、卒業以降はソロで音楽活動をしております。 宮本佳林です！はじめましての方もこの記事にはいらっしゃるかな、、？先日、 AIで配信システムを作ったものを自分の勉強のためにAIと一緒にブログを書いたところ、かなり反響があり嬉しい気持ちとびっく...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **BASE子会社、最大885万件漏えいか カード番号の一部も ECサイト構築サービスに不正アクセス** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/03/2000000355/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T06:10:48+00:00`, fetched `2026-08-03T10:01:17+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: BASE傘下のEストアー（東京都港区）は8月1日、ECサイト構築・運営支援サービス「ショップサーブ」が不正アクセスを受け、購入者の個人情報など最大885万3839件が漏えいしたと発表した。2日には漏えいした情報の内訳も公開。会員のID・パスワード・クレジットカード番号の一部などが含まれるという。件数は延べ数で、対象...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」** — Score 5, observation — [Quelle](https://togetter.com/li/2728344)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-03T02:27:15+00:00`, fetched `2026-08-03T03:44:34+00:00`
@@ -220,15 +238,6 @@ _Generiert: 2026-08-03T08:39:20+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 蓑虫 @MinMin_minomusi 姪(小3)にiPadとApplePencil貸したらこれ 怒りたいのこっちなんやが🥹 え〜〜これ私が悪いカンジ？😅 pic.x.com/xdnBy4cNLb 2026-08-02 15:08:09 蓑虫 @MinMin_minomusi 姪のこと私なりに可愛がってはいるけど、周りの大人に甘やかされすぎてもう色々と手遅れ…な気がする ねだって買ってもらったも...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Windows 11、メモリ8GB環境への最適化を年内実施へ** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2129907.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-03T01:57:47+00:00`, fetched `2026-08-03T04:59:04+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Windows 11、メモリ8GB環境への最適化を年内実施へ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
