@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T14:13:50+00:00_
+_Generiert: 2026-08-03T15:18:05+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+61 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -243,15 +243,42 @@ _Generiert: 2026-08-03T14:13:50+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.8 - 106 km NW of Gizo, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs)
+- **M 4.7 - 61 km S of Shikotan, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-03T13:40:21.040+00:00`, fetched `2026-08-03T14:13:21+00:00`
+  - Zeit: published `2026-08-03T15:05:33.040+00:00`, fetched `2026-08-03T15:17:33+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-03 13:14:01 UTC 2026-08-03 13:14:01 UTC at epicenter Location 7.496°S 156.087°E Depth 35.00 km (21.75 mi)
+  - Kurz: Time 2026-08-03 14:39:45 UTC 2026-08-03 14:39:45 UTC at epicenter Location 43.255°N 146.848°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective** — Score 9, observation — [Quelle](https://www.bis.org/review/r260731b.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-03T07:10:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California, 16 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Michelle W Bowman: Responsible innovation and financial inclusion** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260730o.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-03T09:17:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)
+  - Kurz: Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at "Next-gen financial inclusion", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **John C Williams: Stability of Thy Times** — Score 8, opportunity — [Quelle](https://www.bis.org/review/r260731a.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-03T06:57:00+00:00`, fetched `2026-08-03T15:17:33+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Partnership for New York City, New York City, 15 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **lyogavin/airllm** — Score 8, observation — [Quelle](https://github.com/lyogavin/airllm)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-03T02:26:52+00:00`
@@ -269,33 +296,6 @@ _Generiert: 2026-08-03T14:13:50+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer können Adobe Bridge und Campaign Classic attackieren. Dagegen abgesicherte Versionen stehen zum Download.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] rclone: Mehrere Schwachstellen** — Score 6, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2623)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-03T11:36:05+00:00`, fetched `2026-08-03T12:21:23+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph demote clone (x0.45)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in rclone ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um beliebigen Programmcode auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/refill-prescription)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-03T06:00:00+00:00`, fetched `2026-08-03T06:08:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-03T06:00:00+00:00`, fetched `2026-08-03T06:08:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

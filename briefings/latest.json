@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T14:13:50+00:00",
-  "run_id": "2026-08-03T14:13:50+00:00",
+  "generated_at": "2026-08-03T15:18:05+00:00",
+  "run_id": "2026-08-03T15:18:05+00:00",
   "date": "2026-08-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 5,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 1,
     "medium": 19,
-    "observe": 36,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -827,6 +827,42 @@
         "id": "36bf3f151b4c8b5fff95"
       },
       {
+        "title": "M 4.7 - 61 km S of Shikotan, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-03T15:05:33.040+00:00",
+        "fetched_at": "2026-08-03T15:17:33+00:00",
+        "summary": "Time 2026-08-03 14:39:45 UTC 2026-08-03 14:39:45 UTC at epicenter Location 43.255°N 146.848°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "781ea23ff739b9d63438"
+      },
+      {
         "title": "M 4.8 - 106 km NW of Gizo, Solomon Islands",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -969,6 +1005,66 @@
           "LOW"
         ],
         "id": "21e2d606704f5e0dcecc"
+      },
+      {
+        "title": "Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective",
+        "url": "https://www.bis.org/review/r260731b.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-08-03T07:10:00+00:00",
+        "fetched_at": "2026-08-03T15:17:33+00:00",
+        "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California, 16 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7aabccbc82779cc134f2"
+      },
+      {
+        "title": "Michelle W Bowman: Responsible innovation and financial inclusion",
+        "url": "https://www.bis.org/review/r260730o.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-08-03T09:17:00+00:00",
+        "fetched_at": "2026-08-03T15:17:33+00:00",
+        "summary": "Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a8079228fae58f6093a"
+      },
+      {
+        "title": "John C Williams: Stability of Thy Times",
+        "url": "https://www.bis.org/review/r260731a.htm",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-08-03T06:57:00+00:00",
+        "fetched_at": "2026-08-03T15:17:33+00:00",
+        "summary": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Partnership for New York City, New York City, 15 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1296fdf9f574c7d39612"
       },
       {
         "title": "lyogavin/airllm",
@@ -1237,6 +1333,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "100a455edda86a6d873c"
+      },
+      {
+        "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと - Qiita",
+        "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-03T06:10:24+00:00",
+        "fetched_at": "2026-08-03T15:17:33+00:00",
+        "summary": "この記事では社内で日々発生する様々な課題をヒアリングし、ITやAIを活用して解決策に落とし込む中で得た「実務のリアルな知見」をまとめました！めちゃくちゃ現場感がある内容になっていると思います。 単にシステムを作るだけでなく、「どう全体最適化するか」「いかに現場に使ってもらうか」に悩むDX担当者や社内PMの...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d8e8cdf5c5a411e7cc58"
       },
       {
         "title": "姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」",
@@ -2224,6 +2341,42 @@
       "id": "36bf3f151b4c8b5fff95"
     },
     {
+      "title": "M 4.7 - 61 km S of Shikotan, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-03T15:05:33.040+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Time 2026-08-03 14:39:45 UTC 2026-08-03 14:39:45 UTC at epicenter Location 43.255°N 146.848°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "781ea23ff739b9d63438"
+    },
+    {
       "title": "M 4.8 - 106 km NW of Gizo, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2366,6 +2519,66 @@
         "LOW"
       ],
       "id": "21e2d606704f5e0dcecc"
+    },
+    {
+      "title": "Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective",
+      "url": "https://www.bis.org/review/r260731b.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-03T07:10:00+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California, 16 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7aabccbc82779cc134f2"
+    },
+    {
+      "title": "Michelle W Bowman: Responsible innovation and financial inclusion",
+      "url": "https://www.bis.org/review/r260730o.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-03T09:17:00+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a8079228fae58f6093a"
+    },
+    {
+      "title": "John C Williams: Stability of Thy Times",
+      "url": "https://www.bis.org/review/r260731a.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:57:00+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Partnership for New York City, New York City, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1296fdf9f574c7d39612"
     },
     {
       "title": "lyogavin/airllm",
@@ -2636,6 +2849,27 @@
       "id": "100a455edda86a6d873c"
     },
     {
+      "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと - Qiita",
+      "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:10:24+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "この記事では社内で日々発生する様々な課題をヒアリングし、ITやAIを活用して解決策に落とし込む中で得た「実務のリアルな知見」をまとめました！めちゃくちゃ現場感がある内容になっていると思います。 単にシステムを作るだけでなく、「どう全体最適化するか」「いかに現場に使ってもらうか」に悩むDX担当者や社内PMの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8e8cdf5c5a411e7cc58"
+    },
+    {
       "title": "姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」",
       "url": "https://togetter.com/li/2728344",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2826,35 +3060,13 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260068.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-08-03T14:40:19+00:00",
-      "fetched_at": "2026-08-03T14:13:21+00:00",
-      "summary": "Announcing 20260068 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "01e6c726bc47a5c17492"
-    },
-    {
-      "title": "M 4.8 - 106 km NW of Gizo, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thrs",
+      "title": "M 4.7 - 61 km S of Shikotan, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ths2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-03T13:40:21.040+00:00",
-      "fetched_at": "2026-08-03T14:13:21+00:00",
-      "summary": "Time 2026-08-03 13:14:01 UTC 2026-08-03 13:14:01 UTC at epicenter Location 7.496°S 156.087°E Depth 35.00 km (21.75 mi)",
+      "published_at": "2026-08-03T15:05:33.040+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Time 2026-08-03 14:39:45 UTC 2026-08-03 14:39:45 UTC at epicenter Location 43.255°N 146.848°E Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -2881,7 +3093,88 @@
         "HD",
         "LOW"
       ],
-      "id": "365c6ecf7f19999be4cb"
+      "id": "781ea23ff739b9d63438"
+    },
+    {
+      "title": "Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective",
+      "url": "https://www.bis.org/review/r260731b.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-03T07:10:00+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Speech by Mr Philip N Jefferson, Vice Chair of the Board of Governors of the Federal Reserve System, at the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California, 16 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7aabccbc82779cc134f2"
+    },
+    {
+      "title": "Michelle W Bowman: Responsible innovation and financial inclusion",
+      "url": "https://www.bis.org/review/r260730o.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-03T09:17:00+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Speech (via pre-recorded video) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at \"Next-gen financial inclusion\", the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington DC, 14 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Washington DC, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a8079228fae58f6093a"
+    },
+    {
+      "title": "John C Williams: Stability of Thy Times",
+      "url": "https://www.bis.org/review/r260731a.htm",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:57:00+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the Partnership for New York City, New York City, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1296fdf9f574c7d39612"
+    },
+    {
+      "title": "社内IT推進で「作っても使われない」をゼロにするために、僕が現場で学んだ5つのこと - Qiita",
+      "url": "https://qiita.com/rira__/items/dab9765ffd6aae8f0c07",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:10:24+00:00",
+      "fetched_at": "2026-08-03T15:17:33+00:00",
+      "summary": "この記事では社内で日々発生する様々な課題をヒアリングし、ITやAIを活用して解決策に落とし込む中で得た「実務のリアルな知見」をまとめました！めちゃくちゃ現場感がある内容になっていると思います。 単にシステムを作るだけでなく、「どう全体最適化するか」「いかに現場に使ってもらうか」に悩むDX担当者や社内PMの...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8e8cdf5c5a411e7cc58"
     }
   ],
   "source_errors": [],
