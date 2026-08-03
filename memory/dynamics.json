@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-03T05:44:06Z",
+  "generated_at": "2026-08-03T06:47:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 35,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 8,
+      "strong": 9,
       "watch": 2,
-      "quiet": 19
+      "quiet": 22
     },
     "bands_after_gate_recheck": {
-      "strong": 10,
+      "strong": 11,
       "watch": 2,
-      "quiet": 19
+      "quiet": 22
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU98879231/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T12:30:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN72334274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -97,7 +97,7 @@
       "url": "https://github.com/iv-org/invidious",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU91736352/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T11:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 45.16,
+      "age_days": 45.2,
       "topics": [
         "ai"
       ],
@@ -179,7 +179,7 @@
       "url": "https://e27.co/the-most-valuable-employee-in-2030-wont-be-the-smartest-itll-be-the-one-who-knows-how-to-work-with-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:30:38+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -206,7 +206,7 @@
       "url": "https://e27.co/cybersecurity-becomes-a-new-gatekeeper-for-malaysias-semiconductor-suppliers-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T04:30:50+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -231,7 +231,7 @@
       "url": "https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:15:42+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -254,11 +254,36 @@
       "summary": "One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the decision maker, the user, the procurement lead, and perhaps one…"
     },
     {
+      "title": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/refill-prescription",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました"
+    },
+    {
       "title": "The new map of growth: Where Southeast Asia fits in a fragmented world",
       "url": "https://e27.co/the-new-map-of-growth-where-southeast-asia-fits-in-a-fragmented-world-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:45:24+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -285,7 +310,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T01:58:41.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -309,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T00:54:24.050+00:00",
-      "age_days": 0.2,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "disaster"
@@ -337,7 +362,7 @@
       "url": "https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:45:12+00:00",
-      "age_days": 0.12,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -363,7 +388,7 @@
       "url": "https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:00:25+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -390,7 +415,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2129460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T22:08:07+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -410,11 +435,59 @@
       "summary": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を"
     },
     {
+      "title": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local"
+      ],
+      "summary": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました"
+    },
+    {
+      "title": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました"
+    },
+    {
       "title": "The funnel was never neutral: What Asia’s markets reveal about Western marketing theory",
       "url": "https://e27.co/the-funnel-was-never-neutral-what-asias-markets-reveal-about-western-marketing-theory-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T03:30:09+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -438,7 +511,7 @@
       "url": "https://e27.co/market-access-is-the-new-moat-why-international-expansion-is-no-longer-a-size-game-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T03:00:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -466,7 +539,7 @@
       "url": "https://togetter.com/li/2728344",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T02:27:15+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -490,7 +563,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2129907.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T01:57:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -514,7 +587,7 @@
       "url": "https://togetter.com/li/2728312",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T00:28:55+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -538,7 +611,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000329/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T21:49:52+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -562,7 +635,7 @@
       "url": "https://speakerdeck.com/kawaguti/okr-essence-scrum-fest-osaka-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T08:23:43+00:00",
-      "age_days": 0.89,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -586,7 +659,7 @@
       "url": "https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T03:59:44+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -608,11 +681,37 @@
       "summary": "ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the financial terms of the transaction. Fol…"
     },
     {
+      "title": "New Singapore payments code takes aim at hidden mark-ups and misleading “zero fee” claims",
+      "url": "https://e27.co/new-singapore-payments-code-takes-aim-at-hidden-mark-ups-and-misleading-zero-fee-claims-20260803/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T06:00:31+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Singapore’s payments industry is getting a new conduct playbook at a time when digital wallets, cross-border transfers and instant payments have become part of daily life for consumers and businesses. The Singapore FinTech Association (SFA), together with industry players, today launched the Payments Industry Code of…"
+    },
+    {
       "title": "Japan shows how non-USD stablecoins complement USDC and USDT",
       "url": "https://e27.co/japan-shows-how-non-usd-stablecoins-complement-usdc-and-usdt-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:15:04+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -639,7 +738,7 @@
       "url": "https://e27.co/when-global-uncertainty-becomes-workplace-anxiety-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:30:26+00:00",
-      "age_days": 0.13,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -664,7 +763,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 44.12,
+      "age_days": 44.17,
       "topics": [
         "general"
       ],
@@ -680,7 +779,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 44.1d old signal"
+        "aging penalty -16.0 for 44.2d old signal"
       ],
       "summary": ""
     },
@@ -689,7 +788,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 44.12,
+      "age_days": 44.17,
       "topics": [
         "general"
       ],
@@ -705,7 +804,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 44.1d old signal"
+        "aging penalty -16.0 for 44.2d old signal"
       ],
       "summary": ""
     },
@@ -714,7 +813,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 44.12,
+      "age_days": 44.17,
       "topics": [
         "ai"
       ],
@@ -731,7 +830,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 44.1d old signal",
+        "aging penalty -16.0 for 44.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -741,7 +840,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2128634.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T23:17:25+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -766,7 +865,7 @@
       "url": "https://e27.co/why-i-am-leaning-ethereum-over-bitcoin-right-now-despite-the-hype-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:54:30+00:00",
-      "age_days": 0.12,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -792,7 +891,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2608/01/news007.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T16:02:59+00:00",
-      "age_days": 2.57,
+      "age_days": 2.61,
       "topics": [
         "ai"
       ],
