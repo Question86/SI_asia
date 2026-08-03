@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-03T02:27:29+00:00_
+_Generated: 2026-08-03T03:45:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `24`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-08-03T02:27:29+00:00_
 - url: https://jvn.jp/vu/JVNVU91736352/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. Stakeholder: Mapping who can kill the deal quietly
+### 4. I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-08-03T02:45:12+00:00`
+- url: https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/
+- summary: I spent twenty years living and working inside British and European business culture, long enough to know that landscape well. Moving my base back to Asia, through Thailand, Malaysia and Taiwan, has handed me a dual perspective I didn’t expect to find so usef…
+
+### 5. Stakeholder: Mapping who can kill the deal quietly
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-03T01:15:42+00:00`
 - url: https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/
 - summary: One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the dec…
-
-### 5. Sovereignty as a sales strategy: How infrastructure choices shape market access
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-08-03T02:00:25+00:00`
-- url: https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/
-- summary: For years, cross-border technology decisions often began with a familiar set of questions: Which cloud is cheapest? Which vendor is easiest to deploy? Which architecture will scale? For AI products sold into regulated industries, that sequence is becoming les…
 
 ### 6. M 5.3 - 41 km NNE of Suez, Egypt
 - source: USGS M4.5+ Earthquakes Past Hour
@@ -64,11 +64,11 @@ _Generated: 2026-08-03T02:27:29+00:00_
 - url: https://github.com/iv-org/invidious
 - summary: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features L…
 
-### 9. lyogavin/airllm
-- source: GitHub Trending RSS All Languages Daily
-- score: `8`
-- published: `None`
-- url: https://github.com/lyogavin/airllm
-- summary: AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or…
+### 9. When global uncertainty becomes workplace anxiety
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-03T02:30:26+00:00`
+- url: https://e27.co/when-global-uncertainty-becomes-workplace-anxiety-20260801/
+- summary: A woman I worked with recently, details changed here for privacy, had kept her role through two rounds of restructuring. By any external measure, she had come out ahead. She described her days to me in careful detail: the early login, the messages answered wi…
 
 END OF DOCUMENT

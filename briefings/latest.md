@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T02:27:29+00:00_
+_Generiert: 2026-08-03T03:45:11+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+24 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -87,6 +87,15 @@ _Generiert: 2026-08-03T02:27:29+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship** — Score 16, observation — [Quelle](https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-03T02:45:12+00:00`, fetched `2026-08-03T03:44:34+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region southeast_asia: Thailand, Malaysia (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: I spent twenty years living and working inside British and European business culture, long enough to know that landscape well. Moving my base back to Asia, through Thailand, Malaysia and Taiwan, has handed me a dual perspective I didn’t expect to find so useful. The first thing that strikes you is how unremarkable starting a […] The post I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t und…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Stakeholder: Mapping who can kill the deal quietly** — Score 16, observation — [Quelle](https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-03T01:15:42+00:00`, fetched `2026-08-03T01:33:31+00:00`
@@ -96,15 +105,24 @@ _Generiert: 2026-08-03T02:27:29+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+6.2); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the biggest errors in commercial strategy is believing that deals are won or lost in the rooms where the product is actually discussed. That is comforting because it keeps the field of vision manageable. It allows teams to focus on the sponsor, the decision maker, the user, the procurement lead, and perhaps one […] The post Stakeholder: Mapping who can kill the deal quietly appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sovereignty as a sales strategy: How infrastructure choices shape market access** — Score 14, observation — [Quelle](https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-03T02:00:25+00:00`, fetched `2026-08-03T02:26:52+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
+- **三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU98879231/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-03T12:30:00+09:00`, fetched `2026-08-03T03:44:34+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
-  - Kurz: For years, cross-border technology decisions often began with a familiar set of questions: Which cloud is cheapest? Which vendor is easiest to deploy? Which architecture will scale? For AI products sold into regulated industries, that sequence is becoming less reliable. A bank, hospital, insurer, public agency, or critical-infrastructure operator may now ask a different question […] The post Sovereignty as a sales s…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルには、通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **サイボウズ Garoonにおけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN72334274/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-03T12:00:00+09:00`, fetched `2026-08-03T03:44:34+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: サイボウズ株式会社が提供するサイボウズ Garoonには、クロスサイトスクリプティングの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -135,6 +153,15 @@ _Generiert: 2026-08-03T02:27:29+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **When global uncertainty becomes workplace anxiety** — Score 10, observation — [Quelle](https://e27.co/when-global-uncertainty-becomes-workplace-anxiety-20260801/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-03T02:30:26+00:00`, fetched `2026-08-03T03:44:34+00:00`
+  - Treffer: APAC Trend Radar, Datenschutz
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Datenschutz (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A woman I worked with recently, details changed here for privacy, had kept her role through two rounds of restructuring. By any external measure, she had come out ahead. She described her days to me in careful detail: the early login, the messages answered within minutes, the extra projects she took on before anyone asked. […] The post When global uncertainty becomes workplace anxiety appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **lyogavin/airllm** — Score 8, observation — [Quelle](https://github.com/lyogavin/airllm)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-03T02:26:52+00:00`
@@ -153,6 +180,24 @@ _Generiert: 2026-08-03T02:27:29+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: SBI Group’s June launch of Japan’s first trust bank-backed yen stablecoin, JPYSC, could be a long-awaited game changer for non-USD fiat-backed cryptocurrencies. Currently, less than one per cent of the US$310 billion in circulating stablecoins is denominated in currencies other than the USD. The greenback dominates the stablecoin market because it is the top global […] The post Japan shows how non-USD stablecoins co…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The funnel was never neutral: What Asia’s markets reveal about Western marketing theory** — Score 6, observation — [Quelle](https://e27.co/the-funnel-was-never-neutral-what-asias-markets-reveal-about-western-marketing-theory-20260803/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-03T03:30:09+00:00`, fetched `2026-08-03T03:44:34+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: In 2007, a Singapore entrepreneur named Johnson Han launched two soft drinks called Anything and Whatever. The concept was simple: you bought a can without knowing which of six flavours you would get. The naming itself was the joke, the answer you give when someone asks what you want to drink and you genuinely don’t […] The post The funnel was never neutral: What Asia’s markets reveal about Western marketing theory…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」** — Score 5, observation — [Quelle](https://togetter.com/li/2728344)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T02:27:15+00:00`, fetched `2026-08-03T03:44:34+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 蓑虫 @MinMin_minomusi 姪(小3)にiPadとApplePencil貸したらこれ 怒りたいのこっちなんやが🥹 え〜〜これ私が悪いカンジ？😅 pic.x.com/xdnBy4cNLb 2026-08-02 15:08:09 蓑虫 @MinMin_minomusi 姪のこと私なりに可愛がってはいるけど、周りの大人に甘やかされすぎてもう色々と手遅れ…な気がする ねだって買ってもらったも...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか** — Score 5, observation — [Quelle](https://togetter.com/li/2728312)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-03T00:28:55+00:00`, fetched `2026-08-03T02:26:52+00:00`
@@ -170,15 +215,6 @@ _Generiert: 2026-08-03T02:27:29+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: これはTailscaleか？ 国産WireGuardメッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2129460.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-02T22:08:07+00:00`, fetched `2026-08-03T01:33:31+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
