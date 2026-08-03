@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T21:05:15+00:00_
+_Generiert: 2026-08-03T21:33:31+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+72 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -225,6 +225,15 @@ _Generiert: 2026-08-03T21:05:15+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami, shipping_chokepoints_supply_chain (+6.0)
   - Kurz: DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **オントロジーは「先に決める」か「データから起こす」か** — Score 11, observation — [Quelle](https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-03T16:07:24+00:00`, fetched `2026-08-03T21:32:59+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた が話題になっています。オントロジーをテーブルや文書から起こして提案を人が確認して使うという話です。 現場では部署ごとに「売上」の意味が違いエージェントが誤った数字をすぐ拡散します。原因の一つはオントロジーの...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How we built a realtime system for responsive voice AI in six months** — Score 11, observation — [Quelle](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-03T07:00:00+00:00`, fetched `2026-08-03T20:39:41+00:00`
@@ -297,15 +306,6 @@ _Generiert: 2026-08-03T21:05:15+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに インストールと基本機能 インストール 基本の用語 基本操作 サイドバーで状態を把握する Git worktree を扱う 名前付きセッションを使い分ける 別のエージェントにプロンプトを送信する コマンドを覚えなくても、自然な言葉で頼める herdr の操作をエージェント自身に任せる エージェントの完了を待って次の作...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Neue Malware-Welle: Arch Linux blockiert AUR-Updates** — Score 8, risk — [Quelle](https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-03T19:25:00.000+00:00`, fetched `2026-08-03T19:30:13+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); recent (+1.0)
-  - Kurz: Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
