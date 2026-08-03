@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T04:59:40+00:00_
+_Generiert: 2026-08-03T06:08:37+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+31 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -139,6 +139,33 @@ _Generiert: 2026-08-03T04:59:40+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or pruning. You can even run 405B Llama 3.1 on 8GB , DeepSeek-V3 (671B) on ~12GB , and Kimi K3 (2.8T) — the largest open-source model released to date — on under 4…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/refill-prescription)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-03T06:00:00+00:00`, fetched `2026-08-03T06:08:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-03T06:00:00+00:00`, fetched `2026-08-03T06:08:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-03T06:00:00+00:00`, fetched `2026-08-03T06:08:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」** — Score 5, observation — [Quelle](https://togetter.com/li/2728344)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

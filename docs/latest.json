@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:59:40+00:00",
-  "run_id": "2026-08-03T04:59:40+00:00",
+  "generated_at": "2026-08-03T06:08:37+00:00",
+  "run_id": "2026-08-03T06:08:37+00:00",
   "date": "2026-08-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 4,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 1,
     "medium": 7,
-    "observe": 19,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -481,6 +481,26 @@
         "id": "2b1ea50e903acf86fd88"
       },
       {
+        "title": "New Singapore payments code takes aim at hidden mark-ups and misleading “zero fee” claims",
+        "url": "https://e27.co/new-singapore-payments-code-takes-aim-at-hidden-mark-ups-and-misleading-zero-fee-claims-20260803/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-03T06:00:31+00:00",
+        "fetched_at": "2026-08-03T06:08:05+00:00",
+        "summary": "Singapore’s payments industry is getting a new conduct playbook at a time when digital wallets, cross-border transfers and instant payments have become part of daily life for consumers and businesses. The Singapore FinTech Association (SFA), together with industry players, today launched the Payments Industry Code of Conduct, a voluntary framework that sets out common standards […] The post New Singapore payments co…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6d9b087bbf0e5787e758"
+      },
+      {
         "title": "Japan shows how non-USD stablecoins complement USDC and USDT",
         "url": "https://e27.co/japan-shows-how-non-usd-stablecoins-complement-usdc-and-usdt-20260801/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -499,6 +519,66 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c8c1e9ac9a5c826bb8f0"
+      },
+      {
+        "title": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+        "url": "https://www.digital.go.jp/resources/govdashboard/refill-prescription",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-03T06:00:00+00:00",
+        "fetched_at": "2026-08-03T06:08:05+00:00",
+        "summary": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a0e5e3b96b0d2a3b6894"
+      },
+      {
+        "title": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+        "url": "https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-03T06:00:00+00:00",
+        "fetched_at": "2026-08-03T06:08:05+00:00",
+        "summary": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af76ee5950ef3a95ecad"
+      },
+      {
+        "title": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+        "url": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-03T06:00:00+00:00",
+        "fetched_at": "2026-08-03T06:08:05+00:00",
+        "summary": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "851898f4a36c2e8ed7aa"
       },
       {
         "title": "The funnel was never neutral: What Asia’s markets reveal about Western marketing theory",
@@ -1180,6 +1260,26 @@
       "id": "2b1ea50e903acf86fd88"
     },
     {
+      "title": "New Singapore payments code takes aim at hidden mark-ups and misleading “zero fee” claims",
+      "url": "https://e27.co/new-singapore-payments-code-takes-aim-at-hidden-mark-ups-and-misleading-zero-fee-claims-20260803/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:00:31+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "Singapore’s payments industry is getting a new conduct playbook at a time when digital wallets, cross-border transfers and instant payments have become part of daily life for consumers and businesses. The Singapore FinTech Association (SFA), together with industry players, today launched the Payments Industry Code of Conduct, a voluntary framework that sets out common standards […] The post New Singapore payments co…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6d9b087bbf0e5787e758"
+    },
+    {
       "title": "Japan shows how non-USD stablecoins complement USDC and USDT",
       "url": "https://e27.co/japan-shows-how-non-usd-stablecoins-complement-usdc-and-usdt-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1198,6 +1298,66 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c8c1e9ac9a5c826bb8f0"
+    },
+    {
+      "title": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/refill-prescription",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0e5e3b96b0d2a3b6894"
+    },
+    {
+      "title": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af76ee5950ef3a95ecad"
+    },
+    {
+      "title": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "851898f4a36c2e8ed7aa"
     },
     {
       "title": "The funnel was never neutral: What Asia’s markets reveal about Western marketing theory",
@@ -1430,67 +1590,84 @@
   ],
   "new_findings": [
     {
-      "title": "Malaysia’s chip suppliers face rising pressure to prove cyber resilience",
-      "url": "https://e27.co/cybersecurity-becomes-a-new-gatekeeper-for-malaysias-semiconductor-suppliers-20260803/",
+      "title": "New Singapore payments code takes aim at hidden mark-ups and misleading “zero fee” claims",
+      "url": "https://e27.co/new-singapore-payments-code-takes-aim-at-hidden-mark-ups-and-misleading-zero-fee-claims-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-03T04:30:50+00:00",
-      "fetched_at": "2026-08-03T04:59:04+00:00",
-      "summary": "For years, Malaysian technology hardware suppliers won business from global semiconductor customers by proving they could deliver on the industry’s familiar demands: quality, cost, punctual delivery and manufacturing capability. Increasingly, they must now clear another test before they even get through the door: cybersecurity. Kenanga Research said on Thursday that cybersecurity is shifting from a […] The post Mala…",
+      "published_at": "2026-08-03T06:00:31+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "Singapore’s payments industry is getting a new conduct playbook at a time when digital wallets, cross-border transfers and instant payments have become part of daily life for consumers and businesses. The Singapore FinTech Association (SFA), together with industry players, today launched the Payments Industry Code of Conduct, a voluntary framework that sets out common standards […] The post New Singapore payments co…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3d70acdafa3b127f7c85"
-    },
-    {
-      "title": "ADA acquires India’s Algonomy in push beyond customer data into AI-led action",
-      "url": "https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-03T03:59:44+00:00",
-      "fetched_at": "2026-08-03T04:59:04+00:00",
-      "summary": "ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the financial terms of the transaction. Following the acquisition, the combined group will operate […] The post ADA acquires India’s Algonomy i…",
-      "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Bengaluru (+2.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a8b4f7a0a5d023d26083"
+      "id": "6d9b087bbf0e5787e758"
     },
     {
-      "title": "Windows 11、メモリ8GB環境への最適化を年内実施へ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2129907.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
+      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-03T01:57:47+00:00",
-      "fetched_at": "2026-08-03T04:59:04+00:00",
-      "summary": "Windows 11、メモリ8GB環境への最適化を年内実施へ",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "デジタル田園都市国家構想における「（令和7年度補正予算）地域未来交付金（デジタル実装型TYPEV）活用事例について」掲載しました",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c94162b0275b23d9342c"
+      "id": "851898f4a36c2e8ed7aa"
+    },
+    {
+      "title": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+      "url": "https://www.digital.go.jp/policies/mynumber/local-government/mykey-platform",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "マイキープラットフォーム（自治体等認証基盤）のマイキーID方式の導入手順を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af76ee5950ef3a95ecad"
+    },
+    {
+      "title": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/refill-prescription",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "fetched_at": "2026-08-03T06:08:05+00:00",
+      "summary": "リフィル処方箋の認知率や利用状況に関するダッシュボードを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0e5e3b96b0d2a3b6894"
     }
   ],
   "source_errors": [],
