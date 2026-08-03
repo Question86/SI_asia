@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-03T21:22:37Z",
+  "generated_at": "2026-08-03T21:50:16Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Wazuh: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2620",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T11:26:07+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/vu/JVNVU98879231/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T12:30:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "security"
       ],
@@ -60,35 +60,11 @@
       "summary": "三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルには、通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性が存在します。"
     },
     {
-      "title": "サイボウズ Garoonにおけるクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/jp/JVN72334274/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-03T12:00:00+09:00",
-      "age_days": 0.77,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "サイボウズ株式会社が提供するサイボウズ Garoonには、クロスサイトスクリプティングの脆弱性が存在します。"
-    },
-    {
       "title": "iv-org/invidious",
       "url": "https://github.com/iv-org/invidious",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -116,7 +92,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1294",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T10:12:36+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -142,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0215",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T09:36:10+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -168,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T09:22:05+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -194,7 +170,7 @@
       "url": "https://restofworld.org/2026/silicon-valley-debate-chinese-open-weight-ai-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-03T10:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security"
@@ -221,7 +197,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2619",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T11:26:07+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -247,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2519",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-03T07:18:05+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -273,7 +249,7 @@
       "url": "https://jvn.jp/vu/JVNVU91736352/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T11:00:00+09:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "security"
       ],
@@ -294,11 +270,37 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "オントロジーは「先に決める」か「データから起こす」か",
+      "url": "https://zenn.dev/knowledge_graph/articles/ontology-define-first-vs-induce",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-03T16:07:24+00:00",
+      "age_days": 0.24,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "オントロジーで AI に業務知識を渡す — AWS の OSS「Context Ontology Accelerator」を試してみた が話題になっています。オントロジーをテーブルや文書から起こして提案を人が確認して使うという話です。 現場では部署ごとに「売上」の意味が違いエージェントが誤った数字をすぐ拡散します。原因の一つはオントロジーの..."
+    },
+    {
       "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
       "url": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-03T19:25:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
