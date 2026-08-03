@@ -1,30 +1,78 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-03T03:00:03Z",
+  "generated_at": "2026-08-03T04:18:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 28,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 5,
-      "watch": 2,
-      "quiet": 11
-    },
-    "bands_after_gate_recheck": {
       "strong": 7,
       "watch": 2,
-      "quiet": 11
+      "quiet": 17
+    },
+    "bands_after_gate_recheck": {
+      "strong": 9,
+      "watch": 2,
+      "quiet": 17
     }
   },
   "top_dynamics": [
+    {
+      "title": "三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98879231/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-03T12:30:00+09:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルには、通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性が存在します。"
+    },
+    {
+      "title": "サイボウズ Garoonにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN72334274/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-03T12:00:00+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "サイボウズ株式会社が提供するサイボウズ Garoonには、クロスサイトスクリプティングの脆弱性が存在します。"
+    },
     {
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -49,7 +97,7 @@
       "url": "https://github.com/iv-org/invidious",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -77,7 +125,7 @@
       "url": "https://jvn.jp/vu/JVNVU91736352/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T11:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -102,7 +150,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 45.04,
+      "age_days": 45.1,
       "topics": [
         "ai"
       ],
@@ -121,7 +169,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 45.0d old signal",
+        "aging penalty -8.0 for 45.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -131,7 +179,7 @@
       "url": "https://e27.co/the-most-valuable-employee-in-2030-wont-be-the-smartest-itll-be-the-one-who-knows-how-to-work-with-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:30:38+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -158,7 +206,7 @@
       "url": "https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:15:42+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -185,7 +233,7 @@
       "url": "https://e27.co/the-new-map-of-growth-where-southeast-asia-fits-in-a-fragmented-world-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:45:24+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -212,7 +260,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T01:58:41.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -236,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T00:54:24.050+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "disaster"
@@ -260,11 +308,37 @@
       "summary": "DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship",
+      "url": "https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T02:45:12+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: strike",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "I spent twenty years living and working inside British and European business culture, long enough to know that landscape well. Moving my base back to Asia, through Thailand, Malaysia and Taiwan, has handed me a dual perspective I didn’t expect to find so useful. The first thing that strikes you is how unremarkable sta…"
+    },
+    {
       "title": "Sovereignty as a sales strategy: How infrastructure choices shape market access",
       "url": "https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:00:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -291,7 +365,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2129460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T22:08:07+00:00",
-      "age_days": 0.2,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -311,11 +385,87 @@
       "summary": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を"
     },
     {
+      "title": "The funnel was never neutral: What Asia’s markets reveal about Western marketing theory",
+      "url": "https://e27.co/the-funnel-was-never-neutral-what-asias-markets-reveal-about-western-marketing-theory-20260803/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T03:30:09+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "In 2007, a Singapore entrepreneur named Johnson Han launched two soft drinks called Anything and Whatever. The concept was simple: you bought a can without knowing which of six flavours you would get. The naming itself was the joke, the answer you give when someone asks what you want to drink and you genuinely don’t […"
+    },
+    {
+      "title": "Market access is the new moat: Why international expansion is no longer a size game",
+      "url": "https://e27.co/market-access-is-the-new-moat-why-international-expansion-is-no-longer-a-size-game-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T03:00:54+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: regional",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Global expansion feels like a minefield right now. That’s not in your head. In a recent Avalara survey, 8 out of 10 business leaders said cross-border operations are harder than they were just a year ago. I’ve lived this. Expanding beyond India, my home market, has gotten harder because of regional tensions. But hones…"
+    },
+    {
+      "title": "姪(小3)にiPadとApple Pencil貸したらこれ… 怒りたいのはこっちなんやが、これ私が悪い感じ？「もう貸せないですね…」「ここで叱られていい機会になったんじゃないかな」",
+      "url": "https://togetter.com/li/2728344",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-03T02:27:15+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "蓑虫 @MinMin_minomusi 姪(小3)にiPadとApplePencil貸したらこれ 怒りたいのこっちなんやが🥹 え〜〜これ私が悪いカンジ？😅 pic.x.com/xdnBy4cNLb 2026-08-02 15:08:09 蓑虫 @MinMin_minomusi 姪のこと私なりに可愛がってはいるけど、周りの大人に甘やかされすぎてもう色々と手遅れ…な気がする ねだって買ってもらったも..."
+    },
+    {
       "title": "「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか",
       "url": "https://togetter.com/li/2728312",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T00:28:55+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -339,7 +489,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000329/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T21:49:52+00:00",
-      "age_days": 0.22,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -363,7 +513,7 @@
       "url": "https://speakerdeck.com/kawaguti/okr-essence-scrum-fest-osaka-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T08:23:43+00:00",
-      "age_days": 0.78,
+      "age_days": 0.83,
       "topics": [
         "general"
       ],
@@ -387,7 +537,7 @@
       "url": "https://e27.co/japan-shows-how-non-usd-stablecoins-complement-usdc-and-usdt-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T02:15:04+00:00",
-      "age_days": 0.03,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -410,11 +560,36 @@
       "summary": "SBI Group’s June launch of Japan’s first trust bank-backed yen stablecoin, JPYSC, could be a long-awaited game changer for non-USD fiat-backed cryptocurrencies. Currently, less than one per cent of the US$310 billion in circulating stablecoins is denominated in currencies other than the USD. The greenback dominates th…"
     },
     {
+      "title": "When global uncertainty becomes workplace anxiety",
+      "url": "https://e27.co/when-global-uncertainty-becomes-workplace-anxiety-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T02:30:26+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A woman I worked with recently, details changed here for privacy, had kept her role through two rounds of restructuring. By any external measure, she had come out ahead. She described her days to me in careful detail: the early login, the messages answered within minutes, the extra projects she took on before anyone a…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 44.01,
+      "age_days": 44.06,
       "topics": [
         "general"
       ],
@@ -430,7 +605,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 44.0d old signal"
+        "aging penalty -16.0 for 44.1d old signal"
       ],
       "summary": ""
     },
@@ -439,7 +614,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 44.01,
+      "age_days": 44.06,
       "topics": [
         "general"
       ],
@@ -455,7 +630,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 44.0d old signal"
+        "aging penalty -16.0 for 44.1d old signal"
       ],
       "summary": ""
     },
@@ -464,7 +639,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 44.01,
+      "age_days": 44.06,
       "topics": [
         "ai"
       ],
@@ -481,7 +656,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 44.0d old signal",
+        "aging penalty -16.0 for 44.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -491,7 +666,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2128634.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T23:17:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -512,11 +687,37 @@
       "summary": "これはTailscaleか？ 国産WireGuardメッシュ「ロリポップ！ゼロトラストリンク byGMOペパボ」を実測で確かめた【イニシャルB】"
     },
     {
+      "title": "Why I am leaning Ethereum over Bitcoin right now despite the hype",
+      "url": "https://e27.co/why-i-am-leaning-ethereum-over-bitcoin-right-now-despite-the-hype-20260803/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-03T02:54:30+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The crypto market woke up on August 3 with a modest but telling pair of gains. Bitcoin climbed 0.55 per cent to US$63,220.03 over the past 24 hours while Ethereum advanced 1.07 per cent to US$1,871.70. The broader sector added 0.70 per cent. On the surface, these figures suggest a quiet recovery. Dig beneath them […]…"
+    },
+    {
       "title": "PayPay中山社長が語る「セブン提携」と「生保参入」の勝算 購買データ×AIで目指す金融プラットフォーム",
       "url": "https://www.itmedia.co.jp/mobile/articles/2608/01/news007.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-31T16:02:59+00:00",
-      "age_days": 2.46,
+      "age_days": 2.51,
       "topics": [
         "ai"
       ],
@@ -537,5 +738,5 @@
       "summary": "決済セグメントの売り上げは、前年同期比25％増の886億円で、全体の約8割を占める。好調の背景には、決済取扱高を示すGMV（総流通額）の伸びが挙げられ、決済セグメントのGMVは前年同期比23％増の5.39兆円に達した。前年同期比44％増のオンライン決済GMVが伸びたことに加え、PayPayアプリに「PayPayカード」を連携させる..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “lyogavin/airllm” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }

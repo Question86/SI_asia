@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-03T03:00:03Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “lyogavin/airllm” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
+  "generated_at": "2026-08-03T04:18:52Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,59 @@
   ],
   "top_dynamics": [
     {
+      "title": "三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルにおける通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98879231/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-03T12:30:00+09:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "三菱電機製複数製品で使用しているCC-Link IE TSN通信プロトコルには、通信チャネルで送受信するメッセージに対する完全性の検証不備に起因する脆弱性が存在します。"
+    },
+    {
+      "title": "サイボウズ Garoonにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN72334274/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-03T12:00:00+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "サイボウズ株式会社が提供するサイボウズ Garoonには、クロスサイトスクリプティングの脆弱性が存在します。"
+    },
+    {
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -40,7 +88,7 @@
       "url": "https://github.com/iv-org/invidious",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-03T02:26:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -68,7 +116,7 @@
       "url": "https://jvn.jp/vu/JVNVU91736352/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-03T11:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -93,7 +141,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 45.04,
+      "age_days": 45.1,
       "topics": [
         "ai"
       ],
@@ -112,7 +160,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 45.0d old signal",
+        "aging penalty -8.0 for 45.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -122,7 +170,7 @@
       "url": "https://e27.co/the-most-valuable-employee-in-2030-wont-be-the-smartest-itll-be-the-one-who-knows-how-to-work-with-ai-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:30:38+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -149,7 +197,7 @@
       "url": "https://e27.co/stakeholder-mapping-who-can-kill-the-deal-quietly-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:15:42+00:00",
-      "age_days": 0.07,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -176,7 +224,7 @@
       "url": "https://e27.co/the-new-map-of-growth-where-southeast-asia-fits-in-a-fragmented-world-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-03T01:45:24+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -203,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T01:58:41.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -227,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thpb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-03T00:54:24.050+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "disaster"
@@ -251,14 +299,13 @@
       "summary": "DYFI? - V Time 2026-08-03 00:00:33 UTC 2026-08-03 00:00:33 UTC at epicenter Location 30.321°N 32.679°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "Sovereignty as a sales strategy: How infrastructure choices shape market access",
-      "url": "https://e27.co/sovereignty-as-a-sales-strategy-how-infrastructure-choices-shape-market-access-20260731/",
+      "title": "I’ve worked in Taipei, London and Bangkok: Here’s what Europe still doesn’t understand about Asian entrepreneurship",
+      "url": "https://e27.co/ive-worked-in-taipei-london-and-bangkok-heres-what-europe-still-doesnt-understand-about-asian-entrepreneurship-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-03T02:00:25+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-08-03T02:45:12+00:00",
+      "age_days": 0.07,
       "topics": [
-        "ai",
-        "macro"
+        "ai"
       ],
       "dynamics_score": 11.0,
       "raw_band": "quiet",
@@ -271,59 +318,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: critical",
+        "early terms: strike",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "For years, cross-border technology decisions often began with a familiar set of questions: Which cloud is cheapest? Which vendor is easiest to deploy? Which architecture will scale? For AI products sold into regulated industries, that sequence is becoming less reliable. A bank, hospital, insurer, public agency, or cri…"
-    },
-    {
-      "title": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2129460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-02T22:08:07+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "画像編集ソフト「GIMP」に10件の脆弱性、いずれも任意コード実行のおそれ ～修正版は未リリース／当面は信頼できないファイルを開かないよう注意を"
-    },
-    {
-      "title": "「乾太くん」は洗濯後に濡れた衣服を移す「人間の作業」があるから、なぜ絶賛されているかイマイチ分からず。留守中にワンストップで終わらないなら意味なくない？→乾太くんの評価はどこから来るのか",
-      "url": "https://togetter.com/li/2728312",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-03T00:28:55+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "hina@3y @hina47116083 今更だけど、乾太君って洗濯した後の濡れた衣類を乾太君へ移す人間の作業がある認識でOK？ それだと留守中に洗濯から乾燥まで終わらせられないから、出社あり夫婦には不向きでは？なぜ絶賛されているかがイマイチ分からず。乾燥力が強くても、留守中にワンストップで終わらないなら意味なくない？..."
+      "summary": "I spent twenty years living and working inside British and European business culture, long enough to know that landscape well. Moving my base back to Asia, through Thailand, Malaysia and Taiwan, has handed me a dual perspective I didn’t expect to find so useful. The first thing that strikes you is how unremarkable sta…"
     }
   ],
   "read_order": [
@@ -335,9 +334,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 9,
       "watch": 2,
-      "quiet": 3
+      "quiet": 1
     }
   }
 }
