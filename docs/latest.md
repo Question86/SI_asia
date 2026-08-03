@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-03T21:57:26+00:00_
+_Generiert: 2026-08-03T22:23:26+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
+74 neue relevante Treffer. Stärkstes Signal: „The new map of growth: Where Southeast Asia fits in a fragmented world“ aus e27 Asia Startup and Tech Feed (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -230,14 +230,14 @@ _Generiert: 2026-08-03T21:57:26+00:00_
   - Warum relevant: Webentwicklung (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Invidious is an alternative front-end to YouTube Invidious An open source alternative front-end to YouTube Website • Instances list • FAQ • Documentation • Contribute • Donate Chat with us: Screenshots Player Preferences Subscriptions Features User features Lightweight No ads No tracking No JavaScript required Light/Dark themes Customizable homepage Subscriptions independent from Google Notifications for all subscri…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.7 - 64 km SSW of Midelt, Morocco** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thv7)
+- **M 4.8 - 198 km SE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000thvj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-03T20:31:39.040+00:00`, fetched `2026-08-03T20:39:41+00:00`
+  - Zeit: published `2026-08-03T21:56:57.040+00:00`, fetched `2026-08-03T22:22:55+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-03 20:14:45 UTC 2026-08-03 20:14:45 UTC at epicenter Location 32.201°N 5.125°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-08-03 21:42:13 UTC 2026-08-03 21:42:13 UTC at epicenter Location 49.308°N 157.899°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Philip N Jefferson: Navigating economic shocks - a monetary policymaker's perspective** — Score 9, observation — [Quelle](https://www.bis.org/review/r260731b.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
