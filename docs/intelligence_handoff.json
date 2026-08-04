@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-04T03:50:28Z",
+  "generated_at": "2026-08-04T05:00:52Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “freo2におけるアップロードするファイルの検証が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN52865575/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-04T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:45:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -64,7 +64,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.08,
+      "age_days": 46.13,
       "topics": [
         "ai"
       ],
@@ -89,11 +89,37 @@
       "summary": ""
     },
     {
+      "title": "Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI",
+      "url": "https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-04T04:03:21+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce ages, labour becomes harder to find, and smaller operators s…"
+    },
+    {
       "title": "The AI-native economy: Southeast Asia’s once-in-a-generation opportunity",
       "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:22+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -116,11 +142,38 @@
       "summary": "For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one of the world’s fastest-growing digital economies. E-commerce…"
     },
     {
+      "title": "Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-08-03T19:14:58+00:00",
+      "age_days": 0.41,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "You can now create Copilot cloud agent automations that run when an issue comment or pull request comment is created. Common use cases include: Generate documentation: Comment on a pull… The post Trigger Copilot automations with comments appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Observing the frontier, while building for our local reality",
       "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:45:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -147,7 +200,7 @@
       "url": "https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -174,7 +227,7 @@
       "url": "https://openai.com/index/circles",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-03T00:00:00+00:00",
-      "age_days": 1.16,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
@@ -200,7 +253,7 @@
       "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T12:31:03+00:00",
-      "age_days": 0.64,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -224,7 +277,7 @@
       "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:15:35+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -251,7 +304,7 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-04T02:13:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -270,56 +323,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. English · 简体中文 · Guide · ACP · Spec · Website · Discord A DeepSeek-native AI coding agent for your terminal. A config- and plugin-driven harness — a single static Go binary, tuned around DeepSeek's prefix ca…"
-    },
-    {
-      "title": "Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf",
-      "url": "https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T01:00:17+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Chinese visitors, which gave me an […] The post Tourists first…"
-    },
-    {
-      "title": "Connecting founders across Southeast Asia used to be the easy part of the job, and now it’s becoming the whole job",
-      "url": "https://e27.co/connecting-founders-across-southeast-asia-used-to-be-the-easy-part-of-the-job-and-now-its-becoming-the-whole-job-20260801/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T02:15:16+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Most of what I do comes down to one plain thing: connecting people who should know each other. A founder to an investor. A company to a partner in a market it wants to enter. A room of people who become useful to one another once someone bothers to convene them. I care about this […] The post Connecting founders acros…"
     }
   ],
   "read_order": [
@@ -331,9 +334,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 6,
       "watch": 2,
-      "quiet": 6
+      "quiet": 4
     }
   }
 }
