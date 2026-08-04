@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T22:53:00+00:00_
+_Generiert: 2026-08-04T23:18:02+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+74 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-08-04T22:53:00+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555461)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.
 
 ## Wirtschaft global
 
