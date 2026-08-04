@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T00:02:28+00:00_
+_Generiert: 2026-08-04T00:52:00+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „オリジン・CORS・セッションを基礎から理解する“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
+1 neue relevante Treffer. Stärkstes Signal: „オリジン・CORS・セッションを基礎から理解する“ aus Hatena Bookmark Hotentry IT (Score 10, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -33,3 +33,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml

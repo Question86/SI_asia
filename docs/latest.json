@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-04T00:02:28+00:00",
-  "run_id": "2026-08-04T00:02:28+00:00",
+  "generated_at": "2026-08-04T00:52:00+00:00",
+  "run_id": "2026-08-04T00:52:00+00:00",
   "date": "2026-08-04",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 1
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 1,
     "displayed_findings": 1,
     "high": 0,
     "medium": 0,
     "observe": 1,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -78,31 +78,15 @@
       "id": "335e5089d5c209a97e3d"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "オリジン・CORS・セッションを基礎から理解する",
-      "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "japan_digital_agency_news",
+      "source_name": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-03T12:31:03+00:00",
-      "fetched_at": "2026-08-04T00:01:58+00:00",
-      "summary": "はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー...",
-      "matched_keywords": [
-        "Content-Chance",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "335e5089d5c209a97e3d"
+      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
