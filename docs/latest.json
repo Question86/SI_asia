@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T23:18:02+00:00",
-  "run_id": "2026-08-04T23:18:02+00:00",
+  "generated_at": "2026-08-04T23:41:28+00:00",
+  "run_id": "2026-08-04T23:41:28+00:00",
   "date": "2026-08-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3693,29 +3693,7 @@
       "id": "b980813eba0ce03aa8b6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
-      "url": "https://zenn.dev/knowledgesense/articles/7c1a8f7720b119",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-04T06:33:29+00:00",
-      "fetched_at": "2026-08-04T23:17:31+00:00",
-      "summary": "本記事では、今をときめくAI半導体ベンチャーである「Cerebras」による、「社内ナレッジ検索」の仕組みについて、解説します。 株式会社ナレッジセンスは、社内データ検索技術をエンタープライズ企業向けに提供しているスタートアップです。 この記事は何 この記事は、Cerebras社が公開した技術ブログ「How We Built Our...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4adb80b3ee2d67a265b2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
