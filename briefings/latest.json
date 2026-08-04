@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-04T00:52:00+00:00",
-  "run_id": "2026-08-04T00:52:00+00:00",
+  "generated_at": "2026-08-04T01:25:15+00:00",
+  "run_id": "2026-08-04T01:25:15+00:00",
   "date": "2026-08-04",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,108 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 6,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 0,
-    "observe": 1,
-    "source_errors": 1
+    "medium": 1,
+    "observe": 6,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "Circles powers telco personalization with OpenAI technology",
+        "url": "https://openai.com/index/circles",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-03T00:00:00+00:00",
+        "fetched_at": "2026-08-04T01:24:46+00:00",
+        "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "5cfed1afea71672c4c55"
+      }
+    ],
     "observe": [
+      {
+        "title": "Founders’ playbook: What it really takes to scale beyond Series A",
+        "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-04T01:15:35+00:00",
+        "fetched_at": "2026-08-04T01:24:46+00:00",
+        "summary": "For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no longer building a product, […] The post Founders’ playbook: What it really takes to scale beyond Seri…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "funding",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "3e9069df5b38c3b222da"
+      },
       {
         "title": "オリジン・CORS・セッションを基礎から理解する",
         "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
@@ -51,10 +141,183 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "335e5089d5c209a97e3d"
+      },
+      {
+        "title": "Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf",
+        "url": "https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-04T01:00:17+00:00",
+        "fetched_at": "2026-08-04T01:24:46+00:00",
+        "summary": "One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Chinese visitors, which gave me an […] The post Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eb847950687c7fb15d36"
+      },
+      {
+        "title": "The 30-second report: How one startup is killing construction’s paperwork problem",
+        "url": "https://e27.co/the-30-second-report-how-one-startup-is-killing-constructions-paperwork-problem-20260803/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-04T01:00:25+00:00",
+        "fetched_at": "2026-08-04T01:24:46+00:00",
+        "summary": "Ask any project manager on a Southeast Asian construction site what eats up their evenings, and the answer rarely involves engineering. It’s paperwork: chasing updates, compiling reports, making sure the right photo is attached to the right ticket. Ethan Ow knows this frustration intimately. He lived it as a junior executive in 2012, left the […] The post The 30-second report: How one startup is killing construction…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "72c58eff5ae0ab464157"
+      },
+      {
+        "title": "ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック",
+        "url": "https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-03T23:19:05+00:00",
+        "fetched_at": "2026-08-04T01:24:46+00:00",
+        "summary": "こんにちは、つくぼし(tsukuboshi0755)です！ 私は以前勤めていた会社を急遽退職せざるを得ない状況になってしまい、しばらく無職期間を過ごした事があります。 その際に「退職後ってこんなに手続き多いの！？」と驚いた事がたくさんありました。知っていれば避けられた出費や、期限を過ぎると取り返しがつかない手続き...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cef212934c7ab825672d"
+      },
+      {
+        "title": "Upcoming August 2026 model deprecations in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-07-31T21:26:48+00:00",
+        "fetched_at": "2026-08-04T01:24:46+00:00",
+        "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on September 1st, 2026: Model Deprecation date… The post Upcoming August 2026 model deprecations in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a8cdec4ce80e992e582"
       }
     ]
   },
   "findings": [
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T00:00:00+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "5cfed1afea71672c4c55"
+    },
+    {
+      "title": "Founders’ playbook: What it really takes to scale beyond Series A",
+      "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T01:15:35+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no longer building a product, […] The post Founders’ playbook: What it really takes to scale beyond Seri…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "funding",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "3e9069df5b38c3b222da"
+    },
     {
       "title": "オリジン・CORS・セッションを基礎から理解する",
       "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
@@ -76,17 +339,268 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "335e5089d5c209a97e3d"
-    }
-  ],
-  "new_findings": [],
-  "source_errors": [
+    },
     {
-      "source_id": "japan_digital_agency_news",
-      "source_name": "Japan Digital Agency News RSS",
+      "title": "Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf",
+      "url": "https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
+      "published_at": "2026-08-04T01:00:17+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Chinese visitors, which gave me an […] The post Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb847950687c7fb15d36"
+    },
+    {
+      "title": "The 30-second report: How one startup is killing construction’s paperwork problem",
+      "url": "https://e27.co/the-30-second-report-how-one-startup-is-killing-constructions-paperwork-problem-20260803/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T01:00:25+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "Ask any project manager on a Southeast Asian construction site what eats up their evenings, and the answer rarely involves engineering. It’s paperwork: chasing updates, compiling reports, making sure the right photo is attached to the right ticket. Ethan Ow knows this frustration intimately. He lived it as a junior executive in 2012, left the […] The post The 30-second report: How one startup is killing construction…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "72c58eff5ae0ab464157"
+    },
+    {
+      "title": "ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック",
+      "url": "https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-03T23:19:05+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "こんにちは、つくぼし(tsukuboshi0755)です！ 私は以前勤めていた会社を急遽退職せざるを得ない状況になってしまい、しばらく無職期間を過ごした事があります。 その際に「退職後ってこんなに手続き多いの！？」と驚いた事がたくさんありました。知っていれば避けられた出費や、期限を過ぎると取り返しがつかない手続き...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cef212934c7ab825672d"
+    },
+    {
+      "title": "Upcoming August 2026 model deprecations in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-31T21:26:48+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on September 1st, 2026: Model Deprecation date… The post Upcoming August 2026 model deprecations in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a8cdec4ce80e992e582"
     }
   ],
+  "new_findings": [
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-03T00:00:00+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "5cfed1afea71672c4c55"
+    },
+    {
+      "title": "Founders’ playbook: What it really takes to scale beyond Series A",
+      "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T01:15:35+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no longer building a product, […] The post Founders’ playbook: What it really takes to scale beyond Seri…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "funding",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "3e9069df5b38c3b222da"
+    },
+    {
+      "title": "Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf",
+      "url": "https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T01:00:17+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Chinese visitors, which gave me an […] The post Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eb847950687c7fb15d36"
+    },
+    {
+      "title": "The 30-second report: How one startup is killing construction’s paperwork problem",
+      "url": "https://e27.co/the-30-second-report-how-one-startup-is-killing-constructions-paperwork-problem-20260803/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T01:00:25+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "Ask any project manager on a Southeast Asian construction site what eats up their evenings, and the answer rarely involves engineering. It’s paperwork: chasing updates, compiling reports, making sure the right photo is attached to the right ticket. Ethan Ow knows this frustration intimately. He lived it as a junior executive in 2012, left the […] The post The 30-second report: How one startup is killing construction…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "72c58eff5ae0ab464157"
+    },
+    {
+      "title": "ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック",
+      "url": "https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-03T23:19:05+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "こんにちは、つくぼし(tsukuboshi0755)です！ 私は以前勤めていた会社を急遽退職せざるを得ない状況になってしまい、しばらく無職期間を過ごした事があります。 その際に「退職後ってこんなに手続き多いの！？」と驚いた事がたくさんありました。知っていれば避けられた出費や、期限を過ぎると取り返しがつかない手続き...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cef212934c7ab825672d"
+    },
+    {
+      "title": "Upcoming August 2026 model deprecations in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-07-31T21:26:48+00:00",
+      "fetched_at": "2026-08-04T01:24:46+00:00",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on September 1st, 2026: Model Deprecation date… The post Upcoming August 2026 model deprecations in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a8cdec4ce80e992e582"
+    }
+  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
