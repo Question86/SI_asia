@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T11:07:15+00:00_
+_Generiert: 2026-08-04T11:51:18+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+50 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, agentic AI would reshape all three at once. […] The post Observing the frontier, while building for our local reality appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-04T10:57:39+00:00`, fetched `2026-08-04T11:50:49+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI** — Score 18, observation — [Quelle](https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -204,14 +213,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the… The post Customize the reasoning level for Copilot cloud agent appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **あなたはどんな「インターネット老人」だったのか。生年を入れると詳しくなってウンチクが語れる年表アプリを作った（CloseBox） | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/08/04/5360.html)
+- **pの中にdivを入れられないのはなぜか - Legalscapeテックブログ** — Score 5, observation — [Quelle](https://tech.legalscape.co.jp/entry/2026/08/04/111358)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-04T02:43:25+00:00`, fetched `2026-08-04T04:33:03+00:00`
+  - Zeit: published `2026-08-04T07:24:05+00:00`, fetched `2026-08-04T11:50:49+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: コンピュータの歴史については、清水亮さんが詳しく、さまざまなところで豊富な知識・雑学を聞いては「ほー」と感心しています。その一方で、長く生きてきたおかげか古い出来事や技術はリアルタイムで経験していて、「それ知ってるけど、いつの頃だっけ」と老人ムーブをしがちです。 そして、コンピュータ技術に影響を与...
+  - Kurz: こんにちは、 Legalscape (採用情報) で法情報をいい感じに収集・運用しているあざらし🦭です。 一次情報・二次情報に関わらず、形式や公開方法が多岐にわたる法情報を正確に分析あるいは表示するためには構造化という処理が必要になります。弊社ではこの構造化処理フローと構造化モデルについて日々議論を重ね、改良を続...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Upcoming August 2026 model deprecations in GitHub Copilot** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`

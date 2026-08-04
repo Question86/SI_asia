@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-04T11:07:15+00:00",
+  "generated_at": "2026-08-04T11:51:18+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 4,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 23,
-    "observe": 23
+    "medium": 25,
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-04T10:57:39+00:00",
+      "relevance_score": 18,
+      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 sup…",
+      "section": "medium"
+    },
+    {
       "title": "Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/",
       "summary": "Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…",
-      "section": "medium"
-    },
-    {
-      "title": "The AI-native economy: Southeast Asia’s once-in-a-generation opportunity",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-04T02:30:22+00:00",
-      "relevance_score": 17,
-      "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
-      "summary": "For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…",
       "section": "medium"
     },
     {

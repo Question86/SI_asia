@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T11:07:15+00:00_
+_Generated: 2026-08-04T11:51:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `46`
+- findings: `50`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-04T11:07:15+00:00_
 - url: https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/
 - summary: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, a…
 
-### 3. Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI
+### 3. CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-08-04T10:57:39+00:00`
+- url: https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support
+- summary: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 sup…
+
+### 4. Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-08-04T04:03:21+00:00`
 - url: https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/
 - summary: Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…
-
-### 4. The AI-native economy: Southeast Asia’s once-in-a-generation opportunity
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-08-04T02:30:22+00:00`
-- url: https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/
-- summary: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…
 
 ### 5. Founders’ playbook: What it really takes to scale beyond Series A
 - source: e27 Asia Startup and Tech Feed
