@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T04:33:35+00:00_
+_Generiert: 2026-08-04T05:34:20+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+29 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -105,14 +105,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf** — Score 8, observation — [Quelle](https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/)
+- **AI uncertainty is pushing companies from long leases to flexible offices** — Score 8, observation — [Quelle](https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-04T01:00:17+00:00`, fetched `2026-08-04T01:24:46+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-08-04T05:00:20+00:00`, fetched `2026-08-04T05:33:48+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)
-  - Kurz: One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Chinese visitors, which gave me an […] The post Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf appeared first on e27 .
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh source of uncertainty for […] The post AI uncertainty is pushing companies from long leases to flex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Apple is getting this wrong** — Score 7, observation — [Quelle](https://openai.com/index/apple-is-getting-this-wrong)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-03T22:00:00+00:00`, fetched `2026-08-04T05:33:48+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); recent (+1.0)
+  - Kurz: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（8月4日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/7a65d3a0-b31e-49f1-a0e4-e59d13b39527)
   - Quelle: Japan Digital Agency News RSS / `rss`

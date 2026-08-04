@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T04:33:35+00:00_
+_Generated: 2026-08-04T05:34:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `29`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-04T04:33:35+00:00_
 - url: https://zenn.dev/owade/articles/cors-session-origin-guide
 - summary: はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー...
 
-### 8. Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf
+### 8. AI uncertainty is pushing companies from long leases to flexible offices
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-08-04T01:00:17+00:00`
-- url: https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/
-- summary: One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Ch…
+- published: `2026-08-04T05:00:20+00:00`
+- url: https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/
+- summary: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Space…
 
 END OF DOCUMENT
