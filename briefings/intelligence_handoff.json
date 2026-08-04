@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-04T05:00:52Z",
+  "generated_at": "2026-08-04T06:08:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “freo2におけるアップロードするファイルの検証が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN52865575/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-04T12:00:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:45:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -60,11 +60,37 @@
       "summary": "Singapore consistently punches above its weight on almost every measure of a mature digital economy, from financial competitiveness and digitalisation to regulatory sophistication. Cybersecurity is no exception. Boards take the risk seriously. CISOs have the mandate and budgets to act. Regulators are among the most fo…"
     },
     {
+      "title": "AI uncertainty is pushing companies from long leases to flexible offices",
+      "url": "https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-04T05:00:20+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.13,
+      "age_days": 46.17,
       "topics": [
         "ai"
       ],
@@ -83,7 +109,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 46.1d old signal",
+        "aging penalty -8.0 for 46.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -93,7 +119,7 @@
       "url": "https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T04:03:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -119,7 +145,7 @@
       "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:22+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -146,7 +172,7 @@
       "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-03T19:14:58+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -173,7 +199,7 @@
       "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:45:18+00:00",
-      "age_days": 0.09,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -200,7 +226,7 @@
       "url": "https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:24+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -227,7 +253,7 @@
       "url": "https://openai.com/index/circles",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-03T00:00:00+00:00",
-      "age_days": 1.21,
+      "age_days": 1.26,
       "topics": [
         "ai"
       ],
@@ -253,7 +279,7 @@
       "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T12:31:03+00:00",
-      "age_days": 0.69,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -277,7 +303,7 @@
       "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:15:35+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -298,31 +324,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no l…"
-    },
-    {
-      "title": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-04T02:13:25+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. English · 简体中文 · Guide · ACP · Spec · Website · Discord A DeepSeek-native AI coding agent for your terminal. A config- and plugin-driven harness — a single static Go binary, tuned around DeepSeek's prefix ca…"
     }
   ],
   "read_order": [
@@ -334,9 +335,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 7,
       "watch": 2,
-      "quiet": 4
+      "quiet": 3
     }
   }
 }
