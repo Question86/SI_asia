@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T13:12:07+00:00_
+_Generated: 2026-08-04T13:54:59+00:00_
 
 ## Status
-- status: `warning`
-- findings: `55`
+- status: `normal`
+- findings: `57`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-04T13:12:07+00:00_
 - url: https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/
 - summary: Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…
 
-### 5. Founders’ playbook: What it really takes to scale beyond Series A
+### 5. Customize Dependabot pull request branch names
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-08-04T12:57:18+00:00`
+- url: https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names
+- summary: You can now customize the branch names Dependabot creates for pull requests. New pull-request-branch-name options in .github/dependabot.yml let you set a prefix and maximum length, choose segment and word separators,… The post Customize Dependabot pull reques…
+
+### 6. Founders’ playbook: What it really takes to scale beyond Series A
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-04T01:15:35+00:00`
 - url: https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/
 - summary: For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution.…
 
-### 6. How AI is playing an important role in the education sector in the Global South?
+### 7. How AI is playing an important role in the education sector in the Global South?
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-04T02:00:10+00:00`
 - url: https://e27.co/how-ai-is-playing-an-important-role-in-the-education-sector-in-the-global-south-20260801/
 - summary: A student 1,000 kilometres away from the capital city is using an AI tutor to practice his English. A teacher spends her evening trying to figure out whether the work in front of her is actually the student’s own. Neither of them asked to be put in this posit…
 
-### 7. オリジン・CORS・セッションを基礎から理解する
+### 8. オリジン・CORS・セッションを基礎から理解する
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-08-03T12:31:03+00:00`
 - url: https://zenn.dev/owade/articles/cors-session-origin-guide
 - summary: はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー...
-
-### 8. AI uncertainty is pushing companies from long leases to flexible offices
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-04T05:00:20+00:00`
-- url: https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/
-- summary: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Space…
 
 END OF DOCUMENT

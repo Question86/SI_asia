@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T13:12:07+00:00_
+_Generiert: 2026-08-04T13:54:59+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+57 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -163,6 +163,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Customize Dependabot pull request branch names** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-04T12:57:18+00:00`, fetched `2026-08-04T13:54:28+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now customize the branch names Dependabot creates for pull requests. New pull-request-branch-name options in .github/dependabot.yml let you set a prefix and maximum length, choose segment and word separators,… The post Customize Dependabot pull request branch names appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Founders’ playbook: What it really takes to scale beyond Series A** — Score 12, observation — [Quelle](https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-04T01:15:35+00:00`, fetched `2026-08-04T01:24:46+00:00`
@@ -189,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Check Point: Angreifer können Security-Management-Server übernehmen** — Score 8, observation — [Quelle](https://www.heise.de/news/Check-Point-Angreifer-koennen-Security-Management-Server-uebernehmen-11398187.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-04T12:05:00.000+00:00`, fetched `2026-08-04T13:54:28+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Aufgrund einer Sicherheitslücke können Angreifer die IT-Sicherheitslösung Security Management von Check Point attackieren. Hotfixes stehen zum Download.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI uncertainty is pushing companies from long leases to flexible offices** — Score 8, observation — [Quelle](https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -280,24 +298,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年熊本地震に関する対応状況について（8月4日）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Customize the reasoning level for Copilot cloud agent** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-03T23:27:35+00:00`, fetched `2026-08-04T04:33:03+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the… The post Customize the reasoning level for Copilot cloud agent appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **40代ITエンジニアだが俺たちの世代がIT業界を衰退させたことに謝罪したい** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260804180722)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-04T09:09:13+00:00`, fetched `2026-08-04T13:11:36+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: タイトルの通り。 Xやネットでは、俺くらいの世代のエンジニアがネット文化の構築アーリー世代だから、こんな話リアルで言えばマジギレされるのでネットでしか書けないのが少し歯がゆいが 申し訳ない、今まで俺達の世代を冷遇したから日本のIT業界は衰退したんだ、という神話が流布されているが、あれ、俺達の言い訳にす...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -308,7 +308,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH
