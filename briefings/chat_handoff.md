@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T08:14:20+00:00_
+_Generated: 2026-08-04T09:16:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `37`
 
 ## Top Signals
 
-### 1. Observing the frontier, while building for our local reality
+### 1. [NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `20`
+- published: `2026-08-04T09:06:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen und dadurch möglicherweise die vollständige Kontrolle über das betroffene System zu erlangen, Daten zu kompromittieren oder einen De…
+
+### 2. Observing the frontier, while building for our local reality
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-08-04T02:45:18+00:00`
 - url: https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/
 - summary: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, a…
 
-### 2. Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI
+### 3. Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-08-04T04:03:21+00:00`
 - url: https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/
 - summary: Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…
 
-### 3. The AI-native economy: Southeast Asia’s once-in-a-generation opportunity
+### 4. The AI-native economy: Southeast Asia’s once-in-a-generation opportunity
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-08-04T02:30:22+00:00`
 - url: https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/
 - summary: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-04T07:46:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Founders’ playbook: What it really takes to scale beyond Series A
 - source: e27 Asia Startup and Tech Feed

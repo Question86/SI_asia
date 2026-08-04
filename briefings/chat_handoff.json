@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-04T08:14:20+00:00",
+  "generated_at": "2026-08-04T09:16:16+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 4,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
-    "medium": 12,
-    "observe": 21
+    "medium": 15,
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-04T09:06:05+00:00",
+      "relevance_score": 20,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen und dadurch möglicherweise die vollständige Kontrolle über das betroffene System zu erlangen, Daten zu kompromittieren oder einen De…",
+      "section": "medium"
+    },
     {
       "title": "Observing the frontier, while building for our local reality",
       "source": "e27 Asia Startup and Tech Feed",
@@ -42,16 +52,6 @@
       "relevance_score": 17,
       "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
       "summary": "For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-04T07:46:06+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T07:46:06+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T07:46:06+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "freo2におけるアップロードするファイルの検証が不十分な脆弱性",
-        "url": "https://jvn.jp/jp/JVN52865575/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-04T12:00:00+09:00",
-        "age_days": 0.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "refirioが提供するfreo2には、アップロードするファイルの検証が不十分な脆弱性が存在します。"
-      },
-      {
-        "title": "Singapore’s cybersecurity paradox: Leading in digital, lagging in defense",
-        "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-04T01:45:05+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Singapore consistently punches above its weight on almost every measure of a mature digital economy, from financial competitiveness and digitalisation to regulatory sophistication. Cybersecurity is no exception. Boards take the risk seriously. CISOs have the mandate and budgets to act. Regulators are among the most fo…"
-      },
-      {
-        "title": "AI uncertainty is pushing companies from long leases to flexible offices",
-        "url": "https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-04T05:00:20+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh…"
-      }
-    ]
-  }
+  ]
 }

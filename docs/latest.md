@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T08:14:20+00:00_
+_Generiert: 2026-08-04T09:16:16+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+37 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung** — Score 20, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-04T09:06:05+00:00`, fetched `2026-08-04T09:15:47+00:00`
+  - Treffer: AI/KI, BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen und dadurch möglicherweise die vollständige Kontrolle über das betroffene System zu erlangen, Daten zu kompromittieren oder einen Denial-of-Service-Zustand herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Observing the frontier, while building for our local reality** — Score 19, observation — [Quelle](https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-04T02:45:18+00:00`, fetched `2026-08-04T03:24:27+00:00`
@@ -39,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one of the world’s fastest-growing digital economies. E-commerce flourished, digital payments became mainstream, and unicorns emerged across […] The post The AI-nati…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Red Hat Enterprise Linux (DBI, perl-GD): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-04T09:06:05+00:00`, fetched `2026-08-04T09:15:47+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-04T07:46:06+00:00`, fetched `2026-08-04T08:13:48+00:00`
@@ -47,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-04T07:46:06+00:00`, fetched `2026-08-04T08:13:48+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Trigger Copilot automations with comments** — Score 16, opportunity — [Quelle](https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -131,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh source of uncertainty for […] The post AI uncertainty is pushing companies from long leases to flex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Jetzt patchen! Angreifer attackieren N-able N-central** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-N-able-N-central-11397397.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-04T09:04:00.000+00:00`, fetched `2026-08-04T09:15:47+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: N-ables Endpoint-Managementlösung N-central ist verwundbar und Angreifer attackieren bereits Instanzen. Admins sollten zügig handeln.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SF・コンピューター技術ライフライン** — Score 7, observation — [Quelle](https://matsuo-koya.github.io/sf-tech-lifeline/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

@@ -1,5 +1,30 @@
 [
   {
+    "title": "[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-04T09:06:05+00:00",
+    "fetched_at": "2026-08-04T09:15:47+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen und dadurch möglicherweise die vollständige Kontrolle über das betroffene System zu erlangen, Daten zu kompromittieren oder einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "AI/KI",
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "AI/KI (+3.8); Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "650fab7c882640fa659d"
+  },
+  {
     "title": "Observing the frontier, while building for our local reality",
     "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -127,6 +152,30 @@
     "id": "b42c5583a7123edd0971"
   },
   {
+    "title": "[NEU] [hoch] Red Hat Enterprise Linux (DBI, perl-GD): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-04T09:06:05+00:00",
+    "fetched_at": "2026-08-04T09:15:47+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "389cf7cf2399d44ec596"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
     "source": "BSI CERT-Bund Security Advisories",
@@ -220,6 +269,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "27231efe07d759b0187e"
+  },
+  {
+    "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2628",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-04T09:01:05+00:00",
+    "fetched_at": "2026-08-04T09:15:47+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Check Point Security Management ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d8ea26c694a83e71d00"
   },
   {
     "title": "SEA’s CEOs want innovation, but employees feel stuck in execution mode",
@@ -505,6 +577,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eb847950687c7fb15d36"
+  },
+  {
+    "title": "Jetzt patchen! Angreifer attackieren N-able N-central",
+    "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-N-able-N-central-11397397.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-04T09:04:00.000+00:00",
+    "fetched_at": "2026-08-04T09:15:47+00:00",
+    "summary": "N-ables Endpoint-Managementlösung N-central ist verwundbar und Angreifer attackieren bereits Instanzen. Admins sollten zügig handeln.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af542e95f049f1321c9c"
   },
   {
     "title": "SF・コンピューター技術ライフライン",
