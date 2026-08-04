@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T18:54:21+00:00_
+_Generiert: 2026-08-04T19:28:00+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+64 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-04 14:00:26 UTC 2026-08-04 14:00:26 UTC at epicenter Location 38.313°N 142.343°E Depth 40.43 km (25.12 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How the GitHub legal team used Copilot CLI to streamline their workflows** — Score 14, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-04T19:02:34+00:00`, fetched `2026-08-04T19:27:31+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **freo2におけるアップロードするファイルの検証が不十分な脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN52865575/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-04T12:00:00+09:00`, fetched `2026-08-04T03:24:27+00:00`
@@ -268,7 +277,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f35b36ef750>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
