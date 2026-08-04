@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T07:24:17+00:00_
+_Generated: 2026-08-04T08:14:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-04T07:24:17+00:00_
 - url: https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/
 - summary: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…
 
-### 4. Trigger Copilot automations with comments
-- source: GitHub Changelog Atom
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-03T19:14:58+00:00`
-- url: https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments
-- summary: You can now create Copilot cloud agent automations that run when an issue comment or pull request comment is created. Common use cases include: Generate documentation: Comment on a pull… The post Trigger Copilot automations with comments appeared first on The…
+- published: `2026-08-04T07:46:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Founders’ playbook: What it really takes to scale beyond Series A
 - source: e27 Asia Startup and Tech Feed

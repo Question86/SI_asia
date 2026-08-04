@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T07:24:17+00:00_
+_Generiert: 2026-08-04T08:14:20+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+33 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -38,6 +38,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one of the world’s fastest-growing digital economies. E-commerce flourished, digital payments became mainstream, and unicorns emerged across […] The post The AI-nati…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-04T07:46:06+00:00`, fetched `2026-08-04T08:13:48+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-04T07:46:06+00:00`, fetched `2026-08-04T08:13:48+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Trigger Copilot automations with comments** — Score 16, opportunity — [Quelle](https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -114,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh source of uncertainty for […] The post AI uncertainty is pushing companies from long leases to flex…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SF・コンピューター技術ライフライン** — Score 7, observation — [Quelle](https://matsuo-koya.github.io/sf-tech-lifeline/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-04T02:44:13+00:00`, fetched `2026-08-04T08:13:48+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 生年を入れると、SFとコンピューター技術の年表があなたの学齢期にマッピングされます。1822年から2026年、全171項目。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apple is getting this wrong** — Score 7, observation — [Quelle](https://openai.com/index/apple-is-getting-this-wrong)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-03T22:00:00+00:00`, fetched `2026-08-04T05:33:48+00:00`
@@ -158,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: コンピュータの歴史については、清水亮さんが詳しく、さまざまなところで豊富な知識・雑学を聞いては「ほー」と感心しています。その一方で、長く生きてきたおかげか古い出来事や技術はリアルタイムで経験していて、「それ知ってるけど、いつの頃だっけ」と老人ムーブをしがちです。 そして、コンピュータ技術に影響を与...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デスクトップ操作を記録してAIのスキル・自動化を生成。Microsoft、「Skill Recorder」を公開／Windows 11、macOS、Ubuntuに対応するオープンソースアプリ** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2130221.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-03T23:37:53+00:00`, fetched `2026-08-04T03:24:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: デスクトップ操作を記録してAIのスキル・自動化を生成。Microsoft、「Skill Recorder」を公開／Windows 11、macOS、Ubuntuに対応するオープンソースアプリ
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Upcoming August 2026 model deprecations in GitHub Copilot** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`

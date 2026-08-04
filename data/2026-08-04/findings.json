@@ -127,6 +127,54 @@
     "id": "b42c5583a7123edd0971"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-04T07:46:06+00:00",
+    "fetched_at": "2026-08-04T08:13:48+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "db829cbf42df010a8faa"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-04T07:46:06+00:00",
+    "fetched_at": "2026-08-04T08:13:48+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ea99092074711cc2539"
+  },
+  {
     "title": "Trigger Copilot automations with comments",
     "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
     "source": "GitHub Changelog Atom",
@@ -457,6 +505,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eb847950687c7fb15d36"
+  },
+  {
+    "title": "SF・コンピューター技術ライフライン",
+    "url": "https://matsuo-koya.github.io/sf-tech-lifeline/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-04T02:44:13+00:00",
+    "fetched_at": "2026-08-04T08:13:48+00:00",
+    "summary": "生年を入れると、SFとコンピューター技術の年表があなたの学齢期にマッピングされます。1822年から2026年、全171項目。",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c4462a6494ae582a3fcd"
   },
   {
     "title": "The 30-second report: How one startup is killing construction’s paperwork problem",
