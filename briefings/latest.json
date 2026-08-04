@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T21:06:39+00:00",
-  "run_id": "2026-08-04T21:06:39+00:00",
+  "generated_at": "2026-08-04T21:36:29+00:00",
+  "run_id": "2026-08-04T21:36:29+00:00",
   "date": "2026-08-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 29,
-    "observe": 40,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -1418,6 +1418,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3e835b9ad48bb4dff72f"
+      },
+      {
+        "title": "Claude can edit your photos now — and it makes Darktable feel like Lightroom",
+        "url": "https://www.makeuseof.com/claude-edit-photos-makes-darktable-like-lightroom/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-04T18:18:44+00:00",
+        "fetched_at": "2026-08-04T21:35:58+00:00",
+        "summary": "Claude can edit your photos now — and it makes Darktable feel like Lightroom",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d40422bb0933568d8c64"
       },
       {
         "title": "公衆Wi-Fiの接続案内画面を悪用した攻撃活動CaptiveCrunchについてまとめてみた - piyolog",
@@ -3146,6 +3167,27 @@
       "id": "3e835b9ad48bb4dff72f"
     },
     {
+      "title": "Claude can edit your photos now — and it makes Darktable feel like Lightroom",
+      "url": "https://www.makeuseof.com/claude-edit-photos-makes-darktable-like-lightroom/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-04T18:18:44+00:00",
+      "fetched_at": "2026-08-04T21:35:58+00:00",
+      "summary": "Claude can edit your photos now — and it makes Darktable feel like Lightroom",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d40422bb0933568d8c64"
+    },
+    {
       "title": "公衆Wi-Fiの接続案内画面を悪用した攻撃活動CaptiveCrunchについてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/04/183114",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3483,26 +3525,25 @@
   ],
   "new_findings": [
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI News RSS",
+      "title": "Claude can edit your photos now — and it makes Darktable feel like Lightroom",
+      "url": "https://www.makeuseof.com/claude-edit-photos-makes-darktable-like-lightroom/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-04T19:00:00+00:00",
-      "fetched_at": "2026-08-04T21:06:08+00:00",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "published_at": "2026-08-04T18:18:44+00:00",
+      "fetched_at": "2026-08-04T21:35:58+00:00",
+      "summary": "Claude can edit your photos now — and it makes Darktable feel like Lightroom",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Security (+6.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ab8d39945d1f98a0a60a"
+      "id": "d40422bb0933568d8c64"
     }
   ],
   "source_errors": [],
