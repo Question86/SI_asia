@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-04T11:05:50Z",
+  "generated_at": "2026-08-04T11:53:56Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2628",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T09:01:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN52865575/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-04T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2065",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2052",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -108,84 +108,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in cURL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand oder eine Speicherbeschädigung zu verursachen."
     },
     {
-      "title": "[UPDATE] [hoch] cURL: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1307",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-04T10:11:05+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in cURL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren."
-    },
-    {
-      "title": "[UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2484",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-04T10:06:10+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "Singapore’s cybersecurity paradox: Leading in digital, lagging in defense",
-      "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T01:45:05+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Singapore consistently punches above its weight on almost every measure of a mature digital economy, from financial competitiveness and digitalisation to regulatory sophistication. Cybersecurity is no exception. Boards take the risk seriously. CISOs have the mandate and budgets to act. Regulators are among the most fo…"
-    },
-    {
       "title": "[UPDATE] [hoch] Oracle Linux: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -211,7 +138,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T09:06:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -233,11 +160,87 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
     },
     {
+      "title": "[UPDATE] [mittel] IBM App Connect Enterprise (Axios): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1450",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-04T11:36:10+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, wodurch weitere Angriffe möglich werden."
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [niedrig] RedHat Build of Keycloak: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2634",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-04T11:06:06+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU tar: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2633",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-04T11:06:06+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU tar ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T07:46:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -262,7 +265,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T07:46:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -287,7 +290,7 @@
       "url": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-04T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],

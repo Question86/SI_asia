@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-04T11:05:50Z_
+_Generated: 2026-08-04T11:53:56Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `32.0`
-- Published: `2026-08-04T09:01:05+00:00` / age_days `0.09`
+- Published: `2026-08-04T09:01:05+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-04T12:00:00+09:00` / age_days `0.34`
+- Published: `2026-08-04T12:00:00+09:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-04T10:11:06+00:00` / age_days `0.04`
+- Published: `2026-08-04T10:11:06+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -42,47 +42,17 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-04T10:11:06+00:00` / age_days `0.04`
+- Published: `2026-08-04T10:11:06+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2052
 
-### [UPDATE] [hoch] cURL: Mehrere Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-08-04T10:11:05+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1307
-
-### [UPDATE] [hoch] Internet Systems Consortium BIND: Mehrere Schwachstellen
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-08-04T10:06:10+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cert-bund, bsi, security, advisory
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2484
-
-### Singapore’s cybersecurity paradox: Leading in digital, lagging in defense
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-08-04T01:45:05+00:00` / age_days `0.39`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security
-- Quelle: https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/
-
 ### [UPDATE] [hoch] Oracle Linux: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-04T10:11:06+00:00` / age_days `0.04`
+- Published: `2026-08-04T10:11:06+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -92,17 +62,47 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-04T09:06:05+00:00` / age_days `0.08`
+- Published: `2026-08-04T09:06:05+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630
 
+### [UPDATE] [mittel] IBM App Connect Enterprise (Axios): Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-04T11:36:10+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1450
+
+### [NEU] [UNGEPATCHT] [niedrig] RedHat Build of Keycloak: Schwachstelle ermöglicht Denial of Service
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-04T11:06:06+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2634
+
+### [NEU] [UNGEPATCHT] [mittel] GNU tar: Mehrere Schwachstellen ermöglichen Manipulation von Dateien
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-04T11:06:06+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2633
+
 ### [UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-04T07:46:06+00:00` / age_days `0.14`
+- Published: `2026-08-04T07:46:06+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-04T07:46:06+00:00` / age_days `0.14`
+- Published: `2026-08-04T07:46:06+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Manage
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-04T10:00:00+00:00` / age_days `0.05`
+- Published: `2026-08-04T10:00:00+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, privilege, root, security high-signal: rce, privilege, root, krass gate recheck: needs multi-source, identity, or official high-signal phrase
