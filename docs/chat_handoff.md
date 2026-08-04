@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T03:25:02+00:00_
+_Generated: 2026-08-04T04:33:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `26`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-04T03:25:02+00:00_
 - url: https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/
 - summary: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, a…
 
-### 2. The AI-native economy: Southeast Asia’s once-in-a-generation opportunity
+### 2. Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-08-04T04:03:21+00:00`
+- url: https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/
+- summary: Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…
+
+### 3. The AI-native economy: Southeast Asia’s once-in-a-generation opportunity
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-08-04T02:30:22+00:00`
 - url: https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/
 - summary: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…
 
-### 3. esengine/DeepSeek-Reasonix
-- source: GitHub Trending RSS All Languages Daily
+### 4. Trigger Copilot automations with comments
+- source: GitHub Changelog Atom
 - score: `16`
-- published: `None`
-- url: https://github.com/esengine/DeepSeek-Reasonix
-- summary: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. English · 简体中文 · Guide · ACP · Spec · Website · Discord A DeepSeek-native AI coding agent for your terminal. A config- and plugin-driven harness —…
-
-### 4. SEA’s CEOs want innovation, but employees feel stuck in execution mode
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-08-04T02:30:24+00:00`
-- url: https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/
-- summary: Southeast Asian companies are talking about innovation with new urgency, but many of their employees are not convinced their workplaces are built to deliver it. A new report by AI-powered payroll and HR platform Omni HR finds that half of CEOs in the region d…
+- published: `2026-08-03T19:14:58+00:00`
+- url: https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments
+- summary: You can now create Copilot cloud agent automations that run when an issue comment or pull request comment is created. Common use cases include: Generate documentation: Comment on a pull… The post Trigger Copilot automations with comments appeared first on The…
 
 ### 5. Founders’ playbook: What it really takes to scale beyond Series A
 - source: e27 Asia Startup and Tech Feed
