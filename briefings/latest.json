@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T22:30:41+00:00",
-  "run_id": "2026-08-04T22:30:41+00:00",
+  "generated_at": "2026-08-04T22:53:00+00:00",
+  "run_id": "2026-08-04T22:53:00+00:00",
   "date": "2026-08-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3651,29 +3651,7 @@
       "id": "b980813eba0ce03aa8b6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Googleパスワードマネージャーに脆弱性、マルウェアでパスキー保護を突破可能に",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2130538.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-04T21:17:40+00:00",
-      "fetched_at": "2026-08-04T22:30:07+00:00",
-      "summary": "Googleパスワードマネージャーに脆弱性、マルウェアでパスキー保護を突破可能に",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "50435f328f0adda6db2c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
