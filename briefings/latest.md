@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T21:36:29+00:00_
+_Generiert: 2026-08-04T22:02:19+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+72 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -275,6 +275,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Aufgrund einer Sicherheitslücke können Angreifer die IT-Sicherheitslösung Security Management von Check Point attackieren. Hotfixes stehen zum Download.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **プロンプトエンジニアリングのすすめかた** — Score 8, observation — [Quelle](https://zenn.dev/nrs/articles/70db94beb7b76d)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-04T10:52:45+00:00`, fetched `2026-08-04T22:01:49+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: TAKT を Product Hunt に出します！ 8/9 に公開されます。 Product Hunt はローンチ当日の反応でランキングが決まり、上位に入るほど海外の開発者に届きます。 当日、見に来て応援してもらえると嬉しいです。 https://www.producthunt.com/products/takt-3?launch=takt-3 最近 AI が暴走して他社に攻撃してしまった。 そ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI uncertainty is pushing companies from long leases to flexible offices** — Score 8, observation — [Quelle](https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-04T05:00:20+00:00`, fetched `2026-08-04T05:33:48+00:00`
@@ -328,15 +337,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: N-ables Endpoint-Managementlösung N-central ist verwundbar und Angreifer attackieren bereits Instanzen. Admins sollten zügig handeln.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SF・コンピューター技術ライフライン** — Score 7, observation — [Quelle](https://matsuo-koya.github.io/sf-tech-lifeline/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-04T02:44:13+00:00`, fetched `2026-08-04T08:13:48+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 生年を入れると、SFとコンピューター技術の年表があなたの学齢期にマッピングされます。1822年から2026年、全171項目。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
