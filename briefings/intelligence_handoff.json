@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-04T09:12:39Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “freo2におけるアップロードするファイルの検証が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-04T10:10:26Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,63 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2628",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-04T09:01:05+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 32.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Check Point Security Management ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-04T09:06:05+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen und dadurch möglicherweise die vollständige Kontrolle über das betroffene System zu erlangen, Daten zu kompromittieren oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
       "title": "freo2におけるアップロードするファイルの検証が不十分な脆弱性",
       "url": "https://jvn.jp/jp/JVN52865575/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-04T12:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -39,7 +91,7 @@
       "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:45:05+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security"
@@ -64,7 +116,7 @@
       "url": "https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T05:00:20+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -86,11 +138,37 @@
       "summary": "The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh…"
     },
     {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (DBI, perl-GD): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-04T09:06:05+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T07:46:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -115,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T07:46:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -140,7 +218,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.3,
+      "age_days": 46.34,
       "topics": [
         "ai"
       ],
@@ -169,7 +247,7 @@
       "url": "https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T04:03:21+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -195,7 +273,7 @@
       "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:22+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "macro"
@@ -218,38 +296,11 @@
       "summary": "For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one of the world’s fastest-growing digital economies. E-commerce…"
     },
     {
-      "title": "Trigger Copilot automations with comments",
-      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-08-03T19:14:58+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "You can now create Copilot cloud agent automations that run when an issue comment or pull request comment is created. Common use cases include: Generate documentation: Comment on a pull… The post Trigger Copilot automations with comments appeared first on The GitHub Blog ."
-    },
-    {
       "title": "マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました",
       "url": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage/errata",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-04T06:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -268,60 +319,6 @@
         "security high-signal: rce"
       ],
       "summary": "マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました"
-    },
-    {
-      "title": "Observing the frontier, while building for our local reality",
-      "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T02:45:18+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, agentic AI would reshape all three at once. […] The post Obse…"
-    },
-    {
-      "title": "SEA’s CEOs want innovation, but employees feel stuck in execution mode",
-      "url": "https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T02:30:24+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: critical, execution",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Southeast Asian companies are talking about innovation with new urgency, but many of their employees are not convinced their workplaces are built to deliver it. A new report by AI-powered payroll and HR platform Omni HR finds that half of CEOs in the region describe innovation as critical to their business strategy. Y…"
     }
   ],
   "read_order": [
@@ -333,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 2
+      "krass": 1,
+      "strong": 11
     }
   }
 }
