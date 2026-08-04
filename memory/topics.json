@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-04T10:13:23+00:00",
+  "generated_at": "2026-08-04T11:07:15+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [niedrig] RedHat Build of Keycloak: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-04T11:06:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2634"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU tar: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-04T11:06:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2633"
+      },
+      {
         "title": "[UPDATE] [hoch] Oracle Linux: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-04T10:11:06+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-08-04T10:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2065"
-      },
-      {
-        "title": "[UPDATE] [mittel] cURL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2052"
-      },
-      {
-        "title": "[UPDATE] [hoch] cURL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T10:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1307"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,20 @@
         "published_at": "2026-08-04T09:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [niedrig] RedHat Build of Keycloak: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-04T11:06:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2634"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU tar: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-04T11:06:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2633"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (DBI, perl-GD): Mehrere Schwachstellen",
