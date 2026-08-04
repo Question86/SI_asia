@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T09:16:16+00:00_
+_Generiert: 2026-08-04T10:13:23+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+44 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one of the world’s fastest-growing digital economies. E-commerce flourished, digital payments became mainstream, and unicorns emerged across […] The post The AI-nati…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Oracle Linux: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1657)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-04T10:11:06+00:00`, fetched `2026-08-04T10:12:53+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Oracle Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Red Hat Enterprise Linux (DBI, perl-GD): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-04T09:06:05+00:00`, fetched `2026-08-04T09:15:47+00:00`
@@ -56,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Archive-Tar, httplib2): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-04T07:46:06+00:00`, fetched `2026-08-04T08:13:48+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Trigger Copilot automations with comments** — Score 16, opportunity — [Quelle](https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh source of uncertainty for […] The post AI uncertainty is pushing companies from long leases to flex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The global grassroots gatherings trying to humanize the AI boom** — Score 7, observation — [Quelle](https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-04T10:00:00+00:00`, fetched `2026-08-04T10:12:53+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region india: India (+2.0)
+  - Kurz: Local tech groups in Kenya, India, and the U.S. are building communities and conversations around AI, but also face questions about privilege and reach.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jetzt patchen! Angreifer attackieren N-able N-central** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-N-able-N-central-11397397.html)
   - Quelle: heise Security Alerts / `rss`
@@ -226,8 +235,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
