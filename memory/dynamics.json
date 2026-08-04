@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-04T19:49:04Z",
+  "generated_at": "2026-08-04T20:28:42Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 9,
       "strong": 15,
-      "watch": 8,
-      "quiet": 8
+      "watch": 9,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "krass": 1,
       "strong": 23,
-      "watch": 8,
-      "quiet": 8
+      "watch": 9,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2628",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T09:01:05+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T09:06:05+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security"
@@ -76,7 +76,7 @@
       "url": "https://jvn.jp/jp/JVN52865575/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-04T12:00:00+09:00",
-      "age_days": 0.7,
+      "age_days": 0.73,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2065",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:06+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2052",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:06+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1307",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:05+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2484",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:06:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:45:05+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "security"
@@ -221,7 +221,7 @@
       "url": "https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T05:00:20+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -247,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T10:11:06+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -273,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T09:06:05+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -299,7 +299,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1450",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T11:36:10+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -325,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2634",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T11:06:06+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -350,7 +350,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2633",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T11:06:06+00:00",
-      "age_days": 0.36,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -375,7 +375,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2588",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T07:46:06+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -400,7 +400,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-04T07:46:06+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -425,7 +425,7 @@
       "url": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-04T10:00:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -452,7 +452,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.74,
+      "age_days": 46.77,
       "topics": [
         "ai"
       ],
@@ -471,7 +471,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 46.7d old signal",
+        "aging penalty -8.0 for 46.8d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -481,7 +481,7 @@
       "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-04T10:57:39+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -507,7 +507,7 @@
       "url": "https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T04:03:21+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -533,7 +533,7 @@
       "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:22+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "macro"
@@ -560,7 +560,7 @@
       "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-03T19:14:58+00:00",
-      "age_days": 1.02,
+      "age_days": 1.05,
       "topics": [
         "ai",
         "macro"
@@ -587,7 +587,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage/errata",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-04T06:00:00+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -612,7 +612,7 @@
       "url": "https://www.heise.de/news/Check-Point-Angreifer-koennen-Security-Management-Server-uebernehmen-11398187.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-04T12:05:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security"
@@ -637,7 +637,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-N-able-N-central-11397397.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-04T09:04:00.000+00:00",
-      "age_days": 0.45,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security"
@@ -662,7 +662,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-04T14:38:54.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -682,11 +682,35 @@
       "summary": "Time 2026-08-04 14:00:26 UTC 2026-08-04 14:00:26 UTC at epicenter Location 38.313°N 142.343°E Depth 40.43 km (25.12 mi)"
     },
     {
+      "title": "Customize code scanning default setup at scale",
+      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-08-04T19:15:23+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code"
+      ],
+      "summary": "You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for… The post Customize code scanning default setup at scale appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Customize Dependabot pull request branch names",
       "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-04T12:57:18+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -710,7 +734,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-04T15:16:41.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -735,7 +759,7 @@
       "url": "https://e27.co/ecosystem-roundup-why-vc-backed-startups-are-more-likely-to-commit-fraud-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T09:16:48+00:00",
-      "age_days": 0.44,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -759,7 +783,7 @@
       "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:45:18+00:00",
-      "age_days": 0.71,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro"
@@ -786,7 +810,7 @@
       "url": "https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:24+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "ai",
         "macro"
@@ -813,7 +837,7 @@
       "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-04T15:54:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [],
       "dynamics_score": 12.0,
       "raw_band": "watch",
@@ -836,7 +860,7 @@
       "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -862,7 +886,7 @@
       "url": "https://openai.com/index/circles",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-03T00:00:00+00:00",
-      "age_days": 1.83,
+      "age_days": 1.85,
       "topics": [
         "ai"
       ],
@@ -888,7 +912,7 @@
       "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T12:31:03+00:00",
-      "age_days": 1.3,
+      "age_days": 1.33,
       "topics": [
         "general"
       ],
@@ -912,7 +936,7 @@
       "url": "https://tech.repro.io/entry/2026/08/04/100000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T02:32:35+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -936,7 +960,7 @@
       "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:15:35+00:00",
-      "age_days": 0.77,
+      "age_days": 0.8,
       "topics": [
         "ai",
         "macro"
@@ -963,7 +987,7 @@
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-04T00:00:00+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -989,7 +1013,7 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-04T02:13:25+00:00",
-      "age_days": 0.73,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -1008,30 +1032,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. English · 简体中文 · Guide · ACP · Spec · Website · Discord A DeepSeek-native AI coding agent for your terminal. A config- and plugin-driven harness — a single static Go binary, tuned around DeepSeek's prefix ca…"
-    },
-    {
-      "title": "Tourists first, trade later: Why Southeast Asia’s next boom is coming from the Gulf",
-      "url": "https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T01:00:17+00:00",
-      "age_days": 0.78,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "One of my jobs in what I came to think of as a corridor business did not look like one at the time. It was in the years before COVID-19, at China Business Network, a small but meaningful consultancy in Beijing, where my role was to help governments attract Chinese visitors, which gave me an […] The post Tourists first…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0."
