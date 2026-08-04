@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T14:46:17+00:00",
-  "run_id": "2026-08-04T14:46:17+00:00",
+  "generated_at": "2026-08-04T15:36:40+00:00",
+  "run_id": "2026-08-04T15:36:40+00:00",
   "date": "2026-08-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 2,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
     "medium": 26,
-    "observe": 32,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -879,6 +879,42 @@
         "id": "335e5089d5c209a97e3d"
       },
       {
+        "title": "M 5.1 - south of Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-04T15:16:41.040+00:00",
+        "fetched_at": "2026-08-04T15:36:06+00:00",
+        "summary": "Time 2026-08-04 14:56:14 UTC 2026-08-04 14:56:14 UTC at epicenter Location 24.606°S 175.230°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a71fbee0ba235825593c"
+      },
+      {
         "title": "Check Point: Angreifer können Security-Management-Server übernehmen",
         "url": "https://www.heise.de/news/Check-Point-Angreifer-koennen-Security-Management-Server-uebernehmen-11398187.html",
         "source": "heise Security Alerts",
@@ -1233,6 +1269,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "82923cf199de8bd41f6f"
+      },
+      {
+        "title": "「コードを書くだけ」の仕事は、もう回ってこない。｜すてぃお",
+        "url": "https://note.com/suthio/n/n7eddaacc515d",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-04T07:10:51+00:00",
+        "fetched_at": "2026-08-04T15:36:06+00:00",
+        "summary": "実装スキルの価値は暴落していく、だから自分のポジショニングを明確にしよう、という内容でした。 1年経った今、答え合わせをすると、変化は僕の想定より速く進んでいます。特に、ジュニアエンジニアとミドルエンジニアの周辺で、目に見える形で変化が起きています。 今回は前回の続編として、「単純にコードを書くだけ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23e534e09affc4cc3b6a"
       },
       {
         "title": "形にならなかった「おい、」を29回書いたら本 - じゃあ、おうちで学べる",
@@ -2316,6 +2373,42 @@
       "id": "335e5089d5c209a97e3d"
     },
     {
+      "title": "M 5.1 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-04T15:16:41.040+00:00",
+      "fetched_at": "2026-08-04T15:36:06+00:00",
+      "summary": "Time 2026-08-04 14:56:14 UTC 2026-08-04 14:56:14 UTC at epicenter Location 24.606°S 175.230°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a71fbee0ba235825593c"
+    },
+    {
       "title": "Check Point: Angreifer können Security-Management-Server übernehmen",
       "url": "https://www.heise.de/news/Check-Point-Angreifer-koennen-Security-Management-Server-uebernehmen-11398187.html",
       "source": "heise Security Alerts",
@@ -2672,6 +2765,27 @@
       "id": "82923cf199de8bd41f6f"
     },
     {
+      "title": "「コードを書くだけ」の仕事は、もう回ってこない。｜すてぃお",
+      "url": "https://note.com/suthio/n/n7eddaacc515d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-04T07:10:51+00:00",
+      "fetched_at": "2026-08-04T15:36:06+00:00",
+      "summary": "実装スキルの価値は暴落していく、だから自分のポジショニングを明確にしよう、という内容でした。 1年経った今、答え合わせをすると、変化は僕の想定より速く進んでいます。特に、ジュニアエンジニアとミドルエンジニアの周辺で、目に見える形で変化が起きています。 今回は前回の続編として、「単純にコードを書くだけ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23e534e09affc4cc3b6a"
+    },
+    {
       "title": "形にならなかった「おい、」を29回書いたら本 - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/08/04/081951",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2905,20 +3019,19 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 79 km E of Onagawa Chō, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0a",
+      "title": "M 5.1 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti0r",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-04T14:38:54.040+00:00",
-      "fetched_at": "2026-08-04T14:45:45+00:00",
-      "summary": "Time 2026-08-04 14:00:26 UTC 2026-08-04 14:00:26 UTC at epicenter Location 38.313°N 142.343°E Depth 40.43 km (25.12 mi)",
+      "published_at": "2026-08-04T15:16:41.040+00:00",
+      "fetched_at": "2026-08-04T15:36:06+00:00",
+      "summary": "Time 2026-08-04 14:56:14 UTC 2026-08-04 14:56:14 UTC at epicenter Location 24.606°S 175.230°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2939,7 +3052,28 @@
         "HD",
         "LOW"
       ],
-      "id": "4fc12f203607419b52d6"
+      "id": "a71fbee0ba235825593c"
+    },
+    {
+      "title": "「コードを書くだけ」の仕事は、もう回ってこない。｜すてぃお",
+      "url": "https://note.com/suthio/n/n7eddaacc515d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-04T07:10:51+00:00",
+      "fetched_at": "2026-08-04T15:36:06+00:00",
+      "summary": "実装スキルの価値は暴落していく、だから自分のポジショニングを明確にしよう、という内容でした。 1年経った今、答え合わせをすると、変化は僕の想定より速く進んでいます。特に、ジュニアエンジニアとミドルエンジニアの周辺で、目に見える形で変化が起きています。 今回は前回の続編として、「単純にコードを書くだけ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23e534e09affc4cc3b6a"
     }
   ],
   "source_errors": [],
