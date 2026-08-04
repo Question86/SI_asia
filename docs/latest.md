@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T05:34:20+00:00_
+_Generiert: 2026-08-04T06:27:30+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+30 neue relevante Treffer. Stärkstes Signal: „Observing the frontier, while building for our local reality“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); recent (+1.0)
   - Kurz: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage/errata)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-04T06:00:00+00:00`, fetched `2026-08-04T06:26:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（8月4日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/7a65d3a0-b31e-49f1-a0e4-e59d13b39527)
   - Quelle: Japan Digital Agency News RSS / `rss`
