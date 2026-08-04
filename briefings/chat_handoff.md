@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T20:04:37+00:00_
+_Generated: 2026-08-04T20:39:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-04T20:04:37+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2629
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen und dadurch möglicherweise die vollständige Kontrolle über das betroffene System zu erlangen, Daten zu kompromittieren oder einen De…
 
-### 2. Observing the frontier, while building for our local reality
+### 2. M 5.7 - 127 km NW of Ternate, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-08-04T20:38:48.299+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti49
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-08-04 20:16:37 UTC 2026-08-04 20:16:37 UTC at epicenter Location 1.507°N 126.486°E Depth 35.00 km (21.75 mi)
+
+### 3. Observing the frontier, while building for our local reality
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-08-04T02:45:18+00:00`
 - url: https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/
 - summary: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, a…
 
-### 3. CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support
+### 4. CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support
 - source: GitHub Changelog Atom
 - score: `18`
 - published: `2026-08-04T10:57:39+00:00`
 - url: https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support
 - summary: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 sup…
-
-### 4. Vertex Growth leads X Mile’s US$21.4M Series C for non-desk workforce AI
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-08-04T04:03:21+00:00`
-- url: https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/
-- summary: Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…
 
 ### 5. Customize code scanning default setup at scale
 - source: GitHub Changelog Atom
