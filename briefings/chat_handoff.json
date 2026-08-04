@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-04T02:13:57+00:00",
+  "generated_at": "2026-08-04T03:25:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 10,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 3,
-    "observe": 9
+    "medium": 8,
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Observing the frontier, while building for our local reality",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T02:45:18+00:00",
+      "relevance_score": 19,
+      "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
+      "summary": "As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, a…",
+      "section": "medium"
+    },
+    {
+      "title": "The AI-native economy: Southeast Asia’s once-in-a-generation opportunity",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-04T02:30:22+00:00",
+      "relevance_score": 17,
+      "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
+      "summary": "For much of the past three decades, Southeast Asia has been viewed as an emerging market riding successive waves of globalisation. The region became a manufacturing base for multinational corporations, a beneficiary of China’s industrial rise, and later one o…",
+      "section": "medium"
+    },
     {
       "title": "esengine/DeepSeek-Reasonix",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -25,23 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Singapore’s cybersecurity paradox: Leading in digital, lagging in defense",
+      "title": "SEA’s CEOs want innovation, but employees feel stuck in execution mode",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-04T01:45:05+00:00",
-      "relevance_score": 14,
-      "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
-      "summary": "Singapore consistently punches above its weight on almost every measure of a mature digital economy, from financial competitiveness and digitalisation to regulatory sophistication. Cybersecurity is no exception. Boards take the risk seriously. CISOs have the…",
-      "section": "medium"
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-03T00:00:00+00:00",
-      "relevance_score": 14,
-      "url": "https://openai.com/index/circles",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "published_at": "2026-08-04T02:30:24+00:00",
+      "relevance_score": 15,
+      "url": "https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/",
+      "summary": "Southeast Asian companies are talking about innovation with new urgency, but many of their employees are not convinced their workplaces are built to deliver it. A new report by AI-powered payroll and HR platform Omni HR finds that half of CEOs in the region d…",
       "section": "medium"
     },
     {
@@ -90,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Singapore’s cybersecurity paradox: Leading in digital, lagging in defense” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Singapore’s cybersecurity paradox: Leading in digital, lagging in defense",
-        "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-04T01:45:05+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Singapore consistently punches above its weight on almost every measure of a mature digital economy, from financial competitiveness and digitalisation to regulatory sophistication. Cybersecurity is no exception. Boards take the risk seriously. CISOs have the mandate and budgets to act. Regulators are among the most fo…"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 46.03,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 46.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Circles powers telco personalization with OpenAI technology",
-        "url": "https://openai.com/index/circles",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-03T00:00:00+00:00",
-        "age_days": 1.11,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 11.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-      },
-      {
-        "title": "オリジン・CORS・セッションを基礎から理解する",
-        "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-03T12:31:03+00:00",
-        "age_days": 0.59,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー..."
-      },
-      {
-        "title": "Founders’ playbook: What it really takes to scale beyond Series A",
-        "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-04T01:15:35+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 9.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: execution",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no l…"
-      }
-    ]
-  }
+  ]
 }
