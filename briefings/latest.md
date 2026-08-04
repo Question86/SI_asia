@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T17:03:39+00:00_
+_Generiert: 2026-08-04T17:41:54+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,18 @@ _Generiert: 2026-08-04T17:03:39+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-18556 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-04`
+  - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability
+- **CISA KEV: CVE-2026-34486 Apache Tomcat** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-04`
+  - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. Apache Tomcat Missing Encryption of Sensitive Data Vulnerability
+- **CISA KEV: CVE-2026-9198 IBM Langflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-04`
+  - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
 - **CISA KEV: CVE-2026-18577 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-03`
@@ -17,18 +29,6 @@ _Generiert: 2026-08-04T17:03:39+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-29`
   - Kurz: Known exploited vulnerability. Added 2026-07-29. Due 2026-08-01. Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability
-- **CISA KEV: CVE-2025-68686 Fortinet FortiOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-27`
-  - Kurz: Known exploited vulnerability. Added 2026-07-27. Due 2026-08-10. Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability
-- **CISA KEV: CVE-2026-16812 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-27`
-  - Kurz: Known exploited vulnerability. Added 2026-07-27. Due 2026-07-30. Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-16232 Check Point SmartConsole** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-07-22`
-  - Kurz: Known exploited vulnerability. Added 2026-07-22. Due 2026-07-25. Check Point SmartConsole Improper Authentication Vulnerability
 - **GDACS: Green flood alert in Peru** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104071)
   - Quelle: GDACS
   - Zeit: ``
