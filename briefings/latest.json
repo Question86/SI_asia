@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T11:51:18+00:00",
-  "run_id": "2026-08-04T11:51:18+00:00",
+  "generated_at": "2026-08-04T12:30:06+00:00",
+  "run_id": "2026-08-04T12:30:06+00:00",
   "date": "2026-08-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 3,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
     "medium": 25,
-    "observe": 25,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -863,6 +863,52 @@
         "id": "eb847950687c7fb15d36"
       },
       {
+        "title": "Multiples vulnérabilités dans les produits IBM (24 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-24T00:00:00+00:00",
+        "fetched_at": "2026-08-04T12:29:31+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "75652e6c87355898c80d"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits ESET (24 juillet 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-07-24T00:00:00+00:00",
+        "fetched_at": "2026-08-04T12:29:31+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ff3684958ed6d5feaf50"
+      },
+      {
         "title": "The global grassroots gatherings trying to humanize the AI boom",
         "url": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1067,6 +1113,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "82923cf199de8bd41f6f"
+      },
+      {
+        "title": "形にならなかった「おい、」を29回書いたら本 - じゃあ、おうちで学べる",
+        "url": "https://syu-m-5151.hatenablog.com/entry/2026/08/04/081951",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-04T04:00:00+00:00",
+        "fetched_at": "2026-08-04T12:29:31+00:00",
+        "summary": "はじめに 最初から完璧な成果物は存在しない。 ただ出して、直して、また出した人がいるだけだ。私の場合、それが29本の「おい、」だった。 「おい、」シリーズは、形にならなかった本の原稿から始まりました。本を出せなかったときは、やはり少し絶望しました。それでも、書きかけの原稿まで消えたわけではありません。...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "21f2cc26b75a3ddabce4"
       },
       {
         "title": "Market access, redrawn: Why Southeast Asia is becoming the world’s strategic advantage",
@@ -2113,6 +2180,52 @@
       "id": "eb847950687c7fb15d36"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits IBM (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-08-04T12:29:31+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "75652e6c87355898c80d"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits ESET (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-08-04T12:29:31+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ff3684958ed6d5feaf50"
+    },
+    {
       "title": "The global grassroots gatherings trying to humanize the AI boom",
       "url": "https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2317,6 +2430,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "82923cf199de8bd41f6f"
+    },
+    {
+      "title": "形にならなかった「おい、」を29回書いたら本 - じゃあ、おうちで学べる",
+      "url": "https://syu-m-5151.hatenablog.com/entry/2026/08/04/081951",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-04T04:00:00+00:00",
+      "fetched_at": "2026-08-04T12:29:31+00:00",
+      "summary": "はじめに 最初から完璧な成果物は存在しない。 ただ出して、直して、また出した人がいるだけだ。私の場合、それが29本の「おい、」だった。 「おい、」シリーズは、形にならなかった本の原稿から始まりました。本を出せなかったときは、やはり少し絶望しました。それでも、書きかけの原稿まで消えたわけではありません。...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "21f2cc26b75a3ddabce4"
     },
     {
       "title": "Market access, redrawn: Why Southeast Asia is becoming the world’s strategic advantage",
@@ -2531,58 +2665,59 @@
   ],
   "new_findings": [
     {
-      "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-      "source": "GitHub Changelog Atom",
+      "title": "Multiples vulnérabilités dans les produits ESET (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-08-04T10:57:39+00:00",
-      "fetched_at": "2026-08-04T11:50:49+00:00",
-      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support appeared first on The GitHub Blog .",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-08-04T12:29:31+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
       "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ddb0558415013364a580"
+      "id": "ff3684958ed6d5feaf50"
     },
     {
-      "title": "[UPDATE] [mittel] IBM App Connect Enterprise (Axios): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1450",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Multiples vulnérabilités dans les produits IBM (24 juillet 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-08-04T11:36:10+00:00",
-      "fetched_at": "2026-08-04T11:50:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, wodurch weitere Angriffe möglich werden.",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "fetched_at": "2026-08-04T12:29:31+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9775734a5ed2b0ec914d"
+      "id": "75652e6c87355898c80d"
     },
     {
-      "title": "pの中にdivを入れられないのはなぜか - Legalscapeテックブログ",
-      "url": "https://tech.legalscape.co.jp/entry/2026/08/04/111358",
+      "title": "形にならなかった「おい、」を29回書いたら本 - じゃあ、おうちで学べる",
+      "url": "https://syu-m-5151.hatenablog.com/entry/2026/08/04/081951",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-04T07:24:05+00:00",
-      "fetched_at": "2026-08-04T11:50:49+00:00",
-      "summary": "こんにちは、 Legalscape (採用情報) で法情報をいい感じに収集・運用しているあざらし🦭です。 一次情報・二次情報に関わらず、形式や公開方法が多岐にわたる法情報を正確に分析あるいは表示するためには構造化という処理が必要になります。弊社ではこの構造化処理フローと構造化モデルについて日々議論を重ね、改良を続...",
+      "published_at": "2026-08-04T04:00:00+00:00",
+      "fetched_at": "2026-08-04T12:29:31+00:00",
+      "summary": "はじめに 最初から完璧な成果物は存在しない。 ただ出して、直して、また出した人がいるだけだ。私の場合、それが29本の「おい、」だった。 「おい、」シリーズは、形にならなかった本の原稿から始まりました。本を出せなかったときは、やはり少し絶望しました。それでも、書きかけの原稿まで消えたわけではありません。...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2594,28 +2729,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "82923cf199de8bd41f6f"
-    },
-    {
-      "title": "エンジニアよ、商談に出よう - Repro Tech Blog",
-      "url": "https://tech.repro.io/entry/2026/08/04/100000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-04T02:32:35+00:00",
-      "fetched_at": "2026-08-04T11:50:49+00:00",
-      "summary": "Reproでエンジニアをしている下村です。 自分はずっとプログラマとしてやってきました。最近はPdM的な動きも増えましたが、今でも機能の設計をして、コードを書いて、レビューもする、いわゆる現場のエンジニアです。 そんな自分が、この1年ほど「商談」に出るようになりました。Reproの導入を検討されているお客さんと...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b4e6483584af2d75de37"
+      "id": "21f2cc26b75a3ddabce4"
     }
   ],
   "source_errors": [],

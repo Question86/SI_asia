@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T11:51:18+00:00_
+_Generiert: 2026-08-04T12:30:06+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+53 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -199,6 +199,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The office is not disappearing. But the long lease, once treated as a badge of corporate stability, is starting to look like a liability. A new study by International Workplace Group (IWG), the flexible workspace operator behind brands such as Regus and Spaces, suggests that artificial intelligence is becoming a fresh source of uncertainty for […] The post AI uncertainty is pushing companies from long leases to flex…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits IBM (24 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-24T00:00:00+00:00`, fetched `2026-08-04T12:29:31+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits ESET (24 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-24T00:00:00+00:00`, fetched `2026-08-04T12:29:31+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The global grassroots gatherings trying to humanize the AI boom** — Score 7, observation — [Quelle](https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-04T10:00:00+00:00`, fetched `2026-08-04T10:12:53+00:00`
@@ -279,15 +297,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.5); Copilot (+2.5)
   - Kurz: We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on September 1st, 2026: Model Deprecation date… The post Upcoming August 2026 model deprecations in GitHub Copilot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **firecrawl/pdf-inspector** — Score 5, observation — [Quelle](https://github.com/firecrawl/pdf-inspector)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-04T02:13:25+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. pdf-inspector Fast Rust library for PDF classification and text extraction. Detects whether a PDF is text-based or scanned, extracts text with position awareness, and converts to clean Markdown — all without OCR. Includes bindings for Python , Node.js , and br…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
