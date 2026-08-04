@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T19:28:00+00:00_
+_Generated: 2026-08-04T20:04:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `67`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-04T19:28:00+00:00_
 - url: https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/
 - summary: Japan’s logistics yards, construction sites and factory floors are not usually where venture capital headlines begin. Yet they sit at the centre of one of the country’s most urgent economic questions: how to keep essential industries running as the workforce…
 
-### 5. Customize Dependabot pull request branch names
+### 5. Customize code scanning default setup at scale
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-08-04T19:15:23+00:00`
+- url: https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale
+- summary: You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for… The post Customize code scanning default setup at scale appe…
+
+### 6. Customize Dependabot pull request branch names
 - source: GitHub Changelog Atom
 - score: `12`
 - published: `2026-08-04T12:57:18+00:00`
 - url: https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names
 - summary: You can now customize the branch names Dependabot creates for pull requests. New pull-request-branch-name options in .github/dependabot.yml let you set a prefix and maximum length, choose segment and word separators,… The post Customize Dependabot pull reques…
 
-### 6. Founders’ playbook: What it really takes to scale beyond Series A
+### 7. Founders’ playbook: What it really takes to scale beyond Series A
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-04T01:15:35+00:00`
 - url: https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/
 - summary: For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution.…
 
-### 7. New ways to learn and teach with ChatGPT Work and Codex
+### 8. New ways to learn and teach with ChatGPT Work and Codex
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-08-04T00:00:00+00:00`
 - url: https://openai.com/index/learn-teach-chatgpt-work-codex
 - summary: Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
-
-### 8. How AI is playing an important role in the education sector in the Global South?
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-08-04T02:00:10+00:00`
-- url: https://e27.co/how-ai-is-playing-an-important-role-in-the-education-sector-in-the-global-south-20260801/
-- summary: A student 1,000 kilometres away from the capital city is using an AI tutor to practice his English. A teacher spends her evening trying to figure out whether the work in front of her is actually the student’s own. Neither of them asked to be put in this posit…
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T19:28:00+00:00_
+_Generiert: 2026-08-04T20:04:37+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+67 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,26 +29,8 @@ _Generiert: 2026-08-04T19:28:00+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-07-29`
   - Kurz: Known exploited vulnerability. Added 2026-07-29. Due 2026-08-01. Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability
-- **GDACS: Green flood alert in Peru** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104071)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Peru
-- **GDACS: Green flood alert in Belarus** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104065)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Belarus
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555671)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555461)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 01/08/2026 04:49 UTC, 10 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555442)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:82.29km) in Japan 01/08/2026 02:48 UTC, 1.5 million in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7febcfc95910>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -185,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Customize code scanning default setup at scale** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-04T19:15:23+00:00`, fetched `2026-08-04T20:04:07+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for… The post Customize code scanning default setup at scale appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Customize Dependabot pull request branch names** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-08-04T12:57:18+00:00`, fetched `2026-08-04T13:54:28+00:00`
@@ -310,15 +301,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 生年を入れると、SFとコンピューター技術の年表があなたの学齢期にマッピングされます。1822年から2026年、全171項目。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Apple is getting this wrong** — Score 7, observation — [Quelle](https://openai.com/index/apple-is-getting-this-wrong)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-03T22:00:00+00:00`, fetched `2026-08-04T05:33:48+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); recent (+1.0)
-  - Kurz: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

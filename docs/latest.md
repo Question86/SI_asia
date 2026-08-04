@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T19:28:00+00:00_
+_Generiert: 2026-08-04T20:04:37+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+67 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Customize code scanning default setup at scale** — Score 12, risk — [Quelle](https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-04T19:15:23+00:00`, fetched `2026-08-04T20:04:07+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for… The post Customize code scanning default setup at scale appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Customize Dependabot pull request branch names** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-08-04T12:57:18+00:00`, fetched `2026-08-04T13:54:28+00:00`
@@ -257,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 生年を入れると、SFとコンピューター技術の年表があなたの学齢期にマッピングされます。1822年から2026年、全171項目。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Apple is getting this wrong** — Score 7, observation — [Quelle](https://openai.com/index/apple-is-getting-this-wrong)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-03T22:00:00+00:00`, fetched `2026-08-04T05:33:48+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); recent (+1.0)
-  - Kurz: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
