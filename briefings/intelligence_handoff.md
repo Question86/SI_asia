@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-04T02:38:02Z_
+_Generated: 2026-08-04T03:50:28Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Singapore’s cybersecurity paradox: Leading in digital, lagging in defense” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “freo2におけるアップロードするファイルの検証が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### freo2におけるアップロードするファイルの検証が不十分な脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-08-04T12:00:00+09:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN52865575/
 
 ### Singapore’s cybersecurity paradox: Leading in digital, lagging in defense
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-04T01:45:05+00:00` / age_days `0.04`
+- Published: `2026-08-04T01:45:05+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -22,17 +32,47 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s cybersecurity paradox: Lea
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `46.03`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `46.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 46.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 46.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
+
+### The AI-native economy: Southeast Asia’s once-in-a-generation opportunity
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-08-04T02:30:22+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/
+
+### Observing the frontier, while building for our local reality
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-08-04T02:45:18+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/
+
+### SEA’s CEOs want innovation, but employees feel stuck in execution mode
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `12.0`
+- Published: `2026-08-04T02:30:24+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: high terms: critical, execution, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/
 
 ### Circles powers telco personalization with OpenAI technology
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-08-03T00:00:00+00:00` / age_days `1.11`
+- Published: `2026-08-03T00:00:00+00:00` / age_days `1.16`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s cybersecurity paradox: Lea
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-03T12:31:03+00:00` / age_days `0.59`
+- Published: `2026-08-03T12:31:03+00:00` / age_days `0.64`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -52,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s cybersecurity paradox: Lea
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-08-04T01:15:35+00:00` / age_days `0.06`
+- Published: `2026-08-04T01:15:35+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: execution, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s cybersecurity paradox: Lea
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-08-04T02:13:25+00:00` / age_days `0.02`
+- Published: `2026-08-04T02:13:25+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,60 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s cybersecurity paradox: Lea
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-08-04T01:00:17+00:00` / age_days `0.07`
+- Published: `2026-08-04T01:00:17+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://e27.co/tourists-first-trade-later-why-southeast-asias-next-boom-is-coming-from-the-gulf-20260801/
 
-### ある日エンジニアが突然無職になってしまったら？ — 離職インシデント対応ランブック
+### Connecting founders across Southeast Asia used to be the easy part of the job, and now it’s becoming the whole job
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-08-03T23:19:05+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://zenn.dev/tsukuboshi/articles/engineer-unemployment-runbook
-
-### How AI is playing an important role in the education sector in the Global South?
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `3.0`
-- Published: `2026-08-04T02:00:10+00:00` / age_days `0.03`
+- Dynamics score: `6.0`
+- Published: `2026-08-04T02:15:16+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/how-ai-is-playing-an-important-role-in-the-education-sector-in-the-global-south-20260801/
-
-### Upcoming August 2026 model deprecations in GitHub Copilot
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `2.0`
-- Published: `2026-07-31T21:26:48+00:00` / age_days `3.22`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot
-
-### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `44.99`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 45.0d old signal
-- Quelle: https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html
-
-### curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `44.99`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, aging penalty -16.0 for 45.0d old signal
-- Quelle: https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html
+- Quelle: https://e27.co/connecting-founders-across-southeast-asia-used-to-be-the-easy-part-of-the-job-and-now-its-becoming-the-whole-job-20260801/
 
 END OF DOCUMENT
