@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-04T06:08:26Z",
+  "generated_at": "2026-08-04T07:08:06Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “freo2におけるアップロードするファイルの検証が不十分な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN52865575/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-04T12:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/singapores-security-teams-are-losing-a-race-they-dont-know-theyre-running-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T01:45:05+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -64,7 +64,7 @@
       "url": "https://e27.co/ai-uncertainty-is-pushing-companies-from-long-leases-to-flexible-offices-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T05:00:20+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -90,7 +90,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.17,
+      "age_days": 46.21,
       "topics": [
         "ai"
       ],
@@ -119,7 +119,7 @@
       "url": "https://e27.co/vertex-growth-leads-x-miles-us21-4m-series-c-for-non-desk-workforce-ai-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T04:03:21+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -145,7 +145,7 @@
       "url": "https://e27.co/the-ai-native-economy-southeast-asias-once-in-a-generation-opportunity-20260801/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:22+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -172,7 +172,7 @@
       "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-03T19:14:58+00:00",
-      "age_days": 0.45,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -195,11 +195,36 @@
       "summary": "You can now create Copilot cloud agent automations that run when an issue comment or pull request comment is created. Common use cases include: Generate documentation: Comment on a pull… The post Trigger Copilot automations with comments appeared first on The GitHub Blog ."
     },
     {
+      "title": "マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage/errata",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-04T06:00:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました"
+    },
+    {
       "title": "Observing the frontier, while building for our local reality",
       "url": "https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:45:18+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -226,7 +251,7 @@
       "url": "https://e27.co/seas-ceos-want-innovation-but-employees-feel-stuck-in-execution-mode-20260803/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-04T02:30:24+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -253,7 +278,7 @@
       "url": "https://openai.com/index/circles",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-03T00:00:00+00:00",
-      "age_days": 1.26,
+      "age_days": 1.3,
       "topics": [
         "ai"
       ],
@@ -279,7 +304,7 @@
       "url": "https://zenn.dev/owade/articles/cors-session-origin-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-03T12:31:03+00:00",
-      "age_days": 0.73,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -297,33 +322,6 @@
         "no strong comparative reason"
       ],
       "summary": "はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー..."
-    },
-    {
-      "title": "Founders’ playbook: What it really takes to scale beyond Series A",
-      "url": "https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-04T01:15:35+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: execution",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no l…"
     }
   ],
   "read_order": [
@@ -335,9 +333,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 8,
       "watch": 2,
-      "quiet": 3
+      "quiet": 2
     }
   }
 }
