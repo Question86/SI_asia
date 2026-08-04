@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T20:39:29+00:00_
+_Generiert: 2026-08-04T21:06:39+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+69 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-08-04T20:39:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Peru
-- **GDACS: Green flood alert in Belarus** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104065)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556149)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Belarus
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555671)
   - Quelle: GDACS
   - Zeit: ``
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, agentic AI would reshape all three at once. […] The post Observing the frontier, while building for our local reality appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Third-party cyber evaluations involving OpenAI models** — Score 18, observation — [Quelle](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-04T19:00:00+00:00`, fetched `2026-08-04T21:06:08+00:00`
+  - Treffer: AI/KI, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Security (+6.0); recent (+1.0)
+  - Kurz: OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support)
   - Quelle: GitHub Changelog Atom / `rss`

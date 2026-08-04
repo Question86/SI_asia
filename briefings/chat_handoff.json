@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-04T20:39:29+00:00",
+  "generated_at": "2026-08-04T21:06:39+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
-    "medium": 28,
+    "medium": 29,
     "observe": 40
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-      "source": "GitHub Changelog Atom",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-04T10:57:39+00:00",
+      "published_at": "2026-08-04T19:00:00+00:00",
       "relevance_score": 18,
-      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 sup…",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "section": "medium"
     },
     {
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Oracle Linux: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Oracle Linux: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1657",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T10:11:06+00:00",
-        "age_days": 0.45,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Oracle Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Red Hat Enterprise Linux (DBI, perl-GD): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2630",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T09:06:05+00:00",
-        "age_days": 0.49,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2628",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T09:01:05+00:00",
-        "age_days": 0.5,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Check Point Security Management ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] IBM App Connect Enterprise (Axios): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1450",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T11:36:10+00:00",
-        "age_days": 0.39,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, wodurch weitere Angriffe möglich werden."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [niedrig] RedHat Build of Keycloak: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2634",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-04T11:06:06+00:00",
-        "age_days": 0.41,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Keycloak ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      }
-    ]
-  }
+  ]
 }

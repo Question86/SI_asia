@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T20:39:29+00:00_
+_Generated: 2026-08-04T21:06:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `68`
+- findings: `69`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-04T20:39:29+00:00_
 - url: https://e27.co/observing-the-frontier-while-building-for-our-local-reality-20260802/
 - summary: As a Southeast Asian AI startup founder building for a global market from day one, I’ve spent the past year focused on three things: commercial traction, access to capital, and building a strong team. What I didn’t expect was how, in a span of a few months, a…
 
-### 4. CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support
-- source: GitHub Changelog Atom
+### 4. Third-party cyber evaluations involving OpenAI models
+- source: OpenAI News RSS
 - score: `18`
-- published: `2026-08-04T10:57:39+00:00`
-- url: https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support
-- summary: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3… The post CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 sup…
+- published: `2026-08-04T19:00:00+00:00`
+- url: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+- summary: OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.
 
 ### 5. Customize code scanning default setup at scale
 - source: GitHub Changelog Atom
