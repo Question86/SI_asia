@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T12:30:06+00:00_
+_Generiert: 2026-08-04T13:12:07+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+55 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); recent (+1.0)
   - Kurz: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Code coverage automatic enablement in Code Quality settings** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-04T12:36:32+00:00`, fetched `2026-08-04T13:11:36+00:00`
+  - Treffer: AI/KI, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: We’re making code coverage setup faster and simpler. You’ll now see a new option in your repository’s Code Quality settings that lets GitHub generate your coverage workflow automatically with AI.… The post Code coverage automatic enablement in Code Quality settings appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage/errata)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-04T06:00:00+00:00`, fetched `2026-08-04T06:26:58+00:00`
@@ -231,23 +240,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
   - Kurz: When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the… The post Customize the reasoning level for Copilot cloud agent appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **pの中にdivを入れられないのはなぜか - Legalscapeテックブログ** — Score 5, observation — [Quelle](https://tech.legalscape.co.jp/entry/2026/08/04/111358)
+- **40代ITエンジニアだが俺たちの世代がIT業界を衰退させたことに謝罪したい** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260804180722)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-04T07:24:05+00:00`, fetched `2026-08-04T11:50:49+00:00`
+  - Zeit: published `2026-08-04T09:09:13+00:00`, fetched `2026-08-04T13:11:36+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは、 Legalscape (採用情報) で法情報をいい感じに収集・運用しているあざらし🦭です。 一次情報・二次情報に関わらず、形式や公開方法が多岐にわたる法情報を正確に分析あるいは表示するためには構造化という処理が必要になります。弊社ではこの構造化処理フローと構造化モデルについて日々議論を重ね、改良を続...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Upcoming August 2026 model deprecations in GitHub Copilot** — Score 5, observation — [Quelle](https://github.blog/changelog/2026-07-31-upcoming-august-2026-model-deprecations-in-github-copilot)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-07-31T21:26:48+00:00`, fetched `2026-08-04T01:24:46+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); Copilot (+2.5)
-  - Kurz: We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions), on September 1st, 2026: Model Deprecation date… The post Upcoming August 2026 model deprecations in GitHub Copilot appeared first on The GitHub Blog .
+  - Kurz: タイトルの通り。 Xやネットでは、俺くらいの世代のエンジニアがネット文化の構築アーリー世代だから、こんな話リアルで言えばマジギレされるのでネットでしか書けないのが少し歯がゆいが 申し訳ない、今まで俺達の世代を冷遇したから日本のIT業界は衰退したんだ、という神話が流布されているが、あれ、俺達の言い訳にす...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -259,3 +259,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH
