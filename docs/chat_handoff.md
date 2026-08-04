@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-04T16:23:26+00:00_
+_Generated: 2026-08-04T17:03:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `63`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-04T16:23:26+00:00_
 - url: https://e27.co/founders-playbookwhat-it-really-takes-to-scale-beyond-series-a-20260801/
 - summary: For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution.…
 
-### 7. How AI is playing an important role in the education sector in the Global South?
+### 7. New ways to learn and teach with ChatGPT Work and Codex
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-08-04T00:00:00+00:00`
+- url: https://openai.com/index/learn-teach-chatgpt-work-codex
+- summary: Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
+
+### 8. How AI is playing an important role in the education sector in the Global South?
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-04T02:00:10+00:00`
 - url: https://e27.co/how-ai-is-playing-an-important-role-in-the-education-sector-in-the-global-south-20260801/
 - summary: A student 1,000 kilometres away from the capital city is using an AI tutor to practice his English. A teacher spends her evening trying to figure out whether the work in front of her is actually the student’s own. Neither of them asked to be put in this posit…
-
-### 8. オリジン・CORS・セッションを基礎から理解する
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-08-03T12:31:03+00:00`
-- url: https://zenn.dev/owade/articles/cors-session-origin-guide
-- summary: はじめに Web開発をしていると「CORSエラーが出た」「セッションが切れた」という言葉をよく耳にします。しかしこれらの仕組みを「なんとなく」でしか理解できていないと、エラーの原因がわからなかったり、セキュリティ上の設定ミスを引き起こしたりすることがあります。 この記事では オリジン・同一オリジンポリシー...
 
 END OF DOCUMENT

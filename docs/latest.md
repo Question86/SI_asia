@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-04T16:23:26+00:00_
+_Generiert: 2026-08-04T17:03:39+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
+63 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Enterprise Linux AI: Schwachstelle ermöglicht Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For every startup that celebrates a successful Series A funding round, dozens quietly discover that raising capital is the easier part. The real test begins after the money arrives, when investors expect not just growth but predictable, repeatable execution. It is at this stage that many founders realise they are no longer building a product, […] The post Founders’ playbook: What it really takes to scale beyond Seri…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **New ways to learn and teach with ChatGPT Work and Codex** — Score 12, observation — [Quelle](https://openai.com/index/learn-teach-chatgpt-work-codex)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-04T00:00:00+00:00`, fetched `2026-08-04T17:03:09+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How AI is playing an important role in the education sector in the Global South?** — Score 11, observation — [Quelle](https://e27.co/how-ai-is-playing-an-important-role-in-the-education-sector-in-the-global-south-20260801/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-04T02:00:10+00:00`, fetched `2026-08-04T02:13:25+00:00`
@@ -204,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Turn one giant AI-generated pull request to a reviewable stack** — Score 7, observation — [Quelle](https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-04T16:47:18+00:00`, fetched `2026-08-04T17:03:09+00:00`
+  - Treffer: AI/KI, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The global grassroots gatherings trying to humanize the AI boom** — Score 7, observation — [Quelle](https://restofworld.org/2026/global-ai-salons-grassroots-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-04T10:00:00+00:00`, fetched `2026-08-04T10:12:53+00:00`
@@ -239,24 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); recent (+1.0)
   - Kurz: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Code coverage automatic enablement in Code Quality settings** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-04T12:36:32+00:00`, fetched `2026-08-04T13:11:36+00:00`
-  - Treffer: AI/KI, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: We’re making code coverage setup faster and simpler. You’ll now see a new option in your repository’s Code Quality settings that lets GitHub generate your coverage workflow automatically with AI.… The post Code coverage automatic enablement in Code Quality settings appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage/errata)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-04T06:00:00+00:00`, fetched `2026-08-04T06:26:58+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: マイナンバーカードの普及と利活用に関するダッシュボードの正誤情報を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
