@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T04:22:38+00:00",
+  "generated_at": "2026-08-05T05:27:22+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,12 +65,37 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 20 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 20 thousand in MMI VI.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Peru",
         "summary": "Green flood alert in Peru",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104071",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.3 - 32 km SW of Sarangani, Philippines",
+        "summary": "M6.3 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x",
+        "published_at": "2026-08-05T04:14:06+00:00",
+        "metrics": {
+          "mag": 6.3,
+          "alert": "green",
+          "sig": 621.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-05T04:22:34+00:00_
+_Generated: 2026-08-05T05:27:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `23`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-05T04:22:34+00:00_
 - url: https://jvn.jp/vu/JVNVU92898025/
 - summary: 2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. Stocks at records, oil below US$80, gold near US$4,000, Bitcoin still at US$64,000: Which market is lying to you?
-- source: e27 Asia Startup and Tech Feed
+### 4. M 4.8 - 64 km SW of Sarangani, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-05T03:55:41+00:00`
-- url: https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/
-- summary: Wall Street indices recently achieved remarkable milestones while digital assets experienced a simultaneous resurgence. My perspective highlights a clear transition from cautious positioning to aggressive global capital deployment. This widespread enthusiasm…
+- published: `2026-08-05T04:48:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f
+- summary: Time 2026-08-05 04:34:11 UTC 2026-08-05 04:34:11 UTC at epicenter Location 5.040°N 125.005°E Depth 35.00 km (21.75 mi)
 
 ### 5. From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order
 - source: e27 Asia Startup and Tech Feed
