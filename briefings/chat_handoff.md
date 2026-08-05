@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-05T20:10:55+00:00_
+_Generated: 2026-08-05T20:41:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-05T20:10:55+00:00_
 - url: https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/
 - summary: Every founder who has ever sat across a term sheet knows the unspoken rule of fundraising: growth solves everything. Miss a target, and the story shifts to “path to profitability.” Miss it twice, and investors start asking harder questions. Miss it three time…
 
-### 5. Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)
+### 5. スペースキーで変換する代わりに、打ち間違いを気にせずに入力したローマ字をAIで自然な日本語に変換してくれるMac用の日本語入力アプリ「Nospace」がリリース。
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-08-05T11:19:20+00:00`
+- url: https://applech2.com/archives/20260805-nospace-for-mac-ai-japanese-input-app.html
+- summary: ローマ字入力をスペースキーで変換する代わりに、打ち間違いを気にせずに入力＆AIを利用した変換を行ってくれるMac用の日本語入力アプリ「Nospace」がリリースされています。詳細は以下から。 MacのIME(日本語入力プログラム)でローマ字入力をする際、ローマ字で単語や文章を入力し、その後スペースキーで変換するという...
+
+### 6. Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)
 - source: CERT-FR Avis de sécurité
 - score: `13`
 - published: `2026-07-27T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0937/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
 
-### 6. Cook, Outlook for the U.S. and Alaskan Economies
+### 7. Cook, Outlook for the U.S. and Alaskan Economies
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-08-05T20:05:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm
 - summary: Speech At the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska
 
-### 7. Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
+### 8. Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-08-05T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html
 - summary: Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-08-05T02:15:23+00:00`
-- url: https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/
-- summary: Working between Central and Eastern Europe and Southeast Asia, I often see both regions described through their proximity to somewhere considered more important. CEE is viewed through Western Europe and Russia. Southeast Asia is framed through China, Japan, I…
 
 END OF DOCUMENT

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-05T20:10:55+00:00",
+  "generated_at": "2026-08-05T20:41:24+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 1,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
     "medium": 24,
-    "observe": 43
+    "observe": 44
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "スペースキーで変換する代わりに、打ち間違いを気にせずに入力したローマ字をAIで自然な日本語に変換してくれるMac用の日本語入力アプリ「Nospace」がリリース。",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T11:19:20+00:00",
+      "relevance_score": 13,
+      "url": "https://applech2.com/archives/20260805-nospace-for-mac-ai-japanese-input-app.html",
+      "summary": "ローマ字入力をスペースキーで変換する代わりに、打ち間違いを気にせずに入力＆AIを利用した変換を行ってくれるMac用の日本語入力アプリ「Nospace」がリリースされています。詳細は以下から。 MacのIME(日本語入力プログラム)でローマ字入力をする際、ローマ字で単語や文章を入力し、その後スペースキーで変換するという...",
+      "section": "observe"
+    },
+    {
       "title": "Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)",
       "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html",
       "summary": "Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45",
       "section": "observe"
-    },
-    {
-      "title": "From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-05T02:15:23+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/",
-      "summary": "Working between Central and Eastern Europe and Southeast Asia, I often see both regions described through their proximity to somewhere considered more important. CEE is viewed through Western Europe and Russia. Southeast Asia is framed through China, Japan, I…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,147 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “uber/ADR” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "uber/ADR",
-        "url": "https://github.com/uber/ADR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-05T02:05:36+00:00",
-        "age_days": 0.77,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Clau…"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:56:06+00:00",
-        "age_days": 0.4,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 47.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "Cloudflare OS",
-        "url": "https://os.cloudflare.app/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-05T15:09:44+00:00",
-        "age_days": 0.22,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 36.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules."
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:01:05+00:00",
-        "age_days": 0.44,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Veeam ONE: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:31:05+00:00",
-        "age_days": 0.42,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Veeam ONE ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, SQL-Injektionen durchzuführen oder Berechtigungen zu erweitern."
-      }
-    ]
-  }
+  ]
 }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T20:10:55+00:00_
+_Generiert: 2026-08-05T20:41:24+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+68 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -193,6 +193,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **スペースキーで変換する代わりに、打ち間違いを気にせずに入力したローマ字をAIで自然な日本語に変換してくれるMac用の日本語入力アプリ「Nospace」がリリース。** — Score 13, observation — [Quelle](https://applech2.com/archives/20260805-nospace-for-mac-ai-japanese-input-app.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T11:19:20+00:00`, fetched `2026-08-05T20:40:54+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ローマ字入力をスペースキーで変換する代わりに、打ち間違いを気にせずに入力＆AIを利用した変換を行ってくれるMac用の日本語入力アプリ「Nospace」がリリースされています。詳細は以下から。 MacのIME(日本語入力プログラム)でローマ字入力をする際、ローマ字で単語や文章を入力し、その後スペースキーで変換するという...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0937/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-07-27T00:00:00+00:00`, fetched `2026-08-05T13:03:29+00:00`
@@ -301,15 +310,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-05 07:43:27 UTC 2026-08-05 07:43:27 UTC at epicenter Location 33.806°S 179.473°E Depth 226.08 km (140.48 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **【速報】AIが指示なくサイバー攻撃** — Score 8, observation — [Quelle](https://www.47news.jp/14745830.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T14:08:52+00:00`, fetched `2026-08-05T16:44:44+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【ロンドン共同】英政府機関AIセキュリティー研究所は4日、米アンソロピックなどの人工知能（AI）が試験中に別人になりすましたり、偽のメッセージを送ったりして、サイバー攻撃を仕掛けたと発表した。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans Traefik (27 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-07-27T00:00:00+00:00`, fetched `2026-08-05T13:03:29+00:00`
