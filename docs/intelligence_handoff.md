@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-05T06:06:27Z_
+_Generated: 2026-08-05T07:08:41Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-05T12:00:00+09:00` / age_days `0.13`
+- Published: `2026-08-05T12:00:00+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-05T02:05:36+00:00` / age_days `0.17`
+- Published: `2026-08-05T02:05:36+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-05T09:00:00+09:00` / age_days `0.25`
+- Published: `2026-08-05T09:00:00+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `47.17`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `47.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 47.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-08-05T03:55:41+00:00` / age_days `0.09`
+- Published: `2026-08-05T03:55:41+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: escalation
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-05T04:48:12.040+00:00` / age_days `0.05`
+- Published: `2026-08-05T04:48:12.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-05T00:39:40.650+00:00` / age_days `0.23`
+- Published: `2026-08-05T00:39:40.650+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-05T02:30:23+00:00` / age_days `0.15`
+- Published: `2026-08-05T02:30:23+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-05T02:00:37+00:00` / age_days `0.17`
+- Published: `2026-08-05T02:00:37+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-05T03:07:34.040+00:00` / age_days `0.12`
+- Published: `2026-08-05T03:07:34.040+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-05T00:11:49+00:00` / age_days `0.25`
+- Published: `2026-08-05T00:11:49+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “NetKids iMarkにおける複数の脆弱
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-05T01:45:25+00:00` / age_days `0.18`
+- Published: `2026-08-05T01:45:25+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: auth, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
