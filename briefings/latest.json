@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T13:43:38+00:00",
-  "run_id": "2026-08-05T13:43:38+00:00",
+  "generated_at": "2026-08-05T14:33:44+00:00",
+  "run_id": "2026-08-05T14:33:44+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 1,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
     "medium": 22,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -1258,6 +1258,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2a67fda238e247d1c964"
+      },
+      {
+        "title": "事業価値と Engineering 2026年度版",
+        "url": "https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T04:50:49+00:00",
+        "fetched_at": "2026-08-05T14:33:05+00:00",
+        "summary": "2026年度リクルート エンジニアコース新人研修の講義資料です。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "29e257cf895a20f771c1"
       },
       {
         "title": "高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)",
@@ -2658,6 +2679,27 @@
       "id": "2a67fda238e247d1c964"
     },
     {
+      "title": "事業価値と Engineering 2026年度版",
+      "url": "https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T04:50:49+00:00",
+      "fetched_at": "2026-08-05T14:33:05+00:00",
+      "summary": "2026年度リクルート エンジニアコース新人研修の講義資料です。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "29e257cf895a20f771c1"
+    },
+    {
       "title": "高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)",
       "url": "https://note.com/fladdict/n/nd10afb769a62",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2825,7 +2867,29 @@
       "id": "80ef46993050e3d09968"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "事業価値と Engineering 2026年度版",
+      "url": "https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T04:50:49+00:00",
+      "fetched_at": "2026-08-05T14:33:05+00:00",
+      "summary": "2026年度リクルート エンジニアコース新人研修の講義資料です。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "29e257cf895a20f771c1"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

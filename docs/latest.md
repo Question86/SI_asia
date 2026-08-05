@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T13:43:38+00:00_
+_Generiert: 2026-08-05T14:33:44+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
