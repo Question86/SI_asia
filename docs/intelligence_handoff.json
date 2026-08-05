@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-05T18:29:09Z",
+  "generated_at": "2026-08-05T19:03:58Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:08+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:56:06+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -68,7 +68,7 @@
       "url": "https://github.com/uber/ADR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-05T02:05:36+00:00",
-      "age_days": 0.68,
+      "age_days": 0.71,
       "topics": [
         "ai",
         "security",
@@ -94,11 +94,39 @@
       "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Clau…"
     },
     {
+      "title": "Cloudflare OS",
+      "url": "https://os.cloudflare.app/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-05T15:09:44+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules."
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:05+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -124,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:31:05+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -150,7 +178,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -176,7 +204,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:06+00:00",
-      "age_days": 0.35,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -202,7 +230,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:07+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -228,7 +256,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T11:56:35+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -253,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T11:56:33+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -278,7 +306,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -297,31 +325,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
-      "url": "https://jvn.jp/vu/JVNVU92898025/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.77,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     }
   ],
   "read_order": [
