@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-05T00:56:49Z",
+  "generated_at": "2026-08-05T01:35:19Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 7,
+    "dynamics": 11,
     "bands": {
       "krass": 1,
       "strong": 1,
       "watch": 1,
-      "quiet": 4
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 4
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92898025/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.96,
+      "age_days": 46.98,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T00:39:40.650+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -98,11 +98,61 @@
       "summary": "DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)"
     },
     {
+      "title": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-04T22:57:44+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果"
+    },
+    {
+      "title": "Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most",
+      "url": "https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T01:00:10+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app finally turning the corner into sustainable profitability. Peel…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.92,
+      "age_days": 45.95,
       "topics": [
         "general"
       ],
@@ -127,7 +177,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.92,
+      "age_days": 45.95,
       "topics": [
         "general"
       ],
@@ -152,7 +202,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.92,
+      "age_days": 45.95,
       "topics": [
         "ai"
       ],
@@ -175,11 +225,62 @@
       "summary": ""
     },
     {
+      "title": "Washington banned Mythos and Fable: It created a hydra",
+      "url": "https://e27.co/washington-banned-mythos-and-fable-it-created-a-hydra-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T01:15:13+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The lesson from Washington’s intervention against Anthropic’s Fable 5 and Mythos 5 is not that governments are powerless over AI. They are not. A state can order a company to switch off a model. It can gate access. It can ration release to approved organisations. It can turn a commercial launch into a political permis…"
+    },
+    {
+      "title": "Why seniority is repricing in AI-augmented teams, and what gets valued instead",
+      "url": "https://e27.co/why-seniority-is-repricing-in-ai-augmented-teams-and-what-gets-valued-instead-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T01:00:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "An investor with more than twenty years in the market asked me recently whether AI was going to replace software. He was not asking from a position of weakness. He has built a reputation, a portfolio, and a network that most people will not match in a lifetime. He just wanted to understand a thing […] The post Why sen…"
+    },
+    {
       "title": "なぜ、ループエンジニアリングの普及がウォーターフォール開発を復活させるのか？",
       "url": "https://zenn.dev/pdfractal/articles/88da9fe63cca65",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T19:06:01+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
