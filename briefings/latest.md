@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T22:30:14+00:00_
+_Generiert: 2026-08-05T22:52:15+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-08-05T22:30:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).
-- **USGS earthquake M5.9 - 32 km SW of Sarangani, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5)
-  - Quelle: USGS
-  - Zeit: `2026-08-05T21:41:28+00:00`
-  - Kurz: M5.9 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

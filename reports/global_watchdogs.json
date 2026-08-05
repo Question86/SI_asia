@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:30:17+00:00",
+  "generated_at": "2026-08-05T22:52:18+00:00",
   "sections": {
     "global_security": [
       {
@@ -151,21 +151,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001298",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.9 - 32 km SW of Sarangani, Philippines",
-        "summary": "M5.9 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5",
-        "published_at": "2026-08-05T21:41:28+00:00",
-        "metrics": {
-          "mag": 5.9,
-          "alert": "green",
-          "sig": 536.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
