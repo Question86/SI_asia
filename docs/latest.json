@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:13:45+00:00",
-  "run_id": "2026-08-05T03:13:45+00:00",
+  "generated_at": "2026-08-05T04:22:34+00:00",
+  "run_id": "2026-08-05T04:22:34+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 15,
     "source_errors": 0
   },
@@ -123,6 +123,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "334b043731d24b0b93ca"
+      },
+      {
+        "title": "Stocks at records, oil below US$80, gold near US$4,000, Bitcoin still at US$64,000: Which market is lying to you?",
+        "url": "https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-05T03:55:41+00:00",
+        "fetched_at": "2026-08-05T04:22:02+00:00",
+        "summary": "Wall Street indices recently achieved remarkable milestones while digital assets experienced a simultaneous resurgence. My perspective highlights a clear transition from cautious positioning to aggressive global capital deployment. This widespread enthusiasm stems directly from easing inflation concerns and unexpected geopolitical de-escalation. Major stock indices recently shattered records, setting new all-time hi…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers",
+          "Webentwicklung"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Webentwicklung (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "f55f47a34b597dbeda03"
       },
       {
         "title": "NetKids iMarkにおける複数の脆弱性",
@@ -630,6 +674,50 @@
       "id": "334b043731d24b0b93ca"
     },
     {
+      "title": "Stocks at records, oil below US$80, gold near US$4,000, Bitcoin still at US$64,000: Which market is lying to you?",
+      "url": "https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-05T03:55:41+00:00",
+      "fetched_at": "2026-08-05T04:22:02+00:00",
+      "summary": "Wall Street indices recently achieved remarkable milestones while digital assets experienced a simultaneous resurgence. My perspective highlights a clear transition from cautious positioning to aggressive global capital deployment. This widespread enthusiasm stems directly from easing inflation concerns and unexpected geopolitical de-escalation. Major stock indices recently shattered records, setting new all-time hi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers",
+        "Webentwicklung"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Webentwicklung (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "f55f47a34b597dbeda03"
+    },
+    {
       "title": "NetKids iMarkにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN28045338/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1037,167 +1125,48 @@
   ],
   "new_findings": [
     {
-      "title": "NetKids iMarkにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN28045338/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-05T12:00:00+09:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "株式会社アイ・エス・ティが提供するNetKids iMarkには、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5b2f1c1cb98c487fd49a"
-    },
-    {
-      "title": "Beyond market entry: Japan and Southeast Asia in a fracturing world",
-      "url": "https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/",
+      "title": "Stocks at records, oil below US$80, gold near US$4,000, Bitcoin still at US$64,000: Which market is lying to you?",
+      "url": "https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-05T02:30:23+00:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "At a Japanese investment meeting in 2026, Southeast Asia’s growth numbers are not the difficult part of the memo. The hard part is a question the committee cannot answer from inside the room: will the person who understands the customer still be aligned with us three years from now, after the rules have changed at […] The post Beyond market entry: Japan and Southeast Asia in a fracturing world appeared first on e27 .",
+      "published_at": "2026-08-05T03:55:41+00:00",
+      "fetched_at": "2026-08-05T04:22:02+00:00",
+      "summary": "Wall Street indices recently achieved remarkable milestones while digital assets experienced a simultaneous resurgence. My perspective highlights a clear transition from cautious positioning to aggressive global capital deployment. This widespread enthusiasm stems directly from easing inflation concerns and unexpected geopolitical de-escalation. Major stock indices recently shattered records, setting new all-time hi…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia"
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers",
+        "Webentwicklung"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Webentwicklung (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6cc8f961ff8d47ba2f1d"
-    },
-    {
-      "title": "From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order",
-      "url": "https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-05T02:15:23+00:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "Working between Central and Eastern Europe and Southeast Asia, I often see both regions described through their proximity to somewhere considered more important. CEE is viewed through Western Europe and Russia. Southeast Asia is framed through China, Japan, India and the United States. This is not a comparison of similar regions. It is a thought […] The post From periphery to permission: What CEE and Southeast Asia…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region europe: Paris (+2.0); watchgraph region usa: United States (+2.0); watchgraph region india: India (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b280be27fd97b0ea4068"
-    },
-    {
-      "title": "M 4.6 - 36 km ESE of Severo-Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6d",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-05T03:07:34.040+00:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "Time 2026-08-05 02:46:55 UTC 2026-08-05 02:46:55 UTC at epicenter Location 50.497°N 156.568°E Depth 73.26 km (45.52 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "earthquakes_tsunami"
+        "capitals_power_centers"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "capitals_power_centers: capital"
       ],
       "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
       ],
-      "id": "0049db9a94af82b716a1"
-    },
-    {
-      "title": "Pyramid, diamond, pod: Evolution of consulting business",
-      "url": "https://e27.co/pyramid-diamond-pod-evolution-of-consulting-business-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-05T03:00:57+00:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "Every professional services firm on earth is secretly the same company. McKinsey, the Big Four, the global SIs, the boutique agency down the street. Strip the branding, and you find one shape: a pyramid. A partner at the top whose judgment wins the work, a layer of managers who structure it, and a wide base […] The post Pyramid, diamond, pod: Evolution of consulting business appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c4db29b02917eb4d4241"
-    },
-    {
-      "title": "メモリ不足、って不足＝価格の高騰じゃなくて、不足＝本当に調達できなくなってきている、だからな。それよろしくて？",
-      "url": "https://anond.hatelabo.jp/20260805091101",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-05T00:11:49+00:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "マジで大手メーカーでもメモリをぶんどってくるのに苦労し始めている。 潤沢にメモリ積んだマシンとかが、価格高騰ではなくてそもそも手に入らなくなるようになるのも時間の問題かもな。 どうしてもいるもんだったら様子見してる場合じゃなくなってるぞ。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "52ce0302321a563241d7"
-    },
-    {
-      "title": "Web3 is not dead, it is finally growing up: What will define the next generation of Web3 companies",
-      "url": "https://e27.co/web3-is-not-dead-it-is-finally-growing-up-what-will-define-the-next-generation-of-web3-companies-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-05T02:45:07+00:00",
-      "fetched_at": "2026-08-05T03:13:14+00:00",
-      "summary": "For years, Web3 has been declared both the future of everything and the death of itself. Every market cycle produces the same extremes. When prices rise, blockchain is positioned as the answer to every industry. When markets correct, critics declare that the entire ecosystem has failed. Neither conclusion reflects what is actually happening. Web3 is […] The post Web3 is not dead, it is finally growing up: What will…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "80ef46993050e3d09968"
+      "id": "f55f47a34b597dbeda03"
     }
   ],
   "source_errors": [],

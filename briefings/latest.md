@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T03:13:45+00:00_
+_Generiert: 2026-08-05T04:22:34+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Stocks at records, oil below US$80, gold near US$4,000, Bitcoin still at US$64,000: Which market is lying to you?** — Score 15, observation — [Quelle](https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-05T03:55:41+00:00`, fetched `2026-08-05T04:22:02+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:capitals_power_centers, Webentwicklung
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Webentwicklung (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Wall Street indices recently achieved remarkable milestones while digital assets experienced a simultaneous resurgence. My perspective highlights a clear transition from cautious positioning to aggressive global capital deployment. This widespread enthusiasm stems directly from easing inflation concerns and unexpected geopolitical de-escalation. Major stock indices recently shattered records, setting new all-time hi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NetKids iMarkにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN28045338/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-05T12:00:00+09:00`, fetched `2026-08-05T03:13:14+00:00`
