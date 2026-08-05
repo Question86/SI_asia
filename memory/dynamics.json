@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-05T11:53:10Z",
+  "generated_at": "2026-08-05T12:32:51Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 8,
+      "krass": 10,
       "strong": 9,
       "watch": 10,
-      "quiet": 11
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 18,
+      "strong": 20,
       "watch": 10,
-      "quiet": 11
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:08+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:56:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -78,7 +78,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:56:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -104,7 +104,7 @@
       "url": "https://jvn.jp/jp/JVN28045338/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -129,7 +129,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2600",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T11:36:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -153,7 +153,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2655",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:07+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2653",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://github.com/uber/ADR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-05T02:05:36+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "security",
@@ -231,7 +231,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -257,7 +257,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:31:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -283,7 +283,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -309,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -335,7 +335,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:07+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -357,11 +357,61 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Prometheus ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2536",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-05T11:56:35+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um den Speicher zu beschädigen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (freeipmi): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2228",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-05T11:56:33+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] vim (vms_fixfilename): Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -386,7 +436,7 @@
       "url": "https://jvn.jp/vu/JVNVU92898025/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -411,7 +461,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 47.41,
+      "age_days": 47.44,
       "topics": [
         "ai"
       ],
@@ -440,7 +490,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-05T09:32:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -465,7 +515,7 @@
       "url": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-05T10:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -490,7 +540,7 @@
       "url": "https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T03:55:41+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "macro"
       ],
@@ -514,7 +564,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T10:56:18.920+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -539,7 +589,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T09:55:22.447+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -563,7 +613,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T04:48:12.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -587,7 +637,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T00:39:40.650+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -612,7 +662,7 @@
       "url": "https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T02:30:23+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "macro"
       ],
@@ -636,7 +686,7 @@
       "url": "https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T02:00:37+00:00",
-      "age_days": 0.41,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -661,7 +711,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-08-05T08:15:22+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "macro"
       ],
@@ -685,7 +735,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T08:07:19.592+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -709,7 +759,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T07:09:20.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -733,7 +783,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T03:07:34.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -757,7 +807,7 @@
       "url": "https://anond.hatelabo.jp/20260805091101",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T00:11:49+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -781,7 +831,7 @@
       "url": "https://e27.co/the-new-border-why-server-farms-are-the-battleground-of-ai-sovereignty-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T01:45:25+00:00",
-      "age_days": 0.42,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -807,7 +857,7 @@
       "url": "https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-05T06:58:44+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -831,7 +881,7 @@
       "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/well-being",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-05T06:00:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -855,7 +905,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T04:31:40+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -879,7 +929,7 @@
       "url": "https://www.watch.impress.co.jp/docs/news/2130325.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T04:19:12+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -903,7 +953,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T22:57:44+00:00",
-      "age_days": 0.54,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -927,7 +977,7 @@
       "url": "https://www.watch.impress.co.jp/docs/news/2130539.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T18:36:42+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -951,7 +1001,7 @@
       "url": "https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T02:15:23+00:00",
-      "age_days": 0.4,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -970,57 +1020,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Working between Central and Eastern Europe and Southeast Asia, I often see both regions described through their proximity to somewhere considered more important. CEE is viewed through Western Europe and Russia. Southeast Asia is framed through China, Japan, India and the United States. This is not a comparison of simi…"
-    },
-    {
-      "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
-      "url": "https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-05T02:00:02+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The world’s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which ASEAN country attracted the most data centre investment las…"
-    },
-    {
-      "title": "Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most",
-      "url": "https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-05T01:00:10+00:00",
-      "age_days": 0.45,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app finally turning the corner into sustainable profitability. Peel…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
