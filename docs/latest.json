@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T18:24:12+00:00",
-  "run_id": "2026-08-05T18:24:12+00:00",
+  "generated_at": "2026-08-05T18:59:06+00:00",
+  "run_id": "2026-08-05T18:59:06+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 65
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
     "medium": 24,
-    "observe": 40,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -792,6 +792,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3fbff834737c41c15b7d"
+      },
+      {
+        "title": "Cloudflare OS",
+        "url": "https://os.cloudflare.app/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T15:09:44+00:00",
+        "fetched_at": "2026-08-05T18:58:37+00:00",
+        "summary": "Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "Open Source"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5b481755c41cafd6ac08"
       },
       {
         "title": "M 5.0 - 60 km NNE of Shi Yomi, India",
@@ -2408,6 +2431,29 @@
       "id": "3fbff834737c41c15b7d"
     },
     {
+      "title": "Cloudflare OS",
+      "url": "https://os.cloudflare.app/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T15:09:44+00:00",
+      "fetched_at": "2026-08-05T18:58:37+00:00",
+      "summary": "Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Open Source"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b481755c41cafd6ac08"
+    },
+    {
       "title": "M 5.0 - 60 km NNE of Shi Yomi, India",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3259,25 +3305,27 @@
   ],
   "new_findings": [
     {
-      "title": "DeNAが脱ゲームにカジ 南場智子社長「AIで新規事業生み出し成長」 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC047NI0U6A800C2000000/",
+      "title": "Cloudflare OS",
+      "url": "https://os.cloudflare.app/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-05T11:35:13+00:00",
-      "fetched_at": "2026-08-05T18:23:44+00:00",
-      "summary": "ディー・エヌ・エー（DeNA）が5日発表した2026年4〜6月期の連結決算（国際会計基準）はゲームの低迷が響き営業利益が前年同期比46%減の74億円だった。南場智子社長はゲームから新規事業の創出へ軸足を移す方針を示した。ゲームの減収続く純利益は3倍の334億円だった。出資していたタクシー配車アプリ大手、GOの上場投資...",
+      "published_at": "2026-08-05T15:09:44+00:00",
+      "fetched_at": "2026-08-05T18:58:37+00:00",
+      "summary": "Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Open Source"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "25ca639e3221a71a2379"
+      "id": "5b481755c41cafd6ac08"
     }
   ],
   "source_errors": [],
