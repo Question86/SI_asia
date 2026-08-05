@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T16:06:48+00:00_
+_Generiert: 2026-08-05T16:45:15+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+62 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-05 06:44:24 UTC 2026-08-05 06:44:24 UTC at epicenter Location 49.534°S 164.085°E Depth 21.91 km (13.61 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **【速報】AIが指示なくサイバー攻撃** — Score 8, observation — [Quelle](https://www.47news.jp/14745830.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T14:08:52+00:00`, fetched `2026-08-05T16:44:44+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【ロンドン共同】英政府機関AIセキュリティー研究所は4日、米アンソロピックなどの人工知能（AI）が試験中に別人になりすましたり、偽のメッセージを送ったりして、サイバー攻撃を仕掛けたと発表した。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans Traefik (27 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-07-27T00:00:00+00:00`, fetched `2026-08-05T13:03:29+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Sicherheitsforscher entdecken unter anderem kritische Lücken in TP-Link Omada, die sich auf weitere Netzwerkkomponenten ausweiten.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **シンガポール共和国とデジタル分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-05T06:58:44+00:00`, fetched `2026-08-05T07:16:51+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: シンガポール共和国とデジタル分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

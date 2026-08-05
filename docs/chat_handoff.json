@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-05T16:06:48+00:00",
+  "generated_at": "2026-08-05T16:45:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 23,
-    "observe": 38
+    "observe": 39
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,145 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “uber/ADR” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "uber/ADR",
-        "url": "https://github.com/uber/ADR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-05T02:05:36+00:00",
-        "age_days": 0.6,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Clau…"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:56:06+00:00",
-        "age_days": 0.23,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 47.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:01:05+00:00",
-        "age_days": 0.27,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Veeam ONE: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:31:05+00:00",
-        "age_days": 0.25,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Veeam ONE ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, SQL-Injektionen durchzuführen oder Berechtigungen zu erweitern."
-      },
-      {
-        "title": "[NEU] [mittel] Autodesk FBX SDK: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2652",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:26:06+00:00",
-        "age_days": 0.25,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Autodesk FBX SDK ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
-      }
-    ]
-  }
+  ]
 }
