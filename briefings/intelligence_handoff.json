@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-05T11:02:50Z",
+  "generated_at": "2026-08-05T11:53:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:08+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:56:06+00:00",
-      "age_days": 0.0,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -68,7 +68,7 @@
       "url": "https://jvn.jp/jp/JVN28045338/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -89,11 +89,11 @@
       "summary": "株式会社アイ・エス・ティが提供するNetKids iMarkには、複数の脆弱性が存在します。"
     },
     {
-      "title": "[NEU] [mittel] Mozilla Firefox für Android: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2655",
+      "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2600",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-05T10:26:07+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-08-05T11:36:06+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -110,14 +110,14 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox für Android ausnutzen, um Informationen offenzulegen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
     },
     {
       "title": "uber/ADR",
       "url": "https://github.com/uber/ADR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-05T02:05:36+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security",
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:31:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -225,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -251,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -277,7 +277,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -302,7 +302,7 @@
       "url": "https://jvn.jp/vu/JVNVU92898025/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
