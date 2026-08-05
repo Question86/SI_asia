@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-05T08:08:54+00:00",
+  "generated_at": "2026-08-05T09:09:24+00:00",
   "topics": {
     "ai": [
       {
@@ -96,6 +96,20 @@
         "published_at": "2026-08-05T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN28045338/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-05T09:06:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589"
+      },
+      {
+        "title": "[UPDATE] [mittel] Prometheus: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-05T09:06:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292"
       }
     ],
     "github": [
@@ -224,6 +238,13 @@
       }
     ],
     "geopolitics": [
+      {
+        "title": "[UPDATE] [mittel] Prometheus: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-05T09:06:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292"
+      },
       {
         "title": "Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45",
         "source": "ECB Open Market Operations and Communication",

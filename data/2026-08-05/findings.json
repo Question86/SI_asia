@@ -198,6 +198,52 @@
     "id": "5b2f1c1cb98c487fd49a"
   },
   {
+    "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:06:08+00:00",
+    "fetched_at": "2026-08-05T09:08:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, erweiterte Privilegien zu erlangen, Sicherheitsmaßnahmen zu umgehen, Sitzungen zu kapern sowie Daten offenzulegen oder zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca9b1d2e3cafbb553d3f"
+  },
+  {
+    "title": "[UPDATE] [mittel] Prometheus: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:06:07+00:00",
+    "fetched_at": "2026-08-05T09:08:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Prometheus ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "be3ba9eb8815de98e378"
+  },
+  {
     "title": "Beyond market entry: Japan and Southeast Asia in a fracturing world",
     "url": "https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/",
     "source": "e27 Asia Startup and Tech Feed",

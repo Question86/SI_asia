@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:08:58+00:00",
+  "generated_at": "2026-08-05T09:09:27+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556246",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).",
         "summary": "Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).",
         "source": "GDACS",
@@ -84,16 +94,26 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Sri Lanka",
+        "summary": "Green flood alert in Sri Lanka",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104075",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.3 - south of the Kermadec Islands",
-        "summary": "M6.3 - south of the Kermadec Islands. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.3 - south of the Kermadec Islands. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i",
         "published_at": "2026-08-05T07:43:27+00:00",
         "metrics": {
           "mag": 6.3,
-          "alert": "",
-          "sig": 611.0,
+          "alert": "green",
+          "sig": 614.0,
           "tsunami": 0
         }
       },
@@ -108,7 +128,7 @@
         "metrics": {
           "mag": 6.3,
           "alert": "green",
-          "sig": 627.0,
+          "sig": 635.0,
           "tsunami": 0
         }
       },
