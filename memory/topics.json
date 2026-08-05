@@ -1,24 +1,43 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-05T01:19:49+00:00",
+  "generated_at": "2026-08-05T02:06:10+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-05T09:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU92898025/"
-      }
-    ],
     "ai": [
+      {
+        "title": "uber/ADR",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/uber/ADR"
+      },
+      {
+        "title": "Growth at gunpoint: Why VCs share the blame for startup fraud",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-05T02:00:37+00:00",
+        "relevance_score": 20,
+        "url": "https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/"
+      },
+      {
+        "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-05T02:00:02+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/"
+      },
       {
         "title": "Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-05T01:00:10+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/"
+      },
+      {
+        "title": "The new border: Why server farms are the battleground of AI sovereignty",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-05T01:45:25+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-new-border-why-server-farms-are-the-battleground-of-ai-sovereignty-20260804/"
       },
       {
         "title": "Washington banned Mythos and Fable: It created a hydra",
@@ -42,23 +61,39 @@
         "url": "https://zenn.dev/pdfractal/articles/88da9fe63cca65"
       }
     ],
-    "general": [
+    "security": [
       {
-        "title": "M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-05T00:39:40.650+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
+        "title": "uber/ADR",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/uber/ADR"
       },
       {
-        "title": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-04T22:57:44+00:00",
-        "relevance_score": 5,
-        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html"
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-05T09:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU92898025/"
+      }
+    ],
+    "github": [
+      {
+        "title": "uber/ADR",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/uber/ADR"
       }
     ],
     "geopolitics": [
+      {
+        "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-05T02:00:02+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/"
+      },
       {
         "title": "Washington banned Mythos and Fable: It created a hydra",
         "source": "e27 Asia Startup and Tech Feed",
@@ -74,7 +109,37 @@
         "url": "https://e27.co/why-seniority-is-repricing-in-ai-augmented-teams-and-what-gets-valued-instead-20260727/"
       }
     ],
+    "general": [
+      {
+        "title": "M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-05T00:39:40.650+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u"
+      },
+      {
+        "title": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-04T22:57:44+00:00",
+        "relevance_score": 5,
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html"
+      },
+      {
+        "title": "水を飲まずにビールを飲むと倒れる「ふらつくビアグラスbyよなよなエール」",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-04T18:36:42+00:00",
+        "relevance_score": 5,
+        "url": "https://www.watch.impress.co.jp/docs/news/2130539.html"
+      }
+    ],
     "economy": [
+      {
+        "title": "Going global doesn’t mean what it used to: Here’s how we’re rethinking it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-05T01:30:53+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/going-global-doesnt-mean-what-it-used-to-heres-how-were-rethinking-it-20260804/"
+      },
       {
         "title": "Why seniority is repricing in AI-augmented teams, and what gets valued instead",
         "source": "e27 Asia Startup and Tech Feed",
