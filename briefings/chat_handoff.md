@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-05T14:33:44+00:00_
+_Generated: 2026-08-05T15:23:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `57`
+- findings: `61`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-05T14:33:44+00:00_
 - url: https://github.com/uber/ADR
 - summary: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps orga…
 
-### 2. [NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung
+### 2. huangruiteng/loopx
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/huangruiteng/loopx
+- summary: Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. LoopX The l…
+
+### 3. [NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `22`
 - published: `2026-08-05T10:56:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen.
 
-### 3. Growth at gunpoint: Why VCs share the blame for startup fraud
+### 4. Growth at gunpoint: Why VCs share the blame for startup fraud
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-08-05T02:00:37+00:00`
 - url: https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/
 - summary: Every founder who has ever sat across a term sheet knows the unspoken rule of fundraising: growth solves everything. Miss a target, and the story shifts to “path to profitability.” Miss it twice, and investors start asking harder questions. Miss it three time…
-
-### 4. [UPDATE] [kritisch] IBM Langflow Desktop OSS: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-08-05T09:56:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410
-- summary: Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop OSS ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu v…
 
 ### 5. Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)
 - source: CERT-FR Avis de sécurité

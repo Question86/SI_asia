@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T14:33:44+00:00_
+_Generiert: 2026-08-05T15:23:17+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+61 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Claude Code, and Codex, as well as customer-facing agents such as AI support agents. ADR is deployed in…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **huangruiteng/loopx** — Score 23, observation — [Quelle](https://github.com/huangruiteng/loopx)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-05T15:22:37+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Automatisierung, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. LoopX The local control plane for long-running AI agent work. Keep objectives, gates, todos, evidence, quota, and handoffs stable while Codex, Claude Code, Cursor, or your…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-05T10:56:06+00:00`, fetched `2026-08-05T10:58:50+00:00`
@@ -168,6 +177,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app finally turning the corner into sustainable profitability. Peel back the accounting, […] The post Grab’s US$235M ‘profit’ headline hides a biz still burning cash w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ふとした出会いで生まれたSkillが、 社内利用1位になるまで** — Score 10, observation — [Quelle](https://speakerdeck.com/mikimhk/how-a-skill-born-from-a-chance-encounter-became-the-most-used-tool-in-the-company)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T11:10:17+00:00`, fetched `2026-08-05T15:22:37+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 『Claude Code Skills利用Skill Top5 誕生と運用の苦労も大公開！』登壇資料 https://findy-aiplus.connpass.com/event/401265/
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **donnemartin/system-design-primer** — Score 10, observation — [Quelle](https://github.com/donnemartin/system-design-primer)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-05T15:22:37+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
+  - Kurz: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. English ∙ 日本語 ∙ 简体中文 ∙ 繁體中文 | العَرَبِيَّة‎ ∙ বাংলা ∙ Português do Brasil ∙ Deutsch ∙ ελληνικά ∙ עברית ∙ Italiano ∙ 한국어 ∙ فارسی ∙ Polski ∙ русский язык ∙ Español ∙ ภาษาไทย ∙ Türkçe ∙ tiếng Việt ∙ Français | Add Translation Help translate this guide! The System Design Primer Motivation Learn how to design large-sc…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 6.3 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-05T08:07:19.592+00:00`, fetched `2026-08-05T08:08:23+00:00`
@@ -204,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et une injection SQL (SQLi).
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **cloudflare/computer** — Score 8, observation — [Quelle](https://github.com/cloudflare/computer)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-05T15:22:37+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Give your agent a computer 👾 Cloudflare Computer Cloudflare Computer is a virtual filesystem that lives inside a Durable Object. The Durable Object holds the authoritative state in SQLite and exposes one pluggable execution surface through workspace.runtime . Three backends ship today: Container projects the SQLite state into a sandbox container as a real FUSE mount. A sandbox-side daemon ( computerd ) mounts the st…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitsupdates: TP-Links Netzwerk-Ökosystem Omada ist kompromittierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-05T09:32:00.000+00:00`, fetched `2026-08-05T10:04:45+00:00`
@@ -222,39 +258,12 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: シンガポール共和国とデジタル分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation/well-being)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-05T06:00:00+00:00`, fetched `2026-08-05T06:18:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Growth without work: The human cost of the AI revolution** — Score 5, observation — [Quelle](https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-08-05T10:00:00+00:00`, fetched `2026-08-05T10:04:45+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0)
-  - Kurz: An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **今こそ聞きたいソフトウェア設計 ドメイン駆動設計再入門** — Score 5, observation — [Quelle](https://speakerdeck.com/masuda220/jin-kosowen-kitaisohutoueashe-ji-domeinqu-dong-she-ji-zai-ru-men)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T09:20:11+00:00`, fetched `2026-08-05T13:03:29+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ①ソフトウェア開発の基本課題 ②AI技術をソフトウェア開発に活用するアプローチ ③これからのソフトウェア開発にどう取り組むか ④ドメイン駆動設計 再入門
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
