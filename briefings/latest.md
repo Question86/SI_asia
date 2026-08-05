@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T21:37:12+00:00_
+_Generiert: 2026-08-05T22:03:24+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,14 +29,6 @@ _Generiert: 2026-08-05T21:37:12+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-03`
   - Kurz: Known exploited vulnerability. Added 2026-08-03. Due 2026-08-06. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556246)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).
 - **USGS earthquake M6.3 - south of the Kermadec Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
   - Quelle: USGS
   - Zeit: `2026-08-05T07:43:27+00:00`
@@ -45,18 +37,12 @@ _Generiert: 2026-08-05T21:37:12+00:00_
   - Quelle: USGS
   - Zeit: `2026-08-05T04:14:06+00:00`
   - Kurz: M6.3 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Volcanic eruption is on going for Fuego in Guatemala** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Fuego in Guatemala
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556149)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001298)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).
+- **USGS earthquake M5.9 - 32 km SW of Sarangani, Philippines** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5)
+  - Quelle: USGS
+  - Zeit: `2026-08-05T21:41:28+00:00`
+  - Kurz: M5.9 - 32 km SW of Sarangani, Philippines. PAGER alert: none. Tsunami flag: 0.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fec23697210>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -136,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.9 - 32 km SW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-05T22:02:05.591+00:00`, fetched `2026-08-05T22:02:54+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-08-05 21:41:28 UTC 2026-08-05 21:41:28 UTC at epicenter Location 5.176°N 125.281°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 62 km W of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tics)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-05T17:07:27.040+00:00`, fetched `2026-08-05T17:14:53+00:00`
@@ -153,15 +148,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-05 09:17:07 UTC 2026-08-05 09:17:07 UTC at epicenter Location 5.051°N 125.254°E Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 64 km SW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-05T04:48:12.040+00:00`, fetched `2026-08-05T05:26:51+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-05 04:34:11 UTC 2026-08-05 04:34:11 UTC at epicenter Location 5.040°N 125.005°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Stocks at records, oil below US$80, gold near US$4,000, Bitcoin still at US$64,000: Which market is lying to you?** — Score 15, observation — [Quelle](https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
