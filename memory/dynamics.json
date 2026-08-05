@@ -1,22 +1,22 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-05T15:02:45Z",
+  "generated_at": "2026-08-05T15:54:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 10,
-      "strong": 9,
+      "strong": 10,
       "watch": 11,
-      "quiet": 8
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 20,
+      "strong": 21,
       "watch": 11,
-      "quiet": 8
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:56:06+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -78,7 +78,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:56:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -104,7 +104,7 @@
       "url": "https://jvn.jp/jp/JVN28045338/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T12:00:00+09:00",
-      "age_days": 0.5,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -129,7 +129,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2600",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T11:36:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -153,7 +153,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2655",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:07+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -177,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2653",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -201,7 +201,7 @@
       "url": "https://github.com/uber/ADR",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-05T02:05:36+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "ai",
         "security",
@@ -231,7 +231,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -257,7 +257,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:31:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -283,7 +283,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2652",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -309,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:01:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -335,7 +335,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T09:06:07+00:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -361,7 +361,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T11:56:35+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -386,7 +386,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2228",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T11:56:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -411,7 +411,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2654",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-05T10:26:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -436,7 +436,7 @@
       "url": "https://jvn.jp/vu/JVNVU92898025/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.63,
+      "age_days": 0.66,
       "topics": [
         "security"
       ],
@@ -461,7 +461,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 47.54,
+      "age_days": 47.58,
       "topics": [
         "ai"
       ],
@@ -480,17 +480,45 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 47.5d old signal",
+        "aging penalty -8.0 for 47.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-05T15:22:37+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: local",
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. LoopX The local control plane for long-running AI agent work. Keep obje…"
     },
     {
       "title": "Sicherheitsupdates: TP-Links Netzwerk-Ökosystem Omada ist kompromittierbar",
       "url": "https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-05T09:32:00.000+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -515,7 +543,7 @@
       "url": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-05T10:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -540,7 +568,7 @@
       "url": "https://e27.co/stocks-at-records-oil-below-us80-gold-near-us4000-bitcoin-still-at-us64000-which-market-is-lying-to-you-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T03:55:41+00:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "macro"
       ],
@@ -564,7 +592,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T10:56:18.920+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -589,7 +617,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T09:55:22.447+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -613,7 +641,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T04:48:12.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.46,
       "topics": [
         "disaster"
       ],
@@ -637,7 +665,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T00:39:40.650+00:00",
-      "age_days": 0.6,
+      "age_days": 0.63,
       "topics": [
         "disaster"
       ],
@@ -662,7 +690,7 @@
       "url": "https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T02:30:23+00:00",
-      "age_days": 0.52,
+      "age_days": 0.56,
       "topics": [
         "macro"
       ],
@@ -686,7 +714,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0937/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-07-27T00:00:00+00:00",
-      "age_days": 9.63,
+      "age_days": 9.66,
       "topics": [
         "general"
       ],
@@ -710,7 +738,7 @@
       "url": "https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T02:00:37+00:00",
-      "age_days": 0.54,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -735,7 +763,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-08-05T08:15:22+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "macro"
       ],
@@ -759,7 +787,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T08:07:19.592+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -783,7 +811,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T07:09:20.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -807,7 +835,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T03:07:34.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -831,7 +859,7 @@
       "url": "https://anond.hatelabo.jp/20260805091101",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T00:11:49+00:00",
-      "age_days": 0.62,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -855,7 +883,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-07-27T00:00:00+00:00",
-      "age_days": 9.63,
+      "age_days": 9.66,
       "topics": [
         "general"
       ],
@@ -875,11 +903,37 @@
       "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
     },
     {
+      "title": "ふとした出会いで生まれたSkillが、 社内利用1位になるまで",
+      "url": "https://speakerdeck.com/mikimhk/how-a-skill-born-from-a-chance-encounter-became-the-most-used-tool-in-the-company",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-05T11:10:17+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "『Claude Code Skills利用Skill Top5 誕生と運用の苦労も大公開！』登壇資料 https://findy-aiplus.connpass.com/event/401265/"
+    },
+    {
       "title": "The new border: Why server farms are the battleground of AI sovereignty",
       "url": "https://e27.co/the-new-border-why-server-farms-are-the-battleground-of-ai-sovereignty-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T01:45:25+00:00",
-      "age_days": 0.55,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -905,7 +959,7 @@
       "url": "https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-05T06:58:44+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -929,7 +983,7 @@
       "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/well-being",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-05T06:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -949,76 +1003,30 @@
       "summary": "地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました"
     },
     {
-      "title": "元グループ会社が「ドコモの銀行」になった不満を吸収？ SBI新生銀行が「SBIの銀行」として最大5.2万円のキャッシュバックキャンペーンを開催",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2608/05/news084.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-05T07:07:40+00:00",
-      "age_days": 0.33,
+      "title": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-05T15:22:37+00:00",
+      "age_days": 0.02,
       "topics": [
-        "general"
+        "ai"
       ],
       "dynamics_score": 5.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "no strong comparative reason"
+        "high terms: execution, auth, container",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "キャンペーンの概要 キャンペーンの第1弾は、9月30日までにSBIハイパー預金の口座を開設した上で、同日までに特設サイトからエントリーを行い、同日23時59分時点でSBIハイパー預金の残高が少なくとも30万円であれば対象となる。贈呈される金額は以下の通りで、12月中に入金される。 残高30万円以上：2000円 残高50万円以..."
-    },
-    {
-      "title": "事業価値と Engineering 2026年度版",
-      "url": "https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-05T04:50:49+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "2026年度リクルート エンジニアコース新人研修の講義資料です。"
-    },
-    {
-      "title": "東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
-      "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-05T04:31:40+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "東大によると、教授は所属する専攻のWebサイトに、2020年から21年ごろのいずれかの時点で書き込んだ。教授が率いる研究室のWebサイトにも、23年11月までのいずれかの時期に書き込んでいたという。 東大はこれらの行為を、教職員就業規則第38条第1項第5号が定める「大学法人の名誉又は信用を著しく傷つけた場合」に当たる..."
+      "summary": "Give your agent a computer 👾 Cloudflare Computer Cloudflare Computer is a virtual filesystem that lives inside a Durable Object. The Durable Object holds the authoritative state in SQLite and exposes one pluggable execution surface through workspace.runtime . Three backends ship today: Container projects the SQLite st…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
