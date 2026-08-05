@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T11:44:32+00:00",
-  "run_id": "2026-08-05T11:44:32+00:00",
+  "generated_at": "2026-08-05T12:25:28+00:00",
+  "run_id": "2026-08-05T12:25:28+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 51
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "today_file_total": 51,
+    "displayed_findings": 51,
     "high": 0,
-    "medium": 20,
+    "medium": 22,
     "observe": 29,
     "source_errors": 0
   },
@@ -149,6 +149,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "205fcd0fb1eeac82a96d"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2536",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-05T11:56:35+00:00",
+        "fetched_at": "2026-08-05T12:24:58+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um den Speicher zu beschädigen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "80eda988a135163ed74e"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (freeipmi): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2228",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-05T11:56:33+00:00",
+        "fetched_at": "2026-08-05T12:24:58+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a386c7111032ba6fe9ed"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] vim (vms_fixfilename): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1390,6 +1438,54 @@
       "id": "205fcd0fb1eeac82a96d"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2536",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-05T11:56:35+00:00",
+      "fetched_at": "2026-08-05T12:24:58+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um den Speicher zu beschädigen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80eda988a135163ed74e"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (freeipmi): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2228",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-05T11:56:33+00:00",
+      "fetched_at": "2026-08-05T12:24:58+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a386c7111032ba6fe9ed"
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] vim (vms_fixfilename): Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2654",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2505,48 +2601,52 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2600",
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2536",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-05T11:36:06+00:00",
-      "fetched_at": "2026-08-05T11:44:03+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+      "published_at": "2026-08-05T11:56:35+00:00",
+      "fetched_at": "2026-08-05T12:24:58+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um den Speicher zu beschädigen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a073e897c3c525415e50"
+      "id": "80eda988a135163ed74e"
     },
     {
-      "title": "【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (freeipmi): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2228",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-05T07:37:58+00:00",
-      "fetched_at": "2026-08-05T11:44:03+00:00",
-      "summary": "【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない",
+      "published_at": "2026-08-05T11:56:33+00:00",
+      "fetched_at": "2026-08-05T12:24:58+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8838d8f4b5569a25b1ff"
+      "id": "a386c7111032ba6fe9ed"
     }
   ],
   "source_errors": [],
