@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T10:59:20+00:00_
+_Generiert: 2026-08-05T11:44:32+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+49 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,14 +37,6 @@ _Generiert: 2026-08-05T10:59:20+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).
-- **GDACS: Green flood alert in Peru** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104071)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Peru
-- **GDACS: Green flood alert in Sri Lanka** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104075)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Sri Lanka
 - **USGS earthquake M6.3 - south of the Kermadec Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
   - Quelle: USGS
   - Zeit: `2026-08-05T07:43:27+00:00`
@@ -286,6 +278,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0)
   - Kurz: An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T07:37:58+00:00`, fetched `2026-08-05T11:44:03+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)** — Score 5, observation — [Quelle](https://note.com/fladdict/n/nd10afb769a62)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-05T04:38:23+00:00`, fetched `2026-08-05T10:04:45+00:00`
@@ -303,15 +304,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 東大によると、教授は所属する専攻のWebサイトに、2020年から21年ごろのいずれかの時点で書き込んだ。教授が率いる研究室のWebサイトにも、23年11月までのいずれかの時期に書き込んでいたという。 東大はこれらの行為を、教職員就業規則第38条第1項第5号が定める「大学法人の名誉又は信用を著しく傷つけた場合」に当たる...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2130325.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T04:19:12+00:00`, fetched `2026-08-05T10:04:45+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

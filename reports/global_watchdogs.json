@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:59:22+00:00",
+  "generated_at": "2026-08-05T11:44:34+00:00",
   "sections": {
     "global_security": [
       {
@@ -84,26 +84,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Peru",
-        "summary": "Green flood alert in Peru",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104071",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Sri Lanka",
-        "summary": "Green flood alert in Sri Lanka",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104075",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.3 - south of the Kermadec Islands",
         "summary": "M6.3 - south of the Kermadec Islands. PAGER alert: green. Tsunami flag: 0.",
@@ -128,7 +108,7 @@
         "metrics": {
           "mag": 6.3,
           "alert": "green",
-          "sig": 641.0,
+          "sig": 643.0,
           "tsunami": 0
         }
       },

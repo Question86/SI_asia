@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-05T10:59:20+00:00",
+  "generated_at": "2026-08-05T11:44:32+00:00",
   "topics": {
     "ai": [
       {
@@ -126,6 +126,13 @@
         "url": "https://jvn.jp/jp/JVN28045338/"
       },
       {
+        "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-05T11:36:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2600"
+      },
+      {
         "title": "[NEU] [hoch] Veeam ONE: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-05T10:31:05+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-05T10:26:07+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2655"
-      },
-      {
-        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:26:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2653"
       }
     ],
     "github": [

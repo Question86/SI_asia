@@ -332,6 +332,29 @@
     "id": "5b2f1c1cb98c487fd49a"
   },
   {
+    "title": "[UPDATE] [hoch] Rancher: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2600",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-05T11:36:06+00:00",
+    "fetched_at": "2026-08-05T11:44:03+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a073e897c3c525415e50"
+  },
+  {
     "title": "[NEU] [hoch] Veeam ONE: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2656",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1021,6 +1044,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "63614c0fcda43e167a6c"
+  },
+  {
+    "title": "【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない",
+    "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T07:37:58+00:00",
+    "fetched_at": "2026-08-05T11:44:03+00:00",
+    "summary": "【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8838d8f4b5569a25b1ff"
   },
   {
     "title": "高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)",
