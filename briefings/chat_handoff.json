@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-05T10:05:16+00:00",
+  "generated_at": "2026-08-05T10:59:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 7,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
-    "medium": 13,
-    "observe": 27
+    "medium": 19,
+    "observe": 28
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/uber/ADR",
       "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps orga…",
+      "section": "medium"
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-05T10:56:06+00:00",
+      "relevance_score": 22,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 17,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop OSS ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu v…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-05T10:01:05+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
-      "summary": "Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
       "section": "medium"
     },
     {
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.0 - 60 km NNE of Shi Yomi, India",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-05T01:00:10+00:00",
+      "published_at": "2026-08-05T10:56:18.920+00:00",
       "relevance_score": 11,
-      "url": "https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/",
-      "summary": "Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app fin…",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w",
+      "summary": "DYFI? - II Time 2026-08-05 10:06:09 UTC 2026-08-05 10:06:09 UTC at epicenter Location 29.003°N 94.681°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
@@ -100,143 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “uber/ADR” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "uber/ADR",
-        "url": "https://github.com/uber/ADR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-05T02:05:36+00:00",
-        "age_days": 0.34,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Clau…"
-      },
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:01:05+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T10:01:06+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, 10",
-          "security high-signal: angriffe, 10"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, Open-Redirect-Angriffe durchzuführen und andere, nicht näher spezifizierte Angriffe auszuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T09:06:08+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, root",
-          "security high-signal: code, root"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, erweiterte Privilegien zu erlangen, Sicherheitsmaßnahmen zu umgehen, Sitzungen zu kapern sowie Daten offenzulegen oder zu manipulieren."
-      },
-      {
-        "title": "[UPDATE] [mittel] Prometheus: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-05T09:06:07+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Prometheus ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }

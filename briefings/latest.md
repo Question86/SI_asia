@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T10:05:16+00:00_
+_Generiert: 2026-08-05T10:59:20+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+47 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Security (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Claude Code, and Codex, as well as customer-facing agents such as AI support agents. ADR is deployed in…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [mittel] Red Hat Ansible Automation Platform (ansible-core): Schwachstelle ermöglicht Codeausführung** — Score 22, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2657)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-05T10:56:06+00:00`, fetched `2026-08-05T10:58:50+00:00`
+  - Treffer: APAC Trend Radar, Automatisierung, BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Ansible Automation Platform ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Growth at gunpoint: Why VCs share the blame for startup fraud** — Score 20, risk — [Quelle](https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-05T02:00:37+00:00`, fetched `2026-08-05T02:05:36+00:00`
@@ -112,14 +121,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop OSS ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645)
+- **[NEU] [UNGEPATCHT] [mittel] vim (vms_fixfilename): Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2654)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-05T10:01:05+00:00`, fetched `2026-08-05T10:04:45+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-08-05T10:26:06+00:00`, fetched `2026-08-05T10:58:50+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92898025/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -166,15 +175,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社アイ・エス・ティが提供するNetKids iMarkには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-05T10:01:06+00:00`, fetched `2026-08-05T10:04:45+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, Open-Redirect-Angriffe durchzuführen und andere, nicht näher spezifizierte Angriffe auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Beyond market entry: Japan and Southeast Asia in a fracturing world** — Score 14, observation — [Quelle](https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-05T02:30:23+00:00`, fetched `2026-08-05T03:13:14+00:00`
@@ -214,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: The world’s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which ASEAN country attracted the most data centre investment last quarter. That framing […] The post ASEAN doesn’t need to win the AI race, it needs to run it toget…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 60 km NNE of Shi Yomi, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-05T10:56:18.920+00:00`, fetched `2026-08-05T10:58:50+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-08-05 10:06:09 UTC 2026-08-05 10:06:09 UTC at epicenter Location 29.003°N 94.681°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most** — Score 11, observation — [Quelle](https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-05T01:00:10+00:00`, fetched `2026-08-05T01:19:20+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-05 06:44:24 UTC 2026-08-05 06:44:24 UTC at epicenter Location 49.534°S 164.085°E Depth 21.91 km (13.61 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 36 km ESE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6d)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-05T03:07:34.040+00:00`, fetched `2026-08-05T03:13:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-05 02:46:55 UTC 2026-08-05 02:46:55 UTC at epicenter Location 50.497°N 156.568°E Depth 73.26 km (45.52 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Sicherheitsupdates: TP-Links Netzwerk-Ökosystem Omada ist kompromittierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html)
   - Quelle: heise Security Alerts / `rss`
