@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T05:27:19+00:00_
+_Generiert: 2026-08-05T06:18:36+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+24 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation/well-being)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-05T06:00:00+00:00`, fetched `2026-08-05T06:18:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メモリ不足、って不足＝価格の高騰じゃなくて、不足＝本当に調達できなくなってきている、だからな。それよろしくて？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260805091101)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-05T00:11:49+00:00`, fetched `2026-08-05T03:13:14+00:00`
