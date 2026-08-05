@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-05T02:06:10+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-08-05T03:13:45+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 7,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 3,
-    "observe": 10
+    "medium": 5,
+    "observe": 15
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "uber/ADR",
@@ -45,6 +45,26 @@
       "section": "medium"
     },
     {
+      "title": "NetKids iMarkにおける複数の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-05T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN28045338/",
+      "summary": "株式会社アイ・エス・ティが提供するNetKids iMarkには、複数の脆弱性が存在します。",
+      "section": "medium"
+    },
+    {
+      "title": "From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-05T02:15:23+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/",
+      "summary": "Working between Central and Eastern Europe and Southeast Asia, I often see both regions described through their proximity to somewhere considered more important. CEE is viewed through Western Europe and Russia. Southeast Asia is framed through China, Japan, I…",
+      "section": "observe"
+    },
+    {
       "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,16 +93,6 @@
       "url": "https://e27.co/the-new-border-why-server-farms-are-the-battleground-of-ai-sovereignty-20260804/",
       "summary": "In May, US authorities named a Bangkok firm tied to Thailand’s national AI push, accusing it of helping move billions in Nvidia-powered servers to Chinese buyers, including Alibaba. Thailand had spent years courting exactly this: chips, data centres, a seat a…",
       "section": "observe"
-    },
-    {
-      "title": "M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-05T00:39:40.650+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
-      "summary": "DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -90,145 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “uber/ADR” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "uber/ADR",
-        "url": "https://github.com/uber/ADR",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-05T02:05:36+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "axiom",
-          "ai",
-          "security",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Clau…"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
-        "url": "https://jvn.jp/vu/JVNVU92898025/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-05T09:00:00+09:00",
-        "age_days": 0.11,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 47.03,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 47.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-05T00:39:40.650+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)"
-      },
-      {
-        "title": "Growth at gunpoint: Why VCs share the blame for startup fraud",
-        "url": "https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-05T02:00:37+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 12.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Every founder who has ever sat across a term sheet knows the unspoken rule of fundraising: growth solves everything. Miss a target, and the story shifts to “path to profitability.” Miss it twice, and investors start asking harder questions. Miss it three times, and, as a growing body of academic research now confirms,…"
-      }
-    ]
-  }
+  ]
 }
