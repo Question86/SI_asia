@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T12:25:28+00:00_
+_Generiert: 2026-08-05T13:04:00+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+56 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -179,6 +179,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Multiples vulnérabilités dans Microsoft Edge (27 juillet 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0937/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-27T00:00:00+00:00`, fetched `2026-08-05T13:03:29+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-08-05T08:15:22+00:00`, fetched `2026-08-05T07:16:51+00:00`
@@ -242,6 +251,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-05 06:44:24 UTC 2026-08-05 06:44:24 UTC at epicenter Location 49.534°S 164.085°E Depth 21.91 km (13.61 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Vulnérabilité dans Traefik (27 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-27T00:00:00+00:00`, fetched `2026-08-05T13:03:29+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans GLPI (27 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0935/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-27T00:00:00+00:00`, fetched `2026-08-05T13:03:29+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans GLPI. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et une injection SQL (SQLi).
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitsupdates: TP-Links Netzwerk-Ökosystem Omada ist kompromittierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-05T09:32:00.000+00:00`, fetched `2026-08-05T10:04:45+00:00`
@@ -278,32 +305,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0)
   - Kurz: An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html)
+- **今こそ聞きたいソフトウェア設計 ドメイン駆動設計再入門** — Score 5, observation — [Quelle](https://speakerdeck.com/masuda220/jin-kosowen-kitaisohutoueashe-ji-domeinqu-dong-she-ji-zai-ru-men)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T07:37:58+00:00`, fetched `2026-08-05T11:44:03+00:00`
+  - Zeit: published `2026-08-05T09:20:11+00:00`, fetched `2026-08-05T13:03:29+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)** — Score 5, observation — [Quelle](https://note.com/fladdict/n/nd10afb769a62)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T04:38:23+00:00`, fetched `2026-08-05T10:04:45+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: オープン社内報です。 このままAI駆動開発が進むと、ソフトウェア開発は工芸から農業へ近づいていくんじゃないかなと思っています。 従来の開発は、人間が一行づつこころを込めてコードを書いてました。 これが、生成AIでビューンといっきに作れるようになった。 で、これからどうなるのか…というと、「農業化」が起きる...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/05/2000000392/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T04:31:40+00:00`, fetched `2026-08-05T07:16:51+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 東大によると、教授は所属する専攻のWebサイトに、2020年から21年ごろのいずれかの時点で書き込んだ。教授が率いる研究室のWebサイトにも、23年11月までのいずれかの時期に書き込んでいたという。 東大はこれらの行為を、教職員就業規則第38条第1項第5号が定める「大学法人の名誉又は信用を著しく傷つけた場合」に当たる...
+  - Kurz: ①ソフトウェア開発の基本課題 ②AI技術をソフトウェア開発に活用するアプローチ ③これからのソフトウェア開発にどう取り組むか ④ドメイン駆動設計 再入門
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
