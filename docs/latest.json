@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T20:41:24+00:00",
-  "run_id": "2026-08-05T20:41:24+00:00",
+  "generated_at": "2026-08-05T21:07:40+00:00",
+  "run_id": "2026-08-05T21:07:40+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 68,
     "displayed_findings": 68,
     "high": 0,
@@ -3465,31 +3465,7 @@
       "id": "80ef46993050e3d09968"
     }
   ],
-  "new_findings": [
-    {
-      "title": "スペースキーで変換する代わりに、打ち間違いを気にせずに入力したローマ字をAIで自然な日本語に変換してくれるMac用の日本語入力アプリ「Nospace」がリリース。",
-      "url": "https://applech2.com/archives/20260805-nospace-for-mac-ai-japanese-input-app.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-05T11:19:20+00:00",
-      "fetched_at": "2026-08-05T20:40:54+00:00",
-      "summary": "ローマ字入力をスペースキーで変換する代わりに、打ち間違いを気にせずに入力＆AIを利用した変換を行ってくれるMac用の日本語入力アプリ「Nospace」がリリースされています。詳細は以下から。 MacのIME(日本語入力プログラム)でローマ字入力をする際、ローマ字で単語や文章を入力し、その後スペースキーで変換するという...",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c99f36de8477fd15f7a2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
