@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-05T16:45:18+00:00",
+  "generated_at": "2026-08-05T17:15:25+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-63077 JetBrains TeamCity",
+        "summary": "Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-05",
+        "metrics": {
+          "cve": "CVE-2026-63077"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-08-03",
         "metrics": {
           "cve": "CVE-2026-18577"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-20316 Cisco Secure Firewall Management Center (FMC)",
-        "summary": "Known exploited vulnerability. Added 2026-07-29. Due 2026-08-01. Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-07-29",
-        "metrics": {
-          "cve": "CVE-2026-20316"
         }
       },
       {
