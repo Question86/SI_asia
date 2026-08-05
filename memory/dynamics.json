@@ -1,17 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-05T00:22:16Z",
+  "generated_at": "2026-08-05T00:56:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 7,
     "bands": {
       "krass": 1,
       "strong": 1,
+      "watch": 1,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 2,
+      "watch": 1,
       "quiet": 4
     }
   },
@@ -21,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU92898025/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -46,7 +48,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.93,
+      "age_days": 46.96,
       "topics": [
         "ai"
       ],
@@ -65,17 +67,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 46.9d old signal",
+        "aging penalty -8.0 for 47.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-05T00:39:40.650+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.9,
+      "age_days": 45.92,
       "topics": [
         "general"
       ],
@@ -100,7 +127,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.9,
+      "age_days": 45.92,
       "topics": [
         "general"
       ],
@@ -125,7 +152,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.9,
+      "age_days": 45.92,
       "topics": [
         "ai"
       ],
@@ -152,7 +179,7 @@
       "url": "https://zenn.dev/pdfractal/articles/88da9fe63cca65",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T19:06:01+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
