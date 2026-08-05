@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-05T00:48:02+00:00_
+_Generated: 2026-08-05T01:19:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `7`
 
 ## Top Signals
 
@@ -15,18 +15,32 @@ _Generated: 2026-08-05T00:48:02+00:00_
 - url: https://jvn.jp/vu/JVNVU92898025/
 - summary: 2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)
+### 2. Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-08-05T01:00:10+00:00`
+- url: https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/
+- summary: Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app fin…
+
+### 3. M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-05T00:39:40.650+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u
 - summary: DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)
 
-### 3. なぜ、ループエンジニアリングの普及がウォーターフォール開発を復活させるのか？
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-04T19:06:01+00:00`
-- url: https://zenn.dev/pdfractal/articles/88da9fe63cca65
-- summary: はじめに 生成AIによるソフトウェア開発は、当初、自然言語で作りたいものを伝えればAIがコードを書いてくれる、バイブコーディングの方向へ進むと考えられていました。そこでは、厳密な仕様書や詳細な計画を最初に用意せず、生成された画面や動作を見ながら、その場で次の指示を出していきます。 しかし、AIコーディン...
+### 4. Washington banned Mythos and Fable: It created a hydra
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-08-05T01:15:13+00:00`
+- url: https://e27.co/washington-banned-mythos-and-fable-it-created-a-hydra-20260727/
+- summary: The lesson from Washington’s intervention against Anthropic’s Fable 5 and Mythos 5 is not that governments are powerless over AI. They are not. A state can order a company to switch off a model. It can gate access. It can ration release to approved organisati…
+
+### 5. Why seniority is repricing in AI-augmented teams, and what gets valued instead
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-08-05T01:00:07+00:00`
+- url: https://e27.co/why-seniority-is-repricing-in-ai-augmented-teams-and-what-gets-valued-instead-20260727/
+- summary: An investor with more than twenty years in the market asked me recently whether AI was going to replace software. He was not asking from a position of weakness. He has built a reputation, a portfolio, and a network that most people will not match in a lifetim…
 
 END OF DOCUMENT
