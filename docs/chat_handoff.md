@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-05T06:18:36+00:00_
+_Generated: 2026-08-05T07:17:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `28`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-05T06:18:36+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f
 - summary: Time 2026-08-05 04:34:11 UTC 2026-08-05 04:34:11 UTC at epicenter Location 5.040°N 125.005°E Depth 35.00 km (21.75 mi)
 
-### 5. From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order
+### 5. Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-05T08:15:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html
+- summary: Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 6. From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-05T02:15:23+00:00`
 - url: https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/
 - summary: Working between Central and Eastern Europe and Southeast Asia, I often see both regions described through their proximity to somewhere considered more important. CEE is viewed through Western Europe and Russia. Southeast Asia is framed through China, Japan, I…
 
-### 6. ASEAN doesn’t need to win the AI race, it needs to run it together
+### 7. ASEAN doesn’t need to win the AI race, it needs to run it together
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-05T02:00:02+00:00`
 - url: https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/
 - summary: The world’s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which…
 
-### 7. Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most
+### 8. Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-05T01:00:10+00:00`
 - url: https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/
 - summary: Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app fin…
-
-### 8. The new border: Why server farms are the battleground of AI sovereignty
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-05T01:45:25+00:00`
-- url: https://e27.co/the-new-border-why-server-farms-are-the-battleground-of-ai-sovereignty-20260804/
-- summary: In May, US authorities named a Bangkok firm tied to Thailand’s national AI push, accusing it of helping move billions in Nvidia-powered servers to Chinese buyers, including Alibaba. Thailand had spent years courting exactly this: chips, data centres, a seat a…
 
 END OF DOCUMENT

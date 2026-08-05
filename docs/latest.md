@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T06:18:36+00:00_
+_Generiert: 2026-08-05T07:17:28+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+28 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260069.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-08-05T08:15:22+00:00`, fetched `2026-08-05T07:16:51+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From periphery to permission: What CEE and Southeast Asia reveal about a fracturing global order** — Score 12, observation — [Quelle](https://e27.co/from-periphery-to-permission-what-cee-and-southeast-asia-reveal-about-a-fracturing-global-order-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-05T02:15:23+00:00`, fetched `2026-08-05T03:13:14+00:00`
@@ -105,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app finally turning the corner into sustainable profitability. Peel back the accounting, […] The post Grab’s US$235M ‘profit’ headline hides a biz still burning cash w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - Auckland Islands, New Zealand region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-05T07:09:20.040+00:00`, fetched `2026-08-05T07:16:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-05 06:44:24 UTC 2026-08-05 06:44:24 UTC at epicenter Location 49.534°S 164.085°E Depth 21.91 km (13.61 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 36 km ESE of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6d)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-05T03:07:34.040+00:00`, fetched `2026-08-05T03:13:14+00:00`
@@ -123,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **シンガポール共和国とデジタル分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-05T06:58:44+00:00`, fetched `2026-08-05T07:16:51+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: シンガポール共和国とデジタル分野における協力覚書を取り交わしました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation/well-being)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-05T06:00:00+00:00`, fetched `2026-08-05T06:18:05+00:00`
@@ -131,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/05/2000000392/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T04:31:40+00:00`, fetched `2026-08-05T07:16:51+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 東大によると、教授は所属する専攻のWebサイトに、2020年から21年ごろのいずれかの時点で書き込んだ。教授が率いる研究室のWebサイトにも、23年11月までのいずれかの時期に書き込んでいたという。 東大はこれらの行為を、教職員就業規則第38条第1項第5号が定める「大学法人の名誉又は信用を著しく傷つけた場合」に当たる...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **メモリ不足、って不足＝価格の高騰じゃなくて、不足＝本当に調達できなくなってきている、だからな。それよろしくて？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260805091101)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -149,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **なぜ、ループエンジニアリングの普及がウォーターフォール開発を復活させるのか？** — Score 5, observation — [Quelle](https://zenn.dev/pdfractal/articles/88da9fe63cca65)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-04T19:06:01+00:00`, fetched `2026-08-05T00:06:28+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 生成AIによるソフトウェア開発は、当初、自然言語で作りたいものを伝えればAIがコードを書いてくれる、バイブコーディングの方向へ進むと考えられていました。そこでは、厳密な仕様書や詳細な計画を最初に用意せず、生成された画面や動作を見ながら、その場で次の指示を出していきます。 しかし、AIコーディン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

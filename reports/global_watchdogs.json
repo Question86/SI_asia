@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T06:18:40+00:00",
+  "generated_at": "2026-08-05T07:17:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,8 +65,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 20 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 20 thousand in MMI VI.",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215",
         "published_at": "",
@@ -93,9 +93,19 @@
         "metrics": {
           "mag": 6.3,
           "alert": "green",
-          "sig": 625.0,
+          "sig": 626.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Volcanic eruption is on going for Fuego in Guatemala",
+        "summary": "Volcanic eruption is on going for Fuego in Guatemala",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
