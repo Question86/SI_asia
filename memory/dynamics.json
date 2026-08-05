@@ -1,29 +1,60 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-05T01:35:19Z",
+  "generated_at": "2026-08-05T02:36:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 17,
     "bands": {
+      "extreme": 1,
       "krass": 1,
       "strong": 1,
-      "watch": 1,
-      "quiet": 8
+      "watch": 2,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 1,
-      "quiet": 8
+      "strong": 3,
+      "watch": 2,
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-05T02:05:36+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Clau…"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
       "url": "https://jvn.jp/vu/JVNVU92898025/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-05T09:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -48,7 +79,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 46.98,
+      "age_days": 47.03,
       "topics": [
         "ai"
       ],
@@ -77,7 +108,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-05T00:39:40.650+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -98,11 +129,62 @@
       "summary": "DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)"
     },
     {
+      "title": "Growth at gunpoint: Why VCs share the blame for startup fraud",
+      "url": "https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T02:00:37+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Every founder who has ever sat across a term sheet knows the unspoken rule of fundraising: growth solves everything. Miss a target, and the story shifts to “path to profitability.” Miss it twice, and investors start asking harder questions. Miss it three times, and, as a growing body of academic research now confirms,…"
+    },
+    {
+      "title": "The new border: Why server farms are the battleground of AI sovereignty",
+      "url": "https://e27.co/the-new-border-why-server-farms-are-the-battleground-of-ai-sovereignty-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T01:45:25+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: auth",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In May, US authorities named a Bangkok firm tied to Thailand’s national AI push, accusing it of helping move billions in Nvidia-powered servers to Chinese buyers, including Alibaba. Thailand had spent years courting exactly this: chips, data centres, a seat at the AI table. Now the same infrastructure meant to prove t…"
+    },
+    {
       "title": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果",
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T22:57:44+00:00",
-      "age_days": 0.11,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -122,11 +204,60 @@
       "summary": "【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果"
     },
     {
+      "title": "水を飲まずにビールを飲むと倒れる「ふらつくビアグラスbyよなよなエール」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2130539.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-04T18:36:42+00:00",
+      "age_days": 0.33,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "水を飲まずにビールを飲むと倒れる「ふらつくビアグラスbyよなよなエール」"
+    },
+    {
+      "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
+      "url": "https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T02:00:02+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The world’s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which ASEAN country attracted the most data centre investment las…"
+    },
+    {
       "title": "Grab’s US$235M ‘profit’ headline hides a biz still burning cash where it matters most",
       "url": "https://e27.co/grabs-us235m-profit-headline-hides-a-biz-still-burning-cash-where-it-matters-most-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T01:00:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -152,7 +283,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.95,
+      "age_days": 45.99,
       "topics": [
         "general"
       ],
@@ -168,7 +299,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 45.9d old signal"
+        "aging penalty -16.0 for 46.0d old signal"
       ],
       "summary": ""
     },
@@ -177,7 +308,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.95,
+      "age_days": 45.99,
       "topics": [
         "general"
       ],
@@ -193,7 +324,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 45.9d old signal"
+        "aging penalty -16.0 for 46.0d old signal"
       ],
       "summary": ""
     },
@@ -202,7 +333,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 45.95,
+      "age_days": 45.99,
       "topics": [
         "ai"
       ],
@@ -219,17 +350,43 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 45.9d old signal",
+        "aging penalty -16.0 for 46.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "Going global doesn’t mean what it used to: Here’s how we’re rethinking it",
+      "url": "https://e27.co/going-global-doesnt-mean-what-it-used-to-heres-how-were-rethinking-it-20260804/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-05T01:30:53+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For most of our company’s life, “growth” meant going deeper into one market: the Philippines. Then it meant fanning out to markets that looked like home — Indonesia, Vietnam, the rest of Southeast Asia. That was the playbook, and it made sense. Same time zones, comparable regulatory maturity, overlapping business cult…"
     },
     {
       "title": "Washington banned Mythos and Fable: It created a hydra",
       "url": "https://e27.co/washington-banned-mythos-and-fable-it-created-a-hydra-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T01:15:13+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -254,7 +411,7 @@
       "url": "https://e27.co/why-seniority-is-repricing-in-ai-augmented-teams-and-what-gets-valued-instead-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-05T01:00:07+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -280,7 +437,7 @@
       "url": "https://zenn.dev/pdfractal/articles/88da9fe63cca65",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-04T19:06:01+00:00",
-      "age_days": 0.27,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -301,5 +458,5 @@
       "summary": "はじめに 生成AIによるソフトウェア開発は、当初、自然言語で作りたいものを伝えればAIがコードを書いてくれる、バイブコーディングの方向へ進むと考えられていました。そこでは、厳密な仕様書や詳細な計画を最初に用意せず、生成された画面や動作を見ながら、その場で次の指示を出していきます。 しかし、AIコーディン..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “uber/ADR” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
