@@ -72,6 +72,54 @@
     "id": "d4a0d0dde761300f400e"
   },
   {
+    "title": "[UPDATE] [kritisch] IBM Langflow Desktop OSS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:56:06+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop OSS ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Open Source",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "205fcd0fb1eeac82a96d"
+  },
+  {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:01:05+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e4d9e6625e8c53903159"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）",
     "url": "https://jvn.jp/vu/JVNVU92898025/",
     "source": "JVN Japan Vulnerability Notes",
@@ -93,6 +141,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "334b043731d24b0b93ca"
+  },
+  {
+    "title": "M 4.8 - 45 km SSW of Sarangani, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9k",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:55:22.447+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "DYFI? - II Time 2026-08-05 09:17:07 UTC 2026-08-05 09:17:07 UTC at epicenter Location 5.051°N 125.254°E Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cfc43eb88b5649f10d51"
   },
   {
     "title": "M 4.8 - 64 km SW of Sarangani, Philippines",
@@ -196,6 +281,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5b2f1c1cb98c487fd49a"
+  },
+  {
+    "title": "[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:01:06+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, Open-Redirect-Angriffe durchzuführen und andere, nicht näher spezifizierte Angriffe auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c00de2d495a19037d060"
   },
   {
     "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
@@ -595,6 +703,26 @@
     "id": "923819e712162ebb6a05"
   },
   {
+    "title": "Sicherheitsupdates: TP-Links Netzwerk-Ökosystem Omada ist kompromittierbar",
+    "url": "https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:32:00.000+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "Sicherheitsforscher entdecken unter anderem kritische Lücken in TP-Link Omada, die sich auf weitere Netzwerkkomponenten ausweiten.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a6c3cb7d2c5b8f431f53"
+  },
+  {
     "title": "Indonesia’s McEasy secures US$9M to move fleet management from tracking to prediction",
     "url": "https://e27.co/indonesias-mceasy-secures-us9m-to-move-fleet-management-from-tracking-to-prediction-20260805/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -698,6 +826,47 @@
     "id": "0b75aad29a82b3ac8d0e"
   },
   {
+    "title": "Growth without work: The human cost of the AI revolution",
+    "url": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:00:00+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "63614c0fcda43e167a6c"
+  },
+  {
+    "title": "高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)",
+    "url": "https://note.com/fladdict/n/nd10afb769a62",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T04:38:23+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "オープン社内報です。 このままAI駆動開発が進むと、ソフトウェア開発は工芸から農業へ近づいていくんじゃないかなと思っています。 従来の開発は、人間が一行づつこころを込めてコードを書いてました。 これが、生成AIでビューンといっきに作れるようになった。 で、これからどうなるのか…というと、「農業化」が起きる...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6d59463fa4ece81b148"
+  },
+  {
     "title": "東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道",
     "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -717,6 +886,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f9b182e8b57fa7d53ef7"
+  },
+  {
+    "title": "メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認",
+    "url": "https://www.watch.impress.co.jp/docs/news/2130325.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T04:19:12+00:00",
+    "fetched_at": "2026-08-05T10:04:45+00:00",
+    "summary": "メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "65ddba4f51201746b269"
   },
   {
     "title": "メモリ不足、って不足＝価格の高騰じゃなくて、不足＝本当に調達できなくなってきている、だからな。それよろしくて？",

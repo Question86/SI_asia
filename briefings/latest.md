@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T09:09:24+00:00_
+_Generiert: 2026-08-05T10:05:16+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -103,6 +103,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); Reputationsrisiko (+8.8); founder (+2.0); recent (+1.0)
   - Kurz: Every founder who has ever sat across a term sheet knows the unspoken rule of fundraising: growth solves everything. Miss a target, and the story shifts to “path to profitability.” Miss it twice, and investors start asking harder questions. Miss it three times, and, as a growing body of academic research now confirms, some founders […] The post Growth at gunpoint: Why VCs share the blame for startup fraud appeared f…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [kritisch] IBM Langflow Desktop OSS: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-05T09:56:06+00:00`, fetched `2026-08-05T10:04:45+00:00`
+  - Treffer: BSI, CERT-Bund, Open Source, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop OSS ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-05T10:01:05+00:00`, fetched `2026-08-05T10:04:45+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92898025/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-05T09:00:00+09:00`, fetched `2026-08-05T00:06:28+00:00`
@@ -111,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.8 - 45 km SSW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9k)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-05T09:55:22.447+00:00`, fetched `2026-08-05T10:04:45+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-08-05 09:17:07 UTC 2026-08-05 09:17:07 UTC at epicenter Location 5.051°N 125.254°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 64 km SW of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -139,23 +166,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社アイ・エス・ティが提供するNetKids iMarkには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Flowise: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2589)
+- **[UPDATE] [hoch] Apache Tomcat und Tomcat Native: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1038)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-05T09:06:08+00:00`, fetched `2026-08-05T09:08:53+00:00`
+  - Zeit: published `2026-08-05T10:01:06+00:00`, fetched `2026-08-05T10:04:45+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, erweiterte Privilegien zu erlangen, Sicherheitsmaßnahmen zu umgehen, Sitzungen zu kapern sowie Daten offenzulegen oder zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Prometheus: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1292)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-05T09:06:07+00:00`, fetched `2026-08-05T09:08:53+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Prometheus ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen, Open-Redirect-Angriffe durchzuführen und andere, nicht näher spezifizierte Angriffe auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Beyond market entry: Japan and Southeast Asia in a fracturing world** — Score 14, observation — [Quelle](https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -232,6 +250,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-05 02:46:55 UTC 2026-08-05 02:46:55 UTC at epicenter Location 50.497°N 156.568°E Depth 73.26 km (45.52 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sicherheitsupdates: TP-Links Netzwerk-Ökosystem Omada ist kompromittierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-TP-Links-Netzwerk-Oekosystem-Omada-ist-kompromittierbar-11399435.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-05T09:32:00.000+00:00`, fetched `2026-08-05T10:04:45+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Sicherheitsforscher entdecken unter anderem kritische Lücken in TP-Link Omada, die sich auf weitere Netzwerkkomponenten ausweiten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **シンガポール共和国とデジタル分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-05T06:58:44+00:00`, fetched `2026-08-05T07:16:51+00:00`
@@ -250,6 +277,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 地域幸福度（Well-Being）指標を活用したまちづくりのデザインを学ぶ体験ワークショップの開催について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Growth without work: The human cost of the AI revolution** — Score 5, observation — [Quelle](https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-05T10:00:00+00:00`, fetched `2026-08-05T10:04:45+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0)
+  - Kurz: An archival photo of a computer lab in the Herbert V. Manning Library on the campus of Claflin University
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **高度に進化したAI駆動開発は、農業と区別がつかなくなる｜深津 貴之 (fladdict)** — Score 5, observation — [Quelle](https://note.com/fladdict/n/nd10afb769a62)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T04:38:23+00:00`, fetched `2026-08-05T10:04:45+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: オープン社内報です。 このままAI駆動開発が進むと、ソフトウェア開発は工芸から農業へ近づいていくんじゃないかなと思っています。 従来の開発は、人間が一行づつこころを込めてコードを書いてました。 これが、生成AIでビューンといっきに作れるようになった。 で、これからどうなるのか…というと、「農業化」が起きる...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **東大、60代教授を懲戒処分 サイトのHTMLソースに“不適切な言葉” 「六四天安門」問題が理由と毎日報道** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/05/2000000392/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-05T04:31:40+00:00`, fetched `2026-08-05T07:16:51+00:00`
@@ -259,23 +304,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 東大によると、教授は所属する専攻のWebサイトに、2020年から21年ごろのいずれかの時点で書き込んだ。教授が率いる研究室のWebサイトにも、23年11月までのいずれかの時期に書き込んでいたという。 東大はこれらの行為を、教職員就業規則第38条第1項第5号が定める「大学法人の名誉又は信用を著しく傷つけた場合」に当たる...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **メモリ不足、って不足＝価格の高騰じゃなくて、不足＝本当に調達できなくなってきている、だからな。それよろしくて？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260805091101)
+- **メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2130325.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T00:11:49+00:00`, fetched `2026-08-05T03:13:14+00:00`
+  - Zeit: published `2026-08-05T04:19:12+00:00`, fetched `2026-08-05T10:04:45+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: マジで大手メーカーでもメモリをぶんどってくるのに苦労し始めている。 潤沢にメモリ積んだマシンとかが、価格高騰ではなくてそもそも手に入らなくなるようになるのも時間の問題かもな。 どうしてもいるもんだったら様子見してる場合じゃなくなってるぞ。
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-04T22:57:44+00:00`, fetched `2026-08-05T01:19:20+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 メモリ8GBで仕事なんて無理……そう思っていた時期が僕にもありました ～3週間、メモリ8GBで仕事した結果
+  - Kurz: メルカリ、梨の転売疑惑を否定「誹謗中傷はやめて」 生産者を現地確認
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

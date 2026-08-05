@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-05T09:09:24+00:00_
+_Generated: 2026-08-05T10:05:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `40`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-05T09:09:24+00:00_
 - url: https://e27.co/growth-at-gunpoint-why-vcs-share-the-blame-for-startup-fraud-20260804/
 - summary: Every founder who has ever sat across a term sheet knows the unspoken rule of fundraising: growth solves everything. Miss a target, and the story shifts to “path to profitability.” Miss it twice, and investors start asking harder questions. Miss it three time…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月04日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-08-05T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU92898025/
-- summary: 2026年08月04日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+### 3. [UPDATE] [kritisch] IBM Langflow Desktop OSS: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-08-05T09:56:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2410
+- summary: Ein Angreifer kann mehrere Schwachstellen in IBM Langflow Desktop OSS ausnutzen, um Administratorrechte zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen oder einen Denial-of-Service-Zustand zu v…
 
-### 4. M 4.8 - 64 km SW of Sarangani, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-05T04:48:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti7f
-- summary: Time 2026-08-05 04:34:11 UTC 2026-08-05 04:34:11 UTC at epicenter Location 5.040°N 125.005°E Depth 35.00 km (21.75 mi)
+### 4. [NEU] [mittel] Red Hat Enterprise Linux (sg3_utils): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-05T10:01:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2645
+- summary: Ein Angreifer mit physischem Zugriff kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
 
 ### 5. Announcing 20260069 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
