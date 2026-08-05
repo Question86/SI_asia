@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T22:03:24+00:00",
-  "run_id": "2026-08-05T22:03:24+00:00",
+  "generated_at": "2026-08-05T22:30:14+00:00",
+  "run_id": "2026-08-05T22:30:14+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 3,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
-    "medium": 25,
-    "observe": 44,
+    "medium": 26,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -717,6 +717,29 @@
         "id": "be3ba9eb8815de98e378"
       },
       {
+        "title": "Claude Code の「無駄」を可視化するツール cclens を作った",
+        "url": "https://zenn.dev/lambdalisue/articles/introduce-cclens",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T06:58:52+00:00",
+        "fetched_at": "2026-08-05T22:29:46+00:00",
+        "summary": "どうも、医者からアルコールを控えろと言われたのでノンアルビールを飲んでみたものの、あまり好みではなかった 16 歳（進数不明）、ありすえです。 突然ですが、皆さんは自分の Claude Code が どれくらい無駄なことをしているか 把握していますか？ 設定の効果検証は難しい AI って非決定的なツールですよね。なので、...",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3467e4d4bbea2ea28f81"
+      },
+      {
         "title": "Beyond market entry: Japan and Southeast Asia in a fracturing world",
         "url": "https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -874,6 +897,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3fbff834737c41c15b7d"
+      },
+      {
+        "title": "M 4.5 - 31 km NW of Covelo, CA",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412157",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-05T22:28:28.909+00:00",
+        "fetched_at": "2026-08-05T22:29:46+00:00",
+        "summary": "ShakeMap - V DYFI? - III Time 2026-08-05 22:21:57 UTC 2026-08-05 22:21:57 UTC at epicenter Location 40.019°N 123.452°W Depth 4.54 km (2.82 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e29c7929e75d4f272d42"
       },
       {
         "title": "Cloudflare OS",
@@ -1511,6 +1571,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0b75aad29a82b3ac8d0e"
+      },
+      {
+        "title": "『 x86-64アセンブリ入門の入門 』 | 暗黒通信団",
+        "url": "https://ankokudan.org/d/d.htm?detail292-detailread-j.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T15:29:20+00:00",
+        "fetched_at": "2026-08-05T22:29:46+00:00",
+        "summary": "x86-64アセンブリの入門書。C言語などの高級言語が普段隠しているCPUの本当の姿を、レジスタ・スタック・アドレッシングといった基礎から、条件分岐、関数呼び出し、インラインアセンブリ、SIMD命令まで、実際に手を動かしながら一歩ずつ学べる一冊。アセンブリに興味はあるが難しそうで手が出ていなかった方にもおすす...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "65ff1e299b30c689e324"
       },
       {
         "title": "Growth without work: The human cost of the AI revolution",
@@ -2474,6 +2555,29 @@
       "id": "be3ba9eb8815de98e378"
     },
     {
+      "title": "Claude Code の「無駄」を可視化するツール cclens を作った",
+      "url": "https://zenn.dev/lambdalisue/articles/introduce-cclens",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T06:58:52+00:00",
+      "fetched_at": "2026-08-05T22:29:46+00:00",
+      "summary": "どうも、医者からアルコールを控えろと言われたのでノンアルビールを飲んでみたものの、あまり好みではなかった 16 歳（進数不明）、ありすえです。 突然ですが、皆さんは自分の Claude Code が どれくらい無駄なことをしているか 把握していますか？ 設定の効果検証は難しい AI って非決定的なツールですよね。なので、...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3467e4d4bbea2ea28f81"
+    },
+    {
       "title": "Beyond market entry: Japan and Southeast Asia in a fracturing world",
       "url": "https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2629,6 +2733,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3fbff834737c41c15b7d"
+    },
+    {
+      "title": "M 4.5 - 31 km NW of Covelo, CA",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412157",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-05T22:28:28.909+00:00",
+      "fetched_at": "2026-08-05T22:29:46+00:00",
+      "summary": "ShakeMap - V DYFI? - III Time 2026-08-05 22:21:57 UTC 2026-08-05 22:21:57 UTC at epicenter Location 40.019°N 123.452°W Depth 4.54 km (2.82 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e29c7929e75d4f272d42"
     },
     {
       "title": "Cloudflare OS",
@@ -3268,6 +3409,27 @@
       "id": "0b75aad29a82b3ac8d0e"
     },
     {
+      "title": "『 x86-64アセンブリ入門の入門 』 | 暗黒通信団",
+      "url": "https://ankokudan.org/d/d.htm?detail292-detailread-j.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T15:29:20+00:00",
+      "fetched_at": "2026-08-05T22:29:46+00:00",
+      "summary": "x86-64アセンブリの入門書。C言語などの高級言語が普段隠しているCPUの本当の姿を、レジスタ・スタック・アドレッシングといった基礎から、条件分岐、関数呼び出し、インラインアセンブリ、SIMD命令まで、実際に手を動かしながら一歩ずつ学べる一冊。アセンブリに興味はあるが難しそうで手が出ていなかった方にもおすす...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "65ff1e299b30c689e324"
+    },
+    {
       "title": "Growth without work: The human cost of the AI revolution",
       "url": "https://restofworld.org/2026/ai-jobs-economy-impact/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3541,27 +3703,50 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.9 - 32 km SW of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5",
+      "title": "Claude Code の「無駄」を可視化するツール cclens を作った",
+      "url": "https://zenn.dev/lambdalisue/articles/introduce-cclens",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T06:58:52+00:00",
+      "fetched_at": "2026-08-05T22:29:46+00:00",
+      "summary": "どうも、医者からアルコールを控えろと言われたのでノンアルビールを飲んでみたものの、あまり好みではなかった 16 歳（進数不明）、ありすえです。 突然ですが、皆さんは自分の Claude Code が どれくらい無駄なことをしているか 把握していますか？ 設定の効果検証は難しい AI って非決定的なツールですよね。なので、...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3467e4d4bbea2ea28f81"
+    },
+    {
+      "title": "M 4.5 - 31 km NW of Covelo, CA",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412157",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-05T22:02:05.591+00:00",
-      "fetched_at": "2026-08-05T22:02:54+00:00",
-      "summary": "DYFI? - II Time 2026-08-05 21:41:28 UTC 2026-08-05 21:41:28 UTC at epicenter Location 5.176°N 125.281°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-05T22:28:28.909+00:00",
+      "fetched_at": "2026-08-05T22:29:46+00:00",
+      "summary": "ShakeMap - V DYFI? - III Time 2026-08-05 22:21:57 UTC 2026-08-05 22:21:57 UTC at epicenter Location 40.019°N 123.452°W Depth 4.54 km (2.82 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -3575,7 +3760,28 @@
         "HD",
         "LOW"
       ],
-      "id": "2394fc8c2f609aacbede"
+      "id": "e29c7929e75d4f272d42"
+    },
+    {
+      "title": "『 x86-64アセンブリ入門の入門 』 | 暗黒通信団",
+      "url": "https://ankokudan.org/d/d.htm?detail292-detailread-j.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T15:29:20+00:00",
+      "fetched_at": "2026-08-05T22:29:46+00:00",
+      "summary": "x86-64アセンブリの入門書。C言語などの高級言語が普段隠しているCPUの本当の姿を、レジスタ・スタック・アドレッシングといった基礎から、条件分岐、関数呼び出し、インラインアセンブリ、SIMD命令まで、実際に手を動かしながら一歩ずつ学べる一冊。アセンブリに興味はあるが難しそうで手が出ていなかった方にもおすす...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "65ff1e299b30c689e324"
     }
   ],
   "source_errors": [],

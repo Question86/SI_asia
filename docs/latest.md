@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T22:03:24+00:00_
+_Generiert: 2026-08-05T22:30:14+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+72 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社アイ・エス・ティが提供するNetKids iMarkには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Code の「無駄」を可視化するツール cclens を作った** — Score 14, observation — [Quelle](https://zenn.dev/lambdalisue/articles/introduce-cclens)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-05T06:58:52+00:00`, fetched `2026-08-05T22:29:46+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: どうも、医者からアルコールを控えろと言われたのでノンアルビールを飲んでみたものの、あまり好みではなかった 16 歳（進数不明）、ありすえです。 突然ですが、皆さんは自分の Claude Code が どれくらい無駄なことをしているか 把握していますか？ 設定の効果検証は難しい AI って非決定的なツールですよね。なので、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Beyond market entry: Japan and Southeast Asia in a fracturing world** — Score 14, observation — [Quelle](https://e27.co/beyond-market-entry-japan-and-southeast-asia-in-a-fracturing-world-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-05T02:30:23+00:00`, fetched `2026-08-05T03:13:14+00:00`
@@ -186,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
   - Kurz: The world’s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which ASEAN country attracted the most data centre investment last quarter. That framing […] The post ASEAN doesn’t need to win the AI race, it needs to run it toget…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 31 km NW of Covelo, CA** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75412157)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-05T22:28:28.909+00:00`, fetched `2026-08-05T22:29:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - V DYFI? - III Time 2026-08-05 22:21:57 UTC 2026-08-05 22:21:57 UTC at epicenter Location 40.019°N 123.452°W Depth 4.54 km (2.82 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cloudflare OS** — Score 11, opportunity — [Quelle](https://os.cloudflare.app/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-05T15:09:44+00:00`, fetched `2026-08-05T18:58:37+00:00`
@@ -239,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-05 19:46:26 UTC 2026-08-05 19:46:26 UTC at epicenter Location 6.523°S 143.844°E Depth 10.03 km (6.23 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 6.3 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-05T08:07:19.592+00:00`, fetched `2026-08-05T08:08:23+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-08-05 07:43:27 UTC 2026-08-05 07:43:27 UTC at epicenter Location 33.806°S 179.473°E Depth 226.08 km (140.48 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Vulnérabilité dans Traefik (27 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0936/)
   - Quelle: CERT-FR Avis de sécurité / `rss`

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:03:33+00:00",
+  "generated_at": "2026-08-05T22:30:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,6 +64,26 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556246",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.3 - south of the Kermadec Islands",
         "summary": "M6.3 - south of the Kermadec Islands. PAGER alert: green. Tsunami flag: 0.",
@@ -88,21 +108,61 @@
         "metrics": {
           "mag": 6.3,
           "alert": "green",
-          "sig": 648.0,
+          "sig": 649.0,
           "tsunami": 0
         }
       },
       {
         "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 30 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 30 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556391",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Volcanic eruption is on going for Fuego in Guatemala",
+        "summary": "Volcanic eruption is on going for Fuego in Guatemala",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556149",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001298",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.9 - 32 km SW of Sarangani, Philippines",
-        "summary": "M5.9 - 32 km SW of Sarangani, Philippines. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.9 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tif5",
         "published_at": "2026-08-05T21:41:28+00:00",
         "metrics": {
           "mag": 5.9,
-          "alert": "",
+          "alert": "green",
           "sig": 536.0,
           "tsunami": 0
         }
@@ -111,7 +171,6 @@
     "global_economy": []
   },
   "source_errors": [
-    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fec23697210>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
