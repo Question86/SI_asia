@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T18:59:06+00:00",
-  "run_id": "2026-08-05T18:59:06+00:00",
+  "generated_at": "2026-08-05T19:34:19+00:00",
+  "run_id": "2026-08-05T19:34:19+00:00",
   "date": "2026-08-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 0,
@@ -3303,31 +3303,7 @@
       "id": "80ef46993050e3d09968"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cloudflare OS",
-      "url": "https://os.cloudflare.app/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-05T15:09:44+00:00",
-      "fetched_at": "2026-08-05T18:58:37+00:00",
-      "summary": "Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Open Source"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5b481755c41cafd6ac08"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

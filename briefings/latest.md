@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T18:59:06+00:00_
+_Generiert: 2026-08-05T19:34:19+00:00_
 
 ## Kurzlage
 
@@ -29,14 +29,6 @@ _Generiert: 2026-08-05T18:59:06+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-03`
   - Kurz: Known exploited vulnerability. Added 2026-08-03. Due 2026-08-06. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556246)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).
 - **USGS earthquake M6.3 - south of the Kermadec Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
   - Quelle: USGS
   - Zeit: `2026-08-05T07:43:27+00:00`
@@ -45,22 +37,8 @@ _Generiert: 2026-08-05T18:59:06+00:00_
   - Quelle: USGS
   - Zeit: `2026-08-05T04:14:06+00:00`
   - Kurz: M6.3 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Volcanic eruption is on going for Fuego in Guatemala** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Fuego in Guatemala
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556149)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001298)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone KUJIRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1555671)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:52.806km) in New Zealand 02/08/2026 08:35 UTC, 30 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fb2aa61b810>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
