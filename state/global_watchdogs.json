@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T07:17:32+00:00",
+  "generated_at": "2026-08-05T08:08:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,6 +85,21 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.3 - south of the Kermadec Islands",
+        "summary": "M6.3 - south of the Kermadec Islands. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i",
+        "published_at": "2026-08-05T07:43:27+00:00",
+        "metrics": {
+          "mag": 6.3,
+          "alert": "",
+          "sig": 611.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "USGS earthquake M6.3 - 32 km SW of Sarangani, Philippines",
         "summary": "M6.3 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
@@ -93,7 +108,7 @@
         "metrics": {
           "mag": 6.3,
           "alert": "green",
-          "sig": 626.0,
+          "sig": 627.0,
           "tsunami": 0
         }
       },

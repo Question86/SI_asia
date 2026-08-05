@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-05T07:17:28+00:00_
+_Generiert: 2026-08-05T08:08:54+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „uber/ADR“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-08-05T07:17:28+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Peru
+- **USGS earthquake M6.3 - south of the Kermadec Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
+  - Quelle: USGS
+  - Zeit: `2026-08-05T07:43:27+00:00`
+  - Kurz: M6.3 - south of the Kermadec Islands. PAGER alert: none. Tsunami flag: 0.
 - **USGS earthquake M6.3 - 32 km SW of Sarangani, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x)
   - Quelle: USGS
   - Zeit: `2026-08-05T04:14:06+00:00`
@@ -175,6 +179,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: Grab Holdings wants investors to look at one number: US$235 million in profit for the second quarter of 2026, a dramatic jump from just US$20 million a year ago. Splashed across the press release, that figure is meant to signal a Southeast Asian super-app finally turning the corner into sustainable profitability. Peel back the accounting, […] The post Grab’s US$235M ‘profit’ headline hides a biz still burning cash w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 6.3 - south of the Kermadec Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-05T08:07:19.592+00:00`, fetched `2026-08-05T08:08:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-08-05 07:43:27 UTC 2026-08-05 07:43:27 UTC at epicenter Location 33.806°S 179.473°E Depth 226.08 km (140.48 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - Auckland Islands, New Zealand region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti85)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-05T07:09:20.040+00:00`, fetched `2026-08-05T07:16:51+00:00`
@@ -192,15 +205,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-05 02:46:55 UTC 2026-08-05 02:46:55 UTC at epicenter Location 50.497°N 156.568°E Depth 73.26 km (45.52 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 55 km WSW of Monywa, Burma (Myanmar)** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti5u)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-05T00:39:40.650+00:00`, fetched `2026-08-05T00:47:31+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-08-05 00:11:57 UTC 2026-08-05 00:11:57 UTC at epicenter Location 21.877°N 94.664°E Depth 102.28 km (63.55 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **シンガポール共和国とデジタル分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/eecd50a5-30ee-46df-8438-04d2acde5733)
   - Quelle: Japan Digital Agency News RSS / `rss`
