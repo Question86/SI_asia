@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-06T15:27:51+00:00_
+_Generated: 2026-08-06T22:19:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `54`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-06T15:27:51+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 5. Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen
+### 5. Kimi K3 is now available in GitHub Copilot
+- source: GitHub Changelog Atom
+- score: `13`
+- published: `2026-08-06T17:27:25+00:00`
+- url: https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot
+- summary: Editor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as… The post Kimi K3 is now available in GitHub Copilot appeared first on The GitHub Blog…
+
+### 6. Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen
 - source: heise Security Alerts
 - score: `12`
 - published: `2026-08-06T08:00:00.000+00:00`
 - url: https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html
 - summary: Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.
 
-### 6. MDV backs Funding Societies to reach more technology-driven Malaysian SMEs
+### 7. MDV backs Funding Societies to reach more technology-driven Malaysian SMEs
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-06T04:48:33+00:00`
 - url: https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/
 - summary: For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap…
 
-### 7. Southeast Asia can’t simply license its way to stablecoin sovereignty
+### 8. Southeast Asia can’t simply license its way to stablecoin sovereignty
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-06T04:00:08+00:00`
 - url: https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/
 - summary: There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar…
-
-### 8. The infrastructure choice that now decides how you scale
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-08-06T03:30:26+00:00`
-- url: https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/
-- summary: Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not sta…
 
 END OF DOCUMENT

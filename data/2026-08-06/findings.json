@@ -117,6 +117,29 @@
     "id": "510a321159d5563852cb"
   },
   {
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-06T19:49:34+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "AI/KI",
+      "Content-Chance",
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "edcf8d6164a45df6a732"
+  },
+  {
     "title": "M 4.6 - 5 km ENE of Matsubase, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tijg",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -197,6 +220,49 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "46610104cb5b4e8d835a"
+  },
+  {
+    "title": "How we took malware advisories beyond npm",
+    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-06T16:51:12+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub",
+      "Security",
+      "Watchgraph:software_supply_chain"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+7.5); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "software_supply_chain"
+    ],
+    "watchgraph_reasons": [
+      "software_supply_chain: npm"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM"
+    ],
+    "id": "3a0da898c095086557a2"
   },
   {
     "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
@@ -336,6 +402,29 @@
     "id": "21d3c7a1614370f133ed"
   },
   {
+    "title": "Kimi K3 is now available in GitHub Copilot",
+    "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-06T17:27:25+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "Editor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as… The post Kimi K3 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Actions",
+      "Copilot",
+      "GitHub",
+      "GitHub Actions"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "GitHub Actions (+5.0); GitHub (+2.5); Copilot (+2.5); Actions (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c304f6c45b16f2905a97"
+  },
+  {
     "title": "Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
     "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
     "source": "heise Security Alerts",
@@ -420,6 +509,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "64e4d63d1ca5b917d9ba"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:00:00+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8b64bec484894fd41961"
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-06T06:00:00+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bd40632e9abeb74b3351"
   },
   {
     "title": "The infrastructure choice that now decides how you scale",
@@ -685,6 +816,48 @@
     "id": "0fb68fc03cdf6bbbef7a"
   },
   {
+    "title": "メタのAIモデルも他社に侵入 社内システムを変更か",
+    "url": "https://www.cnn.co.jp/tech/35251344.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T13:08:26+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "メタのAIモデルがサイバーセキュリティーのテスト中に他社のシステムへ侵入した/Francis Mascarenhas/Reuters/File （CNN） フェイスブックとインスタグラムを運営するメタの人工知能（AI）モデルがサイバーセキュリティーのテスト中に他社のシステムへ侵入した。広報が5日に確認した。自社のAIエージェントが暴走した企...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f7d3eb0b1f54826ade00"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-06T10:00:00+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9ab717b01bead12c8c51"
+  },
+  {
     "title": "The localisation gap: Why multilingual AI isn’t enough for APAC markets",
     "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -929,6 +1102,48 @@
     "id": "93c5de8e6470b8c957d9"
   },
   {
+    "title": "「SNOW」と称するアプリケーションの利用サービスの提供事業者2社に対する景品表示法に基づく措置命令について | 消費者庁",
+    "url": "https://www.caa.go.jp/notice/entry/047140/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T09:28:19+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "2026年08月06日 消費者庁は、本日、「SNOW」と称するアプリケーションの利用サービスの提供事業者2社に対し、両社が供給する「SNOW」と称するアプリケーションの利用サービスに係る表示について、それぞれ、景品表示法に違反する行為(同法第5条第3号(ステルスマーケティング告示)に該当)が認められたことから、同法第7条...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "60842c0d9c3ba08e341c"
+  },
+  {
+    "title": "東京メトロ、銀座線・丸ノ内線を大増発 計212本",
+    "url": "https://www.watch.impress.co.jp/docs/news/2131246.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T08:41:46+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "東京メトロ、銀座線・丸ノ内線を大増発 計212本",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "da44770fc8257c33d6f7"
+  },
+  {
     "title": "リクルート、新卒エンジニア向け研修資料を無料公開 “AI時代の生き残り方”など紹介する13本",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000418/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -1053,6 +1268,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2ab3265c7f1ca6b1bb04"
+  },
+  {
+    "title": "リクルートのエンジニアコース新人研修の内容を公開します！（2026年度版） | リクルート テックブログ",
+    "url": "https://techblog.recruit.co.jp/article-7222/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:12:40+00:00",
+    "fetched_at": "2026-08-06T22:18:58+00:00",
+    "summary": "こんにちは！ 2026年度新卒エンジニアの山口です！ 株式会社リクルート/株式会社インディードリクルートテクノロジーズに配属される新卒エンジニアは、部署配属が行われる前に約4ヶ月間のBootCampと呼ばれる新卒研修に参加します。 今回は2026年度の研修の内容と、実際に受講した立場から講座の中身や自身の学びを紹介い...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "60c5dff6b43ca6273008"
   },
   {
     "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
