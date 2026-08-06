@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T05:28:22+00:00_
+_Generiert: 2026-08-06T06:20:30+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was clear: digitise what used to be manual. But a new report by Sunrate […] The post The end of manual finance? AI agents are coming for start…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **GenZero backs PCG Global’s push to export China-tested renewable energy model** — Score 15, observation — [Quelle](https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-06T05:49:08+00:00`, fetched `2026-08-06T06:19:58+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: For all the attention paid to Southeast Asia’s digital economy, one of the region’s harder problems is far more physical: how to build enough clean power, quickly enough, for economies that are still growing, urbanising and industrialising. PCG Global, a Singapore-based clean energy infrastructure platform, is trying to answer that question with a model it […] The post GenZero backs PCG Global’s push to export China…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asia cannot build sovereign AI on borrowed choices** — Score 15, observation — [Quelle](https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-06T01:15:56+00:00`, fetched `2026-08-06T02:00:18+00:00`
@@ -29,15 +38,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where will our data go? Who can access it? Will our prompts be retained? Can […] The post Why Southeast Asia cannot build sovereign AI on borrowed choices appeared fir…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What AI safety researchers actually worry about** — Score 14, observation — [Quelle](https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-06T01:30:18+00:00`, fetched `2026-08-06T02:00:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: You have probably read plenty of headlines about AI taking jobs, passing the bar exam, or some CEO promising AGI by next year. What gets less coverage is a narrower, stranger problem researchers inside the major labs are actively studying. In published, controlled experiments, particular models from Anthropic and OpenAI have produced different behaviour depending […] The post What AI safety researchers actually worr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和7年（2025年）政策評価・行政事業レビューにおける政策評価の結果及び政策への反映状況を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2025)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-06T06:00:00+00:00`, fetched `2026-08-06T06:19:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和7年（2025年）政策評価・行政事業レビューにおける政策評価の結果及び政策への反映状況を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
