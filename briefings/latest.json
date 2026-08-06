@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-06T02:00:48+00:00",
-  "run_id": "2026-08-06T02:00:48+00:00",
+  "generated_at": "2026-08-06T03:11:33+00:00",
+  "run_id": "2026-08-06T03:11:33+00:00",
   "date": "2026-08-06",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 3,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 3,
-    "observe": 7,
-    "source_errors": 0
+    "observe": 10,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -182,6 +182,28 @@
         "id": "6056ea9259efc3befd5a"
       },
       {
+        "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-06T02:06:08+00:00",
+        "fetched_at": "2026-08-06T03:10:55+00:00",
+        "summary": "日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "966c6117f38b8e7d6f38"
+      },
+      {
         "title": "AI will not cut costs or grow revenue until you redesign how work gets done",
         "url": "https://e27.co/ai-will-not-cut-costs-or-grow-revenue-until-you-redesign-how-work-gets-done-20260805/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -289,6 +311,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ab3265c7f1ca6b1bb04"
+      },
+      {
+        "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
+        "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T03:07:13+00:00",
+        "fetched_at": "2026-08-06T03:10:55+00:00",
+        "summary": "Global financial markets closed mixed heading into August 6, 2026, as a historic blue-chip rally collided with a cooldown in technology stocks. The Dow Jones Industrial Average surged 0.49 per cent to 54,349.92 and marked a third straight record close on solid corporate earnings. The tech-heavy Nasdaq Composite slipped 0.83 per cent to 26,359.67 as […] The post Bitcoin’s 73% correlation with gold forces investors to…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "57989ed1cc0d903897d4"
+      },
+      {
+        "title": "「ループバックIPアドレスって1677万7216個もあんねん」なぜローカルホストはクラスA 127/8 全体なんだろう？ - in between days",
+        "url": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-02T11:05:29+00:00",
+        "fetched_at": "2026-08-06T03:10:55+00:00",
+        "summary": "ある技術系の記事を見ていたら 127.0.0.53 というIPアドレスが出てきた。 127.0.0.1ならよく見る。これはループバックアドレスというやつであり、そのホスト自身、つまりlocalhostに割り当てられるIPアドレスだ。この最後のオクテットが53になるバリエーションについては寡聞にして知らなかったのだが、Ubuntu系のLinux...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c734f2f097f69e6f2693"
       }
     ]
   },
@@ -444,6 +507,28 @@
       "id": "6056ea9259efc3befd5a"
     },
     {
+      "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-06T02:06:08+00:00",
+      "fetched_at": "2026-08-06T03:10:55+00:00",
+      "summary": "日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "966c6117f38b8e7d6f38"
+    },
+    {
       "title": "AI will not cut costs or grow revenue until you redesign how work gets done",
       "url": "https://e27.co/ai-will-not-cut-costs-or-grow-revenue-until-you-redesign-how-work-gets-done-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -551,99 +636,122 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2ab3265c7f1ca6b1bb04"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "Why Southeast Asia cannot build sovereign AI on borrowed choices",
-      "url": "https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/",
+      "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
+      "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-06T01:15:56+00:00",
-      "fetched_at": "2026-08-06T02:00:18+00:00",
-      "summary": "Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where will our data go? Who can access it? Will our prompts be retained? Can […] The post Why Southeast Asia cannot build sovereign AI on borrowed choices appeared fir…",
+      "published_at": "2026-08-06T03:07:13+00:00",
+      "fetched_at": "2026-08-06T03:10:55+00:00",
+      "summary": "Global financial markets closed mixed heading into August 6, 2026, as a historic blue-chip rally collided with a cooldown in technology stocks. The Dow Jones Industrial Average surged 0.49 per cent to 54,349.92 and marked a third straight record close on solid corporate earnings. The tech-heavy Nasdaq Composite slipped 0.83 per cent to 26,359.67 as […] The post Bitcoin’s 73% correlation with gold forces investors to…",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "46610104cb5b4e8d835a"
+      "id": "57989ed1cc0d903897d4"
     },
     {
-      "title": "What AI safety researchers actually worry about",
-      "url": "https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T01:30:18+00:00",
-      "fetched_at": "2026-08-06T02:00:18+00:00",
-      "summary": "You have probably read plenty of headlines about AI taking jobs, passing the bar exam, or some CEO promising AGI by next year. What gets less coverage is a narrower, stranger problem researchers inside the major labs are actively studying. In published, controlled experiments, particular models from Anthropic and OpenAI have produced different behaviour depending […] The post What AI safety researchers actually worr…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "OpenAI"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "21d3c7a1614370f133ed"
-    },
-    {
-      "title": "You’re waiting for everyone to agree: The hourglass doesn’t care",
-      "url": "https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T01:30:43+00:00",
-      "fetched_at": "2026-08-06T02:00:18+00:00",
-      "summary": "From a Palo Alto boardroom to one in Pangyo, the executives who built a company’s stability are always the last to accept the leap into growth. Kodak and Fujifilm show what happens next, and the data says most founders don’t survive that transition either. A Tuesday morning. A Series C board meeting, could be Palo […] The post You’re waiting for everyone to agree: The hourglass doesn’t care appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Public Health"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a576b046d6ba9c4cce34"
-    },
-    {
-      "title": "社内Slackのtimesで「お気持ち」を書くな｜Chujo",
-      "url": "https://note.com/chujo/n/n8b7c8aee1619",
+      "title": "「ループバックIPアドレスって1677万7216個もあんねん」なぜローカルホストはクラスA 127/8 全体なんだろう？ - in between days",
+      "url": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-06T00:05:26+00:00",
-      "fetched_at": "2026-08-06T02:00:18+00:00",
-      "summary": "timesに流れてくる「あれ」「はぁ……」 「なんでこうなるかなあ」 「もういいや、こっちが我慢すれば済む話なんで」 社内Slackのtimes（分報チャンネル）を眺めていると、定期的にこの種の投稿が流れてくる。主語がない。宛先がない。事実の共有でもなければ、相談でもない。あるのは感情の放流と、「察してほしい」とい...",
+      "published_at": "2026-08-02T11:05:29+00:00",
+      "fetched_at": "2026-08-06T03:10:55+00:00",
+      "summary": "ある技術系の記事を見ていたら 127.0.0.53 というIPアドレスが出てきた。 127.0.0.1ならよく見る。これはループバックアドレスというやつであり、そのホスト自身、つまりlocalhostに割り当てられるIPアドレスだ。この最後のオクテットが53になるバリエーションについては寡聞にして知らなかったのだが、Ubuntu系のLinux...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2ab3265c7f1ca6b1bb04"
+      "id": "c734f2f097f69e6f2693"
     }
   ],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-06T02:06:08+00:00",
+      "fetched_at": "2026-08-06T03:10:55+00:00",
+      "summary": "日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "966c6117f38b8e7d6f38"
+    },
+    {
+      "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
+      "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T03:07:13+00:00",
+      "fetched_at": "2026-08-06T03:10:55+00:00",
+      "summary": "Global financial markets closed mixed heading into August 6, 2026, as a historic blue-chip rally collided with a cooldown in technology stocks. The Dow Jones Industrial Average surged 0.49 per cent to 54,349.92 and marked a third straight record close on solid corporate earnings. The tech-heavy Nasdaq Composite slipped 0.83 per cent to 26,359.67 as […] The post Bitcoin’s 73% correlation with gold forces investors to…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "57989ed1cc0d903897d4"
+    },
+    {
+      "title": "「ループバックIPアドレスって1677万7216個もあんねん」なぜローカルホストはクラスA 127/8 全体なんだろう？ - in between days",
+      "url": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-02T11:05:29+00:00",
+      "fetched_at": "2026-08-06T03:10:55+00:00",
+      "summary": "ある技術系の記事を見ていたら 127.0.0.53 というIPアドレスが出てきた。 127.0.0.1ならよく見る。これはループバックアドレスというやつであり、そのホスト自身、つまりlocalhostに割り当てられるIPアドレスだ。この最後のオクテットが53になるバリエーションについては寡聞にして知らなかったのだが、Ubuntu系のLinux...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c734f2f097f69e6f2693"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
