@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-06T11:04:01Z_
+_Generated: 2026-08-06T11:54:03Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Cisco IOS: Schwachstelle ermöglicht Denial of Service” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### [NEU] [hoch] Cisco IOS: Schwachstelle ermöglicht Denial of Service
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-08-06T11:46:07+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2664
 
 ### [NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-06T09:46:05+00:00` / age_days `0.05`
+- Published: `2026-08-06T09:46:05+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-06T08:52:31+00:00` / age_days `0.09`
+- Published: `2026-08-06T08:52:31+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-08-06T10:00:00+00:00` / age_days `0.04`
+- Published: `2026-08-06T10:00:00+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: protest, high terms: rce, security high-signal: rce
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwa
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-06T01:00:42+00:00` / age_days `0.42`
+- Published: `2026-08-06T01:00:42+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: chain, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-06T08:52:30+00:00` / age_days `0.09`
+- Published: `2026-08-06T08:52:30+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-06T08:00:00.000+00:00` / age_days `0.13`
+- Published: `2026-08-06T08:00:00.000+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,60 +82,50 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-06T04:00:08+00:00` / age_days `0.29`
+- Published: `2026-08-06T04:00:08+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/
 
+### [NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-06T11:46:08+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668
+
 ### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `48.38`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `48.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 48.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
+### M 4.6 - 5 km ENE of Matsubase, Japan
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-08-06T11:22:19.809+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tijg
+
 ### Bitcoin’s 73% correlation with gold forces investors to rethink crypto
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-06T03:07:13+00:00` / age_days `0.33`
+- Published: `2026-08-06T03:07:13+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 9.9, security high-signal: rce, 9.9
 - Quelle: https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/
-
-### M 4.8 - 62 km NNE of Shi Yomi, India
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-08-06T00:39:00.602+00:00` / age_days `0.43`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl
-
-### M 4.6 - 40 km WNW of Houma, Tonga
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-08-06T07:01:43.040+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie
-
-### What AI safety researchers actually worry about
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.0`
-- Published: `2026-08-06T01:30:18+00:00` / age_days `0.4`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: actively, active, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/
 
 END OF DOCUMENT
