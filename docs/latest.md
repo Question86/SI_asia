@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T04:21:20+00:00_
+_Generiert: 2026-08-06T05:28:22+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **MDV backs Funding Societies to reach more technology-driven Malaysian SMEs** — Score 12, observation — [Quelle](https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-06T04:48:33+00:00`, fetched `2026-08-06T05:27:53+00:00`
+  - Treffer: APAC Trend Radar, funding, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap is the problem Funding Societies is trying to address through a new working […] The post MDV backs Funding Societies to reach more technology-driven Malaysian…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia can’t simply license its way to stablecoin sovereignty** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-06T04:00:08+00:00`, fetched `2026-08-06T04:20:46+00:00`
@@ -59,15 +68,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
   - Kurz: Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not stay that way. By the time the decision […] The post The infrastructure choice that now decides how you scale appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **You’re waiting for everyone to agree: The hourglass doesn’t care** — Score 11, observation — [Quelle](https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-06T01:30:43+00:00`, fetched `2026-08-06T02:00:18+00:00`
-  - Treffer: APAC Trend Radar, founder, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
-  - Kurz: From a Palo Alto boardroom to one in Pangyo, the executives who built a company’s stability are always the last to accept the leap into growth. Kodak and Fujifilm show what happens next, and the data says most founders don’t survive that transition either. A Tuesday morning. A Series C board meeting, could be Palo […] The post You’re waiting for everyone to agree: The hourglass doesn’t care appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 62 km NNE of Shi Yomi, India** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

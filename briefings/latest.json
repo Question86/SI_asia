@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T04:21:20+00:00",
-  "run_id": "2026-08-06T04:21:20+00:00",
+  "generated_at": "2026-08-06T05:28:22+00:00",
+  "run_id": "2026-08-06T05:28:22+00:00",
   "date": "2026-08-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 3,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -123,6 +123,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "MDV backs Funding Societies to reach more technology-driven Malaysian SMEs",
+        "url": "https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T04:48:33+00:00",
+        "fetched_at": "2026-08-06T05:27:53+00:00",
+        "summary": "For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap is the problem Funding Societies is trying to address through a new working […] The post MDV backs Funding Societies to reach more technology-driven Malaysian…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "6511814abfa02630b3ca"
+      },
       {
         "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
         "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
@@ -557,6 +600,49 @@
       "id": "21d3c7a1614370f133ed"
     },
     {
+      "title": "MDV backs Funding Societies to reach more technology-driven Malaysian SMEs",
+      "url": "https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T04:48:33+00:00",
+      "fetched_at": "2026-08-06T05:27:53+00:00",
+      "summary": "For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap is the problem Funding Societies is trying to address through a new working […] The post MDV backs Funding Societies to reach more technology-driven Malaysian…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "6511814abfa02630b3ca"
+    },
+    {
       "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
       "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -897,112 +983,47 @@
   ],
   "new_findings": [
     {
-      "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
-      "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
+      "title": "MDV backs Funding Societies to reach more technology-driven Malaysian SMEs",
+      "url": "https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-06T04:00:08+00:00",
-      "fetched_at": "2026-08-06T04:20:46+00:00",
-      "summary": "There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar coins, every euro, yen, ringgit and Singapore dollar experiment combined, […] The post Southeast Asia can’t simply license its way to stablecoin sovereignty app…",
+      "published_at": "2026-08-06T04:48:33+00:00",
+      "fetched_at": "2026-08-06T05:27:53+00:00",
+      "summary": "For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap is the problem Funding Societies is trying to address through a new working […] The post MDV backs Funding Societies to reach more technology-driven Malaysian…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Open Source",
-        "Southeast Asia"
+        "funding",
+        "Watchgraph:capitals_power_centers"
       ],
       "relevance_score": 12,
-      "relevance_reason": "Open Source (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "64e4d63d1ca5b917d9ba"
-    },
-    {
-      "title": "The infrastructure choice that now decides how you scale",
-      "url": "https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T03:30:26+00:00",
-      "fetched_at": "2026-08-06T04:20:46+00:00",
-      "summary": "Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not stay that way. By the time the decision […] The post The infrastructure choice that now decides how you scale appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder"
+      "watchgraph_modules": [
+        "capitals_power_centers"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34386641b822130ab7f9"
-    },
-    {
-      "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
-      "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T04:15:32+00:00",
-      "fetched_at": "2026-08-06T04:20:46+00:00",
-      "summary": "For years, artificial intelligence in games has mostly meant enemies that chase, dodge or shoot with varying degrees of believability. Razer and the National University of Singapore now want to push that idea into more demanding territory: AI systems that understand context, adapt in real time and eventually behave less like scripted software and more […] The post Razer and NUS launch Singapore AI lab to rethink how…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c09cb1bdbb11e8a68f72"
-    },
-    {
-      "title": "中国製ルーター20機種にバックドア、外部から完全制御のおそれ",
-      "url": "https://japan.cnet.com/article/35251353/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-06T02:24:27+00:00",
-      "fetched_at": "2026-08-06T04:20:46+00:00",
-      "summary": "中国企業Zbtlink製のルーターがバックドアを組み込んだ状態で出荷されていることが、サイバーセキュリティ企業VulnCheckの新たな報告で明らかになった。 VulnCheckはZbtlink製の20機種を調査し、各機種のファームウェアで、中国にあるクラウドサーバーと自動的に通信する不正プログラムを発見した。VulnCheckの最高技術...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7763524e638d9d965060"
-    },
-    {
-      "title": "The localisation gap: Why multilingual AI isn’t enough for APAC markets",
-      "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T03:45:51+00:00",
-      "fetched_at": "2026-08-06T04:20:46+00:00",
-      "summary": "The conversation around AI voice has changed dramatically over the past year. Not long ago, businesses wanted to know whether AI could hold a natural conversation. Today, that question has largely been answered. Modern voice agents can qualify leads, schedule appointments, resolve customer enquiries, and handle a growing range of routine interactions with remarkable fluency. […] The post The localisation gap: Why mu…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "867aa1bc4eb2e270e1ee"
+      "id": "6511814abfa02630b3ca"
     }
   ],
   "source_errors": [],
