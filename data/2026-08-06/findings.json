@@ -114,6 +114,29 @@
     "id": "46610104cb5b4e8d835a"
   },
   {
+    "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-06T09:46:05+00:00",
+    "fetched_at": "2026-08-06T10:05:22+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in SonicWall SonicOS ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b9293bf25838993a892e"
+  },
+  {
     "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2658",
     "source": "BSI CERT-Bund Security Advisories",
@@ -576,6 +599,54 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "48f4fc18a632a8a04d1c"
+  },
+  {
+    "title": "The offline messaging apps challenging internet shutdowns",
+    "url": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-06T10:00:00+00:00",
+    "fetched_at": "2026-08-06T10:05:22+00:00",
+    "summary": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in Kolkata, India. (Photo by Avijit Ghosh/NurPhoto via Getty Images)",
+    "matched_keywords": [
+      "Macro/Policy",
+      "Watchgraph:elections_unrest"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules elections_unrest (+3.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "elections_unrest"
+    ],
+    "watchgraph_reasons": [
+      "elections_unrest: protest"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "META",
+      "GOOGL",
+      "MSFT",
+      "RDDT",
+      "SNAP",
+      "PINS",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "93c5de8e6470b8c957d9"
   },
   {
     "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",

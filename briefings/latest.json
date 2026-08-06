@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T09:08:58+00:00",
-  "run_id": "2026-08-06T09:08:58+00:00",
+  "generated_at": "2026-08-06T10:05:51+00:00",
+  "run_id": "2026-08-06T10:05:51+00:00",
   "date": "2026-08-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 2,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
-    "medium": 7,
-    "observe": 22,
+    "medium": 8,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -142,6 +142,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "46610104cb5b4e8d835a"
+      },
+      {
+        "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-06T09:46:05+00:00",
+        "fetched_at": "2026-08-06T10:05:22+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in SonicWall SonicOS ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b9293bf25838993a892e"
       },
       {
         "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
@@ -610,6 +633,54 @@
         "id": "48f4fc18a632a8a04d1c"
       },
       {
+        "title": "The offline messaging apps challenging internet shutdowns",
+        "url": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T10:00:00+00:00",
+        "fetched_at": "2026-08-06T10:05:22+00:00",
+        "summary": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in Kolkata, India. (Photo by Avijit Ghosh/NurPhoto via Getty Images)",
+        "matched_keywords": [
+          "Macro/Policy",
+          "Watchgraph:elections_unrest"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules elections_unrest (+3.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "elections_unrest"
+        ],
+        "watchgraph_reasons": [
+          "elections_unrest: protest"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "93c5de8e6470b8c957d9"
+      },
+      {
         "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
         "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -850,6 +921,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "46610104cb5b4e8d835a"
+    },
+    {
+      "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-06T09:46:05+00:00",
+      "fetched_at": "2026-08-06T10:05:22+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in SonicWall SonicOS ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b9293bf25838993a892e"
     },
     {
       "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
@@ -1316,6 +1410,54 @@
       "id": "48f4fc18a632a8a04d1c"
     },
     {
+      "title": "The offline messaging apps challenging internet shutdowns",
+      "url": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "fetched_at": "2026-08-06T10:05:22+00:00",
+      "summary": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in Kolkata, India. (Photo by Avijit Ghosh/NurPhoto via Getty Images)",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:elections_unrest"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules elections_unrest (+3.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: protest"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "93c5de8e6470b8c957d9"
+    },
+    {
       "title": "Gmail、他社メアドを送信元にできる機能を廃止へ",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1443,35 +1585,13 @@
   ],
   "new_findings": [
     {
-      "title": "Singapore firms embrace agentic AI, but audit trails remain thin",
-      "url": "https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T08:41:19+00:00",
-      "fetched_at": "2026-08-06T09:08:29+00:00",
-      "summary": "Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still cannot answer a basic question: what exactly did the AI decide, and can they prove it? According to the Sumsub […] The post Singapore firms embrace agentic AI, but a…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d9edf3e7ee6acc8b316b"
-    },
-    {
-      "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2658",
+      "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-06T08:52:31+00:00",
-      "fetched_at": "2026-08-06T09:08:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um seine Privilegien zu erhöhen, und um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-08-06T09:46:05+00:00",
+      "fetched_at": "2026-08-06T10:05:22+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in SonicWall SonicOS ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1485,30 +1605,55 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "22666ee3ea3c1600a6de"
+      "id": "b9293bf25838993a892e"
     },
     {
-      "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "The offline messaging apps challenging internet shutdowns",
+      "url": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-06T08:52:30+00:00",
-      "fetched_at": "2026-08-06T09:08:29+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "fetched_at": "2026-08-06T10:05:22+00:00",
+      "summary": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in Kolkata, India. (Photo by Avijit Ghosh/NurPhoto via Getty Images)",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Macro/Policy",
+        "Watchgraph:elections_unrest"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8f0b2cf329730a4db930"
+      "relevance_score": 5,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules elections_unrest (+3.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "watchgraph_reasons": [
+        "elections_unrest: protest"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "93c5de8e6470b8c957d9"
     }
   ],
   "source_errors": [],
