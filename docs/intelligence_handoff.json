@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-06T08:03:23Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are coming for startup payments” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-06T09:12:00Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,35 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2658",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-06T08:52:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um seine Privilegien zu erhöhen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "The end of manual finance? AI agents are coming for startup payments",
       "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:00:42+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -41,11 +65,63 @@
       "summary": "For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was clear: digitise what used to be manual…"
     },
     {
+      "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-06T08:52:30+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-06T08:00:00.000+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen."
+    },
+    {
       "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
       "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T04:00:08+00:00",
-      "age_days": 0.17,
+      "age_days": 0.22,
       "topics": [
         "macro"
       ],
@@ -71,7 +147,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 48.25,
+      "age_days": 48.3,
       "topics": [
         "ai"
       ],
@@ -100,7 +176,7 @@
       "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T03:07:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -126,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-06T00:39:00.602+00:00",
-      "age_days": 0.31,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -151,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-06T07:01:43.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -175,7 +251,7 @@
       "url": "https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:30:18+00:00",
-      "age_days": 0.27,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -201,7 +277,7 @@
       "url": "https://japan.cnet.com/article/35251353/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T02:24:27+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -221,106 +297,28 @@
       "summary": "中国企業Zbtlink製のルーターがバックドアを組み込んだ状態で出荷されていることが、サイバーセキュリティ企業VulnCheckの新たな報告で明らかになった。 VulnCheckはZbtlink製の20機種を調査し、各機種のファームウェアで、中国にあるクラウドサーバーと自動的に通信する不正プログラムを発見した。VulnCheckの最高技術..."
     },
     {
-      "title": "You’re waiting for everyone to agree: The hourglass doesn’t care",
-      "url": "https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-06T01:30:43+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: palo, alto",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "From a Palo Alto boardroom to one in Pangyo, the executives who built a company’s stability are always the last to accept the leap into growth. Kodak and Fujifilm show what happens next, and the data says most founders don’t survive that transition either. A Tuesday morning. A Series C board meeting, could be Palo […]…"
-    },
-    {
-      "title": "GenZero backs PCG Global’s push to export China-tested renewable energy model",
-      "url": "https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-06T05:49:08+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For all the attention paid to Southeast Asia’s digital economy, one of the region’s harder problems is far more physical: how to build enough clean power, quickly enough, for economies that are still growing, urbanising and industrialising. PCG Global, a Singapore-based clean energy infrastructure platform, is trying…"
-    },
-    {
-      "title": "Why Southeast Asia cannot build sovereign AI on borrowed choices",
-      "url": "https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-06T01:15:56+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where will our data go? Who can access it? Will our prompts be reta…"
-    },
-    {
-      "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+      "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-06T02:06:08+00:00",
-      "age_days": 0.25,
+      "published_at": "2026-08-06T05:02:56+00:00",
+      "age_days": 0.17,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 7.0,
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: 10"
       ],
-      "summary": "日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す..."
+      "summary": "気泡緩衝材「プチプチ」の製造販売を手がける川上産業は8月4日、10月1日付で社名を「プチプチ株式会社」（英名：Putiputi Co., Ltd）に変更すると発表した。 商品名として親しまれてきた「プチプチ」を社名に掲げ、製品と企業の価値を一体化する。創業58年で初の社名変更という。"
     }
   ],
   "read_order": [
@@ -332,9 +330,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 7,
       "watch": 2,
-      "quiet": 6
+      "quiet": 3
     }
   }
 }
