@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-06T07:19:37+00:00_
+_Generated: 2026-08-06T08:08:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `26`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-06T07:19:37+00:00_
 - url: https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/
 - summary: You have probably read plenty of headlines about AI taking jobs, passing the bar exam, or some CEO promising AGI by next year. What gets less coverage is a narrower, stranger problem researchers inside the major labs are actively studying. In published, contr…
 
-### 5. MDV backs Funding Societies to reach more technology-driven Malaysian SMEs
+### 5. Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen
+- source: heise Security Alerts
+- score: `12`
+- published: `2026-08-06T08:00:00.000+00:00`
+- url: https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html
+- summary: Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.
+
+### 6. MDV backs Funding Societies to reach more technology-driven Malaysian SMEs
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-06T04:48:33+00:00`
 - url: https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/
 - summary: For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap…
 
-### 6. Southeast Asia can’t simply license its way to stablecoin sovereignty
+### 7. Southeast Asia can’t simply license its way to stablecoin sovereignty
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-06T04:00:08+00:00`
 - url: https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/
 - summary: There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar…
 
-### 7. The infrastructure choice that now decides how you scale
+### 8. The infrastructure choice that now decides how you scale
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-06T03:30:26+00:00`
 - url: https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/
 - summary: Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not sta…
-
-### 8. You’re waiting for everyone to agree: The hourglass doesn’t care
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-08-06T01:30:43+00:00`
-- url: https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/
-- summary: From a Palo Alto boardroom to one in Pangyo, the executives who built a company’s stability are always the last to accept the leap into growth. Kodak and Fujifilm show what happens next, and the data says most founders don’t survive that transition either. A…
 
 END OF DOCUMENT

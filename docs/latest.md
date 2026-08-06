@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T07:19:37+00:00_
+_Generiert: 2026-08-06T08:08:22+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen** — Score 12, observation — [Quelle](https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-06T08:00:00.000+00:00`, fetched `2026-08-06T08:07:53+00:00`
+  - Treffer: Automatisierung, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); recent (+1.0)
+  - Kurz: Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MDV backs Funding Societies to reach more technology-driven Malaysian SMEs** — Score 12, observation — [Quelle](https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-06T04:48:33+00:00`, fetched `2026-08-06T05:27:53+00:00`

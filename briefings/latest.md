@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T07:19:37+00:00_
+_Generiert: 2026-08-06T08:08:22+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,6 @@ _Generiert: 2026-08-06T07:19:37+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, Few people affected (in MMI&gt;=VII).
-- **USGS earthquake M6.3 - south of the Kermadec Islands** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i)
-  - Quelle: USGS
-  - Zeit: `2026-08-05T07:43:27+00:00`
-  - Kurz: M6.3 - south of the Kermadec Islands. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556391)
   - Quelle: GDACS
   - Zeit: ``
@@ -103,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen** — Score 12, observation — [Quelle](https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-06T08:00:00.000+00:00`, fetched `2026-08-06T08:07:53+00:00`
+  - Treffer: Automatisierung, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Automatisierung (+5.0); recent (+1.0)
+  - Kurz: Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MDV backs Funding Societies to reach more technology-driven Malaysian SMEs** — Score 12, observation — [Quelle](https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-06T04:48:33+00:00`, fetched `2026-08-06T05:27:53+00:00`

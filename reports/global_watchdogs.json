@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:19:40+00:00",
+  "generated_at": "2026-08-06T08:08:26+00:00",
   "sections": {
     "global_security": [
       {
@@ -81,21 +81,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.3 - south of the Kermadec Islands",
-        "summary": "M6.3 - south of the Kermadec Islands. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti8i",
-        "published_at": "2026-08-05T07:43:27+00:00",
-        "metrics": {
-          "mag": 6.3,
-          "alert": "green",
-          "sig": 615.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",
