@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T12:29:26+00:00_
+_Generiert: 2026-08-06T13:07:24+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+37 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Veeam One und Service Provider Console für Schadcode-Attacken anfällig** — Score 7, observation — [Quelle](https://www.heise.de/news/Veam-One-und-Service-Provider-Console-fuer-Schadcode-Attacken-anfaellig-11400855.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-06T12:33:00.000+00:00`, fetched `2026-08-06T13:06:54+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Backupmanagementlösungen Veeam One und Service Provider Console sind für verschiedene Attacken empfänglich. Sicherheitsupdates schaffen Abhilfe.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和7年（2025年）政策評価・行政事業レビューにおける政策評価の結果及び政策への反映状況を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2025)
   - Quelle: Japan Digital Agency News RSS / `rss`

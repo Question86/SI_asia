@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T12:29:26+00:00",
-  "run_id": "2026-08-06T12:29:26+00:00",
+  "generated_at": "2026-08-06T13:07:24+00:00",
+  "run_id": "2026-08-06T13:07:24+00:00",
   "date": "2026-08-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 13,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -720,6 +720,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1ab4d497cf0417de8d18"
+      },
+      {
+        "title": "Veeam One und Service Provider Console für Schadcode-Attacken anfällig",
+        "url": "https://www.heise.de/news/Veam-One-und-Service-Provider-Console-fuer-Schadcode-Attacken-anfaellig-11400855.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-06T12:33:00.000+00:00",
+        "fetched_at": "2026-08-06T13:06:54+00:00",
+        "summary": "Die Backupmanagementlösungen Veeam One und Service Provider Console sind für verschiedene Attacken empfänglich. Sicherheitsupdates schaffen Abhilfe.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b73f66d84a6c075b0df8"
       },
       {
         "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
@@ -1630,6 +1650,26 @@
       "id": "1ab4d497cf0417de8d18"
     },
     {
+      "title": "Veeam One und Service Provider Console für Schadcode-Attacken anfällig",
+      "url": "https://www.heise.de/news/Veam-One-und-Service-Provider-Console-fuer-Schadcode-Attacken-anfaellig-11400855.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-06T12:33:00.000+00:00",
+      "fetched_at": "2026-08-06T13:06:54+00:00",
+      "summary": "Die Backupmanagementlösungen Veeam One und Service Provider Console sind für verschiedene Attacken empfänglich. Sicherheitsupdates schaffen Abhilfe.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b73f66d84a6c075b0df8"
+    },
+    {
       "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
       "url": "https://gihyo.jp/article/2026/08/anydoc",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1847,51 +1887,24 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Veeam One und Service Provider Console für Schadcode-Attacken anfällig",
+      "url": "https://www.heise.de/news/Veam-One-und-Service-Provider-Console-fuer-Schadcode-Attacken-anfaellig-11400855.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-08-06T11:56:09+00:00",
-      "fetched_at": "2026-08-06T12:28:58+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-08-06T12:33:00.000+00:00",
+      "fetched_at": "2026-08-06T13:06:54+00:00",
+      "summary": "Die Backupmanagementlösungen Veeam One und Service Provider Console sind für verschiedene Attacken empfänglich. Sicherheitsupdates schaffen Abhilfe.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "352555e11a0e5c66afba"
-    },
-    {
-      "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2085",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-06T11:56:09+00:00",
-      "fetched_at": "2026-08-06T12:28:58+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in WSO2 API Manager ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "797087c6aa06afa424bf"
+      "id": "b73f66d84a6c075b0df8"
     }
   ],
   "source_errors": [],
