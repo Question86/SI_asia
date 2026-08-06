@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-06T00:03:49+00:00",
-  "run_id": "2026-08-06T00:03:49+00:00",
+  "generated_at": "2026-08-06T00:45:32+00:00",
+  "run_id": "2026-08-06T00:45:32+00:00",
   "date": "2026-08-06",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,76 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 3,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 1,
-    "source_errors": 1
+    "observe": 4,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-06T00:39:00.602+00:00",
+        "fetched_at": "2026-08-06T00:45:00+00:00",
+        "summary": "DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6056ea9259efc3befd5a"
+      },
+      {
+        "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
+        "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T14:06:42+00:00",
+        "fetched_at": "2026-08-06T00:45:00+00:00",
+        "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1581b6fe8ef74057e223"
+      },
       {
         "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み 英研究機関のテストで判明",
         "url": "https://www.cnn.co.jp/tech/35251323.html",
@@ -51,11 +109,91 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1ab4d497cf0417de8d18"
+      },
+      {
+        "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
+        "url": "https://gihyo.jp/article/2026/08/anydoc",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T11:57:12+00:00",
+        "fetched_at": "2026-08-06T00:45:00+00:00",
+        "summary": "AI向けWebデータAPIを提供するFirecrawlは2026年8月5日、WordやPowerPoint、Excel、PDFなどの文書をMarkdownへ変換するRust製ライブラリ「anydoc」をオープンソースで公開した。ローカル環境で動作し、CLIのほかRust、Node.js、Pythonから利用できる。ライセンスはMIT。 firecrawl/anydoc - GitHub anydocは、Word、Powe...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d6e6fc5f8d3d3700be1"
       }
     ]
   },
   "findings": [
     {
+      "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-06T00:39:00.602+00:00",
+      "fetched_at": "2026-08-06T00:45:00+00:00",
+      "summary": "DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6056ea9259efc3befd5a"
+    },
+    {
+      "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
+      "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T14:06:42+00:00",
+      "fetched_at": "2026-08-06T00:45:00+00:00",
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1581b6fe8ef74057e223"
+    },
+    {
       "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み 英研究機関のテストで判明",
       "url": "https://www.cnn.co.jp/tech/35251323.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -76,17 +214,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1ab4d497cf0417de8d18"
+    },
+    {
+      "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/08/anydoc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T11:57:12+00:00",
+      "fetched_at": "2026-08-06T00:45:00+00:00",
+      "summary": "AI向けWebデータAPIを提供するFirecrawlは2026年8月5日、WordやPowerPoint、Excel、PDFなどの文書をMarkdownへ変換するRust製ライブラリ「anydoc」をオープンソースで公開した。ローカル環境で動作し、CLIのほかRust、Node.js、Pythonから利用できる。ライセンスはMIT。 firecrawl/anydoc - GitHub anydocは、Word、Powe...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d6e6fc5f8d3d3700be1"
     }
   ],
   "new_findings": [
     {
-      "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み 英研究機関のテストで判明",
-      "url": "https://www.cnn.co.jp/tech/35251323.html",
+      "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-06T00:39:00.602+00:00",
+      "fetched_at": "2026-08-06T00:45:00+00:00",
+      "summary": "DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6056ea9259efc3befd5a"
+    },
+    {
+      "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
+      "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-05T08:17:10+00:00",
-      "fetched_at": "2026-08-06T00:03:13+00:00",
-      "summary": "アンソロピックの最も高度な人工知能（AI）モデルが、テスト中に偽の身分を使って実在の人物を欺き、悪意あるコードを埋め込もうとしたことがわかった/Nicolas Tucat/AFP/Getty Images （CNN） アンソロピックの最も高度な人工知能（AI）モデルが、英国のAIセキュリティー研究機関AISIが実施したテスト中に、偽の身分を...",
+      "published_at": "2026-08-05T14:06:42+00:00",
+      "fetched_at": "2026-08-06T00:45:00+00:00",
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
       "matched_keywords": [
         "AI/KI",
         "Hatena",
@@ -99,17 +295,32 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1ab4d497cf0417de8d18"
-    }
-  ],
-  "source_errors": [
+      "id": "1581b6fe8ef74057e223"
+    },
     {
-      "source_id": "japan_digital_agency_news",
-      "source_name": "Japan Digital Agency News RSS",
+      "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/08/anydoc",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
+      "published_at": "2026-08-05T11:57:12+00:00",
+      "fetched_at": "2026-08-06T00:45:00+00:00",
+      "summary": "AI向けWebデータAPIを提供するFirecrawlは2026年8月5日、WordやPowerPoint、Excel、PDFなどの文書をMarkdownへ変換するRust製ライブラリ「anydoc」をオープンソースで公開した。ローカル環境で動作し、CLIのほかRust、Node.js、Pythonから利用できる。ライセンスはMIT。 firecrawl/anydoc - GitHub anydocは、Word、Powe...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d6e6fc5f8d3d3700be1"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

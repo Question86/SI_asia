@@ -1,5 +1,63 @@
 [
   {
+    "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:39:00.602+00:00",
+    "fetched_at": "2026-08-06T00:45:00+00:00",
+    "summary": "DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6056ea9259efc3befd5a"
+  },
+  {
+    "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
+    "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T14:06:42+00:00",
+    "fetched_at": "2026-08-06T00:45:00+00:00",
+    "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1581b6fe8ef74057e223"
+  },
+  {
     "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み 英研究機関のテストで判明",
     "url": "https://www.cnn.co.jp/tech/35251323.html",
     "source": "Hatena Bookmark Hotentry IT",
@@ -20,5 +78,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1ab4d497cf0417de8d18"
+  },
+  {
+    "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
+    "url": "https://gihyo.jp/article/2026/08/anydoc",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T11:57:12+00:00",
+    "fetched_at": "2026-08-06T00:45:00+00:00",
+    "summary": "AI向けWebデータAPIを提供するFirecrawlは2026年8月5日、WordやPowerPoint、Excel、PDFなどの文書をMarkdownへ変換するRust製ライブラリ「anydoc」をオープンソースで公開した。ローカル環境で動作し、CLIのほかRust、Node.js、Pythonから利用できる。ライセンスはMIT。 firecrawl/anydoc - GitHub anydocは、Word、Powe...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d6e6fc5f8d3d3700be1"
   }
 ]
