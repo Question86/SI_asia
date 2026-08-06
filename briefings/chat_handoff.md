@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-06T08:08:22+00:00_
+_Generated: 2026-08-06T09:08:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `29`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-06T08:08:22+00:00_
 - url: https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/
 - summary: For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. Th…
 
-### 2. GenZero backs PCG Global’s push to export China-tested renewable energy model
+### 2. Singapore firms embrace agentic AI, but audit trails remain thin
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-08-06T08:41:19+00:00`
+- url: https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/
+- summary: Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still canno…
+
+### 3. GenZero backs PCG Global’s push to export China-tested renewable energy model
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-08-06T05:49:08+00:00`
 - url: https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/
 - summary: For all the attention paid to Southeast Asia’s digital economy, one of the region’s harder problems is far more physical: how to build enough clean power, quickly enough, for economies that are still growing, urbanising and industrialising. PCG Global, a Sing…
 
-### 3. Why Southeast Asia cannot build sovereign AI on borrowed choices
+### 4. Why Southeast Asia cannot build sovereign AI on borrowed choices
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-08-06T01:15:56+00:00`
 - url: https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/
 - summary: Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where w…
-
-### 4. What AI safety researchers actually worry about
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-08-06T01:30:18+00:00`
-- url: https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/
-- summary: You have probably read plenty of headlines about AI taking jobs, passing the bar exam, or some CEO promising AGI by next year. What gets less coverage is a narrower, stranger problem researchers inside the major labs are actively studying. In published, contr…
 
 ### 5. Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen
 - source: heise Security Alerts

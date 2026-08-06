@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T08:08:22+00:00_
+_Generiert: 2026-08-06T09:08:58+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+29 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was clear: digitise what used to be manual. But a new report by Sunrate […] The post The end of manual finance? AI agents are coming for start…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Singapore firms embrace agentic AI, but audit trails remain thin** — Score 17, observation — [Quelle](https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-06T08:41:19+00:00`, fetched `2026-08-06T09:08:29+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still cannot answer a basic question: what exactly did the AI decide, and can they prove it? According to the Sumsub […] The post Singapore firms embrace agentic AI, but a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GenZero backs PCG Global’s push to export China-tested renewable energy model** — Score 15, observation — [Quelle](https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-06T05:49:08+00:00`, fetched `2026-08-06T06:19:58+00:00`
@@ -87,14 +96,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: For all the attention paid to Southeast Asia’s digital economy, one of the region’s harder problems is far more physical: how to build enough clean power, quickly enough, for economies that are still growing, urbanising and industrialising. PCG Global, a Singapore-based clean energy infrastructure platform, is trying to answer that question with a model it […] The post GenZero backs PCG Global’s push to export China…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Southeast Asia cannot build sovereign AI on borrowed choices** — Score 15, observation — [Quelle](https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-06T01:15:56+00:00`, fetched `2026-08-06T02:00:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
+- **[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2658)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-06T08:52:31+00:00`, fetched `2026-08-06T09:08:29+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where will our data go? Who can access it? Will our prompts be retained? Can […] The post Why Southeast Asia cannot build sovereign AI on borrowed choices appeared fir…
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um seine Privilegien zu erhöhen, und um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-06T08:52:30+00:00`, fetched `2026-08-06T09:08:29+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
