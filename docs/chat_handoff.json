@@ -100,5 +100,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “The end of manual finance? AI agents are coming for startup payments” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "The end of manual finance? AI agents are coming for startup payments",
+        "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-06T01:00:42+00:00",
+        "age_days": 0.63,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 48.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: chain",
+          "high terms: rce",
+          "security high-signal: rce",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was clear: digitise what used to be manual…"
+      },
+      {
+        "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2085",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-06T11:56:09+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in WSO2 API Manager ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff…"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-06T08:52:30+00:00",
+        "age_days": 0.3,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen."
+      },
+      {
+        "title": "Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
+        "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-06T08:00:00.000+00:00",
+        "age_days": 0.33,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen."
+      },
+      {
+        "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
+        "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-06T04:00:08+00:00",
+        "age_days": 0.5,
+        "topics": [
+          "macro"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar coins, every euro, yen, ringgit and Singapore dollar experim…"
+      }
+    ]
+  }
 }
