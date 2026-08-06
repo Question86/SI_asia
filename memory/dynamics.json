@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-06T02:36:38Z",
+  "generated_at": "2026-08-06T03:50:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 17,
     "bands": {
       "extreme": 1,
-      "strong": 1,
-      "watch": 1,
-      "quiet": 11
-    },
-    "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 11
+      "quiet": 13
+    },
+    "bands_after_gate_recheck": {
+      "strong": 3,
+      "watch": 1,
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:00:42+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -53,7 +53,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 48.03,
+      "age_days": 48.08,
       "topics": [
         "ai"
       ],
@@ -72,17 +72,43 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 48.0d old signal",
+        "aging penalty -8.0 for 48.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
+      "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-06T03:07:13+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, 9.9",
+        "security high-signal: rce, 9.9"
+      ],
+      "summary": "Global financial markets closed mixed heading into August 6, 2026, as a historic blue-chip rally collided with a cooldown in technology stocks. The Dow Jones Industrial Average surged 0.49 per cent to 54,349.92 and marked a third straight record close on solid corporate earnings. The tech-heavy Nasdaq Composite slippe…"
     },
     {
       "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-06T00:39:00.602+00:00",
-      "age_days": 0.08,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -107,7 +133,7 @@
       "url": "https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:30:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -133,7 +159,7 @@
       "url": "https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:30:43+00:00",
-      "age_days": 0.05,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -159,7 +185,7 @@
       "url": "https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:15:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -180,11 +206,61 @@
       "summary": "Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where will our data go? Who can access it? Will our prompts be reta…"
     },
     {
+      "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-06T02:06:08+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す..."
+    },
+    {
+      "title": "「ループバックIPアドレスって1677万7216個もあんねん」なぜローカルホストはクラスA 127/8 全体なんだろう？ - in between days",
+      "url": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-02T11:05:29+00:00",
+      "age_days": 3.7,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local"
+      ],
+      "summary": "ある技術系の記事を見ていたら 127.0.0.53 というIPアドレスが出てきた。 127.0.0.1ならよく見る。これはループバックアドレスというやつであり、そのホスト自身、つまりlocalhostに割り当てられるIPアドレスだ。この最後のオクテットが53になるバリエーションについては寡聞にして知らなかったのだが、Ubuntu系のLinux..."
+    },
+    {
       "title": "社内Slackのtimesで「お気持ち」を書くな｜Chujo",
       "url": "https://note.com/chujo/n/n8b7c8aee1619",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T00:05:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -208,7 +284,7 @@
       "url": "https://e27.co/ai-will-not-cut-costs-or-grow-revenue-until-you-redesign-how-work-gets-done-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:00:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -233,7 +309,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 46.99,
+      "age_days": 47.04,
       "topics": [
         "general"
       ],
@@ -258,7 +334,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 46.99,
+      "age_days": 47.04,
       "topics": [
         "general"
       ],
@@ -283,7 +359,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 46.99,
+      "age_days": 47.04,
       "topics": [
         "ai"
       ],
@@ -310,7 +386,7 @@
       "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T14:06:42+00:00",
-      "age_days": 0.52,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -335,7 +411,7 @@
       "url": "https://www.cnn.co.jp/tech/35251323.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T08:17:10+00:00",
-      "age_days": 0.76,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -360,7 +436,7 @@
       "url": "https://gihyo.jp/article/2026/08/anydoc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T11:57:12+00:00",
-      "age_days": 0.61,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
