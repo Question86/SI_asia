@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-06T11:54:03Z",
+  "generated_at": "2026-08-06T12:34:09Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -26,6 +26,11 @@
       "title": "The end of manual finance? AI agents are coming for startup payments",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
+      "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
       "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
@@ -54,11 +59,6 @@
     },
     {
       "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
