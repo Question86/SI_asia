@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T14:38:09+00:00_
+_Generiert: 2026-08-06T15:27:51+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
+44 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 ## Priorität Hoch
 
