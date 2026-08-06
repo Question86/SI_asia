@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-06T06:08:34Z_
+_Generated: 2026-08-06T07:09:18Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-06T01:00:42+00:00` / age_days `0.21`
+- Published: `2026-08-06T01:00:42+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: chain, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-06T04:00:08+00:00` / age_days `0.09`
+- Published: `2026-08-06T04:00:08+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `48.17`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `48.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 48.2d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-06T03:07:13+00:00` / age_days `0.13`
+- Published: `2026-08-06T03:07:13+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 9.9, security high-signal: rce, 9.9
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-06T00:39:00.602+00:00` / age_days `0.23`
+- Published: `2026-08-06T00:39:00.602+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-08-06T01:30:18+00:00` / age_days `0.19`
+- Published: `2026-08-06T01:30:18+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: actively, active, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-06T02:24:27+00:00` / age_days `0.16`
+- Published: `2026-08-06T02:24:27+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-08-06T01:30:43+00:00` / age_days `0.19`
+- Published: `2026-08-06T01:30:43+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: palo, alto, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/
 
+### GenZero backs PCG Global’s push to export China-tested renewable energy model
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `7.0`
+- Published: `2026-08-06T05:49:08+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/
+
 ### Why Southeast Asia cannot build sovereign AI on borrowed choices
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-06T01:15:56+00:00` / age_days `0.2`
+- Published: `2026-08-06T01:15:56+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-06T02:06:08+00:00` / age_days `0.17`
+- Published: `2026-08-06T02:06:08+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “The end of manual finance? AI agents are
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-02T11:05:29+00:00` / age_days `3.79`
+- Published: `2026-08-02T11:05:29+00:00` / age_days `3.84`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: local
 - Quelle: https://mohritaroh.hateblo.jp/entry/2026/08/02/170000
-
-### 社内Slackのtimesで「お気持ち」を書くな｜Chujo
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-08-06T00:05:26+00:00` / age_days `0.25`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://note.com/chujo/n/n8b7c8aee1619
 
 END OF DOCUMENT
