@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:07:33+00:00",
+  "generated_at": "2026-08-06T13:48:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -66,7 +66,7 @@
     "global_economy": []
   },
   "source_errors": [
-    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fccba4e69d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
+    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f4db4b91390>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
