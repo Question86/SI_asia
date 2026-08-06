@@ -613,6 +613,42 @@
     "id": "f40b7381a3b1e1d91a37"
   },
   {
+    "title": "M 5.1 - 110 km W of Buala, Solomon Islands",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tik6",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-06T14:01:20.040+00:00",
+    "fetched_at": "2026-08-06T14:37:38+00:00",
+    "summary": "Time 2026-08-06 13:42:11 UTC 2026-08-06 13:42:11 UTC at epicenter Location 8.003°S 158.600°E Depth 54.35 km (33.77 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "bb518a77d62916bc325a"
+  },
+  {
     "title": "M 4.6 - 40 km WNW of Houma, Tonga",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -954,6 +990,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c75faac3098e095e4364"
+  },
+  {
+    "title": "DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた",
+    "url": "https://zenn.dev/ait/articles/google-design-md-measured",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T03:07:40+00:00",
+    "fetched_at": "2026-08-06T14:37:38+00:00",
+    "summary": "デザイナー向けに、値の話を抜いた解説も置いています → Wiki 効くところと効かないところ 効く 色や書体の指示がブレなくなる。セッションが変わっても、担当者が変わっても同じ値が出る WCAG のコントラスト比を機械でチェックできる Tailwind の設定や CSS 変数として書き出せる 値が決まっていない段階でも書き始め...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "52d955e407c2e9e012cf"
   },
   {
     "title": "社内Slackのtimesで「お気持ち」を書くな｜Chujo",
