@@ -1,30 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-06T09:12:00Z",
+  "generated_at": "2026-08-06T10:09:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 33,
+    "dynamics": 35,
     "bands": {
       "extreme": 1,
       "krass": 3,
-      "strong": 3,
+      "strong": 5,
       "watch": 2,
       "quiet": 24
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 9,
       "watch": 2,
       "quiet": 24
     }
   },
   "top_dynamics": [
     {
+      "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-06T09:46:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in SonicWall SonicOS ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2658",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-06T08:52:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -44,11 +68,37 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in X.Org X11 ausnutzen, um seine Privilegien zu erhöhen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "The offline messaging apps challenging internet shutdowns",
+      "url": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: protest",
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "Demonstrators take part in a protest rally organised by the Cockroach Janta Party and various Left student organisations against the NEET paper leak, demanding the resignation of Education Minister Dharmendra Pradhan in Kolkata, India. (Photo by Avijit Ghosh/NurPhoto via Getty Images)"
+    },
+    {
       "title": "The end of manual finance? AI agents are coming for startup payments",
       "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:00:42+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -78,7 +128,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-06T08:52:30+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -104,7 +154,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-06T08:00:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -130,7 +180,7 @@
       "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T04:00:08+00:00",
-      "age_days": 0.22,
+      "age_days": 0.26,
       "topics": [
         "macro"
       ],
@@ -156,7 +206,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 48.3,
+      "age_days": 48.34,
       "topics": [
         "ai"
       ],
@@ -185,7 +235,7 @@
       "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T03:07:13+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -211,7 +261,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-06T00:39:00.602+00:00",
-      "age_days": 0.36,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -236,7 +286,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-06T07:01:43.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -260,7 +310,7 @@
       "url": "https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:30:18+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -286,7 +336,7 @@
       "url": "https://japan.cnet.com/article/35251353/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T02:24:27+00:00",
-      "age_days": 0.28,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -310,7 +360,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T05:02:56+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -334,7 +384,7 @@
       "url": "https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T08:41:19+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -359,7 +409,7 @@
       "url": "https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:30:43+00:00",
-      "age_days": 0.32,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -385,7 +435,7 @@
       "url": "https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T05:49:08+00:00",
-      "age_days": 0.14,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -410,7 +460,7 @@
       "url": "https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:15:56+00:00",
-      "age_days": 0.33,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -435,7 +485,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T02:06:08+00:00",
-      "age_days": 0.3,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -461,7 +511,7 @@
       "url": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-02T11:05:29+00:00",
-      "age_days": 3.92,
+      "age_days": 3.96,
       "topics": [
         "general"
       ],
@@ -485,7 +535,7 @@
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2025",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-06T06:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -509,7 +559,7 @@
       "url": "https://note.com/chujo/n/n8b7c8aee1619",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T00:05:26+00:00",
-      "age_days": 0.38,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -533,7 +583,7 @@
       "url": "https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T04:48:33+00:00",
-      "age_days": 0.18,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -558,7 +608,7 @@
       "url": "https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T03:30:26+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -583,7 +633,7 @@
       "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T03:45:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -610,7 +660,7 @@
       "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T04:15:32+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -635,7 +685,7 @@
       "url": "https://e27.co/ai-will-not-cut-costs-or-grow-revenue-until-you-redesign-how-work-gets-done-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-06T01:00:53+00:00",
-      "age_days": 0.34,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -660,7 +710,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2131033.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T03:29:23+00:00",
-      "age_days": 0.24,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -686,7 +736,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 47.27,
+      "age_days": 47.31,
       "topics": [
         "general"
       ],
@@ -711,7 +761,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 47.27,
+      "age_days": 47.31,
       "topics": [
         "general"
       ],
@@ -736,7 +786,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 47.27,
+      "age_days": 47.31,
       "topics": [
         "ai"
       ],
@@ -763,7 +813,7 @@
       "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T14:06:42+00:00",
-      "age_days": 0.8,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -788,7 +838,7 @@
       "url": "https://www.cnn.co.jp/tech/35251323.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T08:17:10+00:00",
-      "age_days": 1.04,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -813,7 +863,7 @@
       "url": "https://gihyo.jp/article/2026/08/anydoc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T11:57:12+00:00",
-      "age_days": 0.89,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -838,7 +888,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000421/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T05:25:36+00:00",
-      "age_days": 0.16,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -859,5 +909,5 @@
       "summary": "米Googleは、Web版のGmailで他社メールアドレスを差出人に設定できる機能を2027年1月に終了すると発表した。Web版・モバイル版ともに対象。「維持に過剰なリソースを必要とする機能」だったため。 Web版Gmailでは、POPによる他アカウントメール取得も終了する他、スパム対策や受信トレイの整理などの機能をサードパーテ..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
