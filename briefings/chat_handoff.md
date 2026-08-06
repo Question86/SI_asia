@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-06T11:00:18+00:00_
+_Generated: 2026-08-06T11:49:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `34`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-06T11:00:18+00:00_
 - url: https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/
 - summary: Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still canno…
 
-### 3. GenZero backs PCG Global’s push to export China-tested renewable energy model
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-08-06T05:49:08+00:00`
-- url: https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/
-- summary: For all the attention paid to Southeast Asia’s digital economy, one of the region’s harder problems is far more physical: how to build enough clean power, quickly enough, for economies that are still growing, urbanising and industrialising. PCG Global, a Sing…
+### 3. [NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-06T11:46:08+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 4. Why Southeast Asia cannot build sovereign AI on borrowed choices
-- source: e27 Asia Startup and Tech Feed
+### 4. M 4.6 - 5 km ENE of Matsubase, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-06T01:15:56+00:00`
-- url: https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/
-- summary: Over the past year, I have noticed a subtle change in the way companies discuss artificial intelligence. The first question used to be: Which tool works best? Now, increasingly, it is followed by several less exciting but more consequential questions. Where w…
+- published: `2026-08-06T11:22:19.809+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tijg
+- summary: DYFI? - IV Time 2026-08-06 10:49:24 UTC 2026-08-06 10:49:24 UTC at epicenter Location 32.661°N 130.723°E Depth 10.00 km (6.21 mi)
 
 ### 5. Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen
 - source: heise Security Alerts
