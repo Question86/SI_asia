@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-06T11:49:06+00:00",
+  "generated_at": "2026-08-06T12:29:26+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-08-06T01:00:42+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-06T11:56:09+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334"
       },
       {
         "title": "Singapore firms embrace agentic AI, but audit trails remain thin",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-06T04:15:32+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/"
-      },
-      {
-        "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T02:06:08+00:00",
-        "relevance_score": 10,
-        "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/"
       }
     ],
     "github": [
@@ -137,11 +137,25 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-06T11:56:09+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334"
+      },
+      {
         "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-06T11:46:08+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668"
+      },
+      {
+        "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-06T11:56:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2085"
       },
       {
         "title": "[NEU] [hoch] Cisco IOS: Schwachstelle ermöglicht Denial of Service",

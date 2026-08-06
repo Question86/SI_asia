@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-06T11:49:06+00:00_
+_Generated: 2026-08-06T12:29:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `36`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-06T11:49:06+00:00_
 - url: https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/
 - summary: For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. Th…
 
-### 2. Singapore firms embrace agentic AI, but audit trails remain thin
+### 2. [UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-08-06T11:56:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Denial-of-Service-Zustand auszulösen.
+
+### 3. Singapore firms embrace agentic AI, but audit trails remain thin
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-08-06T08:41:19+00:00`
 - url: https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/
 - summary: Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still canno…
 
-### 3. [NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service
+### 4. [NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-06T11:46:08+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. M 4.6 - 5 km ENE of Matsubase, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-06T11:22:19.809+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tijg
-- summary: DYFI? - IV Time 2026-08-06 10:49:24 UTC 2026-08-06 10:49:24 UTC at epicenter Location 32.661°N 130.723°E Depth 10.00 km (6.21 mi)
 
 ### 5. Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen
 - source: heise Security Alerts
