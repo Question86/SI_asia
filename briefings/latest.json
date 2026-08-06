@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-06T03:11:33+00:00",
-  "run_id": "2026-08-06T03:11:33+00:00",
+  "generated_at": "2026-08-06T04:21:20+00:00",
+  "run_id": "2026-08-06T04:21:20+00:00",
   "date": "2026-08-06",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 5,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 3,
-    "observe": 10,
-    "source_errors": 1
+    "observe": 15,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -124,6 +124,50 @@
     ],
     "observe": [
       {
+        "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
+        "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T04:00:08+00:00",
+        "fetched_at": "2026-08-06T04:20:46+00:00",
+        "summary": "There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar coins, every euro, yen, ringgit and Singapore dollar experiment combined, […] The post Southeast Asia can’t simply license its way to stablecoin sovereignty app…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Open Source",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Open Source (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "64e4d63d1ca5b917d9ba"
+      },
+      {
+        "title": "The infrastructure choice that now decides how you scale",
+        "url": "https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T03:30:26+00:00",
+        "fetched_at": "2026-08-06T04:20:46+00:00",
+        "summary": "Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not stay that way. By the time the decision […] The post The infrastructure choice that now decides how you scale appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34386641b822130ab7f9"
+      },
+      {
         "title": "You’re waiting for everyone to agree: The hourglass doesn’t care",
         "url": "https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -182,6 +226,49 @@
         "id": "6056ea9259efc3befd5a"
       },
       {
+        "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
+        "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T04:15:32+00:00",
+        "fetched_at": "2026-08-06T04:20:46+00:00",
+        "summary": "For years, artificial intelligence in games has mostly meant enemies that chase, dodge or shoot with varying degrees of believability. Razer and the National University of Singapore now want to push that idea into more demanding territory: AI systems that understand context, adapt in real time and eventually behave less like scripted software and more […] The post Razer and NUS launch Singapore AI lab to rethink how…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c09cb1bdbb11e8a68f72"
+      },
+      {
+        "title": "中国製ルーター20機種にバックドア、外部から完全制御のおそれ",
+        "url": "https://japan.cnet.com/article/35251353/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-06T02:24:27+00:00",
+        "fetched_at": "2026-08-06T04:20:46+00:00",
+        "summary": "中国企業Zbtlink製のルーターがバックドアを組み込んだ状態で出荷されていることが、サイバーセキュリティ企業VulnCheckの新たな報告で明らかになった。 VulnCheckはZbtlink製の20機種を調査し、各機種のファームウェアで、中国にあるクラウドサーバーと自動的に通信する不正プログラムを発見した。VulnCheckの最高技術...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7763524e638d9d965060"
+      },
+      {
         "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -224,6 +311,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2939bcc7218e21374393"
+      },
+      {
+        "title": "The localisation gap: Why multilingual AI isn’t enough for APAC markets",
+        "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-06T03:45:51+00:00",
+        "fetched_at": "2026-08-06T04:20:46+00:00",
+        "summary": "The conversation around AI voice has changed dramatically over the past year. Not long ago, businesses wanted to know whether AI could hold a natural conversation. Today, that question has largely been answered. Modern voice agents can qualify leads, schedule appointments, resolve customer enquiries, and handle a growing range of routine interactions with remarkable fluency. […] The post The localisation gap: Why mu…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "867aa1bc4eb2e270e1ee"
       },
       {
         "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
@@ -449,6 +557,50 @@
       "id": "21d3c7a1614370f133ed"
     },
     {
+      "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
+      "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T04:00:08+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar coins, every euro, yen, ringgit and Singapore dollar experiment combined, […] The post Southeast Asia can’t simply license its way to stablecoin sovereignty app…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Open Source",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Open Source (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "64e4d63d1ca5b917d9ba"
+    },
+    {
+      "title": "The infrastructure choice that now decides how you scale",
+      "url": "https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T03:30:26+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not stay that way. By the time the decision […] The post The infrastructure choice that now decides how you scale appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34386641b822130ab7f9"
+    },
+    {
       "title": "You’re waiting for everyone to agree: The hourglass doesn’t care",
       "url": "https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -507,6 +659,49 @@
       "id": "6056ea9259efc3befd5a"
     },
     {
+      "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
+      "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T04:15:32+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "For years, artificial intelligence in games has mostly meant enemies that chase, dodge or shoot with varying degrees of believability. Razer and the National University of Singapore now want to push that idea into more demanding territory: AI systems that understand context, adapt in real time and eventually behave less like scripted software and more […] The post Razer and NUS launch Singapore AI lab to rethink how…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c09cb1bdbb11e8a68f72"
+    },
+    {
+      "title": "中国製ルーター20機種にバックドア、外部から完全制御のおそれ",
+      "url": "https://japan.cnet.com/article/35251353/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-06T02:24:27+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "中国企業Zbtlink製のルーターがバックドアを組み込んだ状態で出荷されていることが、サイバーセキュリティ企業VulnCheckの新たな報告で明らかになった。 VulnCheckはZbtlink製の20機種を調査し、各機種のファームウェアで、中国にあるクラウドサーバーと自動的に通信する不正プログラムを発見した。VulnCheckの最高技術...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7763524e638d9d965060"
+    },
+    {
       "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -549,6 +744,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2939bcc7218e21374393"
+    },
+    {
+      "title": "The localisation gap: Why multilingual AI isn’t enough for APAC markets",
+      "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T03:45:51+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "The conversation around AI voice has changed dramatically over the past year. Not long ago, businesses wanted to know whether AI could hold a natural conversation. Today, that question has largely been answered. Modern voice agents can qualify leads, schedule appointments, resolve customer enquiries, and handle a growing range of routine interactions with remarkable fluency. […] The post The localisation gap: Why mu…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "867aa1bc4eb2e270e1ee"
     },
     {
       "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
@@ -681,77 +897,115 @@
   ],
   "new_findings": [
     {
-      "title": "秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
+      "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-06T02:06:08+00:00",
-      "fetched_at": "2026-08-06T03:10:55+00:00",
-      "summary": "日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す...",
+      "published_at": "2026-08-06T04:00:08+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar coins, every euro, yen, ringgit and Singapore dollar experiment combined, […] The post Southeast Asia can’t simply license its way to stablecoin sovereignty app…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Open Source",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Open Source (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "64e4d63d1ca5b917d9ba"
+    },
+    {
+      "title": "The infrastructure choice that now decides how you scale",
+      "url": "https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T03:30:26+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not stay that way. By the time the decision […] The post The infrastructure choice that now decides how you scale appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34386641b822130ab7f9"
+    },
+    {
+      "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
+      "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-06T04:15:32+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "For years, artificial intelligence in games has mostly meant enemies that chase, dodge or shoot with varying degrees of believability. Razer and the National University of Singapore now want to push that idea into more demanding territory: AI systems that understand context, adapt in real time and eventually behave less like scripted software and more […] The post Razer and NUS launch Singapore AI lab to rethink how…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c09cb1bdbb11e8a68f72"
+    },
+    {
+      "title": "中国製ルーター20機種にバックドア、外部から完全制御のおそれ",
+      "url": "https://japan.cnet.com/article/35251353/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-06T02:24:27+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "中国企業Zbtlink製のルーターがバックドアを組み込んだ状態で出荷されていることが、サイバーセキュリティ企業VulnCheckの新たな報告で明らかになった。 VulnCheckはZbtlink製の20機種を調査し、各機種のファームウェアで、中国にあるクラウドサーバーと自動的に通信する不正プログラムを発見した。VulnCheckの最高技術...",
+      "matched_keywords": [
+        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
       "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "966c6117f38b8e7d6f38"
+      "id": "7763524e638d9d965060"
     },
     {
-      "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
-      "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/",
+      "title": "The localisation gap: Why multilingual AI isn’t enough for APAC markets",
+      "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-06T03:07:13+00:00",
-      "fetched_at": "2026-08-06T03:10:55+00:00",
-      "summary": "Global financial markets closed mixed heading into August 6, 2026, as a historic blue-chip rally collided with a cooldown in technology stocks. The Dow Jones Industrial Average surged 0.49 per cent to 54,349.92 and marked a third straight record close on solid corporate earnings. The tech-heavy Nasdaq Composite slipped 0.83 per cent to 26,359.67 as […] The post Bitcoin’s 73% correlation with gold forces investors to…",
+      "published_at": "2026-08-06T03:45:51+00:00",
+      "fetched_at": "2026-08-06T04:20:46+00:00",
+      "summary": "The conversation around AI voice has changed dramatically over the past year. Not long ago, businesses wanted to know whether AI could hold a natural conversation. Today, that question has largely been answered. Modern voice agents can qualify leads, schedule appointments, resolve customer enquiries, and handle a growing range of routine interactions with remarkable fluency. […] The post The localisation gap: Why mu…",
       "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "57989ed1cc0d903897d4"
-    },
-    {
-      "title": "「ループバックIPアドレスって1677万7216個もあんねん」なぜローカルホストはクラスA 127/8 全体なんだろう？ - in between days",
-      "url": "https://mohritaroh.hateblo.jp/entry/2026/08/02/170000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-02T11:05:29+00:00",
-      "fetched_at": "2026-08-06T03:10:55+00:00",
-      "summary": "ある技術系の記事を見ていたら 127.0.0.53 というIPアドレスが出てきた。 127.0.0.1ならよく見る。これはループバックアドレスというやつであり、そのホスト自身、つまりlocalhostに割り当てられるIPアドレスだ。この最後のオクテットが53になるバリエーションについては寡聞にして知らなかったのだが、Ubuntu系のLinux...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c734f2f097f69e6f2693"
+      "id": "867aa1bc4eb2e270e1ee"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_taiwan_hot",
-      "source_name": "Google Trends Taiwan Hot Feed",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-06T03:11:33+00:00_
+_Generated: 2026-08-06T04:21:20+00:00_
 
 ## Status
-- status: `warning`
-- findings: `13`
+- status: `normal`
+- findings: `18`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-08-06T03:11:33+00:00_
 - url: https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/
 - summary: You have probably read plenty of headlines about AI taking jobs, passing the bar exam, or some CEO promising AGI by next year. What gets less coverage is a narrower, stranger problem researchers inside the major labs are actively studying. In published, contr…
 
-### 4. You’re waiting for everyone to agree: The hourglass doesn’t care
+### 4. Southeast Asia can’t simply license its way to stablecoin sovereignty
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-08-06T04:00:08+00:00`
+- url: https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/
+- summary: There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar…
+
+### 5. The infrastructure choice that now decides how you scale
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-08-06T03:30:26+00:00`
+- url: https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/
+- summary: Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not sta…
+
+### 6. You’re waiting for everyone to agree: The hourglass doesn’t care
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-06T01:30:43+00:00`
 - url: https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/
 - summary: From a Palo Alto boardroom to one in Pangyo, the executives who built a company’s stability are always the last to accept the leap into growth. Kodak and Fujifilm show what happens next, and the data says most founders don’t survive that transition either. A…
 
-### 5. M 4.8 - 62 km NNE of Shi Yomi, India
+### 7. M 4.8 - 62 km NNE of Shi Yomi, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-06T00:39:00.602+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl
 - summary: DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)
-
-### 6. 秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-08-06T02:06:08+00:00`
-- url: https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/
-- summary: 日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す...
-
-### 7. AI will not cut costs or grow revenue until you redesign how work gets done
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-06T01:00:53+00:00`
-- url: https://e27.co/ai-will-not-cut-costs-or-grow-revenue-until-you-redesign-how-work-gets-done-20260805/
-- summary: Every week, another AI tool launches with the promise of helping businesses save time, reduce costs and grow faster. Companies subscribe. Employees attend workshops. Leadership teams announce that the organisation is now “AI-enabled”. Yet months later, many b…
 
 END OF DOCUMENT

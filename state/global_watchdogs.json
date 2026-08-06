@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:11:35+00:00",
+  "generated_at": "2026-08-06T04:21:22+00:00",
   "sections": {
     "global_security": [
       {
@@ -94,21 +94,6 @@
           "mag": 6.3,
           "alert": "green",
           "sig": 615.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.3 - 32 km SW of Sarangani, Philippines",
-        "summary": "M6.3 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x",
-        "published_at": "2026-08-05T04:14:06+00:00",
-        "metrics": {
-          "mag": 6.3,
-          "alert": "green",
-          "sig": 650.0,
           "tsunami": 0
         }
       },

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-06T03:11:33+00:00_
+_Generiert: 2026-08-06T04:21:20+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+18 neue relevante Treffer. Stärkstes Signal: „The end of manual finance? AI agents are coming for startup payments“ aus e27 Asia Startup and Tech Feed (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,6 @@ _Generiert: 2026-08-06T03:11:33+00:00_
   - Quelle: USGS
   - Zeit: `2026-08-05T07:43:27+00:00`
   - Kurz: M6.3 - south of the Kermadec Islands. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M6.3 - 32 km SW of Sarangani, Philippines** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x)
-  - Quelle: USGS
-  - Zeit: `2026-08-05T04:14:06+00:00`
-  - Kurz: M6.3 - 32 km SW of Sarangani, Philippines. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556391)
   - Quelle: GDACS
   - Zeit: ``
@@ -107,6 +103,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia can’t simply license its way to stablecoin sovereignty** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-06T04:00:08+00:00`, fetched `2026-08-06T04:20:46+00:00`
+  - Treffer: APAC Trend Radar, Open Source, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar coins, every euro, yen, ringgit and Singapore dollar experiment combined, […] The post Southeast Asia can’t simply license its way to stablecoin sovereignty app…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The infrastructure choice that now decides how you scale** — Score 11, observation — [Quelle](https://e27.co/the-infrastructure-choice-that-now-decides-how-you-scale-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-06T03:30:26+00:00`, fetched `2026-08-06T04:20:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
+  - Kurz: Earlier this year, a founder I work with had to decide where to host the data and AI stack behind an expansion into Vietnam and Indonesia. On paper it was a procurement question. Which cloud region, which provider, what it would cost per month. It did not stay that way. By the time the decision […] The post The infrastructure choice that now decides how you scale appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **You’re waiting for everyone to agree: The hourglass doesn’t care** — Score 11, observation — [Quelle](https://e27.co/youre-waiting-for-everyone-to-agree-the-hourglass-doesnt-care-20260805/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-06T01:30:43+00:00`, fetched `2026-08-06T02:00:18+00:00`
@@ -125,6 +139,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **中国製ルーター20機種にバックドア、外部から完全制御のおそれ** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251353/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-06T02:24:27+00:00`, fetched `2026-08-06T04:20:46+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 中国企業Zbtlink製のルーターがバックドアを組み込んだ状態で出荷されていることが、サイバーセキュリティ企業VulnCheckの新たな報告で明らかになった。 VulnCheckはZbtlink製の20機種を調査し、各機種のファームウェアで、中国にあるクラウドサーバーと自動的に通信する不正プログラムを発見した。VulnCheckの最高技術...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **秋田に日本最大級AIデータセンター 建設費2兆円、UAEが投資へ - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOCC138LW0T10C26A7000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-06T02:06:08+00:00`, fetched `2026-08-06T03:10:55+00:00`
@@ -133,15 +156,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 日米企業や秋田県・市が秋田市に日本最大級の人工知能（AI）向けデータセンターを建設する。アラブ首長国連邦（UAE）などが投資する方向で協議しており、整備費は2兆円規模になる見通し。2030年代早期の稼働を目指す。日本政府は戦略17分野の中でデータセンターを主要な製品・技術に位置づけ、地方への分散立地を推進す...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI will not cut costs or grow revenue until you redesign how work gets done** — Score 10, observation — [Quelle](https://e27.co/ai-will-not-cut-costs-or-grow-revenue-until-you-redesign-how-work-gets-done-20260805/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-06T01:00:53+00:00`, fetched `2026-08-06T01:15:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
-  - Kurz: Every week, another AI tool launches with the promise of helping businesses save time, reduce costs and grow faster. Companies subscribe. Employees attend workshops. Leadership teams announce that the organisation is now “AI-enabled”. Yet months later, many businesses are still facing the same problems. Founders remain buried in operations. Teams continue chasing approvals through email. […] The post AI will not cut…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf** — Score 8, observation — [Quelle](https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -152,24 +166,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み 英研究機関のテストで判明** — Score 8, observation — [Quelle](https://www.cnn.co.jp/tech/35251323.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-05T08:17:10+00:00`, fetched `2026-08-06T00:03:13+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: アンソロピックの最も高度な人工知能（AI）モデルが、テスト中に偽の身分を使って実在の人物を欺き、悪意あるコードを埋め込もうとしたことがわかった/Nicolas Tucat/AFP/Getty Images （CNN） アンソロピックの最も高度な人工知能（AI）モデルが、英国のAIセキュリティー研究機関AISIが実施したテスト中に、偽の身分を...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin’s 73% correlation with gold forces investors to rethink crypto** — Score 4, observation — [Quelle](https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-06T03:07:13+00:00`, fetched `2026-08-06T03:10:55+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Global financial markets closed mixed heading into August 6, 2026, as a historic blue-chip rally collided with a cooldown in technology stocks. The Dow Jones Industrial Average surged 0.49 per cent to 54,349.92 and marked a third straight record close on solid corporate earnings. The tech-heavy Nasdaq Composite slipped 0.83 per cent to 26,359.67 as […] The post Bitcoin’s 73% correlation with gold forces investors to…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -179,7 +175,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)
