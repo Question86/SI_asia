@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-06T00:19:03Z",
+  "generated_at": "2026-08-06T00:57:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 47.93,
+      "age_days": 47.96,
       "topics": [
         "ai"
       ],
@@ -34,17 +34,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 47.9d old signal",
+        "aging penalty -8.0 for 48.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-06T00:39:00.602+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - IV Time 2026-08-06 00:15:17 UTC 2026-08-06 00:15:17 UTC at epicenter Location 29.028°N 94.677°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 46.9,
+      "age_days": 46.92,
       "topics": [
         "general"
       ],
@@ -69,7 +94,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 46.9,
+      "age_days": 46.92,
       "topics": [
         "general"
       ],
@@ -94,7 +119,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 46.9,
+      "age_days": 46.92,
       "topics": [
         "ai"
       ],
@@ -117,11 +142,36 @@
       "summary": ""
     },
     {
+      "title": "アラート疲弊からの脱却へーSOC業務における_AI_エージェント活用の実践_v2.pdf",
+      "url": "https://speakerdeck.com/kintotechdev/aratopi-bi-karanotuo-que-hesocye-wu-niokeru-ai-esientohuo-yong-noshi-jian-v2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-05T14:06:42+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →"
+    },
+    {
       "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み 英研究機関のテストで判明",
       "url": "https://www.cnn.co.jp/tech/35251323.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T08:17:10+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -140,6 +190,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "アンソロピックの最も高度な人工知能（AI）モデルが、テスト中に偽の身分を使って実在の人物を欺き、悪意あるコードを埋め込もうとしたことがわかった/Nicolas Tucat/AFP/Getty Images （CNN） アンソロピックの最も高度な人工知能（AI）モデルが、英国のAIセキュリティー研究機関AISIが実施したテスト中に、偽の身分を..."
+    },
+    {
+      "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
+      "url": "https://gihyo.jp/article/2026/08/anydoc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-05T11:57:12+00:00",
+      "age_days": 0.54,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "AI向けWebデータAPIを提供するFirecrawlは2026年8月5日、WordやPowerPoint、Excel、PDFなどの文書をMarkdownへ変換するRust製ライブラリ「anydoc」をオープンソースで公開した。ローカル環境で動作し、CLIのほかRust、Node.js、Pythonから利用できる。ライセンスはMIT。 firecrawl/anydoc - GitHub anydocは、Word、Powe..."
     }
   ],
   "read_order": [
@@ -152,7 +227,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 6
     }
   }
 }
