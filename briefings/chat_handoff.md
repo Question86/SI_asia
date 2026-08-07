@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-07T08:00:18+00:00_
+_Generated: 2026-08-07T08:31:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `31`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-08-07T08:00:18+00:00_
 - url: https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/
 - summary: 【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン...
 
-### 9. LLM Wikiパターンの標準化 OKF(Open Knowledge Format)
-- source: Hatena Bookmark Hotentry IT
+### 9. ECB publishes consolidated banking data for end-March 2026
+- source: ECB Press Releases Speeches Interviews
 - score: `9`
-- published: `2026-08-06T22:30:23+00:00`
-- url: https://zenn.dev/finatext/articles/2ea88e4b1c2e5b
-- summary: Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...
+- published: `2026-08-07T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html
+- summary: ECB publishes consolidated banking data for end-March 2026
 
 END OF DOCUMENT

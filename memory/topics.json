@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-07T08:00:18+00:00",
+  "generated_at": "2026-08-07T08:31:05+00:00",
   "topics": {
     "security": [
       {
@@ -33,11 +33,25 @@
         "url": "https://jvn.jp/vu/JVNVU96816564/"
       },
       {
+        "title": "[UPDATE] [hoch] cPanel cPanel/WHM (Archive-Tar): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T08:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2666"
+      },
+      {
         "title": "[UPDATE] [mittel] Apache CXF: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-07T04:41:07+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2682"
+      },
+      {
+        "title": "Sicherheitsupdates Cisco: Angreifer können WAN-Umgebungen stören",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-07T07:57:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Angreifer-koennen-WAN-Umgebungen-stoeren-11402697.html"
       }
     ],
     "ai": [
@@ -68,6 +82,13 @@
         "published_at": "2026-08-06T16:42:23+00:00",
         "relevance_score": 18,
         "url": "https://agent-plugins.org/"
+      },
+      {
+        "title": "Acrab’s US$130M raise signals SEA’s deeper push into AI hardware",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T08:28:24+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/"
       },
       {
         "title": "When AI starts thinking for us",
@@ -103,13 +124,6 @@
         "published_at": "2026-08-06T22:30:23+00:00",
         "relevance_score": 9,
         "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b"
-      },
-      {
-        "title": "“現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T14:39:13+00:00",
-        "relevance_score": 5,
-        "url": "https://news.web.nhk/newsweb/na/na-k10015198141000"
       }
     ],
     "geopolitics": [
@@ -128,11 +142,25 @@
         "url": "https://agent-plugins.org/"
       },
       {
+        "title": "Acrab’s US$130M raise signals SEA’s deeper push into AI hardware",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T08:28:24+00:00",
+        "relevance_score": 17,
+        "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/"
+      },
+      {
         "title": "Building through borders: A founder’s perspective on a fragmented world",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-07T02:30:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/"
+      },
+      {
+        "title": "ECB publishes consolidated banking data for end-March 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-08-07T08:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html"
       },
       {
         "title": "地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました",
@@ -225,6 +253,13 @@
         "published_at": "2026-08-07T02:30:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/"
+      },
+      {
+        "title": "ECB publishes consolidated banking data for end-March 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-08-07T08:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html"
       },
       {
         "title": "Invisible banking: How embedded finance is quietly rewiring SEA’s economy",
