@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T19:10:34+00:00_
+_Generiert: 2026-08-07T19:34:25+00:00_
 
 ## Kurzlage
 
@@ -29,8 +29,30 @@ _Generiert: 2026-08-07T19:10:34+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f423a6bef10>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in Spain** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104080)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
+- **GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556246)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].
+- **GDACS: Orange earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 10 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 10 thousand (in MMI&gt;=VII).
+- **GDACS: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001299)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556391)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.
+- **GDACS: Volcanic eruption is on going for Fuego in Guatemala** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Fuego in Guatemala
 
 ## Wirtschaft global
 
