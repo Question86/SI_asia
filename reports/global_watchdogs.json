@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:07:59+00:00",
+  "generated_at": "2026-08-07T11:28:06+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green flood alert in Spain",
+        "summary": "Green flood alert in Spain",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104080",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].",
         "source": "GDACS",
@@ -79,6 +89,16 @@
         "summary": "Orange earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 10 thousand (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556215",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Portugal",
+        "summary": "Green flood alert in Portugal",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104079",
         "published_at": "",
         "metrics": {}
       },

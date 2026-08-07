@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T11:07:56+00:00_
+_Generiert: 2026-08-07T11:28:02+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+53 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-07T11:07:56+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-03`
   - Kurz: Known exploited vulnerability. Added 2026-08-03. Due 2026-08-06. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability
+- **GDACS: Green flood alert in Spain** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104080)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
 - **GDACS: Green earthquake (Magnitude 6.3M, Depth:226.084km) in South Of Kermadec Islands 05/08/2026 07:43 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556246)
   - Quelle: GDACS
   - Zeit: ``
@@ -37,6 +41,10 @@ _Generiert: 2026-08-07T11:07:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 6.3M, Depth:10km) in Philippines 05/08/2026 04:14 UTC, 10 thousand (in MMI&gt;=VII).
+- **GDACS: Green flood alert in Portugal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104079)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Portugal
 - **GDACS: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001299)
   - Quelle: GDACS
   - Zeit: ``
@@ -301,14 +309,14 @@ _Generiert: 2026-08-07T11:07:56+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Invisible banking: How embedded finance is quietly rewiring SEA’s economy** — Score 4, observation — [Quelle](https://e27.co/invisible-banking-how-embedded-finance-is-quietly-rewiring-seas-economy-20260807/)
+- **Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return** — Score 5, observation — [Quelle](https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-07T04:24:03+00:00`, fetched `2026-08-07T04:56:53+00:00`
+  - Zeit: published `2026-08-07T11:23:19+00:00`, fetched `2026-08-07T11:27:29+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Every time someone hops out of a Grab without touching their wallet, or taps “pay later” on a Shopee checkout, they are using a piece of financial infrastructure they never consciously chose. There is no app to download, no form to fill, no trip to a bank branch. The transaction simply happens, folded invisibly into […] The post Invisible banking: How embedded finance is quietly rewiring SEA’s economy appeared first…
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the return multiple has been disclosed, but the […] The post Ecosystem Roundup: PulseTech delivers startup…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -322,7 +330,3 @@ _Generiert: 2026-08-07T11:07:56+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f27751f7190>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

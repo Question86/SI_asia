@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-07T11:07:56+00:00",
-  "run_id": "2026-08-07T11:07:56+00:00",
+  "generated_at": "2026-08-07T11:28:02+00:00",
+  "run_id": "2026-08-07T11:28:02+00:00",
   "date": "2026-08-07",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 4,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 1,
-    "medium": 22,
-    "observe": 26,
-    "source_errors": 1
+    "medium": 24,
+    "observe": 28,
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -432,6 +432,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "90587546962a26442c52"
+      },
+      {
+        "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0918",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-07T11:26:06+00:00",
+        "fetched_at": "2026-08-07T11:27:29+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d8b537ab45037f24c3a9"
+      },
+      {
+        "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Manipulation von DNS Antworten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0817",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-07T11:26:06+00:00",
+        "fetched_at": "2026-08-07T11:27:29+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um DNS Antworten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "81339a6ba63b65762f6e"
       },
       {
         "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
@@ -1037,6 +1083,47 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8694bb846867618c3483"
+      },
+      {
+        "title": "Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return",
+        "url": "https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-07T11:23:19+00:00",
+        "fetched_at": "2026-08-07T11:27:29+00:00",
+        "summary": "Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the return multiple has been disclosed, but the […] The post Ecosystem Roundup: PulseTech delivers startup…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ecc2679aef6bdecfe30c"
+      },
+      {
+        "title": "KDDI、楽天へのローミングを9月末で終了",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2131649.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T08:59:02+00:00",
+        "fetched_at": "2026-08-07T11:27:29+00:00",
+        "summary": "KDDI、楽天へのローミングを9月末で終了",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23866f247197c04e549b"
       },
       {
         "title": "インシデント対応の属人化に、障害対応訓練で立ち向かっている - tebiki Tech Blog",
@@ -1651,6 +1738,52 @@
       "id": "90587546962a26442c52"
     },
     {
+      "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0918",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-07T11:26:06+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8b537ab45037f24c3a9"
+    },
+    {
+      "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Manipulation von DNS Antworten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0817",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-07T11:26:06+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um DNS Antworten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81339a6ba63b65762f6e"
+    },
+    {
       "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96816564/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2254,6 +2387,47 @@
       "id": "8694bb846867618c3483"
     },
     {
+      "title": "Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return",
+      "url": "https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T11:23:19+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the return multiple has been disclosed, but the […] The post Ecosystem Roundup: PulseTech delivers startup…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ecc2679aef6bdecfe30c"
+    },
+    {
+      "title": "KDDI、楽天へのローミングを9月末で終了",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2131649.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T08:59:02+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "KDDI、楽天へのローミングを9月末で終了",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23866f247197c04e549b"
+    },
+    {
       "title": "インシデント対応の属人化に、障害対応訓練で立ち向かっている - tebiki Tech Blog",
       "url": "https://techblog.tebiki.co.jp/2026/08/07/163000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2462,37 +2636,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704",
+      "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0918",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-07T10:51:05+00:00",
-      "fetched_at": "2026-08-07T11:07:17+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "887522ac3c7e3eea105b"
-    },
-    {
-      "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-07T10:51:06+00:00",
-      "fetched_at": "2026-08-07T11:07:17+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD und Autodesk Civil 3D ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-08-07T11:26:06+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2506,17 +2656,74 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "54cd4490733564e7dfc3"
-    }
-  ],
-  "source_errors": [
+      "id": "d8b537ab45037f24c3a9"
+    },
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Manipulation von DNS Antworten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0817",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f27751f7190>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "published_at": "2026-08-07T11:26:06+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um DNS Antworten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "81339a6ba63b65762f6e"
+    },
+    {
+      "title": "Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return",
+      "url": "https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T11:23:19+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the return multiple has been disclosed, but the […] The post Ecosystem Roundup: PulseTech delivers startup…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ecc2679aef6bdecfe30c"
+    },
+    {
+      "title": "KDDI、楽天へのローミングを9月末で終了",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2131649.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T08:59:02+00:00",
+      "fetched_at": "2026-08-07T11:27:29+00:00",
+      "summary": "KDDI、楽天へのローミングを9月末で終了",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23866f247197c04e549b"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
