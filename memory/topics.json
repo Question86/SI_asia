@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-07T10:26:31+00:00",
+  "generated_at": "2026-08-07T10:46:27+00:00",
   "topics": {
     "security": [
       {
@@ -33,11 +33,25 @@
         "url": "https://jvn.jp/vu/JVNVU92842469/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703"
+      },
+      {
         "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-07T11:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96816564/"
+      },
+      {
+        "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2702"
       },
       {
         "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen",
@@ -59,20 +73,6 @@
         "published_at": "2026-08-07T09:16:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Portable Runtime (APR): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T09:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697"
-      },
-      {
-        "title": "[UPDATE] [hoch] cPanel cPanel/WHM (Archive-Tar): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T08:21:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2666"
       }
     ],
     "ai": [
@@ -177,6 +177,20 @@
         "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703"
+      },
+      {
+        "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2702"
+      },
+      {
         "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-07T10:21:06+00:00",
@@ -203,20 +217,6 @@
         "published_at": "2026-08-07T09:11:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697"
-      },
-      {
-        "title": "PulseTech delivers Startup Bangladesh’s first multi-fold return after revenue surge",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-07T09:03:58+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/pulsetech-delivers-startup-bangladeshs-first-multi-fold-return-after-revenue-surge-20260807/"
-      },
-      {
-        "title": "Building through borders: A founder’s perspective on a fragmented world",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-07T02:30:36+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/"
       }
     ],
     "general": [
