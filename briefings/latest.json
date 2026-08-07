@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T16:23:39+00:00",
-  "run_id": "2026-08-07T16:23:39+00:00",
+  "generated_at": "2026-08-07T16:42:38+00:00",
+  "run_id": "2026-08-07T16:42:38+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 1,
     "medium": 27,
-    "observe": 38,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -771,6 +771,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-07T15:20:00+00:00",
+        "fetched_at": "2026-08-07T16:42:05+00:00",
+        "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+        "matched_keywords": [
+          "OpenAI",
+          "Security"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bb25e563044fe9c7429f"
+      },
       {
         "title": "仕様駆動開発の消費期限",
         "url": "https://speakerdeck.com/watany/expiration-date-of-sdd",
@@ -2417,6 +2438,27 @@
       "id": "41dbdedf751716ec456f"
     },
     {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-07T15:20:00+00:00",
+      "fetched_at": "2026-08-07T16:42:05+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb25e563044fe9c7429f"
+    },
+    {
       "title": "仕様駆動開発の消費期限",
       "url": "https://speakerdeck.com/watany/expiration-date-of-sdd",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3320,7 +3362,29 @@
       "id": "fbd1f5fe78181f0cfa1e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-07T15:20:00+00:00",
+      "fetched_at": "2026-08-07T16:42:05+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bb25e563044fe9c7429f"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-07T16:23:39+00:00_
+_Generated: 2026-08-07T16:42:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `66`
+- findings: `67`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-08-07T16:23:39+00:00_
 - url: https://agent-plugins.org/
 - summary: Agent PluginsA portable package format for reusable components that extend AI agents. Agent Plugins is an open, vendor-neutral standard for packaging reusable components into portable plugins. Its version 1.0.0 specification defines a shared format for Agent…
 
-### 6. 仕様駆動開発の消費期限
+### 6. Responding to the next frontier of critical cyber capabilities
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-08-07T15:20:00+00:00`
+- url: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+- summary: OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.
+
+### 7. 仕様駆動開発の消費期限
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-08-06T12:55:49+00:00`
 - url: https://speakerdeck.com/watany/expiration-date-of-sdd
 - summary: AI Native Dev Night Tokyoでお話しした内容になります。 https://kinto-technologies.connpass.com/event/398365/
 
-### 7. How HSP GRUPPE builds AI capabilities for tax advisory
+### 8. How HSP GRUPPE builds AI capabilities for tax advisory
 - source: OpenAI News RSS
 - score: `11`
 - published: `2026-08-07T09:00:00+00:00`
 - url: https://openai.com/index/hsp-gruppe
 - summary: Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
 
-### 8. goauthentik/authentik
+### 9. goauthentik/authentik
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/goauthentik/authentik
 - summary: The authentication glue you need. What is authentik? authentik is an open-source Identity Provider (IdP) for modern SSO. It supports SAML, OAuth2/OIDC, LDAP, RADIUS, and more, designed for self-hosting from small labs to large production clusters. Our enterpr…
-
-### 9. PulseTech delivers Startup Bangladesh’s first multi-fold return after revenue surge
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-07T09:03:58+00:00`
-- url: https://e27.co/pulsetech-delivers-startup-bangladeshs-first-multi-fold-return-after-revenue-surge-20260807/
-- summary: In young startup ecosystems, the first meaningful return matters almost as much as the cheque that produced it. It gives founders, investors and policymakers something more concrete than optimism: proof that local companies can grow fast, make money, and retu…
 
 END OF DOCUMENT

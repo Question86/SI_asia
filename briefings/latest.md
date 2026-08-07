@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T16:23:39+00:00_
+_Generiert: 2026-08-07T16:42:38+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+67 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -210,6 +210,15 @@ _Generiert: 2026-08-07T16:23:39+00:00_
 
 ## Nur beobachten
 
+- **Responding to the next frontier of critical cyber capabilities** — Score 13, observation — [Quelle](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-07T15:20:00+00:00`, fetched `2026-08-07T16:42:05+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
+  - Kurz: OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **仕様駆動開発の消費期限** — Score 13, observation — [Quelle](https://speakerdeck.com/watany/expiration-date-of-sdd)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-06T12:55:49+00:00`, fetched `2026-08-07T10:26:01+00:00`
@@ -335,15 +344,6 @@ _Generiert: 2026-08-07T16:23:39+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Derzeit schieben Angreifer Schadcode auf IBM-Langflow-Instanzen. Im Cluster-Betrieb von Apache Tomcat können sie Datenverkehr mitlesen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Durch Metabase-0day: Datenleck bei Laptophersteller Framework** — Score 7, observation — [Quelle](https://www.heise.de/news/Durch-Metabase-0day-Datenleck-bei-Laptophersteller-Framework-11403050.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-07T10:10:00.000+00:00`, fetched `2026-08-07T10:26:01+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Nur wenige Stunden nach Bekanntwerden einer Sicherheitslücke informiert der Framework seine Kunden. Metabase veröffentlichte eigene Sicherheitshinweise.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
