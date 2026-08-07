@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T18:26:02+00:00_
+_Generiert: 2026-08-07T18:46:01+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+71 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -64,6 +64,15 @@ _Generiert: 2026-08-07T18:26:02+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Copilot usage metrics API adds agent app activity** — Score 16, observation — [Quelle](https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-07T18:20:47+00:00`, fetched `2026-08-07T18:45:30+00:00`
+  - Treffer: Copilot, GitHub, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now… The post Copilot usage metrics API adds agent app activity appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92842469/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

@@ -214,6 +214,52 @@
     "id": "ca0943d26643e9b3f19b"
   },
   {
+    "title": "Copilot usage metrics API adds agent app activity",
+    "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-07T18:20:47+00:00",
+    "fetched_at": "2026-08-07T18:45:30+00:00",
+    "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now… The post Copilot usage metrics API adds agent app activity appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+6.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "aba3483840503a562fd4"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
     "url": "https://jvn.jp/vu/JVNVU92842469/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1683,6 +1729,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ac3305499f3b1c401a38"
+  },
+  {
+    "title": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+    "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-07T17:33:14+00:00",
+    "fetched_at": "2026-08-07T18:45:30+00:00",
+    "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in… The post “Relates to” issue relationship in public preview and multi-select fields is generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "14edd2aca5ab54d3c208"
   },
   {
     "title": "Set pull request limits at the organization level",
