@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T23:21:36+00:00",
-  "run_id": "2026-08-07T23:21:36+00:00",
+  "generated_at": "2026-08-07T23:36:53+00:00",
+  "run_id": "2026-08-07T23:36:53+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 1,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 1,
     "medium": 28,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1245,6 +1245,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0045f08b3d1309d1781f"
+      },
+      {
+        "title": "AI時代、アーキテクトやテックリードは死ぬ",
+        "url": "https://zenn.dev/neko3cs/articles/architect-and-techlead-is-dead-in-the-ai-era",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T15:22:34+00:00",
+        "fetched_at": "2026-08-07T23:36:23+00:00",
+        "summary": "はじめに 私は、アーキテクトやテックリードといった職種は、将来的になくなると考えています。それはなぜか、今後求められる人材はどのようなものか、私なりの考えを整理してみたいと思います。 AIの進化は早い 米国の実業家であるElon Musk氏は「今年の終わりまでには人はコーディングをしなくなる」と言っています。[...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00814b0cc110056147ae"
       },
       {
         "title": "Arizona wants Taiwan’s investors to think beyond chips",
@@ -3279,6 +3301,28 @@
       "id": "0045f08b3d1309d1781f"
     },
     {
+      "title": "AI時代、アーキテクトやテックリードは死ぬ",
+      "url": "https://zenn.dev/neko3cs/articles/architect-and-techlead-is-dead-in-the-ai-era",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T15:22:34+00:00",
+      "fetched_at": "2026-08-07T23:36:23+00:00",
+      "summary": "はじめに 私は、アーキテクトやテックリードといった職種は、将来的になくなると考えています。それはなぜか、今後求められる人材はどのようなものか、私なりの考えを整理してみたいと思います。 AIの進化は早い 米国の実業家であるElon Musk氏は「今年の終わりまでには人はコーディングをしなくなる」と言っています。[...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00814b0cc110056147ae"
+    },
+    {
       "title": "Arizona wants Taiwan’s investors to think beyond chips",
       "url": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -4096,67 +4140,26 @@
   ],
   "new_findings": [
     {
-      "title": "USBメモリからPC-9801環境を起動! Mirai98が登場 - RetroPC NEWS",
-      "url": "https://retropcnews.com/archives/7492",
+      "title": "AI時代、アーキテクトやテックリードは死ぬ",
+      "url": "https://zenn.dev/neko3cs/articles/architect-and-techlead-is-dead-in-the-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-07T10:07:09+00:00",
-      "fetched_at": "2026-08-07T23:21:05+00:00",
-      "summary": "PC-9801環境を手軽に持ち運べるMirai98がGitHubで公開されました。 Mirai98の最大の特徴は、USBメモリからLinuxを起動し、そのLinux上でQEMUによるPC-9801エミュレーション環境まで自動的に立ち上がることです。普段使用しているPCへインストールする必要がなく、USBメモリ1本でPC-98環境を持ち歩けることを目指していま...",
+      "published_at": "2026-08-07T15:22:34+00:00",
+      "fetched_at": "2026-08-07T23:36:23+00:00",
+      "summary": "はじめに 私は、アーキテクトやテックリードといった職種は、将来的になくなると考えています。それはなぜか、今後求められる人材はどのようなものか、私なりの考えを整理してみたいと思います。 AIの進化は早い 米国の実業家であるElon Musk氏は「今年の終わりまでには人はコーディングをしなくなる」と言っています。[...",
       "matched_keywords": [
-        "GitHub",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dba6dae5aad1c53b7843"
-    },
-    {
-      "title": "AWSからCloudflareへ移して わかった「サーバを所有しない」こと",
-      "url": "https://docs.google.com/presentation/d/1MVF6nWVXKlFVjLMnUoCtjkQ8pJBh4knmBcv5kFJn_eY/mobilepresent?slide=id.out_s01",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-07T12:58:55+00:00",
-      "fetched_at": "2026-08-07T23:21:05+00:00",
-      "summary": "今日は、AWSからCloudflare Workersへ移行して、API基盤のコストが下がった話をします。ただし主題は料金比較ではありません。移行したことで、コードに埋まっていた「自分たちのサーバがある」という前提が見えるようになりました。その前提をどう手放したかを、実際の失敗も含めて紹介します。 Cloudflare Workers AWS...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63e3955a194686e209fa"
-    },
-    {
-      "title": "Enterprises can now install third-party GitHub Apps",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-07T21:40:03+00:00",
-      "fetched_at": "2026-08-07T23:21:05+00:00",
-      "summary": "Enterprise owners can now install public GitHub Apps created outside their enterprise on their enterprise account. This allows third-party integrators to build apps for enterprise management scenarios. Enterprise installations grant… The post Enterprises can now install third-party GitHub Apps appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "52910bd73ad6d6ad85e9"
+      "id": "00814b0cc110056147ae"
     }
   ],
   "source_errors": [],
