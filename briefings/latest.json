@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T09:39:40+00:00",
-  "run_id": "2026-08-07T09:39:40+00:00",
+  "generated_at": "2026-08-07T10:04:04+00:00",
+  "run_id": "2026-08-07T10:04:04+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 1,
@@ -2006,29 +2006,7 @@
       "id": "ac3305499f3b1c401a38"
     }
   ],
-  "new_findings": [
-    {
-      "title": "インシデント対応の属人化に、障害対応訓練で立ち向かっている - tebiki Tech Blog",
-      "url": "https://techblog.tebiki.co.jp/2026/08/07/163000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-07T07:31:59+00:00",
-      "fetched_at": "2026-08-07T09:39:12+00:00",
-      "summary": "QAエンジニア の @kiyou77 です。 「インシデントが起きたとき、動けるのがいつも同じ人ばかり」というのはよくある話かと思います。私たちの開発組織でも、負担が特定のメンバーに偏っている状況が続いていました。 この課題を少しずつ崩していくために、私たちTebikiでは昨年から 「障害対応訓練」 を実施しています。...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "feb44935e0c00f6ce1ab"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
