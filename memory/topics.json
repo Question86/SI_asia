@@ -1,9 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-07T01:26:58+00:00",
+  "generated_at": "2026-08-07T02:17:33+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-07T11:15:30+09:00",
+        "relevance_score": 24,
+        "url": "https://jvn.jp/vu/JVNVU92139835/"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-07T11:15:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU92842469/"
+      },
+      {
+        "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-07T11:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96816564/"
+      }
+    ],
     "ai": [
+      {
+        "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T02:00:32+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/"
+      },
       {
         "title": "Agent Plugins",
         "source": "Hatena Bookmark Hotentry IT",
@@ -17,9 +47,23 @@
         "published_at": "2026-08-06T21:56:45+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/"
+      },
+      {
+        "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-06T22:30:23+00:00",
+        "relevance_score": 9,
+        "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b"
       }
     ],
     "geopolitics": [
+      {
+        "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T02:00:32+00:00",
+        "relevance_score": 23,
+        "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/"
+      },
       {
         "title": "Agent Plugins",
         "source": "Hatena Bookmark Hotentry IT",
@@ -61,6 +105,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "The principles that govern both chemical plants and financial systems",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T01:30:58+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-principles-that-govern-both-chemical-plants-and-financial-systems-20260727/"
+      },
       {
         "title": "The strategic priority: How initiatives actually get chosen",
         "source": "e27 Asia Startup and Tech Feed",

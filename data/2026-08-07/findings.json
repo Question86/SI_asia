@@ -1,5 +1,53 @@
 [
   {
+    "title": "OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
+    "url": "https://jvn.jp/vu/JVNVU92139835/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-07T11:15:30+09:00",
+    "fetched_at": "2026-08-07T02:16:59+00:00",
+    "summary": "OpenSSL ProjectからOpenSSL Security Advisory [5th August 2026]が公開されました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "CodeQL/Dependabot",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 24,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7ab6c83baa8178c858db"
+  },
+  {
+    "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
+    "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-07T02:00:32+00:00",
+    "fetched_at": "2026-08-07T02:16:59+00:00",
+    "summary": "Southeast Asia sits at an inflection point. The region commands 10 per cent of global GDP, controls critical supply chains, and possesses over 500 million people, a workforce larger than the European Union. Governments from Singapore to Japan have committed tens of billions to AI development. Training programmes have created millions of “AI-skilled” professionals. Investment […] The post Southeast Asia’s AI talent a…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Macro/Policy",
+      "Southeast Asia",
+      "Supply Chain Security"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region europe: European Union (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "90c5627475c0111e21cd"
+  },
+  {
     "title": "Agent Plugins",
     "url": "https://agent-plugins.org/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -48,6 +96,29 @@
     "id": "61c304bc4cc547b51acb"
   },
   {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
+    "url": "https://jvn.jp/vu/JVNVU92842469/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-07T11:15:15+09:00",
+    "fetched_at": "2026-08-07T02:16:59+00:00",
+    "summary": "2026年08月06日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c743f6cdfa073f3c5691"
+  },
+  {
     "title": "The 4 horsemen of the professional apocalypse, and how to defeat them",
     "url": "https://e27.co/the-4-horsemen-of-the-professional-apocalypse-and-how-to-defeat-them-20260716/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -70,6 +141,28 @@
     "id": "90587546962a26442c52"
   },
   {
+    "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU96816564/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-07T11:15:00+09:00",
+    "fetched_at": "2026-08-07T02:16:59+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "86be1b1de5ec01311369"
+  },
+  {
     "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -90,6 +183,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9e4348edbae210a945b7"
+  },
+  {
+    "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
+    "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T22:30:23+00:00",
+    "fetched_at": "2026-08-07T02:16:59+00:00",
+    "summary": "Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0045f08b3d1309d1781f"
   },
   {
     "title": "「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載",
@@ -132,6 +247,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1954b6659ec005ac305a"
+  },
+  {
+    "title": "The principles that govern both chemical plants and financial systems",
+    "url": "https://e27.co/the-principles-that-govern-both-chemical-plants-and-financial-systems-20260727/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-07T01:30:58+00:00",
+    "fetched_at": "2026-08-07T02:16:59+00:00",
+    "summary": "In the second week of August 2009, four months into my first job as an R&D engineer at a pulp and paper plant in Riau, I told my supervisor I was leaving to join a bank. I was 23. I had spent four years studying chemical engineering, graduated at the top of my department, and […] The post The principles that govern both chemical plants and financial systems appeared first on e27 .",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "200877f6bb69da0cfce4"
   },
   {
     "title": "The strategic priority: How initiatives actually get chosen",
