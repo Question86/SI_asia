@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-07T10:46:27+00:00",
-  "run_id": "2026-08-07T10:46:27+00:00",
+  "generated_at": "2026-08-07T11:07:56+00:00",
+  "run_id": "2026-08-07T11:07:56+00:00",
   "date": "2026-08-07",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 1,
-    "medium": 20,
+    "medium": 22,
     "observe": 26,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -268,6 +268,30 @@
         "id": "c743f6cdfa073f3c5691"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-07T10:51:05+00:00",
+        "fetched_at": "2026-08-07T11:07:17+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "887522ac3c7e3eea105b"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703",
         "source": "BSI CERT-Bund Security Advisories",
@@ -430,6 +454,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "86be1b1de5ec01311369"
+      },
+      {
+        "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-07T10:51:06+00:00",
+        "fetched_at": "2026-08-07T11:07:17+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD und Autodesk Civil 3D ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54cd4490733564e7dfc3"
       },
       {
         "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
@@ -1438,6 +1485,30 @@
       "id": "c743f6cdfa073f3c5691"
     },
     {
+      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-07T10:51:05+00:00",
+      "fetched_at": "2026-08-07T11:07:17+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "887522ac3c7e3eea105b"
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1600,6 +1671,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "86be1b1de5ec01311369"
+    },
+    {
+      "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-07T10:51:06+00:00",
+      "fetched_at": "2026-08-07T11:07:17+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD und Autodesk Civil 3D ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54cd4490733564e7dfc3"
     },
     {
       "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
@@ -2368,37 +2462,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703",
+      "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-07T10:36:05+00:00",
-      "fetched_at": "2026-08-07T10:45:56+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen und Daten zu manipulieren.",
+      "published_at": "2026-08-07T10:51:05+00:00",
+      "fetched_at": "2026-08-07T11:07:17+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Patch",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "903989d3b392b448a30b"
+      "id": "887522ac3c7e3eea105b"
     },
     {
-      "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2702",
+      "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-07T10:36:05+00:00",
-      "fetched_at": "2026-08-07T10:45:56+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Arista VeloCloud Orchestrator ausnutzen, um beliebigen Programmcode mit Root-Rechten auszuführen.",
+      "published_at": "2026-08-07T10:51:06+00:00",
+      "fetched_at": "2026-08-07T11:07:17+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD und Autodesk Civil 3D ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2412,10 +2506,17 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b68c4d29ad43aebf4068"
+      "id": "54cd4490733564e7dfc3"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f27751f7190>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

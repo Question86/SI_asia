@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T10:46:27+00:00_
+_Generiert: 2026-08-07T11:07:56+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+49 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -127,6 +127,15 @@ _Generiert: 2026-08-07T10:46:27+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月06日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-07T10:51:05+00:00`, fetched `2026-08-07T11:07:17+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-07T10:36:05+00:00`, fetched `2026-08-07T10:45:56+00:00`
@@ -163,15 +172,6 @@ _Generiert: 2026-08-07T10:46:27+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2702)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-07T10:36:05+00:00`, fetched `2026-08-07T10:45:56+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Arista VeloCloud Orchestrator ausnutzen, um beliebigen Programmcode mit Root-Rechten auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -322,3 +322,7 @@ _Generiert: 2026-08-07T10:46:27+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f27751f7190>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

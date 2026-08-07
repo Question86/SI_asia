@@ -237,6 +237,30 @@
     "id": "c743f6cdfa073f3c5691"
   },
   {
+    "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-07T10:51:05+00:00",
+    "fetched_at": "2026-08-07T11:07:17+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "887522ac3c7e3eea105b"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703",
     "source": "BSI CERT-Bund Security Advisories",
@@ -399,6 +423,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "86be1b1de5ec01311369"
+  },
+  {
+    "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-07T10:51:06+00:00",
+    "fetched_at": "2026-08-07T11:07:17+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Autodesk AutoCAD und Autodesk Civil 3D ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "54cd4490733564e7dfc3"
   },
   {
     "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",

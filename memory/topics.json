@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-07T10:46:27+00:00",
+  "generated_at": "2026-08-07T11:07:56+00:00",
   "topics": {
     "security": [
       {
@@ -33,6 +33,13 @@
         "url": "https://jvn.jp/vu/JVNVU92842469/"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-07T10:36:05+00:00",
@@ -47,6 +54,13 @@
         "url": "https://jvn.jp/vu/JVNVU96816564/"
       },
       {
+        "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705"
+      },
+      {
         "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-07T10:36:05+00:00",
@@ -59,20 +73,6 @@
         "published_at": "2026-08-07T10:21:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2700"
-      },
-      {
-        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T10:21:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2699"
-      },
-      {
-        "title": "[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T09:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698"
       }
     ],
     "ai": [
@@ -177,11 +177,25 @@
         "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/"
       },
       {
+        "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] Flowise: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-07T10:36:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703"
+      },
+      {
+        "title": "[NEU] [mittel] Autodesk AutoCAD und Civil 3D: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705"
       },
       {
         "title": "[NEU] [hoch] Arista VeloCloud Orchestrator: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Root-Rechten",
@@ -203,20 +217,6 @@
         "published_at": "2026-08-07T10:21:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2699"
-      },
-      {
-        "title": "[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T09:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Portable Runtime (APR): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T09:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697"
       }
     ],
     "general": [

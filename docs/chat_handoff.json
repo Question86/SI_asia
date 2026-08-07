@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-07T10:46:27+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-08-07T11:07:56+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 1,
-    "medium": 20,
+    "medium": 22,
     "observe": 26
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
