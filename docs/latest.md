@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T06:01:11+00:00_
+_Generiert: 2026-08-07T06:33:03+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+26 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -130,6 +130,33 @@ _Generiert: 2026-08-07T06:01:11+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **職員の個人情報の漏えいについて** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T06:32:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 職員の個人情報の漏えいについて
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/local_governments/specification)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T06:32:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T06:32:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/07/2000000426/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
