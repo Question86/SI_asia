@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-07T18:29:40Z_
+_Generated: 2026-08-07T18:51:36Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T03:49:57+00:00` / age_days `0.61`
+- Published: `2026-08-07T03:49:57+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: regional, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T11:15:30+09:00` / age_days `0.68`
+- Published: `2026-08-07T11:15:30+09:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T10:51:06+00:00` / age_days `0.32`
+- Published: `2026-08-07T10:51:06+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T10:36:05+00:00` / age_days `0.33`
+- Published: `2026-08-07T10:36:05+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, root, security high-signal: code, root, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T10:21:06+00:00` / age_days `0.34`
+- Published: `2026-08-07T10:21:06+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T10:21:06+00:00` / age_days `0.34`
+- Published: `2026-08-07T10:21:06+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T04:41:07+00:00` / age_days `0.58`
+- Published: `2026-08-07T04:41:07+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-07-30T00:00:00+00:00` / age_days `8.77`
+- Published: `2026-07-30T00:00:00+00:00` / age_days `8.79`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, firewall, security high-signal: active, firewall, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T15:20:00+00:00` / age_days `0.13`
+- Published: `2026-08-07T15:20:00+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: critical, security high-signal: critical, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T10:21:06+00:00` / age_days `0.34`
+- Published: `2026-08-07T10:21:06+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T11:15:15+09:00` / age_days `0.68`
+- Published: `2026-08-07T11:15:15+09:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “AI agents could help Southeast Asian fir
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-07T10:51:05+00:00` / age_days `0.32`
+- Published: `2026-08-07T10:51:05+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
