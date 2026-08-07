@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T21:19:06+00:00_
+_Generiert: 2026-08-07T21:35:10+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+73 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
