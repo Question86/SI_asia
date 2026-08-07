@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T21:52:56+00:00_
+_Generiert: 2026-08-07T22:08:12+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+75 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -221,6 +221,15 @@ _Generiert: 2026-08-07T21:52:56+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: In young startup ecosystems, the first meaningful return matters almost as much as the cheque that produced it. It gives founders, investors and policymakers something more concrete than optimism: proof that local companies can grow fast, make money, and return capital. Bangladesh has now reached one of those moments. Startup Bangladesh, the government-backed venture capital […] The post PulseTech delivers Startup B…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Google マップの新機能「マップに相談」を日本で提供開始** — Score 10, observation — [Quelle](https://blog.google/intl/ja-jp/products/connect-communicate/japanese-ask-maps/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-07T05:00:57+00:00`, fetched `2026-08-07T22:07:42+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「マップに相談」が日本で利用可能になりました。Gemini との連携により、Google マップの新しい活用体験をお届けします。自然に会話するように使い、リアルタイムの情報やパーソナライズされた提案をもとに、旅行などお出かけの計画をより簡単にスマートに。 この度、これまでの地図では答えることが難しかった現実的で...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Building through borders: A founder’s perspective on a fragmented world** — Score 10, observation — [Quelle](https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-07T02:30:36+00:00`, fetched `2026-08-07T03:20:21+00:00`
@@ -265,15 +274,6 @@ _Generiert: 2026-08-07T21:52:56+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB publishes consolidated banking data for end-March 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **LLM Wikiパターンの標準化 OKF(Open Knowledge Format)** — Score 9, observation — [Quelle](https://zenn.dev/finatext/articles/2ea88e4b1c2e5b)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-06T22:30:23+00:00`, fetched `2026-08-07T02:16:59+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Arizona wants Taiwan’s investors to think beyond chips** — Score 8, observation — [Quelle](https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
