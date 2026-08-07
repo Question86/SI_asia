@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-07T19:34:25+00:00_
+_Generated: 2026-08-07T19:55:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `72`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-08-07T19:34:25+00:00_
 - url: https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates
 - summary: This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is… The post Secret scanning coverage updates appear…
 
-### 9. How HSP GRUPPE builds AI capabilities for tax advisory
-- source: OpenAI News RSS
-- score: `11`
-- published: `2026-08-07T09:00:00+00:00`
-- url: https://openai.com/index/hsp-gruppe
-- summary: Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
+### 9. MCP allowlists in enterprise managed settings
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-08-07T00:11:19+00:00`
+- url: https://github.blog/changelog/2026-08-06-mcp-allowlists-in-enterprise-managed-settings
+- summary: Enterprise owners can now centrally control which Model Context Protocol (MCP) servers GitHub Copilot clients are allowed to run by using the new allowedMcpServers and deniedMcpServers keys in enterprise managed… The post MCP allowlists in enterprise managed…
 
 END OF DOCUMENT
