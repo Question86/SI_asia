@@ -1,368 +1,40 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-06T22:19:32+00:00",
+  "generated_at": "2026-08-07T00:11:49+00:00",
   "topics": {
     "ai": [
       {
-        "title": "The end of manual finance? AI agents are coming for startup payments",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T01:00:42+00:00",
-        "relevance_score": 20,
-        "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:56:09+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334"
-      },
-      {
-        "title": "Singapore firms embrace agentic AI, but audit trails remain thin",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T08:41:19+00:00",
-        "relevance_score": 17,
-        "url": "https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/"
-      },
-      {
-        "title": "A guide to slash commands in the GitHub Copilot app",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T19:49:34+00:00",
-        "relevance_score": 15,
-        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/"
-      },
-      {
-        "title": "GenZero backs PCG Global’s push to export China-tested renewable energy model",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T05:49:08+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/"
-      },
-      {
-        "title": "Why Southeast Asia cannot build sovereign AI on borrowed choices",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T01:15:56+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/why-southeast-asia-cannot-build-sovereign-ai-on-borrowed-choices-20260804/"
-      },
-      {
-        "title": "How we took malware advisories beyond npm",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T16:51:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/"
-      },
-      {
-        "title": "What AI safety researchers actually worry about",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T01:30:18+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/what-ai-safety-researchers-actually-worry-about-20260804/"
-      },
-      {
-        "title": "Kimi K3 is now available in GitHub Copilot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-06T17:27:25+00:00",
-        "relevance_score": 13,
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot"
-      },
-      {
-        "title": "MDV backs Funding Societies to reach more technology-driven Malaysian SMEs",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T04:48:33+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/"
-      }
-    ],
-    "github": [
-      {
-        "title": "The end of manual finance? AI agents are coming for startup payments",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T01:00:42+00:00",
-        "relevance_score": 20,
-        "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/"
-      },
-      {
-        "title": "A guide to slash commands in the GitHub Copilot app",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T19:49:34+00:00",
-        "relevance_score": 15,
-        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/"
-      },
-      {
-        "title": "How we took malware advisories beyond npm",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T16:51:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/"
-      },
-      {
-        "title": "Kimi K3 is now available in GitHub Copilot",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-06T17:27:25+00:00",
-        "relevance_score": 13,
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot"
-      },
-      {
-        "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開 | gihyo.jp",
+        "title": "Agent Plugins",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-05T11:57:12+00:00",
-        "relevance_score": 7,
-        "url": "https://gihyo.jp/article/2026/08/anydoc"
+        "published_at": "2026-08-06T16:42:23+00:00",
+        "relevance_score": 18,
+        "url": "https://agent-plugins.org/"
       },
       {
-        "title": "The offline messaging apps challenging internet shutdowns",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-08-06T10:00:00+00:00",
-        "relevance_score": 5,
-        "url": "https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      }
-    ],
-    "economy": [
-      {
-        "title": "The end of manual finance? AI agents are coming for startup payments",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T01:00:42+00:00",
-        "relevance_score": 20,
-        "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/"
-      },
-      {
-        "title": "A guide to slash commands in the GitHub Copilot app",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T19:49:34+00:00",
-        "relevance_score": 15,
-        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/"
-      },
-      {
-        "title": "GenZero backs PCG Global’s push to export China-tested renewable energy model",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T05:49:08+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/genzero-backs-pcg-globals-push-to-export-china-tested-renewable-energy-model-20260806/"
-      },
-      {
-        "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T04:00:08+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/"
-      },
-      {
-        "title": "The localisation gap: Why multilingual AI isn’t enough for APAC markets",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T03:45:51+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-localisation-gap-why-multilingual-ai-isnt-enough-for-apac-markets-20260806/"
-      },
-      {
-        "title": "Bitcoin’s 73% correlation with gold forces investors to rethink crypto",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T03:07:13+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoins-73-correlation-with-gold-forces-investors-to-rethink-crypto-20260806/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:56:09+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334"
-      },
-      {
-        "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:46:08+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668"
-      },
-      {
-        "title": "How we took malware advisories beyond npm",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T16:51:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/"
-      },
-      {
-        "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:56:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2085"
-      },
-      {
-        "title": "[NEU] [hoch] Cisco IOS: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:46:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2664"
-      },
-      {
-        "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T09:46:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671"
-      },
-      {
-        "title": "[UPDATE] [mittel] X.Org X11 (libXfont2): Mehrere Schwachstellen ermöglichen Privilegieneskalation und Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T08:52:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2658"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T08:52:30+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638"
-      },
-      {
-        "title": "Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-06T08:00:00.000+00:00",
-        "relevance_score": 12,
-        "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html"
-      },
-      {
-        "title": "Veeam One und Service Provider Console für Schadcode-Attacken anfällig",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-06T12:33:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Veam-One-und-Service-Provider-Console-fuer-Schadcode-Attacken-anfaellig-11400855.html"
+        "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-06T21:56:45+00:00",
+        "relevance_score": 10,
+        "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/"
       }
     ],
     "geopolitics": [
       {
-        "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:46:08+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668"
-      },
-      {
-        "title": "How we took malware advisories beyond npm",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T16:51:12+00:00",
-        "relevance_score": 14,
-        "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/"
-      },
-      {
-        "title": "[NEU] [hoch] Cisco IOS: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:46:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2664"
-      },
-      {
-        "title": "[NEU] [niedrig] SonicWall SonicOS: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T09:46:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2671"
-      },
-      {
-        "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T04:00:08+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/"
-      },
-      {
-        "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T04:15:32+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans Citrix XenServer (29 juillet 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-07-29T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0941/"
-      },
-      {
-        "title": "メタのAIモデルも他社に侵入 社内システムを変更か",
+        "title": "Agent Plugins",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T13:08:26+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cnn.co.jp/tech/35251344.html"
+        "published_at": "2026-08-06T16:42:23+00:00",
+        "relevance_score": 18,
+        "url": "https://agent-plugins.org/"
       }
     ],
     "general": [
       {
-        "title": "M 4.6 - 5 km ENE of Matsubase, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-06T11:22:19.809+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tijg"
-      },
-      {
-        "title": "M 4.8 - 62 km NNE of Shi Yomi, India",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-06T00:39:00.602+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tigl"
-      },
-      {
-        "title": "中国製ルーター20機種にバックドア、外部から完全制御のおそれ",
+        "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T02:24:27+00:00",
-        "relevance_score": 10,
-        "url": "https://japan.cnet.com/article/35251353/"
-      },
-      {
-        "title": "M 5.1 - 110 km W of Buala, Solomon Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-06T14:01:20.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tik6"
-      },
-      {
-        "title": "M 4.6 - 40 km WNW of Houma, Tonga",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-06T07:01:43.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiie"
-      },
-      {
-        "title": "Vulnérabilité dans Apache Tomcat (29 juillet 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-07-29T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0940/"
-      },
-      {
-        "title": "令和7年（2025年）政策評価・行政事業レビューにおける政策評価の結果及び政策への反映状況を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-08-06T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/assessment/project-review/2025"
-      },
-      {
-        "title": "「SNOW」と称するアプリケーションの利用サービスの提供事業者2社に対する景品表示法に基づく措置命令について | 消費者庁",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T09:28:19+00:00",
+        "published_at": "2026-08-06T11:03:01+00:00",
         "relevance_score": 5,
-        "url": "https://www.caa.go.jp/notice/entry/047140/"
-      },
-      {
-        "title": "東京メトロ、銀座線・丸ノ内線を大増発 計212本",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T08:41:46+00:00",
-        "relevance_score": 5,
-        "url": "https://www.watch.impress.co.jp/docs/news/2131246.html"
-      },
-      {
-        "title": "「プチプチ」の川上産業、「プチプチ株式会社」に社名変更 創業58年で",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T05:02:56+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000419/"
+        "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/"
       }
     ]
   }

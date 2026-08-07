@@ -1,97 +1,47 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-06T22:19:32+00:00",
+  "generated_at": "2026-08-07T00:11:49+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 10,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 3,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
-    "medium": 15,
-    "observe": 39
+    "medium": 1,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "The end of manual finance? AI agents are coming for startup payments",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Agent Plugins",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-06T01:00:42+00:00",
-      "relevance_score": 20,
-      "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
-      "summary": "For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. Th…",
+      "published_at": "2026-08-06T16:42:23+00:00",
+      "relevance_score": 18,
+      "url": "https://agent-plugins.org/",
+      "summary": "Agent PluginsA portable package format for reusable components that extend AI agents. Agent Plugins is an open, vendor-neutral standard for packaging reusable components into portable plugins. Its version 1.0.0 specification defines a shared format for Agent…",
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (fast-uri,OpenTelemetry-Go) : Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-06T11:56:09+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2334",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Denial-of-Service-Zustand auszulösen.",
-      "section": "medium"
-    },
-    {
-      "title": "Singapore firms embrace agentic AI, but audit trails remain thin",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T08:41:19+00:00",
-      "relevance_score": 17,
-      "url": "https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/",
-      "summary": "Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still canno…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-06T11:46:08+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2668",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "Kimi K3 is now available in GitHub Copilot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-06T17:27:25+00:00",
-      "relevance_score": 13,
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "summary": "Editor’s note (August 6, 2026): We have temporarily paused the roll-out of Kimi K3 while we mitigate an incident with GitHub Actions. We will resume the roll-out as soon as… The post Kimi K3 is now available in GitHub Copilot appeared first on The GitHub Blog…",
+      "published_at": "2026-08-06T21:56:45+00:00",
+      "relevance_score": 10,
+      "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン...",
       "section": "observe"
     },
     {
-      "title": "Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
-      "source": "heise Security Alerts",
+      "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-06T08:00:00.000+00:00",
-      "relevance_score": 12,
-      "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
-      "summary": "Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.",
-      "section": "observe"
-    },
-    {
-      "title": "MDV backs Funding Societies to reach more technology-driven Malaysian SMEs",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T04:48:33+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/mdv-backs-funding-societies-to-reach-more-technology-driven-malaysian-smes-20260806/",
-      "summary": "For many small businesses in Malaysia, the challenge is not finding demand. It is finding working capital quickly enough to buy inventory, take on larger contracts, pay suppliers, or bridge the gap between completing a job and getting paid. That financing gap…",
-      "section": "observe"
-    },
-    {
-      "title": "Southeast Asia can’t simply license its way to stablecoin sovereignty",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-06T04:00:08+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/southeast-asia-cant-simply-license-its-way-to-stablecoin-sovereignty-20260806/",
-      "summary": "There’s a number that should reframe every stablecoin policy debate in the region, and it isn’t flattering. As of early 2026, the global stablecoin market is worth north of US$300 billion, and about 99.76 per cent of it is backed by the US dollar. Non-dollar…",
+      "published_at": "2026-08-06T11:03:01+00:00",
+      "relevance_score": 5,
+      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
+      "summary": "家系ラーメン店の情報をまとめたWebサービス「家系ラーメンマニア」のXアカウントは8月6日、店舗情報の提供を一時停止すると発表した。一部の店舗情報が最新ではなく、寄せられた情報を迅速に確認・反映できる体制を整えられていないためという。投稿機能と地図機能は引き続き利用できる。 家系ラーメンマニアは、個人開...",
       "section": "observe"
     }
   ],
@@ -100,145 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The end of manual finance? AI agents are coming for startup payments” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The end of manual finance? AI agents are coming for startup payments",
-        "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-06T01:00:42+00:00",
-        "age_days": 0.89,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 48.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: chain",
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was clear: digitise what used to be manual…"
-      },
-      {
-        "title": "[UPDATE] [hoch] WSO2 API Manager: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2085",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T11:56:09+00:00",
-        "age_days": 0.44,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in WSO2 API Manager ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um einen SQL-Injection Angriff durchzuführen, um einen Cross-Site Scripting Angriff…"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2638",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-06T08:52:30+00:00",
-        "age_days": 0.56,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um Informationen offenzulegen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "How we took malware advisories beyond npm",
-        "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-06T16:51:12+00:00",
-        "age_days": 0.23,
-        "topics": [
-          "ai",
-          "security",
-          "infra"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: supply, chain, pipeline",
-          "security high-signal: security, advisory"
-        ],
-        "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog ."
-      },
-      {
-        "title": "Sicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
-        "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-06T08:00:00.000+00:00",
-        "age_days": 0.6,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen."
-      }
-    ]
-  }
+  ]
 }
