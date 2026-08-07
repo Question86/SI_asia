@@ -110,5 +110,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “AI agents could help Southeast Asian firms untangle cross-border payment costs” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=50.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "AI agents could help Southeast Asian firms untangle cross-border payment costs",
+        "url": "https://e27.co/ai-agents-could-help-southeast-asian-firms-untangle-cross-border-payment-costs-20260807/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T03:49:57+00:00",
+        "age_days": 0.21,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 50.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: regional",
+          "high terms: rce",
+          "security high-signal: rce",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "For many Southeast Asian companies, selling across borders has become easier than getting paid across them. A merchant in Singapore can source from Vietnam, sell to customers in Indonesia, pay a logistics partner in Thailand, and settle invoices with a platform in the US. The commercial opportunity is regional, even g…"
+      },
+      {
+        "title": "OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
+        "url": "https://jvn.jp/vu/JVNVU92139835/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-07T11:15:30+09:00",
+        "age_days": 0.27,
+        "topics": [
+          "axiom",
+          "security"
+        ],
+        "dynamics_score": 49.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [5th August 2026]が公開されました。"
+      },
+      {
+        "title": "[UPDATE] [mittel] Apache CXF: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2682",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T04:41:07+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
+        "url": "https://jvn.jp/vu/JVNVU92842469/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-07T11:15:15+09:00",
+        "age_days": 0.27,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "2026年08月06日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "goauthentik/authentik",
+        "url": "https://github.com/goauthentik/authentik",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-08-07T04:14:32+00:00",
+        "age_days": 0.19,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, auth",
+          "security high-signal: rce, auth"
+        ],
+        "summary": "The authentication glue you need. What is authentik? authentik is an open-source Identity Provider (IdP) for modern SSO. It supports SAML, OAuth2/OIDC, LDAP, RADIUS, and more, designed for self-hosting from small labs to large production clusters. Our enterprise offering is available for organizations to securely repl…"
+      }
+    ]
+  }
 }
