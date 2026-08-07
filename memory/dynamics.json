@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-07T06:27:07Z",
+  "generated_at": "2026-08-07T06:53:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 30,
     "bands": {
       "extreme": 2,
       "krass": 3,
       "strong": 7,
-      "quiet": 15
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 12,
-      "quiet": 15
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/vu/JVNVU96816564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-07T11:15:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://e27.co/ai-agents-could-help-southeast-asian-firms-untangle-cross-border-payment-costs-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T03:49:57+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -75,7 +75,7 @@
       "url": "https://jvn.jp/vu/JVNVU92139835/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-07T11:15:30+09:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -103,7 +103,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2682",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T04:41:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -129,7 +129,7 @@
       "url": "https://jvn.jp/vu/JVNVU92842469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-07T11:15:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -154,7 +154,7 @@
       "url": "https://github.com/goauthentik/authentik",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-07T04:14:32+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -180,7 +180,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 49.19,
+      "age_days": 49.21,
       "topics": [
         "ai"
       ],
@@ -209,7 +209,7 @@
       "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T03:00:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security",
@@ -237,7 +237,7 @@
       "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T02:00:32+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security",
@@ -267,7 +267,7 @@
       "url": "https://agent-plugins.org/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T16:42:23+00:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "ai"
       ],
@@ -293,7 +293,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-07T03:16:15.921+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -318,7 +318,7 @@
       "url": "https://e27.co/the-4-horsemen-of-the-professional-apocalypse-and-how-to-defeat-them-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T01:00:32+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -341,7 +341,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T22:05:53+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -361,11 +361,35 @@
       "summary": "試験対象は、ごく微量のピーナツにも反応する成人15人（抗菌薬前処置なし10人＋あり5人）。健康な腸内細菌叢を持つドナーの便から作った凍結カプセル36個を、数時間かけて服用してもらった。 その結果、4カ月後に調査で、10人中3人がピーナツを数粒食べられるまでに改善していた。 続く段階では、移植前に抗菌薬を投与し..."
     },
     {
+      "title": "地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments/specification",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-07T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local"
+      ],
+      "summary": "地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました"
+    },
+    {
       "title": "When AI starts thinking for us",
       "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T02:45:43+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -386,11 +410,59 @@
       "summary": "The Philippines is embracing generative AI at remarkable speed. But unless we learn to question it, govern it, and retain ownership of our decisions, the technology meant to empower us may quietly weaken our ability to think and act for ourselves. EVER asked ChatGPT to write an email, settle an argument, interpret a m…"
     },
     {
+      "title": "職員の個人情報の漏えいについて",
+      "url": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-07T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "職員の個人情報の漏えいについて"
+    },
+    {
+      "title": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施",
+      "url": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-07T06:00:00+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施"
+    },
+    {
       "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T11:03:01+00:00",
-      "age_days": 0.81,
+      "age_days": 0.83,
       "topics": [
         "general"
       ],
@@ -414,7 +486,7 @@
       "url": "https://e27.co/the-principles-that-govern-both-chemical-plants-and-financial-systems-20260727/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T01:30:58+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -438,7 +510,7 @@
       "url": "https://e27.co/the-strategic-priority-how-initiatives-actually-get-chosen-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T01:00:26+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -462,7 +534,7 @@
       "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T02:30:36+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -488,7 +560,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T21:56:45+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -513,7 +585,7 @@
       "url": "https://news.web.nhk/newsweb/na/na-k10015198141000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T14:39:13+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -539,7 +611,7 @@
       "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T22:30:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -564,7 +636,7 @@
       "url": "https://e27.co/bitcoin-holds-us64341-while-miners-bleed-us1-26b-what-is-really-happening-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T03:06:56+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -591,7 +663,7 @@
       "url": "https://blog.pinkumohikan.com/entry/gianism-for-working",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T00:42:26+00:00",
-      "age_days": 2.24,
+      "age_days": 2.26,
       "topics": [
         "ai"
       ],
@@ -617,7 +689,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 48.15,
+      "age_days": 48.17,
       "topics": [
         "general"
       ],
@@ -642,7 +714,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 48.15,
+      "age_days": 48.17,
       "topics": [
         "general"
       ],
@@ -667,7 +739,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 48.15,
+      "age_days": 48.17,
       "topics": [
         "ai"
       ],
@@ -694,7 +766,7 @@
       "url": "https://e27.co/invisible-banking-how-embedded-finance-is-quietly-rewiring-seas-economy-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T04:24:03+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
