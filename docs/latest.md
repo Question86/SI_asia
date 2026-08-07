@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T17:26:22+00:00_
+_Generiert: 2026-08-07T18:26:02+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+69 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -167,6 +167,15 @@ _Generiert: 2026-08-07T17:26:22+00:00_
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: AI Native Dev Night Tokyoでお話しした内容になります。 https://kinto-technologies.connpass.com/event/398365/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Secret scanning coverage updates** — Score 12, opportunity — [Quelle](https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-07T16:54:47+00:00`, fetched `2026-08-07T18:25:30+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is… The post Secret scanning coverage updates appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **How HSP GRUPPE builds AI capabilities for tax advisory** — Score 11, observation — [Quelle](https://openai.com/index/hsp-gruppe)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-07T09:00:00+00:00`, fetched `2026-08-07T09:16:04+00:00`
@@ -274,15 +283,6 @@ _Generiert: 2026-08-07T17:26:22+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Ruby on Rails activestorage. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angreifer attackieren IBM Langflow und Apache-Tomcat-Server** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-07T10:12:00.000+00:00`, fetched `2026-08-07T10:26:01+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Derzeit schieben Angreifer Schadcode auf IBM-Langflow-Instanzen. Im Cluster-Betrieb von Apache Tomcat können sie Datenverkehr mitlesen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

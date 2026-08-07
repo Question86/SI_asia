@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-07T17:26:22+00:00_
+_Generated: 2026-08-07T18:26:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `68`
+- findings: `69`
 
 ## Top Signals
 
@@ -57,18 +57,18 @@ _Generated: 2026-08-07T17:26:22+00:00_
 - url: https://speakerdeck.com/watany/expiration-date-of-sdd
 - summary: AI Native Dev Night Tokyoでお話しした内容になります。 https://kinto-technologies.connpass.com/event/398365/
 
-### 8. How HSP GRUPPE builds AI capabilities for tax advisory
+### 8. Secret scanning coverage updates
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-08-07T16:54:47+00:00`
+- url: https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates
+- summary: This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is… The post Secret scanning coverage updates appear…
+
+### 9. How HSP GRUPPE builds AI capabilities for tax advisory
 - source: OpenAI News RSS
 - score: `11`
 - published: `2026-08-07T09:00:00+00:00`
 - url: https://openai.com/index/hsp-gruppe
 - summary: Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
-
-### 9. goauthentik/authentik
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/goauthentik/authentik
-- summary: The authentication glue you need. What is authentik? authentik is an open-source Identity Provider (IdP) for modern SSO. It supports SAML, OAuth2/OIDC, LDAP, RADIUS, and more, designed for self-hosting from small labs to large production clusters. Our enterpr…
 
 END OF DOCUMENT
