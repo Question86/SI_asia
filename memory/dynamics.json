@@ -1,30 +1,78 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-07T11:15:26Z",
+  "generated_at": "2026-08-07T11:44:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 10,
-      "strong": 13,
+      "strong": 15,
       "watch": 3,
-      "quiet": 12
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 25,
+      "strong": 27,
       "watch": 3,
-      "quiet": 12
+      "quiet": 10
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0918",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-07T11:26:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Manipulation von DNS Antworten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0817",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-07T11:26:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um DNS Antworten zu manipulieren."
+    },
     {
       "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96816564/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-07T11:15:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -48,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T09:16:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -72,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T09:11:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -96,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2666",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T08:21:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -120,7 +168,7 @@
       "url": "https://e27.co/ai-agents-could-help-southeast-asian-firms-untangle-cross-border-payment-costs-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T03:49:57+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -149,7 +197,7 @@
       "url": "https://jvn.jp/vu/JVNVU92139835/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-07T11:15:30+09:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -177,7 +225,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2705",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:51:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -203,7 +251,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2702",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:36:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -229,7 +277,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2700",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:21:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -255,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2699",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:21:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -281,7 +329,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2682",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T04:41:07+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -307,7 +355,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2701",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:21:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -332,7 +380,7 @@
       "url": "https://jvn.jp/vu/JVNVU92842469/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-07T11:15:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -357,7 +405,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2704",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:51:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -382,7 +430,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2703",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-07T10:36:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -407,7 +455,7 @@
       "url": "https://github.com/goauthentik/authentik",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-07T04:14:32+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -433,7 +481,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 49.39,
+      "age_days": 49.41,
       "topics": [
         "ai"
       ],
@@ -462,7 +510,7 @@
       "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T03:00:24+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security",
@@ -490,7 +538,7 @@
       "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T02:00:32+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "ai",
         "security",
@@ -520,7 +568,7 @@
       "url": "https://agent-plugins.org/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T16:42:23+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -546,7 +594,7 @@
       "url": "https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-07T10:12:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -572,7 +620,7 @@
       "url": "https://www.heise.de/news/Screen-Sharing-in-macOS-Luecke-ermoeglichte-Zugriff-ohne-Authentifizierung-11402599.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-07T08:38:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -597,7 +645,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Angreifer-koennen-WAN-Umgebungen-stoeren-11402697.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-07T07:57:00.000+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -622,7 +670,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-07T03:16:15.921+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -647,7 +695,7 @@
       "url": "https://e27.co/the-4-horsemen-of-the-professional-apocalypse-and-how-to-defeat-them-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T01:00:32+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -670,7 +718,7 @@
       "url": "https://www.heise.de/news/Durch-Metabase-0day-Datenleck-bei-Laptophersteller-Framework-11403050.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-07T10:10:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -694,7 +742,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-07T09:00:30.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -718,7 +766,7 @@
       "url": "https://e27.co/pulsetech-delivers-startup-bangladeshs-first-multi-fold-return-after-revenue-surge-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T09:03:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -742,7 +790,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T22:05:53+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -766,7 +814,7 @@
       "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T08:28:24+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -791,7 +839,7 @@
       "url": "https://www.digital.go.jp/policies/local_governments/specification",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-07T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -815,7 +863,7 @@
       "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T02:45:43+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -840,7 +888,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-08-07T08:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -867,7 +915,7 @@
       "url": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-07T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -891,7 +939,7 @@
       "url": "https://www.digital.go.jp/about/women-and-work-life-balance-action-plan",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-07T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -915,7 +963,7 @@
       "url": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-07T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -939,7 +987,7 @@
       "url": "https://speakerdeck.com/watany/expiration-date-of-sdd",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T12:55:49+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
@@ -960,11 +1008,11 @@
       "summary": "AI Native Dev Night Tokyoでお話しした内容になります。 https://kinto-technologies.connpass.com/event/398365/"
     },
     {
-      "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-06T11:03:01+00:00",
-      "age_days": 1.01,
+      "title": "Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return",
+      "url": "https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-07T11:23:19+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
@@ -981,56 +1029,8 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "家系ラーメン店の情報をまとめたWebサービス「家系ラーメンマニア」のXアカウントは8月6日、店舗情報の提供を一時停止すると発表した。一部の店舗情報が最新ではなく、寄せられた情報を迅速に確認・反映できる体制を整えられていないためという。投稿機能と地図機能は引き続き利用できる。 家系ラーメンマニアは、個人開..."
-    },
-    {
-      "title": "The principles that govern both chemical plants and financial systems",
-      "url": "https://e27.co/the-principles-that-govern-both-chemical-plants-and-financial-systems-20260727/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-07T01:30:58+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "In the second week of August 2009, four months into my first job as an R&D engineer at a pulp and paper plant in Riau, I told my supervisor I was leaving to join a bank. I was 23. I had spent four years studying chemical engineering, graduated at the top of my department, and […] The post The principles that govern bo…"
-    },
-    {
-      "title": "The strategic priority: How initiatives actually get chosen",
-      "url": "https://e27.co/the-strategic-priority-how-initiatives-actually-get-chosen-20260731/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-07T01:00:26+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Inside most organisations, the phrase strategic priority is treated as though it describes an objective fact. It sounds neutral, disciplined, and almost beyond debate. Leaders say an initiative is a strategic priority as if they are simply recognising reality. In practice, that phrase usually hides a far messier proce…"
+      "summary": "Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the ret…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
