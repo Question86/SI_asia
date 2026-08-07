@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T02:17:33+00:00",
-  "run_id": "2026-08-07T02:17:33+00:00",
+  "generated_at": "2026-08-07T03:20:49+00:00",
+  "run_id": "2026-08-07T03:20:49+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 6,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 1,
-    "medium": 5,
-    "observe": 6,
+    "medium": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -54,6 +54,31 @@
       }
     ],
     "medium": [
+      {
+        "title": "Securing Agentic AI for Singapore enterprises: A reference architecture",
+        "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-07T03:00:24+00:00",
+        "fetched_at": "2026-08-07T03:20:21+00:00",
+        "summary": "The Generative AI revolution is here, but for many enterprises in Singapore and Southeast Asia, adoption has hit a hard wall. The barrier isn’t a lack of use cases; it is Data Security and Hallucination Control. When dealing with highly sensitive domains (like Healthcare, Insurance, or Financial Data), passing raw payloads to external Large Language […] The post Securing Agentic AI for Singapore enterprises: A refer…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Produktidee",
+          "Security",
+          "Southeast Asia"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.8); Produktidee (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b72f1177d19659e2a10a"
+      },
       {
         "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
         "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
@@ -150,6 +175,65 @@
         "id": "c743f6cdfa073f3c5691"
       },
       {
+        "title": "When AI starts thinking for us",
+        "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-07T02:45:43+00:00",
+        "fetched_at": "2026-08-07T03:20:21+00:00",
+        "summary": "The Philippines is embracing generative AI at remarkable speed. But unless we learn to question it, govern it, and retain ownership of our decisions, the technology meant to empower us may quietly weaken our ability to think and act for ourselves. EVER asked ChatGPT to write an email, settle an argument, interpret a medical symptom, […] The post When AI starts thinking for us appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8e2f193ccf2e7bd04715"
+      },
+      {
+        "title": "M 5.0 - 7 km NW of Cabacao, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-07T03:16:15.921+00:00",
+        "fetched_at": "2026-08-07T03:20:21+00:00",
+        "summary": "DYFI? - IV Time 2026-08-07 02:38:10 UTC 2026-08-07 02:38:10 UTC at epicenter Location 13.386°N 120.611°E Depth 90.20 km (56.05 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c877dff357cd3a739961"
+      },
+      {
         "title": "The 4 horsemen of the professional apocalypse, and how to defeat them",
         "url": "https://e27.co/the-4-horsemen-of-the-professional-apocalypse-and-how-to-defeat-them-20260716/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -195,6 +279,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "Building through borders: A founder’s perspective on a fragmented world",
+        "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-07T02:30:36+00:00",
+        "fetched_at": "2026-08-07T03:20:21+00:00",
+        "summary": "For much of the last decade, “going global” was almost a rite of passage for startups. The formula seemed straightforward: build a product that solves a real problem, raise capital, expand into new markets, and let globalisation create the scale. Technology was increasingly borderless, capital flowed relatively freely, and businesses assumed that the world would […] The post Building through borders: A founder’s per…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "59e9d9de7bb7ae98ec06"
+      },
       {
         "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
@@ -261,6 +388,27 @@
         "id": "01d2c7fefccb14315b63"
       },
       {
+        "title": "“現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015198141000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-06T14:39:13+00:00",
+        "fetched_at": "2026-08-07T03:20:21+00:00",
+        "summary": "物流や建設などの「現場職」への転職について、20代の転職希望者の半数近くが関心を寄せていることが就職情報会社の調査で明らかになりました。背景にはデスクワークなどの「事務職」がAIに代替される危機感があ…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2bc042db31f6189e2d03"
+      },
+      {
         "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
         "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -280,6 +428,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1954b6659ec005ac305a"
+      },
+      {
+        "title": "Bitcoin holds US$64,341 while miners bleed US$1.26B: What is really happening?",
+        "url": "https://e27.co/bitcoin-holds-us64341-while-miners-bleed-us1-26b-what-is-really-happening-20260807/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-07T03:06:56+00:00",
+        "fetched_at": "2026-08-07T03:20:21+00:00",
+        "summary": "Bitcoin trades at US$64,341 after reaching a daily high of US$64,916 and establishing a daily low of US$64,114. The digital asset currently sits 3.8 per cent below its 30-day high of US$66,900. Traders observe a mixed moving average posture across multiple time frames. I believe the market currently lacks strong conviction, leaving participants waiting for […] The post Bitcoin holds US$64,341 while miners bleed US$1…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07f0cab5e7fe10472a61"
       },
       {
         "title": "The principles that govern both chemical plants and financial systems",
@@ -347,6 +515,31 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7ab6c83baa8178c858db"
+    },
+    {
+      "title": "Securing Agentic AI for Singapore enterprises: A reference architecture",
+      "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T03:00:24+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "The Generative AI revolution is here, but for many enterprises in Singapore and Southeast Asia, adoption has hit a hard wall. The barrier isn’t a lack of use cases; it is Data Security and Hallucination Control. When dealing with highly sensitive domains (like Healthcare, Insurance, or Financial Data), passing raw payloads to external Large Language […] The post Securing Agentic AI for Singapore enterprises: A refer…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Produktidee",
+        "Security",
+        "Southeast Asia"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.8); Produktidee (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b72f1177d19659e2a10a"
     },
     {
       "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
@@ -444,6 +637,65 @@
       "id": "c743f6cdfa073f3c5691"
     },
     {
+      "title": "When AI starts thinking for us",
+      "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T02:45:43+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "The Philippines is embracing generative AI at remarkable speed. But unless we learn to question it, govern it, and retain ownership of our decisions, the technology meant to empower us may quietly weaken our ability to think and act for ourselves. EVER asked ChatGPT to write an email, settle an argument, interpret a medical symptom, […] The post When AI starts thinking for us appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8e2f193ccf2e7bd04715"
+    },
+    {
+      "title": "M 5.0 - 7 km NW of Cabacao, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-07T03:16:15.921+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "DYFI? - IV Time 2026-08-07 02:38:10 UTC 2026-08-07 02:38:10 UTC at epicenter Location 13.386°N 120.611°E Depth 90.20 km (56.05 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c877dff357cd3a739961"
+    },
+    {
       "title": "The 4 horsemen of the professional apocalypse, and how to defeat them",
       "url": "https://e27.co/the-4-horsemen-of-the-professional-apocalypse-and-how-to-defeat-them-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -486,6 +738,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "86be1b1de5ec01311369"
+    },
+    {
+      "title": "Building through borders: A founder’s perspective on a fragmented world",
+      "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T02:30:36+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "For much of the last decade, “going global” was almost a rite of passage for startups. The formula seemed straightforward: build a product that solves a real problem, raise capital, expand into new markets, and let globalisation create the scale. Technology was increasingly borderless, capital flowed relatively freely, and businesses assumed that the world would […] The post Building through borders: A founder’s per…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "59e9d9de7bb7ae98ec06"
     },
     {
       "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
@@ -553,6 +848,27 @@
       "id": "01d2c7fefccb14315b63"
     },
     {
+      "title": "“現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198141000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-06T14:39:13+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "物流や建設などの「現場職」への転職について、20代の転職希望者の半数近くが関心を寄せていることが就職情報会社の調査で明らかになりました。背景にはデスクワークなどの「事務職」がAIに代替される危機感があ…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2bc042db31f6189e2d03"
+    },
+    {
       "title": "個人開発「家系ラーメンマニア」で利用者急増 対応追いつかず一部停止 「より信頼していただけるアプリに」",
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -572,6 +888,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1954b6659ec005ac305a"
+    },
+    {
+      "title": "Bitcoin holds US$64,341 while miners bleed US$1.26B: What is really happening?",
+      "url": "https://e27.co/bitcoin-holds-us64341-while-miners-bleed-us1-26b-what-is-really-happening-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T03:06:56+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "Bitcoin trades at US$64,341 after reaching a daily high of US$64,916 and establishing a daily low of US$64,114. The digital asset currently sits 3.8 per cent below its 30-day high of US$66,900. Traders observe a mixed moving average posture across multiple time frames. I believe the market currently lacks strong conviction, leaving participants waiting for […] The post Bitcoin holds US$64,341 while miners bleed US$1…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07f0cab5e7fe10472a61"
     },
     {
       "title": "The principles that govern both chemical plants and financial systems",
@@ -616,128 +952,161 @@
   ],
   "new_findings": [
     {
-      "title": "OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
-      "url": "https://jvn.jp/vu/JVNVU92139835/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-07T11:15:30+09:00",
-      "fetched_at": "2026-08-07T02:16:59+00:00",
-      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [5th August 2026]が公開されました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "CodeQL/Dependabot",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 24,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7ab6c83baa8178c858db"
-    },
-    {
-      "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
-      "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
+      "title": "Securing Agentic AI for Singapore enterprises: A reference architecture",
+      "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-07T02:00:32+00:00",
-      "fetched_at": "2026-08-07T02:16:59+00:00",
-      "summary": "Southeast Asia sits at an inflection point. The region commands 10 per cent of global GDP, controls critical supply chains, and possesses over 500 million people, a workforce larger than the European Union. Governments from Singapore to Japan have committed tens of billions to AI development. Training programmes have created millions of “AI-skilled” professionals. Investment […] The post Southeast Asia’s AI talent a…",
+      "published_at": "2026-08-07T03:00:24+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "The Generative AI revolution is here, but for many enterprises in Singapore and Southeast Asia, adoption has hit a hard wall. The barrier isn’t a lack of use cases; it is Data Security and Hallucination Control. When dealing with highly sensitive domains (like Healthcare, Insurance, or Financial Data), passing raw payloads to external Large Language […] The post Securing Agentic AI for Singapore enterprises: A refer…",
       "matched_keywords": [
+        "AI Agents",
         "AI/KI",
         "APAC Trend Radar",
-        "Macro/Policy",
-        "Southeast Asia",
-        "Supply Chain Security"
+        "Produktidee",
+        "Security",
+        "Southeast Asia"
       ],
       "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region europe: European Union (+2.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Security (+6.0); APAC Trend Radar (+3.8); Produktidee (+6.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "90c5627475c0111e21cd"
+      "id": "b72f1177d19659e2a10a"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
-      "url": "https://jvn.jp/vu/JVNVU92842469/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "When AI starts thinking for us",
+      "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-07T11:15:15+09:00",
-      "fetched_at": "2026-08-07T02:16:59+00:00",
-      "summary": "2026年08月06日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c743f6cdfa073f3c5691"
-    },
-    {
-      "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96816564/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-07T11:15:00+09:00",
-      "fetched_at": "2026-08-07T02:16:59+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "86be1b1de5ec01311369"
-    },
-    {
-      "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
-      "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-06T22:30:23+00:00",
-      "fetched_at": "2026-08-07T02:16:59+00:00",
-      "summary": "Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...",
+      "published_at": "2026-08-07T02:45:43+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "The Philippines is embracing generative AI at remarkable speed. But unless we learn to question it, govern it, and retain ownership of our decisions, the technology meant to empower us may quietly weaken our ability to think and act for ourselves. EVER asked ChatGPT to write an email, settle an argument, interpret a medical symptom, […] The post When AI starts thinking for us appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "OpenAI"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0045f08b3d1309d1781f"
+      "id": "8e2f193ccf2e7bd04715"
     },
     {
-      "title": "The principles that govern both chemical plants and financial systems",
-      "url": "https://e27.co/the-principles-that-govern-both-chemical-plants-and-financial-systems-20260727/",
+      "title": "M 5.0 - 7 km NW of Cabacao, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tivb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-07T03:16:15.921+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "DYFI? - IV Time 2026-08-07 02:38:10 UTC 2026-08-07 02:38:10 UTC at epicenter Location 13.386°N 120.611°E Depth 90.20 km (56.05 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c877dff357cd3a739961"
+    },
+    {
+      "title": "Building through borders: A founder’s perspective on a fragmented world",
+      "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-07T01:30:58+00:00",
-      "fetched_at": "2026-08-07T02:16:59+00:00",
-      "summary": "In the second week of August 2009, four months into my first job as an R&D engineer at a pulp and paper plant in Riau, I told my supervisor I was leaving to join a bank. I was 23. I had spent four years studying chemical engineering, graduated at the top of my department, and […] The post The principles that govern both chemical plants and financial systems appeared first on e27 .",
+      "published_at": "2026-08-07T02:30:36+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "For much of the last decade, “going global” was almost a rite of passage for startups. The formula seemed straightforward: build a product that solves a real problem, raise capital, expand into new markets, and let globalisation create the scale. Technology was increasingly borderless, capital flowed relatively freely, and businesses assumed that the world would […] The post Building through borders: A founder’s per…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "59e9d9de7bb7ae98ec06"
+    },
+    {
+      "title": "“現場職への転職”に20代の約半数が関心 背景にAIへの危機感 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198141000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-06T14:39:13+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "物流や建設などの「現場職」への転職について、20代の転職希望者の半数近くが関心を寄せていることが就職情報会社の調査で明らかになりました。背景にはデスクワークなどの「事務職」がAIに代替される危機感があ…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2bc042db31f6189e2d03"
+    },
+    {
+      "title": "Bitcoin holds US$64,341 while miners bleed US$1.26B: What is really happening?",
+      "url": "https://e27.co/bitcoin-holds-us64341-while-miners-bleed-us1-26b-what-is-really-happening-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T03:06:56+00:00",
+      "fetched_at": "2026-08-07T03:20:21+00:00",
+      "summary": "Bitcoin trades at US$64,341 after reaching a daily high of US$64,916 and establishing a daily low of US$64,114. The digital asset currently sits 3.8 per cent below its 30-day high of US$66,900. Traders observe a mixed moving average posture across multiple time frames. I believe the market currently lacks strong conviction, leaving participants waiting for […] The post Bitcoin holds US$64,341 while miners bleed US$1…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -748,7 +1117,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "200877f6bb69da0cfce4"
+      "id": "07f0cab5e7fe10472a61"
     }
   ],
   "source_errors": [],
