@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T14:10:42+00:00",
-  "run_id": "2026-08-07T14:10:42+00:00",
+  "generated_at": "2026-08-07T14:34:42+00:00",
+  "run_id": "2026-08-07T14:34:42+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 1,
-    "medium": 25,
+    "medium": 26,
     "observe": 35,
     "source_errors": 0
   },
@@ -336,6 +336,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8e2f193ccf2e7bd04715"
+      },
+      {
+        "title": "M 4.8 - 108 km NNW of Batang, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-07T14:24:22.040+00:00",
+        "fetched_at": "2026-08-07T14:34:12+00:00",
+        "summary": "Time 2026-08-07 14:07:39 UTC 2026-08-07 14:07:39 UTC at epicenter Location 5.639°S 110.219°E Depth 534.96 km (332.41 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8b19bd7f26da9b197cce"
       },
       {
         "title": "M 4.6 - 51 km WSW of Sarangani, Philippines",
@@ -1848,6 +1885,43 @@
       "id": "8e2f193ccf2e7bd04715"
     },
     {
+      "title": "M 4.8 - 108 km NNW of Batang, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-07T14:24:22.040+00:00",
+      "fetched_at": "2026-08-07T14:34:12+00:00",
+      "summary": "Time 2026-08-07 14:07:39 UTC 2026-08-07 14:07:39 UTC at epicenter Location 5.639°S 110.219°E Depth 534.96 km (332.41 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8b19bd7f26da9b197cce"
+    },
+    {
       "title": "M 4.6 - 51 km WSW of Sarangani, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3048,165 +3122,41 @@
   ],
   "new_findings": [
     {
-      "title": "Vulnérabilité dans Cisco Firewall Management Center (30 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0950/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "M 4.8 - 108 km NNW of Batang, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Cisco Firewall Management Center. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-20316 est activement exploitée.",
+      "published_at": "2026-08-07T14:24:22.040+00:00",
+      "fetched_at": "2026-08-07T14:34:12+00:00",
+      "summary": "Time 2026-08-07 14:07:39 UTC 2026-08-07 14:07:39 UTC at epicenter Location 5.639°S 110.219°E Depth 534.96 km (332.41 mi)",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Security",
-        "sécurité",
-        "vulnérabilité"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41dbdedf751716ec456f"
-    },
-    {
-      "title": "Multiples vulnérabilités dans PHP (31 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0952/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un déni de service et un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b63b174aa0671787f82c"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Progress MOVEit Transfer (31 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0951/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress MOVEit Transfer. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d83cd8b12d12f6523741"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Node.js (30 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0947/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c9fb10922b5cb6b10d9e"
-    },
-    {
-      "title": "Vulnérabilité dans Ruby on Rails activestorage (30 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0948/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Ruby on Rails activestorage. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e11e673be86b2f60ea30"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits VMware (30 juillet 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0949/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-30T00:00:00+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "77339f12d87fb222de98"
-    },
-    {
-      "title": "テストが増えすぎてもう限界だったので、PRで全テストを回すのをやめた話 - Timee Product Team Blog",
-      "url": "https://tech.timee.co.jp/entry/2026/08/07/164910",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-07T09:53:34+00:00",
-      "fetched_at": "2026-08-07T14:10:10+00:00",
-      "summary": "はじめに こんにちは、タイミーのプラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 この記事では、スキマバイトサービス「タイミー」のバックエンド（Rails API）に Datadog Test Impact Analysis（TIA） を導入し、PRごとのCIフィードバックを大幅に高速化した取り組みについて紹介します...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "62de05b214d1e22cb265"
+      "id": "8b19bd7f26da9b197cce"
     }
   ],
   "source_errors": [],
