@@ -294,6 +294,29 @@
     "id": "86be1b1de5ec01311369"
   },
   {
+    "title": "[UPDATE] [mittel] Apache CXF: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2682",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-07T04:41:07+00:00",
+    "fetched_at": "2026-08-07T04:56:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CXF ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1bc94e68a670d1747e23"
+  },
+  {
     "title": "goauthentik/authentik",
     "url": "https://github.com/goauthentik/authentik",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -485,6 +508,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1954b6659ec005ac305a"
+  },
+  {
+    "title": "Invisible banking: How embedded finance is quietly rewiring SEA’s economy",
+    "url": "https://e27.co/invisible-banking-how-embedded-finance-is-quietly-rewiring-seas-economy-20260807/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-07T04:24:03+00:00",
+    "fetched_at": "2026-08-07T04:56:53+00:00",
+    "summary": "Every time someone hops out of a Grab without touching their wallet, or taps “pay later” on a Shopee checkout, they are using a piece of financial infrastructure they never consciously chose. There is no app to download, no form to fill, no trip to a bank branch. The transaction simply happens, folded invisibly into […] The post Invisible banking: How embedded finance is quietly rewiring SEA’s economy appeared first…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a4953a503fbf5cc046c3"
   },
   {
     "title": "Bitcoin holds US$64,341 while miners bleed US$1.26B: What is really happening?",
