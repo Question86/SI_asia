@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-07T16:42:41+00:00",
+  "generated_at": "2026-08-07T17:04:58+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-8037 Progress LoadMaster",
+        "summary": "Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-07",
+        "metrics": {
+          "cve": "CVE-2026-8037"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-08-04",
         "metrics": {
           "cve": "CVE-2026-9198"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-18577 N-able N-central",
-        "summary": "Known exploited vulnerability. Added 2026-08-03. Due 2026-08-06. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-03",
-        "metrics": {
-          "cve": "CVE-2026-18577"
         }
       },
       {
