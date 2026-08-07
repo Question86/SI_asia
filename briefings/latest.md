@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T12:44:17+00:00_
+_Generiert: 2026-08-07T13:11:28+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+54 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -255,6 +255,15 @@ _Generiert: 2026-08-07T12:44:17+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Arizona wants Taiwan’s investors to think beyond chips** — Score 8, observation — [Quelle](https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-07T13:00:00+00:00`, fetched `2026-08-07T13:10:57+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angreifer attackieren IBM Langflow und Apache-Tomcat-Server** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-07T10:12:00.000+00:00`, fetched `2026-08-07T10:26:01+00:00`
@@ -308,15 +317,6 @@ _Generiert: 2026-08-07T12:44:17+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return** — Score 5, observation — [Quelle](https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-07T11:23:19+00:00`, fetched `2026-08-07T11:27:29+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the return multiple has been disclosed, but the […] The post Ecosystem Roundup: PulseTech delivers startup…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T12:44:17+00:00",
-  "run_id": "2026-08-07T12:44:17+00:00",
+  "generated_at": "2026-08-07T13:11:28+00:00",
+  "run_id": "2026-08-07T13:11:28+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 1,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 1,
     "medium": 24,
-    "observe": 28,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -923,6 +923,51 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0045f08b3d1309d1781f"
+      },
+      {
+        "title": "Arizona wants Taiwan’s investors to think beyond chips",
+        "url": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-07T13:00:00+00:00",
+        "fetched_at": "2026-08-07T13:10:57+00:00",
+        "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:chips_compute_datacenters"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "chips_compute_datacenters"
+        ],
+        "watchgraph_reasons": [
+          "chips_compute_datacenters: TSMC"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "ec051bb1a8443358ae5a"
       },
       {
         "title": "Angreifer attackieren IBM Langflow und Apache-Tomcat-Server",
@@ -2227,6 +2272,51 @@
       "id": "0045f08b3d1309d1781f"
     },
     {
+      "title": "Arizona wants Taiwan’s investors to think beyond chips",
+      "url": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T13:00:00+00:00",
+      "fetched_at": "2026-08-07T13:10:57+00:00",
+      "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:chips_compute_datacenters"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
+      "watchgraph_reasons": [
+        "chips_compute_datacenters: TSMC"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "ec051bb1a8443358ae5a"
+    },
+    {
       "title": "Angreifer attackieren IBM Langflow und Apache-Tomcat-Server",
       "url": "https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html",
       "source": "heise Security Alerts",
@@ -2634,7 +2724,53 @@
       "id": "ac3305499f3b1c401a38"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Arizona wants Taiwan’s investors to think beyond chips",
+      "url": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T13:00:00+00:00",
+      "fetched_at": "2026-08-07T13:10:57+00:00",
+      "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:chips_compute_datacenters"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
+      "watchgraph_reasons": [
+        "chips_compute_datacenters: TSMC"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "ec051bb1a8443358ae5a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
