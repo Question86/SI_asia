@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-07T01:35:08Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-07T02:37:06Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,88 @@
   ],
   "top_dynamics": [
     {
+      "title": "Alinto SOGo v5.12.7における不正な形式のICSカレンダー招待を介したクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96816564/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-07T11:15:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）",
+      "url": "https://jvn.jp/vu/JVNVU92139835/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-07T11:15:30+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [5th August 2026]が公開されました。"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
+      "url": "https://jvn.jp/vu/JVNVU92842469/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-07T11:15:15+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cisa, jvn, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "2026年08月06日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 48.98,
+      "age_days": 49.03,
       "topics": [
         "ai"
       ],
@@ -40,11 +117,41 @@
       "summary": ""
     },
     {
+      "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
+      "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-07T02:00:32+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, chain, regional",
+        "high terms: critical, rce, 10",
+        "security high-signal: critical, rce, 10",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Southeast Asia sits at an inflection point. The region commands 10 per cent of global GDP, controls critical supply chains, and possesses over 500 million people, a workforce larger than the European Union. Governments from Singapore to Japan have committed tens of billions to AI development. Training programmes have…"
+    },
+    {
       "title": "Agent Plugins",
       "url": "https://agent-plugins.org/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T16:42:23+00:00",
-      "age_days": 0.37,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -70,7 +177,7 @@
       "url": "https://e27.co/the-4-horsemen-of-the-professional-apocalypse-and-how-to-defeat-them-20260716/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T01:00:32+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -93,7 +200,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T22:05:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -117,7 +224,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/06/2000000430/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T11:03:01+00:00",
-      "age_days": 0.61,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -137,11 +244,35 @@
       "summary": "家系ラーメン店の情報をまとめたWebサービス「家系ラーメンマニア」のXアカウントは8月6日、店舗情報の提供を一時停止すると発表した。一部の店舗情報が最新ではなく、寄せられた情報を迅速に確認・反映できる体制を整えられていないためという。投稿機能と地図機能は引き続き利用できる。 家系ラーメンマニアは、個人開..."
     },
     {
+      "title": "The principles that govern both chemical plants and financial systems",
+      "url": "https://e27.co/the-principles-that-govern-both-chemical-plants-and-financial-systems-20260727/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-07T01:30:58+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "In the second week of August 2009, four months into my first job as an R&D engineer at a pulp and paper plant in Riau, I told my supervisor I was leaving to join a bank. I was 23. I had spent four years studying chemical engineering, graduated at the top of my department, and […] The post The principles that govern bo…"
+    },
+    {
       "title": "The strategic priority: How initiatives actually get chosen",
       "url": "https://e27.co/the-strategic-priority-how-initiatives-actually-get-chosen-20260731/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-07T01:00:26+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "macro"
       ],
@@ -165,7 +296,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-06T21:56:45+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -184,83 +315,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン..."
-    },
-    {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 47.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 47.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 47.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 47.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 47.95,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 47.9d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -272,8 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "quiet": 7
+      "strong": 7,
+      "quiet": 5
     }
   }
 }
