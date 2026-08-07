@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T07:31:19+00:00_
+_Generiert: 2026-08-07T08:00:18+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+27 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -149,14 +149,14 @@ _Generiert: 2026-08-07T07:31:19+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5)
+- **令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/women-and-work-life-balance-action-plan)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T06:32:32+00:00`
+  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T07:59:34+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施
+  - Kurz: 令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/07/2000000426/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

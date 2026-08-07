@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T07:31:19+00:00",
-  "run_id": "2026-08-07T07:31:19+00:00",
+  "generated_at": "2026-08-07T08:00:18+00:00",
+  "run_id": "2026-08-07T08:00:18+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 1,
     "medium": 10,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -518,6 +518,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b81d2f22e9ab13941927"
+      },
+      {
+        "title": "令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました",
+        "url": "https://www.digital.go.jp/about/women-and-work-life-balance-action-plan",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-07T06:00:00+00:00",
+        "fetched_at": "2026-08-07T07:59:34+00:00",
+        "summary": "令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "abffa955ae547a1bdcfe"
       },
       {
         "title": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施",
@@ -1194,6 +1214,26 @@
       "id": "b81d2f22e9ab13941927"
     },
     {
+      "title": "令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました",
+      "url": "https://www.digital.go.jp/about/women-and-work-life-balance-action-plan",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-07T06:00:00+00:00",
+      "fetched_at": "2026-08-07T07:59:34+00:00",
+      "summary": "令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "abffa955ae547a1bdcfe"
+    },
+    {
       "title": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施",
       "url": "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5",
       "source": "Japan Digital Agency News RSS",
@@ -1378,7 +1418,28 @@
       "id": "ac3305499f3b1c401a38"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました",
+      "url": "https://www.digital.go.jp/about/women-and-work-life-balance-action-plan",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-07T06:00:00+00:00",
+      "fetched_at": "2026-08-07T07:59:34+00:00",
+      "summary": "令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "abffa955ae547a1bdcfe"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
