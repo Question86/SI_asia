@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T15:17:16+00:00",
-  "run_id": "2026-08-07T15:17:16+00:00",
+  "generated_at": "2026-08-07T15:38:21+00:00",
+  "run_id": "2026-08-07T15:38:21+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 66
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "new_relevant_findings": 2,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 1,
-    "medium": 26,
-    "observe": 37,
+    "medium": 27,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -314,6 +314,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "903989d3b392b448a30b"
+      },
+      {
+        "title": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2131431.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T03:26:17+00:00",
+        "fetched_at": "2026-08-07T15:37:53+00:00",
+        "summary": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c3905a37a770974733f4"
       },
       {
         "title": "When AI starts thinking for us",
@@ -1263,6 +1286,27 @@
         "id": "8d1d8e34820ad744ce73"
       },
       {
+        "title": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-07T15:07:25+00:00",
+        "fetched_at": "2026-08-07T15:37:53+00:00",
+        "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have… The post GitHub Code Quality no longer adds Copilot as a reviewer appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8c574b5f167002ff104"
+      },
+      {
         "title": "職員の個人情報の漏えいについて",
         "url": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
         "source": "Japan Digital Agency News RSS",
@@ -1917,6 +1961,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "903989d3b392b448a30b"
+    },
+    {
+      "title": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2131431.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T03:26:17+00:00",
+      "fetched_at": "2026-08-07T15:37:53+00:00",
+      "summary": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c3905a37a770974733f4"
     },
     {
       "title": "When AI starts thinking for us",
@@ -2864,6 +2931,27 @@
       "id": "8d1d8e34820ad744ce73"
     },
     {
+      "title": "GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-07T15:07:25+00:00",
+      "fetched_at": "2026-08-07T15:37:53+00:00",
+      "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have… The post GitHub Code Quality no longer adds Copilot as a reviewer appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8c574b5f167002ff104"
+    },
+    {
       "title": "職員の個人情報の漏えいについて",
       "url": "https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299",
       "source": "Japan Digital Agency News RSS",
@@ -3234,24 +3322,48 @@
   ],
   "new_findings": [
     {
-      "title": "Set pull request limits at the organization level",
-      "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "source": "GitHub Changelog Atom",
+      "title": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2131431.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-06T23:46:17+00:00",
-      "fetched_at": "2026-08-07T15:16:45+00:00",
-      "summary": "You can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at… The post Set pull request limits at the organization level appeared first on The GitHub Blog .",
+      "published_at": "2026-08-07T03:26:17+00:00",
+      "fetched_at": "2026-08-07T15:37:53+00:00",
+      "summary": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
       "matched_keywords": [
-        "GitHub"
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fbd1f5fe78181f0cfa1e"
+      "id": "c3905a37a770974733f4"
+    },
+    {
+      "title": "GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-07T15:07:25+00:00",
+      "fetched_at": "2026-08-07T15:37:53+00:00",
+      "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have… The post GitHub Code Quality no longer adds Copilot as a reviewer appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8c574b5f167002ff104"
     }
   ],
   "source_errors": [],

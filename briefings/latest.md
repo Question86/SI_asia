@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T15:17:16+00:00_
+_Generiert: 2026-08-07T15:38:21+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+66 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -152,6 +152,15 @@ _Generiert: 2026-08-07T15:17:16+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Informationen offenzulegen und Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース** — Score 16, observation — [Quelle](https://ai.watch.impress.co.jp/docs/news/2131431.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-07T03:26:17+00:00`, fetched `2026-08-07T15:37:53+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 108 km NNW of Batang, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tixn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
