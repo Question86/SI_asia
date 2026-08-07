@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T09:16:34+00:00_
+_Generiert: 2026-08-07T09:39:40+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+39 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -283,14 +283,14 @@ _Generiert: 2026-08-07T09:16:34+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **老舗のマウスユーティリティ「チューチューマウス」がAIの力を借りて15年ぶりに復活／64bit化、Windows 10/11、「Chrome」も走り回る。復活記念で2026年末まで500円** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2131497.html)
+- **インシデント対応の属人化に、障害対応訓練で立ち向かっている - tebiki Tech Blog** — Score 5, observation — [Quelle](https://techblog.tebiki.co.jp/2026/08/07/163000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-07T05:47:22+00:00`, fetched `2026-08-07T09:16:04+00:00`
+  - Zeit: published `2026-08-07T07:31:59+00:00`, fetched `2026-08-07T09:39:12+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 老舗のマウスユーティリティ「チューチューマウス」がAIの力を借りて15年ぶりに復活／64bit化、Windows 10/11、「Chrome」も走り回る。復活記念で2026年末まで500円
+  - Kurz: QAエンジニア の @kiyou77 です。 「インシデントが起きたとき、動けるのがいつも同じ人ばかり」というのはよくある話かと思います。私たちの開発組織でも、負担が特定のメンバーに偏っている状況が続いていました。 この課題を少しずつ崩していくために、私たちTebikiでは昨年から 「障害対応訓練」 を実施しています。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Invisible banking: How embedded finance is quietly rewiring SEA’s economy** — Score 4, observation — [Quelle](https://e27.co/invisible-banking-how-embedded-finance-is-quietly-rewiring-seas-economy-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
