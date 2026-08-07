@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T22:23:26+00:00",
-  "run_id": "2026-08-07T22:23:26+00:00",
+  "generated_at": "2026-08-07T22:37:02+00:00",
+  "run_id": "2026-08-07T22:37:02+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 1,
@@ -3842,30 +3842,7 @@
       "id": "fbd1f5fe78181f0cfa1e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 http..",
-      "url": "https://anond.hatelabo.jp/20260807233039",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-07T14:35:37+00:00",
-      "fetched_at": "2026-08-07T22:22:44+00:00",
-      "summary": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md 仕組みと仕様 LLMに渡してるプロンプトを記載 https://bookmarker-encyclopedia.netlify.app/how-it-works/ ChatGPT APIとかいろいろ試したけど結局ChatGPT Chatに戻ったよ API 高すぎ！ Terr...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "56702070517cb38bccdf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
