@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T13:42:54+00:00_
+_Generiert: 2026-08-07T14:10:42+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+61 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -119,6 +119,15 @@ _Generiert: 2026-08-07T13:42:54+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Vulnérabilité dans Cisco Firewall Management Center (30 juillet 2026)** — Score 14, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0950/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-30T00:00:00+00:00`, fetched `2026-08-07T14:10:10+00:00`
+  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Cisco Firewall Management Center. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-20316 est activement exploitée.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -176,6 +185,15 @@ _Generiert: 2026-08-07T13:42:54+00:00_
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans PHP (31 juillet 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0952/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-31T00:00:00+00:00`, fetched `2026-08-07T14:10:10+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une injection SQL (SQLi), un déni de service et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECB publishes consolidated banking data for end-March 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-08-07T08:00:00+00:00`, fetched `2026-08-07T08:30:34+00:00`
@@ -203,6 +221,24 @@ _Generiert: 2026-08-07T13:42:54+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)
   - Kurz: The Taiwan Semiconductor Manufacturing Company (TSMC) fabrication plant in Phoenix, Arizona.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Progress MOVEit Transfer (31 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0951/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-31T00:00:00+00:00`, fetched `2026-08-07T14:10:10+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Progress MOVEit Transfer. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans Ruby on Rails activestorage (30 juillet 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0948/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-30T00:00:00+00:00`, fetched `2026-08-07T14:10:10+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Ruby on Rails activestorage. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angreifer attackieren IBM Langflow und Apache-Tomcat-Server** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-07T10:12:00.000+00:00`, fetched `2026-08-07T10:26:01+00:00`
@@ -229,33 +265,6 @@ _Generiert: 2026-08-07T13:42:54+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Apple hat in der Nacht zum Freitag für die letzten drei macOS-Versionen wichtige Updates vorgelegt. Sie beheben eine schwere Lücke in internen Netzwerken.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **職員の個人情報の漏えいについて** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T06:32:32+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 職員の個人情報の漏えいについて
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/local_governments/specification)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T06:32:32+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about/women-and-work-life-balance-action-plan)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-07T06:00:00+00:00`, fetched `2026-08-07T07:59:34+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
