@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T22:08:12+00:00",
-  "run_id": "2026-08-07T22:08:12+00:00",
+  "generated_at": "2026-08-07T22:23:26+00:00",
+  "run_id": "2026-08-07T22:23:26+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 1,
     "medium": 28,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -927,6 +927,28 @@
           "PINS"
         ],
         "id": "8d033e9705e3e6a88fec"
+      },
+      {
+        "title": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 http..",
+        "url": "https://anond.hatelabo.jp/20260807233039",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T14:35:37+00:00",
+        "fetched_at": "2026-08-07T22:22:44+00:00",
+        "summary": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md 仕組みと仕様 LLMに渡してるプロンプトを記載 https://bookmarker-encyclopedia.netlify.app/how-it-works/ ChatGPT APIとかいろいろ試したけど結局ChatGPT Chatに戻ったよ API 高すぎ！ Terr...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "56702070517cb38bccdf"
       },
       {
         "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -2813,6 +2835,28 @@
       "id": "8d033e9705e3e6a88fec"
     },
     {
+      "title": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 http..",
+      "url": "https://anond.hatelabo.jp/20260807233039",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T14:35:37+00:00",
+      "fetched_at": "2026-08-07T22:22:44+00:00",
+      "summary": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md 仕組みと仕様 LLMに渡してるプロンプトを記載 https://bookmarker-encyclopedia.netlify.app/how-it-works/ ChatGPT APIとかいろいろ試したけど結局ChatGPT Chatに戻ったよ API 高すぎ！ Terr...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56702070517cb38bccdf"
+    },
+    {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "url": "https://openai.com/index/hsp-gruppe",
       "source": "OpenAI News RSS",
@@ -3800,26 +3844,26 @@
   ],
   "new_findings": [
     {
-      "title": "Google マップの新機能「マップに相談」を日本で提供開始",
-      "url": "https://blog.google/intl/ja-jp/products/connect-communicate/japanese-ask-maps/",
+      "title": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 http..",
+      "url": "https://anond.hatelabo.jp/20260807233039",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-07T05:00:57+00:00",
-      "fetched_at": "2026-08-07T22:07:42+00:00",
-      "summary": "「マップに相談」が日本で利用可能になりました。Gemini との連携により、Google マップの新しい活用体験をお届けします。自然に会話するように使い、リアルタイムの情報やパーソナライズされた提案をもとに、旅行などお出かけの計画をより簡単にスマートに。 この度、これまでの地図では答えることが難しかった現実的で...",
+      "published_at": "2026-08-07T14:35:37+00:00",
+      "fetched_at": "2026-08-07T22:22:44+00:00",
+      "summary": "ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md 仕組みと仕様 LLMに渡してるプロンプトを記載 https://bookmarker-encyclopedia.netlify.app/how-it-works/ ChatGPT APIとかいろいろ試したけど結局ChatGPT Chatに戻ったよ API 高すぎ！ Terr...",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "386eb5133bef9498c6de"
+      "id": "56702070517cb38bccdf"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T22:08:12+00:00_
+_Generiert: 2026-08-07T22:23:26+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+76 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -251,6 +251,15 @@ _Generiert: 2026-08-07T22:08:12+00:00_
   - Warum relevant: AI/KI (+3.8); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Enterprise owners can now centrally control which Model Context Protocol (MCP) servers GitHub Copilot clients are allowed to run by using the new allowedMcpServers and deniedMcpServers keys in enterprise managed… The post MCP allowlists in enterprise managed settings appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 http..** — Score 11, observation — [Quelle](https://anond.hatelabo.jp/20260807233039)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-07T14:35:37+00:00`, fetched `2026-08-07T22:22:44+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ブックマーカー図鑑 3298 人収録 気づけば3000人超えてたよ 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md 仕組みと仕様 LLMに渡してるプロンプトを記載 https://bookmarker-encyclopedia.netlify.app/how-it-works/ ChatGPT APIとかいろいろ試したけど結局ChatGPT Chatに戻ったよ API 高すぎ！ Terr...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How HSP GRUPPE builds AI capabilities for tax advisory** — Score 11, observation — [Quelle](https://openai.com/index/hsp-gruppe)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-07T09:00:00+00:00`, fetched `2026-08-07T09:16:04+00:00`
@@ -295,15 +304,6 @@ _Generiert: 2026-08-07T22:08:12+00:00_
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For much of the last decade, “going global” was almost a rite of passage for startups. The formula seemed straightforward: build a product that solves a real problem, raise capital, expand into new markets, and let globalisation create the scale. Technology was increasingly borderless, capital flowed relatively freely, and businesses assumed that the world would […] The post Building through borders: A founder’s per…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-06T21:56:45+00:00`, fetched `2026-08-07T00:11:19+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans PHP (31 juillet 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0952/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
