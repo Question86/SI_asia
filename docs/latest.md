@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T08:31:05+00:00_
+_Generiert: 2026-08-07T08:52:59+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+32 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -148,6 +148,15 @@ _Generiert: 2026-08-07T08:31:05+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Screen Sharing in macOS: Lücke ermöglichte Zugriff ohne Authentifizierung** — Score 7, observation — [Quelle](https://www.heise.de/news/Screen-Sharing-in-macOS-Luecke-ermoeglichte-Zugriff-ohne-Authentifizierung-11402599.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-07T08:38:00.000+00:00`, fetched `2026-08-07T08:52:29+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Apple hat in der Nacht zum Freitag für die letzten drei macOS-Versionen wichtige Updates vorgelegt. Sie beheben eine schwere Lücke in internen Netzwerken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitsupdates Cisco: Angreifer können WAN-Umgebungen stören** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Cisco-Angreifer-koennen-WAN-Umgebungen-stoeren-11402697.html)
   - Quelle: heise Security Alerts / `rss`
