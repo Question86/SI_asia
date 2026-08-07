@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-07T08:52:59+00:00",
+  "generated_at": "2026-08-07T09:16:34+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 6,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 1,
-    "medium": 12,
-    "observe": 19
+    "medium": 15,
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "medium"
     },
     {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-07T09:00:00+00:00",
+      "relevance_score": 11,
+      "url": "https://openai.com/index/hsp-gruppe",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "section": "observe"
+    },
+    {
       "title": "goauthentik/authentik",
       "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
@@ -75,6 +85,16 @@
       "section": "observe"
     },
     {
+      "title": "PulseTech delivers Startup Bangladesh’s first multi-fold return after revenue surge",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-07T09:03:58+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/pulsetech-delivers-startup-bangladeshs-first-multi-fold-return-after-revenue-surge-20260807/",
+      "summary": "In young startup ecosystems, the first meaningful return matters almost as much as the cheque that produced it. It gives founders, investors and policymakers something more concrete than optimism: proof that local companies can grow fast, make money, and retu…",
+      "section": "observe"
+    },
+    {
       "title": "Building through borders: A founder’s perspective on a fragmented world",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,26 +102,6 @@
       "relevance_score": 10,
       "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/",
       "summary": "For much of the last decade, “going global” was almost a rite of passage for startups. The formula seemed straightforward: build a product that solves a real problem, raise capital, expand into new markets, and let globalisation create the scale. Technology w…",
-      "section": "observe"
-    },
-    {
-      "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-06T21:56:45+00:00",
-      "relevance_score": 10,
-      "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/",
-      "summary": "【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン...",
-      "section": "observe"
-    },
-    {
-      "title": "ECB publishes consolidated banking data for end-March 2026",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-08-07T08:00:00+00:00",
-      "relevance_score": 9,
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
-      "summary": "ECB publishes consolidated banking data for end-March 2026",
       "section": "observe"
     }
   ],

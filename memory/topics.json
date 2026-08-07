@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-07T08:52:59+00:00",
+  "generated_at": "2026-08-07T09:16:34+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,20 @@
         "published_at": "2026-08-07T11:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96816564/"
+      },
+      {
+        "title": "[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T09:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Portable Runtime (APR): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T09:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697"
       },
       {
         "title": "[UPDATE] [hoch] cPanel cPanel/WHM (Archive-Tar): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
@@ -105,6 +119,13 @@
         "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/"
       },
       {
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-07T09:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://openai.com/index/hsp-gruppe"
+      },
+      {
         "title": "goauthentik/authentik",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -124,13 +145,6 @@
         "published_at": "2026-08-06T21:56:45+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/"
-      },
-      {
-        "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T22:30:23+00:00",
-        "relevance_score": 9,
-        "url": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b"
       }
     ],
     "geopolitics": [
@@ -154,6 +168,27 @@
         "published_at": "2026-08-07T08:28:24+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/"
+      },
+      {
+        "title": "[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T09:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Portable Runtime (APR): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T09:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697"
+      },
+      {
+        "title": "PulseTech delivers Startup Bangladesh’s first multi-fold return after revenue surge",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-07T09:03:58+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/pulsetech-delivers-startup-bangladeshs-first-multi-fold-return-after-revenue-surge-20260807/"
       },
       {
         "title": "Building through borders: A founder’s perspective on a fragmented world",
@@ -185,6 +220,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.6 - 51 km WSW of Sarangani, Philippines",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-07T09:00:30.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tiwj"
+      },
       {
         "title": "M 5.0 - 7 km NW of Cabacao, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",

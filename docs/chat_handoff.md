@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-07T08:52:59+00:00_
+_Generated: 2026-08-07T09:16:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `38`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-08-07T08:52:59+00:00_
 - url: https://agent-plugins.org/
 - summary: Agent PluginsA portable package format for reusable components that extend AI agents. Agent Plugins is an open, vendor-neutral standard for packaging reusable components into portable plugins. Its version 1.0.0 specification defines a shared format for Agent…
 
-### 6. goauthentik/authentik
+### 6. How HSP GRUPPE builds AI capabilities for tax advisory
+- source: OpenAI News RSS
+- score: `11`
+- published: `2026-08-07T09:00:00+00:00`
+- url: https://openai.com/index/hsp-gruppe
+- summary: Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.
+
+### 7. goauthentik/authentik
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/goauthentik/authentik
 - summary: The authentication glue you need. What is authentik? authentik is an open-source Identity Provider (IdP) for modern SSO. It supports SAML, OAuth2/OIDC, LDAP, RADIUS, and more, designed for self-hosting from small labs to large production clusters. Our enterpr…
 
-### 7. Building through borders: A founder’s perspective on a fragmented world
+### 8. PulseTech delivers Startup Bangladesh’s first multi-fold return after revenue surge
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-07T09:03:58+00:00`
+- url: https://e27.co/pulsetech-delivers-startup-bangladeshs-first-multi-fold-return-after-revenue-surge-20260807/
+- summary: In young startup ecosystems, the first meaningful return matters almost as much as the cheque that produced it. It gives founders, investors and policymakers something more concrete than optimism: proof that local companies can grow fast, make money, and retu…
+
+### 9. Building through borders: A founder’s perspective on a fragmented world
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-07T02:30:36+00:00`
 - url: https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/
 - summary: For much of the last decade, “going global” was almost a rite of passage for startups. The formula seemed straightforward: build a product that solves a real problem, raise capital, expand into new markets, and let globalisation create the scale. Technology w…
-
-### 8. AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-08-06T21:56:45+00:00`
-- url: https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/
-- summary: 【シリコンバレー=山田遼太郎】米スタンフォード大は6日、人工知能（AI）を使って自然界にない新たなウイルスを作成することに成功したと発表した。AIが生命の設計図にあたるゲノム（全遺伝情報）の配列全体を設計し、機能を確認できた初の事例という。医療の進歩につながる一方、バイオ兵器など悪用懸念もある。スタン...
-
-### 9. ECB publishes consolidated banking data for end-March 2026
-- source: ECB Press Releases Speeches Interviews
-- score: `9`
-- published: `2026-08-07T08:00:00+00:00`
-- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html
-- summary: ECB publishes consolidated banking data for end-March 2026
 
 END OF DOCUMENT
