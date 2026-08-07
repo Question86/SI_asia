@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T11:28:02+00:00",
-  "run_id": "2026-08-07T11:28:02+00:00",
+  "generated_at": "2026-08-07T11:46:52+00:00",
+  "run_id": "2026-08-07T11:46:52+00:00",
   "date": "2026-08-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 53,
     "displayed_findings": 53,
     "high": 1,
@@ -2634,95 +2634,7 @@
       "id": "ac3305499f3b1c401a38"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0918",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-07T11:26:06+00:00",
-      "fetched_at": "2026-08-07T11:27:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d8b537ab45037f24c3a9"
-    },
-    {
-      "title": "[UPDATE] [mittel] GNU libc: Mehrere Schwachstellen ermöglichen Manipulation von DNS Antworten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0817",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-07T11:26:06+00:00",
-      "fetched_at": "2026-08-07T11:27:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um DNS Antworten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "81339a6ba63b65762f6e"
-    },
-    {
-      "title": "Ecosystem Roundup: PulseTech delivers startup Bangladesh’s first big return",
-      "url": "https://e27.co/ecosystem-roundup-pulsetech-delivers-startup-bangladeshs-first-big-return-20260807/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-07T11:23:19+00:00",
-      "fetched_at": "2026-08-07T11:27:29+00:00",
-      "summary": "Startup Bangladesh, the government’s catalytic venture fund, has notched its first multi-fold exit — from PulseTech, a Dhaka pharmaceutical distribution startup that has scaled from US$2M to US$150M in annualised revenue in just two years. The fund backed PulseTech in 2024; neither the original cheque size nor the return multiple has been disclosed, but the […] The post Ecosystem Roundup: PulseTech delivers startup…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ecc2679aef6bdecfe30c"
-    },
-    {
-      "title": "KDDI、楽天へのローミングを9月末で終了",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2131649.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-07T08:59:02+00:00",
-      "fetched_at": "2026-08-07T11:27:29+00:00",
-      "summary": "KDDI、楽天へのローミングを9月末で終了",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "23866f247197c04e549b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
