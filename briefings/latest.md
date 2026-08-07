@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-07T10:04:04+00:00_
+_Generiert: 2026-08-07T10:26:31+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
+45 neue relevante Treffer. Stärkstes Signal: „OpenSSLのOCSPレスポンス検証におけるクライアント側のメモリリークの脆弱性（CVE-2026-54876）“ aus JVN Japan Vulnerability Notes (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ _Generiert: 2026-08-07T10:04:04+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Agent PluginsA portable package format for reusable components that extend AI agents. Agent Plugins is an open, vendor-neutral standard for packaging reusable components into portable plugins. Its version 1.0.0 specification defines a shared format for Agent Skills and MCP servers that compatible...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [hoch] WordPress: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2701)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-07T10:21:06+00:00`, fetched `2026-08-07T10:26:01+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU92842469/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-07T11:15:15+09:00`, fetched `2026-08-07T02:16:59+00:00`
@@ -145,36 +154,36 @@ _Generiert: 2026-08-07T10:04:04+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2698)
+- **[NEU] [mittel] ffmpeg: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2700)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-07T09:16:05+00:00`, fetched `2026-08-07T09:16:04+00:00`
+  - Zeit: published `2026-08-07T10:21:06+00:00`, fetched `2026-08-07T10:26:01+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in jsoup ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Programmcode auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] Apache Portable Runtime (APR): Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2697)
+- **[NEU] [hoch] Wazuh: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2699)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-07T09:11:05+00:00`, fetched `2026-08-07T09:16:04+00:00`
+  - Zeit: published `2026-08-07T10:21:06+00:00`, fetched `2026-08-07T10:26:01+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Portable Runtime (APR) ausnutzen, um SQL-Injection durchzuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] cPanel cPanel/WHM (Archive-Tar): Mehrere Schwachstellen ermöglichen Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2666)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-07T08:21:06+00:00`, fetched `2026-08-07T08:30:34+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in cPanel cPanel/WHM ausnutzen, um vertrauliche Informationen preiszugeben oder Daten zu manipulieren.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um einen SQL-Injection Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **仕様駆動開発の消費期限** — Score 13, observation — [Quelle](https://speakerdeck.com/watany/expiration-date-of-sdd)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-06T12:55:49+00:00`, fetched `2026-08-07T10:26:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: AI Native Dev Night Tokyoでお話しした内容になります。 https://kinto-technologies.connpass.com/event/398365/
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How HSP GRUPPE builds AI capabilities for tax advisory** — Score 11, observation — [Quelle](https://openai.com/index/hsp-gruppe)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-07T09:00:00+00:00`, fetched `2026-08-07T09:16:04+00:00`
@@ -238,6 +247,24 @@ _Generiert: 2026-08-07T10:04:04+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するにはRAGやLLM wikiといった周辺技術への理解が欠かせ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angreifer attackieren IBM Langflow und Apache-Tomcat-Server** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-07T10:12:00.000+00:00`, fetched `2026-08-07T10:26:01+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Derzeit schieben Angreifer Schadcode auf IBM-Langflow-Instanzen. Im Cluster-Betrieb von Apache Tomcat können sie Datenverkehr mitlesen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Durch Metabase-0day: Datenleck bei Laptophersteller Framework** — Score 7, observation — [Quelle](https://www.heise.de/news/Durch-Metabase-0day-Datenleck-bei-Laptophersteller-Framework-11403050.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-07T10:10:00.000+00:00`, fetched `2026-08-07T10:26:01+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Nur wenige Stunden nach Bekanntwerden einer Sicherheitslücke informiert der Framework seine Kunden. Metabase veröffentlichte eigene Sicherheitshinweise.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Screen Sharing in macOS: Lücke ermöglichte Zugriff ohne Authentifizierung** — Score 7, observation — [Quelle](https://www.heise.de/news/Screen-Sharing-in-macOS-Luecke-ermoeglichte-Zugriff-ohne-Authentifizierung-11402599.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-07T08:38:00.000+00:00`, fetched `2026-08-07T08:52:29+00:00`
@@ -246,15 +273,6 @@ _Generiert: 2026-08-07T10:04:04+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Apple hat in der Nacht zum Freitag für die letzten drei macOS-Versionen wichtige Updates vorgelegt. Sie beheben eine schwere Lücke in internen Netzwerken.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitsupdates Cisco: Angreifer können WAN-Umgebungen stören** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Cisco-Angreifer-koennen-WAN-Umgebungen-stoeren-11402697.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-07T07:57:00.000+00:00`, fetched `2026-08-07T08:30:34+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Mehrere kritische Lücken gefährden Netzwerkprodukte von Cisco. Amins sollten zügig die reparierten Versionen installieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **職員の個人情報の漏えいについて** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/6d720c40-a064-4e48-a698-c8123ba53299)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -282,15 +300,6 @@ _Generiert: 2026-08-07T10:04:04+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和7年度職員の給与の男女の差異の情報公表の掲載および女性の職業生活における活躍の推進に関する法律に基づく情報の公表資料を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **インシデント対応の属人化に、障害対応訓練で立ち向かっている - tebiki Tech Blog** — Score 5, observation — [Quelle](https://techblog.tebiki.co.jp/2026/08/07/163000)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-07T07:31:59+00:00`, fetched `2026-08-07T09:39:12+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: QAエンジニア の @kiyou77 です。 「インシデントが起きたとき、動けるのがいつも同じ人ばかり」というのはよくある話かと思います。私たちの開発組織でも、負担が特定のメンバーに偏っている状況が続いていました。 この課題を少しずつ崩していくために、私たちTebikiでは昨年から 「障害対応訓練」 を実施しています。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Invisible banking: How embedded finance is quietly rewiring SEA’s economy** — Score 4, observation — [Quelle](https://e27.co/invisible-banking-how-embedded-finance-is-quietly-rewiring-seas-economy-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

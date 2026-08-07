@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-07T10:04:04+00:00",
+  "generated_at": "2026-08-07T10:26:31+00:00",
   "topics": {
     "security": [
       {
@@ -19,6 +19,13 @@
         "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/"
       },
       {
+        "title": "[NEU] [hoch] WordPress: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:21:06+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2701"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月06日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-07T11:15:15+09:00",
@@ -31,6 +38,20 @@
         "published_at": "2026-08-07T11:15:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96816564/"
+      },
+      {
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2700"
+      },
+      {
+        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2699"
       },
       {
         "title": "[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting",
@@ -52,27 +73,6 @@
         "published_at": "2026-08-07T08:21:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2666"
-      },
-      {
-        "title": "[UPDATE] [mittel] Apache CXF: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-07T04:41:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2682"
-      },
-      {
-        "title": "Screen Sharing in macOS: Lücke ermöglichte Zugriff ohne Authentifizierung",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-07T08:38:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Screen-Sharing-in-macOS-Luecke-ermoeglichte-Zugriff-ohne-Authentifizierung-11402599.html"
-      },
-      {
-        "title": "Sicherheitsupdates Cisco: Angreifer können WAN-Umgebungen stören",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-07T07:57:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Angreifer-koennen-WAN-Umgebungen-stoeren-11402697.html"
       }
     ],
     "ai": [
@@ -119,6 +119,13 @@
         "url": "https://e27.co/when-ai-starts-thinking-for-us-20260806/"
       },
       {
+        "title": "仕様駆動開発の消費期限",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-06T12:55:49+00:00",
+        "relevance_score": 13,
+        "url": "https://speakerdeck.com/watany/expiration-date-of-sdd"
+      },
+      {
         "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
         "source": "OpenAI News RSS",
         "published_at": "2026-08-07T09:00:00+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-07T02:30:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/"
-      },
-      {
-        "title": "AI使って自然界にないウイルスを作成 米スタンフォードが成果発表 - 日本経済新聞",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-06T21:56:45+00:00",
-        "relevance_score": 10,
-        "url": "https://www.nikkei.com/article/DGXZQOGN070020X00C26A8000000/"
       }
     ],
     "geopolitics": [
@@ -163,11 +163,32 @@
         "url": "https://agent-plugins.org/"
       },
       {
+        "title": "[NEU] [hoch] WordPress: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:21:06+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2701"
+      },
+      {
         "title": "Acrab’s US$130M raise signals SEA’s deeper push into AI hardware",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-07T08:28:24+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/"
+      },
+      {
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2700"
+      },
+      {
+        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-07T10:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2699"
       },
       {
         "title": "[NEU] [mittel] jsoup: Schwachstelle ermöglicht Cross-Site Scripting",
@@ -196,27 +217,6 @@
         "published_at": "2026-08-07T02:30:36+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/building-through-borders-a-founders-perspective-on-a-fragmented-world-20260806/"
-      },
-      {
-        "title": "ECB publishes consolidated banking data for end-March 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-07T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html"
-      },
-      {
-        "title": "地方公共団体の基幹業務システムの標準仕様書についての全体バージョン第2.0版以降（人口動態調査事務システム及び火葬等許可システムについては第3.0版以降）の版数のものを示した資料を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-08-07T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/local_governments/specification"
-      },
-      {
-        "title": "The strategic priority: How initiatives actually get chosen",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-07T01:00:26+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/the-strategic-priority-how-initiatives-actually-get-chosen-20260731/"
       }
     ],
     "general": [
