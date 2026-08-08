@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T03:50:16+00:00_
+_Generiert: 2026-08-08T04:17:32+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+10 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 先月、本連載において、OpenAIのフロンティア（最先端）AIモデルがAIプラットフォーム大手のHugging Faceに不正アクセスした事件を取り上げた。この件に関して、2026年8月にラスベガスで開かれたサイバーセキュリティに関するイベント「Black Hat USA」の壇上で、OpenAIの研究者2人が、それまで公表されていなかった事実...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 158 km NNE of Darya Boyi, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-08T03:59:37.040+00:00`, fetched `2026-08-08T04:17:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-08 03:45:26 UTC 2026-08-08 03:45:26 UTC at epicenter Location 39.635°N 82.875°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **社内MCPをCloudflare AccessとCloudflare Workersでつくる** — Score 11, observation — [Quelle](https://zenn.dev/pipipipipi/articles/661b28da670728)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-07T23:19:00+00:00`, fetched `2026-08-08T03:19:26+00:00`
@@ -42,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 業務で社内MCPを作成する機会がありました。 Cloudflare AccessのManaged OAuthを使うことで簡単に実装できたので備忘録もかねてZennに投稿することにしまいた。 要件 社内メンバーのみが利用できること MCPから行えるのは読み取り操作だけであること 簡単がいい！すぐ作りたい 構成 構成は次のとおりです。 MCP Client ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-08T04:16:10.040+00:00`, fetched `2026-08-08T04:17:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-08 03:59:31 UTC 2026-08-08 03:59:31 UTC at epicenter Location 28.477°S 176.549°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 2 km ESE of Mehmand Chak, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-08T03:46:43.040+00:00`, fetched `2026-08-08T03:49:46+00:00`
@@ -69,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: This week’s updates across GitHub Copilot in the desktop app, CLI, and VS Code help you resume and organize work, review changes, and ask questions without losing context. GitHub Copilot… The post GitHub Copilot weekly releases — August 3 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Web API設計の現在地2026 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/tatsuya582/items/a800739c02eadff68c70)
+- **AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める** — Score 5, observation — [Quelle](https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-07T08:18:49+00:00`, fetched `2026-08-08T00:28:39+00:00`
+  - Zeit: published `2026-08-07T20:02:12+00:00`, fetched `2026-08-08T04:17:03+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、APIの廃止告知にまでRFCが生えました。 この記事では、Web API設計...
+  - Kurz: 第1回 AI駆動開発勉強会 札幌支部 https://aid.connpass.com/event/399546/ の発表資料です。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -86,3 +104,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_japan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP
