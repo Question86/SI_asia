@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T23:14:14+00:00",
-  "run_id": "2026-08-08T23:14:14+00:00",
+  "generated_at": "2026-08-08T23:26:50+00:00",
+  "run_id": "2026-08-08T23:26:50+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 3,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -954,6 +954,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "44439c71f1b0e187d633"
+      },
+      {
+        "title": "AI研修(Day2)【MIXI 26新卒技術研修】",
+        "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day2",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-28T01:14:20+00:00",
+        "fetched_at": "2026-08-08T23:26:22+00:00",
+        "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day2)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "90fbebf0ca183485d29f"
       }
     ]
   },
@@ -1881,17 +1902,15 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "44439c71f1b0e187d633"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "MCPの教科書［上巻］～MCPで成果を出すAI導入戦略 | 技術評論社",
-      "url": "https://gihyo.jp/book/2026/978-4-297-15850-7",
+      "title": "AI研修(Day2)【MIXI 26新卒技術研修】",
+      "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day2",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-06T03:52:42+00:00",
-      "fetched_at": "2026-08-08T23:13:43+00:00",
-      "summary": "概要 AIを導入したのに何も変わらない、PoCから先に進めない――そんな状況に陥っていませんか？ 日本企業の生成AI利用率が高まる一方で、十分な効果があったと実感できた企業は少ないという調査結果もあります。足りないのは技術力ではなく、組織としてどう活かすかという戦略です。そして、この課題を打破する鍵が、AIと...",
+      "published_at": "2026-07-28T01:14:20+00:00",
+      "fetched_at": "2026-08-08T23:26:22+00:00",
+      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day2)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1903,7 +1922,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "44439c71f1b0e187d633"
+      "id": "90fbebf0ca183485d29f"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "AI研修(Day2)【MIXI 26新卒技術研修】",
+      "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:14:20+00:00",
+      "fetched_at": "2026-08-08T23:26:22+00:00",
+      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day2)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "90fbebf0ca183485d29f"
     }
   ],
   "source_errors": [],
