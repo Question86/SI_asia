@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:48:21+00:00",
+  "generated_at": "2026-08-08T19:05:21+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,21 +111,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001299",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.6 - 42 km E of Noda, Japan",
-        "summary": "M5.6 - 42 km E of Noda, Japan. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
-        "published_at": "2026-08-08T17:57:58+00:00",
-        "metrics": {
-          "mag": 5.6,
-          "alert": "green",
-          "sig": 483.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

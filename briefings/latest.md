@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T18:48:18+00:00_
+_Generiert: 2026-08-08T19:05:18+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 46 km E of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+26 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 46 km E of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,6 @@ _Generiert: 2026-08-08T18:48:18+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - 42 km E of Noda, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj)
-  - Quelle: USGS
-  - Zeit: `2026-08-08T17:57:58+00:00`
-  - Kurz: M5.6 - 42 km E of Noda, Japan. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`
@@ -183,7 +179,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
