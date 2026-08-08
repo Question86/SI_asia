@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T04:39:51+00:00",
-  "run_id": "2026-08-08T04:39:51+00:00",
+  "generated_at": "2026-08-08T05:03:54+00:00",
+  "run_id": "2026-08-08T05:03:54+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 1,
-    "observe": 9,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -89,6 +89,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d8560026080f75cddf81"
+      },
+      {
+        "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-08T05:02:47.955+00:00",
+        "fetched_at": "2026-08-08T05:03:25+00:00",
+        "summary": "ShakeMap - VI DYFI? - V Time 2026-08-08 04:50:34 UTC 2026-08-08 04:50:34 UTC at epicenter Location 62.269°N 152.314°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6201b77e8e2905543385"
       },
       {
         "title": "M 4.8 - 158 km NNE of Darya Boyi, China",
@@ -288,6 +325,27 @@
         "id": "becf62b647d7b7e1b803"
       },
       {
+        "title": "世界に衝撃与えたリズムマシンTR-808 開発者は「当初は酷評」：朝日新聞",
+        "url": "https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-08T00:47:01+00:00",
+        "fetched_at": "2026-08-08T05:03:25+00:00",
+        "summary": "1980年に発売されて販売不振などで2年間で生産が終わったのに、今も世界のミュージシャンを魅了している日本製の電子楽器がある。ローランドが生産した、ドラムや手拍子、カウベルなど16種類の音が鳴らせる…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "77666fddb949a781e31c"
+      },
+      {
         "title": "AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める",
         "url": "https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru",
         "source": "Hatena Bookmark Hotentry IT",
@@ -390,6 +448,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d8560026080f75cddf81"
+    },
+    {
+      "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-08T05:02:47.955+00:00",
+      "fetched_at": "2026-08-08T05:03:25+00:00",
+      "summary": "ShakeMap - VI DYFI? - V Time 2026-08-08 04:50:34 UTC 2026-08-08 04:50:34 UTC at epicenter Location 62.269°N 152.314°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6201b77e8e2905543385"
     },
     {
       "title": "M 4.8 - 158 km NNE of Darya Boyi, China",
@@ -589,6 +684,27 @@
       "id": "becf62b647d7b7e1b803"
     },
     {
+      "title": "世界に衝撃与えたリズムマシンTR-808 開発者は「当初は酷評」：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-08T00:47:01+00:00",
+      "fetched_at": "2026-08-08T05:03:25+00:00",
+      "summary": "1980年に発売されて販売不振などで2年間で生産が終わったのに、今も世界のミュージシャンを魅了している日本製の電子楽器がある。ローランドが生産した、ドラムや手拍子、カウベルなど16種類の音が鳴らせる…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77666fddb949a781e31c"
+    },
+    {
       "title": "AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める",
       "url": "https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru",
       "source": "Hatena Bookmark Hotentry IT",
@@ -631,7 +747,66 @@
       "id": "a84f3462d6cf18a0b89e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-08T05:02:47.955+00:00",
+      "fetched_at": "2026-08-08T05:03:25+00:00",
+      "summary": "ShakeMap - VI DYFI? - V Time 2026-08-08 04:50:34 UTC 2026-08-08 04:50:34 UTC at epicenter Location 62.269°N 152.314°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6201b77e8e2905543385"
+    },
+    {
+      "title": "世界に衝撃与えたリズムマシンTR-808 開発者は「当初は酷評」：朝日新聞",
+      "url": "https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-08T00:47:01+00:00",
+      "fetched_at": "2026-08-08T05:03:25+00:00",
+      "summary": "1980年に発売されて販売不振などで2年間で生産が終わったのに、今も世界のミュージシャンを魅了している日本製の電子楽器がある。ローランドが生産した、ドラムや手拍子、カウベルなど16種類の音が鳴らせる…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77666fddb949a781e31c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

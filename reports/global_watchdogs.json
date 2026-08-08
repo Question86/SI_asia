@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:39:55+00:00",
+  "generated_at": "2026-08-08T05:03:56+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,6 +111,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska",
+        "summary": "M5.6 - 57 km WNW of Skwentna, Alaska. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
+        "published_at": "2026-08-08T04:50:34+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "",
+          "sig": 887.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
