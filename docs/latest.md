@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T01:22:22+00:00_
+_Generiert: 2026-08-08T02:07:31+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „GitHub Copilot weekly releases — August 3“ aus GitHub Changelog Atom (Score 6, observation).
+3 neue relevante Treffer. Stärkstes Signal: „PrimeIntellect-ai/prime-agent“ aus GitHub Trending RSS All Languages Daily (Score 9, observation).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **PrimeIntellect-ai/prime-agent** — Score 9, observation — [Quelle](https://github.com/PrimeIntellect-ai/prime-agent)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-08T02:07:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A self-improving RLM agent for coding workflows and long-running autonomous tasks. Prime Agent: A Self-Improving RLM Agent Documentation • Verifiers • PRIME-RL • pi-mono Prime Agent is an open-source coding and research agent for general and long-running work. It is designed around two core abstractions: The Recursive Language Model (RLM) treats context as variables ( prompt-as-a-variable ) and tools like recursive…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub Copilot weekly releases — August 3** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-08-07T23:16:02+00:00`, fetched `2026-08-08T00:02:58+00:00`
