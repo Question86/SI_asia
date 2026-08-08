@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T12:29:14+00:00_
+_Generiert: 2026-08-08T12:49:08+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,6 @@ _Generiert: 2026-08-08T12:29:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - southeast of Easter Island** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t)
-  - Quelle: USGS
-  - Zeit: `2026-08-08T11:41:27+00:00`
-  - Kurz: M5.6 - southeast of Easter Island. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`
