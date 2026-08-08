@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T11:51:00+00:00_
+_Generiert: 2026-08-08T12:00:49+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 54 km SW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+17 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 54 km SW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-08-08T11:51:00+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.6 - southeast of Easter Island** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t)
+  - Quelle: USGS
+  - Zeit: `2026-08-08T11:41:27+00:00`
+  - Kurz: M5.6 - southeast of Easter Island. PAGER alert: none. Tsunami flag: 0.
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`
@@ -127,14 +131,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: エリック・サティ様式の自動生成機関を作りました。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 95 km SSW of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70)
+- **M 5.6 - southeast of Easter Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-08T05:59:50.040+00:00`, fetched `2026-08-08T06:15:37+00:00`
+  - Zeit: published `2026-08-08T11:59:59.040+00:00`, fetched `2026-08-08T12:00:16+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-08 05:39:39 UTC 2026-08-08 05:39:39 UTC at epicenter Location 49.851°N 155.753°E Depth 82.52 km (51.28 mi)
+  - Kurz: Time 2026-08-08 11:41:27 UTC 2026-08-08 11:41:27 UTC at epicenter Location 41.483°S 90.080°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PrimeIntellect-ai/prime-agent** — Score 9, observation — [Quelle](https://github.com/PrimeIntellect-ai/prime-agent)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
