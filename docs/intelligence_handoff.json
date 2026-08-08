@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-08T06:12:21Z",
+  "generated_at": "2026-08-08T06:27:34Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-08T02:07:01+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 50.18,
+      "age_days": 50.19,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:01:57.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:02:47.955+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:59:37.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -140,11 +140,36 @@
       "summary": "Time 2026-08-08 03:45:26 UTC 2026-08-08 03:45:26 UTC at epicenter Location 39.635°N 82.875°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.8 - 95 km SSW of Severo-Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-08T05:59:50.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.8"
+      ],
+      "summary": "Time 2026-08-08 05:39:39 UTC 2026-08-08 05:39:39 UTC at epicenter Location 49.851°N 155.753°E Depth 82.52 km (51.28 mi)"
+    },
+    {
       "title": "M 5.0 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T04:16:10.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -169,7 +194,7 @@
       "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-07T23:16:02+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -193,7 +218,7 @@
       "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T08:18:49+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "general"
       ],
@@ -217,7 +242,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:46:43.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "disaster"
@@ -245,7 +270,7 @@
       "url": "https://zenn.dev/pipipipipi/articles/661b28da670728",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T23:19:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -271,7 +296,7 @@
       "url": "https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T00:47:01+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -289,31 +314,6 @@
         "no strong comparative reason"
       ],
       "summary": "1980年に発売されて販売不振などで2年間で生産が終わったのに、今も世界のミュージシャンを魅了している日本製の電子楽器がある。ローランドが生産した、ドラムや手拍子、カウベルなど16種類の音が鳴らせる…"
-    },
-    {
-      "title": "AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実 | JBpress (ジェイビープレス)",
-      "url": "https://jbpress.ismedia.jp/articles/-/96336",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-07T21:59:23+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "先月、本連載において、OpenAIのフロンティア（最先端）AIモデルがAIプラットフォーム大手のHugging Faceに不正アクセスした事件を取り上げた。この件に関して、2026年8月にラスベガスで開かれたサイバーセキュリティに関するイベント「Black Hat USA」の壇上で、OpenAIの研究者2人が、それまで公表されていなかった事実..."
     }
   ],
   "read_order": [
@@ -326,8 +326,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 3,
-      "quiet": 6
+      "watch": 4,
+      "quiet": 5
     }
   }
 }
