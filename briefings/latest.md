@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T12:14:59+00:00_
+_Generiert: 2026-08-08T12:29:14+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-08-08T12:14:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Spain
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556897)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556897)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556854)
   - Quelle: GDACS
   - Zeit: ``
