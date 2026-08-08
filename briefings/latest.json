@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:05:18+00:00",
-  "run_id": "2026-08-08T19:05:18+00:00",
+  "generated_at": "2026-08-08T19:18:16+00:00",
+  "run_id": "2026-08-08T19:18:16+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1527,30 +1527,7 @@
       "id": "a84f3462d6cf18a0b89e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)",
-      "url": "https://blog.takaumada.com/entry/ai-organization-flow",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-08T12:08:46+00:00",
-      "fetched_at": "2026-08-08T19:04:48+00:00",
-      "summary": "「ブライスのパラドックス」と呼ばれる現象があります。混雑するネットワークに新しい道を加えたのに、各人が自分にとって最短の経路を選んだ結果、全員の移動時間が逆に長くなることがある、という交通工学のパラドックスです。 逆に「道をなくす」ことで、移動時間が短縮されることもあります。2005年に完成したソウル...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f80fdfdb11295f1de47"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
