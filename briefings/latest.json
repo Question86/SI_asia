@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T00:03:29+00:00",
-  "run_id": "2026-08-08T00:03:29+00:00",
+  "generated_at": "2026-08-08T00:29:07+00:00",
+  "run_id": "2026-08-08T00:29:07+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "becf62b647d7b7e1b803"
+      },
+      {
+        "title": "Web API設計の現在地2026 - Qiita",
+        "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T08:18:49+00:00",
+        "fetched_at": "2026-08-08T00:28:39+00:00",
+        "summary": "Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、APIの廃止告知にまでRFCが生えました。 この記事では、Web API設計...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a84f3462d6cf18a0b89e"
       }
     ]
   },
@@ -74,29 +95,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "becf62b647d7b7e1b803"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "GitHub Copilot weekly releases — August 3",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "source": "GitHub Changelog Atom",
+      "title": "Web API設計の現在地2026 - Qiita",
+      "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-07T23:16:02+00:00",
-      "fetched_at": "2026-08-08T00:02:58+00:00",
-      "summary": "This week’s updates across GitHub Copilot in the desktop app, CLI, and VS Code help you resume and organize work, review changes, and ask questions without losing context. GitHub Copilot… The post GitHub Copilot weekly releases — August 3 appeared first on The GitHub Blog .",
+      "published_at": "2026-08-07T08:18:49+00:00",
+      "fetched_at": "2026-08-08T00:28:39+00:00",
+      "summary": "Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、APIの廃止告知にまでRFCが生えました。 この記事では、Web API設計...",
       "matched_keywords": [
-        "Copilot",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "becf62b647d7b7e1b803"
+      "id": "a84f3462d6cf18a0b89e"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Web API設計の現在地2026 - Qiita",
+      "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T08:18:49+00:00",
+      "fetched_at": "2026-08-08T00:28:39+00:00",
+      "summary": "Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、APIの廃止告知にまでRFCが生えました。 この記事では、Web API設計...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a84f3462d6cf18a0b89e"
     }
   ],
   "source_errors": [],
