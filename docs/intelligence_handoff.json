@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-08T18:23:18Z",
+  "generated_at": "2026-08-08T18:43:55Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-08T02:07:01+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 50.68,
+      "age_days": 50.7,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T10:36:52.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:01:57.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -115,11 +115,35 @@
       "summary": "Time 2026-08-08 02:44:59 UTC 2026-08-08 02:44:59 UTC at epicenter Location 5.119°N 125.365°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.6 - 46 km E of Noda, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-08T18:28:02.828+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-08 17:58:00 UTC 2026-08-08 17:58:00 UTC at epicenter Location 40.175°N 142.353°E Depth 52.87 km (32.85 mi)"
+    },
+    {
       "title": "M 4.6 - 77 km WSW of San Antonio de los Cobres, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T13:03:26.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -144,7 +168,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:02:47.955+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -169,7 +193,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:59:37.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -194,7 +218,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T11:59:59.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -219,7 +243,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:59:50.040+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "disaster"
       ],
@@ -244,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T04:16:10.040+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "disaster"
       ],
@@ -269,7 +293,7 @@
       "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-07T23:16:02+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -287,30 +311,6 @@
         "high terms: code"
       ],
       "summary": "This week’s updates across GitHub Copilot in the desktop app, CLI, and VS Code help you resume and organize work, review changes, and ask questions without losing context. GitHub Copilot… The post GitHub Copilot weekly releases — August 3 appeared first on The GitHub Blog ."
-    },
-    {
-      "title": "Web API設計の現在地2026 - Qiita",
-      "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-07T08:18:49+00:00",
-      "age_days": 1.42,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth"
-      ],
-      "summary": "Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、APIの廃止告知にまでRFCが生えました。 この記事では、Web API設計..."
     }
   ],
   "read_order": [
@@ -322,9 +322,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 6,
-      "quiet": 2
+      "quiet": 1
     }
   }
 }
