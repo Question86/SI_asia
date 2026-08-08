@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T06:52:47+00:00_
+_Generiert: 2026-08-08T07:16:43+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+14 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-08-08T06:52:47+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.
-- **GDACS: Volcanic eruption is on going for Fuego in Guatemala** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000145)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Fuego in Guatemala
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`
@@ -117,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 業務で社内MCPを作成する機会がありました。 Cloudflare AccessのManaged OAuthを使うことで簡単に実装できたので備忘録もかねてZennに投稿することにしまいた。 要件 社内メンバーのみが利用できること MCPから行えるのは読み取り操作だけであること 簡単がいい！すぐ作りたい 構成 構成は次のとおりです。 MCP Client ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge** — Score 11, observation — [Quelle](https://www.techno-edge.net/article/2026/08/08/5373.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-07T23:18:57+00:00`, fetched `2026-08-08T07:16:08+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: エリック・サティ様式の自動生成機関を作りました。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 95 km SSW of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-08T05:59:50.040+00:00`, fetched `2026-08-08T06:15:37+00:00`
@@ -143,15 +148,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: This week’s updates across GitHub Copilot in the desktop app, CLI, and VS Code help you resume and organize work, review changes, and ask questions without losing context. GitHub Copilot… The post GitHub Copilot weekly releases — August 3 appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **世界に衝撃与えたリズムマシンTR-808 開発者は「当初は酷評」：朝日新聞** — Score 5, observation — [Quelle](https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-08T00:47:01+00:00`, fetched `2026-08-08T05:03:25+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 1980年に発売されて販売不振などで2年間で生産が終わったのに、今も世界のミュージシャンを魅了している日本製の電子楽器がある。ローランドが生産した、ドラムや手拍子、カウベルなど16種類の音が鳴らせる…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
