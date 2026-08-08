@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T11:01:23+00:00_
+_Generiert: 2026-08-08T11:13:13+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 54 km SW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 54 km SW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,6 @@ _Generiert: 2026-08-08T11:01:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556391)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Philippines 05/08/2026 21:41 UTC, 880 thousand in MMI IV.
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`
@@ -166,3 +162,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)
