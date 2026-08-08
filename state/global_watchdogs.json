@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:15:05+00:00",
+  "generated_at": "2026-08-08T18:29:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:52.87km) in Japan 08/08/2026 17:58 UTC, 250 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:52.87km) in Japan 08/08/2026 17:58 UTC, 250 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556955",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].",
         "source": "GDACS",
@@ -101,6 +111,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001299",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 46 km E of Noda, Japan",
+        "summary": "M5.6 - 46 km E of Noda, Japan. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
+        "published_at": "2026-08-08T17:58:00+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 483.0,
+          "tsunami": 0
+        }
       },
       {
         "domain": "security",
