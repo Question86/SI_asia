@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T16:14:10+00:00",
-  "run_id": "2026-08-08T16:14:10+00:00",
+  "generated_at": "2026-08-08T16:27:34+00:00",
+  "run_id": "2026-08-08T16:27:34+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 2,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -490,6 +490,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "becf62b647d7b7e1b803"
+      },
+      {
+        "title": "「原爆はデマ」荒唐無稽なフェイク拡散 実相と異なるAI動画も | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/na-k10015198361000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-08T07:17:03+00:00",
+        "fetched_at": "2026-08-08T16:26:59+00:00",
+        "summary": "戦後81年。SNSではいま、「原爆はデマ」などといった荒唐無稽な偽情報が広がるようになっています。 生成AIを用いて原爆投下の様子を再現したとする動画も。短時間で作られた動画には、“被爆の実相”とは…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1639289086769ba5f68a"
       },
       {
         "title": "「このアカウントで一番気持ち悪いポストを教えて」とGrokに質問した結果、正論で盛大なカウンターを食らった話→「返事がヤバい」「AIの反乱か？」「お前感情あるだろ」の声も",
@@ -1102,6 +1123,27 @@
       "id": "becf62b647d7b7e1b803"
     },
     {
+      "title": "「原爆はデマ」荒唐無稽なフェイク拡散 実相と異なるAI動画も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198361000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-08T07:17:03+00:00",
+      "fetched_at": "2026-08-08T16:26:59+00:00",
+      "summary": "戦後81年。SNSではいま、「原爆はデマ」などといった荒唐無稽な偽情報が広がるようになっています。 生成AIを用いて原爆投下の様子を再現したとする動画も。短時間で作られた動画には、“被爆の実相”とは…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1639289086769ba5f68a"
+    },
+    {
       "title": "「このアカウントで一番気持ち悪いポストを教えて」とGrokに質問した結果、正論で盛大なカウンターを食らった話→「返事がヤバい」「AIの反乱か？」「お前感情あるだろ」の声も",
       "url": "https://togetter.com/li/2730531",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1251,13 +1293,13 @@
   ],
   "new_findings": [
     {
-      "title": "Amazon DynamoDB が、あらゆる規模でリアルタイムのベクトル検索をサポートするようになりました | Amazon Web Services",
-      "url": "https://aws.amazon.com/jp/blogs/news/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+      "title": "「原爆はデマ」荒唐無稽なフェイク拡散 実相と異なるAI動画も | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015198361000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-07T09:05:02+00:00",
-      "fetched_at": "2026-08-08T16:13:40+00:00",
-      "summary": "Amazon Web Services ブログ Amazon DynamoDB が、あらゆる規模でリアルタイムのベクトル検索をサポートするようになりました 2026 年 8 月 5 日、 Amazon DynamoDB でのベクトル検索の一般提供についてお知らせします。運用データとともにベクトル埋め込みを DynamoDB に保存し、別のベクトルストアにデータを複製する...",
+      "published_at": "2026-08-08T07:17:03+00:00",
+      "fetched_at": "2026-08-08T16:26:59+00:00",
+      "summary": "戦後81年。SNSではいま、「原爆はデマ」などといった荒唐無稽な偽情報が広がるようになっています。 生成AIを用いて原爆投下の様子を再現したとする動画も。短時間で作られた動画には、“被爆の実相”とは…",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1269,7 +1311,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ddbc1df89d653fb823d9"
+      "id": "1639289086769ba5f68a"
     }
   ],
   "source_errors": [],
