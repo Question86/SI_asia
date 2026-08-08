@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T05:57:31+00:00_
+_Generiert: 2026-08-08T06:16:09+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+13 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -60,14 +60,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 業務で社内MCPを作成する機会がありました。 Cloudflare AccessのManaged OAuthを使うことで簡単に実装できたので備忘録もかねてZennに投稿することにしまいた。 要件 社内メンバーのみが利用できること MCPから行えるのは読み取り操作だけであること 簡単がいい！すぐ作りたい 構成 構成は次のとおりです。 MCP Client ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69)
+- **M 4.8 - 95 km SSW of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-08T04:16:10.040+00:00`, fetched `2026-08-08T04:17:03+00:00`
+  - Zeit: published `2026-08-08T05:59:50.040+00:00`, fetched `2026-08-08T06:15:37+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-08 03:59:31 UTC 2026-08-08 03:59:31 UTC at epicenter Location 28.477°S 176.549°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-08-08 05:39:39 UTC 2026-08-08 05:39:39 UTC at epicenter Location 49.851°N 155.753°E Depth 82.52 km (51.28 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PrimeIntellect-ai/prime-agent** — Score 9, observation — [Quelle](https://github.com/PrimeIntellect-ai/prime-agent)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
