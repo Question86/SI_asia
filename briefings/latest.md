@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T04:17:32+00:00_
+_Generiert: 2026-08-08T04:39:51+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+10 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -157,7 +157,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_japan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP
