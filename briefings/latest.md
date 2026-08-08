@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T03:20:01+00:00_
+_Generiert: 2026-08-08T03:50:16+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 33 km SSW of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実 | JBpress (ジェイビープレス)** — Score 12, observation — [Quelle](https://jbpress.ismedia.jp/articles/-/96336)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-07T21:59:23+00:00`, fetched `2026-08-08T03:49:46+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 先月、本連載において、OpenAIのフロンティア（最先端）AIモデルがAIプラットフォーム大手のHugging Faceに不正アクセスした事件を取り上げた。この件に関して、2026年8月にラスベガスで開かれたサイバーセキュリティに関するイベント「Black Hat USA」の壇上で、OpenAIの研究者2人が、それまで公表されていなかった事実...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **社内MCPをCloudflare AccessとCloudflare Workersでつくる** — Score 11, observation — [Quelle](https://zenn.dev/pipipipipi/articles/661b28da670728)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-07T23:19:00+00:00`, fetched `2026-08-08T03:19:26+00:00`
@@ -86,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 業務で社内MCPを作成する機会がありました。 Cloudflare AccessのManaged OAuthを使うことで簡単に実装できたので備忘録もかねてZennに投稿することにしまいた。 要件 社内メンバーのみが利用できること MCPから行えるのは読み取り操作だけであること 簡単がいい！すぐ作りたい 構成 構成は次のとおりです。 MCP Client ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 2 km ESE of Mehmand Chak, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-08T03:46:43.040+00:00`, fetched `2026-08-08T03:49:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-08 03:30:04 UTC 2026-08-08 03:30:04 UTC at epicenter Location 32.779°N 73.853°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **PrimeIntellect-ai/prime-agent** — Score 9, observation — [Quelle](https://github.com/PrimeIntellect-ai/prime-agent)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-08T02:07:01+00:00`
