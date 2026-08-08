@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-08T20:46:44+00:00",
-  "run_id": "2026-08-08T20:46:44+00:00",
+  "generated_at": "2026-08-08T21:00:15+00:00",
+  "run_id": "2026-08-08T21:00:15+00:00",
   "date": "2026-08-08",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 28
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
     "medium": 3,
     "observe": 25,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1641,37 +1641,8 @@
       "id": "0b9a3d677b4e54912689"
     }
   ],
-  "new_findings": [
-    {
-      "title": "従来型テストの限界があらわに 3915件のOSSを解析して判明した「99.4％未報告」の実態",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/07/news026.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-07T00:27:24+00:00",
-      "fetched_at": "2026-08-08T20:46:15+00:00",
-      "summary": "Palo Alto Networksが自律型AIシステム「NOVA」による調査結果を発表した。3915件のOSSを解析して1万4090件の脆弱性を検出し、99.4％が未報告と判明。従来のテスト手法では見抜けなかった欠陥が9割超を占める実態が浮き彫りとなった。 Palo Alto Networksは2026年8月4日（現地時間）、自律型の脆弱（ぜいじゃく）性の発...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0b9a3d677b4e54912689"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
