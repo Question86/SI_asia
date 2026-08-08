@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T16:27:34+00:00",
-  "run_id": "2026-08-08T16:27:34+00:00",
+  "generated_at": "2026-08-08T16:44:47+00:00",
+  "run_id": "2026-08-08T16:44:47+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1291,29 +1291,7 @@
       "id": "a84f3462d6cf18a0b89e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「原爆はデマ」荒唐無稽なフェイク拡散 実相と異なるAI動画も | NHKニュース",
-      "url": "https://news.web.nhk/newsweb/na/na-k10015198361000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-08T07:17:03+00:00",
-      "fetched_at": "2026-08-08T16:26:59+00:00",
-      "summary": "戦後81年。SNSではいま、「原爆はデマ」などといった荒唐無稽な偽情報が広がるようになっています。 生成AIを用いて原爆投下の様子を再現したとする動画も。短時間で作られた動画には、“被爆の実相”とは…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1639289086769ba5f68a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
