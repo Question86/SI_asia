@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-08T19:22:58Z",
+  "generated_at": "2026-08-08T19:39:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 31,
     "bands": {
       "strong": 5,
-      "watch": 7,
+      "watch": 8,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 7,
+      "watch": 8,
       "quiet": 18
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-08T02:07:01+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -47,7 +47,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 50.73,
+      "age_days": 50.74,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T10:36:52.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:01:57.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T18:28:02.828+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -150,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T13:03:26.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -175,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:02:47.955+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -200,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:59:37.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -221,11 +221,36 @@
       "summary": "Time 2026-08-08 03:45:26 UTC 2026-08-08 03:45:26 UTC at epicenter Location 39.635°N 82.875°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjas",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-08T19:28:15.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-08 19:07:57 UTC 2026-08-08 19:07:57 UTC at epicenter Location 28.566°S 176.518°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.6 - 47 km WNW of Lata, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T18:45:44.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -250,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T11:59:59.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -275,7 +300,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:59:50.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -300,7 +325,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T04:16:10.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -325,7 +350,7 @@
       "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-07T23:16:02+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -349,7 +374,7 @@
       "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T08:18:49+00:00",
-      "age_days": 1.46,
+      "age_days": 1.47,
       "topics": [
         "general"
       ],
@@ -373,7 +398,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj67",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:46:43.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "disaster"
@@ -401,7 +426,7 @@
       "url": "https://zenn.dev/pipipipipi/articles/661b28da670728",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T23:19:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -427,7 +452,7 @@
       "url": "https://www.techno-edge.net/article/2026/08/08/5373.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T23:18:57+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -453,7 +478,7 @@
       "url": "https://blog.amagi.dev/entry/2026/08/08/174615",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T10:17:36+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -477,7 +502,7 @@
       "url": "https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T00:47:01+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "general"
       ],
@@ -501,7 +526,7 @@
       "url": "https://qiita.com/hrfm1623/items/91115760e4bd66f7995a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T23:11:12+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -525,7 +550,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T20:26:28+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "general"
       ],
@@ -549,7 +574,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T09:05:02+00:00",
-      "age_days": 1.43,
+      "age_days": 1.44,
       "topics": [
         "general"
       ],
@@ -573,7 +598,7 @@
       "url": "https://jbpress.ismedia.jp/articles/-/96336",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T21:59:23+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "ai"
       ],
@@ -598,7 +623,7 @@
       "url": "https://news.web.nhk/newsweb/na/na-k10015198361000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T07:17:03+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -624,7 +649,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 49.69,
+      "age_days": 49.7,
       "topics": [
         "general"
       ],
@@ -649,7 +674,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 49.69,
+      "age_days": 49.7,
       "topics": [
         "general"
       ],
@@ -674,7 +699,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 49.69,
+      "age_days": 49.7,
       "topics": [
         "ai"
       ],
@@ -701,7 +726,7 @@
       "url": "https://blog.takaumada.com/entry/ai-organization-flow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T12:08:46+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -726,7 +751,7 @@
       "url": "https://togetter.com/li/2730531",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T07:04:04+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -751,7 +776,7 @@
       "url": "https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T20:02:12+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "ai"
       ],

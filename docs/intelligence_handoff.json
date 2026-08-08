@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-08T19:22:58Z",
+  "generated_at": "2026-08-08T19:39:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-08T02:07:01+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 50.73,
+      "age_days": 50.74,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T10:36:52.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:01:57.040+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T18:28:02.828+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -143,7 +143,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj96",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T13:03:26.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -168,7 +168,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:02:47.955+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -193,7 +193,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T03:59:37.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -214,11 +214,36 @@
       "summary": "Time 2026-08-08 03:45:26 UTC 2026-08-08 03:45:26 UTC at epicenter Location 39.635°N 82.875°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjas",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-08T19:28:15.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-08 19:07:57 UTC 2026-08-08 19:07:57 UTC at epicenter Location 28.566°S 176.518°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.6 - 47 km WNW of Lata, Solomon Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjan",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T18:45:44.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -243,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T11:59:59.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -268,7 +293,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-08T05:59:50.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -287,31 +312,6 @@
         "high terms: 9.8"
       ],
       "summary": "Time 2026-08-08 05:39:39 UTC 2026-08-08 05:39:39 UTC at epicenter Location 49.851°N 155.753°E Depth 82.52 km (51.28 mi)"
-    },
-    {
-      "title": "M 5.0 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj69",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T04:16:10.040+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 03:59:31 UTC 2026-08-08 03:59:31 UTC at epicenter Location 28.477°S 176.549°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
