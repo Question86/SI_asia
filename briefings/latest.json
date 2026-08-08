@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T21:12:31+00:00",
-  "run_id": "2026-08-08T21:12:31+00:00",
+  "generated_at": "2026-08-08T21:24:42+00:00",
+  "run_id": "2026-08-08T21:24:42+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 3,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -602,6 +602,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5f80fdfdb11295f1de47"
+      },
+      {
+        "title": "「ばんくし」こと河合俊典が薦める、すべてのエンジニアが読むべき本",
+        "url": "https://bookplus.nikkei.com/atcl/column/070300541/072800013/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T04:57:38+00:00",
+        "fetched_at": "2026-08-08T21:24:12+00:00",
+        "summary": "「エムスリーで業務執行役員 VPoEを務める河合俊典」と言うよりも、オープンソースコミュニティで有名な「ばんくし」と言ったほうが通りがいいかもしれない。 15年以上も前からロボコンや鳥人間コンテスト、OSSコミュニティで活躍し、高専時代からエンジニアとして名を馳せた。30代という若さの河合氏は、医療業界で様々...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4f2d8ac8e0eff8b7d6cd"
       },
       {
         "title": "GitHub Copilot weekly releases — August 3",
@@ -1431,6 +1452,27 @@
       "id": "5f80fdfdb11295f1de47"
     },
     {
+      "title": "「ばんくし」こと河合俊典が薦める、すべてのエンジニアが読むべき本",
+      "url": "https://bookplus.nikkei.com/atcl/column/070300541/072800013/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T04:57:38+00:00",
+      "fetched_at": "2026-08-08T21:24:12+00:00",
+      "summary": "「エムスリーで業務執行役員 VPoEを務める河合俊典」と言うよりも、オープンソースコミュニティで有名な「ばんくし」と言ったほうが通りがいいかもしれない。 15年以上も前からロボコンや鳥人間コンテスト、OSSコミュニティで活躍し、高専時代からエンジニアとして名を馳せた。30代という若さの河合氏は、医療業界で様々...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4f2d8ac8e0eff8b7d6cd"
+    },
+    {
       "title": "GitHub Copilot weekly releases — August 3",
       "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
       "source": "GitHub Changelog Atom",
@@ -1685,25 +1727,25 @@
   ],
   "new_findings": [
     {
-      "title": "詳しい人は最初から詳しいわけではない",
-      "url": "https://zenn.dev/skmkzyk/articles/experts-werent-always-experts",
+      "title": "「ばんくし」こと河合俊典が薦める、すべてのエンジニアが読むべき本",
+      "url": "https://bookplus.nikkei.com/atcl/column/070300541/072800013/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-08T01:32:23+00:00",
-      "fetched_at": "2026-08-08T21:11:55+00:00",
-      "summary": "TL;DR ある分野に詳しくなるためのひとつの方法をご紹介し隊 最初っから詳しい人はあんまりいない 周りに詳しいと思われると、そのうち本当に詳しくなる はじめに 昨日の 技術的なアウトプットはえらい はお読みになられましたか、そうですか、ありがとうございます、あんたはえらい。 さて、わたしは Azure Network Con...",
+      "published_at": "2026-08-07T04:57:38+00:00",
+      "fetched_at": "2026-08-08T21:24:12+00:00",
+      "summary": "「エムスリーで業務執行役員 VPoEを務める河合俊典」と言うよりも、オープンソースコミュニティで有名な「ばんくし」と言ったほうが通りがいいかもしれない。 15年以上も前からロボコンや鳥人間コンテスト、OSSコミュニティで活躍し、高専時代からエンジニアとして名を馳せた。30代という若さの河合氏は、医療業界で様々...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "693d8655c8c1283aec50"
+      "id": "4f2d8ac8e0eff8b7d6cd"
     }
   ],
   "source_errors": [],
