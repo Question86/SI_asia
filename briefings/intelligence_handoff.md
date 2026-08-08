@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-08T10:58:36Z_
+_Generated: 2026-08-08T11:11:14Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-08T02:07:01+00:00` / age_days `0.37`
+- Published: `2026-08-08T02:07:01+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-08T03:01:57.040+00:00` / age_days `0.33`
+- Published: `2026-08-08T03:01:57.040+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-08T05:02:47.955+00:00` / age_days `0.25`
+- Published: `2026-08-08T05:02:47.955+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-08T03:59:37.040+00:00` / age_days `0.29`
+- Published: `2026-08-08T03:59:37.040+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-08T05:59:50.040+00:00` / age_days `0.21`
+- Published: `2026-08-08T05:59:50.040+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.8
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-08T04:16:10.040+00:00` / age_days `0.28`
+- Published: `2026-08-08T04:16:10.040+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-08-07T23:16:02+00:00` / age_days `0.49`
+- Published: `2026-08-07T23:16:02+00:00` / age_days `0.5`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: code
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-07T08:18:49+00:00` / age_days `1.11`
+- Published: `2026-08-07T08:18:49+00:00` / age_days `1.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: auth
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-08-08T03:46:43.040+00:00` / age_days `0.3`
+- Published: `2026-08-08T03:46:43.040+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: earthquake, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
