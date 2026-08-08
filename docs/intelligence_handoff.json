@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-08T01:30:17Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-08T02:17:24Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-08T02:07:01+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. Prime Agent: A Self-Improving RLM Agent Documentation • Verifiers • PRIME-RL • pi-mono Prime Agent is an open-source coding and research agent for general and long-running work. It is designed around two core abstractions: The Recursive…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 49.98,
+      "age_days": 50.01,
       "topics": [
         "ai"
       ],
@@ -44,7 +69,7 @@
       "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-07T23:16:02+00:00",
-      "age_days": 0.09,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -68,7 +93,7 @@
       "url": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-07T08:18:49+00:00",
-      "age_days": 0.72,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -92,7 +117,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 48.94,
+      "age_days": 48.98,
       "topics": [
         "general"
       ],
@@ -108,7 +133,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 48.9d old signal"
+        "aging penalty -16.0 for 49.0d old signal"
       ],
       "summary": ""
     },
@@ -117,7 +142,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 48.94,
+      "age_days": 48.98,
       "topics": [
         "general"
       ],
@@ -133,7 +158,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 48.9d old signal"
+        "aging penalty -16.0 for 49.0d old signal"
       ],
       "summary": ""
     },
@@ -142,7 +167,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 48.94,
+      "age_days": 48.98,
       "topics": [
         "ai"
       ],
@@ -159,7 +184,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 48.9d old signal",
+        "aging penalty -16.0 for 49.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -174,7 +199,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 2,
       "quiet": 5
     }
   }
