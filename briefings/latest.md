@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T23:03:45+00:00_
+_Generiert: 2026-08-08T23:14:14+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 46 km E of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+33 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 46 km E of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,12 +29,30 @@ _Generiert: 2026-08-08T23:03:45+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
+- **GDACS: Green flood alert in Spain** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104080)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Spain
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556955)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556897)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556854)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.
+- **GDACS: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001299)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`
   - Kurz: M5.6 - 57 km WNW of Skwentna, Alaska. PAGER alert: none. Tsunami flag: 0.
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fc2666bf4d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 

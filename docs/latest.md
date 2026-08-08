@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T23:03:45+00:00_
+_Generiert: 2026-08-08T23:14:14+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 46 km E of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+33 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 46 km E of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
