@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T11:25:33+00:00",
-  "run_id": "2026-08-08T11:25:33+00:00",
+  "generated_at": "2026-08-08T11:51:00+00:00",
+  "run_id": "2026-08-08T11:51:00+00:00",
   "date": "2026-08-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 2,
-    "observe": 13,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -439,6 +439,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "77666fddb949a781e31c"
+      },
+      {
+        "title": "Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-07T20:26:28+00:00",
+        "fetched_at": "2026-08-08T11:50:27+00:00",
+        "summary": "2026年8月5日、米国セキュリティ企業のVulnCheckは、中国Zbtlink製ルータの出荷時ファームウェアに遠隔操作用のインプラント「ENDLESSDOORS」が組み込まれていたとする調査結果を公開しました。対象の実装は外部から侵害を受けて仕込まれたものではなく、出荷された時点からベンダ自身によって組み込まれていたとされて...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a3cd31a3ddd33d5ab225"
       },
       {
         "title": "AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める",
@@ -895,6 +916,27 @@
       "id": "77666fddb949a781e31c"
     },
     {
+      "title": "Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T20:26:28+00:00",
+      "fetched_at": "2026-08-08T11:50:27+00:00",
+      "summary": "2026年8月5日、米国セキュリティ企業のVulnCheckは、中国Zbtlink製ルータの出荷時ファームウェアに遠隔操作用のインプラント「ENDLESSDOORS」が組み込まれていたとする調査結果を公開しました。対象の実装は外部から侵害を受けて仕込まれたものではなく、出荷された時点からベンダ自身によって組み込まれていたとされて...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a3cd31a3ddd33d5ab225"
+    },
+    {
       "title": "AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める",
       "url": "https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru",
       "source": "Hatena Bookmark Hotentry IT",
@@ -937,7 +979,29 @@
       "id": "a84f3462d6cf18a0b89e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-07T20:26:28+00:00",
+      "fetched_at": "2026-08-08T11:50:27+00:00",
+      "summary": "2026年8月5日、米国セキュリティ企業のVulnCheckは、中国Zbtlink製ルータの出荷時ファームウェアに遠隔操作用のインプラント「ENDLESSDOORS」が組み込まれていたとする調査結果を公開しました。対象の実装は外部から侵害を受けて仕込まれたものではなく、出荷された時点からベンダ自身によって組み込まれていたとされて...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a3cd31a3ddd33d5ab225"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
