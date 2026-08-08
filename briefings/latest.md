@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-08T12:00:49+00:00_
+_Generiert: 2026-08-08T12:14:59+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-08-08T12:00:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Spain
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556897)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, No people affected in 100km.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556854)
   - Quelle: GDACS
   - Zeit: ``
@@ -44,7 +48,7 @@ _Generiert: 2026-08-08T12:00:49+00:00_
 - **USGS earthquake M5.6 - southeast of Easter Island** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t)
   - Quelle: USGS
   - Zeit: `2026-08-08T11:41:27+00:00`
-  - Kurz: M5.6 - southeast of Easter Island. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.6 - southeast of Easter Island. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
   - Quelle: USGS
   - Zeit: `2026-08-08T04:50:34+00:00`

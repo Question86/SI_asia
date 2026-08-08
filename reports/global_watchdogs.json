@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:00:53+00:00",
+  "generated_at": "2026-08-08T12:15:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556897",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.",
         "source": "GDACS",
@@ -96,13 +106,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.6 - southeast of Easter Island",
-        "summary": "M5.6 - southeast of Easter Island. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.6 - southeast of Easter Island. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t",
         "published_at": "2026-08-08T11:41:27+00:00",
         "metrics": {
           "mag": 5.6,
-          "alert": "",
+          "alert": "green",
           "sig": 482.0,
           "tsunami": 0
         }
