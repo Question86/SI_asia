@@ -1,6 +1,6 @@
 # Senna Source Manifest
 
-_Generated: 2026-08-08T12:48:39+00:00_
+_Generated: 2026-08-08T13:11:14+00:00_
 
 Scope: actual runtime sources after base + hot + macro overlay merge.
 
