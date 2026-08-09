@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T04:38:13+00:00_
+_Generiert: 2026-08-09T05:03:12+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-08-09T04:38:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.6 - 57 km WNW of Skwentna, Alaska** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf)
-  - Quelle: USGS
-  - Zeit: `2026-08-08T04:50:34+00:00`
-  - Kurz: M5.6 - 57 km WNW of Skwentna, Alaska. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
