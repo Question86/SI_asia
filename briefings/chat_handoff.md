@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-09T01:29:18+00:00_
+_Generated: 2026-08-09T02:18:20+00:00_
 
 ## Status
-- status: `normal`
-- findings: `3`
+- status: `warning`
+- findings: `4`
 
 ## Top Signals
 
@@ -28,5 +28,12 @@ _Generated: 2026-08-09T01:29:18+00:00_
 - published: `2026-08-09T00:04:41+00:00`
 - url: https://togetter.com/li/2730762
 - summary: トットコ @民泊2年生 @totttokosan アマゾンから突然、 「注文キャンセルしました。身分証を提出してください」 怪しすぎるのでカスタマーに確認したら、 「本物です。ただ非常に高いレベルの部署なので我々にも詳細は分かりません」 なんやその特務機関みたいな部署。 2026-08-08 10:00:41 トットコ @民泊2年生 @tott...
+
+### 4. 「原爆はうそ」「放射線の被害はなかった」といった原爆に関する荒唐無稽なフェイク動画がSNSなどで広がる事態に… 生成AIによる被爆の実相からはかけ離れた動画も増加、被爆者からは憤りの声も
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-08-08T23:37:46+00:00`
+- url: https://togetter.com/li/2730763
+- summary: NHKニュース @nhk_news いま、原爆に関する偽情報がSNSで広がっています 「原爆はうそ」「放射線の被害はなかった」などの荒唐無稽な偽情報、 30万回以上見られているYouTube動画も さらに、被爆の実相とは異なる生成AI動画も増加 被爆者がいなくなる時代を前に、事実をどう伝えていくのか news.web.nhk/newsweb/na/na-…...
 
 END OF DOCUMENT
