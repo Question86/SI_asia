@@ -70,5 +70,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 51.47,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 51.5d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 5.0 - 180 km NW of Sabang, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-09T03:21:18.040+00:00",
+        "age_days": 0.41,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-08-09 03:02:07 UTC 2026-08-09 03:02:07 UTC at epicenter Location 7.017°N 94.140°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.6 - 12 km W of Chambara, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-09T04:29:35.537+00:00",
+        "age_days": 0.36,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "DYFI? - IV Time 2026-08-09 04:05:44 UTC 2026-08-09 04:05:44 UTC at epicenter Location 12.051°S 75.491°W Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 5.2 - Galapagos Triple Junction region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-09T12:17:06.040+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-08-09 11:57:33 UTC 2026-08-09 11:57:33 UTC at epicenter Location 2.296°N 101.913°W Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.9 - 68 km ESE of Atka, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-09T04:00:35.871+00:00",
+        "age_days": 0.38,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake"
+        ],
+        "summary": "ShakeMap - IV DYFI? - III Time 2026-08-09 03:36:17 UTC 2026-08-09 03:36:17 UTC at epicenter Location 51.987°N 173.261°W Depth 60.30 km (37.47 mi)"
+      }
+    ]
+  }
 }
