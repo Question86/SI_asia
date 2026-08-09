@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T22:26:37+00:00_
+_Generiert: 2026-08-09T22:42:31+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)
   - Kurz: AI コーディングエージェントの引き継ぎドキュメントをやめ、課題管理ツール Beads へ状態を移しました。セッション開始時の状態の復元は自動化できましたが、状態の更新は自動では行われず、人が補う必要が残りました。 はじめに AI コーディングエージェントを使っていると、引き継ぎドキュメントを書くことになります...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.0 - 198 km SE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tji3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-09T22:34:37.040+00:00`, fetched `2026-08-09T22:42:02+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-09 22:17:27 UTC 2026-08-09 22:17:27 UTC at epicenter Location 4.146°N 126.740°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 216 km SE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjhn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-09T21:53:37.040+00:00`, fetched `2026-08-09T22:02:02+00:00`
@@ -83,15 +92,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-09 17:05:42 UTC 2026-08-09 17:05:42 UTC at epicenter Location 11.394°N 125.231°E Depth 110.58 km (68.71 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 197 km SSW of Pagar Alam, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-09T15:34:58.040+00:00`, fetched `2026-08-09T15:43:06+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-09 15:15:03 UTC 2026-08-09 15:15:03 UTC at epicenter Location 5.778°S 102.887°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート** — Score 15, observation — [Quelle](https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
