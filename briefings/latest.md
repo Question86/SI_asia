@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T13:22:45+00:00_
+_Generiert: 2026-08-09T13:41:34+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

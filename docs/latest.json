@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:22:45+00:00",
-  "run_id": "2026-08-09T13:22:45+00:00",
+  "generated_at": "2026-08-09T13:41:34+00:00",
+  "run_id": "2026-08-09T13:41:34+00:00",
   "date": "2026-08-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 1,
-    "observe": 13,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -383,6 +383,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c9ee51ad40f5e69d5c64"
+      },
+      {
+        "title": "Cloudflareの学習教材",
+        "url": "https://cloudflare-study.komiyamma.net/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-05T09:45:12+00:00",
+        "fetched_at": "2026-08-09T13:41:01+00:00",
+        "summary": "第1章 CloudflareとはCloudflareの基本理念、グローバルネットワークの仕組み、そして提供される主要なサービス群の概要について学びます。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e9be4b7a15b164a596ee"
       },
       {
         "title": "AI研修(Day1)【MIXI 26新卒技術研修】",
@@ -762,6 +783,27 @@
       "id": "c9ee51ad40f5e69d5c64"
     },
     {
+      "title": "Cloudflareの学習教材",
+      "url": "https://cloudflare-study.komiyamma.net/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T09:45:12+00:00",
+      "fetched_at": "2026-08-09T13:41:01+00:00",
+      "summary": "第1章 CloudflareとはCloudflareの基本理念、グローバルネットワークの仕組み、そして提供される主要なサービス群の概要について学びます。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e9be4b7a15b164a596ee"
+    },
+    {
       "title": "AI研修(Day1)【MIXI 26新卒技術研修】",
       "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
       "source": "Hatena Bookmark Hotentry IT",
@@ -783,7 +825,29 @@
       "id": "188b609b771bc3e0cb12"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Cloudflareの学習教材",
+      "url": "https://cloudflare-study.komiyamma.net/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-05T09:45:12+00:00",
+      "fetched_at": "2026-08-09T13:41:01+00:00",
+      "summary": "第1章 CloudflareとはCloudflareの基本理念、グローバルネットワークの仕組み、そして提供される主要なサービス群の概要について学びます。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e9be4b7a15b164a596ee"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
