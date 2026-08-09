@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T02:18:20+00:00",
-  "run_id": "2026-08-09T02:18:20+00:00",
+  "generated_at": "2026-08-09T03:02:49+00:00",
+  "run_id": "2026-08-09T03:02:49+00:00",
   "date": "2026-08-09",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,17 +19,39 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 0,
-    "observe": 4,
-    "source_errors": 1
+    "observe": 5,
+    "source_errors": 2
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+        "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-08T22:57:18+00:00",
+        "fetched_at": "2026-08-09T03:02:14+00:00",
+        "summary": "米OpenAIは8月5日（現地時間）、7月に明らかになったAI開発プラットフォームHugging Faceへの侵害インシデントについて、米ラスベガスで開催されたセキュリティカンファレンス「Black Hat USA 2026」で詳細な経緯を説明した。登壇したのはアラインメント／安全性研究者のエリック・ウォレス氏と、セキュリティ・インフラ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e658aaf9b67f8edab0b3"
+      },
       {
         "title": "Claude Code で「ループエンジニアリング」を実践してみた",
         "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
@@ -134,6 +156,28 @@
   },
   "findings": [
     {
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-08T22:57:18+00:00",
+      "fetched_at": "2026-08-09T03:02:14+00:00",
+      "summary": "米OpenAIは8月5日（現地時間）、7月に明らかになったAI開発プラットフォームHugging Faceへの侵害インシデントについて、米ラスベガスで開催されたセキュリティカンファレンス「Black Hat USA 2026」で詳細な経緯を説明した。登壇したのはアラインメント／安全性研究者のエリック・ウォレス氏と、セキュリティ・インフラ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e658aaf9b67f8edab0b3"
+    },
+    {
       "title": "Claude Code で「ループエンジニアリング」を実践してみた",
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "source": "Hatena Bookmark Hotentry IT",
@@ -236,33 +280,40 @@
   ],
   "new_findings": [
     {
-      "title": "「原爆はうそ」「放射線の被害はなかった」といった原爆に関する荒唐無稽なフェイク動画がSNSなどで広がる事態に… 生成AIによる被爆の実相からはかけ離れた動画も増加、被爆者からは憤りの声も",
-      "url": "https://togetter.com/li/2730763",
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-08T23:37:46+00:00",
-      "fetched_at": "2026-08-09T02:17:44+00:00",
-      "summary": "NHKニュース @nhk_news いま、原爆に関する偽情報がSNSで広がっています 「原爆はうそ」「放射線の被害はなかった」などの荒唐無稽な偽情報、 30万回以上見られているYouTube動画も さらに、被爆の実相とは異なる生成AI動画も増加 被爆者がいなくなる時代を前に、事実をどう伝えていくのか news.web.nhk/newsweb/na/na-…...",
+      "published_at": "2026-08-08T22:57:18+00:00",
+      "fetched_at": "2026-08-09T03:02:14+00:00",
+      "summary": "米OpenAIは8月5日（現地時間）、7月に明らかになったAI開発プラットフォームHugging Faceへの侵害インシデントについて、米ラスベガスで開催されたセキュリティカンファレンス「Black Hat USA 2026」で詳細な経緯を説明した。登壇したのはアラインメント／安全性研究者のエリック・ウォレス氏と、セキュリティ・インフラ...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c9ee51ad40f5e69d5c64"
+      "id": "e658aaf9b67f8edab0b3"
     }
   ],
   "source_errors": [
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_id": "bsi_cert_bund_advisories",
+      "source_name": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5e908aa950>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "error": "HTTPSConnectionPool(host='wid.cert-bund.de', port=443): Max retries exceeded with url: /content/public/securityAdvisory/rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='wid.cert-bund.de', port=443) at 0x7f5c007a2250>, 'Connection to wid.cert-bund.de timed out. (connect timeout=8)'))"
+    },
+    {
+      "source_id": "hn_release_security_burst",
+      "source_name": "Hacker News Release/Security Burst",
+      "source_type": "hackernews",
+      "error": "403 Client Error: Forbidden for url: https://hn.algolia.com/api/v1/search_by_date?query=%28launch+OR+release+OR+outage+OR+security+OR+CVE+OR+OpenAI+OR+AI+agent+OR+Nvidia+OR+MCP+OR+Codex%29&tags=story&hitsPerPage=6"
     }
   ],
   "quality_gate": {

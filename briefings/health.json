@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-08-09T02:18:20+00:00",
+  "generated_at": "2026-08-09T03:02:49+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 0,
-    "observe": 4,
-    "source_errors": 1
+    "observe": 5,
+    "source_errors": 2
   },
   "source_errors": [
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_id": "bsi_cert_bund_advisories",
+      "source_name": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5e908aa950>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "error": "HTTPSConnectionPool(host='wid.cert-bund.de', port=443): Max retries exceeded with url: /content/public/securityAdvisory/rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='wid.cert-bund.de', port=443) at 0x7f5c007a2250>, 'Connection to wid.cert-bund.de timed out. (connect timeout=8)'))"
+    },
+    {
+      "source_id": "hn_release_security_burst",
+      "source_name": "Hacker News Release/Security Burst",
+      "source_type": "hackernews",
+      "error": "403 Client Error: Forbidden for url: https://hn.algolia.com/api/v1/search_by_date?query=%28launch+OR+release+OR+outage+OR+security+OR+CVE+OR+OpenAI+OR+AI+agent+OR+Nvidia+OR+MCP+OR+Codex%29&tags=story&hitsPerPage=6"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
