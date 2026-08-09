@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T04:07:36+00:00_
+_Generiert: 2026-08-09T04:38:13+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+10 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米OpenAIは8月5日（現地時間）、7月に明らかになったAI開発プラットフォームHugging Faceへの侵害インシデントについて、米ラスベガスで開催されたセキュリティカンファレンス「Black Hat USA 2026」で詳細な経緯を説明した。登壇したのはアラインメント／安全性研究者のエリック・ウォレス氏と、セキュリティ・インフラ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 12 km W of Chambara, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-09T04:29:35.537+00:00`, fetched `2026-08-09T04:37:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-08-09 04:05:44 UTC 2026-08-09 04:05:44 UTC at epicenter Location 12.051°S 75.491°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 68 km ESE of Atka, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-09T04:00:35.871+00:00`, fetched `2026-08-09T04:06:59+00:00`
