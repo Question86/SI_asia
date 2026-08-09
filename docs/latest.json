@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:19:26+00:00",
-  "run_id": "2026-08-09T12:19:26+00:00",
+  "generated_at": "2026-08-09T12:35:44+00:00",
+  "run_id": "2026-08-09T12:35:44+00:00",
   "date": "2026-08-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -741,44 +741,7 @@
       "id": "188b609b771bc3e0cb12"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.2 - Galapagos Triple Junction region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-09T12:17:06.040+00:00",
-      "fetched_at": "2026-08-09T12:18:56+00:00",
-      "summary": "Time 2026-08-09 11:57:33 UTC 2026-08-09 11:57:33 UTC at epicenter Location 2.296°N 101.913°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a004be2ddd0390aea542"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
