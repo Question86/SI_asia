@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T11:05:19+00:00",
-  "run_id": "2026-08-09T11:05:19+00:00",
+  "generated_at": "2026-08-09T11:16:19+00:00",
+  "run_id": "2026-08-09T11:16:19+00:00",
   "date": "2026-08-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 1,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 1,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -326,6 +326,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c9ee51ad40f5e69d5c64"
+      },
+      {
+        "title": "AI研修(Day1)【MIXI 26新卒技術研修】",
+        "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-28T01:14:06+00:00",
+        "fetched_at": "2026-08-09T11:15:46+00:00",
+        "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day1)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "188b609b771bc3e0cb12"
       }
     ]
   },
@@ -625,9 +646,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c9ee51ad40f5e69d5c64"
+    },
+    {
+      "title": "AI研修(Day1)【MIXI 26新卒技術研修】",
+      "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:14:06+00:00",
+      "fetched_at": "2026-08-09T11:15:46+00:00",
+      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day1)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "188b609b771bc3e0cb12"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AI研修(Day1)【MIXI 26新卒技術研修】",
+      "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-28T01:14:06+00:00",
+      "fetched_at": "2026-08-09T11:15:46+00:00",
+      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day1)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "188b609b771bc3e0cb12"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T11:05:19+00:00_
+_Generiert: 2026-08-09T11:16:19+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+12 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-08-09T11:05:19+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
-- **GDACS: Green flood alert in Spain** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104080)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Spain
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556955)
   - Quelle: GDACS
   - Zeit: ``
