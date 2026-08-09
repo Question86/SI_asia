@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T08:09:00+00:00_
+_Generiert: 2026-08-09T08:25:04+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+11 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 180 km NW of Sabang, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-09 01:09:19 UTC 2026-08-09 01:09:19 UTC at epicenter Location 17.848°S 178.453°W Depth 589.12 km (366.06 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **コンサル大手トップから市場縮小論 AIによる業務代替、4社が危機感 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-09T00:06:50+00:00`, fetched `2026-08-09T08:24:33+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: コンサルティング業界が膨張している。国内大手の人員は2026年度中にも10万人を超える。「市場はバブルか」。大手6社トップに聞くと3社が認め、2社は市場縮小を予測した。生成AI（人工知能）による業務代替への危機感は4社が示した。「コンサルタント数は過剰」AI関連システムの導入支援などの旺盛な需要を受け、国内コ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TapXWorld/ChinaTextbook** — Score 7, observation — [Quelle](https://github.com/TapXWorld/ChinaTextbook)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-09T03:39:21+00:00`
@@ -86,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: 所有小初高、大学PDF教材。 项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 一年级上册 一年级下册 二年级上册 二年级下册 三年级上册 三年级下册 四年级上册 四年级下册 五年级上册 五年级下册 六年级上册 六年级下册 初中数学 初一上册 初一下册 初二上册 初二下册 初三上册 初三下册 高中数学 目录 大学数学 高等数学 线性代数 离散数学 概率论 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **アマゾンから突然注文をキャンセルされ、身分証の提出を求められた…怪しすぎるのでカスタマーに確認、「本物です。ただ非常に高いレベルの部署なので我々にも詳細は分かりません」とのこと** — Score 5, observation — [Quelle](https://togetter.com/li/2730762)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-09T00:04:41+00:00`, fetched `2026-08-09T00:55:17+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: トットコ @民泊2年生 @totttokosan アマゾンから突然、 「注文キャンセルしました。身分証を提出してください」 怪しすぎるのでカスタマーに確認したら、 「本物です。ただ非常に高いレベルの部署なので我々にも詳細は分かりません」 なんやその特務機関みたいな部署。 2026-08-08 10:00:41 トットコ @民泊2年生 @tott...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
