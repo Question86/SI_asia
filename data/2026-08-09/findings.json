@@ -564,6 +564,27 @@
     "id": "03f94cf7b614ebda621d"
   },
   {
+    "title": "「CPUをダメにする」研究者が見つけた最も遅い1命令の正体と暴かれたリスク | XenoSpectrum",
+    "url": "https://xenospectrum.com/cpu-deoptimization-hall-of-shame-198-billion-cycles/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-09T05:47:42+00:00",
+    "fetched_at": "2026-08-09T18:27:18+00:00",
+    "summary": "セキュリティ研究者が「最も遅いx86命令」を競うリーダーボードを公開。fxrstor64をPCIe MMIOに向けて他コアでバスを飽和させる手法で、通常150サイクルの命令を1980億サイクル（62秒）まで引き延ばした。この「遅さ」はSMMの排他性仮説を崩し、100件超の休眠CVEを再点火しうる。",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "701ef2825111b64b5ba0"
+  },
+  {
     "title": "iPadにMacの画面を映しセカンドモニターとして利用できるようにするアプリ「OpenDisplay」がApple Pencilの筆圧とチルト、ホバーに対応。",
     "url": "https://applech2.com/archives/20260809-opendisplay-support-apple-pencil-pressure.html",
     "source": "Hatena Bookmark Hotentry IT",
