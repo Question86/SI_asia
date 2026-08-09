@@ -100,5 +100,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+        "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-09T13:31:00+00:00",
+        "age_days": 0.39,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, 10",
+          "security high-signal: rce, 10"
+        ],
+        "summary": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Pl..."
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 51.87,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 51.9d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "「CPUをダメにする」研究者が見つけた最も遅い1命令の正体と暴かれたリスク | XenoSpectrum",
+        "url": "https://xenospectrum.com/cpu-deoptimization-hall-of-shame-198-billion-cycles/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-09T05:47:42+00:00",
+        "age_days": 0.71,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 22.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "セキュリティ研究者が「最も遅いx86命令」を競うリーダーボードを公開。fxrstor64をPCIe MMIOに向けて他コアでバスを飽和させる手法で、通常150サイクルの命令を1980億サイクル（62秒）まで引き延ばした。この「遅さ」はSMMの排他性仮説を崩し、100件超の休眠CVEを再点火しうる。"
+      },
+      {
+        "title": "Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO",
+        "url": "https://dev.classmethod.jp/articles/beads-agent-state-management-automation-scope/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-09T15:16:38+00:00",
+        "age_days": 0.32,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 24.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "AI コーディングエージェントの引き継ぎドキュメントをやめ、課題管理ツール Beads へ状態を移しました。セッション開始時の状態の復元は自動化できましたが、状態の更新は自動では行われず、人が補う必要が残りました。 はじめに AI コーディングエージェントを使っていると、引き継ぎドキュメントを書くことになります..."
+      },
+      {
+        "title": "M 4.8 - 7 km ESE of Mabini, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-09T17:44:36.519+00:00",
+        "age_days": 0.22,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "DYFI? - II Time 2026-08-09 17:05:42 UTC 2026-08-09 17:05:42 UTC at epicenter Location 11.394°N 125.231°E Depth 110.58 km (68.71 mi)"
+      }
+    ]
+  }
 }
