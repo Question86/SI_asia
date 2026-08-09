@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-09T19:50:20+00:00_
+_Generated: 2026-08-09T20:01:42+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
-### 1. M 4.8 - 7 km ESE of Mabini, Philippines
+### 1. Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-08-09T15:16:38+00:00`
+- url: https://dev.classmethod.jp/articles/beads-agent-state-management-automation-scope/
+- summary: AI コーディングエージェントの引き継ぎドキュメントをやめ、課題管理ツール Beads へ状態を移しました。セッション開始時の状態の復元は自動化できましたが、状態の更新は自動では行われず、人が補う必要が残りました。 はじめに AI コーディングエージェントを使っていると、引き継ぎドキュメントを書くことになります...
+
+### 2. M 4.8 - 7 km ESE of Mabini, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-09T17:44:36.519+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd
 - summary: DYFI? - II Time 2026-08-09 17:05:42 UTC 2026-08-09 17:05:42 UTC at epicenter Location 11.394°N 125.231°E Depth 110.58 km (68.71 mi)
 
-### 2. M 5.3 - 197 km SSW of Pagar Alam, Indonesia
+### 3. M 5.3 - 197 km SSW of Pagar Alam, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-09T15:34:58.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj
 - summary: Time 2026-08-09 15:15:03 UTC 2026-08-09 15:15:03 UTC at epicenter Location 5.778°S 102.887°E Depth 35.00 km (21.75 mi)
 
-### 3. M 4.6 - 68 km SSE of Sarangani, Philippines
+### 4. M 4.6 - 68 km SSE of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-09T14:03:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfb
 - summary: Time 2026-08-09 13:47:06 UTC 2026-08-09 13:47:06 UTC at epicenter Location 4.814°N 125.659°E Depth 162.84 km (101.18 mi)
-
-### 4. M 5.0 - 180 km NW of Sabang, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-09T03:21:18.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl
-- summary: Time 2026-08-09 03:02:07 UTC 2026-08-09 03:02:07 UTC at epicenter Location 7.017°N 94.140°E Depth 10.00 km (6.21 mi)
 
 ### 5. Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明
 - source: Hatena Bookmark Hotentry IT
