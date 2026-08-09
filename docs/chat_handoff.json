@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-09T00:32:24+00:00",
+  "generated_at": "2026-08-09T00:55:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 1
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 11,
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "summary": "Claude Code で「ループエンジニアリング」を実践し、Maker-Checker構成で本物のバグを検出できた話 はじめに てつどんです。データエンジニアとして 日々業務をこなしております。 最近、バズワードのように、いろんなところで「ループエンジニアリング」というのを聞くことが多くなりました。 そこで、今回、ループエ...",
+      "section": "observe"
+    },
+    {
+      "title": "アマゾンから突然注文をキャンセルされ、身分証の提出を求められた…怪しすぎるのでカスタマーに確認、「本物です。ただ非常に高いレベルの部署なので我々にも詳細は分かりません」とのこと",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-09T00:04:41+00:00",
+      "relevance_score": 5,
+      "url": "https://togetter.com/li/2730762",
+      "summary": "トットコ @民泊2年生 @totttokosan アマゾンから突然、 「注文キャンセルしました。身分証を提出してください」 怪しすぎるのでカスタマーに確認したら、 「本物です。ただ非常に高いレベルの部署なので我々にも詳細は分かりません」 なんやその特務機関みたいな部署。 2026-08-08 10:00:41 トットコ @民泊2年生 @tott...",
       "section": "observe"
     }
   ],
