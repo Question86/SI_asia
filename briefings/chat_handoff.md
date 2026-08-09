@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-09T23:32:50+00:00_
+_Generated: 2026-08-09T23:46:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-09T23:32:50+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfr
 - summary: Time 2026-08-09 15:40:05 UTC 2026-08-09 15:40:05 UTC at epicenter Location 10.994°S 74.548°W Depth 95.47 km (59.32 mi)
 
-### 7. M 4.6 - 12 km W of Chambara, Peru
+### 7. 【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ - Qiita
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-09T09:41:19+00:00`
+- url: https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1
+- summary: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
+
+### 8. M 4.6 - 12 km W of Chambara, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-09T04:29:35.537+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr
 - summary: DYFI? - IV Time 2026-08-09 04:05:44 UTC 2026-08-09 04:05:44 UTC at epicenter Location 12.051°S 75.491°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.9 - 68 km ESE of Atka, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-09T04:00:35.871+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn
-- summary: ShakeMap - IV DYFI? - III Time 2026-08-09 03:36:17 UTC 2026-08-09 03:36:17 UTC at epicenter Location 51.987°N 173.261°W Depth 60.30 km (37.47 mi)
 
 END OF DOCUMENT

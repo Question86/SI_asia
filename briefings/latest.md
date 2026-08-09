@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T23:32:50+00:00_
+_Generiert: 2026-08-09T23:46:53+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-09 15:40:05 UTC 2026-08-09 15:40:05 UTC at epicenter Location 10.994°S 74.548°W Depth 95.47 km (59.32 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ - Qiita** — Score 11, observation — [Quelle](https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-09T09:41:19+00:00`, fetched `2026-08-09T23:46:24+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 12 km W of Chambara, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-09T04:29:35.537+00:00`, fetched `2026-08-09T04:37:44+00:00`
@@ -167,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs Code-Graph-RAG Code-Graph-RAG parses a multi-language codebase with Tree-sitter, builds a knowledge graph of its structure in Memgraph, and lets you query, edit, and optimise that code in plain English. It works across a monorepo of mixed languages under one unified graph schema. Latest…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **コンサル大手トップから市場縮小論 AIによる業務代替、4社が危機感 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-09T00:06:50+00:00`, fetched `2026-08-09T08:24:33+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: コンサルティング業界が膨張している。国内大手の人員は2026年度中にも10万人を超える。「市場はバブルか」。大手6社トップに聞くと3社が認め、2社は市場縮小を予測した。生成AI（人工知能）による業務代替への危機感は4社が示した。「コンサルタント数は過剰」AI関連システムの導入支援などの旺盛な需要を受け、国内コ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TapXWorld/ChinaTextbook** — Score 7, observation — [Quelle](https://github.com/TapXWorld/ChinaTextbook)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
