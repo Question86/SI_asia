@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T17:46:58+00:00_
+_Generiert: 2026-08-09T17:59:53+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 7 km ESE of Mabini, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+25 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 7 km ESE of Mabini, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -131,3 +131,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
