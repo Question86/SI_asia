@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T15:43:40+00:00_
+_Generiert: 2026-08-09T15:56:38+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,10 @@ _Generiert: 2026-08-09T15:43:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI&gt;=IV.
+- **GDACS: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001299)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
