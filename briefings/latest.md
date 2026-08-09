@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T20:01:42+00:00_
+_Generiert: 2026-08-09T20:13:21+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „Beads でタスク進行管理はどこまで自動化できるか確かめた | DevelopersIO“ aus Hatena Bookmark Hotentry IT (Score 16, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-09 13:47:06 UTC 2026-08-09 13:47:06 UTC at epicenter Location 4.814°N 125.659°E Depth 162.84 km (101.18 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート** — Score 15, observation — [Quelle](https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-09T13:31:00+00:00`, fetched `2026-08-09T20:12:49+00:00`
+  - Treffer: agent, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: 「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Pl...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -182,6 +191,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
