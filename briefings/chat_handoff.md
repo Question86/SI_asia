@@ -1,56 +1,63 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-09T17:32:18+00:00_
+_Generated: 2026-08-09T17:46:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `24`
 
 ## Top Signals
 
-### 1. M 5.3 - 197 km SSW of Pagar Alam, Indonesia
+### 1. M 4.8 - 7 km ESE of Mabini, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-09T17:44:36.519+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd
+- summary: DYFI? - II Time 2026-08-09 17:05:42 UTC 2026-08-09 17:05:42 UTC at epicenter Location 11.394°N 125.231°E Depth 110.58 km (68.71 mi)
+
+### 2. M 5.3 - 197 km SSW of Pagar Alam, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-09T15:34:58.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj
 - summary: Time 2026-08-09 15:15:03 UTC 2026-08-09 15:15:03 UTC at epicenter Location 5.778°S 102.887°E Depth 35.00 km (21.75 mi)
 
-### 2. M 4.6 - 68 km SSE of Sarangani, Philippines
+### 3. M 4.6 - 68 km SSE of Sarangani, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-09T14:03:08.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfb
 - summary: Time 2026-08-09 13:47:06 UTC 2026-08-09 13:47:06 UTC at epicenter Location 4.814°N 125.659°E Depth 162.84 km (101.18 mi)
 
-### 3. M 5.0 - 180 km NW of Sabang, Indonesia
+### 4. M 5.0 - 180 km NW of Sabang, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-09T03:21:18.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl
 - summary: Time 2026-08-09 03:02:07 UTC 2026-08-09 03:02:07 UTC at epicenter Location 7.017°N 94.140°E Depth 10.00 km (6.21 mi)
 
-### 4. Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明
+### 5. Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-08-08T22:57:18+00:00`
 - url: https://www.itmedia.co.jp/news/article/2608/09/2000000463/
 - summary: 米OpenAIは8月5日（現地時間）、7月に明らかになったAI開発プラットフォームHugging Faceへの侵害インシデントについて、米ラスベガスで開催されたセキュリティカンファレンス「Black Hat USA 2026」で詳細な経緯を説明した。登壇したのはアラインメント／安全性研究者のエリック・ウォレス氏と、セキュリティ・インフラ...
 
-### 5. M 4.6 - 30 km NNE of Satipo, Peru
+### 6. M 4.6 - 30 km NNE of Satipo, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-09T16:25:11.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfr
 - summary: Time 2026-08-09 15:40:05 UTC 2026-08-09 15:40:05 UTC at epicenter Location 10.994°S 74.548°W Depth 95.47 km (59.32 mi)
 
-### 6. M 4.6 - 12 km W of Chambara, Peru
+### 7. M 4.6 - 12 km W of Chambara, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-09T04:29:35.537+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr
 - summary: DYFI? - IV Time 2026-08-09 04:05:44 UTC 2026-08-09 04:05:44 UTC at epicenter Location 12.051°S 75.491°W Depth 10.00 km (6.21 mi)
 
-### 7. M 4.9 - 68 km ESE of Atka, Alaska
+### 8. M 4.9 - 68 km ESE of Atka, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-09T04:00:35.871+00:00`
