@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-09T03:58:44Z",
+  "generated_at": "2026-08-09T04:32:31Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 51.08,
+      "age_days": 51.11,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T03:21:18.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -65,11 +65,35 @@
       "summary": "Time 2026-08-09 03:02:07 UTC 2026-08-09 03:02:07 UTC at epicenter Location 7.017°N 94.140°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.9 - 68 km ESE of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-09T04:00:35.871+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "ShakeMap - IV DYFI? - III Time 2026-08-09 03:36:17 UTC 2026-08-09 03:36:17 UTC at epicenter Location 51.987°N 173.261°W Depth 60.30 km (37.47 mi)"
+    },
+    {
       "title": "M 4.9 - 237 km E of Levuka, Fiji",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T01:24:29.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -93,7 +117,7 @@
       "url": "https://togetter.com/li/2730762",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:04:41+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -117,7 +141,7 @@
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T21:17:01+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -143,7 +167,7 @@
       "url": "https://github.com/google/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -169,7 +193,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T22:57:18+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -194,7 +218,7 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -220,7 +244,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.05,
+      "age_days": 50.07,
       "topics": [
         "general"
       ],
@@ -236,7 +260,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 50.0d old signal"
+        "aging penalty -16.0 for 50.1d old signal"
       ],
       "summary": ""
     },
@@ -245,7 +269,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.05,
+      "age_days": 50.07,
       "topics": [
         "general"
       ],
@@ -261,7 +285,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 50.0d old signal"
+        "aging penalty -16.0 for 50.1d old signal"
       ],
       "summary": ""
     },
@@ -270,7 +294,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.05,
+      "age_days": 50.07,
       "topics": [
         "ai"
       ],
@@ -287,35 +311,10 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 50.0d old signal",
+        "aging penalty -16.0 for 50.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "「原爆はうそ」「放射線の被害はなかった」といった原爆に関する荒唐無稽なフェイク動画がSNSなどで広がる事態に… 生成AIによる被爆の実相からはかけ離れた動画も増加、被爆者からは憤りの声も",
-      "url": "https://togetter.com/li/2730763",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-08T23:37:46+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "NHKニュース @nhk_news いま、原爆に関する偽情報がSNSで広がっています 「原爆はうそ」「放射線の被害はなかった」などの荒唐無稽な偽情報、 30万回以上見られているYouTube動画も さらに、被爆の実相とは異なる生成AI動画も増加 被爆者がいなくなる時代を前に、事実をどう伝えていくのか news.web.nhk/newsweb/na/na-…..."
     }
   ],
   "read_order": [
@@ -328,8 +327,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 1,
-      "quiet": 9
+      "watch": 2,
+      "quiet": 8
     }
   }
 }
