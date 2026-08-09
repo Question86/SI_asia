@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-09T14:57:39Z",
+  "generated_at": "2026-08-09T15:11:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 21,
+    "dynamics": 24,
     "bands": {
       "strong": 3,
       "watch": 4,
-      "quiet": 14
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
       "strong": 3,
       "watch": 4,
-      "quiet": 14
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 51.54,
+      "age_days": 51.55,
       "topics": [
         "ai"
       ],
@@ -41,7 +41,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 51.5d old signal",
+        "aging penalty -8.0 for 51.6d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T14:03:08.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T03:21:18.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T04:29:35.537+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T12:17:06.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -151,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T04:00:35.871+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -175,7 +175,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T01:24:29.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -199,7 +199,7 @@
       "url": "https://togetter.com/li/2730762",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:04:41+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -223,7 +223,7 @@
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T21:17:01+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -249,7 +249,7 @@
       "url": "https://github.com/google/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -271,11 +271,65 @@
       "summary": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud . Note This repository is under active development. Installation npx skills add google/skills From the npx install command, you can select the specific skill…"
     },
     {
+      "title": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-09T15:01:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: flood",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "WeatherNext WeatherNext 2 This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and Google Research. It also contains code for prior generation models GraphCast and GenCast . Accessing Forecast Data Feeds If you are interest…"
+    },
+    {
+      "title": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-09T15:01:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs Code-Graph-RAG Code-Graph-RAG parses a multi-language codebase with Tree-sitter, builds a knowledge graph of its structure in Memgraph, and lets you query, edit, and optimise that code in…"
+    },
+    {
       "title": "最近のはてブ",
       "url": "https://anond.hatelabo.jp/20260809214857",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T12:58:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -299,7 +353,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T22:57:18+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -324,7 +378,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:06:50+00:00",
-      "age_days": 0.62,
+      "age_days": 0.63,
       "topics": [
         "ai"
       ],
@@ -350,7 +404,7 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -376,7 +430,7 @@
       "url": "https://cloudflare-study.komiyamma.net/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T09:45:12+00:00",
-      "age_days": 4.22,
+      "age_days": 4.23,
       "topics": [
         "general"
       ],
@@ -394,6 +448,33 @@
         "no strong comparative reason"
       ],
       "summary": "第1章 CloudflareとはCloudflareの基本理念、グローバルネットワークの仕組み、そして提供される主要なサービス群の概要について学びます。"
+    },
+    {
+      "title": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-09T15:01:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: chain",
+        "high terms: active, container",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. witr Why is this running? Trace any process, port, container, or file back to the exact chain that started it — one command, machine-readable JSON, or an interactive TUI . 🎮 Try witr in your browser → Investigate a si…"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
@@ -477,7 +558,7 @@
       "url": "https://note.com/kurage0/n/naea06d39ff7c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:44:10+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -502,7 +583,7 @@
       "url": "https://togetter.com/li/2730763",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T23:37:46+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -527,7 +608,7 @@
       "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T01:14:06+00:00",
-      "age_days": 12.57,
+      "age_days": 12.58,
       "topics": [
         "ai"
       ],
