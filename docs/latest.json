@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T08:25:04+00:00",
-  "run_id": "2026-08-09T08:25:04+00:00",
+  "generated_at": "2026-08-09T08:43:01+00:00",
+  "run_id": "2026-08-09T08:43:01+00:00",
   "date": "2026-08-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -627,29 +627,7 @@
       "id": "c9ee51ad40f5e69d5c64"
     }
   ],
-  "new_findings": [
-    {
-      "title": "コンサル大手トップから市場縮小論 AIによる業務代替、4社が危機感 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-09T00:06:50+00:00",
-      "fetched_at": "2026-08-09T08:24:33+00:00",
-      "summary": "コンサルティング業界が膨張している。国内大手の人員は2026年度中にも10万人を超える。「市場はバブルか」。大手6社トップに聞くと3社が認め、2社は市場縮小を予測した。生成AI（人工知能）による業務代替への危機感は4社が示した。「コンサルタント数は過剰」AI関連システムの導入支援などの旺盛な需要を受け、国内コ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c2a159d7ba726982cdb5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
