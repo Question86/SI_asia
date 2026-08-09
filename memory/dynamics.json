@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-09T19:03:56Z",
+  "generated_at": "2026-08-09T19:23:48Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 32,
     "bands": {
       "strong": 6,
-      "watch": 6,
+      "watch": 8,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 6,
+      "watch": 8,
       "quiet": 18
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 51.71,
+      "age_days": 51.73,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T17:44:36.519+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T15:34:58.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T14:03:08.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T03:21:18.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -151,7 +151,7 @@
       "url": "https://xenospectrum.com/cpu-deoptimization-hall-of-shame-198-billion-cycles/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T05:47:42+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjfr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T16:25:11.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -201,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T04:29:35.537+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "disaster"
       ],
@@ -222,11 +222,61 @@
       "summary": "DYFI? - IV Time 2026-08-09 04:05:44 UTC 2026-08-09 04:05:44 UTC at epicenter Location 12.051°S 75.491°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-09T19:01:15.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.8"
+      ],
+      "summary": "Time 2026-08-09 18:23:02 UTC 2026-08-09 18:23:02 UTC at epicenter Location 23.827°S 179.870°W Depth 525.53 km (326.55 mi)"
+    },
+    {
+      "title": "M 4.5 - 123 km WNW of Panguna, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-09T18:49:01.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-09 18:11:29 UTC 2026-08-09 18:11:29 UTC at epicenter Location 5.820°S 154.489°E Depth 104.48 km (64.92 mi)"
+    },
+    {
       "title": "M 4.6 - 19 km ESE of Metahāra, Ethiopia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjgf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T17:50:51.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -251,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T12:17:06.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -276,7 +326,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T04:00:35.871+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -300,7 +350,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T01:24:29.040+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "disaster"
       ],
@@ -324,7 +374,7 @@
       "url": "https://togetter.com/li/2730762",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:04:41+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -348,7 +398,7 @@
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T21:17:01+00:00",
-      "age_days": 0.91,
+      "age_days": 0.92,
       "topics": [
         "ai"
       ],
@@ -374,7 +424,7 @@
       "url": "https://github.com/google/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -400,7 +450,7 @@
       "url": "https://github.com/google-deepmind/weathernext",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T15:01:21+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "disaster"
@@ -428,7 +478,7 @@
       "url": "https://github.com/vitali87/code-graph-rag",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T15:01:21+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -454,7 +504,7 @@
       "url": "https://anond.hatelabo.jp/20260809214857",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T12:58:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -478,7 +528,7 @@
       "url": "https://applech2.com/archives/20260809-opendisplay-support-apple-pencil-pressure.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T02:36:18+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -502,7 +552,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T22:57:18+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -527,7 +577,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:06:50+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -553,7 +603,7 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -579,7 +629,7 @@
       "url": "https://cloudflare-study.komiyamma.net/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-05T09:45:12+00:00",
-      "age_days": 4.39,
+      "age_days": 4.4,
       "topics": [
         "general"
       ],
@@ -603,7 +653,7 @@
       "url": "https://github.com/pranshuparmar/witr",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T15:01:21+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -630,7 +680,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.68,
+      "age_days": 50.69,
       "topics": [
         "general"
       ],
@@ -655,7 +705,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.68,
+      "age_days": 50.69,
       "topics": [
         "general"
       ],
@@ -680,7 +730,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.68,
+      "age_days": 50.69,
       "topics": [
         "ai"
       ],
@@ -707,7 +757,7 @@
       "url": "https://note.com/kurage0/n/naea06d39ff7c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:44:10+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
@@ -732,7 +782,7 @@
       "url": "https://togetter.com/li/2730763",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T23:37:46+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -757,7 +807,7 @@
       "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T01:14:06+00:00",
-      "age_days": 12.74,
+      "age_days": 12.76,
       "topics": [
         "ai"
       ],
@@ -773,7 +823,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -2.1 for 12.7d old signal",
+        "aging penalty -2.1 for 12.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day1)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…"
