@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-08T23:52:44Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PrimeIntellect-ai/prime-agent” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-09T00:08:17Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,36 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-08T02:07:01+00:00",
-      "age_days": 0.91,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "A self-improving RLM agent for coding workflows and long-running autonomous tasks. Prime Agent: A Self-Improving RLM Agent Documentation • Verifiers • PRIME-RL • pi-mono Prime Agent is an open-source coding and research agent for general and long-running work. It is designed around two core abstractions: The Recursive…"
-    },
-    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 50.91,
+      "age_days": 50.92,
       "topics": [
         "ai"
       ],
@@ -65,253 +40,81 @@
       "summary": ""
     },
     {
-      "title": "M 4.8 - 54 km SW of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8e",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T10:36:52.040+00:00",
-      "age_days": 0.55,
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 49.89,
       "topics": [
-        "disaster"
+        "general"
       ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10"
+        "momentum delta +1",
+        "aging penalty -16.0 for 49.9d old signal"
       ],
-      "summary": "Time 2026-08-08 10:20:46 UTC 2026-08-08 10:20:46 UTC at epicenter Location 5.095°N 125.083°E Depth 10.02 km (6.23 mi)"
+      "summary": ""
     },
     {
-      "title": "M 4.6 - 33 km SSW of Sarangani, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj65",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T03:01:57.040+00:00",
-      "age_days": 0.87,
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 49.89,
       "topics": [
-        "disaster"
+        "general"
       ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10"
+        "momentum delta +1",
+        "aging penalty -16.0 for 49.9d old signal"
       ],
-      "summary": "Time 2026-08-08 02:44:59 UTC 2026-08-08 02:44:59 UTC at epicenter Location 5.119°N 125.365°E Depth 10.00 km (6.21 mi)"
+      "summary": ""
     },
     {
-      "title": "M 5.6 - 46 km E of Noda, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T18:28:02.828+00:00",
-      "age_days": 0.23,
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 49.89,
       "topics": [
-        "disaster"
+        "ai"
       ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "early terms: earthquake"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 49.9d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-08 17:58:00 UTC 2026-08-08 17:58:00 UTC at epicenter Location 40.175°N 142.353°E Depth 52.87 km (32.85 mi)"
-    },
-    {
-      "title": "M 4.6 - 77 km WSW of San Antonio de los Cobres, Argentina",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj96",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T13:03:26.040+00:00",
-      "age_days": 0.45,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 12:44:22 UTC 2026-08-08 12:44:22 UTC at epicenter Location 24.392°S 67.057°W Depth 163.58 km (101.65 mi)"
-    },
-    {
-      "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T05:02:47.955+00:00",
-      "age_days": 0.78,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "ShakeMap - VI DYFI? - V Time 2026-08-08 04:50:34 UTC 2026-08-08 04:50:34 UTC at epicenter Location 62.269°N 152.314°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 158 km NNE of Darya Boyi, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj68",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T03:59:37.040+00:00",
-      "age_days": 0.83,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 03:45:26 UTC 2026-08-08 03:45:26 UTC at epicenter Location 39.635°N 82.875°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - northern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjbg",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T22:37:40.040+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 22:09:05 UTC 2026-08-08 22:09:05 UTC at epicenter Location 33.778°N 38.033°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.7 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjas",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T19:28:15.040+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 19:07:57 UTC 2026-08-08 19:07:57 UTC at epicenter Location 28.566°S 176.518°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.6 - 47 km WNW of Lata, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T18:45:44.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 18:28:26 UTC 2026-08-08 18:28:26 UTC at epicenter Location 10.504°S 165.426°E Depth 75.44 km (46.88 mi)"
-    },
-    {
-      "title": "M 5.6 - southeast of Easter Island",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj8t",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-08T11:59:59.040+00:00",
-      "age_days": 0.49,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-08 11:41:27 UTC 2026-08-08 11:41:27 UTC at epicenter Location 41.483°S 90.080°W Depth 10.00 km (6.21 mi)"
+      "summary": ""
     }
   ],
   "read_order": [
@@ -323,8 +126,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 1,
+      "quiet": 3
     }
   }
 }
