@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T03:39:51+00:00",
-  "run_id": "2026-08-09T03:39:51+00:00",
+  "generated_at": "2026-08-09T04:07:36+00:00",
+  "run_id": "2026-08-09T04:07:36+00:00",
   "date": "2026-08-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 1,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -89,6 +89,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e658aaf9b67f8edab0b3"
+      },
+      {
+        "title": "M 4.9 - 68 km ESE of Atka, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-09T04:00:35.871+00:00",
+        "fetched_at": "2026-08-09T04:06:59+00:00",
+        "summary": "ShakeMap - IV DYFI? - III Time 2026-08-09 03:36:17 UTC 2026-08-09 03:36:17 UTC at epicenter Location 51.987°N 173.261°W Depth 60.30 km (37.47 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "24940c8a67330e920762"
       },
       {
         "title": "Claude Code で「ループエンジニアリング」を実践してみた",
@@ -296,6 +333,43 @@
       "id": "e658aaf9b67f8edab0b3"
     },
     {
+      "title": "M 4.9 - 68 km ESE of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-09T04:00:35.871+00:00",
+      "fetched_at": "2026-08-09T04:06:59+00:00",
+      "summary": "ShakeMap - IV DYFI? - III Time 2026-08-09 03:36:17 UTC 2026-08-09 03:36:17 UTC at epicenter Location 51.987°N 173.261°W Depth 60.30 km (37.47 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "24940c8a67330e920762"
+    },
+    {
       "title": "Claude Code で「ループエンジニアリング」を実践してみた",
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "source": "Hatena Bookmark Hotentry IT",
@@ -441,27 +515,27 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 180 km NW of Sabang, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
+      "title": "M 4.9 - 68 km ESE of Atka, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-09T03:21:18.040+00:00",
-      "fetched_at": "2026-08-09T03:39:21+00:00",
-      "summary": "Time 2026-08-09 03:02:07 UTC 2026-08-09 03:02:07 UTC at epicenter Location 7.017°N 94.140°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-09T04:00:35.871+00:00",
+      "fetched_at": "2026-08-09T04:06:59+00:00",
+      "summary": "ShakeMap - IV DYFI? - III Time 2026-08-09 03:36:17 UTC 2026-08-09 03:36:17 UTC at epicenter Location 51.987°N 173.261°W Depth 60.30 km (37.47 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
+        "ShakeMap",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+        "earthquakes_tsunami: earthquake, ShakeMap"
       ],
       "market_context": [
         "MUV2.DE",
@@ -475,50 +549,7 @@
         "HD",
         "LOW"
       ],
-      "id": "925d1a9bcde0664b970b"
-    },
-    {
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-08-09T03:39:21+00:00",
-      "summary": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud . Note This repository is under active development. Installation npx skills add google/skills From the npx install command, you can select the specific skills from this repo to install. Available Skills Getting started with Google Cloud Authenticating to Go…",
-      "matched_keywords": [
-        "AI Agents",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02e5b29c4f74ca99bf3f"
-    },
-    {
-      "title": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-08-09T03:39:21+00:00",
-      "summary": "所有小初高、大学PDF教材。 项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 一年级上册 一年级下册 二年级上册 二年级下册 三年级上册 三年级下册 四年级上册 四年级下册 五年级上册 五年级下册 六年级上册 六年级下册 初中数学 初一上册 初一下册 初二上册 初二下册 初三上册 初三下册 高中数学 目录 大学数学 高等数学 线性代数 离散数学 概率论 更多数学资料-(大学数学网) 问题：如何合并被拆分的文件？ 由于 GitHub 对单个文件的上传有最大限制，超过 100MB 的文件会被拒绝上传，超过 50MB 的文件…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6b978708bb4a1fa79212"
+      "id": "24940c8a67330e920762"
     }
   ],
   "source_errors": [],
