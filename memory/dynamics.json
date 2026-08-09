@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-09T13:33:26Z",
+  "generated_at": "2026-08-09T13:58:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 19,
     "bands": {
       "strong": 2,
       "watch": 4,
-      "quiet": 12
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 4,
-      "quiet": 12
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 51.48,
+      "age_days": 51.5,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T03:21:18.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T04:29:35.537+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T12:17:06.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T04:00:35.871+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -150,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-09T01:24:29.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -174,7 +174,7 @@
       "url": "https://togetter.com/li/2730762",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:04:41+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -198,7 +198,7 @@
       "url": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T21:17:01+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -224,7 +224,7 @@
       "url": "https://github.com/google/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -250,7 +250,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T22:57:18+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "ai"
       ],
@@ -275,7 +275,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:06:50+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -301,7 +301,7 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-09T03:39:21+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -323,11 +323,35 @@
       "summary": "所有小初高、大学PDF教材。 项目的由来 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。 还有一个最重要的原因是，希望海外华人能够让自己的孩子继续了解国内教育。 学习数学 希望未来出现更多不是为了考学而读书的人。 小学数学 一年级上册 一年级下册 二年级上册 二年级下册 三年级上册 三年级下册 四年级上册 四年级下册 五年级上册 五年级下册 六年级上册 六年级下册 初中数学 初一上册 初一下册 初二上册 初二下册 初三上册 初三下册 高中数学 目录 大学数学 高等数…"
     },
     {
+      "title": "Cloudflareの学習教材",
+      "url": "https://cloudflare-study.komiyamma.net/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-05T09:45:12+00:00",
+      "age_days": 4.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "第1章 CloudflareとはCloudflareの基本理念、グローバルネットワークの仕組み、そして提供される主要なサービス群の概要について学びます。"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.45,
+      "age_days": 50.46,
       "topics": [
         "general"
       ],
@@ -343,7 +367,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 50.4d old signal"
+        "aging penalty -16.0 for 50.5d old signal"
       ],
       "summary": ""
     },
@@ -352,7 +376,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.45,
+      "age_days": 50.46,
       "topics": [
         "general"
       ],
@@ -368,7 +392,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 50.4d old signal"
+        "aging penalty -16.0 for 50.5d old signal"
       ],
       "summary": ""
     },
@@ -377,7 +401,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 50.45,
+      "age_days": 50.46,
       "topics": [
         "ai"
       ],
@@ -394,7 +418,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 50.4d old signal",
+        "aging penalty -16.0 for 50.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -404,7 +428,7 @@
       "url": "https://note.com/kurage0/n/naea06d39ff7c",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T00:44:10+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -429,7 +453,7 @@
       "url": "https://togetter.com/li/2730763",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T23:37:46+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -454,7 +478,7 @@
       "url": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-28T01:14:06+00:00",
-      "age_days": 12.51,
+      "age_days": 12.53,
       "topics": [
         "ai"
       ],
