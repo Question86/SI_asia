@@ -285,6 +285,28 @@
     "id": "ab6213e9bf630d1b4670"
   },
   {
+    "title": "vitali87/code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-08-09T15:01:21+00:00",
+    "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs Code-Graph-RAG Code-Graph-RAG parses a multi-language codebase with Tree-sitter, builds a knowledge graph of its structure in Memgraph, and lets you query, edit, and optimise that code in plain English. It works across a monorepo of mixed languages under one unified graph schema. Latest…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "GitHub Trending"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9fda47ec050c1825c8f1"
+  },
+  {
     "title": "コンサル大手トップから市場縮小論 AIによる業務代替、4社が危機感 - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -325,6 +347,54 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6b978708bb4a1fa79212"
+  },
+  {
+    "title": "google-deepmind/weathernext",
+    "url": "https://github.com/google-deepmind/weathernext",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-08-09T15:01:21+00:00",
+    "summary": "WeatherNext WeatherNext 2 This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and Google Research. It also contains code for prior generation models GraphCast and GenCast . Accessing Forecast Data Feeds If you are interested in directly accessing daily data feeds of WN2 model outputs rather than running the model yoursel…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "GitHub Trending",
+      "Watchgraph:storms_floods_weather"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph demote clone (x0.45)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "storms_floods_weather"
+    ],
+    "watchgraph_reasons": [
+      "storms_floods_weather: cyclone"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW",
+      "XOM",
+      "CVX",
+      "SHEL",
+      "TTE",
+      "BP",
+      "ENB",
+      "SU",
+      "EQNR",
+      "CCJ",
+      "URA"
+    ],
+    "id": "ead5de989d9e8d03d114"
   },
   {
     "title": "最近のはてブ",
@@ -451,5 +521,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "188b609b771bc3e0cb12"
+  },
+  {
+    "title": "pranshuparmar/witr",
+    "url": "https://github.com/pranshuparmar/witr",
+    "source": "GitHub Trending RSS All Languages Daily",
+    "source_type": "rss",
+    "published_at": null,
+    "fetched_at": "2026-08-09T15:01:21+00:00",
+    "summary": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. witr Why is this running? Trace any process, port, container, or file back to the exact chain that started it — one command, machine-readable JSON, or an interactive TUI . 🎮 Try witr in your browser → Investigate a simulated Linux box — a guided tutorial and free-play sandbox, no install required. Purpose • Installa…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Content-Chance",
+      "GitHub Trending"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "eb852bd1a223795054f0"
   }
 ]

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-09T14:47:55+00:00_
+_Generiert: 2026-08-09T15:01:54+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 68 km SSE of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+20 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 68 km SSE of Sarangani, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-09 11:57:33 UTC 2026-08-09 11:57:33 UTC at epicenter Location 2.296°N 101.913°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **vitali87/code-graph-rag** — Score 8, observation — [Quelle](https://github.com/vitali87/code-graph-rag)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-09T15:01:21+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs Code-Graph-RAG Code-Graph-RAG parses a multi-language codebase with Tree-sitter, builds a knowledge graph of its structure in Memgraph, and lets you query, edit, and optimise that code in plain English. It works across a monorepo of mixed languages under one unified graph schema. Latest…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **コンサル大手トップから市場縮小論 AIによる業務代替、4社が危機感 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC057GE0V00C26A8000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-09T00:06:50+00:00`, fetched `2026-08-09T08:24:33+00:00`
