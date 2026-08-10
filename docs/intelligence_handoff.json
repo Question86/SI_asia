@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-10T07:50:44Z",
+  "generated_at": "2026-08-10T08:29:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN40467227/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-10T16:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU95261826/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-10T10:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T02:52:02+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -85,11 +85,37 @@
       "summary": "On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong was blunt about the logic: some of the country’s best hacker…"
     },
     {
+      "title": "[UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-10T08:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern."
+    },
+    {
       "title": "AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除",
       "url": "https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T03:53:47+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -116,7 +142,7 @@
       "url": "https://jvn.jp/vu/JVNVU91804527/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-10T10:00:15+09:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -141,7 +167,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 52.24,
+      "age_days": 52.27,
       "topics": [
         "ai"
       ],
@@ -160,7 +186,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 52.2d old signal",
+        "aging penalty -8.0 for 52.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -170,7 +196,7 @@
       "url": "https://e27.co/why-optionality-is-southeast-asias-only-real-currency-left-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T02:00:14+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security",
@@ -198,7 +224,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-10T07:41:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -223,7 +249,7 @@
       "url": "https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T06:14:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -249,7 +275,7 @@
       "url": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-10T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -274,7 +300,7 @@
       "url": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-10T06:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -293,31 +319,6 @@
         "security high-signal: rce"
       ],
       "summary": "第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました"
-    },
-    {
-      "title": "M 4.9 - 88 km ENE of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-10T01:56:02.040+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -329,8 +330,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
