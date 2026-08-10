@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T22:53:20+00:00_
+_Generiert: 2026-08-10T23:09:00+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+79 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,8 +33,18 @@ _Generiert: 2026-08-10T22:53:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fdef3b8f190>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 1.5 million (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 1.5 million (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557201)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].
+- **GDACS: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001300)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -306,3 +316,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
