@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T10:31:23+00:00",
-  "run_id": "2026-08-10T10:31:23+00:00",
+  "generated_at": "2026-08-10T10:55:01+00:00",
+  "run_id": "2026-08-10T10:55:01+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -1583,48 +1583,7 @@
       "id": "f1c7cf8d21b4b7be02d7"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Schadcode-Attacken auf Progress LoadMaster im Gange",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-10T10:05:00.000+00:00",
-      "fetched_at": "2026-08-10T10:30:53+00:00",
-      "summary": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "96b9807979fe7671dd50"
-    },
-    {
-      "title": "Beijing is forcing a mass breakup with AI lovers",
-      "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-10T10:00:17+00:00",
-      "fetched_at": "2026-08-10T10:30:53+00:00",
-      "summary": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
-      "matched_keywords": [
-        "AI/KI"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b100feaf1f5d39267719"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
