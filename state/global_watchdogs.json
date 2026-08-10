@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-08-10T12:36:27+00:00",
+  "generated_at": "2026-08-10T13:00:25+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "critical",
+        "title": "USGS earthquake M7.4 - 5 km E of San José del Palmar, Colombia",
+        "summary": "M7.4 - 5 km E of San José del Palmar, Colombia. PAGER alert: pending. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
+        "published_at": "2026-08-10T12:34:27+00:00",
+        "metrics": {
+          "mag": 7.4,
+          "alert": "pending",
+          "sig": 852.0,
+          "tsunami": 0
+        }
+      },
       {
         "domain": "security",
         "severity": "high",

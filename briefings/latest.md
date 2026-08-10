@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T12:36:23+00:00_
+_Generiert: 2026-08-10T13:00:21+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+50 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M7.4 - 5 km E of San José del Palmar, Colombia** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2)
+  - Quelle: USGS
+  - Zeit: `2026-08-10T12:34:27+00:00`
+  - Kurz: M7.4 - 5 km E of San José del Palmar, Colombia. PAGER alert: pending. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-8037 Progress LoadMaster** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
@@ -65,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応** — Score 23, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-10T07:42:30+00:00`, fetched `2026-08-10T12:59:47+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: 米Vercelは8月6日（現地時間）、AIエージェントの拡張機能をパッケージ化する標準規格「Agent Plugins」を発表した。「ChatGPT」や「Codex」「Visual Studio Code」（VS Code）などが対応する一方で、米Anthropicの「Claude Code」「Claude Cowork」は現時点では対応していない。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why optionality is Southeast Asia’s only real currency left** — Score 22, risk — [Quelle](https://e27.co/why-optionality-is-southeast-asias-only-real-currency-left-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T02:00:14+00:00`, fetched `2026-08-10T02:18:27+00:00`
@@ -110,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 7.4 - 5 km E of San José del Palmar, Colombia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-10T12:57:44.943+00:00`, fetched `2026-08-10T12:59:47+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - PENDING ShakeMap - VII DYFI? - VIII Time 2026-08-10 12:34:27 UTC 2026-08-10 12:34:27 UTC at epicenter Location 4.903°N 76.189°W Depth 107.03 km (66.50 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Market share is not power, control points are** — Score 15, observation — [Quelle](https://e27.co/market-share-is-not-power-control-points-are-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T01:00:57+00:00`, fetched `2026-08-10T01:29:06+00:00`
@@ -287,8 +309,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

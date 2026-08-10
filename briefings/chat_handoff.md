@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T12:36:23+00:00_
+_Generated: 2026-08-10T13:00:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `50`
 
 ## Top Signals
 
-### 1. Why optionality is Southeast Asia’s only real currency left
+### 1. AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-08-10T07:42:30+00:00`
+- url: https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/
+- summary: 米Vercelは8月6日（現地時間）、AIエージェントの拡張機能をパッケージ化する標準規格「Agent Plugins」を発表した。「ChatGPT」や「Codex」「Visual Studio Code」（VS Code）などが対応する一方で、米Anthropicの「Claude Code」「Claude Cowork」は現時点では対応していない。
+
+### 2. Why optionality is Southeast Asia’s only real currency left
 - source: e27 Asia Startup and Tech Feed
 - score: `22`
 - published: `2026-08-10T02:00:14+00:00`
 - url: https://e27.co/why-optionality-is-southeast-asias-only-real-currency-left-20260806/
 - summary: Every few decades, the global economy gets rewritten. We are living through one of those moments now. Tariff walls are going up between the world’s two largest economies. Supply chains that took thirty years to build are being unwound in real time. Capital th…
 
-### 2. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+### 3. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-10T12:01:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2720
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-10T10:56:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-08-10T10:00:15+09:00`
-- url: https://jvn.jp/vu/JVNVU91804527/
-- summary: 2026年08月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除
 - source: Hatena Bookmark Hotentry IT
