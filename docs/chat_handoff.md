@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T10:55:01+00:00_
+_Generated: 2026-08-10T11:20:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `37`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-10T10:55:01+00:00_
 - url: https://e27.co/why-optionality-is-southeast-asias-only-real-currency-left-20260806/
 - summary: Every few decades, the global economy gets rewritten. We are living through one of those moments now. Tariff walls are going up between the world’s two largest economies. Supply chains that took thirty years to build are being unwound in real time. Capital th…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）
+### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-10T10:56:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-10T10:00:15+09:00`
 - url: https://jvn.jp/vu/JVNVU91804527/
 - summary: 2026年08月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. [UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-10T08:11:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640
 - summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.
-
-### 4. Market share is not power, control points are
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-08-10T01:00:57+00:00`
-- url: https://e27.co/market-share-is-not-power-control-points-are-20260809/
-- summary: A great deal of bad strategy begins with a comforting number. Market share is one of the most over-trusted measures in business because it looks like proof of strength while often revealing very little about actual control. It tells you how much of the market…
 
 ### 5. AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除
 - source: Hatena Bookmark Hotentry IT

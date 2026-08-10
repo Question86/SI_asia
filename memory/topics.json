@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-10T10:55:01+00:00",
+  "generated_at": "2026-08-10T11:20:37+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-10T10:56:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-10T10:00:15+09:00",
@@ -168,6 +175,13 @@
         "published_at": "2026-08-10T16:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN40467227/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-10T10:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2695"
       },
       {
         "title": "nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性",
@@ -236,6 +250,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.7 - 66 km ENE of Shikotan, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-10T11:05:50.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjkl"
+      },
       {
         "title": "M 4.8 - 80 km ESE of Isangel, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
