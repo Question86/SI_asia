@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T22:19:32+00:00",
-  "run_id": "2026-08-10T22:19:32+00:00",
+  "generated_at": "2026-08-10T22:34:54+00:00",
+  "run_id": "2026-08-10T22:34:54+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 0,
@@ -3891,51 +3891,7 @@
       "id": "d3685df1d8d384cd17ea"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claude Code運用を一元化する「Claude apps gateway」発表 企業利用をどう管理？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-10T08:32:33+00:00",
-      "fetched_at": "2026-08-10T22:19:00+00:00",
-      "summary": "Anthropicは2026年6月29日（米国時間）、企業がAIコーディングエージェント「Claude Code」を「Amazon Bedrock」や「Google Cloud」で運用するための管理基盤「Claude apps gateway」（Claudeアプリゲートウェイ）を発表した。 従来、Amazon BedrockやGoogle CloudでClaude Codeを利用するには、開発者ごとにクラウド認...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1c1915ed23d0b83b7511"
-    },
-    {
-      "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表 - Qiita",
-      "url": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-10T09:48:20+00:00",
-      "fetched_at": "2026-08-10T22:19:00+00:00",
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。 セル結合と色分けが増えて、作った人以外が触れなくなる 差分が追えないので、「...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8b60e1ed8c5a1f7699e7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
