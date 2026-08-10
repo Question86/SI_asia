@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T04:19:27+00:00",
-  "run_id": "2026-08-10T04:19:27+00:00",
+  "generated_at": "2026-08-10T04:56:16+00:00",
+  "run_id": "2026-08-10T04:56:16+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -761,30 +761,7 @@
       "id": "f1c7cf8d21b4b7be02d7"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ない漢字だけの湯飲みがあると、実物の写真もAI生成に見える",
-      "url": "https://dailyportalz.jp/kiji/ai-yunomi",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-10T02:40:42+00:00",
-      "fetched_at": "2026-08-10T04:18:57+00:00",
-      "summary": "1971年東京生まれ。デイリーポータルZウェブマスター。主にインターネットと世田谷区で活動。 編著書は「死ぬかと思った」（アスペクト）など。イカの沖漬けが世界一うまい食べものだと思ってる。（動画インタビュー） 前の記事：速い写真を撮る ＞ 個人サイト webやぎの目",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6c7930a6778e7464a6e9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
