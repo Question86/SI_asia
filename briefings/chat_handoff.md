@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T13:35:15+00:00_
+_Generated: 2026-08-10T14:06:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `62`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-10T13:35:15+00:00_
 - url: https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/
 - summary: オーストラリアに住む人物がAIでジムを予約したところ、頼んでもいないのに通常は予約不可能な数カ月先の日付を確保できる脆弱(ぜいじゃく)性を発見してしまったことが分かりました。 AI assistant hacks gym website in first known Australian autonomous cyber attack - ABC News https://www.abc.net.au/news/2026-0...
 
-### 6. Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence
+### 6. Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-10T14:41:27+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html
+- summary: Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 7. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-08-10T14:00:00+00:00`
+- url: https://openai.com/index/responsible-ai-infrastructure-texas
+- summary: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+
+### 8. Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence
 - source: BIS Central Bankers Speeches
 - score: `12`
 - published: `2026-08-10T07:54:00+00:00`
 - url: https://www.bis.org/review/r260805c.htm
 - summary: Opening remarks (virtual) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Financial Stability Board Virtual Outreach Event, 7 July 2026.
-
-### 7. とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-08-10T00:04:33+00:00`
-- url: https://ascii.jp/elem/000/004/426/4426043/
-- summary: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
-
-### 8. Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)
-- source: CERT-FR Avis de sécurité
-- score: `11`
-- published: `2026-07-31T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/
-- summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politiq…
 
 END OF DOCUMENT

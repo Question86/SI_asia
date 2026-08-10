@@ -1,18 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T13:35:15+00:00_
+_Generiert: 2026-08-10T14:06:30+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+62 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.4 - 5 km E of San José del Palmar, Colombia** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2)
+- **USGS earthquake M7.4 - 5 km S of San José del Palmar, Colombia** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2)
   - Quelle: USGS
-  - Zeit: `2026-08-10T12:34:27+00:00`
-  - Kurz: M7.4 - 5 km E of San José del Palmar, Colombia. PAGER alert: orange. Tsunami flag: 0.
+  - Zeit: `2026-08-10T12:34:28+00:00`
+  - Kurz: M7.4 - 5 km S of San José del Palmar, Colombia. PAGER alert: orange. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-8037 Progress LoadMaster** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
@@ -33,10 +33,10 @@ _Generiert: 2026-08-10T13:35:15+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
-- **GDACS: Orange earthquake (Magnitude 7.4M, Depth:107.029km) in Colombia 10/08/2026 12:34 UTC, 2 million (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236)
+- **GDACS: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 3.2 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 7.4M, Depth:107.029km) in Colombia 10/08/2026 12:34 UTC, 2 million (in MMI&gt;=VII).
+  - Kurz: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 3.2 million in 100km.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557201)
   - Quelle: GDACS
   - Zeit: ``
@@ -180,6 +180,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
   - Kurz: オーストラリアに住む人物がAIでジムを予約したところ、頼んでもいないのに通常は予約不可能な数カ月先の日付を確保できる脆弱(ぜいじゃく)性を発見してしまったことが分かりました。 AI assistant hacks gym website in first known Australian autonomous cyber attack - ABC News https://www.abc.net.au/news/2026-0...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-08-10T14:41:27+00:00`, fetched `2026-08-10T14:05:51+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas** — Score 12, observation — [Quelle](https://openai.com/index/responsible-ai-infrastructure-texas)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-10T14:00:00+00:00`, fetched `2026-08-10T14:05:51+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence** — Score 12, observation — [Quelle](https://www.bis.org/review/r260805c.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-10T07:54:00+00:00`, fetched `2026-08-10T09:25:13+00:00`
@@ -189,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Opening remarks (virtual) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Financial Stability Board Virtual Outreach Event, 7 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 16 km W of San José del Palmar, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-10T13:40:19.040+00:00`, fetched `2026-08-10T14:05:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-10 13:18:10 UTC 2026-08-10 13:18:10 UTC at epicenter Location 4.897°N 76.386°W Depth 98.52 km (61.22 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)** — Score 11, observation — [Quelle](https://ascii.jp/elem/000/004/426/4426043/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-10T00:04:33+00:00`, fetched `2026-08-10T03:45:33+00:00`
@@ -261,15 +288,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 12:12:22 UTC 2026-08-10 12:12:22 UTC at epicenter Location 17.507°N 45.838°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 180 km NE of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-10T12:08:56.040+00:00`, fetched `2026-08-10T12:18:05+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-10 11:50:25 UTC 2026-08-10 11:50:25 UTC at epicenter Location 12.892°S 168.882°E Depth 640.51 km (397.99 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation** — Score 9, observation — [Quelle](https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T02:52:02+00:00`, fetched `2026-08-10T03:05:36+00:00`
@@ -287,24 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Joachim Nagel: Acting together for a sovereign and competitive Europe** — Score 8, observation — [Quelle](https://www.bis.org/review/r260805f.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-08-10T08:40:00+00:00`, fetched `2026-08-10T09:58:09+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
-  - Kurz: Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the meeting with the European ambassadors' delegation on the occasion of Ireland's Presidency of the Council of the European Union, Frankfurt am Main, 21 July 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Schadcode-Attacken auf Progress LoadMaster im Gange** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-10T10:05:00.000+00:00`, fetched `2026-08-10T10:30:53+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

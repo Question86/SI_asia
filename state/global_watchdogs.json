@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-10T13:35:18+00:00",
+  "generated_at": "2026-08-10T14:06:33+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "critical",
-        "title": "USGS earthquake M7.4 - 5 km E of San José del Palmar, Colombia",
-        "summary": "M7.4 - 5 km E of San José del Palmar, Colombia. PAGER alert: orange. Tsunami flag: 0.",
+        "title": "USGS earthquake M7.4 - 5 km S of San José del Palmar, Colombia",
+        "summary": "M7.4 - 5 km S of San José del Palmar, Colombia. PAGER alert: orange. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
-        "published_at": "2026-08-10T12:34:27+00:00",
+        "published_at": "2026-08-10T12:34:28+00:00",
         "metrics": {
           "mag": 7.4,
           "alert": "orange",
-          "sig": 1204.0,
+          "sig": 1405.0,
           "tsunami": 0
         }
       },
@@ -80,8 +80,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange earthquake (Magnitude 7.4M, Depth:107.029km) in Colombia 10/08/2026 12:34 UTC, 2 million (in MMI&gt;=VII).",
-        "summary": "Orange earthquake (Magnitude 7.4M, Depth:107.029km) in Colombia 10/08/2026 12:34 UTC, 2 million (in MMI&gt;=VII).",
+        "title": "GDACS: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 3.2 million in 100km.",
+        "summary": "Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 3.2 million in 100km.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236",
         "published_at": "",

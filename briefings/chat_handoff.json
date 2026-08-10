@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-10T13:35:15+00:00",
+  "generated_at": "2026-08-10T14:06:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 3,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 19,
-    "observe": 40
+    "observe": 43
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,26 @@
       "section": "observe"
     },
     {
+      "title": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-08-10T14:41:27+00:00",
+      "relevance_score": 12,
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html",
+      "summary": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "section": "observe"
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "section": "observe"
+    },
+    {
       "title": "Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
@@ -73,26 +93,6 @@
       "url": "https://www.bis.org/review/r260805c.htm",
       "summary": "Opening remarks (virtual) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Financial Stability Board Virtual Outreach Event, 7 July 2026.",
       "section": "observe"
-    },
-    {
-      "title": "とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-10T00:04:33+00:00",
-      "relevance_score": 11,
-      "url": "https://ascii.jp/elem/000/004/426/4426043/",
-      "summary": "とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...",
-      "section": "observe"
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-07-31T00:00:00+00:00",
-      "relevance_score": 11,
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politiq…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-10T10:56:06+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-10T08:11:06+00:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch",
-          "security high-signal: kritisch"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern."
-      },
-      {
-        "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0353",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-10T12:01:08+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libpng ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "[NEU] [mittel] GNU Emacs: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2721",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-10T12:01:07+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU Emacs ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [mittel] libpng: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0870",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-10T11:56:05+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libpng ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial of Service zu verursachen."
-      }
-    ]
-  }
+  ]
 }
