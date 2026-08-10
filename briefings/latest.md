@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T22:34:54+00:00_
+_Generiert: 2026-08-10T22:53:20+00:00_
 
 ## Kurzlage
 
@@ -33,18 +33,8 @@ _Generiert: 2026-08-10T22:34:54+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
-- **GDACS: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 1.5 million (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 1.5 million (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557201)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001300)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fdef3b8f190>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
