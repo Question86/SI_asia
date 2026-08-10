@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T11:57:59+00:00_
+_Generiert: 2026-08-10T12:18:37+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+46 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Every few decades, the global economy gets rewritten. We are living through one of those moments now. Tariff walls are going up between the world’s two largest economies. Supply chains that took thirty years to build are being unwound in real time. Capital that once flowed freely across borders is increasingly asking permission first. The […] The post Why optionality is Southeast Asia’s only real currency left appea…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2720)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-10T12:01:06+00:00`, fetched `2026-08-10T12:18:05+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-10T10:56:06+00:00`, fetched `2026-08-10T11:20:07+00:00`
@@ -66,15 +75,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: LINEヤフー株式会社が提供するLINE PC版（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2104)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-10T11:51:30+00:00`, fetched `2026-08-10T11:57:26+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95261826/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-10T10:00:00+09:00`, fetched `2026-08-10T01:29:06+00:00`
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 人工知能（AI）によっていずれ消える職種とも言われた「営業職」。ところが直近、正反対の現象が起こっていることをご存じだろうか。営業に伴走するAIサービスが次々と生まれ、短期間で腕利きのセールスパーソンを育成する環境が整い始めたのだ。これを受けて、富士通のように大幅な人員増を図り、組織強化に動く企業も...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 180 km NE of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-10T12:08:56.040+00:00`, fetched `2026-08-10T12:18:05+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-10 11:50:25 UTC 2026-08-10 11:50:25 UTC at epicenter Location 12.892°S 168.882°E Depth 640.51 km (397.99 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 66 km ENE of Shikotan, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjkl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-10T11:05:50.040+00:00`, fetched `2026-08-10T11:20:07+00:00`
@@ -168,15 +177,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong was blunt about the logic: some of the country’s best hackers are unemployed, and the state would rather channel […] The post US$7B opportunity, zero competitio…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 88 km ENE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-10T01:56:02.040+00:00`, fetched `2026-08-10T02:18:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Joachim Nagel: Acting together for a sovereign and competitive Europe** — Score 8, observation — [Quelle](https://www.bis.org/review/r260805f.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-10T08:40:00+00:00`, fetched `2026-08-10T09:58:09+00:00`

@@ -45,6 +45,30 @@
     "id": "b53be6ba589b7a6c9b07"
   },
   {
+    "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2720",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:01:06+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5c6a9275611ed6d63a90"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694",
     "source": "BSI CERT-Bund Security Advisories",
@@ -158,6 +182,121 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cd9206a673e957d0c8a2"
+  },
+  {
+    "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0353",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:01:08+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libpng ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bc0cb6e9f55735a35726"
+  },
+  {
+    "title": "[NEU] [niedrig] cpio: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2722",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:01:07+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in cpio ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial of Service zu verursachen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8122556e677b5d65312b"
+  },
+  {
+    "title": "[NEU] [mittel] GNU Emacs: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2721",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:01:07+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU Emacs ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5f259a488111c38a35c5"
+  },
+  {
+    "title": "[UPDATE] [mittel] libpng: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0870",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T11:56:05+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libpng ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "211f2ceed09fce7d2754"
+  },
+  {
+    "title": "[UPDATE] [mittel] CUPS (libcupsfilters, cups-filters): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2423",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T11:56:05+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CUPS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59ccd1847aa96c08a7d6"
   },
   {
     "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -380,6 +519,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5ea0eb6dae0c1e996c76"
+  },
+  {
+    "title": "M 4.7 - 180 km NE of Sola, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:08:56.040+00:00",
+    "fetched_at": "2026-08-10T12:18:05+00:00",
+    "summary": "Time 2026-08-10 11:50:25 UTC 2026-08-10 11:50:25 UTC at epicenter Location 12.892°S 168.882°E Depth 640.51 km (397.99 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f303dbc7753eefe214d8"
   },
   {
     "title": "M 4.7 - 66 km ENE of Shikotan, Russia",
