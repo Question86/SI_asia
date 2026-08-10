@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T22:03:34+00:00_
+_Generiert: 2026-08-10T22:19:32+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+79 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -235,6 +235,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 13:18:10 UTC 2026-08-10 13:18:10 UTC at epicenter Location 4.897°N 76.386°W Depth 98.52 km (61.22 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Code運用を一元化する「Claude apps gateway」発表 企業利用をどう管理？** — Score 11, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-10T08:32:33+00:00`, fetched `2026-08-10T22:19:00+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Anthropicは2026年6月29日（米国時間）、企業がAIコーディングエージェント「Claude Code」を「Amazon Bedrock」や「Google Cloud」で運用するための管理基盤「Claude apps gateway」（Claudeアプリゲートウェイ）を発表した。 従来、Amazon BedrockやGoogle CloudでClaude Codeを利用するには、開発者ごとにクラウド認...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに** — Score 11, observation — [Quelle](https://gigazine.net/news/20260810-ai-ram-price/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-10T06:59:49+00:00`, fetched `2026-08-10T16:06:08+00:00`
@@ -243,15 +252,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)
   - Kurz: AI向けデータセンターで使われる高帯域幅メモリ「High Bandwidth Memory(HBM)」の需要増加を背景に、個人向けのPC用メモリにも値上げの波が広がっています。現行世代のDDR5メモリだけでなく、旧世代のDDR4メモリについても1GB当たりの価格が2年で約10倍に上昇したことが報告されています。 Memory Prices | DAM https://...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)** — Score 11, observation — [Quelle](https://ascii.jp/elem/000/004/426/4426043/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-10T00:04:33+00:00`, fetched `2026-08-10T03:45:33+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
