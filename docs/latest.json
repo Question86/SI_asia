@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T20:34:09+00:00",
-  "run_id": "2026-08-10T20:34:09+00:00",
+  "generated_at": "2026-08-10T20:54:50+00:00",
+  "run_id": "2026-08-10T20:54:50+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3721,29 +3721,7 @@
       "id": "d3685df1d8d384cd17ea"
     }
   ],
-  "new_findings": [
-    {
-      "title": "マイクロソフト、知らないうちに写真管理アプリを追加 消すにはOneDriveごと削除が必要 報道",
-      "url": "https://ascii.jp/elem/000/004/426/4426228/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-10T08:24:58+00:00",
-      "fetched_at": "2026-08-10T20:33:40+00:00",
-      "summary": "マイクロソフトが8月に入り、ベータ版の個人向け写真管理アプリ「OneDrive Photos」をテスター以外のユーザーに誤配信していたことがわかった。海外メディアWindows Latestが8月9日付で報じている。 報道によると、マイクロソフトは8月1日以降、本来は配信対象外の一般の「Windows 11」ユーザーに同アプリの展開を開始。...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "98c1ec5aa4793dac849f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
