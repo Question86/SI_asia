@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-10T17:09:00+00:00",
+  "generated_at": "2026-08-10T17:30:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 2,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
-    "medium": 19,
-    "observe": 49
+    "medium": 20,
+    "observe": 50
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "section": "observe"
+    },
+    {
       "title": "AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "section": "observe"
-    },
-    {
-      "title": "Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-10T07:54:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.bis.org/review/r260805c.htm",
-      "summary": "Opening remarks (virtual) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Financial Stability Board Virtual Outreach Event, 7 July 2026.",
       "section": "observe"
     }
   ],
