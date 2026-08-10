@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T18:31:00+00:00",
-  "run_id": "2026-08-10T18:31:00+00:00",
+  "generated_at": "2026-08-10T18:52:18+00:00",
+  "run_id": "2026-08-10T18:52:18+00:00",
   "date": "2026-08-10",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 20,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 1
   },
   "sections": {
@@ -1523,6 +1523,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "49dde7ba978a190d7b32"
+      },
+      {
+        "title": "GitHub billing in India now supports automatic recurring payments",
+        "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-10T14:00:58+00:00",
+        "fetched_at": "2026-08-10T18:51:42+00:00",
+        "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the… The post GitHub billing in India now supports automatic recurring payments appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bc28b87fbda2c7b021b"
       },
       {
         "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
@@ -3288,6 +3308,26 @@
       "id": "49dde7ba978a190d7b32"
     },
     {
+      "title": "GitHub billing in India now supports automatic recurring payments",
+      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-10T14:00:58+00:00",
+      "fetched_at": "2026-08-10T18:51:42+00:00",
+      "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the… The post GitHub billing in India now supports automatic recurring payments appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bc28b87fbda2c7b021b"
+    },
+    {
       "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
       "url": "https://www.bis.org/review/r260805g.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3557,25 +3597,24 @@
   ],
   "new_findings": [
     {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News RSS",
+      "title": "GitHub billing in India now supports automatic recurring payments",
+      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "fetched_at": "2026-08-10T18:30:15+00:00",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "published_at": "2026-08-10T14:00:58+00:00",
+      "fetched_at": "2026-08-10T18:51:42+00:00",
+      "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the… The post GitHub billing in India now supports automatic recurring payments appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "OpenAI",
-        "Security"
+        "GitHub"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "424d48f94ff3012e90ed"
+      "id": "6bc28b87fbda2c7b021b"
     }
   ],
   "source_errors": [
