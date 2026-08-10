@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T13:00:21+00:00_
+_Generiert: 2026-08-10T13:35:15+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+59 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-31T00:00:00+00:00`, fetched `2026-08-10T13:34:46+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Red Hat (31 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0955/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-31T00:00:00+00:00`, fetched `2026-08-10T13:34:46+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Debian LTS (31 juillet 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0957/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-07-31T00:00:00+00:00`, fetched `2026-08-10T13:34:46+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar** — Score 10, observation — [Quelle](https://www.bis.org/review/r260805a.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-10T07:34:00+00:00`, fetched `2026-08-10T09:25:13+00:00`
@@ -159,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 人工知能（AI）によっていずれ消える職種とも言われた「営業職」。ところが直近、正反対の現象が起こっていることをご存じだろうか。営業に伴走するAIサービスが次々と生まれ、短期間で腕利きのセールスパーソンを育成する環境が整い始めたのだ。これを受けて、富士通のように大幅な人員増を図り、組織強化に動く企業も...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 173 km ENE of Sola, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-10T13:00:22.040+00:00`, fetched `2026-08-10T13:34:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-10 12:46:10 UTC 2026-08-10 12:46:10 UTC at epicenter Location 13.019°S 168.892°E Depth 655.67 km (407.41 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-10T12:32:17.040+00:00`, fetched `2026-08-10T12:35:50+00:00`
@@ -177,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 11:50:25 UTC 2026-08-10 11:50:25 UTC at epicenter Location 12.892°S 168.882°E Depth 640.51 km (397.99 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 66 km ENE of Shikotan, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjkl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-10T11:05:50.040+00:00`, fetched `2026-08-10T11:20:07+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-10 10:36:42 UTC 2026-08-10 10:36:42 UTC at epicenter Location 44.016°N 147.494°E Depth 66.15 km (41.10 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation** — Score 9, observation — [Quelle](https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T02:52:02+00:00`, fetched `2026-08-10T03:05:36+00:00`
@@ -194,6 +221,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong was blunt about the logic: some of the country’s best hackers are unemployed, and the state would rather channel […] The post US$7B opportunity, zero competitio…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Model ML completes finance work more efficiently with GPT-5.6 Sol** — Score 8, observation — [Quelle](https://openai.com/index/model-ml)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-10T12:00:00+00:00`, fetched `2026-08-10T13:34:46+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Joachim Nagel: Acting together for a sovereign and competitive Europe** — Score 8, observation — [Quelle](https://www.bis.org/review/r260805f.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
@@ -212,42 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Beijing is forcing a mass breakup with AI lovers** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-08-10T10:00:17+00:00`, fetched `2026-08-10T10:30:53+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)
-  - Kurz: Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt patchen! Admin-Attacken auf Metabase beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-10T07:41:00.000+00:00`, fetched `2026-08-10T07:46:53+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer nutzen zurzeit eine kritische Sicherheitslücke in der Business-Intelligence-Plattform Metabase aus. Admins müssen jetzt handeln.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The fork that died in 8 hours: What Bitcoin’s failed split reveals about consensus** — Score 6, observation — [Quelle](https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-10T06:14:21+00:00`, fetched `2026-08-10T07:07:53+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
-  - Kurz: Asian trading desks opened Monday to a quiet tape while United States participants enjoyed their weekend. Bitcoin spent this lull moving sideways near US$64,800. This calm surface hides a significant development: an attempted protocol split collapsed within hours. Market participants can now remove one source of uncertainty from their mental checklist. Traders appreciate this swift […] The post The fork that died in…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-10T06:00:00+00:00`, fetched `2026-08-10T07:07:53+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

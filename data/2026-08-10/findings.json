@@ -564,6 +564,78 @@
     "id": "b0acbf79ce45e576b57b"
   },
   {
+    "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-31T00:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "73af7ecf79cbba3bee0a"
+  },
+  {
+    "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (31 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0955/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-31T00:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e75c464220cca7697249"
+  },
+  {
+    "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (31 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0957/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-31T00:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fbf04cfb93813d72bda9"
+  },
+  {
     "title": "Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar",
     "url": "https://www.bis.org/review/r260805a.htm",
     "source": "BIS Central Bankers Speeches",
@@ -605,6 +677,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5ea0eb6dae0c1e996c76"
+  },
+  {
+    "title": "M 4.8 - 173 km ENE of Sola, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-10T13:00:22.040+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "Time 2026-08-10 12:46:10 UTC 2026-08-10 12:46:10 UTC at epicenter Location 13.019°S 168.892°E Depth 655.67 km (407.41 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e7957ca337494aacba3d"
   },
   {
     "title": "M 5.0 - northern Mid-Atlantic Ridge",
@@ -808,6 +916,26 @@
     "id": "add5fa93addd4bd0fa74"
   },
   {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "url": "https://openai.com/index/model-ml",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+    "matched_keywords": [
+      "OpenAI"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "743d1899143837a238a6"
+  },
+  {
     "title": "Joachim Nagel: Acting together for a sovereign and competitive Europe",
     "url": "https://www.bis.org/review/r260805f.htm",
     "source": "BIS Central Bankers Speeches",
@@ -890,6 +1018,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3095b60126414a914a28"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits IBM (31 juillet 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0958/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-07-31T00:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1a990d9efce446f08835"
+  },
+  {
+    "title": "Vulnérabilité dans LibreNMS (11 juin 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0732/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-06-11T00:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b2eac369110dd0496e97"
+  },
+  {
+    "title": "Vulnérabilité dans LibreNMS (12 mai 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0562/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-05-12T00:00:00+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "Une vulnérabilité a été découverte dans LibreNMS. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e768ce3263c8b7bae384"
   },
   {
     "title": "Schadcode-Attacken auf Progress LoadMaster im Gange",
@@ -1217,5 +1414,25 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f1c7cf8d21b4b7be02d7"
+  },
+  {
+    "title": "Custom thread subscriptions are being deprecated",
+    "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:45:49+00:00",
+    "fetched_at": "2026-08-10T13:34:46+00:00",
+    "summary": "You’ll no longer be able to configure custom thread subscriptions for GitHub notifications. What’s changing As part of this rollout, GitHub will remove support for custom thread subscription settings. If… The post Custom thread subscriptions are being deprecated appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 3,
+    "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3685df1d8d384cd17ea"
   }
 ]

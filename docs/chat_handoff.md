@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T13:00:21+00:00_
+_Generated: 2026-08-10T13:35:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `50`
+- findings: `59`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-10T13:00:21+00:00_
 - url: https://ascii.jp/elem/000/004/426/4426043/
 - summary: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
 
-### 8. Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar
-- source: BIS Central Bankers Speeches
-- score: `10`
-- published: `2026-08-10T07:34:00+00:00`
-- url: https://www.bis.org/review/r260805a.htm
-- summary: Opening remarks by Mr Arthur Yuen, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar on "Quantum computing and quantum resilience for banking industry", Hong Ko…
+### 8. Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)
+- source: CERT-FR Avis de sécurité
+- score: `11`
+- published: `2026-07-31T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/
+- summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politiq…
 
 END OF DOCUMENT

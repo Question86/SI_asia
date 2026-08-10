@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-10T13:00:21+00:00",
+  "generated_at": "2026-08-10T13:35:15+00:00",
   "topics": {
     "ai": [
       {
@@ -47,32 +47,32 @@
         "url": "https://ascii.jp/elem/000/004/426/4426043/"
       },
       {
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (31 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-31T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0956/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (31 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-31T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0955/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (31 juillet 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-07-31T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0957/"
+      },
+      {
         "title": "「営業職はいずれ消える」予想一転、AIで人気職種へ 富士通は増員 - 日本経済新聞",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-09T22:27:02+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/"
-      },
-      {
-        "title": "US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-10T02:52:02+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/"
-      },
-      {
-        "title": "Joachim Nagel: Acting together for a sovereign and competitive Europe",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-08-10T08:40:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/review/r260805f.htm"
-      },
-      {
-        "title": "Swaminathan J: Strengthening customer grievance redress - the role of the internal ombudsman",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-08-10T08:23:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/review/r260805e.htm"
       }
     ],
     "economy": [
@@ -286,6 +286,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2"
       },
       {
+        "title": "M 4.8 - 173 km ENE of Sola, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-10T13:00:22.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls"
+      },
+      {
         "title": "M 5.0 - northern Mid-Atlantic Ridge",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-10T12:32:17.040+00:00",
@@ -340,13 +347,15 @@
         "published_at": "2026-08-10T00:57:21+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/news/2131791.html"
-      },
+      }
+    ],
+    "github": [
       {
-        "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-10T00:07:10+00:00",
-        "relevance_score": 5,
-        "url": "https://expajp-tech.hatenablog.com/entry/2026/08/09/191222"
+        "title": "Custom thread subscriptions are being deprecated",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-10T12:45:49+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated"
       }
     ]
   }
