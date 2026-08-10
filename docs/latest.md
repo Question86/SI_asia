@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T09:25:43+00:00_
+_Generiert: 2026-08-10T09:58:41+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+32 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Joachim Nagel: Acting together for a sovereign and competitive Europe** — Score 8, observation — [Quelle](https://www.bis.org/review/r260805f.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-10T08:40:00+00:00`, fetched `2026-08-10T09:58:09+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
+  - Kurz: Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the meeting with the European ambassadors' delegation on the occasion of Ireland's Presidency of the Council of the European Union, Frankfurt am Main, 21 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jetzt patchen! Admin-Attacken auf Metabase beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-10T07:41:00.000+00:00`, fetched `2026-08-10T07:46:53+00:00`
@@ -168,15 +177,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Angreifer nutzen zurzeit eine kritische Sicherheitslücke in der Business-Intelligence-Plattform Metabase aus. Admins müssen jetzt handeln.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Fabio Panetta: Playing the long game - how should monetary policy adapt to the Great Reconfiguration?** — Score 7, opportunity — [Quelle](https://www.bis.org/review/r260805b.htm)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-08-10T07:41:00+00:00`, fetched `2026-08-10T09:25:13+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0)
-  - Kurz: Speech by Mr Fabio Panetta, Governor of the Bank of Italy, at the closing conference of the ESCB Research Network on "Challenges for Monetary Policy Transmission in a Changing World (ChaMP)", hosted by the Bank of Italy, Rome, 7 July 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The fork that died in 8 hours: What Bitcoin’s failed split reveals about consensus** — Score 6, observation — [Quelle](https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T06:14:21+00:00`, fetched `2026-08-10T07:07:53+00:00`
