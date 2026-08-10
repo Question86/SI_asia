@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-10T18:52:18+00:00",
-  "run_id": "2026-08-10T18:52:18+00:00",
+  "generated_at": "2026-08-10T19:16:36+00:00",
+  "run_id": "2026-08-10T19:16:36+00:00",
   "date": "2026-08-10",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 20,
-    "observe": 52,
-    "source_errors": 1
+    "observe": 53,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1643,6 +1643,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "433b0bc89ce18b99b412"
+      },
+      {
+        "title": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
+        "url": "https://forest.watch.impress.co.jp/docs/review/2131992.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T08:57:57+00:00",
+        "fetched_at": "2026-08-10T19:16:05+00:00",
+        "summary": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4cb97b0a3afdffc12442"
       },
       {
         "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
@@ -3428,6 +3449,27 @@
       "id": "433b0bc89ce18b99b412"
     },
     {
+      "title": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
+      "url": "https://forest.watch.impress.co.jp/docs/review/2131992.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T08:57:57+00:00",
+      "fetched_at": "2026-08-10T19:16:05+00:00",
+      "summary": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4cb97b0a3afdffc12442"
+    },
+    {
       "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
       "url": "https://togetter.com/li/2731254",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3597,34 +3639,28 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub billing in India now supports automatic recurring payments",
-      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-      "source": "GitHub Changelog Atom",
+      "title": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
+      "url": "https://forest.watch.impress.co.jp/docs/review/2131992.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-10T14:00:58+00:00",
-      "fetched_at": "2026-08-10T18:51:42+00:00",
-      "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the… The post GitHub billing in India now supports automatic recurring payments appeared first on The GitHub Blog .",
+      "published_at": "2026-08-10T08:57:57+00:00",
+      "fetched_at": "2026-08-10T19:16:05+00:00",
+      "summary": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
       "matched_keywords": [
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0); watchgraph region india: India (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6bc28b87fbda2c7b021b"
+      "id": "4cb97b0a3afdffc12442"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "hatena_hotentry_it",
-      "source_name": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='b.hatena.ne.jp', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
