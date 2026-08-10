@@ -68,6 +68,30 @@
     "id": "3c3f792c0eafb84dea1e"
   },
   {
+    "title": "[UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-10T08:11:06+00:00",
+    "fetched_at": "2026-08-10T08:18:24+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a882efd67a9f9db72dba"
+  },
+  {
     "title": "Market share is not power, control points are",
     "url": "https://e27.co/market-share-is-not-power-control-points-are-20260809/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -402,6 +426,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "433b0bc89ce18b99b412"
+  },
+  {
+    "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
+    "url": "https://togetter.com/li/2731254",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T05:35:38+00:00",
+    "fetched_at": "2026-08-10T08:18:24+00:00",
+    "summary": "アイキッド（ザ・リーサルウェポンズ） @aikikiyohisa 我が家の横の植え込みに 小型カメラが隠してあったので パトカーに来てもらった。 「ま〜…こりゃ〜落とし物ですな」 と、なかなか呑気な対応。 （実際は安心させるために そういう対応にしたのかも） 翌日、インターホンが何度も鳴るので 玄関出たら20歳くらいの男...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e50c133f6863c60a7fb8"
   },
   {
     "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",

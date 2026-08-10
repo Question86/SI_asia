@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:47:26+00:00",
-  "run_id": "2026-08-10T07:47:26+00:00",
+  "generated_at": "2026-08-10T08:18:56+00:00",
+  "run_id": "2026-08-10T08:18:56+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
-    "medium": 6,
-    "observe": 15,
+    "medium": 7,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3c3f792c0eafb84dea1e"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-10T08:11:06+00:00",
+        "fetched_at": "2026-08-10T08:18:24+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a882efd67a9f9db72dba"
       },
       {
         "title": "Market share is not power, control points are",
@@ -436,6 +460,27 @@
         "id": "433b0bc89ce18b99b412"
       },
       {
+        "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
+        "url": "https://togetter.com/li/2731254",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T05:35:38+00:00",
+        "fetched_at": "2026-08-10T08:18:24+00:00",
+        "summary": "アイキッド（ザ・リーサルウェポンズ） @aikikiyohisa 我が家の横の植え込みに 小型カメラが隠してあったので パトカーに来てもらった。 「ま〜…こりゃ〜落とし物ですな」 と、なかなか呑気な対応。 （実際は安心させるために そういう対応にしたのかも） 翌日、インターホンが何度も鳴るので 玄関出たら20歳くらいの男...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e50c133f6863c60a7fb8"
+      },
+      {
         "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
         "url": "https://gigazine.net/news/20260809-phantom-twist-drone/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -589,6 +634,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3c3f792c0eafb84dea1e"
+    },
+    {
+      "title": "[UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-10T08:11:06+00:00",
+      "fetched_at": "2026-08-10T08:18:24+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a882efd67a9f9db72dba"
     },
     {
       "title": "Market share is not power, control points are",
@@ -927,6 +996,27 @@
       "id": "433b0bc89ce18b99b412"
     },
     {
+      "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
+      "url": "https://togetter.com/li/2731254",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T05:35:38+00:00",
+      "fetched_at": "2026-08-10T08:18:24+00:00",
+      "summary": "アイキッド（ザ・リーサルウェポンズ） @aikikiyohisa 我が家の横の植え込みに 小型カメラが隠してあったので パトカーに来てもらった。 「ま〜…こりゃ〜落とし物ですな」 と、なかなか呑気な対応。 （実際は安心させるために そういう対応にしたのかも） 翌日、インターホンが何度も鳴るので 玄関出たら20歳くらいの男...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e50c133f6863c60a7fb8"
+    },
+    {
       "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
       "url": "https://gigazine.net/news/20260809-phantom-twist-drone/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1013,47 +1103,49 @@
   ],
   "new_findings": [
     {
-      "title": "AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除",
-      "url": "https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-10T03:53:47+00:00",
-      "fetched_at": "2026-08-10T07:46:53+00:00",
-      "summary": "オーストラリアに住む人物がAIでジムを予約したところ、頼んでもいないのに通常は予約不可能な数カ月先の日付を確保できる脆弱(ぜいじゃく)性を発見してしまったことが分かりました。 AI assistant hacks gym website in first known Australian autonomous cyber attack - ABC News https://www.abc.net.au/news/2026-0...",
+      "published_at": "2026-08-10T08:11:06+00:00",
+      "fetched_at": "2026-08-10T08:18:24+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5b2f664785b71d0e0b97"
-    },
-    {
-      "title": "Jetzt patchen! Admin-Attacken auf Metabase beobachtet",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-10T07:41:00.000+00:00",
-      "fetched_at": "2026-08-10T07:46:53+00:00",
-      "summary": "Angreifer nutzen zurzeit eine kritische Sicherheitslücke in der Business-Intelligence-Plattform Metabase aus. Admins müssen jetzt handeln.",
-      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7ba4c7bbf31bdb33a796"
+      "id": "a882efd67a9f9db72dba"
+    },
+    {
+      "title": "我が家の横の植え込みに小型カメラが隠してあったので警察を呼ぶも「落とし物ですな」と呑気な対応… 翌日、20歳くらいの男の子が我が家にやってきて「この辺にカメラ落としたんですけど…」",
+      "url": "https://togetter.com/li/2731254",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T05:35:38+00:00",
+      "fetched_at": "2026-08-10T08:18:24+00:00",
+      "summary": "アイキッド（ザ・リーサルウェポンズ） @aikikiyohisa 我が家の横の植え込みに 小型カメラが隠してあったので パトカーに来てもらった。 「ま〜…こりゃ〜落とし物ですな」 と、なかなか呑気な対応。 （実際は安心させるために そういう対応にしたのかも） 翌日、インターホンが何度も鳴るので 玄関出たら20歳くらいの男...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e50c133f6863c60a7fb8"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T07:47:26+00:00_
+_Generated: 2026-08-10T08:18:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `23`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-10T07:47:26+00:00_
 - url: https://jvn.jp/vu/JVNVU91804527/
 - summary: 2026年08月07日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Market share is not power, control points are
+### 3. [UPDATE] [kritisch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-10T08:11:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640
+- summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand zu verursachen oder seine Rechte zu erweitern.
+
+### 4. Market share is not power, control points are
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-08-10T01:00:57+00:00`
 - url: https://e27.co/market-share-is-not-power-control-points-are-20260809/
 - summary: A great deal of bad strategy begins with a comforting number. Market share is one of the most over-trusted measures in business because it looks like proof of strength while often revealing very little about actual control. It tells you how much of the market…
-
-### 4. LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-10T16:00:00+09:00`
-- url: https://jvn.jp/jp/JVN40467227/
-- summary: LINEヤフー株式会社が提供するLINE PC版（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。
 
 ### 5. AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除
 - source: Hatena Bookmark Hotentry IT
