@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T23:37:45+00:00_
+_Generiert: 2026-08-10T23:53:06+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+79 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -316,7 +316,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `hatena_hotentry_it` (rss): HTTPSConnectionPool(host='b.hatena.ne.jp', port=443): Read timed out. (read timeout=8)
