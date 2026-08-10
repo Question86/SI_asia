@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T04:56:16+00:00_
+_Generiert: 2026-08-10T07:08:24+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+19 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-10T04:56:16+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557201)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].
 - **GDACS: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001300)
   - Quelle: GDACS
   - Zeit: ``
@@ -88,6 +92,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: A great deal of bad strategy begins with a comforting number. Market share is one of the most over-trusted measures in business because it looks like proof of strength while often revealing very little about actual control. It tells you how much of the market you currently touch. It does not tell you who sets […] The post Market share is not power, control points are appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN40467227/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-10T16:00:00+09:00`, fetched `2026-08-10T07:07:53+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: LINEヤフー株式会社が提供するLINE PC版（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95261826/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-10T10:00:00+09:00`, fetched `2026-08-10T01:29:06+00:00`
@@ -153,6 +166,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 1971年東京生まれ。デイリーポータルZウェブマスター。主にインターネットと世田谷区で活動。 編著書は「死ぬかと思った」（アスペクト）など。イカの沖漬けが世界一うまい食べものだと思ってる。（動画インタビュー） 前の記事：速い写真を撮る ＞ 個人サイト webやぎの目
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The fork that died in 8 hours: What Bitcoin’s failed split reveals about consensus** — Score 6, observation — [Quelle](https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-10T06:14:21+00:00`, fetched `2026-08-10T07:07:53+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
+  - Kurz: Asian trading desks opened Monday to a quiet tape while United States participants enjoyed their weekend. Bitcoin spent this lull moving sideways near US$64,800. This calm surface hides a significant development: an attempted protocol split collapsed within hours. Market participants can now remove one source of uncertainty from their mental checklist. Traders appreciate this swift […] The post The fork that died in…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-10T06:00:00+00:00`, fetched `2026-08-10T07:07:53+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_human_resources/award/20260807)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-10T06:00:00+00:00`, fetched `2026-08-10T07:07:53+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most dangerous place for a good idea is your head** — Score 4, observation — [Quelle](https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

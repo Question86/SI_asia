@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:56:19+00:00",
+  "generated_at": "2026-08-10T07:08:28+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-9198"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557201",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

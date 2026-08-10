@@ -90,6 +90,28 @@
     "id": "260f191de028e07122d2"
   },
   {
+    "title": "LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
+    "url": "https://jvn.jp/jp/JVN40467227/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-10T16:00:00+09:00",
+    "fetched_at": "2026-08-10T07:07:53+00:00",
+    "summary": "LINEヤフー株式会社が提供するLINE PC版（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cd9206a673e957d0c8a2"
+  },
+  {
     "title": "nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性",
     "url": "https://jvn.jp/vu/JVNVU95261826/",
     "source": "JVN Japan Vulnerability Notes",
@@ -277,6 +299,66 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3095b60126414a914a28"
+  },
+  {
+    "title": "The fork that died in 8 hours: What Bitcoin’s failed split reveals about consensus",
+    "url": "https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-10T06:14:21+00:00",
+    "fetched_at": "2026-08-10T07:07:53+00:00",
+    "summary": "Asian trading desks opened Monday to a quiet tape while United States participants enjoyed their weekend. Bitcoin spent this lull moving sideways near US$64,800. This calm surface hides a significant development: an attempted protocol split collapsed within hours. Market participants can now remove one source of uncertainty from their mental checklist. Traders appreciate this swift […] The post The fork that died in…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d1ae6ffae6e7254aa59"
+  },
+  {
+    "title": "自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました",
+    "url": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-10T06:00:00+00:00",
+    "fetched_at": "2026-08-10T07:07:53+00:00",
+    "summary": "自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9249adddf6a31ecec6d5"
+  },
+  {
+    "title": "第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました",
+    "url": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-10T06:00:00+00:00",
+    "fetched_at": "2026-08-10T07:07:53+00:00",
+    "summary": "第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "433b0bc89ce18b99b412"
   },
   {
     "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",

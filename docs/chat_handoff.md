@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T04:56:16+00:00_
+_Generated: 2026-08-10T07:08:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `19`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-10T04:56:16+00:00_
 - url: https://e27.co/market-share-is-not-power-control-points-are-20260809/
 - summary: A great deal of bad strategy begins with a comforting number. Market share is one of the most over-trusted measures in business because it looks like proof of strength while often revealing very little about actual control. It tells you how much of the market…
 
-### 4. nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性
+### 4. LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-08-10T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU95261826/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-08-10T16:00:00+09:00`
+- url: https://jvn.jp/jp/JVN40467227/
+- summary: LINEヤフー株式会社が提供するLINE PC版（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。
 
 ### 5. とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)
 - source: Hatena Bookmark Hotentry IT
