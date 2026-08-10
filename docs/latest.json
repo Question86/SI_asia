@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T16:06:40+00:00",
-  "run_id": "2026-08-10T16:06:40+00:00",
+  "generated_at": "2026-08-10T16:27:35+00:00",
+  "run_id": "2026-08-10T16:27:35+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -3315,55 +3315,7 @@
       "id": "d3685df1d8d384cd17ea"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIブームでRAM価格が20年前の水準に逆戻り、DDR4の1GB単価は約2年で10倍近くに",
-      "url": "https://gigazine.net/news/20260810-ai-ram-price/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-10T06:59:49+00:00",
-      "fetched_at": "2026-08-10T16:06:08+00:00",
-      "summary": "AI向けデータセンターで使われる高帯域幅メモリ「High Bandwidth Memory(HBM)」の需要増加を背景に、個人向けのPC用メモリにも値上げの波が広がっています。現行世代のDDR5メモリだけでなく、旧世代のDDR4メモリについても1GB当たりの価格が2年で約10倍に上昇したことが報告されています。 Memory Prices | DAM https://...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:chips_compute_datacenters"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules chips_compute_datacenters (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "chips_compute_datacenters"
-      ],
-      "watchgraph_reasons": [
-        "chips_compute_datacenters: HBM"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "XOM",
-        "CVX",
-        "SHEL",
-        "TTE",
-        "BP",
-        "ENB",
-        "SU",
-        "EQNR",
-        "CCJ",
-        "URA"
-      ],
-      "id": "ee53c417976ce01fab8d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
