@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T07:08:24+00:00_
+_Generiert: 2026-08-10T07:47:26+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+21 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除** — Score 13, observation — [Quelle](https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-10T03:53:47+00:00`, fetched `2026-08-10T07:46:53+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: オーストラリアに住む人物がAIでジムを予約したところ、頼んでもいないのに通常は予約不可能な数カ月先の日付を確保できる脆弱(ぜいじゃく)性を発見してしまったことが分かりました。 AI assistant hacks gym website in first known Australian autonomous cyber attack - ABC News https://www.abc.net.au/news/2026-0...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)** — Score 11, observation — [Quelle](https://ascii.jp/elem/000/004/426/4426043/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-10T00:04:33+00:00`, fetched `2026-08-10T03:45:33+00:00`
@@ -105,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ない漢字だけの湯飲みがあると、実物の写真もAI生成に見える** — Score 8, observation — [Quelle](https://dailyportalz.jp/kiji/ai-yunomi)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-10T02:40:42+00:00`, fetched `2026-08-10T04:18:57+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+- **Jetzt patchen! Admin-Attacken auf Metabase beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-10T07:41:00.000+00:00`, fetched `2026-08-10T07:46:53+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 1971年東京生まれ。デイリーポータルZウェブマスター。主にインターネットと世田谷区で活動。 編著書は「死ぬかと思った」（アスペクト）など。イカの沖漬けが世界一うまい食べものだと思ってる。（動画インタビュー） 前の記事：速い写真を撮る ＞ 個人サイト webやぎの目
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer nutzen zurzeit eine kritische Sicherheitslücke in der Business-Intelligence-Plattform Metabase aus. Admins müssen jetzt handeln.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The fork that died in 8 hours: What Bitcoin’s failed split reveals about consensus** — Score 6, observation — [Quelle](https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
