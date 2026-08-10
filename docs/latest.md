@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T03:46:05+00:00_
+_Generiert: 2026-08-10T04:19:27+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+15 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -96,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **PMの定型業務を「Skill」にする - 要件定義とデータ分析、2つの実践 - TalentX Tech Blog** — Score 8, observation — [Quelle](https://tech.talentx.co.jp/entry/2026/08/07/100027)
+- **ない漢字だけの湯飲みがあると、実物の写真もAI生成に見える** — Score 8, observation — [Quelle](https://dailyportalz.jp/kiji/ai-yunomi)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-09T19:50:18+00:00`, fetched `2026-08-10T03:45:33+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Zeit: published `2026-08-10T02:40:42+00:00`, fetched `2026-08-10T04:18:57+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 2026年1月、プロダクトマネージャーとしてTalentXに入社したhiromotoです。当社は「MyTalent Platform」という形で複数プロダクト（MyTalent Hire、MyTalent CRM、MyTalent Refer（MyRefer）、MyTalent Brand）が連携しており、PMもプロダクトを横断して要件定義を進めています。意思決定は可能な限り一次情報...
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 1971年東京生まれ。デイリーポータルZウェブマスター。主にインターネットと世田谷区で活動。 編著書は「死ぬかと思った」（アスペクト）など。イカの沖漬けが世界一うまい食べものだと思ってる。（動画インタビュー） 前の記事：速い写真を撮る ＞ 個人サイト webやぎの目
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most dangerous place for a good idea is your head** — Score 4, observation — [Quelle](https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
