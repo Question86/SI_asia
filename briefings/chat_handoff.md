@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T03:06:11+00:00_
+_Generated: 2026-08-10T03:46:05+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `14`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-10T03:06:11+00:00_
 - url: https://jvn.jp/vu/JVNVU95261826/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. 「営業職はいずれ消える」予想一転、AIで人気職種へ 富士通は増員 - 日本経済新聞
+### 5. とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-10T00:04:33+00:00`
+- url: https://ascii.jp/elem/000/004/426/4426043/
+- summary: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
+
+### 6. 「営業職はいずれ消える」予想一転、AIで人気職種へ 富士通は増員 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-08-09T22:27:02+00:00`
 - url: https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/
 - summary: 人工知能（AI）によっていずれ消える職種とも言われた「営業職」。ところが直近、正反対の現象が起こっていることをご存じだろうか。営業に伴走するAIサービスが次々と生まれ、短期間で腕利きのセールスパーソンを育成する環境が整い始めたのだ。これを受けて、富士通のように大幅な人員増を図り、組織強化に動く企業も...
 
-### 6. US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation
+### 7. US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-08-10T02:52:02+00:00`
 - url: https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/
 - summary: On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong…
 
-### 7. M 4.9 - 88 km ENE of Hihifo, Tonga
+### 8. M 4.9 - 88 km ENE of Hihifo, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-10T01:56:02.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq
 - summary: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
-
-### 8. 見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-09T11:16:48+00:00`
-- url: https://gigazine.net/news/20260809-phantom-twist-drone/
-- summary: 「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。 New spinning drone hides in plain sight - Nor...
 
 END OF DOCUMENT

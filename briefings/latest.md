@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T03:06:11+00:00_
+_Generiert: 2026-08-10T03:46:05+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+14 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)** — Score 11, observation — [Quelle](https://ascii.jp/elem/000/004/426/4426043/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-10T00:04:33+00:00`, fetched `2026-08-10T03:45:33+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「営業職はいずれ消える」予想一転、AIで人気職種へ 富士通は増員 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-09T22:27:02+00:00`, fetched `2026-08-10T00:55:17+00:00`
@@ -136,14 +145,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能** — Score 5, observation — [Quelle](https://gigazine.net/news/20260809-phantom-twist-drone/)
+- **PMの定型業務を「Skill」にする - 要件定義とデータ分析、2つの実践 - TalentX Tech Blog** — Score 8, observation — [Quelle](https://tech.talentx.co.jp/entry/2026/08/07/100027)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-09T11:16:48+00:00`, fetched `2026-08-10T03:05:36+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-08-09T19:50:18+00:00`, fetched `2026-08-10T03:45:33+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。 New spinning drone hides in plain sight - Nor...
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 2026年1月、プロダクトマネージャーとしてTalentXに入社したhiromotoです。当社は「MyTalent Platform」という形で複数プロダクト（MyTalent Hire、MyTalent CRM、MyTalent Refer（MyRefer）、MyTalent Brand）が連携しており、PMもプロダクトを横断して要件定義を進めています。意思決定は可能な限り一次情報...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most dangerous place for a good idea is your head** — Score 4, observation — [Quelle](https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every good idea begins with a small annoyance. Something takes too long. A customer has the same complaint again. A process wastes material. A worker has a clever workaround because the standard tool does not quite work. Someone thinks, “There has to be a better way.” That thought may be the beginning of an invention. […] The post The most dangerous place for a good idea is your head appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **あの --- は、いつのまにか AI エージェントの入り口になっていた** — Score 4, observation — [Quelle](https://zenn.dev/awesome_kou/articles/7a5bb472fcdfa8)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-10T00:50:13+00:00`, fetched `2026-08-10T03:05:36+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote awesome (x0.45)
-  - Kurz: あの --- を、また書いている気がしませんか ブログを書いたことがある人なら、記事ファイルの先頭にこんな数行を打った記憶があるはずです。 三本のハイフンで囲んだ、この小さな設定ブロック。これを Front Matter（フロントマター）と呼びます。タイトルやタグ、公開・下書きの区別を書いておく場所で、静的サイトジ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
