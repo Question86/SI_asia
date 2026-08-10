@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T14:06:30+00:00",
-  "run_id": "2026-08-10T14:06:30+00:00",
+  "generated_at": "2026-08-10T14:33:55+00:00",
+  "run_id": "2026-08-10T14:33:55+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 1,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 0,
     "medium": 19,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1278,6 +1278,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "aba3638e99f60d173402"
+      },
+      {
+        "title": "AIインフラの最新技術動向2026 (OCP China)",
+        "url": "https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T06:15:12+00:00",
+        "fetched_at": "2026-08-10T14:33:21+00:00",
+        "summary": "技術動向説明会（日本語）",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "704f0c3d4f31d8cbbd97"
       },
       {
         "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
@@ -2798,6 +2819,27 @@
       "id": "aba3638e99f60d173402"
     },
     {
+      "title": "AIインフラの最新技術動向2026 (OCP China)",
+      "url": "https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T06:15:12+00:00",
+      "fetched_at": "2026-08-10T14:33:21+00:00",
+      "summary": "技術動向説明会（日本語）",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "704f0c3d4f31d8cbbd97"
+    },
+    {
       "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
       "url": "https://www.bis.org/review/r260805g.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3067,83 +3109,25 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html",
-      "source": "ECB Open Market Operations and Communication",
+      "title": "AIインフラの最新技術動向2026 (OCP China)",
+      "url": "https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-10T14:41:27+00:00",
-      "fetched_at": "2026-08-10T14:05:51+00:00",
-      "summary": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "published_at": "2026-08-10T06:15:12+00:00",
+      "fetched_at": "2026-08-10T14:33:21+00:00",
+      "summary": "技術動向説明会（日本語）",
       "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "894ede53fc29c4332045"
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-10T14:00:00+00:00",
-      "fetched_at": "2026-08-10T14:05:51+00:00",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5681251fb74e46062040"
-    },
-    {
-      "title": "M 5.0 - 16 km W of San José del Palmar, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-10T13:40:19.040+00:00",
-      "fetched_at": "2026-08-10T14:05:51+00:00",
-      "summary": "Time 2026-08-10 13:18:10 UTC 2026-08-10 13:18:10 UTC at epicenter Location 4.897°N 76.386°W Depth 98.52 km (61.22 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5b0823d499b1270160c2"
+      "id": "704f0c3d4f31d8cbbd97"
     }
   ],
   "source_errors": [],

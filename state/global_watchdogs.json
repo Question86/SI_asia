@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:06:33+00:00",
+  "generated_at": "2026-08-10T14:34:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.4,
           "alert": "orange",
-          "sig": 1405.0,
+          "sig": 1502.0,
           "tsunami": 0
         }
       },
@@ -80,8 +80,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 3.2 million in 100km.",
-        "summary": "Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 3.2 million in 100km.",
+        "title": "GDACS: Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 2 million (in MMI&gt;=VII).",
+        "summary": "Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 2 million (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236",
         "published_at": "",
