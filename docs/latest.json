@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T16:27:35+00:00",
-  "run_id": "2026-08-10T16:27:35+00:00",
+  "generated_at": "2026-08-10T16:47:14+00:00",
+  "run_id": "2026-08-10T16:47:14+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 19,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -792,6 +792,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fbf04cfb93813d72bda9"
+      },
+      {
+        "title": "What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-10T17:00:00+00:00",
+        "fetched_at": "2026-08-10T16:46:42+00:00",
+        "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "30610591e774fab15cc8"
       },
       {
         "title": "Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar",
@@ -2437,6 +2458,27 @@
       "id": "fbf04cfb93813d72bda9"
     },
     {
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "fetched_at": "2026-08-10T16:46:42+00:00",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30610591e774fab15cc8"
+    },
+    {
       "title": "Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar",
       "url": "https://www.bis.org/review/r260805a.htm",
       "source": "BIS Central Bankers Speeches",
@@ -3315,7 +3357,29 @@
       "id": "d3685df1d8d384cd17ea"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-10T17:00:00+00:00",
+      "fetched_at": "2026-08-10T16:46:42+00:00",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30610591e774fab15cc8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

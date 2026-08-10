@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T16:27:35+00:00_
+_Generiert: 2026-08-10T16:47:14+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+67 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **What building an AI-native finance function taught me** — Score 10, observation — [Quelle](https://openai.com/index/building-an-ai-native-finance-function)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-10T17:00:00+00:00`, fetched `2026-08-10T16:46:42+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8)
+  - Kurz: OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar** — Score 10, observation — [Quelle](https://www.bis.org/review/r260805a.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-10T07:34:00+00:00`, fetched `2026-08-10T09:25:13+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
   - Kurz: On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong was blunt about the logic: some of the country’s best hackers are unemployed, and the state would rather channel […] The post US$7B opportunity, zero competitio…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Model ML completes finance work more efficiently with GPT-5.6 Sol** — Score 8, observation — [Quelle](https://openai.com/index/model-ml)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-10T12:00:00+00:00`, fetched `2026-08-10T13:34:46+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
