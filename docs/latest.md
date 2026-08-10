@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T16:47:14+00:00_
+_Generiert: 2026-08-10T17:09:00+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+68 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
