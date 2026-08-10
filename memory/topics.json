@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-10T00:55:48+00:00",
+  "generated_at": "2026-08-10T01:29:38+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-10T10:00:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91804527/"
+      },
+      {
+        "title": "nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-10T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95261826/"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Market share is not power, control points are",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-10T01:00:57+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/market-share-is-not-power-control-points-are-20260809/"
+      }
+    ],
     "ai": [
       {
         "title": "「営業職はいずれ消える」予想一転、AIで人気職種へ 富士通は増員 - 日本経済新聞",
@@ -10,6 +35,13 @@
         "published_at": "2026-08-09T22:27:02+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/"
+      },
+      {
+        "title": "The most dangerous place for a good idea is your head",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-10T01:20:33+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/"
       }
     ]
   }
