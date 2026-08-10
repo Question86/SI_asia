@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T02:18:58+00:00_
+_Generiert: 2026-08-10T03:06:11+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+11 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Why Southeast Asia must become more than the world’s connector in 2026 and beyond** — Score 14, observation — [Quelle](https://e27.co/why-southeast-asia-must-become-more-than-the-worlds-connector-in-2026-and-beyond-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-10T03:00:41+00:00`, fetched `2026-08-10T03:05:36+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: A few years ago, when a company said it wanted a “Southeast Asia strategy”, the request usually sounded reassuringly straightforward. The business would establish a regional base in Singapore, identify a few priority markets, adapt its messaging slightly and begin expanding. The technology stack was often global, the strategy was usually designed at headquarters and […] The post Why Southeast Asia must become more t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -60,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 人工知能（AI）によっていずれ消える職種とも言われた「営業職」。ところが直近、正反対の現象が起こっていることをご存じだろうか。営業に伴走するAIサービスが次々と生まれ、短期間で腕利きのセールスパーソンを育成する環境が整い始めたのだ。これを受けて、富士通のように大幅な人員増を図り、組織強化に動く企業も...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation** — Score 9, observation — [Quelle](https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-10T02:52:02+00:00`, fetched `2026-08-10T03:05:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
+  - Kurz: On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong was blunt about the logic: some of the country’s best hackers are unemployed, and the state would rather channel […] The post US$7B opportunity, zero competitio…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 88 km ENE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-10T01:56:02.040+00:00`, fetched `2026-08-10T02:18:27+00:00`
@@ -69,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能** — Score 5, observation — [Quelle](https://gigazine.net/news/20260809-phantom-twist-drone/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-09T11:16:48+00:00`, fetched `2026-08-10T03:05:36+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。 New spinning drone hides in plain sight - Nor...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most dangerous place for a good idea is your head** — Score 4, observation — [Quelle](https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T01:20:33+00:00`, fetched `2026-08-10T01:29:06+00:00`
@@ -77,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Every good idea begins with a small annoyance. Something takes too long. A customer has the same complaint again. A process wastes material. A worker has a clever workaround because the standard tool does not quite work. Someone thinks, “There has to be a better way.” That thought may be the beginning of an invention. […] The post The most dangerous place for a good idea is your head appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **あの --- は、いつのまにか AI エージェントの入り口になっていた** — Score 4, observation — [Quelle](https://zenn.dev/awesome_kou/articles/7a5bb472fcdfa8)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-10T00:50:13+00:00`, fetched `2026-08-10T03:05:36+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph demote awesome (x0.45)
+  - Kurz: あの --- を、また書いている気がしませんか ブログを書いたことがある人なら、記事ファイルの先頭にこんな数行を打った記憶があるはずです。 三本のハイフンで囲んだ、この小さな設定ブロック。これを Front Matter（フロントマター）と呼びます。タイトルやタグ、公開・下書きの区別を書いておく場所で、静的サイトジ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -87,7 +123,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
