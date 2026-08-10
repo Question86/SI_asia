@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T23:09:00+00:00_
+_Generiert: 2026-08-10T23:22:06+00:00_
 
 ## Kurzlage
 
@@ -319,4 +319,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
+- `hatena_hotentry_it` (rss): HTTPSConnectionPool(host='b.hatena.ne.jp', port=443): Read timed out. (read timeout=8)

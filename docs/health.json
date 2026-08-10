@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:09:00+00:00",
+  "generated_at": "2026-08-10T23:22:06+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
@@ -15,10 +15,10 @@
   },
   "source_errors": [
     {
-      "source_id": "japan_digital_agency_news",
-      "source_name": "Japan Digital Agency News RSS",
+      "source_id": "hatena_hotentry_it",
+      "source_name": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
+      "error": "HTTPSConnectionPool(host='b.hatena.ne.jp', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
