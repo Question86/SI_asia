@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-10T18:00:52Z",
+  "generated_at": "2026-08-10T19:05:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 12,
+      "krass": 13,
       "strong": 16,
-      "watch": 12
+      "watch": 11
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 26,
-      "watch": 12
+      "strong": 27,
+      "watch": 11
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T10:56:06+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0353",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T12:01:08+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/jp/JVN40467227/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-10T16:00:00+09:00",
-      "age_days": 0.46,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2722",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T12:01:07+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2423",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T11:56:05+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU95261826/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-10T10:00:00+09:00",
-      "age_days": 0.71,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T02:52:02+00:00",
-      "age_days": 0.63,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "security"
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T08:11:06+00:00",
-      "age_days": 0.41,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -220,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2721",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T12:01:07+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T11:56:05+00:00",
-      "age_days": 0.25,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2104",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T11:51:30+00:00",
-      "age_days": 0.26,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -298,7 +298,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2695",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T10:56:05+00:00",
-      "age_days": 0.29,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -324,7 +324,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2690",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T08:21:05+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -350,7 +350,7 @@
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-10T10:00:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -373,11 +373,38 @@
       "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
     },
     {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "age_days": 0.38,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+    },
+    {
       "title": "AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除",
       "url": "https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T03:53:47+00:00",
-      "age_days": 0.59,
+      "age_days": 0.63,
       "topics": [
         "ai",
         "security"
@@ -404,7 +431,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2720",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-10T12:01:06+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -429,7 +456,7 @@
       "url": "https://jvn.jp/vu/JVNVU91804527/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-10T10:00:15+09:00",
-      "age_days": 0.71,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -454,7 +481,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 52.67,
+      "age_days": 52.71,
       "topics": [
         "ai"
       ],
@@ -483,7 +510,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T07:42:30+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -510,7 +537,7 @@
       "url": "https://e27.co/why-optionality-is-southeast-asias-only-real-currency-left-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T02:00:14+00:00",
-      "age_days": 0.67,
+      "age_days": 0.71,
       "topics": [
         "ai",
         "security",
@@ -538,7 +565,7 @@
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-10T10:05:00.000+00:00",
-      "age_days": 0.33,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -564,7 +591,7 @@
       "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-10T10:00:17+00:00",
-      "age_days": 0.33,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -589,7 +616,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-10T07:41:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -614,7 +641,7 @@
       "url": "https://e27.co/the-fork-that-died-in-8-hours-what-bitcoins-failed-split-reveals-about-consensus-20260810/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T06:14:21+00:00",
-      "age_days": 0.49,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "macro"
@@ -640,7 +667,7 @@
       "url": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-10T06:00:00+00:00",
-      "age_days": 0.5,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -665,7 +692,7 @@
       "url": "https://www.digital.go.jp/policies/digital_human_resources/award/20260807",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-10T06:00:00+00:00",
-      "age_days": 0.5,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -690,7 +717,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjqj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T17:24:17.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -715,7 +742,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T12:57:44.943+00:00",
-      "age_days": 0.21,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -740,7 +767,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T13:40:19.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -765,7 +792,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjmt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T15:31:42.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -790,7 +817,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjls",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T13:00:22.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -815,7 +842,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T12:32:17.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -840,7 +867,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T12:08:56.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -865,7 +892,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjkl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T11:05:50.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -890,7 +917,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjk6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T09:05:32.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -915,7 +942,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-10T01:56:02.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.71,
       "topics": [
         "disaster"
       ],
@@ -940,7 +967,7 @@
       "url": "https://www.bis.org/review/r260805e.htm",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-10T08:23:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -967,7 +994,7 @@
       "url": "https://e27.co/market-share-is-not-power-control-points-are-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-10T01:00:57+00:00",
-      "age_days": 0.71,
+      "age_days": 0.75,
       "topics": [
         "macro"
       ],
@@ -991,7 +1018,7 @@
       "url": "https://www.bis.org/review/r260805b.htm",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-10T07:41:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.48,
       "topics": [
         "macro"
       ],
@@ -1010,30 +1037,6 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "Speech by Mr Fabio Panetta, Governor of the Bank of Italy, at the closing conference of the ESCB Research Network on \"Challenges for Monetary Policy Transmission in a Changing World (ChaMP)\", hosted by the Bank of Italy, Rome, 7 July 2026."
-    },
-    {
-      "title": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "published_at": "2026-08-10T14:41:27+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
