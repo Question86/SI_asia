@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T01:29:38+00:00_
+_Generiert: 2026-08-10T02:18:58+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+7 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-08-10T01:29:38+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-04`
   - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556955)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 310 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556955)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 310 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Easter Island 08/08/2026 11:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1556897)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Why optionality is Southeast Asia’s only real currency left** — Score 22, risk — [Quelle](https://e27.co/why-optionality-is-southeast-asias-only-real-currency-left-20260806/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-10T02:00:14+00:00`, fetched `2026-08-10T02:18:27+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Southeast Asia, Supply Chain Security, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Every few decades, the global economy gets rewritten. We are living through one of those moments now. Tariff walls are going up between the world’s two largest economies. Supply chains that took thirty years to build are being unwound in real time. Capital that once flowed freely across borders is increasingly asking permission first. The […] The post Why optionality is Southeast Asia’s only real currency left appea…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月07日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91804527/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-10T10:00:15+09:00`, fetched `2026-08-10T01:29:06+00:00`
@@ -96,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 人工知能（AI）によっていずれ消える職種とも言われた「営業職」。ところが直近、正反対の現象が起こっていることをご存じだろうか。営業に伴走するAIサービスが次々と生まれ、短期間で腕利きのセールスパーソンを育成する環境が整い始めたのだ。これを受けて、富士通のように大幅な人員増を図り、組織強化に動く企業も...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 88 km ENE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjiq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-10T01:56:02.040+00:00`, fetched `2026-08-10T02:18:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-10 01:20:10 UTC 2026-08-10 01:20:10 UTC at epicenter Location 15.600°S 173.052°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The most dangerous place for a good idea is your head** — Score 4, observation — [Quelle](https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-10T01:20:33+00:00`, fetched `2026-08-10T01:29:06+00:00`
@@ -114,3 +132,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
