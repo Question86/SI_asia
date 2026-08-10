@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-10T10:50:54Z_
+_Generated: 2026-08-10T11:21:41Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
 
 ## Top Dynamics
+
+### [UPDATE] [mittel] Red Hat Enterprise Linux (gpsd): Schwachstelle ermöglicht Codeausführung
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `33.0`
+- Published: `2026-08-10T10:56:06+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2694
 
 ### LINE PC版（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-10T16:00:00+09:00` / age_days `0.16`
+- Published: `2026-08-10T16:00:00+09:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-10T10:00:00+09:00` / age_days `0.41`
+- Published: `2026-08-10T10:00:00+09:00` / age_days `0.43`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-10T02:52:02+00:00` / age_days `0.33`
+- Published: `2026-08-10T02:52:02+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -42,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-10T08:11:06+00:00` / age_days `0.11`
+- Published: `2026-08-10T08:11:06+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, security high-signal: kritisch, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2640
 
+### [UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-10T10:56:05+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2695
+
 ### [UPDATE] [hoch] Sophos Endpoint für macOS: Schwachstelle ermöglicht Privilegieneskalation und Ausführen von beliebigem Programmcode mit Administratorrechten
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-10T08:21:05+00:00` / age_days `0.1`
+- Published: `2026-08-10T08:21:05+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-10T03:53:47+00:00` / age_days `0.29`
+- Published: `2026-08-10T03:53:47+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-10T10:00:15+09:00` / age_days `0.41`
+- Published: `2026-08-10T10:00:15+09:00` / age_days `0.43`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `52.37`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `52.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 52.4d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-10T02:00:14+00:00` / age_days `0.37`
+- Published: `2026-08-10T02:00:14+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, security high-signal: security, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “LINE PC版（Windows版）のインス�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-08-10T10:05:00.000+00:00` / age_days `0.03`
+- Published: `2026-08-10T10:05:00.000+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
 - Quelle: https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html
-
-### Beijing is forcing a mass breakup with AI lovers
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `24.0`
-- Published: `2026-08-10T10:00:17+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce
-- Quelle: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-### Jetzt patchen! Admin-Attacken auf Metabase beobachtet
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `24.0`
-- Published: `2026-08-10T07:41:00.000+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: kritisch, security high-signal: kritisch
-- Quelle: https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html
 
 END OF DOCUMENT
