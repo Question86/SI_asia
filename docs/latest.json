@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T12:18:37+00:00",
-  "run_id": "2026-08-10T12:18:37+00:00",
+  "generated_at": "2026-08-10T12:36:23+00:00",
+  "run_id": "2026-08-10T12:36:23+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 2,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
     "medium": 17,
-    "observe": 29,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -553,6 +553,42 @@
         "id": "5ea0eb6dae0c1e996c76"
       },
       {
+        "title": "M 5.0 - northern Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-10T12:32:17.040+00:00",
+        "fetched_at": "2026-08-10T12:35:50+00:00",
+        "summary": "Time 2026-08-10 12:12:22 UTC 2026-08-10 12:12:22 UTC at epicenter Location 17.507°N 45.838°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b6a74ef0cb79da77dbe2"
+      },
+      {
         "title": "M 4.7 - 180 km NE of Sola, Vanuatu",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1001,6 +1037,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e50c133f6863c60a7fb8"
+      },
+      {
+        "title": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2131791.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T00:57:21+00:00",
+        "fetched_at": "2026-08-10T12:35:50+00:00",
+        "summary": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fe6b62d86b4a7994c92f"
       },
       {
         "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
@@ -1632,6 +1689,42 @@
       "id": "5ea0eb6dae0c1e996c76"
     },
     {
+      "title": "M 5.0 - northern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-10T12:32:17.040+00:00",
+      "fetched_at": "2026-08-10T12:35:50+00:00",
+      "summary": "Time 2026-08-10 12:12:22 UTC 2026-08-10 12:12:22 UTC at epicenter Location 17.507°N 45.838°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b6a74ef0cb79da77dbe2"
+    },
+    {
       "title": "M 4.7 - 180 km NE of Sola, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2082,6 +2175,27 @@
       "id": "e50c133f6863c60a7fb8"
     },
     {
+      "title": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2131791.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T00:57:21+00:00",
+      "fetched_at": "2026-08-10T12:35:50+00:00",
+      "summary": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe6b62d86b4a7994c92f"
+    },
+    {
       "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
       "url": "https://expajp-tech.hatenablog.com/entry/2026/08/09/191222",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2189,152 +2303,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2720",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-10T12:01:06+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5c6a9275611ed6d63a90"
-    },
-    {
-      "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0353",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-10T12:01:08+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libpng ausnutzen, um möglicherweise beliebigen Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bc0cb6e9f55735a35726"
-    },
-    {
-      "title": "[NEU] [niedrig] cpio: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2722",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-10T12:01:07+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in cpio ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial of Service zu verursachen oder Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8122556e677b5d65312b"
-    },
-    {
-      "title": "[NEU] [mittel] GNU Emacs: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2721",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-10T12:01:07+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU Emacs ausnutzen, um Informationen offenzulegen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f259a488111c38a35c5"
-    },
-    {
-      "title": "[UPDATE] [mittel] CUPS (libcupsfilters, cups-filters): Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2423",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-10T11:56:05+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CUPS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "59ccd1847aa96c08a7d6"
-    },
-    {
-      "title": "[UPDATE] [mittel] libpng: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0870",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-10T11:56:05+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libpng ausnutzen, um beliebigen Programmcode auszuführen oder einen Denial of Service zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "211f2ceed09fce7d2754"
-    },
-    {
-      "title": "M 4.7 - 180 km NE of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjku",
+      "title": "M 5.0 - northern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-10T12:08:56.040+00:00",
-      "fetched_at": "2026-08-10T12:18:05+00:00",
-      "summary": "Time 2026-08-10 11:50:25 UTC 2026-08-10 11:50:25 UTC at epicenter Location 12.892°S 168.882°E Depth 640.51 km (397.99 mi)",
+      "published_at": "2026-08-10T12:32:17.040+00:00",
+      "fetched_at": "2026-08-10T12:35:50+00:00",
+      "summary": "Time 2026-08-10 12:12:22 UTC 2026-08-10 12:12:22 UTC at epicenter Location 17.507°N 45.838°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -2361,7 +2336,28 @@
         "HD",
         "LOW"
       ],
-      "id": "f303dbc7753eefe214d8"
+      "id": "b6a74ef0cb79da77dbe2"
+    },
+    {
+      "title": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2131791.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T00:57:21+00:00",
+      "fetched_at": "2026-08-10T12:35:50+00:00",
+      "summary": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe6b62d86b4a7994c92f"
     }
   ],
   "source_errors": [],
