@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T09:58:41+00:00_
+_Generiert: 2026-08-10T10:31:23+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -221,6 +221,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
   - Kurz: Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the meeting with the European ambassadors' delegation on the occasion of Ireland's Presidency of the Council of the European Union, Frankfurt am Main, 21 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Schadcode-Attacken auf Progress LoadMaster im Gange** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-10T10:05:00.000+00:00`, fetched `2026-08-10T10:30:53+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Beijing is forcing a mass breakup with AI lovers** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-10T10:00:17+00:00`, fetched `2026-08-10T10:30:53+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)
+  - Kurz: Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jetzt patchen! Admin-Attacken auf Metabase beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-10T07:41:00.000+00:00`, fetched `2026-08-10T07:46:53+00:00`
@@ -256,15 +274,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 第2回U18 AIチャンピオンシップにおいて、デジタル大臣奨励賞を交付しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The most dangerous place for a good idea is your head** — Score 4, observation — [Quelle](https://e27.co/the-most-dangerous-place-for-a-good-idea-is-your-head-20260728/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-10T01:20:33+00:00`, fetched `2026-08-10T01:29:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Every good idea begins with a small annoyance. Something takes too long. A customer has the same complaint again. A process wastes material. A worker has a clever workaround because the standard tool does not quite work. Someone thinks, “There has to be a better way.” That thought may be the beginning of an invention. […] The post The most dangerous place for a good idea is your head appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

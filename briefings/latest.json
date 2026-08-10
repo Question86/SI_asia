@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T09:58:41+00:00",
-  "run_id": "2026-08-10T09:58:41+00:00",
+  "generated_at": "2026-08-10T10:31:23+00:00",
+  "run_id": "2026-08-10T10:31:23+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 2,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 8,
-    "observe": 24,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -519,6 +519,46 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3095b60126414a914a28"
+      },
+      {
+        "title": "Schadcode-Attacken auf Progress LoadMaster im Gange",
+        "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-10T10:05:00.000+00:00",
+        "fetched_at": "2026-08-10T10:30:53+00:00",
+        "summary": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96b9807979fe7671dd50"
+      },
+      {
+        "title": "Beijing is forcing a mass breakup with AI lovers",
+        "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-10T10:00:17+00:00",
+        "fetched_at": "2026-08-10T10:30:53+00:00",
+        "summary": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
+        "matched_keywords": [
+          "AI/KI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b100feaf1f5d39267719"
       },
       {
         "title": "Jetzt patchen! Admin-Attacken auf Metabase beobachtet",
@@ -1258,6 +1298,46 @@
       "id": "3095b60126414a914a28"
     },
     {
+      "title": "Schadcode-Attacken auf Progress LoadMaster im Gange",
+      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-10T10:05:00.000+00:00",
+      "fetched_at": "2026-08-10T10:30:53+00:00",
+      "summary": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96b9807979fe7671dd50"
+    },
+    {
+      "title": "Beijing is forcing a mass breakup with AI lovers",
+      "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-10T10:00:17+00:00",
+      "fetched_at": "2026-08-10T10:30:53+00:00",
+      "summary": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b100feaf1f5d39267719"
+    },
+    {
       "title": "Jetzt patchen! Admin-Attacken auf Metabase beobachtet",
       "url": "https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html",
       "source": "heise Security Alerts",
@@ -1505,84 +1585,44 @@
   ],
   "new_findings": [
     {
-      "title": "Joachim Nagel: Acting together for a sovereign and competitive Europe",
-      "url": "https://www.bis.org/review/r260805f.htm",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Schadcode-Attacken auf Progress LoadMaster im Gange",
+      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-08-10T08:40:00+00:00",
-      "fetched_at": "2026-08-10T09:58:09+00:00",
-      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the meeting with the European ambassadors' delegation on the occasion of Ireland's Presidency of the Council of the European Union, Frankfurt am Main, 21 July 2026.",
+      "published_at": "2026-08-10T10:05:00.000+00:00",
+      "fetched_at": "2026-08-10T10:30:53+00:00",
+      "summary": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
       "matched_keywords": [
-        "Macro/Policy"
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8ae161293a99d8ffbeff"
+      "id": "96b9807979fe7671dd50"
     },
     {
-      "title": "Swaminathan J: Strengthening customer grievance redress - the role of the internal ombudsman",
-      "url": "https://www.bis.org/review/r260805e.htm",
-      "source": "BIS Central Bankers Speeches",
+      "title": "Beijing is forcing a mass breakup with AI lovers",
+      "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-10T08:23:00+00:00",
-      "fetched_at": "2026-08-10T09:58:09+00:00",
-      "summary": "Keynote address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Internal Ombudsman Conference, organised by the Reserve Bank of India, Mumbai, 13 July 2026.",
+      "published_at": "2026-08-10T10:00:17+00:00",
+      "fetched_at": "2026-08-10T10:30:53+00:00",
+      "summary": "Beijing is pioneering regulations that could shape how governments around the world govern emotionally intelligent chatbots.",
       "matched_keywords": [
-        "Macro/Policy"
+        "AI/KI"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "53a7a7d89f29dfff6cde"
-    },
-    {
-      "title": "Mary-Elizabeth McMunn: Reinforcing the foundations - openness through resilience in the face of change",
-      "url": "https://www.bis.org/review/r260805g.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-10T08:46:00+00:00",
-      "fetched_at": "2026-08-10T09:58:09+00:00",
-      "summary": "Speech by Ms Mary-Elizabeth McMunn, Deputy Governor of the Central Bank of Ireland, at PWC, Dublin, 23 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c44d1117dd777d2b67ee"
-    },
-    {
-      "title": "Phil Mnisi: Opening remarks - CMA Governors Meeting",
-      "url": "https://www.bis.org/review/r260805d.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-10T08:14:00+00:00",
-      "fetched_at": "2026-08-10T09:58:09+00:00",
-      "summary": "Opening remarks by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the CMA Governors Meeting, Ezulwini, 3 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2ac1b3ba3569fd5e493b"
+      "id": "b100feaf1f5d39267719"
     }
   ],
   "source_errors": [],
