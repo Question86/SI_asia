@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-10T15:21:09+00:00",
+  "generated_at": "2026-08-10T15:42:27+00:00",
   "topics": {
     "ai": [
       {
@@ -300,6 +300,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
       },
       {
+        "title": "M 4.7 - 55 km NW of Shahrak-e Kūlūrī, Iran",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-10T15:31:42.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjmt"
+      },
+      {
         "title": "M 4.8 - 173 km ENE of Sola, Vanuatu",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-10T13:00:22.040+00:00",
@@ -347,16 +354,16 @@
         "published_at": "2026-08-09T19:50:18+00:00",
         "relevance_score": 8,
         "url": "https://tech.talentx.co.jp/entry/2026/08/07/100027"
-      },
-      {
-        "title": "自治体標準オープンデータセット定義書一覧およびデータセットのサンプルを更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-08-10T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/resources/open_data/municipal-standard-data-set-test"
       }
     ],
     "github": [
+      {
+        "title": "Copilot on web expands conversation controls",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-10T14:27:04+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls"
+      },
       {
         "title": "Custom thread subscriptions are being deprecated",
         "source": "GitHub Changelog Atom",
