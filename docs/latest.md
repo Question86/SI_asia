@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T11:38:57+00:00_
+_Generiert: 2026-08-10T11:57:59+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+39 neue relevante Treffer. Stärkstes Signal: „Why optionality is Southeast Asia’s only real currency left“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -66,14 +66,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: LINEヤフー株式会社が提供するLINE PC版（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2695)
+- **[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2104)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-10T10:56:05+00:00`, fetched `2026-08-10T11:20:07+00:00`
+  - Zeit: published `2026-08-10T11:51:30+00:00`, fetched `2026-08-10T11:57:26+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand herbeizuführen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **nothingsのstb TrueTypeライブラリにおけるヒープベースのバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95261826/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

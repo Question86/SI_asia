@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T11:38:57+00:00",
-  "run_id": "2026-08-10T11:38:57+00:00",
+  "generated_at": "2026-08-10T11:57:59+00:00",
+  "run_id": "2026-08-10T11:57:59+00:00",
   "date": "2026-08-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 10,
-    "observe": 27,
+    "medium": 11,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -188,6 +188,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cd9206a673e957d0c8a2"
+      },
+      {
+        "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2104",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-10T11:51:30+00:00",
+        "fetched_at": "2026-08-10T11:57:26+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d42a09a713ca2bd6c9c4"
       },
       {
         "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
@@ -805,6 +828,27 @@
         "id": "e50c133f6863c60a7fb8"
       },
       {
+        "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
+        "url": "https://expajp-tech.hatenablog.com/entry/2026/08/09/191222",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T00:07:10+00:00",
+        "fetched_at": "2026-08-10T11:57:26+00:00",
+        "summary": "「エンジニアのための自己管理入門」を読み終えました。 本書は自己管理を通して日々の生活に「余白」を作り出し、成果を上げてスキルを磨き、キャリアを前進させる方法を述べた本です。 www.shoeisha.co.jp 最近、読書記事は手元のメモ書きをそのまま出していますが、本書についてはしっかり書こうと思います。 という...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "89c48ccc6b94244bbe17"
+      },
+      {
         "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
         "url": "https://gigazine.net/news/20260809-phantom-twist-drone/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1050,6 +1094,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cd9206a673e957d0c8a2"
+    },
+    {
+      "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2104",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-10T11:51:30+00:00",
+      "fetched_at": "2026-08-10T11:57:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d42a09a713ca2bd6c9c4"
     },
     {
       "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
@@ -1665,6 +1732,27 @@
       "id": "e50c133f6863c60a7fb8"
     },
     {
+      "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
+      "url": "https://expajp-tech.hatenablog.com/entry/2026/08/09/191222",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T00:07:10+00:00",
+      "fetched_at": "2026-08-10T11:57:26+00:00",
+      "summary": "「エンジニアのための自己管理入門」を読み終えました。 本書は自己管理を通して日々の生活に「余白」を作り出し、成果を上げてスキルを磨き、キャリアを前進させる方法を述べた本です。 www.shoeisha.co.jp 最近、読書記事は手元のメモ書きをそのまま出していますが、本書についてはしっかり書こうと思います。 という...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "89c48ccc6b94244bbe17"
+    },
+    {
       "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
       "url": "https://gigazine.net/news/20260809-phantom-twist-drone/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1749,7 +1837,52 @@
       "id": "f1c7cf8d21b4b7be02d7"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [mittel] Podman: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2104",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-10T11:51:30+00:00",
+      "fetched_at": "2026-08-10T11:57:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Podman ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d42a09a713ca2bd6c9c4"
+    },
+    {
+      "title": "「エンジニアのための自己管理入門」に救われた話 - expajp's Permanent Way",
+      "url": "https://expajp-tech.hatenablog.com/entry/2026/08/09/191222",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T00:07:10+00:00",
+      "fetched_at": "2026-08-10T11:57:26+00:00",
+      "summary": "「エンジニアのための自己管理入門」を読み終えました。 本書は自己管理を通して日々の生活に「余白」を作り出し、成果を上げてスキルを磨き、キャリアを前進させる方法を述べた本です。 www.shoeisha.co.jp 最近、読書記事は手元のメモ書きをそのまま出していますが、本書についてはしっかり書こうと思います。 という...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "89c48ccc6b94244bbe17"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
