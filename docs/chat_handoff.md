@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T08:53:50+00:00_
+_Generated: 2026-08-10T09:25:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `28`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-10T08:53:50+00:00_
 - url: https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/
 - summary: オーストラリアに住む人物がAIでジムを予約したところ、頼んでもいないのに通常は予約不可能な数カ月先の日付を確保できる脆弱(ぜいじゃく)性を発見してしまったことが分かりました。 AI assistant hacks gym website in first known Australian autonomous cyber attack - ABC News https://www.abc.net.au/news/2026-0...
 
-### 6. とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)
+### 6. Michelle W Bowman: Opening remarks on Sound Practices for Artificial Intelligence
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-08-10T07:54:00+00:00`
+- url: https://www.bis.org/review/r260805c.htm
+- summary: Opening remarks (virtual) by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Financial Stability Board Virtual Outreach Event, 7 July 2026.
+
+### 7. とんでもない動画生成AIが出てきた 無料で試し放題の「MiniMax H3」を徹底検証 (1/5)
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-10T00:04:33+00:00`
 - url: https://ascii.jp/elem/000/004/426/4426043/
 - summary: とんでもない動画AIモデルがオープンモデルとして登場しました。中国MiniMaxが2日に公開した「MiniMax H3」です。現在の動画AIでシェアトップと考えられるByteDanceの「Seedance 2.0」に匹敵する性能を持ち、その使い方を工夫すればOpenAIの「Sora2」を超えた使い方ができそうなモデルです。最大の特徴は、多数の画像や...
 
-### 7. 「営業職はいずれ消える」予想一転、AIで人気職種へ 富士通は増員 - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
+### 8. Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar
+- source: BIS Central Bankers Speeches
 - score: `10`
-- published: `2026-08-09T22:27:02+00:00`
-- url: https://www.nikkei.com/article/DGXZQOUC2706S0X20C26A7000000/
-- summary: 人工知能（AI）によっていずれ消える職種とも言われた「営業職」。ところが直近、正反対の現象が起こっていることをご存じだろうか。営業に伴走するAIサービスが次々と生まれ、短期間で腕利きのセールスパーソンを育成する環境が整い始めたのだ。これを受けて、富士通のように大幅な人員増を図り、組織強化に動く企業も...
-
-### 8. US$7B opportunity, zero competition: Why SEA integrators are sleeping on Manila’s cyber modernisation
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-08-10T02:52:02+00:00`
-- url: https://e27.co/us7b-opportunity-zero-competition-why-sea-integrators-are-sleeping-on-manilas-cyber-modernisation-20260809/
-- summary: On July 25, Defense Secretary Gilberto Teodoro Jr. ordered the Armed Forces of the Philippines to widen its Direct Commission Program (DICOM), fast-tracking cyber, AI, and engineering talent into commissioned officer roles. Defence spokesman Arsenio Andolong…
+- published: `2026-08-10T07:34:00+00:00`
+- url: https://www.bis.org/review/r260805a.htm
+- summary: Opening remarks by Mr Arthur Yuen, Deputy Chief Executive of the Hong Kong Monetary Authority, at the Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar on "Quantum computing and quantum resilience for banking industry", Hong Ko…
 
 END OF DOCUMENT
