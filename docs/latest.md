@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-10T18:10:25+00:00_
+_Generiert: 2026-08-10T18:31:00+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+71 neue relevante Treffer. Stärkstes Signal: „AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
   - Kurz: Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Expanding Daybreak as the Cyber Defense Window Narrows** — Score 13, risk — [Quelle](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-10T10:00:00+00:00`, fetched `2026-08-10T18:30:15+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
+  - Kurz: Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除** — Score 13, observation — [Quelle](https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-10T03:53:47+00:00`, fetched `2026-08-10T07:46:53+00:00`
@@ -222,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **What building an AI-native finance function taught me** — Score 10, observation — [Quelle](https://openai.com/index/building-an-ai-native-finance-function)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-10T17:00:00+00:00`, fetched `2026-08-10T16:46:42+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8)
-  - Kurz: OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Arthur Yuen: Opening remarks - Hong Kong Monetary Authority (HKMA)-Hong Kong Association of Banks (HKAB) seminar** — Score 10, observation — [Quelle](https://www.bis.org/review/r260805a.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-10T07:34:00+00:00`, fetched `2026-08-10T09:25:13+00:00`
@@ -267,3 +267,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `hatena_hotentry_it` (rss): HTTPSConnectionPool(host='b.hatena.ne.jp', port=443): Read timed out. (read timeout=8)

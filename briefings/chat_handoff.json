@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-10T18:10:25+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-08-10T18:31:00+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 1,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 20,
-    "observe": 50
+    "observe": 51
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応",
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "section": "observe"
+    },
+    {
       "title": "AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html",
       "summary": "Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "section": "observe"
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-10T14:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
       "section": "observe"
     }
   ],

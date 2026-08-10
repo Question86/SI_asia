@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-10T18:10:25+00:00_
+_Generated: 2026-08-10T18:31:00+00:00_
 
 ## Status
-- status: `normal`
-- findings: `70`
+- status: `warning`
+- findings: `71`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-10T18:10:25+00:00_
 - url: https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
 - summary: Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.
 
-### 6. AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除
+### 6. Expanding Daybreak as the Cyber Defense Window Narrows
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-08-10T10:00:00+00:00`
+- url: https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+- summary: Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.
+
+### 7. AIにジムの予約を頼んだら予約ソフトウェアをハッキングして数カ月先まで予約可能にしただけでなく順番待ちリストの上位にいた他の人物を勝手にリストから削除
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-08-10T03:53:47+00:00`
 - url: https://gigazine.net/news/20260810-ai-assistant-autonomously-hack/
 - summary: オーストラリアに住む人物がAIでジムを予約したところ、頼んでもいないのに通常は予約不可能な数カ月先の日付を確保できる脆弱(ぜいじゃく)性を発見してしまったことが分かりました。 AI assistant hacks gym website in first known Australian autonomous cyber attack - ABC News https://www.abc.net.au/news/2026-0...
 
-### 7. Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30
+### 8. Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-08-10T14:41:27+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260070.en.html
 - summary: Announcing 20260070 (MRO,liquidity providing), for 7 days deadline 09:30
-
-### 8. OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas
-- source: OpenAI News RSS
-- score: `12`
-- published: `2026-08-10T14:00:00+00:00`
-- url: https://openai.com/index/responsible-ai-infrastructure-texas
-- summary: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.
 
 END OF DOCUMENT

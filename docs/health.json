@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-08-10T18:10:25+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-10T18:31:00+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 1,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 20,
-    "observe": 50,
-    "source_errors": 0
+    "observe": 51,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "hatena_hotentry_it",
+      "source_name": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='b.hatena.ne.jp', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
