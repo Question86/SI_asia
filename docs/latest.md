@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T18:24:48+00:00_
+_Generiert: 2026-08-11T18:44:43+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+74 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s tech sector raised US$4.779B across 17 rounds in July 2026, according to Tracxn, the strongest month in the tracked 12-month period, up 25.53% from June and 180.9% year-on-year. Two mega-rounds drove the surge: Kling AI’s US$2.8 billion raise and Ant International’s US$1.2 billion round, together accounting for roughly US$4 billion, or the bulk […] The post Ecosystem Roundup: SEA tech funding hits U…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **From coder to orchestrator: How agents shift the role of a developer** — Score 11, observation — [Quelle](https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-11T18:38:17+00:00`, fetched `2026-08-11T18:44:10+00:00`
+  - Treffer: AI Agents, GitHub, Watchgraph:sports_sf_tech_events
+  - Watchgraph: sports_sf_tech_events
+  - Markt-/Kontextkorb: DIS, CMCSA, ABNB, BKNG, DAL, UAL, TKO, FWONK, AAL, META, GOOGL, MSFT
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules sports_sf_tech_events (+3.0)
+  - Kurz: Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 99 km SSE of Sand Point, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
   - Warum relevant: AI/KI (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
   - Kurz: The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-08-11T08:30:00+00:00`, fetched `2026-08-11T08:37:41+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
