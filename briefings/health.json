@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-08-11T20:19:21+00:00",
-  "status": "warning",
+  "generated_at": "2026-08-11T20:36:13+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 3,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 29,
-    "observe": 47,
-    "source_errors": 1
+    "medium": 31,
+    "observe": 48,
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

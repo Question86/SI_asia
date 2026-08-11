@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-11T20:19:21+00:00",
-  "run_id": "2026-08-11T20:19:21+00:00",
+  "generated_at": "2026-08-11T20:36:13+00:00",
+  "run_id": "2026-08-11T20:36:13+00:00",
   "date": "2026-08-11",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 3,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 29,
-    "observe": 47,
-    "source_errors": 1
+    "medium": 31,
+    "observe": 48,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -124,6 +124,53 @@
           "PINS"
         ],
         "id": "73cae648b89d2d7c6c49"
+      },
+      {
+        "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-11T20:15:55+00:00",
+        "fetched_at": "2026-08-11T20:35:41+00:00",
+        "summary": "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers,… The post Copilot memory and Ollama in GitHub Copilot for JetBrains appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Copilot",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP, MCP server"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "ec732e68c245f3820793"
       },
       {
         "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -289,6 +336,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ede2d734e874567789d8"
+      },
+      {
+        "title": "M 5.1 - 51 km E of Tobelo, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-11T20:29:58.040+00:00",
+        "fetched_at": "2026-08-11T20:35:41+00:00",
+        "summary": "Time 2026-08-11 20:14:18 UTC 2026-08-11 20:14:18 UTC at epicenter Location 1.706°N 128.474°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ac810f13085f5f3c6955"
       },
       {
         "title": "M 4.8 - Pulau Pulau Tanimbar, Indonesia",
@@ -1922,6 +2006,26 @@
         "id": "b5c321a6be65c8c5794c"
       },
       {
+        "title": "Automatically migrate branch protection rules to repository rulesets",
+        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-11T19:03:57+00:00",
+        "fetched_at": "2026-08-11T20:35:41+00:00",
+        "summary": "You can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without… The post Automatically migrate branch protection rules to repository rulesets appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7bc00190678bf32ae64"
+      },
+      {
         "title": "Patchday: SAP Commerce Cloud komplett kompromittierbar",
         "url": "https://www.heise.de/news/Patchday-SAP-Commerce-Cloud-komplett-kompromittierbar-11410169.html",
         "source": "heise Security Alerts",
@@ -2039,6 +2143,53 @@
         "PINS"
       ],
       "id": "73cae648b89d2d7c6c49"
+    },
+    {
+      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-11T20:15:55+00:00",
+      "fetched_at": "2026-08-11T20:35:41+00:00",
+      "summary": "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers,… The post Copilot memory and Ollama in GitHub Copilot for JetBrains appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Copilot",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP, MCP server"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "ec732e68c245f3820793"
     },
     {
       "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -2204,6 +2355,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ede2d734e874567789d8"
+    },
+    {
+      "title": "M 5.1 - 51 km E of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-11T20:29:58.040+00:00",
+      "fetched_at": "2026-08-11T20:35:41+00:00",
+      "summary": "Time 2026-08-11 20:14:18 UTC 2026-08-11 20:14:18 UTC at epicenter Location 1.706°N 128.474°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ac810f13085f5f3c6955"
     },
     {
       "title": "M 4.8 - Pulau Pulau Tanimbar, Indonesia",
@@ -3835,6 +4023,26 @@
       "id": "b5c321a6be65c8c5794c"
     },
     {
+      "title": "Automatically migrate branch protection rules to repository rulesets",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-11T19:03:57+00:00",
+      "fetched_at": "2026-08-11T20:35:41+00:00",
+      "summary": "You can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without… The post Automatically migrate branch protection rules to repository rulesets appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7bc00190678bf32ae64"
+    },
+    {
       "title": "Patchday: SAP Commerce Cloud komplett kompromittierbar",
       "url": "https://www.heise.de/news/Patchday-SAP-Commerce-Cloud-komplett-kompromittierbar-11410169.html",
       "source": "heise Security Alerts",
@@ -3857,19 +4065,67 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 149 km SSE of Port Blair, India",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m",
+      "title": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-11T20:15:55+00:00",
+      "fetched_at": "2026-08-11T20:35:41+00:00",
+      "summary": "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers,… The post Copilot memory and Ollama in GitHub Copilot for JetBrains appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Copilot",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP, MCP server"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "ec732e68c245f3820793"
+    },
+    {
+      "title": "M 5.1 - 51 km E of Tobelo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-11T20:12:35.040+00:00",
-      "fetched_at": "2026-08-11T20:18:50+00:00",
-      "summary": "Time 2026-08-11 19:55:41 UTC 2026-08-11 19:55:41 UTC at epicenter Location 10.535°N 93.488°E Depth 113.48 km (70.51 mi)",
+      "published_at": "2026-08-11T20:29:58.040+00:00",
+      "fetched_at": "2026-08-11T20:35:41+00:00",
+      "summary": "Time 2026-08-11 20:14:18 UTC 2026-08-11 20:14:18 UTC at epicenter Location 1.706°N 128.474°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -3890,17 +4146,30 @@
         "HD",
         "LOW"
       ],
-      "id": "6941dd86560399a24e99"
-    }
-  ],
-  "source_errors": [
+      "id": "ac810f13085f5f3c6955"
+    },
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "title": "Automatically migrate branch protection rules to repository rulesets",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "published_at": "2026-08-11T19:03:57+00:00",
+      "fetched_at": "2026-08-11T20:35:41+00:00",
+      "summary": "You can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without… The post Automatically migrate branch protection rules to repository rulesets appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7bc00190678bf32ae64"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
