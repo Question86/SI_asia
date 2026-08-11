@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-11T03:37:45+00:00_
+_Generated: 2026-08-11T04:07:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `13`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-11T03:37:45+00:00_
 - url: https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/
 - summary: For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founde…
 
-### 7. 【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ
+### 7. 韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった
 - source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-11T00:51:21+00:00`
-- url: https://bookmark.hatenastaff.com/entry/2026/08/11/092529
-- summary: いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き...
+- score: `10`
+- published: `2026-08-10T09:55:35+00:00`
+- url: https://www.itmedia.co.jp/news/article/2608/10/2000000490/
+- summary: また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を...
 
-### 8. 【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-10T23:30:58+00:00`
-- url: https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html
-- summary: 【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？
+### 8. M 4.5 - south of the Fiji Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-11T03:41:08.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb
+- summary: Time 2026-08-11 03:11:19 UTC 2026-08-11 03:11:19 UTC at epicenter Location 23.598°S 179.776°W Depth 548.45 km (340.79 mi)
 
 END OF DOCUMENT
