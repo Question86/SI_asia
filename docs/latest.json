@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T06:57:07+00:00",
-  "run_id": "2026-08-11T06:57:07+00:00",
+  "generated_at": "2026-08-11T07:27:43+00:00",
+  "run_id": "2026-08-11T07:27:43+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -1073,30 +1073,7 @@
       "id": "b5c321a6be65c8c5794c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Mega deals push SEA tech funding to 12-month high in July 2026",
-      "url": "https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-11T06:52:18+00:00",
-      "fetched_at": "2026-08-11T06:56:39+00:00",
-      "summary": "Southeast Asia’s technology funding market had one of its strongest months in recent memory in July 2026, as startups in the region raised US$4.779 billion across 17 rounds, according to data from Tracxn. The headline figure marks a 25.53 per cent increase from June 2026 and a sharp 180.9 per cent rise from July 2025. […] The post Mega deals push SEA tech funding to 12-month high in July 2026 appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f6c4b33835bf13063892"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
