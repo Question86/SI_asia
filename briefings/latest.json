@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T13:13:03+00:00",
-  "run_id": "2026-08-11T13:13:03+00:00",
+  "generated_at": "2026-08-11T13:45:32+00:00",
+  "run_id": "2026-08-11T13:45:32+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 7,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
-    "medium": 27,
-    "observe": 30,
+    "medium": 28,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -289,6 +289,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ede2d734e874567789d8"
+      },
+      {
+        "title": "M 4.8 - Pulau Pulau Tanimbar, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-11T13:31:28.040+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "Time 2026-08-11 12:45:12 UTC 2026-08-11 12:45:12 UTC at epicenter Location 7.397°S 130.392°E Depth 30.61 km (19.02 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "58b1c4a8d1c71f580f01"
       },
       {
         "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
@@ -853,6 +890,30 @@
         "id": "a985114f79de9358f220"
       },
       {
+        "title": "Vulnérabilité dans Microsoft Office (03 août 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0961/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-08-03T00:00:00+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Microsoft",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d7d1d908714c341a2457"
+      },
+      {
         "title": "Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery",
         "url": "https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -982,6 +1043,30 @@
         "id": "037c5ec83ff990a8ff2e"
       },
       {
+        "title": "Multiples vulnérabilités dans Google Android (04 août 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-08-04T00:00:00+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité",
+          "éditeur"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8d4c9f1f24419d10bb9e"
+      },
+      {
         "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
         "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1095,6 +1180,28 @@
         "id": "e24563328b5afd213778"
       },
       {
+        "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
+        "url": "https://zenn.dev/singularity/articles/ever-better-pm2",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T07:38:41+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "AI にどんどん書かせて、コードレビューはしない。 それで1日500コミットを、毎日出しています。 無茶に聞こえると思いますが、条件が1つだけあります。「読まなくても壊れない足回り」が先に入っていること。 前に書いたとおり、レビューをやめられたのではなく、レビューを機械に移しただけなので。 その足回りを作る...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dbbee047f9761585ee69"
+      },
+      {
         "title": "Mega deals push SEA tech funding to 12-month high in July 2026",
         "url": "https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1136,6 +1243,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05d3a8280d7e493fe173"
+      },
+      {
+        "title": "Multiples vulnérabilités dans les produits Tenable (04 août 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0962/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-08-04T00:00:00+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une injection SQL (SQLi).",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0596068ed59892593138"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Traefik (04 août 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0964/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-08-04T00:00:00+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "45cadb1eab9cb3dfc7bd"
       },
       {
         "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
@@ -1218,6 +1371,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ae19726b1053cb9aa534"
+      },
+      {
+        "title": "「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう",
+        "url": "https://togetter.com/li/2731721",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T10:25:56+00:00",
+        "fetched_at": "2026-08-11T13:45:00+00:00",
+        "summary": "ミキヤックス⁉️ @AxMJqjdkKEn5M2d 立川談志と美輪明宏はこれを読んで さぞかし喜んだだろうね！ あの人たちは嫌われるほどにパワーアップする人だから。 月亭とかケーシー が嫌われてる理由はよくわかんないけど（笑） 美空ひばり が国民的な歌手なのかと思ったら、こ嫌われてるのが意外だったッス‼️ 泉ピン子とか大橋巨泉...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "999e7bd8b6b1718cd8fa"
       },
       {
         "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
@@ -1711,6 +1885,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ede2d734e874567789d8"
+    },
+    {
+      "title": "M 4.8 - Pulau Pulau Tanimbar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-11T13:31:28.040+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "Time 2026-08-11 12:45:12 UTC 2026-08-11 12:45:12 UTC at epicenter Location 7.397°S 130.392°E Depth 30.61 km (19.02 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "58b1c4a8d1c71f580f01"
     },
     {
       "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
@@ -2273,6 +2484,30 @@
       "id": "a985114f79de9358f220"
     },
     {
+      "title": "Vulnérabilité dans Microsoft Office (03 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0961/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-03T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d7d1d908714c341a2457"
+    },
+    {
       "title": "Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery",
       "url": "https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2402,6 +2637,30 @@
       "id": "037c5ec83ff990a8ff2e"
     },
     {
+      "title": "Multiples vulnérabilités dans Google Android (04 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d4c9f1f24419d10bb9e"
+    },
+    {
       "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
       "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2515,6 +2774,28 @@
       "id": "e24563328b5afd213778"
     },
     {
+      "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
+      "url": "https://zenn.dev/singularity/articles/ever-better-pm2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T07:38:41+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "AI にどんどん書かせて、コードレビューはしない。 それで1日500コミットを、毎日出しています。 無茶に聞こえると思いますが、条件が1つだけあります。「読まなくても壊れない足回り」が先に入っていること。 前に書いたとおり、レビューをやめられたのではなく、レビューを機械に移しただけなので。 その足回りを作る...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dbbee047f9761585ee69"
+    },
+    {
       "title": "Mega deals push SEA tech funding to 12-month high in July 2026",
       "url": "https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2556,6 +2837,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "05d3a8280d7e493fe173"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Tenable (04 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0962/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une injection SQL (SQLi).",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0596068ed59892593138"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Traefik (04 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0964/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "45cadb1eab9cb3dfc7bd"
     },
     {
       "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
@@ -2638,6 +2965,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ae19726b1053cb9aa534"
+    },
+    {
+      "title": "「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう",
+      "url": "https://togetter.com/li/2731721",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T10:25:56+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "ミキヤックス⁉️ @AxMJqjdkKEn5M2d 立川談志と美輪明宏はこれを読んで さぞかし喜んだだろうね！ あの人たちは嫌われるほどにパワーアップする人だから。 月亭とかケーシー が嫌われてる理由はよくわかんないけど（笑） 美空ひばり が国民的な歌手なのかと思ったら、こ嫌われてるのが意外だったッス‼️ 泉ピン子とか大橋巨泉...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "999e7bd8b6b1718cd8fa"
     },
     {
       "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
@@ -2871,24 +3219,178 @@
   ],
   "new_findings": [
     {
-      "title": "Patchday: SAP Commerce Cloud komplett kompromittierbar",
-      "url": "https://www.heise.de/news/Patchday-SAP-Commerce-Cloud-komplett-kompromittierbar-11410169.html",
-      "source": "heise Security Alerts",
+      "title": "M 4.8 - Pulau Pulau Tanimbar, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-11T12:54:00.000+00:00",
-      "fetched_at": "2026-08-11T13:12:31+00:00",
-      "summary": "SAP schließt in seinem Softwareproduktportfolio mehrere unter anderem kritische Sicherheitslücken.",
+      "published_at": "2026-08-11T13:31:28.040+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "Time 2026-08-11 12:45:12 UTC 2026-08-11 12:45:12 UTC at epicenter Location 7.397°S 130.392°E Depth 30.61 km (19.02 mi)",
       "matched_keywords": [
-        "Security"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph demote portfolio (x0.45)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "58b1c4a8d1c71f580f01"
+    },
+    {
+      "title": "Vulnérabilité dans Microsoft Office (03 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0961/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-03T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Microsoft",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8fe5c53de442d9e0fa31"
+      "id": "d7d1d908714c341a2457"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Google Android (04 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité",
+        "éditeur"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d4c9f1f24419d10bb9e"
+    },
+    {
+      "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
+      "url": "https://zenn.dev/singularity/articles/ever-better-pm2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T07:38:41+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "AI にどんどん書かせて、コードレビューはしない。 それで1日500コミットを、毎日出しています。 無茶に聞こえると思いますが、条件が1つだけあります。「読まなくても壊れない足回り」が先に入っていること。 前に書いたとおり、レビューをやめられたのではなく、レビューを機械に移しただけなので。 その足回りを作る...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dbbee047f9761585ee69"
+    },
+    {
+      "title": "Multiples vulnérabilités dans les produits Tenable (04 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0962/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une injection SQL (SQLi).",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0596068ed59892593138"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Traefik (04 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0964/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-04T00:00:00+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "45cadb1eab9cb3dfc7bd"
+    },
+    {
+      "title": "「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう",
+      "url": "https://togetter.com/li/2731721",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T10:25:56+00:00",
+      "fetched_at": "2026-08-11T13:45:00+00:00",
+      "summary": "ミキヤックス⁉️ @AxMJqjdkKEn5M2d 立川談志と美輪明宏はこれを読んで さぞかし喜んだだろうね！ あの人たちは嫌われるほどにパワーアップする人だから。 月亭とかケーシー が嫌われてる理由はよくわかんないけど（笑） 美空ひばり が国民的な歌手なのかと思ったら、こ嫌われてるのが意外だったッス‼️ 泉ピン子とか大橋巨泉...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "999e7bd8b6b1718cd8fa"
     }
   ],
   "source_errors": [],

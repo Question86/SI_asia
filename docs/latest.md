@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T13:13:03+00:00_
+_Generiert: 2026-08-11T13:45:32+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+64 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, enter the biggest one first, let the rest follow. Indonesia at […] The post In Southeast Asia, going global used to mean picking the biggest market, that logic is…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - Pulau Pulau Tanimbar, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjxa)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-11T13:31:28.040+00:00`, fetched `2026-08-11T13:45:00+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-11 12:45:12 UTC 2026-08-11 12:45:12 UTC at epicenter Location 7.397°S 130.392°E Depth 30.61 km (19.02 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How to choose an AI marketing agency: A practical guide to AI-driven growth** — Score 14, observation — [Quelle](https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-11T03:00:38+00:00`, fetched `2026-08-11T03:37:11+00:00`
@@ -132,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 英華達｜全家寶 Cloud - Insecure Direct Object Reference
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Vulnérabilité dans Microsoft Office (03 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0961/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-03T00:00:00+00:00`, fetched `2026-08-11T13:45:00+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery** — Score 10, observation — [Quelle](https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-11T11:31:49+00:00`, fetched `2026-08-11T11:47:38+00:00`
@@ -168,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Google Android (04 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-04T00:00:00+00:00`, fetched `2026-08-11T13:45:00+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How one VC burns through hundreds of millions of tokens a day to find the next unicorn** — Score 9, observation — [Quelle](https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-11T10:00:00+00:00`, fetched `2026-08-11T10:09:20+00:00`
@@ -195,32 +222,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-11 03:11:19 UTC 2026-08-11 03:11:19 UTC at epicenter Location 23.598°S 179.776°W Depth 548.45 km (340.79 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar** — Score 7, observation — [Quelle](https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-11T09:52:00.000+00:00`, fetched `2026-08-11T10:09:20+00:00`
-  - Treffer: Security
+- **Multiples vulnérabilités dans les produits Tenable (04 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0962/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-04T00:00:00+00:00`, fetched `2026-08-11T13:45:00+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: IBMs Datenbanksystem Db2 ist über mehrere Schwachstellen angreifbar. Davon sind Client- und Serverversionen betroffen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitslücken: Angreifer können Wachdienst von ClamAV stören** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-11T08:12:00.000+00:00`, fetched `2026-08-11T08:37:41+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Patchday: SAP Commerce Cloud komplett kompromittierbar** — Score 3, observation — [Quelle](https://www.heise.de/news/Patchday-SAP-Commerce-Cloud-komplett-kompromittierbar-11410169.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-11T12:54:00.000+00:00`, fetched `2026-08-11T13:12:31+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph demote portfolio (x0.45)
-  - Kurz: SAP schließt in seinem Softwareproduktportfolio mehrere unter anderem kritische Sicherheitslücken.
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une injection SQL (SQLi).
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
