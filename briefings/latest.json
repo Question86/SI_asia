@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T01:27:41+00:00",
-  "run_id": "2026-08-11T01:27:41+00:00",
+  "generated_at": "2026-08-11T02:15:48+00:00",
+  "run_id": "2026-08-11T02:15:48+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 3,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 0,
-    "observe": 4,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -74,6 +74,48 @@
         "id": "f81b913a87bea1210db9"
       },
       {
+        "title": "Vietnam’s “born global” startups are rewriting the playbook",
+        "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-11T01:45:50+00:00",
+        "fetched_at": "2026-08-11T02:15:19+00:00",
+        "summary": "For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founded startups with global operations hit an all-time high, and the deal count went […] The post Vietnam’s “born global” startups are rewriting the playbook appeare…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "a800c7418bd2c0dcb59c"
+      },
+      {
         "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
         "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
         "source": "Hatena Bookmark Hotentry IT",
@@ -93,6 +135,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "53052fb889438b6e3f26"
+      },
+      {
+        "title": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
+        "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T23:30:58+00:00",
+        "fetched_at": "2026-08-11T02:15:19+00:00",
+        "summary": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cc3357baddf3e7d14228"
       },
       {
         "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
@@ -135,6 +198,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "59707f4182057bec8dd2"
+      },
+      {
+        "title": "How Filipino virtual assistants are dominating the global remote workforce",
+        "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-11T01:30:51+00:00",
+        "fetched_at": "2026-08-11T02:15:19+00:00",
+        "summary": "I have worked in customer service, online support, and team leadership for years, and if there is one thing I have learned about Filipino virtual assistants, it is that we rarely respond to a new challenge by saying, “That is not my job.” More often, we say, “I’ll try.” It may sound like a simple […] The post How Filipino virtual assistants are dominating the global remote workforce appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b5c321a6be65c8c5794c"
       }
     ]
   },
@@ -183,6 +266,48 @@
       "id": "f81b913a87bea1210db9"
     },
     {
+      "title": "Vietnam’s “born global” startups are rewriting the playbook",
+      "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T01:45:50+00:00",
+      "fetched_at": "2026-08-11T02:15:19+00:00",
+      "summary": "For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founded startups with global operations hit an all-time high, and the deal count went […] The post Vietnam’s “born global” startups are rewriting the playbook appeare…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "a800c7418bd2c0dcb59c"
+    },
+    {
       "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
       "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
       "source": "Hatena Bookmark Hotentry IT",
@@ -202,6 +327,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "53052fb889438b6e3f26"
+    },
+    {
+      "title": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T23:30:58+00:00",
+      "fetched_at": "2026-08-11T02:15:19+00:00",
+      "summary": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cc3357baddf3e7d14228"
     },
     {
       "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
@@ -244,26 +390,45 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "59707f4182057bec8dd2"
+    },
+    {
+      "title": "How Filipino virtual assistants are dominating the global remote workforce",
+      "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T01:30:51+00:00",
+      "fetched_at": "2026-08-11T02:15:19+00:00",
+      "summary": "I have worked in customer service, online support, and team leadership for years, and if there is one thing I have learned about Filipino virtual assistants, it is that we rarely respond to a new challenge by saying, “That is not my job.” More often, we say, “I’ll try.” It may sound like a simple […] The post How Filipino virtual assistants are dominating the global remote workforce appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b5c321a6be65c8c5794c"
     }
   ],
   "new_findings": [
     {
-      "title": "Good ideas are everywhere, venture capital isn’t",
-      "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
+      "title": "Vietnam’s “born global” startups are rewriting the playbook",
+      "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-11T01:00:43+00:00",
-      "fetched_at": "2026-08-11T01:27:12+00:00",
-      "summary": "Investors often say they back exceptional founders and ambitious ideas. In practice, they also invest in the environment surrounding those companies. When Airwallex, founded in Melbourne, made Singapore its global headquarters, the decision was about more than location. The city offered access to regional customers, a familiar regulatory environment and a deep pool of financial […] The post Good ideas are everywhere…",
+      "published_at": "2026-08-11T01:45:50+00:00",
+      "fetched_at": "2026-08-11T02:15:19+00:00",
+      "summary": "For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founded startups with global operations hit an all-time high, and the deal count went […] The post Vietnam’s “born global” startups are rewriting the playbook appeare…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "founder",
         "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
@@ -288,16 +453,16 @@
         "EWC",
         "EWZ"
       ],
-      "id": "f81b913a87bea1210db9"
+      "id": "a800c7418bd2c0dcb59c"
     },
     {
-      "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
-      "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
+      "title": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-11T00:51:21+00:00",
-      "fetched_at": "2026-08-11T01:27:12+00:00",
-      "summary": "いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き...",
+      "published_at": "2026-08-10T23:30:58+00:00",
+      "fetched_at": "2026-08-11T02:15:19+00:00",
+      "summary": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -309,7 +474,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "53052fb889438b6e3f26"
+      "id": "cc3357baddf3e7d14228"
+    },
+    {
+      "title": "How Filipino virtual assistants are dominating the global remote workforce",
+      "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T01:30:51+00:00",
+      "fetched_at": "2026-08-11T02:15:19+00:00",
+      "summary": "I have worked in customer service, online support, and team leadership for years, and if there is one thing I have learned about Filipino virtual assistants, it is that we rarely respond to a new challenge by saying, “That is not my job.” More often, we say, “I’ll try.” It may sound like a simple […] The post How Filipino virtual assistants are dominating the global remote workforce appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b5c321a6be65c8c5794c"
     }
   ],
   "source_errors": [],
