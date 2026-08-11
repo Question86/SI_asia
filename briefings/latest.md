@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T11:10:04+00:00_
+_Generiert: 2026-08-11T11:29:07+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+50 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -101,6 +101,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
   - Kurz: For years, the most visible face of crypto crime was digital: hacked exchanges, phishing pages, ransomware gangs, and investment scams moving money across wallets at internet speed. But a more intimate and frightening category of crime is now accelerating: physical attacks on crypto holders. A new Chainalysis report estimates that more than US$30 million has […] The post Crypto’s new threat is not a hack, but a knoc…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [UNGEPATCHT] [mittel] Redis: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2745)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-11T11:21:06+00:00`, fetched `2026-08-11T11:28:36+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Redis ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-11T09:56:06+00:00`, fetched `2026-08-11T10:09:20+00:00`
@@ -109,15 +118,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-11T09:56:05+00:00`, fetched `2026-08-11T10:09:20+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead** — Score 16, observation — [Quelle](https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: 高度なAIモデルの性能を伸ばすには大量の質の高い訓練データが必要です。中国のAI開発を阻む問題としてはアメリカによる先端AIチップの輸出規制が注目されてきましたが、中国のAI専門家は中国語の訓練データ不足が次の大きなボトルネックになりうると警告しています。 China faces new AI bottleneck as it runs out of ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **メタ、AIを「数十億人に無償提供」 高性能モデルの技術を外部に開放 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-10T23:14:28+00:00`, fetched `2026-08-11T11:28:36+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 【シリコンバレー=山田遼太郎】米メタは10日、高性能の人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表した。AIの利用が高額化するなか、大部分が無料で使えるインターネットと同様に低価格化を進め普及を狙う。マーク・ザッカーバーグ最高経営責任者（CEO）が先端AIを「数十億人が使える無料版として提...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった** — Score 10, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/10/2000000490/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-10T09:55:35+00:00`, fetched `2026-08-11T04:06:49+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-11 03:11:19 UTC 2026-08-11 03:11:19 UTC at epicenter Location 23.598°S 179.776°W Depth 548.45 km (340.79 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How Claude marks AI-generated content | Claude Help Center** — Score 9, observation — [Quelle](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T01:19:34+00:00`, fetched `2026-08-11T04:38:48+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: How Claude marks AI-generated content | Claude Help Center
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar** — Score 7, observation — [Quelle](https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-11T09:52:00.000+00:00`, fetched `2026-08-11T10:09:20+00:00`

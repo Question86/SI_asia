@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-11T11:10:04+00:00",
+  "generated_at": "2026-08-11T11:29:07+00:00",
   "topics": {
     "ai": [
       {
@@ -186,6 +186,13 @@
         "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Redis: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:21:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2745"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T09:56:06+00:00",
@@ -207,39 +214,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680"
       },
       {
+        "title": "[NEU] [hoch] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2744"
+      },
+      {
+        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2742"
+      },
+      {
+        "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2743"
+      },
+      {
         "title": "[NEU] [hoch] HCL BigFix Mobile: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T11:06:07+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2741"
-      },
-      {
-        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T11:06:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739"
-      },
-      {
-        "title": "[NEU] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T11:06:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2740"
-      },
-      {
-        "title": "[NEU] [mittel] Bitwarden: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2737"
-      },
-      {
-        "title": "[NEU] [hoch] Metabase: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2738"
       }
     ],
     "geopolitics": [
@@ -258,6 +258,13 @@
         "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Redis: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:21:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2745"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T09:56:06+00:00",
@@ -272,6 +279,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730"
       },
       {
+        "title": "[NEU] [hoch] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2744"
+      },
+      {
+        "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2742"
+      },
+      {
+        "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2743"
+      },
+      {
         "title": "[NEU] [hoch] HCL BigFix Mobile: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T11:06:07+00:00",
@@ -284,34 +312,6 @@
         "published_at": "2026-08-11T11:06:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739"
-      },
-      {
-        "title": "[NEU] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T11:06:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2740"
-      },
-      {
-        "title": "[NEU] [mittel] Bitwarden: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2737"
-      },
-      {
-        "title": "[NEU] [hoch] Metabase: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2738"
-      },
-      {
-        "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2735"
       }
     ],
     "general": [

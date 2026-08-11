@@ -142,6 +142,30 @@
     "id": "e5cc537fcffe6f1511d2"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] Redis: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2745",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-11T11:21:06+00:00",
+    "fetched_at": "2026-08-11T11:28:36+00:00",
+    "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Redis ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8f1993d3a4aa1b958b33"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
     "source": "BSI CERT-Bund Security Advisories",
@@ -235,6 +259,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ede2d734e874567789d8"
+  },
+  {
+    "title": "[NEU] [hoch] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2744",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-11T11:21:05+00:00",
+    "fetched_at": "2026-08-11T11:28:36+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in TYPO3 Core ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "26d529d2cef955847a12"
+  },
+  {
+    "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2742",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-11T11:16:05+00:00",
+    "fetched_at": "2026-08-11T11:28:36+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in systemd ausnutzen, um seine Privilegien zu erhöhen, Daten zu manipulieren oder offenzulegen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand auszulösen oder beliebigen Code mit Root-Rechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "71f073f59252e215442f"
+  },
+  {
+    "title": "[NEU] [hoch] CyberPanel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2743",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-11T11:16:05+00:00",
+    "fetched_at": "2026-08-11T11:28:36+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um Informationen offenzulegen Sicherheitsmaßnahmen zu umgehen, Administratorrechte zu erlangen und beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "496a6398cb8e988aea51"
   },
   {
     "title": "[NEU] [hoch] HCL BigFix Mobile: Mehrere Schwachstellen",
@@ -721,6 +814,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "dae0d145b2ffbf3d230c"
+  },
+  {
+    "title": "メタ、AIを「数十億人に無償提供」 高性能モデルの技術を外部に開放 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T23:14:28+00:00",
+    "fetched_at": "2026-08-11T11:28:36+00:00",
+    "summary": "【シリコンバレー=山田遼太郎】米メタは10日、高性能の人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表した。AIの利用が高額化するなか、大部分が無料で使えるインターネットと同様に低価格化を進め普及を狙う。マーク・ザッカーバーグ最高経営責任者（CEO）が先端AIを「数十億人が使える無料版として提...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7dc77bc2d45d43be8960"
   },
   {
     "title": "韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった",
