@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-11T07:53:14Z",
+  "generated_at": "2026-08-11T08:18:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “paperclipai/paperclip” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -44,7 +44,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -72,7 +72,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-11T02:44:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11096-0f578-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-10T11:25:00+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.25,
+      "age_days": 53.26,
       "topics": [
         "ai"
       ],
@@ -143,7 +143,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 53.2d old signal",
+        "aging penalty -8.0 for 53.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -153,7 +153,7 @@
       "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T05:17:43+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -182,7 +182,7 @@
       "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:30:51+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -207,7 +207,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T09:55:35+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -231,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-11T03:41:08.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -251,11 +251,35 @@
       "summary": "Time 2026-08-11 03:11:19 UTC 2026-08-11 03:11:19 UTC at epicenter Location 23.598°S 179.776°W Depth 548.45 km (340.79 mi)"
     },
     {
+      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-11T01:03:24+00:00",
+      "age_days": 0.3,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条..."
+    },
+    {
       "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T01:03:19+00:00",
-      "age_days": 1.28,
+      "age_days": 1.3,
       "topics": [
         "general"
       ],
@@ -279,7 +303,7 @@
       "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:15:31+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -299,32 +323,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, enter the biggest one first, let the rest follow. Indonesia at…"
-    },
-    {
-      "title": "How to choose an AI marketing agency: A practical guide to AI-driven growth",
-      "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-11T03:00:38+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "An AI marketing agency is an agency that uses artificial intelligence as its primary tool for analysing data, generating insights, and running marketing activity. Where a traditional agency relies on manual analysis and periodic reporting, an AI marketing agency works with real-time data, automated experiments, and co…"
     }
   ],
   "read_order": [
