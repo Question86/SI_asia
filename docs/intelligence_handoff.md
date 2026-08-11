@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-11T00:46:34Z_
+_Generated: 2026-08-11T01:30:13Z_
 
 ## Lageurteil
 
@@ -12,17 +12,47 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `52.95`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `52.98`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 53.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
 
+### 国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-08-10T01:03:19+00:00` / age_days `1.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html
+
+### Good ideas are everywhere, venture capital isn’t
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-08-11T01:00:43+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: early terms: regional, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/
+
+### 【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.0`
+- Published: `2026-08-11T00:51:21+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://bookmark.hatenastaff.com/entry/2026/08/11/092529
+
 ### 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `51.91`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `51.94`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 51.9d old signal
@@ -32,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `51.91`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `51.94`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 51.9d old signal
@@ -42,10 +72,20 @@ Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェント
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `51.91`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `51.94`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 51.9d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
+
+### AWS認定を1年延長できる維持制度の登録、延長方法について - Qiita
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-08-09T02:02:54+00:00` / age_days `1.98`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d
 
 END OF DOCUMENT
