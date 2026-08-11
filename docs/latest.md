@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T21:35:02+00:00_
+_Generiert: 2026-08-11T21:56:43+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Redis ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **BM25を使用してCodexのトークンの消費を30%抑える** — Score 16, observation — [Quelle](https://zenn.dev/knowledgesense/articles/9e55a3bb67729c)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T10:46:19+00:00`, fetched `2026-08-11T21:56:10+00:00`
+  - Treffer: Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: 導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、コード探索にBM25を組み込むことで、回答品質とトークン消費がどのように変わるのかを、自社のコードベースで検証しました。 きっかけは、2026年7月に公開された論文「BM25 Wins at Scale」[1]です。 サマリー 最近のコーディングエージェント、トーク...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-11T09:56:06+00:00`, fetched `2026-08-11T10:09:20+00:00`
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Daybreak models are now available on AWS** — Score 13, observation — [Quelle](https://openai.com/index/daybreak-models-are-now-available-on-aws)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-11T10:00:00+00:00`, fetched `2026-08-11T21:56:10+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
+  - Kurz: OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds** — Score 12, observation — [Quelle](https://e27.co/ecosystem-roundup-sea-tech-funding-hits-us4-78b-in-july-led-by-mega-rounds-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-11T10:12:10+00:00`, fetched `2026-08-11T10:29:47+00:00`
@@ -249,15 +267,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-11 20:31:28 UTC 2026-08-11 20:31:28 UTC at epicenter Location 4.719°S 152.988°E Depth 68.89 km (42.80 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How one VC burns through hundreds of millions of tokens a day to find the next unicorn** — Score 9, observation — [Quelle](https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-08-11T10:00:00+00:00`, fetched `2026-08-11T10:09:20+00:00`
-  - Treffer: AI/KI, Watchgraph:agriculture_food_fertilizer
-  - Watchgraph: agriculture_food_fertilizer
-  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
-  - Warum relevant: AI/KI (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
-  - Kurz: The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-11T21:35:02+00:00_
+_Generated: 2026-08-11T21:56:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `85`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-11T21:35:02+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734
 - summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
-### 5. Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds
+### 5. Daybreak models are now available on AWS
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-08-11T10:00:00+00:00`
+- url: https://openai.com/index/daybreak-models-are-now-available-on-aws
+- summary: OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.
+
+### 6. Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-11T10:12:10+00:00`
 - url: https://e27.co/ecosystem-roundup-sea-tech-funding-hits-us4-78b-in-july-led-by-mega-rounds-20260811/
 - summary: Southeast Asia’s tech sector raised US$4.779B across 17 rounds in July 2026, according to Tracxn, the strongest month in the tracked 12-month period, up 25.53% from June and 180.9% year-on-year. Two mega-rounds drove the surge: Kling AI’s US$2.8 billion raise…
 
-### 6. M 4.9 - 149 km SSE of Port Blair, India
+### 7. M 4.9 - 149 km SSE of Port Blair, India
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-11T20:12:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1m
 - summary: Time 2026-08-11 19:55:41 UTC 2026-08-11 19:55:41 UTC at epicenter Location 10.535°N 93.488°E Depth 113.48 km (70.51 mi)
 
-### 7. From coder to orchestrator: How agents shift the role of a developer
+### 8. From coder to orchestrator: How agents shift the role of a developer
 - source: GitHub Blog Atom
 - score: `11`
 - published: `2026-08-11T18:38:17+00:00`
 - url: https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/
 - summary: Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer…
-
-### 8. M 4.6 - 99 km SSE of Sand Point, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-11T09:01:13.852+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh
-- summary: ShakeMap - III DYFI? - II Time 2026-08-11 08:49:24 UTC 2026-08-11 08:49:24 UTC at epicenter Location 54.490°N 159.997°W Depth 36.93 km (22.94 mi)
 
 END OF DOCUMENT

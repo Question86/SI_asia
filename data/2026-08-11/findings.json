@@ -213,6 +213,52 @@
     "id": "8f1993d3a4aa1b958b33"
   },
   {
+    "title": "BM25を使用してCodexのトークンの消費を30%抑える",
+    "url": "https://zenn.dev/knowledgesense/articles/9e55a3bb67729c",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-11T10:46:19+00:00",
+    "fetched_at": "2026-08-11T21:56:10+00:00",
+    "summary": "導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、コード探索にBM25を組み込むことで、回答品質とトークン消費がどのように変わるのかを、自社のコードベースで検証しました。 きっかけは、2026年7月に公開された論文「BM25 Wins at Scale」[1]です。 サマリー 最近のコーディングエージェント、トーク...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "9ffbbf45eda96ded9ecc"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
     "source": "BSI CERT-Bund Security Advisories",
@@ -837,6 +883,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c66f3026a004419e4109"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-11T10:00:00+00:00",
+    "fetched_at": "2026-08-11T21:56:10+00:00",
+    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "matched_keywords": [
+      "OpenAI",
+      "Security"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7b1336cbd573b4ad34a8"
   },
   {
     "title": "Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds",
@@ -1823,6 +1890,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "999e7bd8b6b1718cd8fa"
+  },
+  {
+    "title": "macOSでメモリを使い続けるCursorUIViewServiceを無効化する",
+    "url": "https://zenn.dev/discus0434/articles/disable-cursoruiviewservice-macos",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-11T10:17:40+00:00",
+    "fetched_at": "2026-08-11T21:56:10+00:00",
+    "summary": "はじめに こんにちは。 ここ最近、Macのメモリが妙に圧迫されているときにActivity Monitorを開くと、CursorUIViewServiceというプロセスが大量のRAMを使っていることが何度かありました。 私の環境では、気づいたときにはメモリ使用量が約15GBまで増えていました。プロセスを強制終了すればRAMは解放されますが、しばら...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "62acb3e5facaaa87e3e8"
   },
   {
     "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
