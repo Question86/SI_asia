@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T07:55:01+00:00_
+_Generiert: 2026-08-11T08:17:09+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -132,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s technology funding market had one of its strongest months in recent memory in July 2026, as startups in the region raised US$4.779 billion across 17 rounds, according to data from Tracxn. The headline figure marks a 25.53 per cent increase from June 2026 and a sharp 180.9 per cent rise from July 2025. […] The post Mega deals push SEA tech funding to 12-month high in July 2026 appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ** — Score 5, observation — [Quelle](https://bookmark.hatenastaff.com/entry/2026/08/11/092529)
+- **YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/11/2000000495/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T00:51:21+00:00`, fetched `2026-08-11T01:27:12+00:00`
+  - Zeit: published `2026-08-11T01:03:24+00:00`, fetched `2026-08-11T08:16:40+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き...
+  - Kurz: 米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

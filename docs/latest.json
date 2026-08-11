@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T07:55:01+00:00",
-  "run_id": "2026-08-11T07:55:01+00:00",
+  "generated_at": "2026-08-11T08:17:09+00:00",
+  "run_id": "2026-08-11T08:17:09+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 5,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -445,6 +445,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05d3a8280d7e493fe173"
+      },
+      {
+        "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
+        "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T01:03:24+00:00",
+        "fetched_at": "2026-08-11T08:16:40+00:00",
+        "summary": "米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8f5dcc7d3633bfb0be2c"
       },
       {
         "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
@@ -969,6 +990,27 @@
       "id": "05d3a8280d7e493fe173"
     },
     {
+      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T01:03:24+00:00",
+      "fetched_at": "2026-08-11T08:16:40+00:00",
+      "summary": "米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f5dcc7d3633bfb0be2c"
+    },
+    {
       "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
       "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1073,7 +1115,29 @@
       "id": "b5c321a6be65c8c5794c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T01:03:24+00:00",
+      "fetched_at": "2026-08-11T08:16:40+00:00",
+      "summary": "米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f5dcc7d3633bfb0be2c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
