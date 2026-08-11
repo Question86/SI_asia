@@ -1,31 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-11T11:50:05Z",
+  "generated_at": "2026-08-11T12:13:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 15,
+      "krass": 18,
       "strong": 11,
       "watch": 4,
-      "quiet": 8
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "krass": 3,
-      "strong": 25,
+      "krass": 4,
+      "strong": 27,
       "watch": 4,
-      "quiet": 8
+      "quiet": 5
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0923",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T11:56:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in libarchive ausnutzen, um beliebigen Programmcode auszuführen."
+    },
     {
       "title": "[NEU] [mittel] systemd: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2742",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:16:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -50,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2743",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:16:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -75,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2736",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T10:16:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -100,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2741",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:06:07+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -124,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:06:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -149,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2740",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:06:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -173,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2737",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T10:16:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -197,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2738",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T10:16:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -221,7 +246,7 @@
       "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-11T10:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -247,7 +272,7 @@
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -276,7 +301,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -304,7 +329,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T09:56:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -330,7 +355,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T09:56:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -352,11 +377,63 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände."
     },
     {
+      "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1871",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T11:56:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um erweiterte Rechte zu erlangen – möglicherweise sogar Administratorrechte –, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder andere, nicht näher definierte Angriffe durchzuf…"
+    },
+    {
+      "title": "[UPDATE] [mittel] Dovecot: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0891",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T11:56:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, auth",
+        "security high-signal: angriffe, auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dovecot ausnutzen, um SQL-Injection-Angriffe durchzuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
       "title": "[NEU] [hoch] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2744",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:21:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -382,7 +459,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2735",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T10:16:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security",
         "macro"
@@ -409,7 +486,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T09:56:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -436,7 +513,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T09:56:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -462,7 +539,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T09:51:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -488,7 +565,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2715",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T08:57:26+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -514,7 +591,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2745",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T11:21:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -539,7 +616,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T08:57:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -564,7 +641,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-11T02:44:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -590,7 +667,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11096-0f578-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-10T11:25:00+00:00",
-      "age_days": 1.02,
+      "age_days": 1.03,
       "topics": [
         "security"
       ],
@@ -616,7 +693,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.41,
+      "age_days": 53.43,
       "topics": [
         "ai"
       ],
@@ -645,7 +722,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T09:56:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -671,7 +748,7 @@
       "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T05:17:43+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "security",
@@ -700,7 +777,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-11T08:12:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -725,7 +802,7 @@
       "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:30:51+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -750,7 +827,7 @@
       "url": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-11T09:52:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -774,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-11T09:01:13.852+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -799,7 +876,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T09:55:35+00:00",
-      "age_days": 1.08,
+      "age_days": 1.1,
       "topics": [
         "general"
       ],
@@ -823,7 +900,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-11T03:41:08.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -847,7 +924,7 @@
       "url": "https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T02:37:06+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -871,7 +948,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T01:03:24+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -895,7 +972,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T01:03:19+00:00",
-      "age_days": 1.45,
+      "age_days": 1.47,
       "topics": [
         "general"
       ],
@@ -919,7 +996,7 @@
       "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:15:31+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -945,7 +1022,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN108XJ0Q6A810C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T23:14:28+00:00",
-      "age_days": 0.52,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -965,83 +1042,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "【シリコンバレー=山田遼太郎】米メタは10日、高性能の人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表した。AIの利用が高額化するなか、大部分が無料で使えるインターネットと同様に低価格化を進め普及を狙う。マーク・ザッカーバーグ最高経営責任者（CEO）が先端AIを「数十億人が使える無料版として提..."
-    },
-    {
-      "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
-      "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-11T08:43:36+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The digital asset ecosystem is facing a reality check as total crypto capitalisation drops 1.24 per cent to US$2.18T over the past 24 hours. This decline reflects a profound shift in investor sentiment rather than a mere technical correction. Market participants now view digital coins through a strictly macroeconomic…"
-    },
-    {
-      "title": "How to choose an AI marketing agency: A practical guide to AI-driven growth",
-      "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-11T03:00:38+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "An AI marketing agency is an agency that uses artificial intelligence as its primary tool for analysing data, generating insights, and running marketing activity. Where a traditional agency relies on manual analysis and periodic reporting, an AI marketing agency works with real-time data, automated experiments, and co…"
-    },
-    {
-      "title": "Good ideas are everywhere, venture capital isn’t",
-      "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-11T01:00:43+00:00",
-      "age_days": 0.45,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: regional",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Investors often say they back exceptional founders and ambitious ideas. In practice, they also invest in the environment surrounding those companies. When Airwallex, founded in Melbourne, made Singapore its global headquarters, the decision was about more than location. The city offered access to regional customers, a…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] systemd: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
