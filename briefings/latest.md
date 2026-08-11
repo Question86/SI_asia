@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T16:11:35+00:00_
+_Generiert: 2026-08-11T16:54:50+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -133,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-11 12:45:12 UTC 2026-08-11 12:45:12 UTC at epicenter Location 7.397°S 130.392°E Depth 30.61 km (19.02 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Testing ads in ChatGPT** — Score 14, observation — [Quelle](https://openai.com/index/testing-ads-in-chatgpt)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-11T10:00:00+00:00`, fetched `2026-08-11T16:54:19+00:00`
+  - Treffer: Datenschutz, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Datenschutz (+6.0); recent (+1.0)
+  - Kurz: OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to choose an AI marketing agency: A practical guide to AI-driven growth** — Score 14, observation — [Quelle](https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-11T03:00:38+00:00`, fetched `2026-08-11T03:37:11+00:00`

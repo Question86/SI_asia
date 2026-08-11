@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:11:35+00:00",
-  "run_id": "2026-08-11T16:11:35+00:00",
+  "generated_at": "2026-08-11T16:54:50+00:00",
+  "run_id": "2026-08-11T16:54:50+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
-    "medium": 28,
+    "medium": 29,
     "observe": 40,
     "source_errors": 0
   },
@@ -625,6 +625,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "645c5d90148b7abb8976"
+      },
+      {
+        "title": "Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-11T10:00:00+00:00",
+        "fetched_at": "2026-08-11T16:54:19+00:00",
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+        "matched_keywords": [
+          "Datenschutz",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); Datenschutz (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6efcb0a7c1b648e98cba"
       },
       {
         "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
@@ -2308,6 +2329,27 @@
       "id": "645c5d90148b7abb8976"
     },
     {
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "fetched_at": "2026-08-11T16:54:19+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "matched_keywords": [
+        "Datenschutz",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); Datenschutz (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6efcb0a7c1b648e98cba"
+    },
+    {
       "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3387,7 +3429,29 @@
       "id": "8fe5c53de442d9e0fa31"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "fetched_at": "2026-08-11T16:54:19+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "matched_keywords": [
+        "Datenschutz",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); Datenschutz (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6efcb0a7c1b648e98cba"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

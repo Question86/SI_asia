@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-11T16:11:35+00:00",
+  "generated_at": "2026-08-11T16:54:50+00:00",
   "topics": {
     "ai": [
       {
@@ -40,6 +40,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739"
       },
       {
+        "title": "Testing ads in ChatGPT",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-11T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/testing-ads-in-chatgpt"
+      },
+      {
         "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T09:56:06+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-11T01:00:43+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/"
-      },
-      {
-        "title": "Vulnérabilité dans Microsoft Office (03 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-03T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0961/"
       }
     ],
     "github": [
