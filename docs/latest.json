@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T21:18:17+00:00",
-  "run_id": "2026-08-11T21:18:17+00:00",
+  "generated_at": "2026-08-11T21:35:02+00:00",
+  "run_id": "2026-08-11T21:35:02+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
-    "medium": 31,
+    "medium": 32,
     "observe": 50,
     "source_errors": 0
   },
@@ -410,6 +410,29 @@
           "LOW"
         ],
         "id": "58b1c4a8d1c71f580f01"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenSSH: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2747",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T21:31:06+00:00",
+        "fetched_at": "2026-08-11T21:34:29+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial of Service und potentiell Codeausführung zu erreichen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "65fa78e16812cd1f213e"
       },
       {
         "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
@@ -2489,6 +2512,29 @@
       "id": "58b1c4a8d1c71f580f01"
     },
     {
+      "title": "[UPDATE] [hoch] OpenSSH: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2747",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T21:31:06+00:00",
+      "fetched_at": "2026-08-11T21:34:29+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial of Service und potentiell Codeausführung zu erreichen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "65fa78e16812cd1f213e"
+    },
+    {
       "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1871",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4181,26 +4227,27 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub Enterprise Server 3.22 release candidate",
-      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
-      "source": "GitHub Changelog Atom",
+      "title": "[UPDATE] [hoch] OpenSSH: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2747",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-11T20:26:26+00:00",
-      "fetched_at": "2026-08-11T21:17:46+00:00",
-      "summary": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to… The post GitHub Enterprise Server 3.22 release candidate appeared first on The GitHub Blog .",
+      "published_at": "2026-08-11T21:31:06+00:00",
+      "fetched_at": "2026-08-11T21:34:29+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSH ausnutzen, um Sicherheitsvorkehrungen zu umgehen, einen Denial of Service und potentiell Codeausführung zu erreichen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Copilot",
-        "GitHub"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub (+2.5); Copilot (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "af0b7165bdb1908c4645"
+      "id": "65fa78e16812cd1f213e"
     }
   ],
   "source_errors": [],
