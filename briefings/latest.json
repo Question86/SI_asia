@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T15:03:53+00:00",
-  "run_id": "2026-08-11T15:03:53+00:00",
+  "generated_at": "2026-08-11T15:27:46+00:00",
+  "run_id": "2026-08-11T15:27:46+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 1,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
     "medium": 28,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -1603,6 +1603,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cc3357baddf3e7d14228"
+      },
+      {
+        "title": "管理職にならないまま45歳になるとどうなる？ マネジメントを避ける若者が陥る「3つの誤解」 [1/2] | ログミーBusiness",
+        "url": "https://logmi.jp/main/management/333602",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-10T19:31:47+00:00",
+        "fetched_at": "2026-08-11T15:27:18+00:00",
+        "summary": "【3行要約】 ・「若者は管理職になりたがらない」と言われますが、実は20代の約3割が昇進を望んでいるという意外な実態があります。 ・廣田文将氏は、全体の8割が拒否しているという思い込みを捨て、「今の仕事はおもしろいが管理職にはなりたくない」層に注目します。 ・潜在的な意欲を持つ層を動かすため、今の組織が...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f3a280c39090be3a080f"
       },
       {
         "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
@@ -3263,6 +3284,27 @@
       "id": "cc3357baddf3e7d14228"
     },
     {
+      "title": "管理職にならないまま45歳になるとどうなる？ マネジメントを避ける若者が陥る「3つの誤解」 [1/2] | ログミーBusiness",
+      "url": "https://logmi.jp/main/management/333602",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T19:31:47+00:00",
+      "fetched_at": "2026-08-11T15:27:18+00:00",
+      "summary": "【3行要約】 ・「若者は管理職になりたがらない」と言われますが、実は20代の約3割が昇進を望んでいるという意外な実態があります。 ・廣田文将氏は、全体の8割が拒否しているという思い込みを捨て、「今の仕事はおもしろいが管理職にはなりたくない」層に注目します。 ・潜在的な意欲を持つ層を動かすため、今の組織が...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f3a280c39090be3a080f"
+    },
+    {
       "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3347,56 +3389,13 @@
   ],
   "new_findings": [
     {
-      "title": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-      "url": "https://36kr.jp/492696/",
+      "title": "管理職にならないまま45歳になるとどうなる？ マネジメントを避ける若者が陥る「3つの誤解」 [1/2] | ログミーBusiness",
+      "url": "https://logmi.jp/main/management/333602",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-11T04:58:42+00:00",
-      "fetched_at": "2026-08-11T15:03:21+00:00",
-      "summary": "中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0683dbc90a5af96b8c91"
-    },
-    {
-      "title": "Per-model token breakdown in the usage report",
-      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-11T14:41:52+00:00",
-      "fetched_at": "2026-08-11T15:03:21+00:00",
-      "summary": "You can now see a per-model breakdown of the tokens behind your AI credits in the usage report. For each model, the AI usage report shows the input, output, cache… The post Per-model token breakdown in the usage report appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed980ffc053bc1738625"
-    },
-    {
-      "title": "義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた",
-      "url": "https://togetter.com/li/2731705",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-11T11:12:46+00:00",
-      "fetched_at": "2026-08-11T15:03:21+00:00",
-      "summary": "山崎はるか @harusanda 義母が キッチンにあるWi-Fiルーターを指して 「この電磁波って健康に問題ないの？」 （ルーターの場所を変えたい） というので 僕「そこ お鍋が吹いてるじゃないですか」 義母「うん、ガスで お湯を沸かしてる」 僕「そこから いま放出されてる電磁波、Wi-Fiの1000倍ですよ」 って言ったら たま...",
+      "published_at": "2026-08-10T19:31:47+00:00",
+      "fetched_at": "2026-08-11T15:27:18+00:00",
+      "summary": "【3行要約】 ・「若者は管理職になりたがらない」と言われますが、実は20代の約3割が昇進を望んでいるという意外な実態があります。 ・廣田文将氏は、全体の8割が拒否しているという思い込みを捨て、「今の仕事はおもしろいが管理職にはなりたくない」層に注目します。 ・潜在的な意欲を持つ層を動かすため、今の組織が...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3408,7 +3407,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f044ce5c381d4529ee91"
+      "id": "f3a280c39090be3a080f"
     }
   ],
   "source_errors": [],
