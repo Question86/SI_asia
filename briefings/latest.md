@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T20:57:45+00:00_
+_Generiert: 2026-08-11T21:18:17+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+81 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
