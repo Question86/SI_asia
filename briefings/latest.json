@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T10:30:16+00:00",
-  "run_id": "2026-08-11T10:30:16+00:00",
+  "generated_at": "2026-08-11T10:50:47+00:00",
+  "run_id": "2026-08-11T10:50:47+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2197,145 +2197,7 @@
       "id": "b5c321a6be65c8c5794c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [hoch] Metabase: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2738",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-11T10:16:07+00:00",
-      "fetched_at": "2026-08-11T10:29:47+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Metabase ausnutzen, um eine SQL-Injection durchzuführen, wodurch er Administratorrechte erhält, oder um vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8ac0f4d182fb7ffa33eb"
-    },
-    {
-      "title": "[NEU] [mittel] Bitwarden: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2737",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-11T10:16:07+00:00",
-      "fetched_at": "2026-08-11T10:29:47+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Bitwarden ausnutzen, um Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f8fc5cb8f33e9ddda053"
-    },
-    {
-      "title": "[NEU] [mittel] Dell Computer (Qualcomm MIPI Camera Driver): Schwachstelle ermöglicht Codeausführung und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2736",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-11T10:16:06+00:00",
-      "fetched_at": "2026-08-11T10:29:47+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Dell Computer ausnutzen, um eine Speicherbeschädigung zu verursachen, was möglicherweise die Ausführung von beliebigem Code ermöglichen oder zu einem Denial-of-Service-Zustand führen kann.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "645c5d90148b7abb8976"
-    },
-    {
-      "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2735",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-11T10:16:06+00:00",
-      "fetched_at": "2026-08-11T10:29:47+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell integrated Dell Remote Access Controller ausnutzen, um einen Denial of Service Angriff durchzuführen und um vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "103d4c69ff9480f75091"
-    },
-    {
-      "title": "Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds",
-      "url": "https://e27.co/ecosystem-roundup-sea-tech-funding-hits-us4-78b-in-july-led-by-mega-rounds-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-11T10:12:10+00:00",
-      "fetched_at": "2026-08-11T10:29:47+00:00",
-      "summary": "Southeast Asia’s tech sector raised US$4.779B across 17 rounds in July 2026, according to Tracxn, the strongest month in the tracked 12-month period, up 25.53% from June and 180.9% year-on-year. Two mega-rounds drove the surge: Kling AI’s US$2.8 billion raise and Ant International’s US$1.2 billion round, together accounting for roughly US$4 billion, or the bulk […] The post Ecosystem Roundup: SEA tech funding hits U…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0fc95f412fb4f621db1d"
-    },
-    {
-      "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
-      "url": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-11T01:35:52+00:00",
-      "fetched_at": "2026-08-11T10:29:47+00:00",
-      "summary": "高度なAIモデルの性能を伸ばすには大量の質の高い訓練データが必要です。中国のAI開発を阻む問題としてはアメリカによる先端AIチップの輸出規制が注目されてきましたが、中国のAI専門家は中国語の訓練データ不足が次の大きなボトルネックになりうると警告しています。 China faces new AI bottleneck as it runs out of ...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dae0d145b2ffbf3d230c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
