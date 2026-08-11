@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-11T05:04:56+00:00_
+_Generated: 2026-08-11T05:31:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-11T05:04:56+00:00_
 - url: https://github.com/semantica-agi/semantica
 - summary: Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge…
 
-### 3. In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead
+### 3. Crypto’s new threat is not a hack, but a knock at the door
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-08-11T05:17:43+00:00`
+- url: https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/
+- summary: For years, the most visible face of crypto crime was digital: hacked exchanges, phishing pages, ransomware gangs, and investment scams moving money across wallets at internet speed. But a more intimate and frightening category of crime is now accelerating: ph…
+
+### 4. In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-11T03:15:31+00:00`
 - url: https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/
 - summary: Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, ent…
-
-### 4. How to choose an AI marketing agency: A practical guide to AI-driven growth
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-08-11T03:00:38+00:00`
-- url: https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/
-- summary: An AI marketing agency is an agency that uses artificial intelligence as its primary tool for analysing data, generating insights, and running marketing activity. Where a traditional agency relies on manual analysis and periodic reporting, an AI marketing age…
 
 ### 5. 威茗國際｜旅行社管理系統 - SQL Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS

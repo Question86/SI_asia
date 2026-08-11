@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T05:04:56+00:00_
+_Generiert: 2026-08-11T05:31:47+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+18 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by des…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Crypto’s new threat is not a hack, but a knock at the door** — Score 17, risk — [Quelle](https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-11T05:17:43+00:00`, fetched `2026-08-11T05:31:15+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
+  - Kurz: For years, the most visible face of crypto crime was digital: hacked exchanges, phishing pages, ransomware gangs, and investment scams moving money across wallets at internet speed. But a more intimate and frightening category of crime is now accelerating: physical attacks on crypto holders. A new Chainalysis report estimates that more than US$30 million has […] The post Crypto’s new threat is not a hack, but a knoc…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead** — Score 16, observation — [Quelle](https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-11T03:15:31+00:00`, fetched `2026-08-11T03:37:11+00:00`
@@ -136,6 +145,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
