@@ -118,6 +118,30 @@
     "id": "e5cc537fcffe6f1511d2"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-11T08:57:05+00:00",
+    "fetched_at": "2026-08-11T09:01:33+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise das Auslösen eines Denial-of-Service-Zustands, die Umgehung von Sicherheitsmaßnahmen oder das Verursachen von Speicherbeschädigungen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f0eb31da7ec8bf4d55a2"
+  },
+  {
     "title": "In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead",
     "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -141,6 +165,29 @@
     "id": "ede2d734e874567789d8"
   },
   {
+    "title": "[UPDATE] [kritisch] Metabase: Schwachstelle ermöglicht SQL-Injection und Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2715",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-11T08:57:26+00:00",
+    "fetched_at": "2026-08-11T09:01:33+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Metabase ausnutzen, um einen SQL-Injection Angriff durchzuführen, und um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9aebefad2fcf53c0d29c"
+  },
+  {
     "title": "How to choose an AI marketing agency: A practical guide to AI-driven growth",
     "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -161,6 +208,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c66f3026a004419e4109"
+  },
+  {
+    "title": "M 4.6 - 99 km SSE of Sand Point, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-11T09:01:13.852+00:00",
+    "fetched_at": "2026-08-11T09:01:33+00:00",
+    "summary": "ShakeMap - III DYFI? - II Time 2026-08-11 08:49:24 UTC 2026-08-11 08:49:24 UTC at epicenter Location 54.490°N 159.997°W Depth 36.93 km (22.94 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f5d785cf908cfde2437e"
   },
   {
     "title": "威茗國際｜旅行社管理系統 - SQL Injection",
@@ -435,6 +519,48 @@
     "id": "05d3a8280d7e493fe173"
   },
   {
+    "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
+    "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260811/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-11T08:43:36+00:00",
+    "fetched_at": "2026-08-11T09:01:33+00:00",
+    "summary": "The digital asset ecosystem is facing a reality check as total crypto capitalisation drops 1.24 per cent to US$2.18T over the past 24 hours. This decline reflects a profound shift in investor sentiment rather than a mere technical correction. Market participants now view digital coins through a strictly macroeconomic lens. They act as highly sensitive […] The post Is the US$63,750 line the only thing standing betwee…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Watchgraph:capitals_power_centers"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "capitals_power_centers"
+    ],
+    "watchgraph_reasons": [
+      "capitals_power_centers: capital"
+    ],
+    "market_context": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "RHM.DE",
+      "BA",
+      "SPY",
+      "QQQ",
+      "DAX",
+      "EWU",
+      "INDA",
+      "EWJ",
+      "EWY",
+      "EWA",
+      "EWC",
+      "EWZ"
+    ],
+    "id": "be4b1fabee75c402c2cd"
+  },
+  {
     "title": "Sicherheitslücken: Angreifer können Wachdienst von ClamAV stören",
     "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html",
     "source": "heise Security Alerts",
@@ -453,6 +579,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ae19726b1053cb9aa534"
+  },
+  {
+    "title": "マイクロソフトと「ウィンウィンの関係」だった国産「一太郎」…日本語の優れた変換能力で「ワードは敵ではない」ように見えた",
+    "url": "https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-11T02:37:06+00:00",
+    "fetched_at": "2026-08-11T09:01:33+00:00",
+    "summary": "【読売新聞】 ＯＳ（基本ソフト）を握る者がソフトを制す――。１９８０～９０年代に隆盛を誇った国民的ワープロソフト「一太郎」。日本を代表する国産ソフトがマイクロソフトの「ワード」に逆転を許した背景には、当時、ＯＳ市場の９割以上を握って",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c44e21d191a2eae1d03"
   },
   {
     "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",

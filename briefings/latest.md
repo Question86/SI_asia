@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T08:38:13+00:00_
+_Generiert: 2026-08-11T09:02:05+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+27 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -92,6 +92,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
   - Kurz: For years, the most visible face of crypto crime was digital: hacked exchanges, phishing pages, ransomware gangs, and investment scams moving money across wallets at internet speed. But a more intimate and frightening category of crime is now accelerating: physical attacks on crypto holders. A new Chainalysis report estimates that more than US$30 million has […] The post Crypto’s new threat is not a hack, but a knoc…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-11T08:57:05+00:00`, fetched `2026-08-11T09:01:33+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise das Auslösen eines Denial-of-Service-Zustands, die Umgehung von Sicherheitsmaßnahmen oder das Verursachen von Speicherbeschädigungen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead** — Score 16, observation — [Quelle](https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-11T03:15:31+00:00`, fetched `2026-08-11T03:37:11+00:00`
@@ -100,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, enter the biggest one first, let the rest follow. Indonesia at […] The post In Southeast Asia, going global used to mean picking the biggest market, that logic is…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [kritisch] Metabase: Schwachstelle ermöglicht SQL-Injection und Privilegieneskalation** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2715)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-11T08:57:26+00:00`, fetched `2026-08-11T09:01:33+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Metabase ausnutzen, um einen SQL-Injection Angriff durchzuführen, und um seine Privilegien zu erhöhen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to choose an AI marketing agency: A practical guide to AI-driven growth** — Score 14, observation — [Quelle](https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -113,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.6 - 99 km SSE of Sand Point, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-11T09:01:13.852+00:00`, fetched `2026-08-11T09:01:33+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III DYFI? - II Time 2026-08-11 08:49:24 UTC 2026-08-11 08:49:24 UTC at epicenter Location 54.490°N 159.997°W Depth 36.93 km (22.94 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **威茗國際｜旅行社管理系統 - SQL Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-08-11T02:44:00+00:00`, fetched `2026-08-11T05:04:27+00:00`
@@ -203,14 +230,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/11/2000000495/)
+- **マイクロソフトと「ウィンウィンの関係」だった国産「一太郎」…日本語の優れた変換能力で「ワードは敵ではない」ように見えた** — Score 5, observation — [Quelle](https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T01:03:24+00:00`, fetched `2026-08-11T08:16:40+00:00`
+  - Zeit: published `2026-08-11T02:37:06+00:00`, fetched `2026-08-11T09:01:33+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条...
+  - Kurz: 【読売新聞】 ＯＳ（基本ソフト）を握る者がソフトを制す――。１９８０～９０年代に隆盛を誇った国民的ワープロソフト「一太郎」。日本を代表する国産ソフトがマイクロソフトの「ワード」に逆転を許した背景には、当時、ＯＳ市場の９割以上を握って
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
