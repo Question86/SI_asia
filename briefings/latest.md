@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T04:07:22+00:00_
+_Generiert: 2026-08-11T04:39:19+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -136,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-11 03:11:19 UTC 2026-08-11 03:11:19 UTC at epicenter Location 23.598°S 179.776°W Depth 548.45 km (340.79 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How Claude marks AI-generated content | Claude Help Center** — Score 9, observation — [Quelle](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T01:19:34+00:00`, fetched `2026-08-11T04:38:48+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: How Claude marks AI-generated content | Claude Help Center
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ** — Score 5, observation — [Quelle](https://bookmark.hatenastaff.com/entry/2026/08/11/092529)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-11T00:51:21+00:00`, fetched `2026-08-11T01:27:12+00:00`
@@ -144,15 +153,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-10T23:30:58+00:00`, fetched `2026-08-11T02:15:19+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Filipino virtual assistants are dominating the global remote workforce** — Score 4, observation — [Quelle](https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
