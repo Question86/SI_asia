@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-11T14:15:46+00:00_
+_Generated: 2026-08-11T15:03:53+00:00_
 
 ## Status
-- status: `warning`
-- findings: `64`
+- status: `normal`
+- findings: `67`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-11T14:15:46+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh
 - summary: ShakeMap - III DYFI? - II Time 2026-08-11 08:49:24 UTC 2026-08-11 08:49:24 UTC at epicenter Location 54.490°N 159.997°W Depth 36.93 km (22.94 mi)
 
-### 7. 威茗國際｜旅行社管理系統 - SQL Injection
+### 7. 小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-11T04:58:42+00:00`
+- url: https://36kr.jp/492696/
+- summary: 中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...
+
+### 8. 威茗國際｜旅行社管理系統 - SQL Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-08-11T02:44:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html
 - summary: 威茗國際｜旅行社管理系統 - SQL Injection
-
-### 8. Good ideas are everywhere, venture capital isn’t
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-08-11T01:00:43+00:00`
-- url: https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/
-- summary: Investors often say they back exceptional founders and ambitious ideas. In practice, they also invest in the environment surrounding those companies. When Airwallex, founded in Melbourne, made Singapore its global headquarters, the decision was about more tha…
 
 END OF DOCUMENT

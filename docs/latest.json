@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-11T14:15:46+00:00",
-  "run_id": "2026-08-11T14:15:46+00:00",
+  "generated_at": "2026-08-11T15:03:53+00:00",
+  "run_id": "2026-08-11T15:03:53+00:00",
   "date": "2026-08-11",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "new_relevant_findings": 3,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 28,
-    "observe": 36,
-    "source_errors": 1
+    "observe": 39,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -803,6 +803,28 @@
         "id": "f5d785cf908cfde2437e"
       },
       {
+        "title": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+        "url": "https://36kr.jp/492696/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T04:58:42+00:00",
+        "fetched_at": "2026-08-11T15:03:21+00:00",
+        "summary": "中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0683dbc90a5af96b8c91"
+      },
+      {
         "title": "威茗國際｜旅行社管理系統 - SQL Injection",
         "url": "https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html",
         "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -1371,6 +1393,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ae19726b1053cb9aa534"
+      },
+      {
+        "title": "Per-model token breakdown in the usage report",
+        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-11T14:41:52+00:00",
+        "fetched_at": "2026-08-11T15:03:21+00:00",
+        "summary": "You can now see a per-model breakdown of the tokens behind your AI credits in the usage report. For each model, the AI usage report shows the input, output, cache… The post Per-model token breakdown in the usage report appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ed980ffc053bc1738625"
+      },
+      {
+        "title": "義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた",
+        "url": "https://togetter.com/li/2731705",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T11:12:46+00:00",
+        "fetched_at": "2026-08-11T15:03:21+00:00",
+        "summary": "山崎はるか @harusanda 義母が キッチンにあるWi-Fiルーターを指して 「この電磁波って健康に問題ないの？」 （ルーターの場所を変えたい） というので 僕「そこ お鍋が吹いてるじゃないですか」 義母「うん、ガスで お湯を沸かしてる」 僕「そこから いま放出されてる電磁波、Wi-Fiの1000倍ですよ」 って言ったら たま...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f044ce5c381d4529ee91"
       },
       {
         "title": "「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう",
@@ -2397,6 +2461,28 @@
       "id": "f5d785cf908cfde2437e"
     },
     {
+      "title": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+      "url": "https://36kr.jp/492696/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T04:58:42+00:00",
+      "fetched_at": "2026-08-11T15:03:21+00:00",
+      "summary": "中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0683dbc90a5af96b8c91"
+    },
+    {
       "title": "威茗國際｜旅行社管理系統 - SQL Injection",
       "url": "https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -2967,6 +3053,48 @@
       "id": "ae19726b1053cb9aa534"
     },
     {
+      "title": "Per-model token breakdown in the usage report",
+      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-11T14:41:52+00:00",
+      "fetched_at": "2026-08-11T15:03:21+00:00",
+      "summary": "You can now see a per-model breakdown of the tokens behind your AI credits in the usage report. For each model, the AI usage report shows the input, output, cache… The post Per-model token breakdown in the usage report appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed980ffc053bc1738625"
+    },
+    {
+      "title": "義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた",
+      "url": "https://togetter.com/li/2731705",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:12:46+00:00",
+      "fetched_at": "2026-08-11T15:03:21+00:00",
+      "summary": "山崎はるか @harusanda 義母が キッチンにあるWi-Fiルーターを指して 「この電磁波って健康に問題ないの？」 （ルーターの場所を変えたい） というので 僕「そこ お鍋が吹いてるじゃないですか」 義母「うん、ガスで お湯を沸かしてる」 僕「そこから いま放出されてる電磁波、Wi-Fiの1000倍ですよ」 って言ったら たま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f044ce5c381d4529ee91"
+    },
+    {
       "title": "「美空ひばりが2位というのは当時の空気ではわかる」昭和の嫌いなタレントワースト15に様々な反応…当時の背景を知ると納得する部分もありそう",
       "url": "https://togetter.com/li/2731721",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3217,15 +3345,73 @@
       "id": "8fe5c53de442d9e0fa31"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "title": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+      "url": "https://36kr.jp/492696/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "published_at": "2026-08-11T04:58:42+00:00",
+      "fetched_at": "2026-08-11T15:03:21+00:00",
+      "summary": "中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0683dbc90a5af96b8c91"
+    },
+    {
+      "title": "Per-model token breakdown in the usage report",
+      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-11T14:41:52+00:00",
+      "fetched_at": "2026-08-11T15:03:21+00:00",
+      "summary": "You can now see a per-model breakdown of the tokens behind your AI credits in the usage report. For each model, the AI usage report shows the input, output, cache… The post Per-model token breakdown in the usage report appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed980ffc053bc1738625"
+    },
+    {
+      "title": "義母がキッチンにあるWi-Fiルーターを見て「この電磁波って健康に問題ないの？」というので「そこの鍋から放出されてる電磁波はWi-Fiよりずっと強い」と教えたらたまげてた",
+      "url": "https://togetter.com/li/2731705",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:12:46+00:00",
+      "fetched_at": "2026-08-11T15:03:21+00:00",
+      "summary": "山崎はるか @harusanda 義母が キッチンにあるWi-Fiルーターを指して 「この電磁波って健康に問題ないの？」 （ルーターの場所を変えたい） というので 僕「そこ お鍋が吹いてるじゃないですか」 義母「うん、ガスで お湯を沸かしてる」 僕「そこから いま放出されてる電磁波、Wi-Fiの1000倍ですよ」 って言ったら たま...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f044ce5c381d4529ee91"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

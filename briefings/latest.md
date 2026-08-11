@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T14:15:46+00:00_
+_Generiert: 2026-08-11T15:03:53+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+67 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -163,6 +163,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - II Time 2026-08-11 08:49:24 UTC 2026-08-11 08:49:24 UTC at epicenter Location 54.490°N 159.997°W Depth 36.93 km (22.94 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア** — Score 11, observation — [Quelle](https://36kr.jp/492696/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T04:58:42+00:00`, fetched `2026-08-11T15:03:21+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている。一方で普及の陰で、「買った後に維持できるのか」という現実的な課題も浮かび上がってきた。 約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **威茗國際｜旅行社管理系統 - SQL Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-08-11T02:44:00+00:00`, fetched `2026-08-11T05:04:27+00:00`
@@ -226,15 +235,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=山田遼太郎】米メタは10日、高性能の人工知能（AI）の技術を外部に公開し、一部を無償提供すると発表した。AIの利用が高額化するなか、大部分が無料で使えるインターネットと同様に低価格化を進め普及を狙う。マーク・ザッカーバーグ最高経営責任者（CEO）が先端AIを「数十億人が使える無料版として提...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった** — Score 10, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/10/2000000490/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-10T09:55:35+00:00`, fetched `2026-08-11T04:06:49+00:00`
-  - Treffer: Hatena, hotentry, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Google Android (04 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0963/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-08-04T00:00:00+00:00`, fetched `2026-08-11T13:45:00+00:00`
@@ -290,7 +290,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
