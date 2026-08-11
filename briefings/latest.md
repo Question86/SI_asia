@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T23:41:19+00:00_
+_Generiert: 2026-08-11T23:59:50+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+90 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -142,6 +142,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, enter the biggest one first, let the rest follow. Indonesia at […] The post In Southeast Asia, going global used to mean picking the biggest market, that logic is…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 166 km SSW of Abepura, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk41)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-11T23:50:42.040+00:00`, fetched `2026-08-11T23:59:21+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-11 23:33:15 UTC 2026-08-11 23:33:15 UTC at epicenter Location 3.971°S 140.029°E Depth 37.03 km (23.01 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 51 km E of Tobelo, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk1y)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-11T20:29:58.040+00:00`, fetched `2026-08-11T20:35:41+00:00`
