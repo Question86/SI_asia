@@ -1,14 +1,26 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T19:10:41+00:00_
+_Generiert: 2026-08-11T19:35:35+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+75 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-11`
+  - Kurz: Known exploited vulnerability. Added 2026-08-11. Due 2026-08-14. Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability
+- **CISA KEV: CVE-2026-68820 Microsoft Windows Ancillary Function Driver for WinSock** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-11`
+  - Kurz: Known exploited vulnerability. Added 2026-08-11. Due 2026-08-25. Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability
+- **CISA KEV: CVE-2026-72898 Metabase Metabase** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-11`
+  - Kurz: Known exploited vulnerability. Added 2026-08-11. Due 2026-08-14. Metabase SQL Injection Vulnerability
 - **CISA KEV: CVE-2026-8037 Progress LoadMaster** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
@@ -17,18 +29,6 @@ _Generiert: 2026-08-11T19:10:41+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-- **CISA KEV: CVE-2026-18556 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-04`
-  - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **CISA KEV: CVE-2026-34486 Apache Tomcat** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-04`
-  - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. Apache Tomcat Missing Encryption of Sensitive Data Vulnerability
-- **CISA KEV: CVE-2026-9198 IBM Langflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-04`
-  - Kurz: Known exploited vulnerability. Added 2026-08-04. Due 2026-08-07. IBM Langflow Code Injection Vulnerability
 - **GDACS: Green flood alert in Australia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104085)
   - Quelle: GDACS
   - Zeit: ``
