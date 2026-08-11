@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T11:29:07+00:00_
+_Generiert: 2026-08-11T11:48:10+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+52 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -132,15 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 英華達｜全家寶 Cloud - Insecure Direct Object Reference
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Vietnam’s “born global” startups are rewriting the playbook** — Score 10, risk — [Quelle](https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/)
+- **Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery** — Score 10, observation — [Quelle](https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-11T01:45:50+00:00`, fetched `2026-08-11T02:15:19+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founded startups with global operations hit an all-time high, and the deal count went […] The post Vietnam’s “born global” startups are rewriting the playbook appeare…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Zeit: published `2026-08-11T11:31:49+00:00`, fetched `2026-08-11T11:47:38+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: Vietnam’s startup ecosystem has spent the past few years proving it can produce consumer apps, fintech platforms and edutech companies at regional scale. N2TP is attempting something less common, and arguably harder: building AI infrastructure for scientific research, where outputs are not measured in clicks or transactions, but in hypotheses, experiments, papers and patents. The […] The post Touchstone backs Vietna…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している** — Score 10, observation — [Quelle](https://gigazine.net/news/20260811-china-ai-chinese-training-data/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-11T01:35:52+00:00`, fetched `2026-08-11T10:29:47+00:00`
