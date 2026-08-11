@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T08:17:09+00:00_
+_Generiert: 2026-08-11T08:38:13+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Public Health (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-08-11T08:30:00+00:00`, fetched `2026-08-11T08:37:41+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-11T03:41:08.040+00:00`, fetched `2026-08-11T04:06:49+00:00`
@@ -131,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s technology funding market had one of its strongest months in recent memory in July 2026, as startups in the region raised US$4.779 billion across 17 rounds, according to data from Tracxn. The headline figure marks a 25.53 per cent increase from June 2026 and a sharp 180.9 per cent rise from July 2025. […] The post Mega deals push SEA tech funding to 12-month high in July 2026 appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitslücken: Angreifer können Wachdienst von ClamAV stören** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-11T08:12:00.000+00:00`, fetched `2026-08-11T08:37:41+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/11/2000000495/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
