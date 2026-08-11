@@ -1,137 +1,44 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-11T00:31:32+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-08-11T00:54:35+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 0
+    "observe": 2
   },
-  "source_errors_count": 2,
-  "top_signals": [],
+  "source_errors_count": 0,
+  "top_signals": [
+    {
+      "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-10T01:03:19+00:00",
+      "relevance_score": 5,
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
+      "summary": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
+      "section": "observe"
+    },
+    {
+      "title": "AWS認定を1年延長できる維持制度の登録、延長方法について - Qiita",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-09T02:02:54+00:00",
+      "relevance_score": 5,
+      "url": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 待望のAWS認定資格の維持制度がベータでリリースされました！ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/ 2026 年…",
+      "section": "observe"
+    }
+  ],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 52.95,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 53.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-        "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-20T02:49:51+00:00",
-        "age_days": 51.91,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "aging penalty -16.0 for 51.9d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-20T02:49:51+00:00",
-        "age_days": 51.91,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "aging penalty -16.0 for 51.9d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-        "url": "https://toyokeizai.net/articles/-/948348?display=b",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-20T02:49:51+00:00",
-        "age_days": 51.91,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0",
-          "aging penalty -16.0 for 51.9d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
