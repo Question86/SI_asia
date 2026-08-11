@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T11:48:10+00:00",
-  "run_id": "2026-08-11T11:48:10+00:00",
+  "generated_at": "2026-08-11T12:04:42+00:00",
+  "run_id": "2026-08-11T12:04:42+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 4,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
-    "medium": 24,
-    "observe": 28,
+    "medium": 27,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -289,6 +289,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ede2d734e874567789d8"
+      },
+      {
+        "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1871",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T11:56:11+00:00",
+        "fetched_at": "2026-08-11T12:04:12+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um erweiterte Rechte zu erlangen – möglicherweise sogar Administratorrechte –, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder andere, nicht näher definierte Angriffe durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e5d73eebf1997734dcba"
+      },
+      {
+        "title": "[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0923",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T11:56:09+00:00",
+        "fetched_at": "2026-08-11T12:04:12+00:00",
+        "summary": "Ein entfernter Angreifer kann eine Schwachstelle in libarchive ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "283c73154d11916bc562"
+      },
+      {
+        "title": "[UPDATE] [mittel] Dovecot: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0891",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T11:56:08+00:00",
+        "fetched_at": "2026-08-11T12:04:12+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Dovecot ausnutzen, um SQL-Injection-Angriffe durchzuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "517f4a14e6165e2ac3ed"
       },
       {
         "title": "[NEU] [hoch] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -1151,6 +1220,27 @@
         "id": "ae19726b1053cb9aa534"
       },
       {
+        "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/08/11/5382.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T08:52:44+00:00",
+        "fetched_at": "2026-08-11T12:04:12+00:00",
+        "summary": "Anthropicが、AIモデル Claudeが生成する文章に電子透かしを導入する計画を明らかにしました。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0dc875ceec9231d549d"
+      },
+      {
         "title": "マイクロソフトと「ウィンウィンの関係」だった国産「一太郎」…日本語の優れた変換能力で「ワードは敵ではない」ように見えた",
         "url": "https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1601,6 +1691,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ede2d734e874567789d8"
+    },
+    {
+      "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1871",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:56:11+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um erweiterte Rechte zu erlangen – möglicherweise sogar Administratorrechte –, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder andere, nicht näher definierte Angriffe durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e5d73eebf1997734dcba"
+    },
+    {
+      "title": "[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0923",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:56:09+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in libarchive ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "283c73154d11916bc562"
+    },
+    {
+      "title": "[UPDATE] [mittel] Dovecot: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0891",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:56:08+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dovecot ausnutzen, um SQL-Injection-Angriffe durchzuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "517f4a14e6165e2ac3ed"
     },
     {
       "title": "[NEU] [hoch] TYPO3 Core: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -2461,6 +2620,27 @@
       "id": "ae19726b1053cb9aa534"
     },
     {
+      "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/08/11/5382.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T08:52:44+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Anthropicが、AIモデル Claudeが生成する文章に電子透かしを導入する計画を明らかにしました。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0dc875ceec9231d549d"
+    },
+    {
       "title": "マイクロソフトと「ウィンウィンの関係」だった国産「一太郎」…日本語の優れた変換能力で「ワードは敵ではない」ように見えた",
       "url": "https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2651,34 +2831,82 @@
   ],
   "new_findings": [
     {
-      "title": "Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery",
-      "url": "https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1871",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-11T11:31:49+00:00",
-      "fetched_at": "2026-08-11T11:47:38+00:00",
-      "summary": "Vietnam’s startup ecosystem has spent the past few years proving it can produce consumer apps, fintech platforms and edutech companies at regional scale. N2TP is attempting something less common, and arguably harder: building AI infrastructure for scientific research, where outputs are not measured in clicks or transactions, but in hypotheses, experiments, papers and patents. The […] The post Touchstone backs Vietna…",
+      "published_at": "2026-08-11T11:56:11+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um erweiterte Rechte zu erlangen – möglicherweise sogar Administratorrechte –, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder andere, nicht näher definierte Angriffe durchzuführen.",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "49d38b2e73833dfde401"
+      "id": "e5d73eebf1997734dcba"
     },
     {
-      "title": "「異質なAIバブルの正体」 投資していない庶民もこうして火傷する | 崩壊したら過去最大級の危機になり得るワケ",
-      "url": "https://courrier.jp/news/archives/455535/",
+      "title": "[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0923",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:56:09+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Ein entfernter Angreifer kann eine Schwachstelle in libarchive ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "283c73154d11916bc562"
+    },
+    {
+      "title": "[UPDATE] [mittel] Dovecot: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0891",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T11:56:08+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dovecot ausnutzen, um SQL-Injection-Angriffe durchzuführen, die Authentifizierung zu umgehen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "517f4a14e6165e2ac3ed"
+    },
+    {
+      "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/08/11/5382.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-11T00:54:29+00:00",
-      "fetched_at": "2026-08-11T11:47:38+00:00",
-      "summary": "AIバブルはシリコンバレーのテック企業の間だけで完結していると、その特異な「閉鎖性」が指摘されている。つまり、一般の個人投資家たちは「蚊帳の外」に置かれているわけだが、この巨大バブルが崩壊したとき、普通の人々も深刻な痛手を免れない理由を米誌が分析する。 市場関係者に広がる不安 米国の株式市場は人工知...",
+      "published_at": "2026-08-11T08:52:44+00:00",
+      "fetched_at": "2026-08-11T12:04:12+00:00",
+      "summary": "Anthropicが、AIモデル Claudeが生成する文章に電子透かしを導入する計画を明らかにしました。",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2690,7 +2918,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6ab1c7565585a3b74fa0"
+      "id": "b0dc875ceec9231d549d"
     }
   ],
   "source_errors": [],
