@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-11T04:27:37Z",
+  "generated_at": "2026-08-11T04:54:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 17,
+    "dynamics": 18,
     "bands": {
       "extreme": 2,
       "strong": 2,
       "watch": 2,
-      "quiet": 11
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "strong": 4,
       "watch": 2,
-      "quiet": 11
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -52,7 +52,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -80,7 +80,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.1,
+      "age_days": 53.12,
       "topics": [
         "ai"
       ],
@@ -109,7 +109,7 @@
       "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:30:51+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -134,7 +134,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T09:55:35+00:00",
-      "age_days": 0.77,
+      "age_days": 0.79,
       "topics": [
         "general"
       ],
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-11T03:41:08.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -182,7 +182,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T01:03:19+00:00",
-      "age_days": 1.14,
+      "age_days": 1.16,
       "topics": [
         "general"
       ],
@@ -206,7 +206,7 @@
       "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:15:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -232,7 +232,7 @@
       "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:00:38+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -258,7 +258,7 @@
       "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:00:43+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -284,7 +284,7 @@
       "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T00:51:21+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -308,7 +308,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T23:30:58+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -332,7 +332,7 @@
       "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:45:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -353,11 +353,37 @@
       "summary": "For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founded startups with global operations hit an all-time high, and…"
     },
     {
+      "title": "How Claude marks AI-generated content | Claude Help Center",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-11T01:19:34+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "How Claude marks AI-generated content | Claude Help Center"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.07,
+      "age_days": 52.09,
       "topics": [
         "general"
       ],
@@ -382,7 +408,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.07,
+      "age_days": 52.09,
       "topics": [
         "general"
       ],
@@ -407,7 +433,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.07,
+      "age_days": 52.09,
       "topics": [
         "ai"
       ],
@@ -434,7 +460,7 @@
       "url": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T02:02:54+00:00",
-      "age_days": 2.1,
+      "age_days": 2.12,
       "topics": [
         "ai"
       ],
