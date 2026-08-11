@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-11T10:09:53+00:00_
+_Generated: 2026-08-11T10:30:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `42`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-11T10:09:53+00:00_
 - url: https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/
 - summary: For years, the most visible face of crypto crime was digital: hacked exchanges, phishing pages, ransomware gangs, and investment scams moving money across wallets at internet speed. But a more intimate and frightening category of crime is now accelerating: ph…
 
-### 5. M 4.6 - 99 km SSE of Sand Point, Alaska
+### 5. Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-08-11T10:12:10+00:00`
+- url: https://e27.co/ecosystem-roundup-sea-tech-funding-hits-us4-78b-in-july-led-by-mega-rounds-20260811/
+- summary: Southeast Asia’s tech sector raised US$4.779B across 17 rounds in July 2026, according to Tracxn, the strongest month in the tracked 12-month period, up 25.53% from June and 180.9% year-on-year. Two mega-rounds drove the surge: Kling AI’s US$2.8 billion raise…
+
+### 6. M 4.6 - 99 km SSE of Sand Point, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-11T09:01:13.852+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh
 - summary: ShakeMap - III DYFI? - II Time 2026-08-11 08:49:24 UTC 2026-08-11 08:49:24 UTC at epicenter Location 54.490°N 159.997°W Depth 36.93 km (22.94 mi)
 
-### 6. 威茗國際｜旅行社管理系統 - SQL Injection
+### 7. 威茗國際｜旅行社管理系統 - SQL Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-08-11T02:44:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html
 - summary: 威茗國際｜旅行社管理系統 - SQL Injection
 
-### 7. Good ideas are everywhere, venture capital isn’t
+### 8. Good ideas are everywhere, venture capital isn’t
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-11T01:00:43+00:00`
 - url: https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/
 - summary: Investors often say they back exceptional founders and ambitious ideas. In practice, they also invest in the environment surrounding those companies. When Airwallex, founded in Melbourne, made Singapore its global headquarters, the decision was about more tha…
-
-### 8. 英華達｜全家寶 Cloud - Insecure Direct Object Reference
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-08-10T11:25:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11096-0f578-1.html
-- summary: 英華達｜全家寶 Cloud - Insecure Direct Object Reference
 
 END OF DOCUMENT

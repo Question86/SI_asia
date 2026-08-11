@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T10:09:53+00:00_
+_Generiert: 2026-08-11T10:30:16+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+42 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds** — Score 12, observation — [Quelle](https://e27.co/ecosystem-roundup-sea-tech-funding-hits-us4-78b-in-july-led-by-mega-rounds-20260811/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-11T10:12:10+00:00`, fetched `2026-08-11T10:29:47+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s tech sector raised US$4.779B across 17 rounds in July 2026, according to Tracxn, the strongest month in the tracked 12-month period, up 25.53% from June and 180.9% year-on-year. Two mega-rounds drove the surge: Kling AI’s US$2.8 billion raise and Ant International’s US$1.2 billion round, together accounting for roughly US$4 billion, or the bulk […] The post Ecosystem Roundup: SEA tech funding hits U…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 99 km SSE of Sand Point, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-11T09:01:13.852+00:00`, fetched `2026-08-11T09:01:33+00:00`
@@ -132,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For a long time, the playbook for a Vietnamese startup was pretty predictable: win at home first, get the model working, and think about going abroad once things felt stable. Somewhere in 2025, that stopped being the default. Capital going into Vietnam-founded startups with global operations hit an all-time high, and the deal count went […] The post Vietnam’s “born global” startups are rewriting the playbook appeare…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している** — Score 10, observation — [Quelle](https://gigazine.net/news/20260811-china-ai-chinese-training-data/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T01:35:52+00:00`, fetched `2026-08-11T10:29:47+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: 高度なAIモデルの性能を伸ばすには大量の質の高い訓練データが必要です。中国のAI開発を阻む問題としてはアメリカによる先端AIチップの輸出規制が注目されてきましたが、中国のAI専門家は中国語の訓練データ不足が次の大きなボトルネックになりうると警告しています。 China faces new AI bottleneck as it runs out of ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった** — Score 10, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/10/2000000490/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-10T09:55:35+00:00`, fetched `2026-08-11T04:06:49+00:00`
@@ -177,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: How Claude marks AI-generated content | Claude Help Center
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Mega deals push SEA tech funding to 12-month high in July 2026** — Score 8, observation — [Quelle](https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-11T06:52:18+00:00`, fetched `2026-08-11T06:56:39+00:00`
-  - Treffer: APAC Trend Radar, funding, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s technology funding market had one of its strongest months in recent memory in July 2026, as startups in the region raised US$4.779 billion across 17 rounds, according to data from Tracxn. The headline figure marks a 25.53 per cent increase from June 2026 and a sharp 180.9 per cent rise from July 2025. […] The post Mega deals push SEA tech funding to 12-month high in July 2026 appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar** — Score 7, observation — [Quelle](https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-11T09:52:00.000+00:00`, fetched `2026-08-11T10:09:20+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マイクロソフトと「ウィンウィンの関係」だった国産「一太郎」…日本語の優れた変換能力で「ワードは敵ではない」ように見えた** — Score 5, observation — [Quelle](https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T02:37:06+00:00`, fetched `2026-08-11T09:01:33+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【読売新聞】 ＯＳ（基本ソフト）を握る者がソフトを制す――。１９８０～９０年代に隆盛を誇った国民的ワープロソフト「一太郎」。日本を代表する国産ソフトがマイクロソフトの「ワード」に逆転を許した背景には、当時、ＯＳ市場の９割以上を握って
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
