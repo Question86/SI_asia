@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T09:26:15+00:00",
-  "run_id": "2026-08-11T09:26:15+00:00",
+  "generated_at": "2026-08-11T10:09:53+00:00",
+  "run_id": "2026-08-11T10:09:53+00:00",
   "date": "2026-08-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 8,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 7,
-    "observe": 21,
+    "medium": 13,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -126,6 +126,30 @@
         "id": "73cae648b89d2d7c6c49"
       },
       {
+        "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:56:07+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e8e33eb9998d9ef17d32"
+      },
+      {
         "title": "Crypto’s new threat is not a hack, but a knock at the door",
         "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -146,6 +170,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e5cc537fcffe6f1511d2"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7ef0f02d86b7577ed9bc"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:56:05+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d578c01c0e97be961d8"
       },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -193,6 +265,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ede2d734e874567789d8"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "70a5b814c30c938ed613"
+      },
+      {
+        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f016d6f76efc8112db1f"
+      },
+      {
+        "title": "[NEU] [hoch] Hashicorp Vault und Vault Enterprise: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:51:06+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Hashicorp Vault und Vault Enterpriseausnutzen, um Informationen offenzulegen, Autorisierungsmechanismen zu umgehen und Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "282f256f206acc99950d"
       },
       {
         "title": "[UPDATE] [kritisch] Metabase: Schwachstelle ermöglicht SQL-Injection und Privilegieneskalation",
@@ -430,6 +571,41 @@
         "id": "037c5ec83ff990a8ff2e"
       },
       {
+        "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+        "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-11T10:00:00+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
+        "matched_keywords": [
+          "AI/KI",
+          "Watchgraph:agriculture_food_fertilizer"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "agriculture_food_fertilizer"
+        ],
+        "watchgraph_reasons": [
+          "agriculture_food_fertilizer: corn"
+        ],
+        "market_context": [
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "id": "721aa2a46e231d23f69f"
+      },
+      {
         "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -549,6 +725,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05d3a8280d7e493fe173"
+      },
+      {
+        "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
+        "url": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-11T09:52:00.000+00:00",
+        "fetched_at": "2026-08-11T10:09:20+00:00",
+        "summary": "IBMs Datenbanksystem Db2 ist über mehrere Schwachstellen angreifbar. Davon sind Client- und Serverversionen betroffen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7f7feec3e67015b3e99d"
       },
       {
         "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
@@ -879,6 +1075,30 @@
       "id": "73cae648b89d2d7c6c49"
     },
     {
+      "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:07+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e8e33eb9998d9ef17d32"
+    },
+    {
       "title": "Crypto’s new threat is not a hack, but a knock at the door",
       "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -899,6 +1119,54 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e5cc537fcffe6f1511d2"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ef0f02d86b7577ed9bc"
+    },
+    {
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:05+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d578c01c0e97be961d8"
     },
     {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
@@ -946,6 +1214,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ede2d734e874567789d8"
+    },
+    {
+      "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70a5b814c30c938ed613"
+    },
+    {
+      "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f016d6f76efc8112db1f"
+    },
+    {
+      "title": "[NEU] [hoch] Hashicorp Vault und Vault Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:51:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Hashicorp Vault und Vault Enterpriseausnutzen, um Informationen offenzulegen, Autorisierungsmechanismen zu umgehen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "282f256f206acc99950d"
     },
     {
       "title": "[UPDATE] [kritisch] Metabase: Schwachstelle ermöglicht SQL-Injection und Privilegieneskalation",
@@ -1181,6 +1518,41 @@
       "id": "037c5ec83ff990a8ff2e"
     },
     {
+      "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+      "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
+      "matched_keywords": [
+        "AI/KI",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "721aa2a46e231d23f69f"
+    },
+    {
       "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -1300,6 +1672,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "05d3a8280d7e493fe173"
+    },
+    {
+      "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
+      "url": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:52:00.000+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "IBMs Datenbanksystem Db2 ist über mehrere Schwachstellen angreifbar. Davon sind Client- und Serverversionen betroffen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f7feec3e67015b3e99d"
     },
     {
       "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
@@ -1533,25 +1925,200 @@
   ],
   "new_findings": [
     {
-      "title": "Amazon EC2 introduces application status checks - AWS",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-11T00:44:31+00:00",
-      "fetched_at": "2026-08-11T09:25:39+00:00",
-      "summary": "The session catalog is live. Explore what's waiting for you",
+      "published_at": "2026-08-11T09:56:07+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "51c39ee2b1935cf78e8a"
+      "id": "e8e33eb9998d9ef17d32"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7ef0f02d86b7577ed9bc"
+    },
+    {
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:05+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d578c01c0e97be961d8"
+    },
+    {
+      "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "70a5b814c30c938ed613"
+    },
+    {
+      "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f016d6f76efc8112db1f"
+    },
+    {
+      "title": "[NEU] [hoch] Hashicorp Vault und Vault Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:51:06+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Hashicorp Vault und Vault Enterpriseausnutzen, um Informationen offenzulegen, Autorisierungsmechanismen zu umgehen und Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "282f256f206acc99950d"
+    },
+    {
+      "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+      "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job.",
+      "matched_keywords": [
+        "AI/KI",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "721aa2a46e231d23f69f"
+    },
+    {
+      "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
+      "url": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-11T09:52:00.000+00:00",
+      "fetched_at": "2026-08-11T10:09:20+00:00",
+      "summary": "IBMs Datenbanksystem Db2 ist über mehrere Schwachstellen angreifbar. Davon sind Client- und Serverversionen betroffen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7f7feec3e67015b3e99d"
     }
   ],
   "source_errors": [],

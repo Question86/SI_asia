@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-11T09:26:15+00:00_
+_Generated: 2026-08-11T10:09:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `36`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-11T09:26:15+00:00_
 - url: https://github.com/semantica-agi/semantica
 - summary: Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge…
 
-### 3. Crypto’s new threat is not a hack, but a knock at the door
+### 3. [NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-08-11T09:56:07+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734
+- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+
+### 4. Crypto’s new threat is not a hack, but a knock at the door
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-08-11T05:17:43+00:00`
 - url: https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/
 - summary: For years, the most visible face of crypto crime was digital: hacked exchanges, phishing pages, ransomware gangs, and investment scams moving money across wallets at internet speed. But a more intimate and frightening category of crime is now accelerating: ph…
-
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-11T08:57:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise das Auslösen eines Denial-of-Service-Zustands, die Umgehung von Sicherheitsmaßnahmen oder das Verursachen v…
 
 ### 5. M 4.6 - 99 km SSE of Sand Point, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour

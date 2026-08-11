@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-11T09:26:15+00:00",
+  "generated_at": "2026-08-11T10:09:53+00:00",
   "topics": {
     "ai": [
       {
@@ -33,6 +33,13 @@
         "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/"
       },
       {
+        "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733"
+      },
+      {
         "title": "How to choose an AI marketing agency: A practical guide to AI-driven growth",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-11T03:00:38+00:00",
@@ -54,25 +61,18 @@
         "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/"
       },
       {
+        "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-08-11T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
         "source": "ECB Press Releases Speeches Interviews",
         "published_at": "2026-08-11T08:30:00+00:00",
         "relevance_score": 9,
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html"
-      },
-      {
-        "title": "How Claude marks AI-generated content | Claude Help Center",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-11T01:19:34+00:00",
-        "relevance_score": 9,
-        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
-      },
-      {
-        "title": "Mega deals push SEA tech funding to 12-month high in July 2026",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-11T06:52:18+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/"
       }
     ],
     "github": [
@@ -142,6 +142,13 @@
         "url": "https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/"
       },
       {
+        "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-11T09:52:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html"
+      },
+      {
         "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-11T08:43:36+00:00",
@@ -158,6 +165,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:07+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734"
+      },
+      {
         "title": "Crypto’s new threat is not a hack, but a knock at the door",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-11T05:17:43+00:00",
@@ -165,11 +179,46 @@
         "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T08:57:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733"
+      },
+      {
+        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731"
+      },
+      {
+        "title": "[NEU] [hoch] Hashicorp Vault und Vault Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729"
       },
       {
         "title": "[UPDATE] [kritisch] Metabase: Schwachstelle ermöglicht SQL-Injection und Privilegieneskalation",
@@ -184,29 +233,57 @@
         "published_at": "2026-08-11T02:44:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html"
-      },
-      {
-        "title": "英華達｜全家寶 Cloud - Insecure Direct Object Reference",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-10T11:25:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11096-0f578-1.html"
-      },
-      {
-        "title": "Sicherheitslücken: Angreifer können Wachdienst von ClamAV stören",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-11T08:12:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:07+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734"
+      },
       {
         "title": "Crypto’s new threat is not a hack, but a knock at the door",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-11T05:17:43+00:00",
         "relevance_score": 17,
         "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733"
+      },
+      {
+        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731"
+      },
+      {
+        "title": "[NEU] [hoch] Hashicorp Vault und Vault Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T09:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729"
       },
       {
         "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
