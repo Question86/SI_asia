@@ -1,30 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-11T09:46:38Z",
+  "generated_at": "2026-08-11T10:16:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 40,
     "bands": {
       "extreme": 2,
-      "krass": 4,
-      "strong": 4,
-      "watch": 3,
+      "krass": 9,
+      "strong": 6,
+      "watch": 4,
       "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 3,
+      "strong": 17,
+      "watch": 4,
       "quiet": 19
     }
   },
   "top_dynamics": [
     {
+      "title": "How one VC burns through hundreds of millions of tokens a day to find the next unicorn",
+      "url": "https://restofworld.org/2026/activate-interview-vc-sovereign-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-08-11T10:00:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "The investor behind a $75-million AI-focused fund explains why reading research papers and testing frontier models has become part of his job."
+    },
+    {
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -53,7 +79,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -77,11 +103,142 @@
       "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning ov…"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Grafana: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2732",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T09:56:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände."
+    },
+    {
+      "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T09:56:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [hoch] Hashicorp Vault und Vault Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2729",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T09:51:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Hashicorp Vault und Vault Enterpriseausnutzen, um Informationen offenzulegen, Autorisierungsmechanismen zu umgehen und Daten zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [kritisch] Metabase: Schwachstelle ermöglicht SQL-Injection und Privilegieneskalation",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2715",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T08:57:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -107,7 +264,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-11T08:57:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -132,7 +289,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11098-0fb4a-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-11T02:44:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -158,7 +315,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11096-0f578-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-10T11:25:00+00:00",
-      "age_days": 0.93,
+      "age_days": 0.95,
       "topics": [
         "security"
       ],
@@ -184,7 +341,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.33,
+      "age_days": 53.35,
       "topics": [
         "ai"
       ],
@@ -209,11 +366,37 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [hoch] Pega Platform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2734",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-11T09:56:07+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Pega Platform ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "Crypto’s new threat is not a hack, but a knock at the door",
       "url": "https://e27.co/cryptos-new-threat-is-not-a-hack-but-a-knock-at-the-door-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T05:17:43+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security",
@@ -242,7 +425,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-11T08:12:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -267,7 +450,7 @@
       "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:30:51+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -288,11 +471,35 @@
       "summary": "I have worked in customer service, online support, and team leadership for years, and if there is one thing I have learned about Filipino virtual assistants, it is that we rarely respond to a new challenge by saying, “That is not my job.” More often, we say, “I’ll try.” It may sound like a simple […] The post How Fili…"
     },
     {
+      "title": "IBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
+      "url": "https://www.heise.de/news/IBM-Db2-Sicherheitsluecke-macht-Passwoerter-im-Klartext-einsehbar-11409950.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-11T09:52:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "IBMs Datenbanksystem Db2 ist über mehrere Schwachstellen angreifbar. Davon sind Client- und Serverversionen betroffen."
+    },
+    {
       "title": "M 4.6 - 99 km SSE of Sand Point, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjwh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-11T09:01:13.852+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -317,7 +524,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T09:55:35+00:00",
-      "age_days": 0.99,
+      "age_days": 1.01,
       "topics": [
         "general"
       ],
@@ -341,7 +548,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-11T03:41:08.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -365,7 +572,7 @@
       "url": "https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T02:37:06+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -389,7 +596,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T01:03:24+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -413,7 +620,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T01:03:19+00:00",
-      "age_days": 1.36,
+      "age_days": 1.38,
       "topics": [
         "general"
       ],
@@ -437,7 +644,7 @@
       "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:15:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "macro"
@@ -463,7 +670,7 @@
       "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T08:43:36+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -487,7 +694,7 @@
       "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:00:38+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -513,7 +720,7 @@
       "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:00:43+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -539,7 +746,7 @@
       "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T00:51:21+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -563,7 +770,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T23:30:58+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -587,7 +794,7 @@
       "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:45:50+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -612,7 +819,7 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-08-11T08:30:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -638,7 +845,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T01:19:34+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -664,7 +871,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.29,
+      "age_days": 52.31,
       "topics": [
         "general"
       ],
@@ -689,7 +896,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.29,
+      "age_days": 52.31,
       "topics": [
         "general"
       ],
@@ -714,7 +921,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.29,
+      "age_days": 52.31,
       "topics": [
         "ai"
       ],
@@ -741,7 +948,7 @@
       "url": "https://e27.co/mega-deals-push-sea-tech-funding-to-12-month-high-in-july-2026-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T06:52:18+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -767,7 +974,7 @@
       "url": "https://e27.co/the-next-ai-payments-boom-may-happen-in-the-back-office-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T04:39:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -792,7 +999,7 @@
       "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T00:44:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -817,7 +1024,7 @@
       "url": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T02:02:54+00:00",
-      "age_days": 2.32,
+      "age_days": 2.34,
       "topics": [
         "ai"
       ],
@@ -838,5 +1045,5 @@
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 待望のAWS認定資格の維持制度がベータでリリースされました！ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/ 2026 年 6 月 2..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “paperclipai/paperclip” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “How one VC burns through hundreds of millions of tokens a day to find the next unicorn” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
