@@ -1,19 +1,59 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-11T03:00:46+00:00",
+  "generated_at": "2026-08-11T03:37:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 4,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
-    "medium": 0,
+    "medium": 4,
     "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "paperclipai/paperclip",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 21,
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "The open-source app everyone uses to manage agents at work Quickstart · Docs · GitHub · Discord · Twitter · Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee , Pa…",
+      "section": "medium"
+    },
+    {
+      "title": "semantica-agi/semantica",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 19,
+      "url": "https://github.com/semantica-agi/semantica",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge…",
+      "section": "medium"
+    },
+    {
+      "title": "In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T03:15:31+00:00",
+      "relevance_score": 16,
+      "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
+      "summary": "Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, ent…",
+      "section": "medium"
+    },
+    {
+      "title": "How to choose an AI marketing agency: A practical guide to AI-driven growth",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T03:00:38+00:00",
+      "relevance_score": 14,
+      "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
+      "summary": "An AI marketing agency is an agency that uses artificial intelligence as its primary tool for analysing data, generating insights, and running marketing activity. Where a traditional agency relies on manual analysis and periodic reporting, an AI marketing age…",
+      "section": "medium"
+    },
     {
       "title": "Good ideas are everywhere, venture capital isn’t",
       "source": "e27 Asia Startup and Tech Feed",
@@ -60,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 53.05,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 53.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "How Filipino virtual assistants are dominating the global remote workforce",
-        "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-11T01:30:51+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, remote",
-          "security high-signal: rce, remote"
-        ],
-        "summary": "I have worked in customer service, online support, and team leadership for years, and if there is one thing I have learned about Filipino virtual assistants, it is that we rarely respond to a new challenge by saying, “That is not my job.” More often, we say, “I’ll try.” It may sound like a simple […] The post How Fili…"
-      },
-      {
-        "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
-        "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-10T01:03:19+00:00",
-        "age_days": 1.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】"
-      },
-      {
-        "title": "Good ideas are everywhere, venture capital isn’t",
-        "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-11T01:00:43+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 6.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: regional",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Investors often say they back exceptional founders and ambitious ideas. In practice, they also invest in the environment surrounding those companies. When Airwallex, founded in Melbourne, made Singapore its global headquarters, the decision was about more than location. The city offered access to regional customers, a…"
-      },
-      {
-        "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
-        "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-11T00:51:21+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き..."
-      }
-    ]
-  }
+  ]
 }

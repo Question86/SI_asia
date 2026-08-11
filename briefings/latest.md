@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T03:00:46+00:00_
+_Generiert: 2026-08-11T03:37:45+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Good ideas are everywhere, venture capital isn’t“ aus e27 Asia Startup and Tech Feed (Score 11, observation).
+11 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,7 +61,42 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **paperclipai/paperclip** — Score 21, opportunity — [Quelle](https://github.com/paperclipai/paperclip)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-11T03:37:11+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: The open-source app everyone uses to manage agents at work Quickstart · Docs · GitHub · Discord · Twitter · Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee , Paperclip is the company . Paperclip is a Node.js server and React UI that orchestrates a team of AI agents to run a business. Bring your own agents, assign goals…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **semantica-agi/semantica** — Score 19, opportunity — [Quelle](https://github.com/semantica-agi/semantica)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-11T03:37:11+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Open Source, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by des…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead** — Score 16, observation — [Quelle](https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-11T03:15:31+00:00`, fetched `2026-08-11T03:37:11+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, enter the biggest one first, let the rest follow. Indonesia at […] The post In Southeast Asia, going global used to mean picking the biggest market, that logic is…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How to choose an AI marketing agency: A practical guide to AI-driven growth** — Score 14, observation — [Quelle](https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-11T03:00:38+00:00`, fetched `2026-08-11T03:37:11+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: An AI marketing agency is an agency that uses artificial intelligence as its primary tool for analysing data, generating insights, and running marketing activity. Where a traditional agency relies on manual analysis and periodic reporting, an AI marketing agency works with real-time data, automated experiments, and continuous optimisation. The result is shorter cycles, a lower […] The post How to choose an AI market…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -122,7 +157,8 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 
