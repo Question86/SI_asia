@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-11T12:45:06+00:00_
+_Generiert: 2026-08-11T13:13:03+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „paperclipai/paperclip“ aus GitHub Trending RSS All Languages Daily (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -212,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday: SAP Commerce Cloud komplett kompromittierbar** — Score 3, observation — [Quelle](https://www.heise.de/news/Patchday-SAP-Commerce-Cloud-komplett-kompromittierbar-11410169.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-11T12:54:00.000+00:00`, fetched `2026-08-11T13:12:31+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph demote portfolio (x0.45)
+  - Kurz: SAP schließt in seinem Softwareproduktportfolio mehrere unter anderem kritische Sicherheitslücken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
