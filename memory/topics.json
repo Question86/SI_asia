@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-11T10:50:47+00:00",
+  "generated_at": "2026-08-11T11:10:04+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-08-11T03:15:31+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739"
       },
       {
         "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-11T01:45:50+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/"
-      },
-      {
-        "title": "中国のAI開発は「中国語の訓練データ不足」という新たなボトルネックに直面している",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-11T01:35:52+00:00",
-        "relevance_score": 10,
-        "url": "https://gigazine.net/news/20260811-china-ai-chinese-training-data/"
       }
     ],
     "github": [
@@ -207,6 +207,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2680"
       },
       {
+        "title": "[NEU] [hoch] HCL BigFix Mobile: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2741"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739"
+      },
+      {
+        "title": "[NEU] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2740"
+      },
+      {
         "title": "[NEU] [mittel] Bitwarden: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T10:16:07+00:00",
@@ -219,27 +240,6 @@
         "published_at": "2026-08-11T10:16:07+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2738"
-      },
-      {
-        "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2735"
-      },
-      {
-        "title": "[NEU] [mittel] Dell Computer (Qualcomm MIPI Camera Driver): Schwachstelle ermöglicht Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2736"
-      },
-      {
-        "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733"
       }
     ],
     "geopolitics": [
@@ -272,6 +272,27 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2730"
       },
       {
+        "title": "[NEU] [hoch] HCL BigFix Mobile: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2741"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2739"
+      },
+      {
+        "title": "[NEU] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-11T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2740"
+      },
+      {
         "title": "[NEU] [mittel] Bitwarden: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-11T10:16:07+00:00",
@@ -291,27 +312,6 @@
         "published_at": "2026-08-11T10:16:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2735"
-      },
-      {
-        "title": "[NEU] [mittel] Dell Computer (Qualcomm MIPI Camera Driver): Schwachstelle ermöglicht Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T10:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2736"
-      },
-      {
-        "title": "[NEU] [mittel] Apache Airflow Provider: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2733"
-      },
-      {
-        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-11T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2731"
       }
     ],
     "general": [
