@@ -1,26 +1,84 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-11T03:09:37Z",
+  "generated_at": "2026-08-11T03:50:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 15,
     "bands": {
+      "extreme": 2,
       "strong": 2,
-      "quiet": 9
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "quiet": 9
+      "strong": 4,
+      "quiet": 11
     }
   },
   "top_dynamics": [
+    {
+      "title": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-11T03:37:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "The open-source app everyone uses to manage agents at work Quickstart · Docs · GitHub · Discord · Twitter · Website Paperclip is the app people use to manage AI agents for work. Open-source orchestration for teams of AI agents. If OpenClaw is an employee , Paperclip is the company . Paperclip is a Node.js server and R…"
+    },
+    {
+      "title": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-11T03:37:11+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning ov…"
+    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.05,
+      "age_days": 53.08,
       "topics": [
         "ai"
       ],
@@ -39,7 +97,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 53.0d old signal",
+        "aging penalty -8.0 for 53.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -49,7 +107,7 @@
       "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:30:51+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -74,7 +132,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T01:03:19+00:00",
-      "age_days": 1.09,
+      "age_days": 1.12,
       "topics": [
         "general"
       ],
@@ -94,11 +152,63 @@
       "summary": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】"
     },
     {
+      "title": "In Southeast Asia, going global used to mean picking the biggest market, that logic is already dead",
+      "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-11T03:15:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Much of my work now involves helping companies decide where and how to grow across Asia, and connecting founders across the region. Expansion questions reach me often, and most people still bring the model I was handed years ago: rank the markets by size, enter the biggest one first, let the rest follow. Indonesia at…"
+    },
+    {
+      "title": "How to choose an AI marketing agency: A practical guide to AI-driven growth",
+      "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-11T03:00:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "An AI marketing agency is an agency that uses artificial intelligence as its primary tool for analysing data, generating insights, and running marketing activity. Where a traditional agency relies on manual analysis and periodic reporting, an AI marketing agency works with real-time data, automated experiments, and co…"
+    },
+    {
       "title": "Good ideas are everywhere, venture capital isn’t",
       "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:00:43+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -124,7 +234,7 @@
       "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T00:51:21+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -148,7 +258,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T23:30:58+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -172,7 +282,7 @@
       "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:45:50+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -197,7 +307,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.01,
+      "age_days": 52.04,
       "topics": [
         "general"
       ],
@@ -222,7 +332,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.01,
+      "age_days": 52.04,
       "topics": [
         "general"
       ],
@@ -247,7 +357,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.01,
+      "age_days": 52.04,
       "topics": [
         "ai"
       ],
@@ -274,7 +384,7 @@
       "url": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T02:02:54+00:00",
-      "age_days": 2.05,
+      "age_days": 2.07,
       "topics": [
         "ai"
       ],
@@ -295,5 +405,5 @@
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 待望のAWS認定資格の維持制度がベータでリリースされました！ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/ 2026 年 6 月 2..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “paperclipai/paperclip” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
