@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-11T00:54:35+00:00",
+  "generated_at": "2026-08-11T01:27:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Good ideas are everywhere, venture capital isn’t",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-11T01:00:43+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
+      "summary": "Investors often say they back exceptional founders and ambitious ideas. In practice, they also invest in the environment surrounding those companies. When Airwallex, founded in Melbourne, made Singapore its global headquarters, the decision was about more tha…",
+      "section": "observe"
+    },
+    {
+      "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T00:51:21+00:00",
+      "relevance_score": 5,
+      "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
+      "summary": "いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き...",
+      "section": "observe"
+    },
     {
       "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
       "source": "Hatena Bookmark Hotentry IT",
