@@ -1,17 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-11T03:50:24Z",
+  "generated_at": "2026-08-11T04:27:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 17,
     "bands": {
       "extreme": 2,
       "strong": 2,
+      "watch": 2,
       "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 4,
+      "watch": 2,
       "quiet": 11
     }
   },
@@ -21,7 +23,7 @@
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -50,7 +52,7 @@
       "url": "https://github.com/semantica-agi/semantica",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-11T03:37:11+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -78,7 +80,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.08,
+      "age_days": 53.1,
       "topics": [
         "ai"
       ],
@@ -107,7 +109,7 @@
       "url": "https://e27.co/how-filipino-virtual-assistants-are-dominating-the-global-remote-workforce-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:30:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -128,11 +130,59 @@
       "summary": "I have worked in customer service, online support, and team leadership for years, and if there is one thing I have learned about Filipino virtual assistants, it is that we rarely respond to a new challenge by saying, “That is not my job.” More often, we say, “I’ll try.” It may sound like a simple […] The post How Fili…"
     },
     {
+      "title": "韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-10T09:55:35+00:00",
+      "age_days": 0.77,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を..."
+    },
+    {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjvb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-11T03:41:08.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-11 03:11:19 UTC 2026-08-11 03:11:19 UTC at epicenter Location 23.598°S 179.776°W Depth 548.45 km (340.79 mi)"
+    },
+    {
       "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
       "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T01:03:19+00:00",
-      "age_days": 1.12,
+      "age_days": 1.14,
       "topics": [
         "general"
       ],
@@ -156,7 +206,7 @@
       "url": "https://e27.co/in-southeast-asia-going-global-used-to-mean-picking-the-biggest-market-that-logic-is-already-dead-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:15:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -182,7 +232,7 @@
       "url": "https://e27.co/how-to-choose-an-ai-marketing-agency-a-practical-guide-to-ai-driven-growth-20260807/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T03:00:38+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -208,7 +258,7 @@
       "url": "https://e27.co/good-ideas-are-everywhere-venture-capital-isnt-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:00:43+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -234,7 +284,7 @@
       "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T00:51:21+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -258,7 +308,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-10T23:30:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -282,7 +332,7 @@
       "url": "https://e27.co/vietnams-born-global-startups-are-rewriting-the-playbook-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-11T01:45:50+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -307,7 +357,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.04,
+      "age_days": 52.07,
       "topics": [
         "general"
       ],
@@ -323,7 +373,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 52.0d old signal"
+        "aging penalty -16.0 for 52.1d old signal"
       ],
       "summary": ""
     },
@@ -332,7 +382,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.04,
+      "age_days": 52.07,
       "topics": [
         "general"
       ],
@@ -348,7 +398,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 52.0d old signal"
+        "aging penalty -16.0 for 52.1d old signal"
       ],
       "summary": ""
     },
@@ -357,7 +407,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.04,
+      "age_days": 52.07,
       "topics": [
         "ai"
       ],
@@ -374,7 +424,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 52.0d old signal",
+        "aging penalty -16.0 for 52.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -384,7 +434,7 @@
       "url": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-09T02:02:54+00:00",
-      "age_days": 2.07,
+      "age_days": 2.1,
       "topics": [
         "ai"
       ],
