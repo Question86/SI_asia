@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T09:55:35+00:00_
+_Generiert: 2026-08-12T10:20:32+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+66 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other is in Singapore. He pitches a regional VC firm. […] The post 5 US venture capital shifts every Southeast Asian founder should be tracking right now appeared fi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2784)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T10:01:06+00:00`, fetched `2026-08-12T10:19:59+00:00`
+  - Treffer: BSI, CERT-Bund, Exchange, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Exchange ausnutzen, um erweiterte Rechte – einschließlich SYSTEM-Rechte – zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen, Spoofing-Angriffe durchzuführen und einen Denial-of-Service-Zustand auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-12T08:01:05+00:00`, fetched `2026-08-12T08:36:42+00:00`
@@ -47,6 +56,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco ASA (Adaptive Security Appliance) und Cisco Secure Firewall Threat Defense ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why we should all be worried about AI in elections** — Score 17, observation — [Quelle](https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-12T10:00:00+00:00`, fetched `2026-08-12T10:19:59+00:00`
+  - Treffer: AI/KI, Macro/Policy, Watchgraph:elections_unrest, Watchgraph:narrative_social_reputation
+  - Watchgraph: elections_unrest, narrative_social_reputation
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, META, GOOGL, MSFT, RDDT, SNAP, BA, PINS
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph modules elections_unrest, narrative_social_reputation (+6.0)
+  - Kurz: Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The photographer who bet his business on the technology trying to replace him** — Score 17, observation — [Quelle](https://e27.co/the-photographer-who-bet-his-business-on-the-technology-trying-to-replace-him-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -75,15 +93,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Red Hat Enterprise Linux (open-iscsi): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T09:01:07+00:00`, fetched `2026-08-12T09:02:39+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **If AI can’t find your startup, does your startup exist?** — Score 16, observation — [Quelle](https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T01:30:32+00:00`, fetched `2026-08-12T01:38:42+00:00`
@@ -150,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **葆光系統｜POS餐飲系統 - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11100-407c5-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-12T06:41:00+00:00`, fetched `2026-08-12T10:19:59+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 葆光系統｜POS餐飲系統 - Missing Authentication
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Beyond the social media ban: What Singapore can learn from the next phase of online child safety** — Score 11, observation — [Quelle](https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T06:14:52+00:00`, fetched `2026-08-12T06:28:01+00:00`
@@ -240,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: In a city where a five-minute delay can be the difference between keeping or losing a customer, ride-hailing is often won in the invisible layer behind the app: maps, traffic data, dispatch logic and estimated arrival times. Singapore-based Ryde is now trying to improve that layer through a strategic partnership with HERE Technologies, the mapping […] The post Ryde taps HERE to improve ride-hailing routes and ETAs i…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/archives)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-12T06:00:00+00:00`, fetched `2026-08-12T06:28:01+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

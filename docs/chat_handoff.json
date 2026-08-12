@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-12T09:55:35+00:00",
+  "generated_at": "2026-08-12T10:20:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "new_relevant_findings": 9,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
-    "medium": 34,
-    "observe": 23
+    "medium": 41,
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T10:01:06+00:00",
+      "relevance_score": 18,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2784",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Exchange ausnutzen, um erweiterte Rechte – einschließlich SYSTEM-Rechte – zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder…",
+      "section": "medium"
+    },
+    {
       "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft Windows 10, Microsoft Windows Server 2019, Microsoft Windows Server 2022, Microsoft Exchange, Microsoft Wind…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Cisco ASA (Adaptive Security Appliance) und Secure Firewall Threat Defense: Schwachstelle ermöglicht Denial of Service",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T07:56:05+00:00",
-      "relevance_score": 18,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2755",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco ASA (Adaptive Security Appliance) und Cisco Secure Firewall Threat Defense ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T09:01:07+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, exploitation, ivanti",
-          "security high-signal: active, exploitation, ivanti"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren."
-      },
-      {
-        "title": "[NEU] [hoch] Insyde UEFI Firmware (InsydeH2O): Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2777",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T09:31:05+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Insyde UEFI Firmware ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] ILIAS: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2774",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T09:06:06+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Code auszuführen, SQL-Injection durchzuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand herbeizuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Creative Cloud (Lightroom Classic): Mehrere Schwachstellen ermöglichen Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2773",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T09:06:06+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud (Lightroom Classic) ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T09:01:07+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Intel PROSet Wireless WiFi Software ausnutzen, um seine Privilegien zu erhöhen, Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
-      }
-    ]
-  }
+  ]
 }

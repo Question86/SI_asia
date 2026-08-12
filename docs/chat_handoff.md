@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T09:55:35+00:00_
+_Generated: 2026-08-12T10:20:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `57`
+- findings: `66`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-12T09:55:35+00:00_
 - url: https://e27.co/5-us-venture-capital-shifts-every-southeast-asian-founder-should-be-tracking-right-now-20260811/
 - summary: Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other…
 
-### 3. [NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen
+### 3. [NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-08-12T10:01:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2784
+- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Exchange ausnutzen, um erweiterte Rechte – einschließlich SYSTEM-Rechte – zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder…
+
+### 4. [NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-08-12T08:01:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft Windows 10, Microsoft Windows Server 2019, Microsoft Windows Server 2022, Microsoft Exchange, Microsoft Wind…
-
-### 4. [NEU] [hoch] Cisco ASA (Adaptive Security Appliance) und Secure Firewall Threat Defense: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-08-12T07:56:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2755
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco ASA (Adaptive Security Appliance) und Cisco Secure Firewall Threat Defense ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. 「ジムを予約して」と頼んだだけのAIが、なぜ他人の予約を消したのか？｜中島聡
 - source: Hatena Bookmark Hotentry IT
