@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T13:47:34+00:00",
-  "run_id": "2026-08-12T13:47:34+00:00",
+  "generated_at": "2026-08-12T14:18:06+00:00",
+  "run_id": "2026-08-12T14:18:06+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 1,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 58,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -1955,6 +1955,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ed1ba99a20d4d6258fc"
+      },
+      {
+        "title": "ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に",
+        "url": "https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-12T13:07:16+00:00",
+        "fetched_at": "2026-08-12T14:17:34+00:00",
+        "summary": "イギリス海軍の管理下にある海兵隊が使用する無人偵察艇の「K3スカウト」に搭載されていたスパイカメラが、中国に信号を送信していることが明らかになりました。これを受け、イギリス海軍はカメラのインターネット接続機能を無効化しています。 Spy cameras on Navy drones secretly sent data to China https://www.tel...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab74f2e733cb44a9e3af"
       },
       {
         "title": "Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
@@ -4194,6 +4215,27 @@
       "id": "2ed1ba99a20d4d6258fc"
     },
     {
+      "title": "ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に",
+      "url": "https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T13:07:16+00:00",
+      "fetched_at": "2026-08-12T14:17:34+00:00",
+      "summary": "イギリス海軍の管理下にある海兵隊が使用する無人偵察艇の「K3スカウト」に搭載されていたスパイカメラが、中国に信号を送信していることが明らかになりました。これを受け、イギリス海軍はカメラのインターネット接続機能を無効化しています。 Spy cameras on Navy drones secretly sent data to China https://www.tel...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab74f2e733cb44a9e3af"
+    },
+    {
       "title": "Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
       "source": "heise Security Alerts",
@@ -4503,7 +4545,29 @@
       "id": "a8eb93aa3f46d3024e44"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に",
+      "url": "https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T13:07:16+00:00",
+      "fetched_at": "2026-08-12T14:17:34+00:00",
+      "summary": "イギリス海軍の管理下にある海兵隊が使用する無人偵察艇の「K3スカウト」に搭載されていたスパイカメラが、中国に信号を送信していることが明らかになりました。これを受け、イギリス海軍はカメラのインターネット接続機能を無効化しています。 Spy cameras on Navy drones secretly sent data to China https://www.tel...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab74f2e733cb44a9e3af"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
