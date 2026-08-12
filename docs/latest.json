@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T17:43:54+00:00",
-  "run_id": "2026-08-12T17:43:54+00:00",
+  "generated_at": "2026-08-12T18:05:38+00:00",
+  "run_id": "2026-08-12T18:05:38+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 94
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "new_relevant_findings": 1,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 0,
     "medium": 58,
-    "observe": 36,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -1955,6 +1955,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ed1ba99a20d4d6258fc"
+      },
+      {
+        "title": "Your contributors are AI-first now. Is your project?",
+        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-12T18:00:08+00:00",
+        "fetched_at": "2026-08-12T18:05:08+00:00",
+        "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1b6722d470f3c302a186"
       },
       {
         "title": "ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に",
@@ -4257,6 +4278,27 @@
       "id": "2ed1ba99a20d4d6258fc"
     },
     {
+      "title": "Your contributors are AI-first now. Is your project?",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-12T18:00:08+00:00",
+      "fetched_at": "2026-08-12T18:05:08+00:00",
+      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1b6722d470f3c302a186"
+    },
+    {
       "title": "ドローンのカメラが中国のIPアドレスに信号を送信していることが判明、イギリス海軍がカメラのインターネット接続機能を無効化しなければいけない事態に",
       "url": "https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4629,7 +4671,29 @@
       "id": "a8eb93aa3f46d3024e44"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Your contributors are AI-first now. Is your project?",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-12T18:00:08+00:00",
+      "fetched_at": "2026-08-12T18:05:08+00:00",
+      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1b6722d470f3c302a186"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
