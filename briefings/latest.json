@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T23:38:32+00:00",
-  "run_id": "2026-08-12T23:38:32+00:00",
+  "generated_at": "2026-08-12T23:56:44+00:00",
+  "run_id": "2026-08-12T23:56:44+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 107
+      "configured_public_sources_only": 108
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 107,
-    "displayed_findings": 107,
+    "new_relevant_findings": 1,
+    "today_file_total": 108,
+    "displayed_findings": 108,
     "high": 0,
     "medium": 61,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -2347,6 +2347,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d737ccf74035918db6e2"
+      },
+      {
+        "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
+        "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-12T14:56:27+00:00",
+        "fetched_at": "2026-08-12T23:56:14+00:00",
+        "summary": "米Googleは8月12日、紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布、スーツケースなどに取り付け、持ち物の位置を「Find Hub」アプリで確認できる。日本では単品5010円、4個セットが1万6940円で、11月に発売予定だ。 Bluetoothの通信範囲内なら、タグのスピーカーから音を鳴らして探せるほか、タグのボタンでス...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc09a88dabd31dfdf405"
       },
       {
         "title": "https://www.mhlw.go.jp/content/12602000/001715120.pdf",
@@ -4980,6 +5001,27 @@
       "id": "d737ccf74035918db6e2"
     },
     {
+      "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T14:56:27+00:00",
+      "fetched_at": "2026-08-12T23:56:14+00:00",
+      "summary": "米Googleは8月12日、紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布、スーツケースなどに取り付け、持ち物の位置を「Find Hub」アプリで確認できる。日本では単品5010円、4個セットが1万6940円で、11月に発売予定だ。 Bluetoothの通信範囲内なら、タグのスピーカーから音を鳴らして探せるほか、タグのボタンでス...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc09a88dabd31dfdf405"
+    },
+    {
       "title": "https://www.mhlw.go.jp/content/12602000/001715120.pdf",
       "url": "https://www.mhlw.go.jp/content/12602000/001715120.pdf",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5291,7 +5333,29 @@
       "id": "a7913b71be8574d12234"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T14:56:27+00:00",
+      "fetched_at": "2026-08-12T23:56:14+00:00",
+      "summary": "米Googleは8月12日、紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布、スーツケースなどに取り付け、持ち物の位置を「Find Hub」アプリで確認できる。日本では単品5010円、4個セットが1万6940円で、11月に発売予定だ。 Bluetoothの通信範囲内なら、タグのスピーカーから音を鳴らして探せるほか、タグのボタンでス...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc09a88dabd31dfdf405"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
