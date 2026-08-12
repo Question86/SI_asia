@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T05:24:42+00:00_
+_Generiert: 2026-08-12T05:57:09+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+25 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -75,14 +75,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Red Hat OpenShift (oauth-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2749)
+- **[UPDATE] [niedrig] CPython: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1472)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T05:16:05+00:00`, fetched `2026-08-12T05:24:09+00:00`
+  - Zeit: published `2026-08-12T05:41:34+00:00`, fetched `2026-08-12T05:56:28+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Daten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1520)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T05:41:34+00:00`, fetched `2026-08-12T05:56:28+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1470)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T05:41:34+00:00`, fetched `2026-08-12T05:56:28+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Zustand zu verursachen oder nicht näher spezifizierte Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sovereign AI starts long before the AI model** — Score 14, observation — [Quelle](https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -123,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - Pacific-Antarctic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-12T05:29:38.040+00:00`, fetched `2026-08-12T05:56:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-12 05:11:27 UTC 2026-08-12 05:11:27 UTC at epicenter Location 55.920°S 143.493°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **From chatbots to payment agents: AI’s next role in SEA commerce** — Score 8, observation — [Quelle](https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T03:57:19+00:00`, fetched `2026-08-12T04:11:14+00:00`
@@ -159,14 +186,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be wrong, and a list of questions to ask the doctor. […] The post The diagnosis is becoming free, the operation is not appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治** — Score 5, observation — [Quelle](https://note.com/horizon_it00/n/nfb8e10e5ff4d)
+- **「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞** — Score 5, observation — [Quelle](https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T21:54:55+00:00`, fetched `2026-08-12T03:24:03+00:00`
+  - Zeit: published `2026-08-11T23:42:36+00:00`, fetched `2026-08-12T05:56:28+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使...
+  - Kurz: スマートフォンのロックを解除するため、事件の容疑者に対し、令状を取得して強制的に生体認証（顔認証や指紋認証）をさせる新たな捜査手法が、警察の一部で使われ始めている。 スマホ内のデータを遠隔で消去でき…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

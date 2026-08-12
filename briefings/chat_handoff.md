@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T05:24:42+00:00_
+_Generated: 2026-08-12T05:57:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `25`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-12T05:24:42+00:00_
 - url: https://www.jpcert.or.jp/english/at/2026/at260022.html
 - summary: Security Alert: Microsoft Releases August 2026 Security Updates
 
-### 8. From chatbots to payment agents: AI’s next role in SEA commerce
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-12T03:57:19+00:00`
-- url: https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/
-- summary: For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always…
+### 8. M 5.1 - Pacific-Antarctic Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-12T05:29:38.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j
+- summary: Time 2026-08-12 05:11:27 UTC 2026-08-12 05:11:27 UTC at epicenter Location 55.920°S 143.493°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
