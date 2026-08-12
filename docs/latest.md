@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T07:32:54+00:00_
+_Generiert: 2026-08-12T08:03:31+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+40 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other is in Singapore. He pitches a regional VC firm. […] The post 5 US venture capital shifts every Southeast Asian founder should be tracking right now appeared fi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Cisco ASA (Adaptive Security Appliance) und Secure Firewall Threat Defense: Schwachstelle ermöglicht Denial of Service** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2755)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T07:56:05+00:00`, fetched `2026-08-12T08:03:00+00:00`
+  - Treffer: BSI, CERT-Bund, Firewall, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco ASA (Adaptive Security Appliance) und Cisco Secure Firewall Threat Defense ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU96623328/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-12T10:30:45+09:00`, fetched `2026-08-12T01:38:42+00:00`
@@ -48,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (brace-expansion): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2725)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T07:51:46+00:00`, fetched `2026-08-12T08:03:00+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **If AI can’t find your startup, does your startup exist?** — Score 16, observation — [Quelle](https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T01:30:32+00:00`, fetched `2026-08-12T01:38:42+00:00`
@@ -75,32 +93,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] CPython: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1971)
+- **[UPDATE] [hoch] Rapid7 Velociraptor: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2728)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T07:26:09+00:00`, fetched `2026-08-12T07:32:19+00:00`
+  - Zeit: published `2026-08-12T07:51:46+00:00`, fetched `2026-08-12T08:03:00+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in CPython ausnutzen, um Dateien zu manipulieren und um einen Denial-of-Service-Zustand auszulösen
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Dateien** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1796)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T07:26:08+00:00`, fetched `2026-08-12T07:32:19+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Netty: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1814)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T07:26:08+00:00`, fetched `2026-08-12T07:32:19+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Rapid7 Velociraptor ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorrechte, zu erlangen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sovereign AI starts long before the AI model** — Score 14, observation — [Quelle](https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 66 km E of Chayek, Kyrgyzstan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-12T07:43:57.045+00:00`, fetched `2026-08-12T08:03:00+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-08-12 07:14:52 UTC 2026-08-12 07:14:52 UTC at epicenter Location 42.041°N 75.304°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - Pacific-Antarctic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-12T05:29:38.040+00:00`, fetched `2026-08-12T05:56:28+00:00`
@@ -194,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday: Angreifer attackieren Windows und verschaffen sich System-Rechte** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-12T07:25:00.000+00:00`, fetched `2026-08-12T08:03:00+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Microsoft kümmert sich um rund 400 Sicherheitsprobleme in Azure, Office, Windows & Co. Mehrere Lücken gelten als kritisch.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ryde taps HERE to improve ride-hailing routes and ETAs in Singapore** — Score 7, opportunity — [Quelle](https://e27.co/ryde-taps-here-to-improve-ride-hailing-routes-and-etas-in-singapore-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
