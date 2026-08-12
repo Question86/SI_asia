@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T06:28:35+00:00_
+_Generiert: 2026-08-12T06:58:03+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+30 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **「ジムを予約して」と頼んだだけのAIが、なぜ他人の予約を消したのか？｜中島聡** — Score 13, observation — [Quelle](https://note.com/lifeisbeautiful/n/nb95d2313f3c4)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-12T00:59:51+00:00`, fetched `2026-08-12T06:57:28+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 AI assistant hacks gym website in first known Australian autonomous cyb...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog** — Score 13, observation — [Quelle](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-11T21:40:08+00:00`, fetched `2026-08-12T02:32:18+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞** — Score 5, observation — [Quelle](https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T23:42:36+00:00`, fetched `2026-08-12T05:56:28+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: スマートフォンのロックを解除するため、事件の容疑者に対し、令状を取得して強制的に生体認証（顔認証や指紋認証）をさせる新たな捜査手法が、警察の一部で使われ始めている。 スマホ内のデータを遠隔で消去でき…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -222,8 +222,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7faae582d290>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

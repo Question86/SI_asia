@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T06:28:35+00:00_
+_Generated: 2026-08-12T06:58:03+00:00_
 
 ## Status
-- status: `warning`
-- findings: `29`
+- status: `normal`
+- findings: `30`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-12T06:28:35+00:00_
 - url: https://jvn.jp/vu/JVNVU95587179/
 - summary: 2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 5. Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog
+### 5. 「ジムを予約して」と頼んだだけのAIが、なぜ他人の予約を消したのか？｜中島聡
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-08-12T00:59:51+00:00`
+- url: https://note.com/lifeisbeautiful/n/nb95d2313f3c4
+- summary: これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 AI assistant hacks gym website in first known Australian autonomous cyb...
+
+### 6. Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog
 - source: Hatena Bookmark Hotentry IT
 - score: `13`
 - published: `2026-08-11T21:40:08+00:00`
 - url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
 - summary: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large sw…
 
-### 6. Beyond the social media ban: What Singapore can learn from the next phase of online child safety
+### 7. Beyond the social media ban: What Singapore can learn from the next phase of online child safety
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-12T06:14:52+00:00`
 - url: https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/
 - summary: When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a…
 
-### 7. M 5.2 - 42 km ESE of Naalehu, Hawaii
+### 8. M 5.2 - 42 km ESE of Naalehu, Hawaii
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-12T04:10:20.520+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296
 - summary: ShakeMap - IV DYFI? - IV Time 2026-08-12 03:48:33 UTC 2026-08-12 03:48:33 UTC at epicenter Location 18.879°N 155.233°W Depth 10.73 km (6.67 mi)
-
-### 8. Security Alert: Microsoft Releases August 2026 Security Updates
-- source: JPCERT/CC English Alerts
-- score: `10`
-- published: `2026-08-12T11:27+09:00`
-- url: https://www.jpcert.or.jp/english/at/2026/at260022.html
-- summary: Security Alert: Microsoft Releases August 2026 Security Updates
 
 END OF DOCUMENT

@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-12T06:28:35+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-08-12T06:58:03+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 13,
-    "observe": 16
+    "observe": 17
   },
-  "source_errors_count": 2,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "cathrynlavery/diagram-design",
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "「ジムを予約して」と頼んだだけのAIが、なぜ他人の予約を消したのか？｜中島聡",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T00:59:51+00:00",
+      "relevance_score": 13,
+      "url": "https://note.com/lifeisbeautiful/n/nb95d2313f3c4",
+      "summary": "これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 AI assistant hacks gym website in first known Australian autonomous cyb...",
+      "section": "observe"
+    },
+    {
       "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296",
       "summary": "ShakeMap - IV DYFI? - IV Time 2026-08-12 03:48:33 UTC 2026-08-12 03:48:33 UTC at epicenter Location 18.879°N 155.233°W Depth 10.73 km (6.67 mi)",
       "section": "observe"
-    },
-    {
-      "title": "Security Alert: Microsoft Releases August 2026 Security Updates",
-      "source": "JPCERT/CC English Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-12T11:27+09:00",
-      "relevance_score": 10,
-      "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
-      "summary": "Security Alert: Microsoft Releases August 2026 Security Updates",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,136 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1470",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T05:41:34+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Zustand zu verursachen oder nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat OpenShift (oauth-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2749",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T05:16:05+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren."
-      },
-      {
-        "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
-        "url": "https://jvn.jp/vu/JVNVU96623328/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:45+09:00",
-        "age_days": 0.22,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, cve, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月11日）",
-        "url": "https://jvn.jp/vu/JVNVU95587179/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:00+09:00",
-        "age_days": 0.22,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96740507/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:30+09:00",
-        "age_days": 0.22,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }
