@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T12:25:17+00:00_
+_Generiert: 2026-08-12T12:45:08+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+89 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-12 07:14:52 UTC 2026-08-12 07:14:52 UTC at epicenter Location 42.041°N 75.304°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Cisco warnt vor Attacken auf Secure Firewall Adaptive Security Appliance** — Score 8, observation — [Quelle](https://www.heise.de/news/Cisco-warnt-vor-Attacken-auf-Secure-Firewall-Adaptive-Security-Appliance-11411427.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-12T12:36:00.000+00:00`, fetched `2026-08-12T12:44:36+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Derzeit lassen Angreifer Cisco Secure Firewall Adaptive Security Appliance nach Attacken abstürzen. Ein Sicherheitspatch ist verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From chatbots to payment agents: AI’s next role in SEA commerce** — Score 8, observation — [Quelle](https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T03:57:19+00:00`, fetched `2026-08-12T04:11:14+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Cisco (06 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0975/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-06T00:00:00+00:00`, fetched `2026-08-12T12:24:46+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

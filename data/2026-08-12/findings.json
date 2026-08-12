@@ -576,6 +576,29 @@
     "id": "22eb7c5419813b15742d"
   },
   {
+    "title": "[UPDATE] [hoch] NGINX-UI: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2798",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-12T12:41:05+00:00",
+    "fetched_at": "2026-08-12T12:44:36+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in NGINX-UI ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code – auch mit Root-Rechten – auszuführen, Sicherheitsmaßnahmen zu umgehen, sensible Daten offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d2f8fa83a7becb347702"
+  },
+  {
     "title": "[UPDATE] [hoch] Cacti: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1931",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1699,6 +1722,26 @@
       "LOW"
     ],
     "id": "633ccf7b79e3954047d8"
+  },
+  {
+    "title": "Cisco warnt vor Attacken auf Secure Firewall Adaptive Security Appliance",
+    "url": "https://www.heise.de/news/Cisco-warnt-vor-Attacken-auf-Secure-Firewall-Adaptive-Security-Appliance-11411427.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-12T12:36:00.000+00:00",
+    "fetched_at": "2026-08-12T12:44:36+00:00",
+    "summary": "Derzeit lassen Angreifer Cisco Secure Firewall Adaptive Security Appliance nach Attacken abstürzen. Ein Sicherheitspatch ist verfügbar.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Security (+7.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "611e2f045e408fe1ea8a"
   },
   {
     "title": "From chatbots to payment agents: AI’s next role in SEA commerce",
