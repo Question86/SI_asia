@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-12T11:05:32Z",
+  "generated_at": "2026-08-12T11:29:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 20,
-      "strong": 20
+      "krass": 24,
+      "strong": 16
     },
     "bands_after_gate_recheck": {
-      "krass": 6,
-      "strong": 34
+      "krass": 8,
+      "strong": 32
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -41,11 +41,61 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren."
     },
     {
+      "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2791",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] GStreamer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2662",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:01:15+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um Daten zu beschädigen, einen Denial-of-Service-Zustand herbeizuführen, vertrauliche Informationen offenzulegen oder möglicherweise beliebigen Code auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Fleet: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:31:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -70,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2777",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:31:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -95,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2774",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:06:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -120,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2773",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:06:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -145,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2767",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -166,65 +216,59 @@
       "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Commvault Backup & Recovery ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen und serverseitige Request-Forgery-Angriffe durchzuführen"
     },
     {
-      "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2784",
+      "title": "[NEU] [mittel] CyberPanel: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2793",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-12T10:01:06+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-08-12T11:11:06+00:00",
+      "age_days": 0.01,
       "topics": [
-        "security",
-        "infra"
+        "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: angriffe, code, exchange",
-        "security high-signal: angriffe, code, exchange, auth",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Exchange ausnutzen, um erweiterte Rechte – einschließlich SYSTEM-Rechte – zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen, Spoofing-Angriffe durchzuführen und einen Deni…"
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CyberPanel ausnutzen, um Informationen offenzulegen."
     },
     {
-      "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756",
+      "title": "[UPDATE] [hoch] CPython: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2044",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-12T08:01:05+00:00",
-      "age_days": 0.13,
+      "published_at": "2026-08-12T11:01:13+00:00",
+      "age_days": 0.02,
       "topics": [
-        "security",
-        "infra"
+        "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: kritisch, code, 10",
-        "security high-signal: kritisch, code, 10, exchange",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft Windows 10, Microsoft Windows Server 2019, Microsoft Windows Server 2022, Microsoft Exchange, Microsoft Windows 11, Microsoft Windows Server 2025 und Microsoft Windows…"
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in CPython ausnutzen, um Dateien zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen."
     },
     {
       "title": "ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96740507/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:30+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -248,7 +292,7 @@
       "url": "https://jvn.jp/vu/JVNVU98375707/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:15+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -272,7 +316,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2787",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:01:07+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -296,7 +340,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2786",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:01:07+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -320,7 +364,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2782",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:01:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -344,7 +388,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2776",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:16:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -368,7 +412,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2775",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:11:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -392,7 +436,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2772",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:06:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -416,7 +460,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2768",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -441,7 +485,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1971",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:09+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -465,7 +509,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1796",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:08+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -489,7 +533,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1814",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:08+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -513,7 +557,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1663",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:07+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -537,7 +581,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1472",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:41:34+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -557,85 +601,11 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "[UPDATE] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1520",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-12T05:41:34+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um Daten zu manipulieren."
-    },
-    {
-      "title": "Sovereign AI starts long before the AI model",
-      "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-12T02:30:01+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security, cloud"
-      ],
-      "summary": "Over the past year, I’ve noticed something interesting. Infrastructure discussions have started sounding very different. Not because the technology has fundamentally changed—we’re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instea…"
-    },
-    {
-      "title": "From chatbots to payment agents: AI’s next role in SEA commerce",
-      "url": "https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-12T03:57:19+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical: what does AI actually do once it is pl…"
-    },
-    {
       "title": "[NEU] [hoch] Microsoft Dynamics: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2783",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:01:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -657,11 +627,63 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Dynamics 365 ausnutzen, um beliebigen Programmcode auszuführen oder vertrauliche Informationen offenzulegen."
     },
     {
+      "title": "[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2792",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Snipe-IT ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder möglicherweise einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2790",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:11:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Auswirkungen zu verursachen, darunter möglicherweise die Ausführung von beliebigem Code, die Umgehung von Sicherheitsmaßnahmen, die Offenlegung von Informationen oder einen Denial-of-Service-Zustand."
+    },
+    {
       "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -687,7 +709,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2766",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -713,7 +735,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2728",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:51:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -739,7 +761,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1470",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:41:34+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -765,7 +787,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2749",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:16:05+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -791,7 +813,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:31:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -816,7 +838,7 @@
       "url": "https://jvn.jp/vu/JVNVU96623328/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:45+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -841,7 +863,7 @@
       "url": "https://jvn.jp/vu/JVNVU95587179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:00+09:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -866,7 +888,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2785",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:01:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -891,7 +913,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -916,7 +938,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2725",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:51:46+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -941,7 +963,7 @@
       "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-12T09:29:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -967,7 +989,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11100-407c5-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-12T06:41:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -987,35 +1009,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "葆光系統｜POS餐飲系統 - Missing Authentication"
-    },
-    {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 54.38,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -8.0 for 54.4d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
