@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-12T08:03:31+00:00",
+  "generated_at": "2026-08-12T08:37:13+00:00",
   "topics": {
     "ai": [
       {
@@ -86,6 +86,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-12T08:01:05+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756"
+      },
+      {
         "title": "[NEU] [hoch] Cisco ASA (Adaptive Security Appliance) und Secure Firewall Threat Defense: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-12T07:56:05+00:00",
@@ -147,16 +154,16 @@
         "published_at": "2026-08-12T07:26:08+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1796"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T07:26:08+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1814"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-12T08:01:05+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756"
+      },
       {
         "title": "[NEU] [hoch] Cisco ASA (Adaptive Security Appliance) und Secure Firewall Threat Defense: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T08:03:31+00:00_
+_Generiert: 2026-08-12T08:37:13+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+41 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other is in Singapore. He pitches a regional VC firm. […] The post 5 US venture capital shifts every Southeast Asian founder should be tracking right now appeared fi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T08:01:05+00:00`, fetched `2026-08-12T08:36:42+00:00`
+  - Treffer: BSI, CERT-Bund, Exchange, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.0); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft Windows 10, Microsoft Windows Server 2019, Microsoft Windows Server 2022, Microsoft Exchange, Microsoft Windows 11, Microsoft Windows Server 2025 und Microsoft Windows ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Cisco ASA (Adaptive Security Appliance) und Secure Firewall Threat Defense: Schwachstelle ermöglicht Denial of Service** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2755)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -93,15 +102,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Rapid7 Velociraptor: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2728)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T07:51:46+00:00`, fetched `2026-08-12T08:03:00+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Rapid7 Velociraptor ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorrechte, zu erlangen, Sicherheitsmaßnahmen zu umgehen, Spoofing- und Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren, sensible Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sovereign AI starts long before the AI model** — Score 14, observation — [Quelle](https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T02:30:01+00:00`, fetched `2026-08-12T02:32:18+00:00`
