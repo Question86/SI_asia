@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T04:51:46+00:00_
+_Generiert: 2026-08-12T05:24:42+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+19 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Red Hat OpenShift (oauth-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2749)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-12T05:16:05+00:00`, fetched `2026-08-12T05:24:09+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sovereign AI starts long before the AI model** — Score 14, observation — [Quelle](https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T02:30:01+00:00`, fetched `2026-08-12T02:32:18+00:00`
@@ -132,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ryde taps HERE to improve ride-hailing routes and ETAs in Singapore** — Score 7, opportunity — [Quelle](https://e27.co/ryde-taps-here-to-improve-ride-hailing-routes-and-etas-in-singapore-20260812/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-12T05:02:59+00:00`, fetched `2026-08-12T05:24:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: In a city where a five-minute delay can be the difference between keeping or losing a customer, ride-hailing is often won in the invisible layer behind the app: maps, traffic data, dispatch logic and estimated arrival times. Singapore-based Ryde is now trying to improve that layer through a strategic partnership with HERE Technologies, the mapping […] The post Ryde taps HERE to improve ride-hailing routes and ETAs i…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The diagnosis is becoming free, the operation is not** — Score 7, observation — [Quelle](https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T02:00:13+00:00`, fetched `2026-08-12T02:32:18+00:00`
@@ -150,15 +168,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The scarcity mindset is killing creativity, not AI** — Score 4, opportunity — [Quelle](https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-12T01:00:16+00:00`, fetched `2026-08-12T01:01:23+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism. Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided the hype, but because the people on stage and in the hallway […] The post The scarcity mindset is killing creativity, not AI appeared first on e27 .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
