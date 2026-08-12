@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T22:27:41+00:00_
+_Generiert: 2026-08-12T22:46:00+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+106 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,30 +29,8 @@ _Generiert: 2026-08-12T22:27:41+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001302)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001301)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557631)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].
-- **GDACS: Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557201)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in East Central Pacific Ocean 10/08/2026 05:41 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001300)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FIFTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f6db0e02950>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -297,6 +275,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 227 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-12T22:29:21.040+00:00`, fetched `2026-08-12T22:45:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-12 22:13:33 UTC 2026-08-12 22:13:33 UTC at epicenter Location 17.865°S 178.545°W Depth 572.02 km (355.43 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた** — Score 9, observation — [Quelle](https://zenn.dev/hellorusk/articles/3328866ca9e922)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-12T13:27:16+00:00`, fetched `2026-08-12T19:41:06+00:00`
@@ -306,15 +293,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年8月、Anthropic が「Claude の生成テキストに機械可読なマーク（電子透かし）を埋め込む」と発表しました[1]。EU AI Act 第50条の透明性規範（Code of Practice on Transparency of AI-Generated Content）に署名したことに伴うもので、2026年8月2日以降にリリースされるモデルは、EU 圏内に限らず世界中でテキス...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 66 km E of Chayek, Kyrgyzstan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-12T07:43:57.045+00:00`, fetched `2026-08-12T08:03:00+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-08-12 07:14:52 UTC 2026-08-12 07:14:52 UTC at epicenter Location 42.041°N 75.304°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cisco warnt vor Attacken auf Secure Firewall Adaptive Security Appliance** — Score 8, observation — [Quelle](https://www.heise.de/news/Cisco-warnt-vor-Attacken-auf-Secure-Firewall-Adaptive-Security-Appliance-11411427.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-12T12:36:00.000+00:00`, fetched `2026-08-12T12:44:36+00:00`

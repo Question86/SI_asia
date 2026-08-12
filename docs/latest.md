@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T22:27:41+00:00_
+_Generiert: 2026-08-12T22:46:00+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+106 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -240,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 227 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-12T22:29:21.040+00:00`, fetched `2026-08-12T22:45:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-12 22:13:33 UTC 2026-08-12 22:13:33 UTC at epicenter Location 17.865°S 178.545°W Depth 572.02 km (355.43 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた** — Score 9, observation — [Quelle](https://zenn.dev/hellorusk/articles/3328866ca9e922)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-12T13:27:16+00:00`, fetched `2026-08-12T19:41:06+00:00`
@@ -249,15 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年8月、Anthropic が「Claude の生成テキストに機械可読なマーク（電子透かし）を埋め込む」と発表しました[1]。EU AI Act 第50条の透明性規範（Code of Practice on Transparency of AI-Generated Content）に署名したことに伴うもので、2026年8月2日以降にリリースされるモデルは、EU 圏内に限らず世界中でテキス...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 66 km E of Chayek, Kyrgyzstan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-12T07:43:57.045+00:00`, fetched `2026-08-12T08:03:00+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-08-12 07:14:52 UTC 2026-08-12 07:14:52 UTC at epicenter Location 42.041°N 75.304°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Cisco warnt vor Attacken auf Secure Firewall Adaptive Security Appliance** — Score 8, observation — [Quelle](https://www.heise.de/news/Cisco-warnt-vor-Attacken-auf-Secure-Firewall-Adaptive-Security-Appliance-11411427.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-12T12:36:00.000+00:00`, fetched `2026-08-12T12:44:36+00:00`
