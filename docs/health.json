@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-08-12T05:57:09+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-12T06:28:35+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 4,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 13,
-    "observe": 12,
-    "source_errors": 0
+    "observe": 16,
+    "source_errors": 2
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7faae582d290>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

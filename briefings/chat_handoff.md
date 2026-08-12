@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T05:57:09+00:00_
+_Generated: 2026-08-12T06:28:35+00:00_
 
 ## Status
-- status: `normal`
-- findings: `25`
+- status: `warning`
+- findings: `29`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-12T05:57:09+00:00_
 - url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
 - summary: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large sw…
 
-### 6. M 5.2 - 42 km ESE of Naalehu, Hawaii
+### 6. Beyond the social media ban: What Singapore can learn from the next phase of online child safety
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-08-12T06:14:52+00:00`
+- url: https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/
+- summary: When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a…
+
+### 7. M 5.2 - 42 km ESE of Naalehu, Hawaii
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-12T04:10:20.520+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296
 - summary: ShakeMap - IV DYFI? - IV Time 2026-08-12 03:48:33 UTC 2026-08-12 03:48:33 UTC at epicenter Location 18.879°N 155.233°W Depth 10.73 km (6.67 mi)
 
-### 7. Security Alert: Microsoft Releases August 2026 Security Updates
+### 8. Security Alert: Microsoft Releases August 2026 Security Updates
 - source: JPCERT/CC English Alerts
 - score: `10`
 - published: `2026-08-12T11:27+09:00`
 - url: https://www.jpcert.or.jp/english/at/2026/at260022.html
 - summary: Security Alert: Microsoft Releases August 2026 Security Updates
-
-### 8. M 5.1 - Pacific-Antarctic Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-12T05:29:38.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j
-- summary: Time 2026-08-12 05:11:27 UTC 2026-08-12 05:11:27 UTC at epicenter Location 55.920°S 143.493°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

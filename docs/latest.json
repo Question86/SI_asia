@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-12T05:57:09+00:00",
-  "run_id": "2026-08-12T05:57:09+00:00",
+  "generated_at": "2026-08-12T06:28:35+00:00",
+  "run_id": "2026-08-12T06:28:35+00:00",
   "date": "2026-08-12",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 4,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 13,
-    "observe": 12,
-    "source_errors": 0
+    "observe": 16,
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -412,6 +412,26 @@
         "id": "1cc8e4808adc9fe7930b"
       },
       {
+        "title": "Beyond the social media ban: What Singapore can learn from the next phase of online child safety",
+        "url": "https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-12T06:14:52+00:00",
+        "fetched_at": "2026-08-12T06:28:01+00:00",
+        "summary": "When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a different phase. Across Australia, the European Union and the United Kingdom, child protection has emerged as the political frame through […] The post Beyond t…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: European Union (+2.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d3a651e1f76c64a13562"
+      },
+      {
         "title": "M 5.2 - 42 km ESE of Naalehu, Hawaii",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -590,6 +610,46 @@
         "id": "abd39f395e4a447edd4f"
       },
       {
+        "title": "デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました",
+        "url": "https://www.digital.go.jp/archives",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-12T06:00:00+00:00",
+        "fetched_at": "2026-08-12T06:28:01+00:00",
+        "summary": "デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "204ca26653d5e2417fdd"
+      },
+      {
+        "title": "2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました",
+        "url": "https://www.digital.go.jp/news/e6e5abe2-c5b1-4dc4-b683-465b518e6c91",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-12T06:00:00+00:00",
+        "fetched_at": "2026-08-12T06:28:01+00:00",
+        "summary": "2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d737ccf74035918db6e2"
+      },
+      {
         "title": "「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞",
         "url": "https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -630,6 +690,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "de196f7e596d64e050c2"
+      },
+      {
+        "title": "Does the US$1,780 support zone hold the key to a US$2,200 Ethereum rally",
+        "url": "https://e27.co/does-the-us1780-support-zone-hold-the-key-to-a-us2200-ethereum-rally-20260812/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-12T05:58:25+00:00",
+        "fetched_at": "2026-08-12T06:28:01+00:00",
+        "summary": "Ethereum developers are pursuing an aggressive technical roadmap to secure the blockchain against future computational threats while vastly improving transaction throughput. The primary objective is to achieve a processing capacity of 10,000 transactions per second. This massive scalability upgrade runs parallel to a comprehensive integration of quantum safety measures. Network architects recognise that the advancem…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "40f34bd250fd44f35e8b"
       },
       {
         "title": "Morph bets on stablecoins as the next rail for digital commerce",
@@ -1056,6 +1136,26 @@
       "id": "1cc8e4808adc9fe7930b"
     },
     {
+      "title": "Beyond the social media ban: What Singapore can learn from the next phase of online child safety",
+      "url": "https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-12T06:14:52+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a different phase. Across Australia, the European Union and the United Kingdom, child protection has emerged as the political frame through […] The post Beyond t…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: European Union (+2.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3a651e1f76c64a13562"
+    },
+    {
       "title": "M 5.2 - 42 km ESE of Naalehu, Hawaii",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1234,6 +1334,46 @@
       "id": "abd39f395e4a447edd4f"
     },
     {
+      "title": "デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました",
+      "url": "https://www.digital.go.jp/archives",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-12T06:00:00+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "204ca26653d5e2417fdd"
+    },
+    {
+      "title": "2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました",
+      "url": "https://www.digital.go.jp/news/e6e5abe2-c5b1-4dc4-b683-465b518e6c91",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-12T06:00:00+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d737ccf74035918db6e2"
+    },
+    {
       "title": "「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞",
       "url": "https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1274,6 +1414,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "de196f7e596d64e050c2"
+    },
+    {
+      "title": "Does the US$1,780 support zone hold the key to a US$2,200 Ethereum rally",
+      "url": "https://e27.co/does-the-us1780-support-zone-hold-the-key-to-a-us2200-ethereum-rally-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-12T05:58:25+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "Ethereum developers are pursuing an aggressive technical roadmap to secure the blockchain against future computational threats while vastly improving transaction throughput. The primary objective is to achieve a processing capacity of 10,000 transactions per second. This massive scalability upgrade runs parallel to a comprehensive integration of quantum safety measures. Network architects recognise that the advancem…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "40f34bd250fd44f35e8b"
     },
     {
       "title": "Morph bets on stablecoins as the next rail for digital commerce",
@@ -1319,139 +1479,73 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1520",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T05:41:34+00:00",
-      "fetched_at": "2026-08-12T05:56:28+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ce025635068d407b0939"
-    },
-    {
-      "title": "[UPDATE] [niedrig] CPython: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1472",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T05:41:34+00:00",
-      "fetched_at": "2026-08-12T05:56:28+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a314b62bd4d21a058295"
-    },
-    {
-      "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1470",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T05:41:34+00:00",
-      "fetched_at": "2026-08-12T05:56:28+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, einen Denial-of-Service-Zustand zu verursachen oder nicht näher spezifizierte Angriffe durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "56c44fd273059549f5a0"
-    },
-    {
-      "title": "M 5.1 - Pacific-Antarctic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-12T05:29:38.040+00:00",
-      "fetched_at": "2026-08-12T05:56:28+00:00",
-      "summary": "Time 2026-08-12 05:11:27 UTC 2026-08-12 05:11:27 UTC at epicenter Location 55.920°S 143.493°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "633ccf7b79e3954047d8"
-    },
-    {
-      "title": "「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-11T23:42:36+00:00",
-      "fetched_at": "2026-08-12T05:56:28+00:00",
-      "summary": "スマートフォンのロックを解除するため、事件の容疑者に対し、令状を取得して強制的に生体認証（顔認証や指紋認証）をさせる新たな捜査手法が、警察の一部で使われ始めている。 スマホ内のデータを遠隔で消去でき…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "63399818b3227389e110"
-    },
-    {
-      "title": "Morph bets on stablecoins as the next rail for digital commerce",
-      "url": "https://e27.co/morph-bets-on-stablecoins-as-the-next-rail-for-digital-commerce-20260812/",
+      "title": "Beyond the social media ban: What Singapore can learn from the next phase of online child safety",
+      "url": "https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-12T05:51:10+00:00",
-      "fetched_at": "2026-08-12T05:56:28+00:00",
-      "summary": "For years, stablecoins were treated mainly as plumbing for crypto trading: a way for traders to move quickly between digital assets without returning to traditional money. That role is now expanding. As more companies, freelancers and cross-border teams look for faster ways to move money, stablecoins are beginning to look less like a crypto niche […] The post Morph bets on stablecoins as the next rail for digital co…",
+      "published_at": "2026-08-12T06:14:52+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a different phase. Across Australia, the European Union and the United Kingdom, child protection has emerged as the political frame through […] The post Beyond t…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: European Union (+2.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3a651e1f76c64a13562"
+    },
+    {
+      "title": "2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました",
+      "url": "https://www.digital.go.jp/news/e6e5abe2-c5b1-4dc4-b683-465b518e6c91",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-12T06:00:00+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d737ccf74035918db6e2"
+    },
+    {
+      "title": "デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました",
+      "url": "https://www.digital.go.jp/archives",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-12T06:00:00+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "204ca26653d5e2417fdd"
+    },
+    {
+      "title": "Does the US$1,780 support zone hold the key to a US$2,200 Ethereum rally",
+      "url": "https://e27.co/does-the-us1780-support-zone-hold-the-key-to-a-us2200-ethereum-rally-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-12T05:58:25+00:00",
+      "fetched_at": "2026-08-12T06:28:01+00:00",
+      "summary": "Ethereum developers are pursuing an aggressive technical roadmap to secure the blockchain against future computational threats while vastly improving transaction throughput. The primary objective is to achieve a processing capacity of 10,000 transactions per second. This massive scalability upgrade runs parallel to a comprehensive integration of quantum safety measures. Network architects recognise that the advancem…",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -1462,10 +1556,23 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "90d1e5458efff8012caf"
+      "id": "40f34bd250fd44f35e8b"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7faae582d290>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

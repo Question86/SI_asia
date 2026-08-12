@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T05:57:09+00:00_
+_Generiert: 2026-08-12T06:28:35+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+29 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)
   - Kurz: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Beyond the social media ban: What Singapore can learn from the next phase of online child safety** — Score 11, observation — [Quelle](https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-12T06:14:52+00:00`, fetched `2026-08-12T06:28:01+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region europe: European Union (+2.0); watchgraph region australia: Australia (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a different phase. Across Australia, the European Union and the United Kingdom, child protection has emerged as the political frame through […] The post Beyond t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 42 km ESE of Naalehu, Hawaii** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-12T04:10:20.520+00:00`, fetched `2026-08-12T04:11:14+00:00`
@@ -177,14 +186,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: In a city where a five-minute delay can be the difference between keeping or losing a customer, ride-hailing is often won in the invisible layer behind the app: maps, traffic data, dispatch logic and estimated arrival times. Singapore-based Ryde is now trying to improve that layer through a strategic partnership with HERE Technologies, the mapping […] The post Ryde taps HERE to improve ride-hailing routes and ETAs i…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **The diagnosis is becoming free, the operation is not** — Score 7, observation — [Quelle](https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-12T02:00:13+00:00`, fetched `2026-08-12T02:32:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/archives)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-12T06:00:00+00:00`, fetched `2026-08-12T06:28:01+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be wrong, and a list of questions to ask the doctor. […] The post The diagnosis is becoming free, the operation is not appeared first on e27 .
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/e6e5abe2-c5b1-4dc4-b683-465b518e6c91)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-12T06:00:00+00:00`, fetched `2026-08-12T06:28:01+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞** — Score 5, observation — [Quelle](https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -204,3 +222,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7faae582d290>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
