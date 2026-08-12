@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T19:15:40+00:00_
+_Generiert: 2026-08-12T19:41:37+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+98 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた** — Score 9, observation — [Quelle](https://zenn.dev/hellorusk/articles/3328866ca9e922)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-12T13:27:16+00:00`, fetched `2026-08-12T19:41:06+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年8月、Anthropic が「Claude の生成テキストに機械可読なマーク（電子透かし）を埋め込む」と発表しました[1]。EU AI Act 第50条の透明性規範（Code of Practice on Transparency of AI-Generated Content）に署名したことに伴うもので、2026年8月2日以降にリリースされるモデルは、EU 圏内に限らず世界中でテキス...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 66 km E of Chayek, Kyrgyzstan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-12T07:43:57.045+00:00`, fetched `2026-08-12T08:03:00+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical: what does AI actually do once it is plugged into real workflows? A new […] The post From chatbots to payment agents: AI’s next role in SEA…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ** — Score 8, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/12/2000000497/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-11T22:44:55+00:00`, fetched `2026-08-12T03:24:03+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans les produits Wallix (06 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0974/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
@@ -285,8 +285,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f78d9648dd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
