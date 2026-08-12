@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T20:58:44+00:00",
-  "run_id": "2026-08-12T20:58:44+00:00",
+  "generated_at": "2026-08-12T21:18:32+00:00",
+  "run_id": "2026-08-12T21:18:32+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 101,
     "displayed_findings": 101,
     "high": 0,
@@ -4929,50 +4929,7 @@
       "id": "a7913b71be8574d12234"
     }
   ],
-  "new_findings": [
-    {
-      "title": "オントロジーと知識グラフ入門：URI から RDF、RDFS、OWL、推論、SPARQL まで整理して学ぶ - Qiita",
-      "url": "https://qiita.com/haystacker/items/376d86bcbeefc3885183",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-12T13:22:57+00:00",
-      "fetched_at": "2026-08-12T20:58:09+00:00",
-      "summary": "これを下から順番に理解していくと、「今どの話をしているのか」「何がどの上に乗っているのか」が見えやすくなります。 この記事で扱う題材 扱う概念は次の 5 つです。 Animal（動物） Mammal（哺乳類） Cat（猫） Dog（犬） hasLegCount（足の本数） そして、基本となる知識は次の通りです。 Cat は Mammal である Dog...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "09f656d18714fa44721a"
-    },
-    {
-      "title": "同僚女性教諭の水着画像をAIで生成 男性教諭を懲戒 神奈川県教委：朝日新聞",
-      "url": "https://www.asahi.com/articles/ASV8D2SY0V8DULOB00HM.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-12T09:34:15+00:00",
-      "fetched_at": "2026-08-12T20:58:09+00:00",
-      "summary": "神奈川県教育委員会は12日、生徒に性行為の動画を見せたり、生成AI（人工知能）で同僚の女性教諭の水着姿の画像を作ったりしたなどとして、県立高校の男性教諭4人を懲戒処分にし、発表した。 県教委によると…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "836442e0e7d795371477"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
