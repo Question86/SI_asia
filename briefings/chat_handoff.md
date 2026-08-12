@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T01:01:53+00:00_
+_Generated: 2026-08-12T01:39:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `7`
 
 ## Top Signals
 
@@ -15,7 +15,28 @@ _Generated: 2026-08-12T01:01:53+00:00_
 - url: https://e27.co/5-us-venture-capital-shifts-every-southeast-asian-founder-should-be-tracking-right-now-20260811/
 - summary: Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other…
 
-### 2. The scarcity mindset is killing creativity, not AI
+### 2. TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-08-12T10:30:45+09:00`
+- url: https://jvn.jp/vu/JVNVU96623328/
+- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月11日）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-08-12T10:30:00+09:00`
+- url: https://jvn.jp/vu/JVNVU95587179/
+- summary: 2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+
+### 4. If AI can’t find your startup, does your startup exist?
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-08-12T01:30:32+00:00`
+- url: https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/
+- summary: Over the past few weeks, I’ve noticed a rather interesting trend on social media. More and more founders, creators and professionals are opening ChatGPT, Gemini or Claude and asking the same question: What do you know about me? At first, I thought it was just…
+
+### 5. The scarcity mindset is killing creativity, not AI
 - source: e27 Asia Startup and Tech Feed
 - score: `4`
 - published: `2026-08-12T01:00:16+00:00`
