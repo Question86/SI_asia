@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T15:07:00+00:00",
-  "run_id": "2026-08-12T15:07:00+00:00",
+  "generated_at": "2026-08-12T15:30:39+00:00",
+  "run_id": "2026-08-12T15:30:39+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "new_relevant_findings": 1,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 58,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -2119,6 +2119,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d737ccf74035918db6e2"
+      },
+      {
+        "title": "30年以上前に「NTTのシステムのバグを利用して公衆電話をハッキングする」という闇バイトをしたポスト主…騙されていることがわかり、すぐに通報したが、捜査も裁判も難航した話が興味深い",
+        "url": "https://togetter.com/li/2732150",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-12T10:45:05+00:00",
+        "fetched_at": "2026-08-12T15:30:07+00:00",
+        "summary": "松本肇（教育ジャーナリスト／教育評論家） @matsuhaji 闇バイトをやろうとしている方々。 実は私、30年以上前、闇バイトに関わったことがあります。 当時、大学生の時給は800～900円くらいだったのですが、「電話回線の簡単な点検作業で時給1500円」だったので応募しました。 詳細を説明すると長くなりますが、簡単に言...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af9c8888aecf562e6db8"
       },
       {
         "title": "「めっちゃカメレオン」2000万本突破 日本の2人が開発、発売から2カ月で",
@@ -4379,6 +4400,27 @@
       "id": "d737ccf74035918db6e2"
     },
     {
+      "title": "30年以上前に「NTTのシステムのバグを利用して公衆電話をハッキングする」という闇バイトをしたポスト主…騙されていることがわかり、すぐに通報したが、捜査も裁判も難航した話が興味深い",
+      "url": "https://togetter.com/li/2732150",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T10:45:05+00:00",
+      "fetched_at": "2026-08-12T15:30:07+00:00",
+      "summary": "松本肇（教育ジャーナリスト／教育評論家） @matsuhaji 闇バイトをやろうとしている方々。 実は私、30年以上前、闇バイトに関わったことがあります。 当時、大学生の時給は800～900円くらいだったのですが、「電話回線の簡単な点検作業で時給1500円」だったので応募しました。 詳細を説明すると長くなりますが、簡単に言...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af9c8888aecf562e6db8"
+    },
+    {
       "title": "「めっちゃカメレオン」2000万本突破 日本の2人が開発、発売から2カ月で",
       "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4545,7 +4587,29 @@
       "id": "a8eb93aa3f46d3024e44"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "30年以上前に「NTTのシステムのバグを利用して公衆電話をハッキングする」という闇バイトをしたポスト主…騙されていることがわかり、すぐに通報したが、捜査も裁判も難航した話が興味深い",
+      "url": "https://togetter.com/li/2732150",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T10:45:05+00:00",
+      "fetched_at": "2026-08-12T15:30:07+00:00",
+      "summary": "松本肇（教育ジャーナリスト／教育評論家） @matsuhaji 闇バイトをやろうとしている方々。 実は私、30年以上前、闇バイトに関わったことがあります。 当時、大学生の時給は800～900円くらいだったのですが、「電話回線の簡単な点検作業で時給1500円」だったので応募しました。 詳細を説明すると長くなりますが、簡単に言...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af9c8888aecf562e6db8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
