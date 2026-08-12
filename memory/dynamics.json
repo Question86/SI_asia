@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-12T02:50:06Z",
+  "generated_at": "2026-08-12T03:41:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 17,
     "bands": {
       "krass": 2,
-      "strong": 4,
+      "strong": 5,
       "watch": 2,
-      "quiet": 6
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 6,
+      "strong": 7,
       "watch": 2,
-      "quiet": 6
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU96740507/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:30+09:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU98375707/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:15+09:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T02:30:01+00:00",
-      "age_days": 0.01,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU96623328/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:45+09:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU95587179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 54.04,
+      "age_days": 54.07,
       "topics": [
         "ai"
       ],
@@ -165,17 +165,41 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 54.0d old signal",
+        "aging penalty -8.0 for 54.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "Security Alert: Microsoft Releases August 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
+      "source": "JPCERT/CC English Alerts",
+      "published_at": "2026-08-12T11:27+09:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, microsoft"
+      ],
+      "summary": "Security Alert: Microsoft Releases August 2026 Security Updates"
     },
     {
       "title": "5 US venture capital shifts every Southeast Asian founder should be tracking right now",
       "url": "https://e27.co/5-us-venture-capital-shifts-every-southeast-asian-founder-should-be-tracking-right-now-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T01:00:02+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -201,7 +225,7 @@
       "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T01:00:16+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -227,7 +251,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-11T21:40:08+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -250,11 +274,35 @@
       "summary": "Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe..."
     },
     {
+      "title": "NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治",
+      "url": "https://note.com/horizon_it00/n/nfb8e10e5ff4d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-11T21:54:55+00:00",
+      "age_days": 0.24,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使..."
+    },
+    {
       "title": "If AI can’t find your startup, does your startup exist?",
       "url": "https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T01:30:32+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -279,7 +327,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.0,
+      "age_days": 53.04,
       "topics": [
         "general"
       ],
@@ -304,7 +352,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.0,
+      "age_days": 53.04,
       "topics": [
         "general"
       ],
@@ -329,7 +377,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.0,
+      "age_days": 53.04,
       "topics": [
         "ai"
       ],
@@ -352,11 +400,36 @@
       "summary": ""
     },
     {
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-11T22:44:55+00:00",
+      "age_days": 0.21,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象..."
+    },
+    {
       "title": "The diagnosis is becoming free, the operation is not",
       "url": "https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T02:00:13+00:00",
-      "age_days": 0.03,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
