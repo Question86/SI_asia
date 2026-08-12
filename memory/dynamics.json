@@ -1,21 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-12T09:09:19Z",
+  "generated_at": "2026-08-12T09:37:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
-      "strong": 19,
-      "watch": 7,
-      "quiet": 3
+      "krass": 14,
+      "strong": 22,
+      "watch": 4
     },
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 28,
-      "watch": 7,
-      "quiet": 3
+      "krass": 5,
+      "strong": 31,
+      "watch": 4
     }
   },
   "top_dynamics": [
@@ -24,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -45,11 +43,86 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren."
     },
     {
+      "title": "[NEU] [hoch] Insyde UEFI Firmware (InsydeH2O): Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2777",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T09:31:05+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Insyde UEFI Firmware ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[NEU] [hoch] ILIAS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2774",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T09:06:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Code auszuführen, SQL-Injection durchzuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Creative Cloud (Lightroom Classic): Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2773",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T09:06:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud (Lightroom Classic) ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Commvault Backup & Recovery: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2767",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -74,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T08:01:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security",
         "infra"
@@ -101,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2755",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:56:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security",
         "infra"
@@ -128,7 +201,7 @@
       "url": "https://jvn.jp/vu/JVNVU96740507/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:30+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -152,7 +225,7 @@
       "url": "https://jvn.jp/vu/JVNVU98375707/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:15+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -172,11 +245,83 @@
       "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
     },
     {
+      "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2776",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T09:16:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [mittel] dhcpcd: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2775",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T09:11:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in dhcpcd ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] Intel Prozessor: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2772",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T09:06:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Intel Prozessor ausnutzen, um erweiterte Rechte zu erlangen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2768",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -201,7 +346,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1971",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -225,7 +370,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1796",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:08+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -249,7 +394,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1814",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:08+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -273,7 +418,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1663",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:26:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -297,7 +442,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1472",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:41:34+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -321,7 +466,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1520",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:41:34+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -345,7 +490,7 @@
       "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T02:30:01+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -370,7 +515,7 @@
       "url": "https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T03:57:19+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -395,7 +540,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -421,7 +566,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2766",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -447,7 +592,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2728",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:51:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -473,7 +618,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1470",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:41:34+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -499,7 +644,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2749",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T05:16:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -525,7 +670,7 @@
       "url": "https://jvn.jp/vu/JVNVU96623328/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:45+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -550,7 +695,7 @@
       "url": "https://jvn.jp/vu/JVNVU95587179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -575,7 +720,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -600,7 +745,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2725",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T07:51:46+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -625,7 +770,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 54.3,
+      "age_days": 54.32,
       "topics": [
         "ai"
       ],
@@ -654,7 +799,7 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-12T08:35:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -680,7 +825,7 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-12T07:25:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -706,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-12T04:21:57.298+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -731,7 +876,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-08-12T11:27+09:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -755,7 +900,7 @@
       "url": "https://e27.co/morph-bets-on-stablecoins-as-the-next-rail-for-digital-commerce-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T05:51:10+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -780,7 +925,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-12T04:51:16+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -806,7 +951,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-12T07:43:57.045+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -831,7 +976,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-12T05:29:38.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -856,7 +1001,7 @@
       "url": "https://e27.co/5-us-venture-capital-shifts-every-southeast-asian-founder-should-be-tracking-right-now-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T01:00:02+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -876,162 +1021,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other is in Singapore. He pitches a regional VC firm. […] The pos…"
-    },
-    {
-      "title": "Ryde taps HERE to improve ride-hailing routes and ETAs in Singapore",
-      "url": "https://e27.co/ryde-taps-here-to-improve-ride-hailing-routes-and-etas-in-singapore-20260812/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-12T05:02:59+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai",
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "In a city where a five-minute delay can be the difference between keeping or losing a customer, ride-hailing is often won in the invisible layer behind the app: maps, traffic data, dispatch logic and estimated arrival times. Singapore-based Ryde is now trying to improve that layer through a strategic partnership with…"
-    },
-    {
-      "title": "Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260071.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "published_at": "2026-08-12T08:15:24+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45"
-    },
-    {
-      "title": "The scarcity mindset is killing creativity, not AI",
-      "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-12T01:00:16+00:00",
-      "age_days": 0.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism. Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided the hype, but because the people on stage and in the hallwa…"
-    },
-    {
-      "title": "M 5.2 - 42 km ESE of Naalehu, Hawaii",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-12T04:10:20.520+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - IV DYFI? - IV Time 2026-08-12 03:48:33 UTC 2026-08-12 03:48:33 UTC at epicenter Location 18.879°N 155.233°W Depth 10.73 km (6.67 mi)"
-    },
-    {
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-11T21:40:08+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe..."
-    },
-    {
-      "title": "NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治",
-      "url": "https://note.com/horizon_it00/n/nfb8e10e5ff4d",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-11T21:54:55+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
