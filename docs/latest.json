@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T11:27:28+00:00",
-  "run_id": "2026-08-12T11:27:28+00:00",
+  "generated_at": "2026-08-12T11:46:18+00:00",
+  "run_id": "2026-08-12T11:46:18+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 5,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 49,
+    "medium": 54,
     "observe": 25,
     "source_errors": 0
   },
@@ -270,6 +270,54 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5b89257da36bd430ad02"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (python-idna): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2797",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T11:41:06+00:00",
+        "fetched_at": "2026-08-12T11:45:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (python-idna) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d24afc25ca9a688a142b"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2796",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T11:41:05+00:00",
+        "fetched_at": "2026-08-12T11:45:48+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bdbe3b1820fcf8ad3de3"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
@@ -531,6 +579,75 @@
           "LOW"
         ],
         "id": "22eb7c5419813b15742d"
+      },
+      {
+        "title": "[NEU] [hoch] Zoom Video Communications Workplace und Rooms: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2763",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T11:41:05+00:00",
+        "fetched_at": "2026-08-12T11:45:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Zoom Video Communications Workplace und Rooms ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Daten offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1b1c9e902dddfda16ccc"
+      },
+      {
+        "title": "[NEU] [mittel] AMD Prozessor: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2795",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T11:36:05+00:00",
+        "fetched_at": "2026-08-12T11:45:48+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um seine Privilegien zu erhöhen oder einen Denial of Service zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ce0afdb5d5813cee82e0"
+      },
+      {
+        "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2794",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T11:31:05+00:00",
+        "fetched_at": "2026-08-12T11:45:48+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2a166774a47c35f86ffd"
       },
       {
         "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Codeausführung",
@@ -2084,6 +2201,54 @@
       "id": "5b89257da36bd430ad02"
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (python-idna): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2797",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:41:06+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (python-idna) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d24afc25ca9a688a142b"
+    },
+    {
+      "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2796",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:41:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdbe3b1820fcf8ad3de3"
+    },
+    {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2343,6 +2508,75 @@
         "LOW"
       ],
       "id": "22eb7c5419813b15742d"
+    },
+    {
+      "title": "[NEU] [hoch] Zoom Video Communications Workplace und Rooms: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2763",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:41:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zoom Video Communications Workplace und Rooms ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Daten offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1b1c9e902dddfda16ccc"
+    },
+    {
+      "title": "[NEU] [mittel] AMD Prozessor: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2795",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:36:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um seine Privilegien zu erhöhen oder einen Denial of Service zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ce0afdb5d5813cee82e0"
+    },
+    {
+      "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2794",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:31:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a166774a47c35f86ffd"
     },
     {
       "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Codeausführung",
@@ -3651,59 +3885,61 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] CyberPanel: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2793",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (python-idna): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2797",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-12T11:11:06+00:00",
-      "fetched_at": "2026-08-12T11:26:57+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CyberPanel ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-08-12T11:41:06+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (python-idna) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a88ef6f804a9187cdf3b"
+      "id": "d24afc25ca9a688a142b"
     },
     {
-      "title": "[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2792",
+      "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2796",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-12T11:11:06+00:00",
-      "fetched_at": "2026-08-12T11:26:57+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Snipe-IT ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder möglicherweise einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-08-12T11:41:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Microsoft",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0a53f5f2ef56cc12380f"
+      "id": "bdbe3b1820fcf8ad3de3"
     },
     {
-      "title": "[NEU] [niedrig] CUPS: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2791",
+      "title": "[NEU] [hoch] Zoom Video Communications Workplace und Rooms: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2763",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-12T11:11:06+00:00",
-      "fetched_at": "2026-08-12T11:26:57+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-08-12T11:41:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zoom Video Communications Workplace und Rooms ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Daten offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3717,16 +3953,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4216daa1b5b82d4f774c"
+      "id": "1b1c9e902dddfda16ccc"
     },
     {
-      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2790",
+      "title": "[NEU] [mittel] AMD Prozessor: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2795",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-12T11:11:05+00:00",
-      "fetched_at": "2026-08-12T11:26:57+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Auswirkungen zu verursachen, darunter möglicherweise die Ausführung von beliebigem Code, die Umgehung von Sicherheitsmaßnahmen, die Offenlegung von Informationen oder einen Denial-of-Service-Zustand.",
+      "published_at": "2026-08-12T11:36:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um seine Privilegien zu erhöhen oder einen Denial of Service zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3740,7 +3976,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6074eb37bfefa12bdb0e"
+      "id": "ce0afdb5d5813cee82e0"
+    },
+    {
+      "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2794",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:31:05+00:00",
+      "fetched_at": "2026-08-12T11:45:48+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a166774a47c35f86ffd"
     }
   ],
   "source_errors": [],
