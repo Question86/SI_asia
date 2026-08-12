@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T09:32:23+00:00_
+_Generiert: 2026-08-12T09:55:35+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+57 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-12T09:29:00.000+00:00`, fetched `2026-08-12T09:55:00+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Beyond the social media ban: What Singapore can learn from the next phase of online child safety** — Score 11, observation — [Quelle](https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T06:14:52+00:00`, fetched `2026-08-12T06:28:01+00:00`
@@ -284,15 +293,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: デジタル庁における公文書等の管理について標準文書保存期間基準（保存期間表）を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/e6e5abe2-c5b1-4dc4-b683-465b518e6c91)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-12T06:00:00+00:00`, fetched `2026-08-12T06:28:01+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年度（令和8年度）デジタル庁「こども霞が関見学デー」を開催しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

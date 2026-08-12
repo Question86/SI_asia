@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T09:32:23+00:00_
+_Generated: 2026-08-12T09:55:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `57`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-12T09:32:23+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260071.en.html
 - summary: Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 8. Beyond the social media ban: What Singapore can learn from the next phase of online child safety
-- source: e27 Asia Startup and Tech Feed
+### 8. WordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme
+- source: heise Security Alerts
 - score: `11`
-- published: `2026-08-12T06:14:52+00:00`
-- url: https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/
-- summary: When governments first began talking about regulating social media, the debate revolved around familiar tensions: innovation versus regulation, free speech versus public safety, and economic growth versus platform accountability. That debate has now entered a…
+- published: `2026-08-12T09:29:00.000+00:00`
+- url: https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html
+- summary: Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.
 
 END OF DOCUMENT

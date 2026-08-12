@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T09:32:23+00:00",
-  "run_id": "2026-08-12T09:32:23+00:00",
+  "generated_at": "2026-08-12T09:55:35+00:00",
+  "run_id": "2026-08-12T09:55:35+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 2,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
     "medium": 34,
-    "observe": 21,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -958,6 +958,27 @@
         "id": "26784d1ed830b9e07b0a"
       },
       {
+        "title": "WordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+        "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:29:00.000+00:00",
+        "fetched_at": "2026-08-12T09:55:00+00:00",
+        "summary": "Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.",
+        "matched_keywords": [
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb639e382f857c4ef78f"
+      },
+      {
         "title": "Beyond the social media ban: What Singapore can learn from the next phase of online child safety",
         "url": "https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1270,6 +1291,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d737ccf74035918db6e2"
+      },
+      {
+        "title": "長年転売ヤーの動きを見てきてわかったこと――転売ヤーに話は通じない、転売ヤーはかつて仕事もせずに朝から晩までパチンコに興じていた層に近い、転売ヤーにクイズは非常に有効、儲けられる転売ヤーなんてひと握り。基本自転車操業、最近は10代の若年層も転売に興じる光景も珍しくない→「生成AI使っている連中にも、おおよそ当てはまる気がする」",
+        "url": "https://posfie.com/@kalofollow/p/oWdKTEb",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-12T02:10:56+00:00",
+        "fetched_at": "2026-08-12T09:55:00+00:00",
+        "summary": "あるま @alma041986 長年転売ヤーの動きを見てきてわかったこと 1.転売ヤーに話は通じない。 2.転売ヤーはかつて仕事もせずに朝から晩までパチンコに興じていた層に近い。 3.転売ヤーにクイズは非常に有効。 4.儲けられる転売ヤーなんてひと握り。基本自転車操業。 5.最近は10代の若年層も転売に興じる光景も珍しくない...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3cb40146caa051bc3082"
       },
       {
         "title": "「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞",
@@ -2304,6 +2346,27 @@
       "id": "26784d1ed830b9e07b0a"
     },
     {
+      "title": "WordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+      "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:29:00.000+00:00",
+      "fetched_at": "2026-08-12T09:55:00+00:00",
+      "summary": "Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.",
+      "matched_keywords": [
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb639e382f857c4ef78f"
+    },
+    {
       "title": "Beyond the social media ban: What Singapore can learn from the next phase of online child safety",
       "url": "https://e27.co/beyond-the-social-media-ban-what-singapore-can-learn-from-the-next-phase-of-online-child-safety-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2618,6 +2681,27 @@
       "id": "d737ccf74035918db6e2"
     },
     {
+      "title": "長年転売ヤーの動きを見てきてわかったこと――転売ヤーに話は通じない、転売ヤーはかつて仕事もせずに朝から晩までパチンコに興じていた層に近い、転売ヤーにクイズは非常に有効、儲けられる転売ヤーなんてひと握り。基本自転車操業、最近は10代の若年層も転売に興じる光景も珍しくない→「生成AI使っている連中にも、おおよそ当てはまる気がする」",
+      "url": "https://posfie.com/@kalofollow/p/oWdKTEb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T02:10:56+00:00",
+      "fetched_at": "2026-08-12T09:55:00+00:00",
+      "summary": "あるま @alma041986 長年転売ヤーの動きを見てきてわかったこと 1.転売ヤーに話は通じない。 2.転売ヤーはかつて仕事もせずに朝から晩までパチンコに興じていた層に近い。 3.転売ヤーにクイズは非常に有効。 4.儲けられる転売ヤーなんてひと握り。基本自転車操業。 5.最近は10代の若年層も転売に興じる光景も珍しくない...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3cb40146caa051bc3082"
+    },
+    {
       "title": "「強制的にスマホの顔認証」警察の捜査で新手法 「行きすぎ」懸念も：朝日新聞",
       "url": "https://www.asahi.com/articles/ASV7Y34MQV7YPTIL014M.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2723,142 +2807,46 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Insyde UEFI Firmware (InsydeH2O): Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2777",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "WordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+      "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-08-12T09:31:05+00:00",
-      "fetched_at": "2026-08-12T09:31:53+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Insyde UEFI Firmware ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-08-12T09:29:00.000+00:00",
+      "fetched_at": "2026-08-12T09:55:00+00:00",
+      "summary": "Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Security",
+        "Webentwicklung"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3eafd28e6f4bbeacd367"
+      "id": "cb639e382f857c4ef78f"
     },
     {
-      "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2776",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "長年転売ヤーの動きを見てきてわかったこと――転売ヤーに話は通じない、転売ヤーはかつて仕事もせずに朝から晩までパチンコに興じていた層に近い、転売ヤーにクイズは非常に有効、儲けられる転売ヤーなんてひと握り。基本自転車操業、最近は10代の若年層も転売に興じる光景も珍しくない→「生成AI使っている連中にも、おおよそ当てはまる気がする」",
+      "url": "https://posfie.com/@kalofollow/p/oWdKTEb",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-12T09:16:05+00:00",
-      "fetched_at": "2026-08-12T09:31:53+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-08-12T02:10:56+00:00",
+      "fetched_at": "2026-08-12T09:55:00+00:00",
+      "summary": "あるま @alma041986 長年転売ヤーの動きを見てきてわかったこと 1.転売ヤーに話は通じない。 2.転売ヤーはかつて仕事もせずに朝から晩までパチンコに興じていた層に近い。 3.転売ヤーにクイズは非常に有効。 4.儲けられる転売ヤーなんてひと握り。基本自転車操業。 5.最近は10代の若年層も転売に興じる光景も珍しくない...",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8d39dfb524e745291111"
-    },
-    {
-      "title": "[NEU] [mittel] dhcpcd: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2775",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T09:11:06+00:00",
-      "fetched_at": "2026-08-12T09:31:53+00:00",
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in dhcpcd ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f00924664a062b445a1"
-    },
-    {
-      "title": "[NEU] [hoch] ILIAS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2774",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T09:06:06+00:00",
-      "fetched_at": "2026-08-12T09:31:53+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Code auszuführen, SQL-Injection durchzuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "125cf100c9d72f9bf162"
-    },
-    {
-      "title": "[NEU] [hoch] Adobe Creative Cloud (Lightroom Classic): Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2773",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T09:06:06+00:00",
-      "fetched_at": "2026-08-12T09:31:53+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud (Lightroom Classic) ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b5828738343d54caf93a"
-    },
-    {
-      "title": "[NEU] [mittel] Intel Prozessor: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2772",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T09:06:05+00:00",
-      "fetched_at": "2026-08-12T09:31:53+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Intel Prozessor ausnutzen, um erweiterte Rechte zu erlangen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4df23611d0defc6ac6a4"
+      "id": "3cb40146caa051bc3082"
     }
   ],
   "source_errors": [],
