@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:45:11+00:00",
+  "generated_at": "2026-08-12T13:13:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,23 +65,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.0 - South Sandwich Islands region",
-        "summary": "M6.0 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk74",
-        "published_at": "2026-08-12T11:47:12+00:00",
-        "metrics": {
-          "mag": 6.0,
-          "alert": "green",
-          "sig": 554.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, No people affected in 100km.",
-        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, No people affected in 100km.",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557631",
         "published_at": "",

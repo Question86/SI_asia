@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T12:45:08+00:00_
+_Generated: 2026-08-12T13:13:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `89`
+- findings: `91`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-12T12:45:08+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2693
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux AI ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
 
-### 4. [NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-08-12T10:01:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2784
-- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Exchange ausnutzen, um erweiterte Rechte – einschließlich SYSTEM-Rechte – zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder…
+### 4. From assistance to execution: How enterprises put AI to work
+- source: OpenAI News RSS
+- score: `19`
+- published: `2026-08-12T06:00:00+00:00`
+- url: https://openai.com/index/how-enterprises-put-ai-to-work
+- summary: OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.
 
 ### 5. M 6.0 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
