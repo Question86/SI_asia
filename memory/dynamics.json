@@ -1,16 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-12T00:37:56Z",
+  "generated_at": "2026-08-12T01:08:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 6,
     "bands": {
       "strong": 1,
+      "watch": 2,
       "quiet": 3
     },
     "bands_after_gate_recheck": {
       "strong": 1,
+      "watch": 2,
       "quiet": 3
     }
   },
@@ -20,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 53.94,
+      "age_days": 53.97,
       "topics": [
         "ai"
       ],
@@ -39,17 +41,69 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 53.9d old signal",
+        "aging penalty -8.0 for 54.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "5 US venture capital shifts every Southeast Asian founder should be tracking right now",
+      "url": "https://e27.co/5-us-venture-capital-shifts-every-southeast-asian-founder-should-be-tracking-right-now-20260811/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-12T01:00:02+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: regional",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other is in Singapore. He pitches a regional VC firm. […] The pos…"
+    },
+    {
+      "title": "The scarcity mindset is killing creativity, not AI",
+      "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-12T01:00:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism. Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided the hype, but because the people on stage and in the hallwa…"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.91,
+      "age_days": 52.93,
       "topics": [
         "general"
       ],
@@ -74,7 +128,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.91,
+      "age_days": 52.93,
       "topics": [
         "general"
       ],
@@ -99,7 +153,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 52.91,
+      "age_days": 52.93,
       "topics": [
         "ai"
       ],
