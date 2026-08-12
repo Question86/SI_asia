@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-12T05:05:33Z",
+  "generated_at": "2026-08-12T05:44:59Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96740507/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:30+09:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU98375707/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:15+09:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T02:30:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -88,7 +88,7 @@
       "url": "https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T03:57:19+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -109,11 +109,37 @@
       "summary": "For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical: what does AI actually do once it is pl…"
     },
     {
+      "title": "[UPDATE] [hoch] Red Hat OpenShift (oauth-proxy): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2749",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T05:16:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren."
+    },
+    {
       "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
       "url": "https://jvn.jp/vu/JVNVU96623328/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:45+09:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -138,7 +164,7 @@
       "url": "https://jvn.jp/vu/JVNVU95587179/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-12T10:30:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -163,7 +189,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 54.13,
+      "age_days": 54.16,
       "topics": [
         "ai"
       ],
@@ -182,7 +208,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 54.1d old signal",
+        "aging penalty -8.0 for 54.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -192,7 +218,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-12T04:21:57.298+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -217,7 +243,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-08-12T11:27+09:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -241,7 +267,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-12T04:51:16+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -267,7 +293,7 @@
       "url": "https://e27.co/5-us-venture-capital-shifts-every-southeast-asian-founder-should-be-tracking-right-now-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-12T01:00:02+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -287,32 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Imagine two founders raising their first million dollars this year. One is in San Francisco. She emails a former operator who exited a company in her space. He replies in two hours. They meet the next morning. The term sheet arrives within the week. The other is in Singapore. He pitches a regional VC firm. […] The pos…"
-    },
-    {
-      "title": "The scarcity mindset is killing creativity, not AI",
-      "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-12T01:00:16+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism. Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided the hype, but because the people on stage and in the hallwa…"
     }
   ],
   "read_order": [
@@ -324,8 +324,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 10,
+      "watch": 2
     }
   }
 }
