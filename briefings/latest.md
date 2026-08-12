@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T11:07:37+00:00_
+_Generiert: 2026-08-12T11:27:28+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+74 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
