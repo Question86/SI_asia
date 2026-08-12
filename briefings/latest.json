@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T18:49:03+00:00",
-  "run_id": "2026-08-12T18:49:03+00:00",
+  "generated_at": "2026-08-12T19:15:40+00:00",
+  "run_id": "2026-08-12T19:15:40+00:00",
   "date": "2026-08-12",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 96
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 1,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
-    "medium": 58,
+    "medium": 59,
     "observe": 37,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -650,6 +650,29 @@
           "LOW"
         ],
         "id": "22eb7c5419813b15742d"
+      },
+      {
+        "title": "Write your first prompt with the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-12T19:00:00+00:00",
+        "fetched_at": "2026-08-12T19:15:04+00:00",
+        "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Content-Chance",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8c4e0ddd22b42507d4e0"
       },
       {
         "title": "[UPDATE] [hoch] NGINX-UI: Mehrere Schwachstellen",
@@ -2975,6 +2998,29 @@
       "id": "22eb7c5419813b15742d"
     },
     {
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-12T19:00:00+00:00",
+      "fetched_at": "2026-08-12T19:15:04+00:00",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c4e0ddd22b42507d4e0"
+    },
+    {
       "title": "[UPDATE] [hoch] NGINX-UI: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2798",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4671,13 +4717,43 @@
       "id": "a8eb93aa3f46d3024e44"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-12T19:00:00+00:00",
+      "fetched_at": "2026-08-12T19:15:04+00:00",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c4e0ddd22b42507d4e0"
+    }
+  ],
   "source_errors": [
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f78d9648dd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
     }
   ],
   "quality_gate": {

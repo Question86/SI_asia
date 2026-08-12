@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T18:49:03+00:00_
+_Generiert: 2026-08-12T19:15:40+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+96 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -120,6 +120,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-08-12 04:05:51 UTC 2026-08-12 04:05:51 UTC at epicenter Location 32.456°N 130.450°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Write your first prompt with the GitHub Copilot app** — Score 14, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-12T19:00:00+00:00`, fetched `2026-08-12T19:15:04+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96740507/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-12T10:30:30+09:00`, fetched `2026-08-12T01:38:42+00:00`
@@ -279,4 +288,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f78d9648dd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
