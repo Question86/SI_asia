@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T02:32:47+00:00_
+_Generated: 2026-08-12T03:24:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `13`
 
 ## Top Signals
 
@@ -43,18 +43,25 @@ _Generated: 2026-08-12T02:32:47+00:00_
 - url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
 - summary: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large sw…
 
-### 6. The diagnosis is becoming free, the operation is not
+### 6. Security Alert: Microsoft Releases August 2026 Security Updates
+- source: JPCERT/CC English Alerts
+- score: `10`
+- published: `2026-08-12T11:27+09:00`
+- url: https://www.jpcert.or.jp/english/at/2026/at260022.html
+- summary: Security Alert: Microsoft Releases August 2026 Security Updates
+
+### 7. Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-08-11T22:44:55+00:00`
+- url: https://www.itmedia.co.jp/news/article/2608/12/2000000497/
+- summary: 同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...
+
+### 8. The diagnosis is becoming free, the operation is not
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-08-12T02:00:13+00:00`
 - url: https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/
 - summary: AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be…
-
-### 7. The scarcity mindset is killing creativity, not AI
-- source: e27 Asia Startup and Tech Feed
-- score: `4`
-- published: `2026-08-12T01:00:16+00:00`
-- url: https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/
-- summary: San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism. Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided…
 
 END OF DOCUMENT

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-12T02:32:47+00:00",
+  "generated_at": "2026-08-12T03:24:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 7,
-    "observe": 3
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,26 @@
       "section": "observe"
     },
     {
+      "title": "Security Alert: Microsoft Releases August 2026 Security Updates",
+      "source": "JPCERT/CC English Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:27+09:00",
+      "relevance_score": 10,
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
+      "summary": "Security Alert: Microsoft Releases August 2026 Security Updates",
+      "section": "observe"
+    },
+    {
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T22:44:55+00:00",
+      "relevance_score": 8,
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+      "summary": "同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...",
+      "section": "observe"
+    },
+    {
       "title": "The diagnosis is becoming free, the operation is not",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,16 +93,6 @@
       "url": "https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/",
       "summary": "AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be…",
       "section": "observe"
-    },
-    {
-      "title": "The scarcity mindset is killing creativity, not AI",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-12T01:00:16+00:00",
-      "relevance_score": 4,
-      "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
-      "summary": "San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism. Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -90,135 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
-        "url": "https://jvn.jp/vu/JVNVU96623328/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:45+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, cve, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月11日）",
-        "url": "https://jvn.jp/vu/JVNVU95587179/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:00+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96740507/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:30+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Siemens製品に対するアップデート（2026年8月）",
-        "url": "https://jvn.jp/vu/JVNVU98375707/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-12T10:30:15+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
-      },
-      {
-        "title": "Sovereign AI starts long before the AI model",
-        "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-12T02:30:01+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security, cloud"
-        ],
-        "summary": "Over the past year, I’ve noticed something interesting. Infrastructure discussions have started sounding very different. Not because the technology has fundamentally changed—we’re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instea…"
-      }
-    ]
-  }
+  ]
 }

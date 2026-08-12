@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T02:32:47+00:00_
+_Generiert: 2026-08-12T03:24:32+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „5 US venture capital shifts every Southeast Asian founder should be tracking right now“ aus e27 Asia Startup and Tech Feed (Score 21, observation).
+13 neue relevante Treffer. Stärkstes Signal: „5 US venture capital shifts every Southeast Asian founder should be tracking right now“ aus e27 Asia Startup and Tech Feed (Score 21, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -127,6 +127,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)
   - Kurz: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Security Alert: Microsoft Releases August 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260022.html)
+  - Quelle: JPCERT/CC English Alerts / `rss`
+  - Zeit: published `2026-08-12T11:27+09:00`, fetched `2026-08-12T03:24:03+00:00`
+  - Treffer: JPCERT, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
+  - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ** — Score 8, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/12/2000000497/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T22:44:55+00:00`, fetched `2026-08-12T03:24:03+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The diagnosis is becoming free, the operation is not** — Score 7, observation — [Quelle](https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T02:00:13+00:00`, fetched `2026-08-12T02:32:18+00:00`
@@ -135,6 +153,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be wrong, and a list of questions to ask the doctor. […] The post The diagnosis is becoming free, the operation is not appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治** — Score 5, observation — [Quelle](https://note.com/horizon_it00/n/nfb8e10e5ff4d)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T21:54:55+00:00`, fetched `2026-08-12T03:24:03+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The scarcity mindset is killing creativity, not AI** — Score 4, opportunity — [Quelle](https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

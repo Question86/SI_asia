@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T02:32:47+00:00",
-  "run_id": "2026-08-12T02:32:47+00:00",
+  "generated_at": "2026-08-12T03:24:32+00:00",
+  "run_id": "2026-08-12T03:24:32+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 7,
-    "observe": 3,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -235,6 +235,49 @@
         "id": "1cc8e4808adc9fe7930b"
       },
       {
+        "title": "Security Alert: Microsoft Releases August 2026 Security Updates",
+        "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
+        "source": "JPCERT/CC English Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-12T11:27+09:00",
+        "fetched_at": "2026-08-12T03:24:03+00:00",
+        "summary": "Security Alert: Microsoft Releases August 2026 Security Updates",
+        "matched_keywords": [
+          "JPCERT",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "57273cfdd624632086c5"
+      },
+      {
+        "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+        "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T22:44:55+00:00",
+        "fetched_at": "2026-08-12T03:24:03+00:00",
+        "summary": "同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0259e1040064bc086a66"
+      },
+      {
         "title": "The diagnosis is becoming free, the operation is not",
         "url": "https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -254,6 +297,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "abd39f395e4a447edd4f"
+      },
+      {
+        "title": "NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治",
+        "url": "https://note.com/horizon_it00/n/nfb8e10e5ff4d",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-11T21:54:55+00:00",
+        "fetched_at": "2026-08-12T03:24:03+00:00",
+        "summary": "情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "de196f7e596d64e050c2"
       },
       {
         "title": "The scarcity mindset is killing creativity, not AI",
@@ -483,6 +547,49 @@
       "id": "1cc8e4808adc9fe7930b"
     },
     {
+      "title": "Security Alert: Microsoft Releases August 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
+      "source": "JPCERT/CC English Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-12T11:27+09:00",
+      "fetched_at": "2026-08-12T03:24:03+00:00",
+      "summary": "Security Alert: Microsoft Releases August 2026 Security Updates",
+      "matched_keywords": [
+        "JPCERT",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "57273cfdd624632086c5"
+    },
+    {
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T22:44:55+00:00",
+      "fetched_at": "2026-08-12T03:24:03+00:00",
+      "summary": "同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0259e1040064bc086a66"
+    },
+    {
       "title": "The diagnosis is becoming free, the operation is not",
       "url": "https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -502,6 +609,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "abd39f395e4a447edd4f"
+    },
+    {
+      "title": "NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治",
+      "url": "https://note.com/horizon_it00/n/nfb8e10e5ff4d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-11T21:54:55+00:00",
+      "fetched_at": "2026-08-12T03:24:03+00:00",
+      "summary": "情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de196f7e596d64e050c2"
     },
     {
       "title": "The scarcity mindset is killing creativity, not AI",
@@ -527,71 +655,68 @@
   ],
   "new_findings": [
     {
-      "title": "Sovereign AI starts long before the AI model",
-      "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Security Alert: Microsoft Releases August 2026 Security Updates",
+      "url": "https://www.jpcert.or.jp/english/at/2026/at260022.html",
+      "source": "JPCERT/CC English Alerts",
       "source_type": "rss",
-      "published_at": "2026-08-12T02:30:01+00:00",
-      "fetched_at": "2026-08-12T02:32:18+00:00",
-      "summary": "Over the past year, I’ve noticed something interesting. Infrastructure discussions have started sounding very different. Not because the technology has fundamentally changed—we’re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instead of debating latency, scalability, or cost optimisation, we’re increasingly discussing where data c…",
+      "published_at": "2026-08-12T11:27+09:00",
+      "fetched_at": "2026-08-12T03:24:03+00:00",
+      "summary": "Security Alert: Microsoft Releases August 2026 Security Updates",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
+        "JPCERT",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); JPCERT (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "850910e052c6ffa37ff5"
+      "id": "57273cfdd624632086c5"
     },
     {
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ",
+      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-11T21:40:08+00:00",
-      "fetched_at": "2026-08-12T02:32:18+00:00",
-      "summary": "Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe...",
+      "published_at": "2026-08-11T22:44:55+00:00",
+      "fetched_at": "2026-08-12T03:24:03+00:00",
+      "summary": "同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...",
       "matched_keywords": [
-        "agent",
         "AI/KI",
-        "developer",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1cc8e4808adc9fe7930b"
+      "id": "0259e1040064bc086a66"
     },
     {
-      "title": "The diagnosis is becoming free, the operation is not",
-      "url": "https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治",
+      "url": "https://note.com/horizon_it00/n/nfb8e10e5ff4d",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-12T02:00:13+00:00",
-      "fetched_at": "2026-08-12T02:32:18+00:00",
-      "summary": "AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be wrong, and a list of questions to ask the doctor. […] The post The diagnosis is becoming free, the operation is not appeared first on e27 .",
+      "published_at": "2026-08-11T21:54:55+00:00",
+      "fetched_at": "2026-08-12T03:24:03+00:00",
+      "summary": "情報収集の悩みは、いつも同じところに行き着きます。ソースが増えるほど整理が追いつかず、結局どこに何を書いたか分からなくなる。 2026年6月8日、Googleが公式発表した「NotebookLM」(2026年7月16日に「Gemini Notebook」へ改称)の大型アップデートは、この悩みに一歩踏み込んだ内容でした。実際に使い込んで、普段使...",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "abd39f395e4a447edd4f"
+      "id": "de196f7e596d64e050c2"
     }
   ],
   "source_errors": [],
