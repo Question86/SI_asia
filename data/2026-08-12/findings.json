@@ -503,6 +503,52 @@
     "id": "22eb7c5419813b15742d"
   },
   {
+    "title": "[UPDATE] [hoch] GStreamer: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2662",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-12T11:01:15+00:00",
+    "fetched_at": "2026-08-12T11:07:08+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um Daten zu beschädigen, einen Denial-of-Service-Zustand herbeizuführen, vertrauliche Informationen offenzulegen oder möglicherweise beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "edc20cb61208b26ffe5d"
+  },
+  {
+    "title": "[UPDATE] [hoch] CPython: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2044",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-12T11:01:13+00:00",
+    "fetched_at": "2026-08-12T11:07:08+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in CPython ausnutzen, um Dateien zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "90cb1663e210c95f8a98"
+  },
+  {
     "title": "[NEU] [hoch] Fleet: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788",
     "source": "BSI CERT-Bund Security Advisories",
