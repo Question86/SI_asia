@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-12T10:20:32+00:00",
+  "generated_at": "2026-08-12T10:43:16+00:00",
   "topics": {
     "ai": [
       {
@@ -107,6 +107,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2755"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-12T10:31:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789"
+      },
+      {
         "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-12T10:30:45+09:00",
@@ -147,13 +154,6 @@
         "published_at": "2026-08-12T09:01:07+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (brace-expansion): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T07:51:46+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2725"
       }
     ],
     "geopolitics": [
@@ -186,6 +186,13 @@
         "url": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-12T10:31:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789"
+      },
+      {
         "title": "[NEU] [mittel] Microsoft Windows Package Manager: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-12T10:01:06+00:00",
@@ -214,18 +221,11 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769"
       },
       {
-        "title": "[NEU] [mittel] nmap: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [hoch] Fleet: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T10:01:07+00:00",
+        "published_at": "2026-08-12T10:31:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2787"
-      },
-      {
-        "title": "[NEU] [mittel] IBM Storage Scale: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-12T10:01:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2786"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788"
       }
     ],
     "general": [

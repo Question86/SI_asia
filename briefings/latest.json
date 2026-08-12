@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T10:20:32+00:00",
-  "run_id": "2026-08-12T10:20:32+00:00",
+  "generated_at": "2026-08-12T10:43:16+00:00",
+  "run_id": "2026-08-12T10:43:16+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 9,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 2,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
-    "medium": 41,
+    "medium": 43,
     "observe": 25,
     "source_errors": 0
   },
@@ -272,6 +272,30 @@
         "id": "5b89257da36bd430ad02"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T10:31:05+00:00",
+        "fetched_at": "2026-08-12T10:42:45+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (open-iscsi) ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27a4f578b220d5f316f3"
+      },
+      {
         "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
         "url": "https://jvn.jp/vu/JVNVU96623328/",
         "source": "JVN Japan Vulnerability Notes",
@@ -507,6 +531,29 @@
           "LOW"
         ],
         "id": "22eb7c5419813b15742d"
+      },
+      {
+        "title": "[NEU] [hoch] Fleet: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T10:31:05+00:00",
+        "fetched_at": "2026-08-12T10:42:45+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b848a470c0a4865e722d"
       },
       {
         "title": "ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性",
@@ -1899,6 +1946,30 @@
       "id": "5b89257da36bd430ad02"
     },
     {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T10:31:05+00:00",
+      "fetched_at": "2026-08-12T10:42:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (open-iscsi) ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27a4f578b220d5f316f3"
+    },
+    {
       "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
       "url": "https://jvn.jp/vu/JVNVU96623328/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2134,6 +2205,29 @@
         "LOW"
       ],
       "id": "22eb7c5419813b15742d"
+    },
+    {
+      "title": "[NEU] [hoch] Fleet: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T10:31:05+00:00",
+      "fetched_at": "2026-08-12T10:42:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b848a470c0a4865e722d"
     },
     {
       "title": "ECプラットフォーム「Opencart」におけるディレクトリトラバーサルの脆弱性",
@@ -3281,138 +3375,37 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2784",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (open-iscsi): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2789",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-12T10:01:06+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Exchange ausnutzen, um erweiterte Rechte – einschließlich SYSTEM-Rechte – zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen, Spoofing-Angriffe durchzuführen und einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-08-12T10:31:05+00:00",
+      "fetched_at": "2026-08-12T10:42:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (open-iscsi) ausnutzen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Exchange",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "337f353707ac7d567142"
-    },
-    {
-      "title": "Why we should all be worried about AI in elections",
-      "url": "https://restofworld.org/2026/ai-elections-deepfake-voter-chatbot/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-12T10:00:00+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Deepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy",
-        "Watchgraph:elections_unrest",
-        "Watchgraph:narrative_social_reputation"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph modules elections_unrest, narrative_social_reputation (+6.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "elections_unrest",
-        "narrative_social_reputation"
-      ],
-      "watchgraph_reasons": [
-        "elections_unrest: election",
-        "narrative_social_reputation: deepfake"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "BA",
-        "PINS",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "4cff85aa03b1aac2dbac"
-    },
-    {
-      "title": "[NEU] [mittel] Microsoft Windows Package Manager: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2785",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T10:01:06+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Windows Package Manager ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9961e0cfbbbb43038882"
+      "id": "27a4f578b220d5f316f3"
     },
     {
-      "title": "[NEU] [hoch] Microsoft Dynamics: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2783",
+      "title": "[NEU] [hoch] Fleet: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-12T10:01:05+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Dynamics 365 ausnutzen, um beliebigen Programmcode auszuführen oder vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "95164735f324a280066c"
-    },
-    {
-      "title": "[NEU] [mittel] nmap: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2787",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T10:01:07+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in nmap ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-08-12T10:31:05+00:00",
+      "fetched_at": "2026-08-12T10:42:45+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fleet ausnutzen, um SQL-Injection durchzuführen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3426,96 +3419,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d92f67fc676ac01d7f7a"
-    },
-    {
-      "title": "[NEU] [mittel] IBM Storage Scale: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2786",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T10:01:07+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Storage Scale ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9558953d7fc3d1567670"
-    },
-    {
-      "title": "[NEU] [mittel] Apache HttpComponents: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2782",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-12T10:01:05+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache HttpComponents ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f0a0cf83f4a55086ed2"
-    },
-    {
-      "title": "葆光系統｜POS餐飲系統 - Missing Authentication",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11100-407c5-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-12T06:41:00+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "葆光系統｜POS餐飲系統 - Missing Authentication",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ad1ea6fcbb7e9d5aeab0"
-    },
-    {
-      "title": "「めっちゃカメレオン」2000万本突破 日本の2人が開発、発売から2カ月で",
-      "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000507/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-12T06:25:37+00:00",
-      "fetched_at": "2026-08-12T10:19:59+00:00",
-      "summary": "日本の個人が開発したかくれんぼゲーム「めっちゃカメレオン」（790円／Steam向け）の販売本数が、6月10日の発売から約2カ月で2000万本を突破した。開発者の1人・LEMORION（レモリオン）氏が12日、自身のXで明らかにした。個人開発として異次元とも言える“超大ヒット”が続いている。 めっちゃカメレオンは、LEMORION氏と...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0d4293b2123a9eeaf2c4"
+      "id": "b848a470c0a4865e722d"
     }
   ],
   "source_errors": [],
