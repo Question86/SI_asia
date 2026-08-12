@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T03:24:32+00:00_
+_Generiert: 2026-08-12T04:11:46+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „5 US venture capital shifts every Southeast Asian founder should be tracking right now“ aus e27 Asia Startup and Tech Feed (Score 21, observation).
+15 neue relevante Treffer. Stärkstes Signal: „5 US venture capital shifts every Southeast Asian founder should be tracking right now“ aus e27 Asia Startup and Tech Feed (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)
   - Kurz: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 42 km ESE of Naalehu, Hawaii** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-12T04:10:20.520+00:00`, fetched `2026-08-12T04:11:14+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV DYFI? - IV Time 2026-08-12 03:48:33 UTC 2026-08-12 03:48:33 UTC at epicenter Location 18.879°N 155.233°W Depth 10.73 km (6.67 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Security Alert: Microsoft Releases August 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260022.html)
   - Quelle: JPCERT/CC English Alerts / `rss`
   - Zeit: published `2026-08-12T11:27+09:00`, fetched `2026-08-12T03:24:03+00:00`
@@ -86,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Microsoft Releases August 2026 Security Updates
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **From chatbots to payment agents: AI’s next role in SEA commerce** — Score 8, observation — [Quelle](https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-12T03:57:19+00:00`, fetched `2026-08-12T04:11:14+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical: what does AI actually do once it is plugged into real workflows? A new […] The post From chatbots to payment agents: AI’s next role in SEA…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ** — Score 8, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/12/2000000497/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
