@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T21:35:00+00:00_
+_Generiert: 2026-08-12T21:55:53+00:00_
 
 ## Kurzlage
 
-101 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+103 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
   - Kurz: Over the past few weeks, I’ve noticed a rather interesting trend on social media. More and more founders, creators and professionals are opening ChatGPT, Gemini or Claude and asking the same question: What do you know about me? At first, I thought it was just another viral trend. Then curiosity got the better of me, […] The post If AI can’t find your startup, does your startup exist? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 21 km NE of Basco, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkax)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-12T21:40:51.040+00:00`, fetched `2026-08-12T21:55:25+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-12 21:25:22 UTC 2026-08-12 21:25:22 UTC at epicenter Location 20.560°N 122.144°E Depth 17.32 km (10.76 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 14 km WSW of Honmachi, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5c)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-12T04:21:57.298+00:00`, fetched `2026-08-12T04:51:16+00:00`

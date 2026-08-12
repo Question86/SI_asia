@@ -585,6 +585,43 @@
     "id": "b402765cc2ff547bf5ad"
   },
   {
+    "title": "M 4.7 - 21 km NE of Basco, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkax",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-12T21:40:51.040+00:00",
+    "fetched_at": "2026-08-12T21:55:25+00:00",
+    "summary": "Time 2026-08-12 21:25:22 UTC 2026-08-12 21:25:22 UTC at epicenter Location 20.560°N 122.144°E Depth 17.32 km (10.76 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "2565605dbafb6e824524"
+  },
+  {
     "title": "M 4.9 - 14 km WSW of Honmachi, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5c",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1491,6 +1528,51 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "850910e052c6ffa37ff5"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "url": "https://openai.com/index/ringcentral",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-12T00:00:00+00:00",
+    "fetched_at": "2026-08-12T21:55:25+00:00",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "Watchgraph:ai_agents_workflow"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "ai_agents_workflow"
+    ],
+    "watchgraph_reasons": [
+      "ai_agents_workflow: Codex"
+    ],
+    "market_context": [
+      "NVDA",
+      "AMD",
+      "TSM",
+      "ASML",
+      "AVGO",
+      "MU",
+      "005930.KS",
+      "000660.KS",
+      "8035.T",
+      "MSFT",
+      "GTLB",
+      "FROG",
+      "TEAM",
+      "META",
+      "GOOGL",
+      "RDDT",
+      "SNAP",
+      "PINS"
+    ],
+    "id": "be2bf382beed41db36da"
   },
   {
     "title": "M 6.0 - South Sandwich Islands region",
