@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T19:41:37+00:00",
-  "run_id": "2026-08-12T19:41:37+00:00",
+  "generated_at": "2026-08-12T20:04:21+00:00",
+  "run_id": "2026-08-12T20:04:21+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 98
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 98,
-    "displayed_findings": 98,
+    "new_relevant_findings": 1,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 0,
     "medium": 59,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -1608,6 +1608,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1cc8e4808adc9fe7930b"
+      },
+      {
+        "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-12T18:39:11+00:00",
+        "fetched_at": "2026-08-12T20:03:42+00:00",
+        "summary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.… The post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+6.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1c40dd4677ce8a3f8408"
       },
       {
         "title": "Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -3996,6 +4018,28 @@
       "id": "1cc8e4808adc9fe7930b"
     },
     {
+      "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-12T18:39:11+00:00",
+      "fetched_at": "2026-08-12T20:03:42+00:00",
+      "summary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.… The post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+6.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1c40dd4677ce8a3f8408"
+    },
+    {
       "title": "Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260071.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -4803,46 +4847,26 @@
   ],
   "new_findings": [
     {
-      "title": "Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた",
-      "url": "https://zenn.dev/hellorusk/articles/3328866ca9e922",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-12T13:27:16+00:00",
-      "fetched_at": "2026-08-12T19:41:06+00:00",
-      "summary": "2026年8月、Anthropic が「Claude の生成テキストに機械可読なマーク（電子透かし）を埋め込む」と発表しました[1]。EU AI Act 第50条の透明性規範（Code of Practice on Transparency of AI-Generated Content）に署名したことに伴うもので、2026年8月2日以降にリリースされるモデルは、EU 圏内に限らず世界中でテキス...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a8515d65ed5c6f6a55d8"
-    },
-    {
-      "title": "Rule insights for organizations in public preview",
-      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-08-12T18:30:28+00:00",
-      "fetched_at": "2026-08-12T19:41:06+00:00",
-      "summary": "The rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so… The post Rule insights for organizations in public preview appeared first on The GitHub Blog .",
+      "published_at": "2026-08-12T18:39:11+00:00",
+      "fetched_at": "2026-08-12T20:03:42+00:00",
+      "summary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.… The post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "GitHub"
+        "Copilot",
+        "GitHub",
+        "OpenAI"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+6.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a7913b71be8574d12234"
+      "id": "1c40dd4677ce8a3f8408"
     }
   ],
   "source_errors": [],

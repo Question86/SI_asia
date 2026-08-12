@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T19:41:37+00:00_
+_Generated: 2026-08-12T20:04:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `98`
+- findings: `99`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-12T19:41:37+00:00_
 - url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
 - summary: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large sw…
 
-### 8. Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
+### 8. Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app
+- source: GitHub Changelog Atom
 - score: `12`
-- published: `2026-08-12T08:15:24+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260071.en.html
-- summary: Announcing 20260071 (OT,liquidity providing), for 7 days deadline 09:45
+- published: `2026-08-12T18:39:11+00:00`
+- url: https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app
+- summary: You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.… The post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared fi…
 
 END OF DOCUMENT
