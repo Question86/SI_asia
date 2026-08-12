@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-12T11:29:46Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-08-12T11:50:25Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2796",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:41:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2791",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T11:11:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2662",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T11:01:15+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -90,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2788",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:31:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -115,7 +140,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2777",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:31:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -140,7 +165,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2774",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T09:06:06+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -161,61 +186,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um beliebigen Code auszuführen, SQL-Injection durchzuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand herbeizuführen."
     },
     {
-      "title": "[NEU] [hoch] Adobe Creative Cloud (Lightroom Classic): Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2773",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-12T09:06:06+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud (Lightroom Classic) ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[NEU] [hoch] Commvault Backup & Recovery: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2767",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-12T09:01:06+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Commvault Backup & Recovery ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen und serverseitige Request-Forgery-Angriffe durchzuführen"
-    },
-    {
       "title": "[NEU] [hoch] Microsoft Dynamics: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2783",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T10:01:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -237,11 +212,63 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Dynamics 365 ausnutzen, um beliebigen Programmcode auszuführen oder vertrauliche Informationen offenzulegen."
     },
     {
+      "title": "[NEU] [hoch] Zoom Video Communications Workplace und Rooms: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2763",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:41:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Zoom Video Communications Workplace und Rooms ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Daten offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
+      "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2794",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-12T11:31:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Snipe-IT: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2792",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T11:11:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -267,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2790",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-12T11:11:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -287,32 +314,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Auswirkungen zu verursachen, darunter möglicherweise die Ausführung von beliebigem Code, die Umgehung von Sicherheitsmaßnahmen, die Offenlegung von Informationen oder einen Denial-of-Service-Zustand."
-    },
-    {
-      "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-12T09:01:07+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Intel PROSet Wireless WiFi Software ausnutzen, um seine Privilegien zu erhöhen, Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
     }
   ],
   "read_order": [
@@ -324,8 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 8,
-      "strong": 4
+      "krass": 7,
+      "strong": 5
     }
   }
 }
