@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T08:37:13+00:00",
-  "run_id": "2026-08-12T08:37:13+00:00",
+  "generated_at": "2026-08-12T09:03:09+00:00",
+  "run_id": "2026-08-12T09:03:09+00:00",
   "date": "2026-08-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 49
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 8,
+    "today_file_total": 49,
+    "displayed_findings": 49,
     "high": 0,
-    "medium": 21,
-    "observe": 20,
+    "medium": 28,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -172,6 +172,29 @@
         "id": "739ab6f0926b18ff8cbc"
       },
       {
+        "title": "The photographer who bet his business on the technology trying to replace him",
+        "url": "https://e27.co/the-photographer-who-bet-his-business-on-the-technology-trying-to-replace-him-20260812/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-12T08:50:54+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "For most photographers watching generative AI learn to render skin, fabric and light with unsettling accuracy, the instinct has been to defend the craft. Vincent Chow, however, did the opposite. The founder of Singapore-based product photography firm SnappyFly decided that if AI was coming for his industry, he would rather be the one driving it […] The post The photographer who bet his business on the technology try…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder",
+          "Public Health"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5b89257da36bd430ad02"
+      },
+      {
         "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
         "url": "https://jvn.jp/vu/JVNVU96623328/",
         "source": "JVN Japan Vulnerability Notes",
@@ -215,6 +238,66 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5ba420157f920bde6e1b"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (open-iscsi): Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:01:07+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0dba682fae1efce64811"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:01:07+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Ivanti"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "aed26bd2587d27bdae87"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (brace-expansion): Schwachstelle ermöglicht Denial of Service",
@@ -343,6 +426,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ae086227ddb8bbdb7930"
+      },
+      {
+        "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:01:07+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Intel PROSet Wireless WiFi Software ausnutzen, um seine Privilegien zu erhöhen, Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bdf6bc5f08705c905646"
+      },
+      {
+        "title": "[NEU] [hoch] Commvault Backup & Recovery: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2767",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:01:06+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Commvault Backup & Recovery ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen und serverseitige Request-Forgery-Angriffe durchzuführen",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1e84d7cafd435f383abf"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2768",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:01:06+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um seine Privilegien zu erhöhen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20f562ff71ff6b72ab0f"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2766",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-12T09:01:05+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8961d8ad64cfe34e152b"
       },
       {
         "title": "[UPDATE] [hoch] Rapid7 Velociraptor: Mehrere Schwachstellen",
@@ -838,6 +1013,26 @@
         "id": "0259e1040064bc086a66"
       },
       {
+        "title": "Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
+        "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-12T08:35:00.000+00:00",
+        "fetched_at": "2026-08-12T09:02:39+00:00",
+        "summary": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen an Adobe-Anwendungen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f7773b291beaa9c61d5a"
+      },
+      {
         "title": "Patchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
         "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
         "source": "heise Security Alerts",
@@ -1187,6 +1382,29 @@
       "id": "739ab6f0926b18ff8cbc"
     },
     {
+      "title": "The photographer who bet his business on the technology trying to replace him",
+      "url": "https://e27.co/the-photographer-who-bet-his-business-on-the-technology-trying-to-replace-him-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-12T08:50:54+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "For most photographers watching generative AI learn to render skin, fabric and light with unsettling accuracy, the instinct has been to defend the craft. Vincent Chow, however, did the opposite. The founder of Singapore-based product photography firm SnappyFly decided that if AI was coming for his industry, he would rather be the one driving it […] The post The photographer who bet his business on the technology try…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b89257da36bd430ad02"
+    },
+    {
       "title": "TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）",
       "url": "https://jvn.jp/vu/JVNVU96623328/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1230,6 +1448,66 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5ba420157f920bde6e1b"
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (open-iscsi): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:07+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0dba682fae1efce64811"
+    },
+    {
+      "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:07+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "aed26bd2587d27bdae87"
     },
     {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (brace-expansion): Schwachstelle ermöglicht Denial of Service",
@@ -1358,6 +1636,98 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ae086227ddb8bbdb7930"
+    },
+    {
+      "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:07+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Intel PROSet Wireless WiFi Software ausnutzen, um seine Privilegien zu erhöhen, Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdf6bc5f08705c905646"
+    },
+    {
+      "title": "[NEU] [hoch] Commvault Backup & Recovery: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2767",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:06+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Commvault Backup & Recovery ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen und serverseitige Request-Forgery-Angriffe durchzuführen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1e84d7cafd435f383abf"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2768",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:06+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um seine Privilegien zu erhöhen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20f562ff71ff6b72ab0f"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2766",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:05+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8961d8ad64cfe34e152b"
     },
     {
       "title": "[UPDATE] [hoch] Rapid7 Velociraptor: Mehrere Schwachstellen",
@@ -1851,6 +2221,26 @@
       "id": "0259e1040064bc086a66"
     },
     {
+      "title": "Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-12T08:35:00.000+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen an Adobe-Anwendungen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f7773b291beaa9c61d5a"
+    },
+    {
       "title": "Patchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
       "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
       "source": "heise Security Alerts",
@@ -2057,29 +2447,199 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [kritisch] Microsoft Windows Produkte: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2756",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "The photographer who bet his business on the technology trying to replace him",
+      "url": "https://e27.co/the-photographer-who-bet-his-business-on-the-technology-trying-to-replace-him-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-12T08:01:05+00:00",
-      "fetched_at": "2026-08-12T08:36:42+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft Windows 10, Microsoft Windows Server 2019, Microsoft Windows Server 2022, Microsoft Exchange, Microsoft Windows 11, Microsoft Windows Server 2025 und Microsoft Windows ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial…",
+      "published_at": "2026-08-12T08:50:54+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "For most photographers watching generative AI learn to render skin, fabric and light with unsettling accuracy, the instinct has been to defend the craft. Vincent Chow, however, did the opposite. The founder of Singapore-based product photography firm SnappyFly decided that if AI was coming for his industry, he would rather be the one driving it […] The post The photographer who bet his business on the technology try…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Exchange",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder",
+        "Public Health"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "901a620754495edbf59b"
+      "id": "5b89257da36bd430ad02"
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (open-iscsi): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:07+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0dba682fae1efce64811"
+    },
+    {
+      "title": "[NEU] [hoch] Ivanti Endpoint Manager: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2769",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:07+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Endpoint Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, vertrauliche Informationen offenzulegen oder Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "aed26bd2587d27bdae87"
+    },
+    {
+      "title": "[NEU] [hoch] Intel PROSet Wireless WiFi Software: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2771",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:07+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Intel PROSet Wireless WiFi Software ausnutzen, um seine Privilegien zu erhöhen, Code auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdf6bc5f08705c905646"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2768",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:06+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um seine Privilegien zu erhöhen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20f562ff71ff6b72ab0f"
+    },
+    {
+      "title": "[NEU] [hoch] Commvault Backup & Recovery: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2767",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:06+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Commvault Backup & Recovery ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen und serverseitige Request-Forgery-Angriffe durchzuführen",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1e84d7cafd435f383abf"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2766",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-12T09:01:05+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8961d8ad64cfe34e152b"
+    },
+    {
+      "title": "Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-12T08:35:00.000+00:00",
+      "fetched_at": "2026-08-12T09:02:39+00:00",
+      "summary": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen an Adobe-Anwendungen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f7773b291beaa9c61d5a"
     }
   ],
   "source_errors": [],

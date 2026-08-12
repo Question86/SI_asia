@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T08:37:13+00:00_
+_Generiert: 2026-08-12T09:03:09+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
+49 neue relevante Treffer. Stärkstes Signal: „cathrynlavery/diagram-design“ aus GitHub Trending RSS All Languages Daily (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Cisco ASA (Adaptive Security Appliance) und Cisco Secure Firewall Threat Defense ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The photographer who bet his business on the technology trying to replace him** — Score 17, observation — [Quelle](https://e27.co/the-photographer-who-bet-his-business-on-the-technology-trying-to-replace-him-20260812/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-12T08:50:54+00:00`, fetched `2026-08-12T09:02:39+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+6.2); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For most photographers watching generative AI learn to render skin, fabric and light with unsettling accuracy, the instinct has been to defend the craft. Vincent Chow, however, did the opposite. The founder of Singapore-based product photography firm SnappyFly decided that if AI was coming for his industry, he would rather be the one driving it […] The post The photographer who bet his business on the technology try…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU96623328/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-12T10:30:45+09:00`, fetched `2026-08-12T01:38:42+00:00`
@@ -66,9 +75,9 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月11日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (brace-expansion): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2725)
+- **[NEU] [mittel] Red Hat Enterprise Linux (open-iscsi): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2770)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-12T07:51:46+00:00`, fetched `2026-08-12T08:03:00+00:00`
+  - Zeit: published `2026-08-12T09:01:07+00:00`, fetched `2026-08-12T09:02:39+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -102,15 +111,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Sovereign AI starts long before the AI model** — Score 14, observation — [Quelle](https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-12T02:30:01+00:00`, fetched `2026-08-12T02:32:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Over the past year, I’ve noticed something interesting. Infrastructure discussions have started sounding very different. Not because the technology has fundamentally changed—we’re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instead of debating latency, scalability, or cost optimisation, we’re increasingly discussing where data c…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 同社はAIモデルとAIシステムの両方のプロバイダー（開発元）として、EU AI Act第50条2項に基づく「AI生成コンテンツの透明性に関する行動規範」に署名しており、その約束を実際にどう履行するか、マーキングがどう機能し、どんな限界があるかをサポートページで説明している。詳細な技術文書は後日公開する予定だ。 対象...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-12T08:35:00.000+00:00`, fetched `2026-08-12T09:02:39+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Wichtige Sicherheitsupdates schließen mehrere Schwachstellen an Adobe-Anwendungen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Patchday: Angreifer attackieren Windows und verschaffen sich System-Rechte** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html)
   - Quelle: heise Security Alerts / `rss`
