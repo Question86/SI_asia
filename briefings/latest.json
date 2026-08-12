@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T23:04:40+00:00",
-  "run_id": "2026-08-12T23:04:40+00:00",
+  "generated_at": "2026-08-12T23:21:54+00:00",
+  "run_id": "2026-08-12T23:21:54+00:00",
   "date": "2026-08-12",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 107
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 107,
     "displayed_findings": 107,
     "high": 0,
     "medium": 61,
     "observe": 46,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -5291,38 +5291,8 @@
       "id": "a7913b71be8574d12234"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita",
-      "url": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-12T14:26:01+00:00",
-      "fetched_at": "2026-08-12T23:04:08+00:00",
-      "summary": "はじめに Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。 少し前までAIによる開発支援といえば、 コード補完 コード生成 リファクタリング テストコード生成 など、「人間が主体で、AIが支援する」使い方が中心でした。 しかし現在のCoding Agentは、単にコードを生成するだけではあり...",
-      "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0cb0a00eb42c92ad5d28"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "github_blog_atom",
-      "source_name": "GitHub Blog Atom",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
