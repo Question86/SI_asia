@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-12T03:41:50Z_
+_Generated: 2026-08-12T04:23:22Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-12T10:30:30+09:00` / age_days `0.09`
+- Published: `2026-08-12T10:30:30+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-12T10:30:15+09:00` / age_days `0.09`
+- Published: `2026-08-12T10:30:15+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-12T02:30:01+00:00` / age_days `0.05`
+- Published: `2026-08-12T02:30:01+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, cloud
 - Quelle: https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/
 
+### From chatbots to payment agents: AI’s next role in SEA commerce
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-08-12T03:57:19+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/
+
 ### TCG TPM2.0のリファレンス実装における複数の脆弱性（CVE-2026-6726、CVE-2026-6727）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-12T10:30:45+09:00` / age_days `0.09`
+- Published: `2026-08-12T10:30:45+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, cve, security, official security but no high-signal phrase: capped at strong
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-12T10:30:00+09:00` / age_days `0.09`
+- Published: `2026-08-12T10:30:00+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `54.07`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `54.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 54.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-08-12T11:27+09:00` / age_days `0.05`
+- Published: `2026-08-12T11:27+09:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, microsoft
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-12T01:00:02+00:00` / age_days `0.11`
+- Published: `2026-08-12T01:00:02+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: regional, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,40 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “ECプラットフォーム「Opencart」
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-12T01:00:16+00:00` / age_days `0.11`
+- Published: `2026-08-12T01:00:16+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/
 
+### M 5.2 - 42 km ESE of Naalehu, Hawaii
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.0`
+- Published: `2026-08-12T04:10:20.520+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: early terms: earthquake, high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/hv75018296
+
 ### Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-11T21:40:08+00:00` / age_days `0.25`
+- Published: `2026-08-11T21:40:08+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
-
-### NotebookLMがエージェント化した——Obsidian連携で情報収集が変わった話｜佐藤賢治
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-08-11T21:54:55+00:00` / age_days `0.24`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: high terms: 10
-- Quelle: https://note.com/horizon_it00/n/nfb8e10e5ff4d
-
-### If AI can’t find your startup, does your startup exist?
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.0`
-- Published: `2026-08-12T01:30:32+00:00` / age_days `0.09`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/
 
 END OF DOCUMENT
