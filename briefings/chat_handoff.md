@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-12T01:39:12+00:00_
+_Generated: 2026-08-12T02:32:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,7 +36,21 @@ _Generated: 2026-08-12T01:39:12+00:00_
 - url: https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/
 - summary: Over the past few weeks, I’ve noticed a rather interesting trend on social media. More and more founders, creators and professionals are opening ChatGPT, Gemini or Claude and asking the same question: What do you know about me? At first, I thought it was just…
 
-### 5. The scarcity mindset is killing creativity, not AI
+### 5. Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-08-11T21:40:08+00:00`
+- url: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
+- summary: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large sw…
+
+### 6. The diagnosis is becoming free, the operation is not
+- source: e27 Asia Startup and Tech Feed
+- score: `7`
+- published: `2026-08-12T02:00:13+00:00`
+- url: https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/
+- summary: AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be…
+
+### 7. The scarcity mindset is killing creativity, not AI
 - source: e27 Asia Startup and Tech Feed
 - score: `4`
 - published: `2026-08-12T01:00:16+00:00`

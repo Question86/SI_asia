@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-12T01:39:12+00:00_
+_Generiert: 2026-08-12T02:32:47+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „5 US venture capital shifts every Southeast Asian founder should be tracking right now“ aus e27 Asia Startup and Tech Feed (Score 21, observation).
+10 neue relevante Treffer. Stärkstes Signal: „5 US venture capital shifts every Southeast Asian founder should be tracking right now“ aus e27 Asia Startup and Tech Feed (Score 21, observation).
 
 ## Priorität Hoch
 
@@ -57,9 +57,36 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Sovereign AI starts long before the AI model** — Score 14, observation — [Quelle](https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-12T02:30:01+00:00`, fetched `2026-08-12T02:32:18+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Over the past year, I’ve noticed something interesting. Infrastructure discussions have started sounding very different. Not because the technology has fundamentally changed—we’re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instead of debating latency, scalability, or cost optimisation, we’re increasingly discussing where data c…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Why Go is an Ideal Language for AI-Assisted Software Engineering- Google Developers Blog** — Score 13, observation — [Quelle](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-11T21:40:08+00:00`, fetched `2026-08-12T02:32:18+00:00`
+  - Treffer: agent, AI/KI, developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.0); recent (+1.0)
+  - Kurz: Why Go is an Ideal Language for AI-Assisted Software Engineering For a while now, software engineering has undergone a profound, fundamental shift: Where we once wrote most lines of code by hand, we now ask AI coding assistants and agents to generate large swaths of code for us. But AI needs supe...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The diagnosis is becoming free, the operation is not** — Score 7, observation — [Quelle](https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-12T02:00:13+00:00`, fetched `2026-08-12T02:32:18+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a good differential diagnosis, an explanation of what might be wrong, and a list of questions to ask the doctor. […] The post The diagnosis is becoming free, the operation is not appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The scarcity mindset is killing creativity, not AI** — Score 4, opportunity — [Quelle](https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-12T01:00:16+00:00`, fetched `2026-08-12T01:01:23+00:00`
