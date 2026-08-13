@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-13T11:49:29Z_
+_Generated: 2026-08-13T12:14:01Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=27.0.
 
 ## Top Dynamics
+
+### Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `27.0`
+- Published: `2026-08-13T11:37:00.000+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: active, exploitation, ivanti, security high-signal: active, exploitation, ivanti
+- Quelle: https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html
 
 ### [UPDATE] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T10:39:20+00:00` / age_days `0.05`
+- Published: `2026-08-13T10:39:20+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T07:01:06+00:00` / age_days `0.2`
+- Published: `2026-08-13T07:01:06+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, 10, security high-signal: kritisch, code, 10, official security but no high-signal phrase: capped at strong
@@ -32,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T02:00:58+00:00` / age_days `0.41`
+- Published: `2026-08-13T02:00:58+00:00` / age_days `0.43`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/
 
+### [NEU] [hoch] Kibana: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-13T11:51:06+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2824
+
 ### [UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T11:02:27+00:00` / age_days `0.03`
+- Published: `2026-08-13T11:02:27+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T11:02:26+00:00` / age_days `0.03`
+- Published: `2026-08-13T11:02:26+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T11:02:05+00:00` / age_days `0.03`
+- Published: `2026-08-13T11:02:05+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T09:51:05+00:00` / age_days `0.08`
+- Published: `2026-08-13T09:51:05+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T10:39:20+00:00` / age_days `0.05`
+- Published: `2026-08-13T10:39:20+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T10:39:18+00:00` / age_days `0.05`
+- Published: `2026-08-13T10:39:18+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Microsoft Office Produkt
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T10:00:00+00:00` / age_days `0.08`
+- Published: `2026-08-13T10:00:00+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-
-### From KYC to KYA: how AI agents are reshaping payment risk
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-13T03:49:04+00:00` / age_days `0.33`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/
-
-### Graas raises US$17M, acquires Trustana to build smarter retail AI agents
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-13T04:49:37+00:00` / age_days `0.29`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/
 
 END OF DOCUMENT
