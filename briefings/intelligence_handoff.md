@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-13T09:40:37Z_
+_Generated: 2026-08-13T10:07:32Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限が不適切な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.
 
 ## Top Dynamics
+
+### Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-08-13T09:35:00.000+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: vpn, palo, alto, security high-signal: vpn, palo, alto
+- Quelle: https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html
 
 ### VoiceTraにおける接続先の制限が不適切な脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-13T12:00:00+09:00` / age_days `0.28`
+- Published: `2026-08-13T12:00:00+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T07:01:06+00:00` / age_days `0.11`
+- Published: `2026-08-13T07:01:06+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, 10, security high-signal: kritisch, code, 10, official security but no high-signal phrase: capped at strong
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T02:00:58+00:00` / age_days `0.32`
+- Published: `2026-08-13T02:00:58+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T03:49:04+00:00` / age_days `0.24`
+- Published: `2026-08-13T03:49:04+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T04:49:37+00:00` / age_days `0.2`
+- Published: `2026-08-13T04:49:37+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `55.32`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `55.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 55.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-08-13T08:52:00.000+00:00` / age_days `0.03`
+- Published: `2026-08-13T08:52:00.000+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-13T06:00:00+00:00` / age_days `0.15`
+- Published: `2026-08-13T06:00:00+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-08-13T06:24:13+00:00` / age_days `0.14`
+- Published: `2026-08-13T06:24:13+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-13T03:00:56+00:00` / age_days `0.28`
+- Published: `2026-08-13T03:00:56+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-13T06:21:00.000+00:00` / age_days `0.14`
+- Published: `2026-08-13T06:21:00.000+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security
 - Quelle: https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html
-
-### M 4.7 - Greenland Sea
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-08-13T01:00:08.040+00:00` / age_days `0.36`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj
 
 END OF DOCUMENT
