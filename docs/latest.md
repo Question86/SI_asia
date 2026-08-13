@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T22:03:00+00:00_
+_Generiert: 2026-08-13T22:21:55+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
+68 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
 
 ## Priorität Hoch
 
@@ -212,6 +212,15 @@ _Generiert: 2026-08-13T22:03:00+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude文章で｢AI製｣バレる? コピペでも残る電子透かしにネット反発 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN139SY0T10C26A8000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-13T21:42:37+00:00`, fetched `2026-08-13T22:21:25+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）「クロード」が生成した文章をAI製だと判別できるようにすると発表した。AI編集の証拠を残す「電子透かし」と呼ぶ手法だが、AIをどう使ったのか正確に検知するのは難しく、一部のユーザーの反発を招いている。8月以降に世界で導入、EUの規制に対応ア...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks** — Score 10, observation — [Quelle](https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-13T11:37:00.000+00:00`, fetched `2026-08-13T11:57:31+00:00`
@@ -265,15 +274,6 @@ _Generiert: 2026-08-13T22:03:00+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed** — Score 8, observation — [Quelle](https://openai.com/index/previewing-ultrafast)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-13T10:00:00+00:00`, fetched `2026-08-13T17:13:03+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
