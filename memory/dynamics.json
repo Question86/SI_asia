@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-13T01:08:26Z",
+  "generated_at": "2026-08-13T01:52:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 5,
+    "dynamics": 8,
     "bands": {
       "strong": 1,
-      "watch": 1,
-      "quiet": 3
+      "watch": 2,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "watch": 1,
-      "quiet": 3
+      "watch": 2,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 54.97,
+      "age_days": 55.0,
       "topics": [
         "ai"
       ],
@@ -47,11 +47,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - Greenland Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-13T01:00:08.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-13 00:33:27 UTC 2026-08-13 00:33:27 UTC at epicenter Location 73.476°N 7.828°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.5 - 69 km SSW of Chirilagua, El Salvador",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T00:41:30.268+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -71,11 +96,38 @@
       "summary": "DYFI? - II Time 2026-08-13 00:30:04 UTC 2026-08-13 00:30:04 UTC at epicenter Location 12.608°N 88.286°W Depth 56.79 km (35.29 mi)"
     },
     {
+      "title": "M 5.1 - 59 km NNW of Barishal, Pakistan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-13T00:55:20.040+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Time 2026-08-13 00:35:18 UTC 2026-08-13 00:35:18 UTC at epicenter Location 36.785°N 74.358°E Depth 58.89 km (36.59 mi)"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.93,
+      "age_days": 53.96,
       "topics": [
         "general"
       ],
@@ -91,7 +143,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 53.9d old signal"
+        "aging penalty -16.0 for 54.0d old signal"
       ],
       "summary": ""
     },
@@ -100,7 +152,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.93,
+      "age_days": 53.96,
       "topics": [
         "general"
       ],
@@ -116,7 +168,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 53.9d old signal"
+        "aging penalty -16.0 for 54.0d old signal"
       ],
       "summary": ""
     },
@@ -125,7 +177,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.93,
+      "age_days": 53.96,
       "topics": [
         "ai"
       ],
@@ -142,10 +194,35 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 53.9d old signal",
+        "aging penalty -16.0 for 54.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "The hidden cost of ‘gray work’: Why manual processes are draining your team",
+      "url": "https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-13T01:30:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "More often than not, an employee is hired with a specific function in mind, but many are finding themselves taken away from these responsibilities to take care of administrative tasks that don’t directly create value. These tasks are usually overlooked and left unaddressed because the actions themselves are small. How…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
