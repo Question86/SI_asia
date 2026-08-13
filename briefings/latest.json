@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T07:48:02+00:00",
-  "run_id": "2026-08-13T07:48:02+00:00",
+  "generated_at": "2026-08-13T08:18:01+00:00",
+  "run_id": "2026-08-13T08:18:01+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 6,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -516,6 +516,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1f75ab8fb598a825f4c2"
+      },
+      {
+        "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
+        "url": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-13T01:27:35+00:00",
+        "fetched_at": "2026-08-13T08:17:24+00:00",
+        "summary": "AndroidとiOS、それぞれに長所と短所があるのはご存知の通り。 これまでAndroidがAppleのプラットフォームに対して持っていた最大の利点の一つは、その「オープンさ」でした。GoogleのPlayストアからアプリをダウンロードできるだけでなく、インターネットから直接アプリをダウンロードすることも可能です。 これは「サ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "95b44a5d49fb85b118ab"
       },
       {
         "title": "最新鋭のiPhoneを買って喜んでいたが",
@@ -1109,6 +1130,27 @@
       "id": "1f75ab8fb598a825f4c2"
     },
     {
+      "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T01:27:35+00:00",
+      "fetched_at": "2026-08-13T08:17:24+00:00",
+      "summary": "AndroidとiOS、それぞれに長所と短所があるのはご存知の通り。 これまでAndroidがAppleのプラットフォームに対して持っていた最大の利点の一つは、その「オープンさ」でした。GoogleのPlayストアからアプリをダウンロードできるだけでなく、インターネットから直接アプリをダウンロードすることも可能です。 これは「サ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "95b44a5d49fb85b118ab"
+    },
+    {
       "title": "最新鋭のiPhoneを買って喜んでいたが",
       "url": "https://anond.hatelabo.jp/20260813095445",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1213,13 +1255,13 @@
   ],
   "new_findings": [
     {
-      "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
+      "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
+      "url": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-13T03:16:58+00:00",
-      "fetched_at": "2026-08-13T07:47:27+00:00",
-      "summary": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+      "published_at": "2026-08-13T01:27:35+00:00",
+      "fetched_at": "2026-08-13T08:17:24+00:00",
+      "summary": "AndroidとiOS、それぞれに長所と短所があるのはご存知の通り。 これまでAndroidがAppleのプラットフォームに対して持っていた最大の利点の一つは、その「オープンさ」でした。GoogleのPlayストアからアプリをダウンロードできるだけでなく、インターネットから直接アプリをダウンロードすることも可能です。 これは「サ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1231,7 +1273,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1f75ab8fb598a825f4c2"
+      "id": "95b44a5d49fb85b118ab"
     }
   ],
   "source_errors": [],
