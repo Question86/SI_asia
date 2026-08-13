@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T18:23:25+00:00",
-  "run_id": "2026-08-13T18:23:25+00:00",
+  "generated_at": "2026-08-13T18:43:21+00:00",
+  "run_id": "2026-08-13T18:43:21+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 59,
     "displayed_findings": 59,
     "high": 1,
@@ -3112,108 +3112,7 @@
       "id": "e808888ae43e2da329d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-13T11:00:00+00:00",
-      "fetched_at": "2026-08-13T18:22:58+00:00",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Content-Chance",
-        "Macro/Policy",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow",
-        "Watchgraph:elections_unrest"
-      ],
-      "relevance_score": 37,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "elections_unrest",
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "elections_unrest: election",
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "BA",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "id": "04987de659aa3b1423a1"
-    },
-    {
-      "title": "M 5.1 - west of Macquarie Island",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-13T18:20:21.040+00:00",
-      "fetched_at": "2026-08-13T18:22:58+00:00",
-      "summary": "Time 2026-08-13 17:39:29 UTC 2026-08-13 17:39:29 UTC at epicenter Location 56.856°S 147.228°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "826d7ffd42e6260ce54c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
