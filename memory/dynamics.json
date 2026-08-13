@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-13T04:26:41Z",
+  "generated_at": "2026-08-13T05:08:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 17,
+    "dynamics": 20,
     "bands": {
-      "krass": 2,
+      "krass": 3,
       "strong": 3,
       "watch": 4,
-      "quiet": 8
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
+      "strong": 6,
       "watch": 4,
-      "quiet": 8
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN00941257/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-13T12:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:00:58+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -73,7 +73,7 @@
       "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:49:04+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -95,11 +95,37 @@
       "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and recon…"
     },
     {
+      "title": "Graas raises US$17M, acquires Trustana to build smarter retail AI agents",
+      "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-13T04:49:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 55.1,
+      "age_days": 55.13,
       "topics": [
         "ai"
       ],
@@ -128,7 +154,7 @@
       "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:00:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -153,7 +179,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T01:00:08.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -178,7 +204,7 @@
       "url": "https://github.com/macro-inc/macro",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-13T04:19:39+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -204,7 +230,7 @@
       "url": "https://github.com/stablyai/orca",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-13T04:19:39+00:00",
-      "age_days": 0.0,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -230,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T00:41:30.268+00:00",
-      "age_days": 0.16,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -250,11 +276,39 @@
       "summary": "DYFI? - II Time 2026-08-13 00:30:04 UTC 2026-08-13 00:30:04 UTC at epicenter Location 12.608°N 88.286°W Depth 56.79 km (35.29 mi)"
     },
     {
+      "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
+      "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-13T04:20:03+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: exchange",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourse…"
+    },
+    {
       "title": "最新鋭のiPhoneを買って喜んでいたが",
       "url": "https://anond.hatelabo.jp/20260813095445",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T00:55:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -274,11 +328,38 @@
       "summary": "一番使っているアプリが、初期装備の天気予報だった。 猫に小判、宝の持ち腐れとはこういう現象のことだったのだな。 いやiPhoneの天気予報って、意外と予報が当たるし、使いやすいのよ。 「あと〇分で雨が降り始めます」とか、リアルタイムで伝えてくれるのがいい。"
     },
     {
+      "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
+      "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-13T04:25:53+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "infra"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: pipeline",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete…"
+    },
+    {
       "title": "M 5.1 - 59 km NNW of Barishal, Pakistan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T00:55:20.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "disaster"
@@ -305,7 +386,7 @@
       "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-12T01:20:38+00:00",
-      "age_days": 1.13,
+      "age_days": 1.16,
       "topics": [
         "ai"
       ],
@@ -331,7 +412,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.07,
+      "age_days": 54.1,
       "topics": [
         "general"
       ],
@@ -356,7 +437,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.07,
+      "age_days": 54.1,
       "topics": [
         "general"
       ],
@@ -381,7 +462,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.07,
+      "age_days": 54.1,
       "topics": [
         "ai"
       ],
@@ -408,7 +489,7 @@
       "url": "https://e27.co/ai-is-not-the-beginning-of-drug-discovery-it-is-the-accelerator-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:30:46+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -433,7 +514,7 @@
       "url": "https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T01:30:48+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
