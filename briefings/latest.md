@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T06:07:29+00:00_
+_Generiert: 2026-08-13T06:41:54+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourses mirrored this optimism as the MSCI Asia […] The post The Kospi enters a bull market while crypto c…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Education, energy and travel sectors face rising cyber attack volumes** — Score 10, observation — [Quelle](https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-13T06:24:13+00:00`, fetched `2026-08-13T06:41:21+00:00`
+  - Treffer: APAC Trend Radar, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Cybersecurity teams entered the second half of 2026 with little sign of relief. Global organisations faced an average of 2,336 cyber attacks per week in July, up 3 per cent from June and 16 per cent from a year earlier, according to new data from Check Point Research. The figures point to a threat environment […] The post Education, energy and travel sectors face rising cyber attack volumes appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore** — Score 9, observation — [Quelle](https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-13T04:25:53+00:00`, fetched `2026-08-13T05:00:44+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-13 00:30:04 UTC 2026-08-13 00:30:04 UTC at epicenter Location 12.608°N 88.286°W Depth 56.79 km (35.29 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI is not the beginning of drug discovery — it is the accelerator** — Score 8, observation — [Quelle](https://e27.co/ai-is-not-the-beginning-of-drug-discovery-it-is-the-accelerator-20260812/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-13T02:30:46+00:00`, fetched `2026-08-13T02:45:21+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Artificial intelligence is often framed as the technology that suddenly changed drug discovery. But that narrative misses an important truth: computational, or in silico, drug discovery did not begin with AI. It has been part of pharmaceutical research for decades. Long before today’s large models and generative systems, scientists were already using molecular docking, QSAR […] The post AI is not the beginning of dr…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **macro-inc/macro** — Score 8, opportunity — [Quelle](https://github.com/macro-inc/macro)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-13T04:19:39+00:00`
@@ -176,6 +176,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-13T06:21:00.000+00:00`, fetched `2026-08-13T06:41:21+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Eine Ende Juli bekannt gewordene Path-Traversal-Lücke in VMware vCenter Syslog Server dient Angreifern zum Einbrechen und Einnisten.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **オープンデータ100「民間事業者による利活用事例」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/data_case_study)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-13T06:00:00+00:00`, fetched `2026-08-13T06:06:59+00:00`
