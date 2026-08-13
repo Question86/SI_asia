@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-13T06:41:54+00:00",
+  "generated_at": "2026-08-13T07:10:20+00:00",
   "topics": {
     "ai": [
       {
@@ -99,6 +99,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T07:01:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104"
+      },
       {
         "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
         "source": "JVN Japan Vulnerability Notes",

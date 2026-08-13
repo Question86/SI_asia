@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T06:41:54+00:00_
+_Generated: 2026-08-13T07:10:20+00:00_
 
 ## Status
-- status: `normal`
-- findings: `20`
+- status: `warning`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-13T06:41:54+00:00_
 - url: https://github.com/stablyai/orca
 - summary: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCo…
 
-### 4. The language tax: Why AI skips your startup when buyers ask in Thai
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [kritisch] Microsoft Windows: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-13T02:00:58+00:00`
-- url: https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/
-- summary: AI assistants answer in fluent Thai, Vietnamese and Bahasa Indonesia, but they only recommend companies that exist in those languages’ sources. Most expanding startups do not. Run a quick experiment. Ask ChatGPT, in English, for the best providers in your cat…
+- published: `2026-08-13T07:01:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, um beliebigen Programmcode auszuführen, um falsche Informationen darzust…
 
 ### 5. The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go
 - source: e27 Asia Startup and Tech Feed
