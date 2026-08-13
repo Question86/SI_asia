@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-13T05:08:14Z",
+  "generated_at": "2026-08-13T05:46:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限が不適切な脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN00941257/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-13T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:00:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:49:04+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -91,7 +91,7 @@
       "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:49:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -117,7 +117,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 55.13,
+      "age_days": 55.16,
       "topics": [
         "ai"
       ],
@@ -136,7 +136,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 55.1d old signal",
+        "aging penalty -8.0 for 55.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -146,7 +146,7 @@
       "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:00:56+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T01:00:08.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -196,7 +196,7 @@
       "url": "https://github.com/macro-inc/macro",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-13T04:19:39+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -222,7 +222,7 @@
       "url": "https://github.com/stablyai/orca",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-13T04:19:39+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -248,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T00:41:30.268+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -272,7 +272,7 @@
       "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:20:03+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "infra",
@@ -300,7 +300,7 @@
       "url": "https://anond.hatelabo.jp/20260813095445",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T00:55:39+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
