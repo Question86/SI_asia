@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T22:21:55+00:00_
+_Generiert: 2026-08-13T22:38:31+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
+70 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -282,6 +282,15 @@ _Generiert: 2026-08-13T22:21:55+00:00_
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）「クロード」が生成した文章をAI製だと判別できるようにすると発表した。AI編集の証拠を残す「電子透かし」と呼ぶ手法だが、AIをどう使ったのか正確に検知するのは難しく、一部のユーザーの反発を招いている。8月以降に世界で導入、EUの規制に対応ア...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **国内ITシステム11社、30年にAI主導の開発に転換 生産性は最大1.5倍 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-13T18:45:43+00:00`, fetched `2026-08-13T22:38:02+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: ITシステムの国内各社が主要な開発工程の担い手を人から人工知能（AI）に切り替える。大手11社の全てが2030年までに設計やプログラミングをAIが主導する体制にする。人手をかける労働集約型から付加価値で稼ぐモデルへの転換を急ぐ。大手11社にシステム開発でのAIの活用の状況や計画について6月に聞き取った。全社が30年...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks** — Score 10, observation — [Quelle](https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-13T11:37:00.000+00:00`, fetched `2026-08-13T11:57:31+00:00`
@@ -327,15 +336,6 @@ _Generiert: 2026-08-13T22:21:55+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-13 12:44:59 UTC 2026-08-13 12:44:59 UTC at epicenter Location 4.432°S 143.889°E Depth 134.03 km (83.28 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore** — Score 9, observation — [Quelle](https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-13T04:25:53+00:00`, fetched `2026-08-13T05:00:44+00:00`
-  - Treffer: APAC Trend Radar, funding
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
