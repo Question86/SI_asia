@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T08:49:07+00:00_
+_Generated: 2026-08-13T09:17:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-13T08:49:07+00:00_
 - url: https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/
 - summary: Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and…
 
-### 6. Education, energy and travel sectors face rising cyber attack volumes
+### 6. Cash remains most widely accepted payment method in euro area
+- source: ECB Press Releases Speeches Interviews
+- score: `10`
+- published: `2026-08-13T09:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html
+- summary: Cash remains most widely accepted payment method in euro area
+
+### 7. Education, energy and travel sectors face rising cyber attack volumes
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-13T06:24:13+00:00`
 - url: https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/
 - summary: Cybersecurity teams entered the second half of 2026 with little sign of relief. Global organisations faced an average of 2,336 cyber attacks per week in July, up 3 per cent from June and 16 per cent from a year earlier, according to new data from Check Point…
 
-### 7. K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore
+### 8. K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-08-13T04:25:53+00:00`
 - url: https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/
 - summary: Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a stea…
-
-### 8. M 4.7 - Greenland Sea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-13T01:00:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj
-- summary: Time 2026-08-13 00:33:27 UTC 2026-08-13 00:33:27 UTC at epicenter Location 73.476°N 7.828°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
