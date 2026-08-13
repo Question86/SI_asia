@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T03:34:10+00:00",
-  "run_id": "2026-08-13T03:34:10+00:00",
+  "generated_at": "2026-08-13T04:20:13+00:00",
+  "run_id": "2026-08-13T04:20:13+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,110 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 2,
-    "observe": 8,
+    "medium": 4,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "From KYC to KYA: how AI agents are reshaping payment risk",
+        "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-13T03:49:04+00:00",
+        "fetched_at": "2026-08-13T04:19:39+00:00",
+        "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and reconcile invoices, the old assumptions […] The post From KYC to KYA: how AI agents are reshaping payment…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "8fe655878b5bdc0a037f"
+      },
+      {
+        "title": "stablyai/orca",
+        "url": "https://github.com/stablyai/orca",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-13T04:19:39+00:00",
+        "summary": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from you…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "720c1f22a109464d85e4"
+      },
       {
         "title": "The language tax: Why AI skips your startup when buyers ask in Thai",
         "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
@@ -205,6 +299,30 @@
         "id": "9694f09cc71ee8e53cf6"
       },
       {
+        "title": "macro-inc/macro",
+        "url": "https://github.com/macro-inc/macro",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-13T04:19:39+00:00",
+        "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Produktidee",
+          "Webentwicklung"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "324a4519451de037856c"
+      },
+      {
         "title": "最新鋭のiPhoneを買って喜んでいたが",
         "url": "https://anond.hatelabo.jp/20260813095445",
         "source": "Hatena Bookmark Hotentry IT",
@@ -289,6 +407,100 @@
     ]
   },
   "findings": [
+    {
+      "title": "From KYC to KYA: how AI agents are reshaping payment risk",
+      "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T03:49:04+00:00",
+      "fetched_at": "2026-08-13T04:19:39+00:00",
+      "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and reconcile invoices, the old assumptions […] The post From KYC to KYA: how AI agents are reshaping payment…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "8fe655878b5bdc0a037f"
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-13T04:19:39+00:00",
+      "summary": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from you…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "720c1f22a109464d85e4"
+    },
     {
       "title": "The language tax: Why AI skips your startup when buyers ask in Thai",
       "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
@@ -463,6 +675,30 @@
       "id": "9694f09cc71ee8e53cf6"
     },
     {
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-13T04:19:39+00:00",
+      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Produktidee",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "324a4519451de037856c"
+    },
+    {
       "title": "最新鋭のiPhoneを買って喜んでいたが",
       "url": "https://anond.hatelabo.jp/20260813095445",
       "source": "Hatena Bookmark Hotentry IT",
@@ -547,67 +783,122 @@
   ],
   "new_findings": [
     {
-      "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
-      "url": "https://jvn.jp/jp/JVN00941257/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-13T12:00:00+09:00",
-      "fetched_at": "2026-08-13T03:33:39+00:00",
-      "summary": "国立研究開発法人情報通信研究機構（NICT）が提供するVoiceTraには、接続先の制限が不適切な脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "73a6ad78dba1fc92606b"
-    },
-    {
-      "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
-      "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-12T01:20:38+00:00",
-      "fetched_at": "2026-08-13T03:33:39+00:00",
-      "summary": "はじめに Cloudflare OSの話を3本書きました。ローカルLLMで三目並べに5ラウンドかけた奮闘記、モデル間の受け渡し設計の話、セキュリティとガバナンスの話。 3本目でこう書きました。「思想さえ理解すれば、この環境は怖くない」と。 ……で、その思想って結局なんやねん、という。 自分で書いておいて回収してないんです...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee8df2571e4c08076ad9"
-    },
-    {
-      "title": "You can’t force a tailwind, you can force your readiness for one",
-      "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
+      "title": "From KYC to KYA: how AI agents are reshaping payment risk",
+      "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-13T03:00:56+00:00",
-      "fetched_at": "2026-08-13T03:33:39+00:00",
-      "summary": "Ten years into building, the annual planning cycle stops being useful. A year is too short a unit to learn anything from. It’s long enough to feel like progress and short enough to hide the fact that the money isn’t made evenly across time. It shows up in bursts, during the stretches when conditions favour […] The post You can’t force a tailwind, you can force your readiness for one appeared first on e27 .",
+      "published_at": "2026-08-13T03:49:04+00:00",
+      "fetched_at": "2026-08-13T04:19:39+00:00",
+      "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and reconcile invoices, the old assumptions […] The post From KYC to KYA: how AI agents are reshaping payment…",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 22,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "8fe655878b5bdc0a037f"
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-13T04:19:39+00:00",
+      "summary": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from you…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "720c1f22a109464d85e4"
+    },
+    {
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-13T04:19:39+00:00",
+      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Produktidee",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "34b26103fa8ddb8e7f6d"
+      "id": "324a4519451de037856c"
     }
   ],
   "source_errors": [],

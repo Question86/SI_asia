@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T03:34:10+00:00_
+_Generiert: 2026-08-13T04:20:13+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „The language tax: Why AI skips your startup when buyers ask in Thai“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+13 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,26 @@ _Generiert: 2026-08-13T03:34:10+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f7e575bbd90>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green notification for tropical cyclone EIGHT-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001304)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone EIGHT-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557728)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
+- **GDACS: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001302)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001301)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557631)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].
 
 ## Wirtschaft global
 
@@ -47,6 +65,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **From KYC to KYA: how AI agents are reshaping payment risk** — Score 22, opportunity — [Quelle](https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-13T03:49:04+00:00`, fetched `2026-08-13T04:19:39+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Public Health, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and reconcile invoices, the old assumptions […] The post From KYC to KYA: how AI agents are reshaping payment…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **stablyai/orca** — Score 17, observation — [Quelle](https://github.com/stablyai/orca)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-13T04:19:39+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from you…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The language tax: Why AI skips your startup when buyers ask in Thai** — Score 16, observation — [Quelle](https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-13T02:00:58+00:00`, fetched `2026-08-13T02:45:21+00:00`
@@ -104,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Artificial intelligence is often framed as the technology that suddenly changed drug discovery. But that narrative misses an important truth: computational, or in silico, drug discovery did not begin with AI. It has been part of pharmaceutical research for decades. Long before today’s large models and generative systems, scientists were already using molecular docking, QSAR […] The post AI is not the beginning of dr…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **macro-inc/macro** — Score 8, opportunity — [Quelle](https://github.com/macro-inc/macro)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-13T04:19:39+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Produktidee, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
+  - Kurz: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **最新鋭のiPhoneを買って喜んでいたが** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260813095445)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-13T00:55:39+00:00`, fetched `2026-08-13T02:45:21+00:00`
@@ -143,6 +188,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
