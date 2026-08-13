@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T07:10:20+00:00_
+_Generiert: 2026-08-13T07:48:02+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+22 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: オープンデータ100「民間事業者による利活用事例」を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **HDDが容量2桁台でもがいている間、SSDは512TBに到達した** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2132491.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-13T03:16:58+00:00`, fetched `2026-08-13T07:47:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: HDDが容量2桁台でもがいている間、SSDは512TBに到達した
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **最新鋭のiPhoneを買って喜んでいたが** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260813095445)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-13T00:55:39+00:00`, fetched `2026-08-13T02:45:21+00:00`
@@ -178,7 +187,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)

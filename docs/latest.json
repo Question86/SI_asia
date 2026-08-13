@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-13T07:10:20+00:00",
-  "run_id": "2026-08-13T07:10:20+00:00",
+  "generated_at": "2026-08-13T07:48:02+00:00",
+  "run_id": "2026-08-13T07:48:02+00:00",
   "date": "2026-08-13",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 6,
-    "observe": 15,
-    "source_errors": 1
+    "observe": 16,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -495,6 +495,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "96189af42607758246fc"
+      },
+      {
+        "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-13T03:16:58+00:00",
+        "fetched_at": "2026-08-13T07:47:27+00:00",
+        "summary": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f75ab8fb598a825f4c2"
       },
       {
         "title": "最新鋭のiPhoneを買って喜んでいたが",
@@ -1067,6 +1088,27 @@
       "id": "96189af42607758246fc"
     },
     {
+      "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T03:16:58+00:00",
+      "fetched_at": "2026-08-13T07:47:27+00:00",
+      "summary": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f75ab8fb598a825f4c2"
+    },
+    {
       "title": "最新鋭のiPhoneを買って喜んでいたが",
       "url": "https://anond.hatelabo.jp/20260813095445",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1171,38 +1213,28 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-13T07:01:06+00:00",
-      "fetched_at": "2026-08-13T07:09:40+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, um beliebigen Programmcode auszuführen, um falsche Informationen darzustellen, um einen Denial of Service Angriff durchzuführen, und um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-08-13T03:16:58+00:00",
+      "fetched_at": "2026-08-13T07:47:27+00:00",
+      "summary": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "add425c9b0684a984fd2"
+      "id": "1f75ab8fb598a825f4c2"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
