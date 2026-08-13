@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T01:10:02+00:00_
+_Generiert: 2026-08-13T01:51:11+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 4.7 - Greenland Sea“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+4 neue relevante Treffer. Stärkstes Signal: „M 4.7 - Greenland Sea“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-08-13T01:10:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].
-- **USGS earthquake M5.5 - 69 km SSW of Chirilagua, El Salvador** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb)
-  - Quelle: USGS
-  - Zeit: `2026-08-13T00:30:04+00:00`
-  - Kurz: M5.5 - 69 km SSW of Chirilagua, El Salvador. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -96,6 +92,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-13 00:30:04 UTC 2026-08-13 00:30:04 UTC at epicenter Location 12.608°N 88.286°W Depth 56.79 km (35.29 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The hidden cost of ‘gray work’: Why manual processes are draining your team** — Score 4, observation — [Quelle](https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-13T01:30:48+00:00`, fetched `2026-08-13T01:50:39+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: More often than not, an employee is hired with a specific function in mind, but many are finding themselves taken away from these responsibilities to take care of administrative tasks that don’t directly create value. These tasks are usually overlooked and left unaddressed because the actions themselves are small. However, over time, it can drain […] The post The hidden cost of ‘gray work’: Why manual processes are…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

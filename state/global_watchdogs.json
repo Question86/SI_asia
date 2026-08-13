@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:10:04+00:00",
+  "generated_at": "2026-08-13T01:51:13+00:00",
   "sections": {
     "global_security": [
       {
@@ -101,21 +101,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557631",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 69 km SSW of Chirilagua, El Salvador",
-        "summary": "M5.5 - 69 km SSW of Chirilagua, El Salvador. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
-        "published_at": "2026-08-13T00:30:04+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 469.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

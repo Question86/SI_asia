@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T01:10:02+00:00_
+_Generated: 2026-08-13T01:51:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -28,5 +28,12 @@ _Generated: 2026-08-13T01:10:02+00:00_
 - published: `2026-08-13T00:41:30.268+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb
 - summary: DYFI? - II Time 2026-08-13 00:30:04 UTC 2026-08-13 00:30:04 UTC at epicenter Location 12.608°N 88.286°W Depth 56.79 km (35.29 mi)
+
+### 4. The hidden cost of ‘gray work’: Why manual processes are draining your team
+- source: e27 Asia Startup and Tech Feed
+- score: `4`
+- published: `2026-08-13T01:30:48+00:00`
+- url: https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/
+- summary: More often than not, an employee is hired with a specific function in mind, but many are finding themselves taken away from these responsibilities to take care of administrative tasks that don’t directly create value. These tasks are usually overlooked and le…
 
 END OF DOCUMENT
