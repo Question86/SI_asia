@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-13T11:58:00+00:00",
+  "generated_at": "2026-08-13T12:19:59+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104"
       },
       {
+        "title": "[NEU] [hoch] Absolute Secure Access: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T12:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2830"
+      },
+      {
         "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-13T12:00:00+09:00",
@@ -175,13 +182,6 @@
         "published_at": "2026-08-13T11:02:26+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1119"
-      },
-      {
-        "title": "[UPDATE] [mittel] Apache log4j: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-13T11:02:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1067"
       }
     ],
     "geopolitics": [
@@ -191,6 +191,13 @@
         "published_at": "2026-08-13T09:54:11+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/"
+      },
+      {
+        "title": "[NEU] [hoch] Absolute Secure Access: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T12:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2830"
       },
       {
         "title": "[NEU] [mittel] etcd: Mehrere Schwachstellen",

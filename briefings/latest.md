@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T11:58:00+00:00_
+_Generiert: 2026-08-13T12:19:59+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+44 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
