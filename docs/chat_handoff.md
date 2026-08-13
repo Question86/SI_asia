@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T13:37:27+00:00_
+_Generated: 2026-08-13T14:08:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `46`
+- findings: `51`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-13T13:37:27+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2760
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen.
 
-### 5. The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go
+### 5. Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-08-07T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/
+- summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
+
+### 6. Multiples vulnérabilités dans le noyau Linux d'Ubuntu (07 août 2026)
+- source: CERT-FR Avis de sécurité
+- score: `13`
+- published: `2026-08-07T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0985/
+- summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par…
+
+### 7. The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-13T04:20:03+00:00`
 - url: https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/
 - summary: Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and…
 
-### 6. Mozilla’s CTO thinks AI should be built like the internet
+### 8. Mozilla’s CTO thinks AI should be built like the internet
 - source: Rest of World Global Tech Feed
 - score: `11`
 - published: `2026-08-13T10:00:00+00:00`
 - url: https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.
-
-### 7. Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks
-- source: heise Security Alerts
-- score: `10`
-- published: `2026-08-13T11:37:00.000+00:00`
-- url: https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html
-- summary: Im Endpoint Manager von Ivanti können Angreifer an drei Schwachstellen ansetzen und dabei etwa Zugangsdaten abgreifen.
-
-### 8. Cash remains most widely accepted payment method in euro area
-- source: ECB Press Releases Speeches Interviews
-- score: `10`
-- published: `2026-08-13T09:00:00+00:00`
-- url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html
-- summary: Cash remains most widely accepted payment method in euro area
 
 END OF DOCUMENT

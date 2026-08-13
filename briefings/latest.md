@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T13:37:27+00:00_
+_Generiert: 2026-08-13T14:08:34+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+51 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-07T00:00:00+00:00`, fetched `2026-08-13T14:08:04+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux d'Ubuntu (07 août 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0985/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-07T00:00:00+00:00`, fetched `2026-08-13T14:08:04+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go** — Score 12, observation — [Quelle](https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-13T04:20:03+00:00`, fetched `2026-08-13T05:00:44+00:00`
@@ -175,6 +193,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
   - Kurz: Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Red Hat (07 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0983/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-07T00:00:00+00:00`, fetched `2026-08-13T14:08:04+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks** — Score 10, observation — [Quelle](https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html)
   - Quelle: heise Security Alerts / `rss`
@@ -265,33 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Es sind wichtige Sicherheitsupdates für Palo Alto Networks Unternehmensbrowser Prisma und die VPN-Lösung GlobalProtect App erschienen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel** — Score 7, observation — [Quelle](https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-13T08:52:00.000+00:00`, fetched `2026-08-13T09:17:28+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In Zoom haben IT-Forscher Zero-Klick-Lücken entdeckt, durch die Konferenzteilnehmer anderen beliebigen Code unterjubeln können.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge** — Score 7, observation — [Quelle](https://www.techno-edge.net/article/2026/08/12/5385.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-12T01:45:08+00:00`, fetched `2026-08-13T09:17:28+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、WordやPDFといった多様な文書をMarkdown（GitHub-Flavored Markdown）に高速変換するRust製ライブラリ「anydoc」を取り上げます。...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **オープンデータ100「民間事業者による利活用事例」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/data_case_study)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-13T06:00:00+00:00`, fetched `2026-08-13T06:06:59+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: オープンデータ100「民間事業者による利活用事例」を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
