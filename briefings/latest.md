@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T15:45:06+00:00_
+_Generiert: 2026-08-13T16:08:00+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+54 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close with its latest fundraise and […] The post Graas raises US$17M, acquires Trustana to build smarter…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **What 50 open source projects taught us about security in the AI era** — Score 18, opportunity — [Quelle](https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-13T16:00:00+00:00`, fetched `2026-08-13T16:07:29+00:00`
+  - Treffer: AI/KI, GitHub, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Security (+7.5); Open Source (+3.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **stablyai/orca** — Score 17, observation — [Quelle](https://github.com/stablyai/orca)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -179,6 +188,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAI appoints Dali Rajic as Chief Revenue Officer** — Score 12, observation — [Quelle](https://openai.com/index/dali-rajic-chief-revenue-officer)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-13T09:00:00+00:00`, fetched `2026-08-13T16:07:29+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go** — Score 12, observation — [Quelle](https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -288,15 +306,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-13T09:35:00.000+00:00`, fetched `2026-08-13T09:43:30+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Es sind wichtige Sicherheitsupdates für Palo Alto Networks Unternehmensbrowser Prisma und die VPN-Lösung GlobalProtect App erschienen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-13T15:45:06+00:00",
+  "generated_at": "2026-08-13T16:08:00+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-08-13T04:49:37+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/"
+      },
+      {
+        "title": "What 50 open source projects taught us about security in the AI era",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-13T16:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
       },
       {
         "title": "stablyai/orca",
@@ -47,6 +54,13 @@
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0985/"
       },
       {
+        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-13T09:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+      },
+      {
         "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-13T04:20:03+00:00",
@@ -59,67 +73,16 @@
         "published_at": "2026-08-13T10:00:00+00:00",
         "relevance_score": 11,
         "url": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (07 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-07T00:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0983/"
-      },
-      {
-        "title": "Cash remains most widely accepted payment method in euro area",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-13T09:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html"
-      }
-    ],
-    "github": [
-      {
-        "title": "stablyai/orca",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 17,
-        "url": "https://github.com/stablyai/orca"
-      },
-      {
-        "title": "Why Singapore’s AI finance race is now about data, not models",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T09:54:11+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/"
-      },
-      {
-        "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T04:20:03+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/"
-      },
-      {
-        "title": "品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-13T09:04:24+00:00",
-        "relevance_score": 8,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2132444.html"
-      },
-      {
-        "title": "macro-inc/macro",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/macro-inc/macro"
-      },
-      {
-        "title": "Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-12T01:45:08+00:00",
-        "relevance_score": 7,
-        "url": "https://www.techno-edge.net/article/2026/08/12/5385.html"
       }
     ],
     "security": [
+      {
+        "title": "What 50 open source projects taught us about security in the AI era",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-13T16:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
+      },
       {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (udisks2): Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
@@ -182,13 +145,57 @@
         "published_at": "2026-08-13T11:02:27+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1201"
+      }
+    ],
+    "github": [
+      {
+        "title": "What 50 open source projects taught us about security in the AI era",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-13T16:00:00+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/"
       },
       {
-        "title": "[UPDATE] [mittel] X.Org X11, Xwayland: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-13T11:02:26+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1119"
+        "title": "stablyai/orca",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 17,
+        "url": "https://github.com/stablyai/orca"
+      },
+      {
+        "title": "Why Singapore’s AI finance race is now about data, not models",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-13T09:54:11+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/"
+      },
+      {
+        "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-13T04:20:03+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/"
+      },
+      {
+        "title": "品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-13T09:04:24+00:00",
+        "relevance_score": 8,
+        "url": "https://forest.watch.impress.co.jp/docs/news/2132444.html"
+      },
+      {
+        "title": "macro-inc/macro",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/macro-inc/macro"
+      },
+      {
+        "title": "Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-12T01:45:08+00:00",
+        "relevance_score": 7,
+        "url": "https://www.techno-edge.net/article/2026/08/12/5385.html"
       }
     ],
     "geopolitics": [
