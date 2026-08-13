@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:38:31+00:00",
-  "run_id": "2026-08-13T22:38:31+00:00",
+  "generated_at": "2026-08-13T22:58:33+00:00",
+  "run_id": "2026-08-13T22:58:33+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "new_relevant_findings": 1,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 1,
     "medium": 22,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -910,6 +910,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ef4455b96ad95cced10b"
+      },
+      {
+        "title": "Claude Codeに「違反できないコード」を書かせる：ガイドとセンサーの設計 - Qiita",
+        "url": "https://qiita.com/shun123/items/7aa06b6982dfd1730af0",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-13T09:06:11+00:00",
+        "fetched_at": "2026-08-13T22:57:59+00:00",
+        "summary": "はじめに AIにコードを書かせるようになって、人間の作業は「コードを書く」から「コードが規約を守る仕組みを作る」へ移りつつあります。 この記事は、その仕組みづくりを実際に手を動かして体験するための学習ガイドです。題材として、Hono + TypeScript でオニオンアーキテクチャのタスク管理APIを作ります。ただし、...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d6daac64b59386467d09"
       },
       {
         "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (07 août 2026)",
@@ -2746,6 +2768,28 @@
       "id": "ef4455b96ad95cced10b"
     },
     {
+      "title": "Claude Codeに「違反できないコード」を書かせる：ガイドとセンサーの設計 - Qiita",
+      "url": "https://qiita.com/shun123/items/7aa06b6982dfd1730af0",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T09:06:11+00:00",
+      "fetched_at": "2026-08-13T22:57:59+00:00",
+      "summary": "はじめに AIにコードを書かせるようになって、人間の作業は「コードを書く」から「コードが規約を守る仕組みを作る」へ移りつつあります。 この記事は、その仕組みづくりを実際に手を動かして体験するための学習ガイドです。題材として、Hono + TypeScript でオニオンアーキテクチャのタスク管理APIを作ります。ただし、...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d6daac64b59386467d09"
+    },
+    {
       "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (07 août 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0983/",
       "source": "CERT-FR Avis de sécurité",
@@ -3700,47 +3744,26 @@
   ],
   "new_findings": [
     {
-      "title": "国内ITシステム11社、30年にAI主導の開発に転換 生産性は最大1.5倍 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/",
+      "title": "Claude Codeに「違反できないコード」を書かせる：ガイドとセンサーの設計 - Qiita",
+      "url": "https://qiita.com/shun123/items/7aa06b6982dfd1730af0",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-13T18:45:43+00:00",
-      "fetched_at": "2026-08-13T22:38:02+00:00",
-      "summary": "ITシステムの国内各社が主要な開発工程の担い手を人から人工知能（AI）に切り替える。大手11社の全てが2030年までに設計やプログラミングをAIが主導する体制にする。人手をかける労働集約型から付加価値で稼ぐモデルへの転換を急ぐ。大手11社にシステム開発でのAIの活用の状況や計画について6月に聞き取った。全社が30年...",
+      "published_at": "2026-08-13T09:06:11+00:00",
+      "fetched_at": "2026-08-13T22:57:59+00:00",
+      "summary": "はじめに AIにコードを書かせるようになって、人間の作業は「コードを書く」から「コードが規約を守る仕組みを作る」へ移りつつあります。 この記事は、その仕組みづくりを実際に手を動かして体験するための学習ガイドです。題材として、Hono + TypeScript でオニオンアーキテクチャのタスク管理APIを作ります。ただし、...",
       "matched_keywords": [
-        "AI/KI",
+        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "04558f5761443da008d9"
-    },
-    {
-      "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
-      "url": "https://gigazine.net/news/20260813-traffic-bot-percent/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-13T14:27:31+00:00",
-      "fetched_at": "2026-08-13T22:38:02+00:00",
-      "summary": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがお...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "884c95d6b5e68722319b"
+      "id": "d6daac64b59386467d09"
     }
   ],
   "source_errors": [],
