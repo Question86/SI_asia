@@ -140,6 +140,78 @@
     "id": "720c1f22a109464d85e4"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (udisks2): Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2760",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-13T10:39:20+00:00",
+    "fetched_at": "2026-08-13T11:00:06+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "65cc679f3933a9600742"
+  },
+  {
+    "title": "[UPDATE] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2762",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-13T10:39:20+00:00",
+    "fetched_at": "2026-08-13T11:00:06+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Office Produkte ausnutzen, um Dateien zu manipulieren, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b90cf2740a949be73328"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pyasn1): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2748",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-13T10:39:18+00:00",
+    "fetched_at": "2026-08-13T11:00:06+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (pyasn1) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "516104089008a7ad89a6"
+  },
+  {
     "title": "Why Singapore’s AI finance race is now about data, not models",
     "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/",
     "source": "e27 Asia Startup and Tech Feed",

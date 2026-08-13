@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T10:10:49+00:00_
+_Generated: 2026-08-13T11:00:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `36`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-13T10:10:49+00:00_
 - url: https://github.com/stablyai/orca
 - summary: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCo…
 
-### 4. Why Singapore’s AI finance race is now about data, not models
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (udisks2): Schwachstelle ermöglicht Privilegieneskalation
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-13T09:54:11+00:00`
-- url: https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/
-- summary: For many finance chiefs, the first wave of AI was about testing tools: automating reports, speeding up reconciliation, or asking software to spot anomalies in spreadsheets. In Singapore, that phase is quickly giving way to a more difficult question: how to ma…
+- published: `2026-08-13T10:39:20+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2760
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen.
 
 ### 5. The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go
 - source: e27 Asia Startup and Tech Feed

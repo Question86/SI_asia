@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T10:10:49+00:00_
+_Generiert: 2026-08-13T11:00:39+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -39,6 +39,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from you…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (udisks2): Schwachstelle ermöglicht Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2760)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-13T10:39:20+00:00`, fetched `2026-08-13T11:00:06+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2762)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-13T10:39:20+00:00`, fetched `2026-08-13T11:00:06+00:00`
+  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Office Produkte ausnutzen, um Dateien zu manipulieren, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (pyasn1): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2748)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-13T10:39:18+00:00`, fetched `2026-08-13T11:00:06+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (pyasn1) ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Singapore’s AI finance race is now about data, not models** — Score 16, observation — [Quelle](https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-13T09:54:11+00:00`, fetched `2026-08-13T10:10:18+00:00`
@@ -47,15 +74,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For many finance chiefs, the first wave of AI was about testing tools: automating reports, speeding up reconciliation, or asking software to spot anomalies in spreadsheets. In Singapore, that phase is quickly giving way to a more difficult question: how to make AI work across the messy reality of regional finance operations. A new Forrester […] The post Why Singapore’s AI finance race is now about data, not models a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [kritisch] Microsoft Windows: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-13T07:01:06+00:00`, fetched `2026-08-13T07:09:40+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Produkten ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, um beliebigen Programmcode auszuführen, um falsche Informationen darzustellen, um einen Denial of Service Angriff durchzuführen, und um einen nicht näher spezifizierten Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 22 km ENE of Lapuan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -75,15 +93,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国立研究開発法人情報通信研究機構（NICT）が提供するVoiceTraには、接続先の制限が不適切な脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] IBM i: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2759)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-13T09:51:05+00:00`, fetched `2026-08-13T10:10:18+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen SQL-Injection Angriff durchzuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

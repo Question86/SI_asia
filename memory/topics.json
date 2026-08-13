@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-13T10:10:49+00:00",
+  "generated_at": "2026-08-13T11:00:39+00:00",
   "topics": {
     "ai": [
       {
@@ -112,44 +112,28 @@
         "url": "https://www.techno-edge.net/article/2026/08/12/5385.html"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "Why Singapore’s AI finance race is now about data, not models",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T09:54:11+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/"
-      },
-      {
-        "title": "Cash remains most widely accepted payment method in euro area",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-13T09:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html"
-      },
-      {
-        "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T04:25:53+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/"
-      },
-      {
-        "title": "AI is not the beginning of drug discovery — it is the accelerator",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T02:30:46+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-is-not-the-beginning-of-drug-discovery-it-is-the-accelerator-20260812/"
-      },
-      {
-        "title": "VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-13T06:21:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html"
-      }
-    ],
     "security": [
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (udisks2): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T10:39:20+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2760"
+      },
+      {
+        "title": "[UPDATE] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T10:39:20+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2762"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pyasn1): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T10:39:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2748"
+      },
       {
         "title": "[UPDATE] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -191,6 +175,43 @@
         "published_at": "2026-08-13T08:52:00.000+00:00",
         "relevance_score": 7,
         "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html"
+      },
+      {
+        "title": "VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-13T06:21:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Why Singapore’s AI finance race is now about data, not models",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-13T09:54:11+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/"
+      },
+      {
+        "title": "Cash remains most widely accepted payment method in euro area",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-08-13T09:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html"
+      },
+      {
+        "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-13T04:25:53+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/"
+      },
+      {
+        "title": "AI is not the beginning of drug discovery — it is the accelerator",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-13T02:30:46+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-is-not-the-beginning-of-drug-discovery-it-is-the-accelerator-20260812/"
       },
       {
         "title": "VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein",
