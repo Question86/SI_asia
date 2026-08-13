@@ -1,16 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-13T00:38:24Z",
+  "generated_at": "2026-08-13T01:08:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 5,
     "bands": {
       "strong": 1,
+      "watch": 1,
       "quiet": 3
     },
     "bands_after_gate_recheck": {
       "strong": 1,
+      "watch": 1,
       "quiet": 3
     }
   },
@@ -20,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 54.94,
+      "age_days": 54.97,
       "topics": [
         "ai"
       ],
@@ -39,17 +41,41 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 54.9d old signal",
+        "aging penalty -8.0 for 55.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.5 - 69 km SSW of Chirilagua, El Salvador",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-13T00:41:30.268+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "DYFI? - II Time 2026-08-13 00:30:04 UTC 2026-08-13 00:30:04 UTC at epicenter Location 12.608°N 88.286°W Depth 56.79 km (35.29 mi)"
     },
     {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.91,
+      "age_days": 53.93,
       "topics": [
         "general"
       ],
@@ -74,7 +100,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.91,
+      "age_days": 53.93,
       "topics": [
         "general"
       ],
@@ -99,7 +125,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 53.91,
+      "age_days": 53.93,
       "topics": [
         "ai"
       ],
