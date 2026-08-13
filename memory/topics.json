@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-13T11:39:19+00:00",
+  "generated_at": "2026-08-13T11:58:00+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,20 @@
         "url": "https://jvn.jp/jp/JVN00941257/"
       },
       {
+        "title": "[NEU] [mittel] etcd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2825"
+      },
+      {
+        "title": "[NEU] [hoch] Kibana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2824"
+      },
+      {
         "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-13T11:02:27+00:00",
@@ -168,20 +182,6 @@
         "published_at": "2026-08-13T11:02:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1067"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-13T09:51:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2759"
-      },
-      {
-        "title": "Education, energy and travel sectors face rising cyber attack volumes",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T06:24:13+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/"
       }
     ],
     "geopolitics": [
@@ -191,6 +191,20 @@
         "published_at": "2026-08-13T09:54:11+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/"
+      },
+      {
+        "title": "[NEU] [mittel] etcd: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2825"
+      },
+      {
+        "title": "[NEU] [hoch] Kibana: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2824"
       },
       {
         "title": "Cash remains most widely accepted payment method in euro area",

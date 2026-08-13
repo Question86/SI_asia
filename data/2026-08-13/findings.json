@@ -376,6 +376,52 @@
     "id": "73a6ad78dba1fc92606b"
   },
   {
+    "title": "[NEU] [mittel] etcd: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2825",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-13T11:51:06+00:00",
+    "fetched_at": "2026-08-13T11:57:31+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in etcd ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2fe2d467ff226c716198"
+  },
+  {
+    "title": "[NEU] [hoch] Kibana: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2824",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-13T11:51:06+00:00",
+    "fetched_at": "2026-08-13T11:57:31+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Kibana ausnutzen, um vertrauliche Informationen einschließlich Zugangsdaten offenzulegen, Daten und Konfigurationen zu manipulieren, Berechtigungen zu umgehen und einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9abb92f66ead859851fe"
+  },
+  {
     "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1201",
     "source": "BSI CERT-Bund Security Advisories",
@@ -509,6 +555,39 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ef4455b96ad95cced10b"
+  },
+  {
+    "title": "Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks",
+    "url": "https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-13T11:37:00.000+00:00",
+    "fetched_at": "2026-08-13T11:57:31+00:00",
+    "summary": "Im Endpoint Manager von Ivanti können Angreifer an drei Schwachstellen ansetzen und dabei etwa Zugangsdaten abgreifen.",
+    "matched_keywords": [
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Ivanti"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "4587969e2ff517b0807d"
   },
   {
     "title": "Cash remains most widely accepted payment method in euro area",

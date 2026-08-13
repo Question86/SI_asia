@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T11:39:19+00:00_
+_Generiert: 2026-08-13T11:58:00+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+43 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
   - Kurz: Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks** — Score 10, observation — [Quelle](https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-13T11:37:00.000+00:00`, fetched `2026-08-13T11:57:31+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Im Endpoint Manager von Ivanti können Angreifer an drei Schwachstellen ansetzen und dabei etwa Zugangsdaten abgreifen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cash remains most widely accepted payment method in euro area** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-08-13T09:00:00+00:00`, fetched `2026-08-13T09:17:28+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: In Zoom haben IT-Forscher Zero-Klick-Lücken entdeckt, durch die Konferenzteilnehmer anderen beliebigen Code unterjubeln können.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein** — Score 7, observation — [Quelle](https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-13T06:21:00.000+00:00`, fetched `2026-08-13T06:41:21+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Eine Ende Juli bekannt gewordene Path-Traversal-Lücke in VMware vCenter Syslog Server dient Angreifern zum Einbrechen und Einnisten.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge** — Score 7, observation — [Quelle](https://www.techno-edge.net/article/2026/08/12/5385.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

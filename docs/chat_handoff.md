@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T11:39:19+00:00_
+_Generated: 2026-08-13T11:58:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `43`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-13T11:39:19+00:00_
 - url: https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.
 
-### 7. Cash remains most widely accepted payment method in euro area
+### 7. Ivanti EPM: Update stopft drei hochriskante Sicherheitslecks
+- source: heise Security Alerts
+- score: `10`
+- published: `2026-08-13T11:37:00.000+00:00`
+- url: https://www.heise.de/news/Ivanti-EPM-Update-stopft-drei-hochriskante-Sicherheitslecks-11412988.html
+- summary: Im Endpoint Manager von Ivanti können Angreifer an drei Schwachstellen ansetzen und dabei etwa Zugangsdaten abgreifen.
+
+### 8. Cash remains most widely accepted payment method in euro area
 - source: ECB Press Releases Speeches Interviews
 - score: `10`
 - published: `2026-08-13T09:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html
 - summary: Cash remains most widely accepted payment method in euro area
-
-### 8. Education, energy and travel sectors face rising cyber attack volumes
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-13T06:24:13+00:00`
-- url: https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/
-- summary: Cybersecurity teams entered the second half of 2026 with little sign of relief. Global organisations faced an average of 2,336 cyber attacks per week in July, up 3 per cent from June and 16 per cent from a year earlier, according to new data from Check Point…
 
 END OF DOCUMENT
