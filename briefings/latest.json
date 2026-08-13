@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T19:57:06+00:00",
-  "run_id": "2026-08-13T19:57:06+00:00",
+  "generated_at": "2026-08-13T20:12:16+00:00",
+  "run_id": "2026-08-13T20:12:16+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 63
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 63,
-    "displayed_findings": 63,
+    "new_relevant_findings": 1,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 1,
     "medium": 22,
-    "observe": 40,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -1714,6 +1714,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e808888ae43e2da329d8"
+      },
+      {
+        "title": "Block users from comments in personal repositories",
+        "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-13T19:02:46+00:00",
+        "fetched_at": "2026-08-13T20:11:44+00:00",
+        "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the… The post Block users from comments in personal repositories appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bf4ac8f3be0768d89da6"
       }
     ]
   },
@@ -3400,74 +3420,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e808888ae43e2da329d8"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "License data quality improvements",
-      "url": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-13T19:14:12+00:00",
-      "fetched_at": "2026-08-13T19:56:32+00:00",
-      "summary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown… The post License data quality improvements appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub",
-        "Open Source",
-        "Supply Chain Security",
-        "Watchgraph:software_supply_chain"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "Supply Chain Security (+8.0); Open Source (+3.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "software_supply_chain"
-      ],
-      "watchgraph_reasons": [
-        "software_supply_chain: PyPI"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM"
-      ],
-      "id": "8d5844b7532e437916e4"
     },
     {
-      "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+      "title": "Block users from comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-08-13T14:00:53+00:00",
-      "fetched_at": "2026-08-13T19:56:32+00:00",
-      "summary": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic… The post Gemini 3.7 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "published_at": "2026-08-13T19:02:46+00:00",
+      "fetched_at": "2026-08-13T20:11:44+00:00",
+      "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the… The post Block users from comments in personal repositories appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI Agents",
-        "Copilot",
         "GitHub"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f94cd24e3117088f5d39"
+      "id": "bf4ac8f3be0768d89da6"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Block users from comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-13T19:02:46+00:00",
+      "fetched_at": "2026-08-13T20:11:44+00:00",
+      "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the… The post Block users from comments in personal repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bf4ac8f3be0768d89da6"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T19:57:06+00:00_
+_Generiert: 2026-08-13T20:12:16+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
+64 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
 
 ## Priorität Hoch
 
