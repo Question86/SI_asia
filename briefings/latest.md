@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T20:26:14+00:00_
+_Generiert: 2026-08-13T21:25:15+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+66 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -350,4 +350,4 @@ _Generiert: 2026-08-13T20:26:14+00:00_
 
 ## Quellenfehler
 
-- `google_trends_philippines_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5789b81450>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
