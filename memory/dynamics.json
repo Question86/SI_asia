@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-13T09:12:28Z",
+  "generated_at": "2026-08-13T09:40:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 31,
     "bands": {
       "krass": 4,
-      "strong": 5,
+      "strong": 6,
       "watch": 5,
-      "quiet": 13
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
+      "strong": 10,
       "watch": 5,
-      "quiet": 13
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN00941257/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-13T12:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-13T07:01:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:00:58+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -99,7 +99,7 @@
       "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:49:04+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:49:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 55.3,
+      "age_days": 55.32,
       "topics": [
         "ai"
       ],
@@ -176,11 +176,36 @@
       "summary": ""
     },
     {
+      "title": "Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel",
+      "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-13T08:52:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "In Zoom haben IT-Forscher Zero-Klick-Lücken entdeckt, durch die Konferenzteilnehmer anderen beliebigen Code unterjubeln können."
+    },
+    {
       "title": "オープンデータ100「民間事業者による利活用事例」を更新しました",
       "url": "https://www.digital.go.jp/resources/data_case_study",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-13T06:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -205,7 +230,7 @@
       "url": "https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T06:24:13+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -229,7 +254,7 @@
       "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:00:56+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -254,7 +279,7 @@
       "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-13T06:21:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -278,7 +303,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T01:00:08.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -303,7 +328,7 @@
       "url": "https://github.com/macro-inc/macro",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-13T04:19:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -329,7 +354,7 @@
       "url": "https://github.com/stablyai/orca",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-13T04:19:39+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -355,7 +380,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T00:41:30.268+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -379,7 +404,7 @@
       "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:20:03+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "infra",
@@ -407,7 +432,7 @@
       "url": "https://e27.co/what-paynow-gen-2-gets-right-and-what-it-risks-under-valuing-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T06:00:26+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -431,7 +456,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T03:16:58+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -455,7 +480,7 @@
       "url": "https://anond.hatelabo.jp/20260813095445",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T00:55:39+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -475,11 +500,35 @@
       "summary": "一番使っているアプリが、初期装備の天気予報だった。 猫に小判、宝の持ち腐れとはこういう現象のことだったのだな。 いやiPhoneの天気予報って、意外と予報が当たるし、使いやすいのよ。 「あと〇分で雨が降り始めます」とか、リアルタイムで伝えてくれるのがいい。"
     },
     {
+      "title": "豪州にあるグーグル★2.6評価のパン屋が別な意味でやばかった件について",
+      "url": "https://ysd.theletter.jp/posts/9e2baae7-642f-47b4-aca0-c8227f217037",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-12T09:31:17+00:00",
+      "age_days": 1.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "オーストラリアの首都キャンベラは人工都市で、繁華街と呼べる場所はほとんどありません。あるのはキャンベラセンターというショッピングモールくらい。食品も書籍も土産物も揃いますが、逆に言えばここ以外ではなかなか買えなさそうです。選択肢がすくなすぎる。 到着した夜、このモール内のスーパーcolesに行ってみま..."
+    },
+    {
       "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
       "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:25:53+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "infra"
@@ -506,7 +555,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-13T00:55:20.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "disaster"
@@ -529,11 +578,37 @@
       "summary": "Time 2026-08-13 00:35:18 UTC 2026-08-13 00:35:18 UTC at epicenter Location 36.785°N 74.358°E Depth 58.89 km (36.59 mi)"
     },
     {
+      "title": "Cash remains most widely accepted payment method in euro area",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Cash remains most widely accepted payment method in euro area"
+    },
+    {
       "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
       "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-12T01:20:38+00:00",
-      "age_days": 1.33,
+      "age_days": 1.35,
       "topics": [
         "ai"
       ],
@@ -559,7 +634,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.27,
+      "age_days": 54.29,
       "topics": [
         "general"
       ],
@@ -584,7 +659,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.27,
+      "age_days": 54.29,
       "topics": [
         "general"
       ],
@@ -609,7 +684,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.27,
+      "age_days": 54.29,
       "topics": [
         "ai"
       ],
@@ -636,7 +711,7 @@
       "url": "https://e27.co/ai-is-not-the-beginning-of-drug-discovery-it-is-the-accelerator-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:30:46+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -657,11 +732,36 @@
       "summary": "Artificial intelligence is often framed as the technology that suddenly changed drug discovery. But that narrative misses an important truth: computational, or in silico, drug discovery did not begin with AI. It has been part of pharmaceutical research for decades. Long before today’s large models and generative syste…"
     },
     {
+      "title": "Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/08/12/5385.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-12T01:45:08+00:00",
+      "age_days": 1.33,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、WordやPDFといった多様な文書をMarkdown（GitHub-Flavored Markdown）に高速変換するRust製ライブラリ「anydoc」を取り上げます。..."
+    },
+    {
       "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
       "url": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T01:27:35+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -686,7 +786,7 @@
       "url": "https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T01:30:48+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
