@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-13T10:36:34Z",
+  "generated_at": "2026-08-13T11:05:25Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-13T09:35:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/jp/JVN00941257/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-13T12:00:00+09:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -61,11 +61,37 @@
       "summary": "国立研究開発法人情報通信研究機構（NICT）が提供するVoiceTraには、接続先の制限が不適切な脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2762",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-13T10:39:20+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Office Produkte ausnutzen, um Dateien zu manipulieren, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[UPDATE] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-13T07:01:06+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -91,7 +117,7 @@
       "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:00:58+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -117,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2759",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-13T09:51:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -139,11 +165,61 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen SQL-Injection Angriff durchzuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (udisks2): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2760",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-13T10:39:20+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (pyasn1): Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2748",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-13T10:39:18+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (pyasn1) ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "Mozilla’s CTO thinks AI should be built like the internet",
       "url": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-13T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -169,7 +245,7 @@
       "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:49:04+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -195,7 +271,7 @@
       "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:49:37+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -221,7 +297,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 55.36,
+      "age_days": 55.38,
       "topics": [
         "ai"
       ],
@@ -244,80 +320,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel",
-      "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-08-13T08:52:00.000+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "In Zoom haben IT-Forscher Zero-Klick-Lücken entdeckt, durch die Konferenzteilnehmer anderen beliebigen Code unterjubeln können."
-    },
-    {
-      "title": "オープンデータ100「民間事業者による利活用事例」を更新しました",
-      "url": "https://www.digital.go.jp/resources/data_case_study",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-08-13T06:00:00+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10"
-      ],
-      "summary": "オープンデータ100「民間事業者による利活用事例」を更新しました"
-    },
-    {
-      "title": "Education, energy and travel sectors face rising cyber attack volumes",
-      "url": "https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-13T06:24:13+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Cybersecurity teams entered the second half of 2026 with little sign of relief. Global organisations faced an average of 2,336 cyber attacks per week in July, up 3 per cent from June and 16 per cent from a year earlier, according to new data from Check Point Research. The figures point to a threat environment […] The…"
     }
   ],
   "read_order": [
