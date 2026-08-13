@@ -1,14 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T17:59:21+00:00_
+_Generiert: 2026-08-13T18:23:25+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+59 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **The builder’s guide to GPT‑5.6** — Score 37, opportunity — [Quelle](https://openai.com/index/builders-guide-to-gpt-5-6)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-13T11:00:00+00:00`, fetched `2026-08-13T18:22:58+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance, Macro/Policy, OpenAI, Watchgraph:ai_agents_workflow, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, NVDA, AMD, TSM, ASML, AVGO, MU, BA
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0)
+  - Kurz: Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Priorität Mittel
 
@@ -204,6 +212,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Cybersecurity teams entered the second half of 2026 with little sign of relief. Global organisations faced an average of 2,336 cyber attacks per week in July, up 3 per cent from June and 16 per cent from a year earlier, according to new data from Check Point Research. The figures point to a threat environment […] The post Education, energy and travel sectors face rising cyber attack volumes appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - west of Macquarie Island** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tki8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-13T18:20:21.040+00:00`, fetched `2026-08-13T18:22:58+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-13 17:39:29 UTC 2026-08-13 17:39:29 UTC at epicenter Location 56.856°S 147.228°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 45 km SSW of Angoram, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkgn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-13T12:59:50.040+00:00`, fetched `2026-08-13T13:02:20+00:00`
@@ -222,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - Greenland Sea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-13T01:00:08.040+00:00`, fetched `2026-08-13T01:09:32+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-13 00:33:27 UTC 2026-08-13 00:33:27 UTC at epicenter Location 73.476°N 7.828°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed** — Score 8, observation — [Quelle](https://openai.com/index/previewing-ultrafast)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-13T10:00:00+00:00`, fetched `2026-08-13T17:13:03+00:00`
@@ -252,10 +260,11 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
-- Keine neuen langfristigen Erinnerungskandidaten.
+- **The builder’s guide to GPT‑5.6** — OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0) — [Quelle](https://openai.com/index/builders-guide-to-gpt-5-6)
