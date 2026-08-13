@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-13T08:09:01Z_
+_Generated: 2026-08-13T08:43:48Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-13T12:00:00+09:00` / age_days `0.21`
+- Published: `2026-08-13T12:00:00+09:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T07:01:06+00:00` / age_days `0.05`
+- Published: `2026-08-13T07:01:06+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, 10, security high-signal: kritisch, code, 10, official security but no high-signal phrase: capped at strong
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T02:00:58+00:00` / age_days `0.26`
+- Published: `2026-08-13T02:00:58+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T03:49:04+00:00` / age_days `0.18`
+- Published: `2026-08-13T03:49:04+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-13T04:49:37+00:00` / age_days `0.14`
+- Published: `2026-08-13T04:49:37+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `55.26`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `55.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 55.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-13T06:00:00+00:00` / age_days `0.09`
+- Published: `2026-08-13T06:00:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-08-13T06:24:13+00:00` / age_days `0.07`
+- Published: `2026-08-13T06:24:13+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-13T03:00:56+00:00` / age_days `0.21`
+- Published: `2026-08-13T03:00:56+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-13T06:21:00.000+00:00` / age_days `0.08`
+- Published: `2026-08-13T06:21:00.000+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: security high-signal: security
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-13T01:00:08.040+00:00` / age_days `0.3`
+- Published: `2026-08-13T01:00:08.040+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “VoiceTraにおける接続先の制限�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-13T04:19:39+00:00` / age_days `0.16`
+- Published: `2026-08-13T04:19:39+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
