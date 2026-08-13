@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-08-13T20:12:16+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-13T20:26:14+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 64,
     "displayed_findings": 64,
     "high": 1,
     "medium": 22,
     "observe": 41,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_philippines_hot",
+      "source_name": "Google Trends Philippines Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

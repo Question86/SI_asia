@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T20:12:16+00:00",
-  "run_id": "2026-08-13T20:12:16+00:00",
+  "generated_at": "2026-08-13T20:26:14+00:00",
+  "run_id": "2026-08-13T20:26:14+00:00",
   "date": "2026-08-13",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 64
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 64,
     "displayed_findings": 64,
     "high": 1,
     "medium": 22,
     "observe": 41,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -3442,29 +3442,15 @@
       "id": "bf4ac8f3be0768d89da6"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Block users from comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-      "source": "GitHub Changelog Atom",
+      "source_id": "google_trends_philippines_hot",
+      "source_name": "Google Trends Philippines Hot Feed",
       "source_type": "rss",
-      "published_at": "2026-08-13T19:02:46+00:00",
-      "fetched_at": "2026-08-13T20:11:44+00:00",
-      "summary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the… The post Block users from comments in personal repositories appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bf4ac8f3be0768d89da6"
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

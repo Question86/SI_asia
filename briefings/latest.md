@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T20:12:16+00:00_
+_Generiert: 2026-08-13T20:26:14+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
+64 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -347,3 +347,7 @@ _Generiert: 2026-08-13T20:12:16+00:00_
 ## Erinnerungskandidaten
 
 - **The builder’s guide to GPT‑5.6** — OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0) — [Quelle](https://openai.com/index/builders-guide-to-gpt-5-6)
+
+## Quellenfehler
+
+- `google_trends_philippines_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.ph/trending/rss?geo=PH
