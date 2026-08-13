@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T16:29:38+00:00_
+_Generated: 2026-08-13T16:50:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `54`
+- findings: `56`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-13T16:29:38+00:00_
 - url: https://github.com/stablyai/orca
 - summary: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCo…
 
-### 5. Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)
+### 5. M 5.6 - Kermadec Islands region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-13T16:45:59.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm
+- summary: PAGER - GREEN ShakeMap - III Time 2026-08-13 16:11:45 UTC 2026-08-13 16:11:45 UTC at epicenter Location 28.674°S 176.312°W Depth 10.00 km (6.21 mi)
+
+### 6. Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)
 - source: CERT-FR Avis de sécurité
 - score: `13`
 - published: `2026-08-07T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/
 - summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
 
-### 6. Multiples vulnérabilités dans le noyau Linux d'Ubuntu (07 août 2026)
+### 7. Multiples vulnérabilités dans le noyau Linux d'Ubuntu (07 août 2026)
 - source: CERT-FR Avis de sécurité
 - score: `13`
 - published: `2026-08-07T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0985/
 - summary: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par…
 
-### 7. OpenAI appoints Dali Rajic as Chief Revenue Officer
+### 8. OpenAI appoints Dali Rajic as Chief Revenue Officer
 - source: OpenAI News RSS
 - score: `12`
 - published: `2026-08-13T09:00:00+00:00`
 - url: https://openai.com/index/dali-rajic-chief-revenue-officer
 - summary: OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.
-
-### 8. The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-08-13T04:20:03+00:00`
-- url: https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/
-- summary: Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and…
 
 END OF DOCUMENT

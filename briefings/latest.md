@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T16:29:38+00:00_
+_Generiert: 2026-08-13T16:50:48+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+56 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-08-13T16:29:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].
+- **USGS earthquake M5.6 - Kermadec Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm)
+  - Quelle: USGS
+  - Zeit: `2026-08-13T16:11:45+00:00`
+  - Kurz: M5.6 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -171,6 +175,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.6 - Kermadec Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-13T16:45:59.040+00:00`, fetched `2026-08-13T16:50:17+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-08-13 16:11:45 UTC 2026-08-13 16:11:45 UTC at epicenter Location 28.674°S 176.312°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (07 août 2026)** — Score 13, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-08-07T00:00:00+00:00`, fetched `2026-08-13T14:08:04+00:00`
@@ -278,15 +291,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-13 00:33:27 UTC 2026-08-13 00:33:27 UTC at epicenter Location 73.476°N 7.828°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 59 km NNW of Barishal, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-13T00:55:20.040+00:00`, fetched `2026-08-13T01:09:32+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-13 00:35:18 UTC 2026-08-13 00:35:18 UTC at epicenter Location 36.785°N 74.358°E Depth 58.89 km (36.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働** — Score 8, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2132444.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
