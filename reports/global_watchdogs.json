@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:41:45+00:00",
+  "generated_at": "2026-08-13T01:10:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557728",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -94,26 +104,16 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI&gt;=VII).",
-        "summary": "Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI&gt;=VII).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 69 km SSW of Chirilagua, El Salvador",
-        "summary": "M5.5 - 69 km SSW of Chirilagua, El Salvador. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - 69 km SSW of Chirilagua, El Salvador. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb",
         "published_at": "2026-08-13T00:30:04+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
-          "sig": 465.0,
+          "alert": "green",
+          "sig": 469.0,
           "tsunami": 0
         }
       }

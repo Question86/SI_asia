@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T00:41:42+00:00_
+_Generiert: 2026-08-13T01:10:02+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 69 km SSW of Chirilagua, El Salvador“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+3 neue relevante Treffer. Stärkstes Signal: „M 4.7 - Greenland Sea“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-13T00:41:42+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557728)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
 - **GDACS: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001302)
   - Quelle: GDACS
   - Zeit: ``
@@ -41,14 +45,10 @@ _Generiert: 2026-08-13T00:41:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].
-- **GDACS: Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557236)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI&gt;=VII).
 - **USGS earthquake M5.5 - 69 km SSW of Chirilagua, El Salvador** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb)
   - Quelle: USGS
   - Zeit: `2026-08-13T00:30:04+00:00`
-  - Kurz: M5.5 - 69 km SSW of Chirilagua, El Salvador. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 69 km SSW of Chirilagua, El Salvador. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -69,6 +69,24 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 4.7 - Greenland Sea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-13T01:00:08.040+00:00`, fetched `2026-08-13T01:09:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-13 00:33:27 UTC 2026-08-13 00:33:27 UTC at epicenter Location 73.476°N 7.828°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.1 - 59 km NNW of Barishal, Pakistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkci)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-13T00:55:20.040+00:00`, fetched `2026-08-13T01:09:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-13 00:35:18 UTC 2026-08-13 00:35:18 UTC at epicenter Location 36.785°N 74.358°E Depth 58.89 km (36.59 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.5 - 69 km SSW of Chirilagua, El Salvador** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-13T00:41:30.268+00:00`, fetched `2026-08-13T00:41:13+00:00`
