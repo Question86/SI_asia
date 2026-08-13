@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-13T21:25:15+00:00",
-  "run_id": "2026-08-13T21:25:15+00:00",
+  "generated_at": "2026-08-13T21:43:31+00:00",
+  "run_id": "2026-08-13T21:43:31+00:00",
   "date": "2026-08-13",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 1,
     "medium": 22,
-    "observe": 43,
-    "source_errors": 1
+    "observe": 44,
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -1486,6 +1486,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2d7b071e59093150a6f3"
+      },
+      {
+        "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた ― いま「オントロジー」と呼ばれているもの ― - Qiita",
+        "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-13T10:13:39+00:00",
+        "fetched_at": "2026-08-13T21:42:58+00:00",
+        "summary": "同じ質問を投げたのに、部署ごとに違う数字が返ってくる。しかも、どちらのAIも間違ってない。 生成AIを業務に入れた組織で、いま静かに起きている現象です。この記事では、その正体を解きほぐしたうえで、2025年くらいから主要ベンダーが揃って使い始めた「オントロジー」という言葉が、いま何を指し、技術的に何を作る...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "536e39e4e963995c7b30"
       },
       {
         "title": "Webサービスの終わらせ方",
@@ -3236,6 +3257,27 @@
       "id": "2d7b071e59093150a6f3"
     },
     {
+      "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた ― いま「オントロジー」と呼ばれているもの ― - Qiita",
+      "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T10:13:39+00:00",
+      "fetched_at": "2026-08-13T21:42:58+00:00",
+      "summary": "同じ質問を投げたのに、部署ごとに違う数字が返ってくる。しかも、どちらのAIも間違ってない。 生成AIを業務に入れた組織で、いま静かに起きている現象です。この記事では、その正体を解きほぐしたうえで、2025年くらいから主要ベンダーが揃って使い始めた「オントロジー」という言葉が、いま何を指し、技術的に何を作る...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "536e39e4e963995c7b30"
+    },
+    {
       "title": "Webサービスの終わらせ方",
       "url": "https://zenn.dev/kibe/articles/df74c2e9fe76b6",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3528,13 +3570,13 @@
   ],
   "new_findings": [
     {
-      "title": "「収益化のハードルが低いのを知っていますか？」―─ニコニコがXでアピール YouTubeの条件引き上げ受け",
-      "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000528/",
+      "title": "AIに同じ質問をしたら、部署ごとに違う数字が返ってきた ― いま「オントロジー」と呼ばれているもの ― - Qiita",
+      "url": "https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-13T11:21:58+00:00",
-      "fetched_at": "2026-08-13T21:24:39+00:00",
-      "summary": "「ニコニコは収益化のハードルが低いのを知っていますか？」――ニコニコ公式Xは8月12日、同サービスで収益化を始める際の条件などを紹介した。YouTubeが10日、広告収益を得るための新規参加条件を2027年2月から引き上げると発表しており、これを受けた投稿とみられる。 ニコニコは、これまでも収益化のしやすさをたびたび...",
+      "published_at": "2026-08-13T10:13:39+00:00",
+      "fetched_at": "2026-08-13T21:42:58+00:00",
+      "summary": "同じ質問を投げたのに、部署ごとに違う数字が返ってくる。しかも、どちらのAIも間違ってない。 生成AIを業務に入れた組織で、いま静かに起きている現象です。この記事では、その正体を解きほぐしたうえで、2025年くらいから主要ベンダーが揃って使い始めた「オントロジー」という言葉が、いま何を指し、技術的に何を作る...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3546,38 +3588,10 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2d7b071e59093150a6f3"
-    },
-    {
-      "title": "続・貧者のアークテクチャ：Next.js + Cloudflare Workers + Turso 本番運用で踏んだ罠ぜんぶ",
-      "url": "https://zenn.dev/nabettu/articles/a964f988e7cc75",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-13T08:49:53+00:00",
-      "fetched_at": "2026-08-13T21:24:39+00:00",
-      "summary": "前作はDBをFirestoreにしていましたが、今回はリレーショナルなデータが多いサービスなので、SQLiteをエッジから引けるTursoにしました。 コストを正直に書いておくと、Workers Paid（$5/月）だけは必須です。理由は3つ。 Workerのバンドルサイズ: OpenNextでビルドしたNext.jsアプリのworkerは、うちの規模でgzip後3.6M...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "93d3504e2076bc988cc3"
+      "id": "536e39e4e963995c7b30"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5789b81450>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

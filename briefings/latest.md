@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T21:25:15+00:00_
+_Generiert: 2026-08-13T21:43:31+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+67 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -347,7 +347,3 @@ _Generiert: 2026-08-13T21:25:15+00:00_
 ## Erinnerungskandidaten
 
 - **The builder’s guide to GPT‑5.6** — OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph modules elections_unrest, ai_agents_workflow (+6.0) — [Quelle](https://openai.com/index/builders-guide-to-gpt-5-6)
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f5789b81450>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
