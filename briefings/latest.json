@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T11:21:35+00:00",
-  "run_id": "2026-08-13T11:21:35+00:00",
+  "generated_at": "2026-08-13T11:39:19+00:00",
+  "run_id": "2026-08-13T11:39:19+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -2065,114 +2065,7 @@
       "id": "e808888ae43e2da329d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.6 - 3 km ESE of Gambiran Satu, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkg4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-13T11:13:30.040+00:00",
-      "fetched_at": "2026-08-13T11:21:06+00:00",
-      "summary": "Time 2026-08-13 10:23:19 UTC 2026-08-13 10:23:19 UTC at epicenter Location 8.412°S 114.176°E Depth 145.68 km (90.52 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "7ced2c1d1d8fb42ea7ec"
-    },
-    {
-      "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1201",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-13T11:02:27+00:00",
-      "fetched_at": "2026-08-13T11:21:06+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2d5c7b5ddb6cbc1eb1d0"
-    },
-    {
-      "title": "[UPDATE] [mittel] X.Org X11, Xwayland: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1119",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-13T11:02:26+00:00",
-      "fetched_at": "2026-08-13T11:21:06+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in X.Org X11 und Xwayland ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise Speicherbeschädigungen, die Offenlegung von Informationen oder einen Denial-of-Service-Zustand.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9b9ca647ab36152bbf8b"
-    },
-    {
-      "title": "[UPDATE] [mittel] Apache log4j: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1067",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-13T11:02:05+00:00",
-      "fetched_at": "2026-08-13T11:21:06+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache log4j ausnutzen, um Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a6a5d2bc70d71996c049"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
