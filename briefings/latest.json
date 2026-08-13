@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T16:08:00+00:00",
-  "run_id": "2026-08-13T16:08:00+00:00",
+  "generated_at": "2026-08-13T16:29:38+00:00",
+  "run_id": "2026-08-13T16:29:38+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 54,
     "displayed_findings": 54,
     "high": 0,
@@ -2753,52 +2753,7 @@
       "id": "e808888ae43e2da329d8"
     }
   ],
-  "new_findings": [
-    {
-      "title": "What 50 open source projects taught us about security in the AI era",
-      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-13T16:00:00+00:00",
-      "fetched_at": "2026-08-13T16:07:29+00:00",
-      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "GitHub",
-        "Open Source",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "AI/KI (+3.8); Security (+7.5); Open Source (+3.8); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "356726fe700fa818fdfe"
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-13T09:00:00+00:00",
-      "fetched_at": "2026-08-13T16:07:29+00:00",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "933a376ad6bf73abb6c1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
