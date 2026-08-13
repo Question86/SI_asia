@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T04:20:13+00:00_
+_Generiert: 2026-08-13T05:01:13+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+16 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and reconcile invoices, the old assumptions […] The post From KYC to KYA: how AI agents are reshaping payment…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Graas raises US$17M, acquires Trustana to build smarter retail AI agents** — Score 19, opportunity — [Quelle](https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-13T04:49:37+00:00`, fetched `2026-08-13T05:00:44+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close with its latest fundraise and […] The post Graas raises US$17M, acquires Trustana to build smarter…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **stablyai/orca** — Score 17, observation — [Quelle](https://github.com/stablyai/orca)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -51,6 +60,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go** — Score 12, observation — [Quelle](https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-13T04:20:03+00:00`, fetched `2026-08-13T05:00:44+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourses mirrored this optimism as the MSCI Asia […] The post The Kospi enters a bull market while crypto c…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore** — Score 9, observation — [Quelle](https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-13T04:25:53+00:00`, fetched `2026-08-13T05:00:44+00:00`
+  - Treffer: APAC Trend Radar, funding
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - Greenland Sea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-13T01:00:08.040+00:00`, fetched `2026-08-13T01:09:32+00:00`
@@ -113,24 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに Cloudflare OSの話を3本書きました。ローカルLLMで三目並べに5ラウンドかけた奮闘記、モデル間の受け渡し設計の話、セキュリティとガバナンスの話。 3本目でこう書きました。「思想さえ理解すれば、この環境は怖くない」と。 ……で、その思想って結局なんやねん、という。 自分で書いておいて回収してないんです...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **You can’t force a tailwind, you can force your readiness for one** — Score 4, observation — [Quelle](https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-13T03:00:56+00:00`, fetched `2026-08-13T03:33:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Ten years into building, the annual planning cycle stops being useful. A year is too short a unit to learn anything from. It’s long enough to feel like progress and short enough to hide the fact that the money isn’t made evenly across time. It shows up in bursts, during the stretches when conditions favour […] The post You can’t force a tailwind, you can force your readiness for one appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The hidden cost of ‘gray work’: Why manual processes are draining your team** — Score 4, observation — [Quelle](https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-13T01:30:48+00:00`, fetched `2026-08-13T01:50:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: More often than not, an employee is hired with a specific function in mind, but many are finding themselves taken away from these responsibilities to take care of administrative tasks that don’t directly create value. These tasks are usually overlooked and left unaddressed because the actions themselves are small. However, over time, it can drain […] The post The hidden cost of ‘gray work’: Why manual processes are…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

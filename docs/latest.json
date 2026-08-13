@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T04:20:13+00:00",
-  "run_id": "2026-08-13T04:20:13+00:00",
+  "generated_at": "2026-08-13T05:01:13+00:00",
+  "run_id": "2026-08-13T05:01:13+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 4,
-    "observe": 9,
+    "medium": 5,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -75,6 +75,52 @@
           "PINS"
         ],
         "id": "8fe655878b5bdc0a037f"
+      },
+      {
+        "title": "Graas raises US$17M, acquires Trustana to build smarter retail AI agents",
+        "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-13T04:49:37+00:00",
+        "fetched_at": "2026-08-13T05:00:44+00:00",
+        "summary": "For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close with its latest fundraise and […] The post Graas raises US$17M, acquires Trustana to build smarter…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "94224e28a9f957401c33"
       },
       {
         "title": "stablyai/orca",
@@ -169,6 +215,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
+        "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-13T04:20:03+00:00",
+        "fetched_at": "2026-08-13T05:00:44+00:00",
+        "summary": "Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourses mirrored this optimism as the MSCI Asia […] The post The Kospi enters a bull market while crypto c…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a6dff451dab5317327a0"
+      },
+      {
+        "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
+        "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-13T04:25:53+00:00",
+        "fetched_at": "2026-08-13T05:00:44+00:00",
+        "summary": "Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "17aa477ff9ba697306fd"
+      },
       {
         "title": "M 4.7 - Greenland Sea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkcj",
@@ -455,6 +544,52 @@
       "id": "8fe655878b5bdc0a037f"
     },
     {
+      "title": "Graas raises US$17M, acquires Trustana to build smarter retail AI agents",
+      "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T04:49:37+00:00",
+      "fetched_at": "2026-08-13T05:00:44+00:00",
+      "summary": "For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close with its latest fundraise and […] The post Graas raises US$17M, acquires Trustana to build smarter…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "94224e28a9f957401c33"
+    },
+    {
       "title": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -544,6 +679,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "73a6ad78dba1fc92606b"
+    },
+    {
+      "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
+      "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T04:20:03+00:00",
+      "fetched_at": "2026-08-13T05:00:44+00:00",
+      "summary": "Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourses mirrored this optimism as the MSCI Asia […] The post The Kospi enters a bull market while crypto c…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a6dff451dab5317327a0"
+    },
+    {
+      "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
+      "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T04:25:53+00:00",
+      "fetched_at": "2026-08-13T05:00:44+00:00",
+      "summary": "Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17aa477ff9ba697306fd"
     },
     {
       "title": "M 4.7 - Greenland Sea",
@@ -783,22 +961,21 @@
   ],
   "new_findings": [
     {
-      "title": "From KYC to KYA: how AI agents are reshaping payment risk",
-      "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
+      "title": "Graas raises US$17M, acquires Trustana to build smarter retail AI agents",
+      "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-13T03:49:04+00:00",
-      "fetched_at": "2026-08-13T04:19:39+00:00",
-      "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negotiate terms, initiate payments, and reconcile invoices, the old assumptions […] The post From KYC to KYA: how AI agents are reshaping payment…",
+      "published_at": "2026-08-13T04:49:37+00:00",
+      "fetched_at": "2026-08-13T05:00:44+00:00",
+      "summary": "For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close with its latest fundraise and […] The post Graas raises US$17M, acquires Trustana to build smarter…",
       "matched_keywords": [
         "AI Agents",
         "AI/KI",
         "APAC Trend Radar",
-        "Public Health",
         "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [
@@ -827,78 +1004,50 @@
         "SNAP",
         "PINS"
       ],
-      "id": "8fe655878b5bdc0a037f"
+      "id": "94224e28a9f957401c33"
     },
     {
-      "title": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "The Kospi enters a bull market while crypto consolidates: Where did the risk appetite go",
+      "url": "https://e27.co/the-kospi-enters-a-bull-market-while-crypto-consolidates-where-did-the-risk-appetite-go-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-08-13T04:19:39+00:00",
-      "summary": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCode, OpenCode or Pi side-by-side — each in its own worktree, tracked in one place. Download Orca Features Mobile Companion Monitor and steer your agents from you…",
+      "published_at": "2026-08-13T04:20:03+00:00",
+      "fetched_at": "2026-08-13T05:00:44+00:00",
+      "summary": "Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourses mirrored this optimism as the MSCI Asia […] The post The Kospi enters a bull market while crypto c…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "Macro/Policy"
       ],
-      "relevance_score": 17,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "720c1f22a109464d85e4"
-    },
-    {
-      "title": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-08-13T04:19:39+00:00",
-      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Produktidee",
-        "Webentwicklung"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "324a4519451de037856c"
+      "id": "a6dff451dab5317327a0"
+    },
+    {
+      "title": "K2 Therapeutics raises US$50M to build global biotech pipeline from Singapore",
+      "url": "https://e27.co/k2-therapeutics-raises-us50m-to-build-global-biotech-pipeline-from-singapore-20260813/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T04:25:53+00:00",
+      "fetched_at": "2026-08-13T05:00:44+00:00",
+      "summary": "Singapore’s biotech sector has long had the ingredients of a serious life sciences hub: strong universities, public research funding, hospital networks, and a government keen to pull high-value industries into the city-state. What it has had less of is a steady stream of venture-backed drug developers built to compete internationally from day one. K2 Therapeutics […] The post K2 Therapeutics raises US$50M to build g…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "17aa477ff9ba697306fd"
     }
   ],
   "source_errors": [],
