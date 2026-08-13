@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T11:00:39+00:00_
+_Generiert: 2026-08-13T11:21:35+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -128,6 +128,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: For many finance chiefs, the first wave of AI was about testing tools: automating reports, speeding up reconciliation, or asking software to spot anomalies in spreadsheets. In Singapore, that phase is quickly giving way to a more difficult question: how to make AI work across the messy reality of regional finance operations. A new Forrester […] The post Why Singapore’s AI finance race is now about data, not models a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 3 km ESE of Gambiran Satu, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkg4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-13T11:13:30.040+00:00`, fetched `2026-08-13T11:21:06+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-13 10:23:19 UTC 2026-08-13 10:23:19 UTC at epicenter Location 8.412°S 114.176°E Depth 145.68 km (90.52 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 22 km ENE of Lapuan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-13T09:41:20.040+00:00`, fetched `2026-08-13T09:43:30+00:00`

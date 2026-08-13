@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-13T11:00:39+00:00",
+  "generated_at": "2026-08-13T11:21:35+00:00",
   "topics": {
     "ai": [
       {
@@ -149,6 +149,27 @@
         "url": "https://jvn.jp/jp/JVN00941257/"
       },
       {
+        "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:02:27+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1201"
+      },
+      {
+        "title": "[UPDATE] [mittel] X.Org X11, Xwayland: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:02:26+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1119"
+      },
+      {
+        "title": "[UPDATE] [mittel] Apache log4j: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-13T11:02:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1067"
+      },
+      {
         "title": "[UPDATE] [hoch] IBM i: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-13T09:51:05+00:00",
@@ -161,27 +182,6 @@
         "published_at": "2026-08-13T06:24:13+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/"
-      },
-      {
-        "title": "Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-13T09:35:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html"
-      },
-      {
-        "title": "Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-13T08:52:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html"
-      },
-      {
-        "title": "VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-13T06:21:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html"
       }
     ],
     "geopolitics": [
@@ -222,6 +222,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.6 - 3 km ESE of Gambiran Satu, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-13T11:13:30.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkg4"
+      },
       {
         "title": "M 5.1 - 22 km ENE of Lapuan, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -284,13 +291,6 @@
         "published_at": "2026-08-12T09:31:17+00:00",
         "relevance_score": 5,
         "url": "https://ysd.theletter.jp/posts/9e2baae7-642f-47b4-aca0-c8227f217037"
-      },
-      {
-        "title": "What PayNow Gen 2 gets right, and what it risks under-valuing",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-13T06:00:26+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/what-paynow-gen-2-gets-right-and-what-it-risks-under-valuing-20260813/"
       }
     ],
     "economy": [
