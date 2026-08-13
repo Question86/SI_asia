@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-13T19:34:59+00:00_
+_Generated: 2026-08-13T19:57:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `63`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-08-13T19:34:59+00:00_
 - url: https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/
 - summary: For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sal…
 
-### 4. What 50 open source projects taught us about security in the AI era
+### 4. License data quality improvements
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-08-13T19:14:12+00:00`
+- url: https://github.blog/changelog/2026-08-13-license-data-quality-improvements
+- summary: GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown… The post License data quality improvements appeared…
+
+### 5. What 50 open source projects taught us about security in the AI era
 - source: GitHub Blog Atom
 - score: `18`
 - published: `2026-08-13T16:00:00+00:00`
 - url: https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/
 - summary: See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects ta…
-
-### 5. stablyai/orca
-- source: GitHub Trending RSS All Languages Daily
-- score: `17`
-- published: `None`
-- url: https://github.com/stablyai/orca
-- summary: Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. Orca 中文 · 日本語 · 한국어 · Español · Français · Português The AI Orchestrator for 100x builders. Run Codex, ClaudeCo…
 
 ### 6. M 5.6 - Kermadec Islands region
 - source: USGS M4.5+ Earthquakes Past Hour

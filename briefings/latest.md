@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T19:34:59+00:00_
+_Generiert: 2026-08-13T19:57:06+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
+63 neue relevante Treffer. Stärkstes Signal: „The builder’s guide to GPT‑5.6“ aus OpenAI News RSS (Score 37, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,14 +41,14 @@ _Generiert: 2026-08-13T19:34:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001302)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone ONE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001303)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone ONE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001302)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001301)
   - Quelle: GDACS
   - Zeit: ``
@@ -99,6 +99,15 @@ _Generiert: 2026-08-13T19:34:59+00:00_
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: For retailers, artificial intelligence is only as useful as the data it can read. A chatbot that cannot understand product attributes, stock availability, customer intent, or the difference between two near-identical SKUs is unlikely to move the needle on sales. That is the gap Singapore-based Graas is trying to close with its latest fundraise and […] The post Graas raises US$17M, acquires Trustana to build smarter…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **License data quality improvements** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-08-13-license-data-quality-improvements)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-13T19:14:12+00:00`, fetched `2026-08-13T19:56:32+00:00`
+  - Treffer: GitHub, Open Source, Supply Chain Security, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Supply Chain Security (+8.0); Open Source (+3.8); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown… The post License data quality improvements appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **What 50 open source projects taught us about security in the AI era** — Score 18, opportunity — [Quelle](https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-08-13T16:00:00+00:00`, fetched `2026-08-13T16:07:29+00:00`
@@ -237,6 +246,15 @@ _Generiert: 2026-08-13T19:34:59+00:00_
   - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Global equity exchanges expanded following an inflation report. The S&P 500 index gained 0.26 per cent to reach 7,748.50 while the Nasdaq Composite added 0.54 per cent to close at 26,588.49. Technology and artificial intelligence companies like CoreWeave and Super Micro Computer powered this equity rally. Asian bourses mirrored this optimism as the MSCI Asia […] The post The Kospi enters a bull market while crypto c…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gemini 3.7 Flash is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-13T14:00:53+00:00`, fetched `2026-08-13T19:56:32+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic… The post Gemini 3.7 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Mozilla’s CTO thinks AI should be built like the internet** — Score 11, observation — [Quelle](https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-13T10:00:00+00:00`, fetched `2026-08-13T10:10:18+00:00`
@@ -317,15 +335,6 @@ _Generiert: 2026-08-13T19:34:59+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働** — Score 8, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2132444.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-13T09:04:24+00:00`, fetched `2026-08-13T12:37:21+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: 品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
