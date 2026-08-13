@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T16:50:48+00:00_
+_Generiert: 2026-08-13T17:13:35+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-13T16:50:48+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557839)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].
 - **GDACS: Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001304)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,6 @@ _Generiert: 2026-08-13T16:50:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].
-- **USGS earthquake M5.6 - Kermadec Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkhm)
-  - Quelle: USGS
-  - Zeit: `2026-08-13T16:11:45+00:00`
-  - Kurz: M5.6 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -292,6 +292,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-13 00:33:27 UTC 2026-08-13 00:33:27 UTC at epicenter Location 73.476°N 7.828°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed** — Score 8, observation — [Quelle](https://openai.com/index/previewing-ultrafast)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-13T10:00:00+00:00`, fetched `2026-08-13T17:13:03+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働** — Score 8, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2132444.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-13T09:04:24+00:00`, fetched `2026-08-13T12:37:21+00:00`
@@ -301,15 +310,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
   - Kurz: 品質は上がったのに価格は1/4 ～Microsoft、軽量コーディングモデル「MAI-Code-1.1-Flash」を発表／「GitHub Copilot」ですでに本番稼働
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **macro-inc/macro** — Score 8, opportunity — [Quelle](https://github.com/macro-inc/macro)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-13T04:19:39+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Produktidee, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
