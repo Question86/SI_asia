@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T02:45:53+00:00",
-  "run_id": "2026-08-13T02:45:53+00:00",
+  "generated_at": "2026-08-13T03:34:10+00:00",
+  "run_id": "2026-08-13T03:34:10+00:00",
   "date": "2026-08-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
-    "medium": 1,
-    "observe": 6,
+    "medium": 2,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c88117e2405125f5dec9"
+      },
+      {
+        "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
+        "url": "https://jvn.jp/jp/JVN00941257/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-13T12:00:00+09:00",
+        "fetched_at": "2026-08-13T03:33:39+00:00",
+        "summary": "国立研究開発法人情報通信研究機構（NICT）が提供するVoiceTraには、接続先の制限が不適切な脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "73a6ad78dba1fc92606b"
       }
     ],
     "observe": [
@@ -204,6 +226,47 @@
         "id": "568ab706c290fb080c9c"
       },
       {
+        "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
+        "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-12T01:20:38+00:00",
+        "fetched_at": "2026-08-13T03:33:39+00:00",
+        "summary": "はじめに Cloudflare OSの話を3本書きました。ローカルLLMで三目並べに5ラウンドかけた奮闘記、モデル間の受け渡し設計の話、セキュリティとガバナンスの話。 3本目でこう書きました。「思想さえ理解すれば、この環境は怖くない」と。 ……で、その思想って結局なんやねん、という。 自分で書いておいて回収してないんです...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ee8df2571e4c08076ad9"
+      },
+      {
+        "title": "You can’t force a tailwind, you can force your readiness for one",
+        "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-13T03:00:56+00:00",
+        "fetched_at": "2026-08-13T03:33:39+00:00",
+        "summary": "Ten years into building, the annual planning cycle stops being useful. A year is too short a unit to learn anything from. It’s long enough to feel like progress and short enough to hide the fact that the money isn’t made evenly across time. It shows up in bursts, during the stretches when conditions favour […] The post You can’t force a tailwind, you can force your readiness for one appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34b26103fa8ddb8e7f6d"
+      },
+      {
         "title": "The hidden cost of ‘gray work’: Why manual processes are draining your team",
         "url": "https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -247,6 +310,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c88117e2405125f5dec9"
+    },
+    {
+      "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
+      "url": "https://jvn.jp/jp/JVN00941257/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-13T12:00:00+09:00",
+      "fetched_at": "2026-08-13T03:33:39+00:00",
+      "summary": "国立研究開発法人情報通信研究機構（NICT）が提供するVoiceTraには、接続先の制限が不適切な脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "73a6ad78dba1fc92606b"
     },
     {
       "title": "M 4.7 - Greenland Sea",
@@ -399,6 +484,47 @@
       "id": "568ab706c290fb080c9c"
     },
     {
+      "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
+      "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-12T01:20:38+00:00",
+      "fetched_at": "2026-08-13T03:33:39+00:00",
+      "summary": "はじめに Cloudflare OSの話を3本書きました。ローカルLLMで三目並べに5ラウンドかけた奮闘記、モデル間の受け渡し設計の話、セキュリティとガバナンスの話。 3本目でこう書きました。「思想さえ理解すれば、この環境は怖くない」と。 ……で、その思想って結局なんやねん、という。 自分で書いておいて回収してないんです...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee8df2571e4c08076ad9"
+    },
+    {
+      "title": "You can’t force a tailwind, you can force your readiness for one",
+      "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T03:00:56+00:00",
+      "fetched_at": "2026-08-13T03:33:39+00:00",
+      "summary": "Ten years into building, the annual planning cycle stops being useful. A year is too short a unit to learn anything from. It’s long enough to feel like progress and short enough to hide the fact that the money isn’t made evenly across time. It shows up in bursts, during the stretches when conditions favour […] The post You can’t force a tailwind, you can force your readiness for one appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34b26103fa8ddb8e7f6d"
+    },
+    {
       "title": "The hidden cost of ‘gray work’: Why manual processes are draining your team",
       "url": "https://e27.co/the-hidden-cost-of-gray-work-why-manual-processes-are-draining-your-team-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -421,56 +547,35 @@
   ],
   "new_findings": [
     {
-      "title": "The language tax: Why AI skips your startup when buyers ask in Thai",
-      "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
+      "url": "https://jvn.jp/jp/JVN00941257/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-08-13T02:00:58+00:00",
-      "fetched_at": "2026-08-13T02:45:21+00:00",
-      "summary": "AI assistants answer in fluent Thai, Vietnamese and Bahasa Indonesia, but they only recommend companies that exist in those languages’ sources. Most expanding startups do not. Run a quick experiment. Ask ChatGPT, in English, for the best providers in your category in Thailand. If you have done the visibility work, your company shows up. Now […] The post The language tax: Why AI skips your startup when buyers ask in…",
+      "published_at": "2026-08-13T12:00:00+09:00",
+      "fetched_at": "2026-08-13T03:33:39+00:00",
+      "summary": "国立研究開発法人情報通信研究機構（NICT）が提供するVoiceTraには、接続先の制限が不適切な脆弱性が存在します。",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar",
-        "OpenAI"
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c88117e2405125f5dec9"
+      "id": "73a6ad78dba1fc92606b"
     },
     {
-      "title": "AI is not the beginning of drug discovery — it is the accelerator",
-      "url": "https://e27.co/ai-is-not-the-beginning-of-drug-discovery-it-is-the-accelerator-20260812/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-13T02:30:46+00:00",
-      "fetched_at": "2026-08-13T02:45:21+00:00",
-      "summary": "Artificial intelligence is often framed as the technology that suddenly changed drug discovery. But that narrative misses an important truth: computational, or in silico, drug discovery did not begin with AI. It has been part of pharmaceutical research for decades. Long before today’s large models and generative systems, scientists were already using molecular docking, QSAR […] The post AI is not the beginning of dr…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9694f09cc71ee8e53cf6"
-    },
-    {
-      "title": "最新鋭のiPhoneを買って喜んでいたが",
-      "url": "https://anond.hatelabo.jp/20260813095445",
+      "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
+      "url": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-13T00:55:39+00:00",
-      "fetched_at": "2026-08-13T02:45:21+00:00",
-      "summary": "一番使っているアプリが、初期装備の天気予報だった。 猫に小判、宝の持ち腐れとはこういう現象のことだったのだな。 いやiPhoneの天気予報って、意外と予報が当たるし、使いやすいのよ。 「あと〇分で雨が降り始めます」とか、リアルタイムで伝えてくれるのがいい。",
+      "published_at": "2026-08-12T01:20:38+00:00",
+      "fetched_at": "2026-08-13T03:33:39+00:00",
+      "summary": "はじめに Cloudflare OSの話を3本書きました。ローカルLLMで三目並べに5ラウンドかけた奮闘記、モデル間の受け渡し設計の話、セキュリティとガバナンスの話。 3本目でこう書きました。「思想さえ理解すれば、この環境は怖くない」と。 ……で、その思想って結局なんやねん、という。 自分で書いておいて回収してないんです...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -482,7 +587,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "568ab706c290fb080c9c"
+      "id": "ee8df2571e4c08076ad9"
+    },
+    {
+      "title": "You can’t force a tailwind, you can force your readiness for one",
+      "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-13T03:00:56+00:00",
+      "fetched_at": "2026-08-13T03:33:39+00:00",
+      "summary": "Ten years into building, the annual planning cycle stops being useful. A year is too short a unit to learn anything from. It’s long enough to feel like progress and short enough to hide the fact that the money isn’t made evenly across time. It shows up in bursts, during the stretches when conditions favour […] The post You can’t force a tailwind, you can force your readiness for one appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34b26103fa8ddb8e7f6d"
     }
   ],
   "source_errors": [],
