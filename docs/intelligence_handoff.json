@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-13T10:07:32Z",
+  "generated_at": "2026-08-13T10:36:34Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-13T09:35:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/jp/JVN00941257/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-13T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1104",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-13T07:01:06+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T02:00:58+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -113,11 +113,63 @@
       "summary": "AI assistants answer in fluent Thai, Vietnamese and Bahasa Indonesia, but they only recommend companies that exist in those languages’ sources. Most expanding startups do not. Run a quick experiment. Ask ChatGPT, in English, for the best providers in your category in Thailand. If you have done the visibility work, you…"
     },
     {
+      "title": "[UPDATE] [hoch] IBM i: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2759",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-13T09:51:05+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen SQL-Injection Angriff durchzuführen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, und um Informationen offenzulegen."
+    },
+    {
+      "title": "Mozilla’s CTO thinks AI should be built like the internet",
+      "url": "https://restofworld.org/2026/open-source-ai-infrastructure-mozilla/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-08-13T10:00:00+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Raffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control."
+    },
+    {
       "title": "From KYC to KYA: how AI agents are reshaping payment risk",
       "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T03:49:04+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -143,7 +195,7 @@
       "url": "https://e27.co/graas-raises-us17m-acquires-trustana-to-build-smarter-retail-ai-agents-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T04:49:37+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -169,7 +221,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 55.34,
+      "age_days": 55.36,
       "topics": [
         "ai"
       ],
@@ -188,7 +240,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 55.3d old signal",
+        "aging penalty -8.0 for 55.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -198,7 +250,7 @@
       "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-13T08:52:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -223,7 +275,7 @@
       "url": "https://www.digital.go.jp/resources/data_case_study",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-13T06:00:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -248,7 +300,7 @@
       "url": "https://e27.co/education-energy-and-travel-sectors-face-rising-cyber-attack-volumes-20260813/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-13T06:24:13+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -266,55 +318,6 @@
         "security high-signal: security"
       ],
       "summary": "Cybersecurity teams entered the second half of 2026 with little sign of relief. Global organisations faced an average of 2,336 cyber attacks per week in July, up 3 per cent from June and 16 per cent from a year earlier, according to new data from Check Point Research. The figures point to a threat environment […] The…"
-    },
-    {
-      "title": "You can’t force a tailwind, you can force your readiness for one",
-      "url": "https://e27.co/you-cant-force-a-tailwind-you-can-force-your-readiness-for-one-20260812/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-13T03:00:56+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "Ten years into building, the annual planning cycle stops being useful. A year is too short a unit to learn anything from. It’s long enough to feel like progress and short enough to hide the fact that the money isn’t made evenly across time. It shows up in bursts, during the stretches when conditions favour […] The pos…"
-    },
-    {
-      "title": "VMware vCenter: Angreifer nisten sich durch Path-Traversal-Lücke ein",
-      "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-08-13T06:21:00.000+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Eine Ende Juli bekannt gewordene Path-Traversal-Lücke in VMware vCenter Syslog Server dient Angreifern zum Einbrechen und Einnisten."
     }
   ],
   "read_order": [
@@ -326,8 +329,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
