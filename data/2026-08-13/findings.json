@@ -186,6 +186,43 @@
     "id": "c88117e2405125f5dec9"
   },
   {
+    "title": "M 5.1 - 22 km ENE of Lapuan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-13T09:41:20.040+00:00",
+    "fetched_at": "2026-08-13T09:43:30+00:00",
+    "summary": "Time 2026-08-13 09:22:58 UTC 2026-08-13 09:22:58 UTC at epicenter Location 6.248°N 125.879°E Depth 91.21 km (56.67 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "35c5c1483d66c40541eb"
+  },
+  {
     "title": "VoiceTraにおける接続先の制限が不適切な脆弱性",
     "url": "https://jvn.jp/jp/JVN00941257/",
     "source": "JVN Japan Vulnerability Notes",
@@ -446,6 +483,26 @@
     "id": "324a4519451de037856c"
   },
   {
+    "title": "Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen",
+    "url": "https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-13T09:35:00.000+00:00",
+    "fetched_at": "2026-08-13T09:43:30+00:00",
+    "summary": "Es sind wichtige Sicherheitsupdates für Palo Alto Networks Unternehmensbrowser Prisma und die VPN-Lösung GlobalProtect App erschienen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0beef545df76ca4af5e8"
+  },
+  {
     "title": "Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel",
     "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html",
     "source": "heise Security Alerts",
@@ -547,6 +604,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1f75ab8fb598a825f4c2"
+  },
+  {
+    "title": "2年かけてたどり着いた1on1の形 —— メンバーと一緒に1on1の最適解を探る - SmartHR Tech Blog",
+    "url": "https://tech.smarthr.jp/entry/2026/08/13/080000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-13T02:44:36+00:00",
+    "fetched_at": "2026-08-13T09:43:30+00:00",
+    "summary": "SmartHRの人給基幹プロダクト開発本部で、チーフ(プレイングマネージャー)をしている山下です。 私は2024年からチーフになり、現在2年が経ちました。 SmartHRでは制度上、評価者と被評価者が隔週で1on1（定期的に行う1対1の対話）を実施するよう決められています。 チーフになりたての頃、メンバーとの1on1に対して苦手...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "356793ebcb411f6c871e"
   },
   {
     "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",

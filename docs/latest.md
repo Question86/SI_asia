@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-13T09:17:59+00:00_
+_Generiert: 2026-08-13T09:44:02+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „From KYC to KYA: how AI agents are reshaping payment risk“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -57,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0)
   - Kurz: AI assistants answer in fluent Thai, Vietnamese and Bahasa Indonesia, but they only recommend companies that exist in those languages’ sources. Most expanding startups do not. Run a quick experiment. Ask ChatGPT, in English, for the best providers in your category in Thailand. If you have done the visibility work, your company shows up. Now […] The post The language tax: Why AI skips your startup when buyers ask in…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 22 km ENE of Lapuan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkfh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-13T09:41:20.040+00:00`, fetched `2026-08-13T09:43:30+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-13 09:22:58 UTC 2026-08-13 09:22:58 UTC at epicenter Location 6.248°N 125.879°E Depth 91.21 km (56.67 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **VoiceTraにおける接続先の制限が不適切な脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN00941257/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-13T12:00:00+09:00`, fetched `2026-08-13T03:33:39+00:00`
@@ -141,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); Produktidee (+6.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @l…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Palo Alto Networks: Zahlreiche Sicherheitslücken in Prisma Browser geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/Palo-Alto-Networks-Zahlreiche-Sicherheitsluecken-in-Prisma-Browser-geschlossen-11412581.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-13T09:35:00.000+00:00`, fetched `2026-08-13T09:43:30+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Es sind wichtige Sicherheitsupdates für Palo Alto Networks Unternehmensbrowser Prisma und die VPN-Lösung GlobalProtect App erschienen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel** — Score 7, observation — [Quelle](https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-13T08:52:00.000+00:00`, fetched `2026-08-13T09:17:28+00:00`
@@ -186,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: HDDが容量2桁台でもがいている間、SSDは512TBに到達した
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン** — Score 5, observation — [Quelle](https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/)
+- **2年かけてたどり着いた1on1の形 —— メンバーと一緒に1on1の最適解を探る - SmartHR Tech Blog** — Score 5, observation — [Quelle](https://tech.smarthr.jp/entry/2026/08/13/080000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-13T01:27:35+00:00`, fetched `2026-08-13T08:17:24+00:00`
+  - Zeit: published `2026-08-13T02:44:36+00:00`, fetched `2026-08-13T09:43:30+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AndroidとiOS、それぞれに長所と短所があるのはご存知の通り。 これまでAndroidがAppleのプラットフォームに対して持っていた最大の利点の一つは、その「オープンさ」でした。GoogleのPlayストアからアプリをダウンロードできるだけでなく、インターネットから直接アプリをダウンロードすることも可能です。 これは「サ...
+  - Kurz: SmartHRの人給基幹プロダクト開発本部で、チーフ(プレイングマネージャー)をしている山下です。 私は2024年からチーフになり、現在2年が経ちました。 SmartHRでは制度上、評価者と被評価者が隔週で1on1（定期的に行う1対1の対話）を実施するよう決められています。 チーフになりたての頃、メンバーとの1on1に対して苦手...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
