@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-14T11:48:43Z",
+  "generated_at": "2026-08-14T12:13:40Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,6 +22,11 @@
     }
   ],
   "current_dynamic_memory_candidates": [
+    {
+      "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
     {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
       "band": "krass",
@@ -54,11 +59,6 @@
     },
     {
       "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [mittel] Langflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }
