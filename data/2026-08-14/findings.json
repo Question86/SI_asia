@@ -46,6 +46,45 @@
     "id": "3eac9cdb5ef8686b6e75"
   },
   {
+    "title": "M 5.6 - 61 km NNW of Ende, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-14T22:42:19.946+00:00",
+    "fetched_at": "2026-08-14T22:43:19+00:00",
+    "summary": "PAGER - GREEN ShakeMap - VI Time 2026-08-14 22:18:06 UTC 2026-08-14 22:18:06 UTC at epicenter Location 8.341°S 121.428°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e10d2d23a66b48a9327b"
+  },
+  {
     "title": "M 7.7 - 68 km NNW of Ende, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -130,6 +169,44 @@
       "PINS"
     ],
     "id": "9920d612c4227427a19c"
+  },
+  {
+    "title": "M 5.9 - 36 km NE of Labuan Bajo, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-14T22:41:57.996+00:00",
+    "fetched_at": "2026-08-14T22:43:19+00:00",
+    "summary": "ShakeMap - VII DYFI? - III Time 2026-08-14 22:13:50 UTC 2026-08-14 22:13:50 UTC at epicenter Location 8.285°S 120.147°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "c2fc40244a5bf94bebc4"
   },
   {
     "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
