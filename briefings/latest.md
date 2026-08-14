@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T22:43:55+00:00_
+_Generiert: 2026-08-14T22:53:47+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
+85 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,6 +37,10 @@ _Generiert: 2026-08-14T22:43:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 550 thousand (in MMI&gt;=VII).
+- **USGS earthquake M6.1 - 58 km N of Ende, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc)
+  - Quelle: USGS
+  - Zeit: `2026-08-14T22:28:37+00:00`
+  - Kurz: M6.1 - 58 km N of Ende, Indonesia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557839)
   - Quelle: GDACS
   - Zeit: ``
@@ -64,7 +68,7 @@ _Generiert: 2026-08-14T22:43:55+00:00_
 - **USGS earthquake M5.9 - 36 km NE of Labuan Bajo, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta)
   - Quelle: USGS
   - Zeit: `2026-08-14T22:13:50+00:00`
-  - Kurz: M5.9 - 36 km NE of Labuan Bajo, Indonesia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.9 - 36 km NE of Labuan Bajo, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -90,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. The real ROI lies in the next evolutionary phase: fully autonomous AI agents. We are shifting from […] The post Moving past the chatbox: The hidden risks of agen…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 6.1 - 58 km N of Ende, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-14T22:52:53.702+00:00`, fetched `2026-08-14T22:53:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-08-14 22:28:37 UTC 2026-08-14 22:28:37 UTC at epicenter Location 8.319°S 121.572°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.6 - 61 km NNW of Ende, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-14T22:42:19.946+00:00`, fetched `2026-08-14T22:43:19+00:00`
@@ -117,15 +130,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company’s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Agentic Global Payments, argues that speed alone will not make this shift viable — businesses will need […] The post Ecosystem Roundup: Why “Know Your Agent” will…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.9 - 36 km NE of Labuan Bajo, Indonesia** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-14T22:41:57.996+00:00`, fetched `2026-08-14T22:43:19+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - VII DYFI? - III Time 2026-08-14 22:13:50 UTC 2026-08-14 22:13:50 UTC at epicenter Location 8.285°S 120.147°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen** — Score 16, opportunity — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2761)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-14T11:51:05+00:00`, fetched `2026-08-14T11:58:53+00:00`
