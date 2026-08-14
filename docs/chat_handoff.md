@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-14T02:38:54+00:00_
+_Generated: 2026-08-14T03:29:45+00:00_
 
 ## Status
-- status: `normal`
-- findings: `8`
+- status: `warning`
+- findings: `11`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）
+### 1. Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure
+- source: e27 Asia Startup and Tech Feed
+- score: `21`
+- published: `2026-08-14T03:00:37+00:00`
+- url: https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/
+- summary: In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. T…
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-14T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU97860021/
 - summary: 2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. The new ransomware playbook: Why ASEAN banks are losing the disclosure war
+### 3. The new ransomware playbook: Why ASEAN banks are losing the disclosure war
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-14T02:25:24+00:00`
 - url: https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/
 - summary: Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample custo…
 
-### 3. M 4.9 - 29 km SW of Balangonan, Philippines
+### 4. M 4.9 - 29 km SW of Balangonan, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-14T01:28:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw
 - summary: Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)
-
-### 4. The hidden problem inside AI teams isn’t skills — it’s the human environment
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-08-14T01:44:19+00:00`
-- url: https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/
-- summary: A few weeks ago, an SME CEO shared his frustration with me over coffee. His company had invested heavily in AI tools over the past year. Licences were purchased. Teams attended workshops. Managers were instructed to integrate AI into workflows. Like many busi…
 
 ### 5. AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
@@ -50,18 +50,18 @@ _Generated: 2026-08-14T02:38:54+00:00_
 - url: https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/
 - summary: Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles work…
 
-### 7. 最強のブクマカを決めるB-1グランプリ（賞金11億円）
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-14T01:26:51+00:00`
-- url: https://anond.hatelabo.jp/20260814102216
-- summary: 多種あるブクマカがルール無しで戦った時… スポーツではなく中傷下ネタありの 『ブコメ』で戦った時 最強のブクマカは誰か！？ その答えの一端がこのトーナメントでわかる 今現在最強のブクマカは決まっていない
+### 7. The system behind the smile: How to make volunteer efforts sustainable
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-14T02:45:37+00:00`
+- url: https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/
+- summary: When a resident faces a difficult problem, a community volunteer is often the first person willing to listen. The issue may involve housing, employment, financial hardship, healthcare, family concerns or a neighbourhood dispute. What begins as a simple conver…
 
-### 8. ⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-13T15:34:30+00:00`
-- url: https://digital-gov.note.jp/n/n56aaf580bfb6
-- summary: はじめにデジタル庁プロダクトマネージャーの土岐竜一です。事業者向けシステムや自治体窓口DX SaaS等を担当しています。 本記事では、デジタル庁が公表する行政手続等の調査（令和6年度悉皆調査）の結果データ約75,000件を対象に、対話形式で自然言語による分析を行える、技術検証目的の簡易的な実装を紹介します。分析...
+### 8. No fans, no fridges, just paint: ZERC’s founder on cracking SEA’s cooling crisis
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-08-14T02:43:18+00:00`
+- url: https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/
+- summary: In much of Southeast Asia, heat has stopped being a seasonal inconvenience and become an infrastructure problem. Parked cars can hit cabin temperatures of 70 to 90 degrees Celsius within minutes, air-conditioning strains power grids at peak demand, and concre…
 
 END OF DOCUMENT

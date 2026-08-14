@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-14T02:38:54+00:00",
-  "run_id": "2026-08-14T02:38:54+00:00",
+  "generated_at": "2026-08-14T03:29:45+00:00",
+  "run_id": "2026-08-14T03:29:45+00:00",
   "date": "2026-08-14",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,63 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 3,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
-    "medium": 4,
-    "observe": 4,
-    "source_errors": 0
+    "medium": 5,
+    "observe": 6,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure",
+        "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-14T03:00:37+00:00",
+        "fetched_at": "2026-08-14T03:29:07+00:00",
+        "summary": "In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. The real ROI lies in the next evolutionary phase: fully autonomous AI agents. We are shifting from […] The post Moving past the chatbox: The hidden risks of agen…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents, MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "3eac9cdb5ef8686b6e75"
+      },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
         "url": "https://jvn.jp/vu/JVNVU97860021/",
@@ -179,6 +225,49 @@
         "id": "15f6a133068335336d97"
       },
       {
+        "title": "The system behind the smile: How to make volunteer efforts sustainable",
+        "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-14T02:45:37+00:00",
+        "fetched_at": "2026-08-14T03:29:07+00:00",
+        "summary": "When a resident faces a difficult problem, a community volunteer is often the first person willing to listen. The issue may involve housing, employment, financial hardship, healthcare, family concerns or a neighbourhood dispute. What begins as a simple conversation can quickly become a complicated process involving documents, appeals and coordination with government agencies, social-service organisations […] The pos…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8321efa0434581170469"
+      },
+      {
+        "title": "No fans, no fridges, just paint: ZERC’s founder on cracking SEA’s cooling crisis",
+        "url": "https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-14T02:43:18+00:00",
+        "fetched_at": "2026-08-14T03:29:07+00:00",
+        "summary": "In much of Southeast Asia, heat has stopped being a seasonal inconvenience and become an infrastructure problem. Parked cars can hit cabin temperatures of 70 to 90 degrees Celsius within minutes, air-conditioning strains power grids at peak demand, and concrete-heavy cities from Bangkok to Jakarta trap heat well into the night. ZERC, a deeptech startup […] The post No fans, no fridges, just paint: ZERC’s founder on…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "368612c3b88c7782c82c"
+      },
+      {
         "title": "最強のブクマカを決めるB-1グランプリ（賞金11億円）",
         "url": "https://anond.hatelabo.jp/20260814102216",
         "source": "Hatena Bookmark Hotentry IT",
@@ -223,6 +312,52 @@
     ]
   },
   "findings": [
+    {
+      "title": "Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure",
+      "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-14T03:00:37+00:00",
+      "fetched_at": "2026-08-14T03:29:07+00:00",
+      "summary": "In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. The real ROI lies in the next evolutionary phase: fully autonomous AI agents. We are shifting from […] The post Moving past the chatbox: The hidden risks of agen…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 21,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents, MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "3eac9cdb5ef8686b6e75"
+    },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
       "url": "https://jvn.jp/vu/JVNVU97860021/",
@@ -371,6 +506,49 @@
       "id": "15f6a133068335336d97"
     },
     {
+      "title": "The system behind the smile: How to make volunteer efforts sustainable",
+      "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-14T02:45:37+00:00",
+      "fetched_at": "2026-08-14T03:29:07+00:00",
+      "summary": "When a resident faces a difficult problem, a community volunteer is often the first person willing to listen. The issue may involve housing, employment, financial hardship, healthcare, family concerns or a neighbourhood dispute. What begins as a simple conversation can quickly become a complicated process involving documents, appeals and coordination with government agencies, social-service organisations […] The pos…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8321efa0434581170469"
+    },
+    {
+      "title": "No fans, no fridges, just paint: ZERC’s founder on cracking SEA’s cooling crisis",
+      "url": "https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-14T02:43:18+00:00",
+      "fetched_at": "2026-08-14T03:29:07+00:00",
+      "summary": "In much of Southeast Asia, heat has stopped being a seasonal inconvenience and become an infrastructure problem. Parked cars can hit cabin temperatures of 70 to 90 degrees Celsius within minutes, air-conditioning strains power grids at peak demand, and concrete-heavy cities from Bangkok to Jakarta trap heat well into the night. ZERC, a deeptech startup […] The post No fans, no fridges, just paint: ZERC’s founder on…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "368612c3b88c7782c82c"
+    },
+    {
       "title": "最強のブクマカを決めるB-1グランプリ（賞金11億円）",
       "url": "https://anond.hatelabo.jp/20260814102216",
       "source": "Hatena Bookmark Hotentry IT",
@@ -415,94 +593,103 @@
   ],
   "new_findings": [
     {
-      "title": "The new ransomware playbook: Why ASEAN banks are losing the disclosure war",
-      "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/",
+      "title": "Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure",
+      "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-14T02:25:24+00:00",
-      "fetched_at": "2026-08-14T02:38:23+00:00",
-      "summary": "Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample customer records attached as proof. The breach had happened. The bank had not […] The post The new ransomware playbook: Why ASEAN banks are losing the disclosure war…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Security",
-        "Southeast Asia"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6ace90f06d669dc45e5b"
-    },
-    {
-      "title": "The hidden problem inside AI teams isn’t skills — it’s the human environment",
-      "url": "https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-14T01:44:19+00:00",
-      "fetched_at": "2026-08-14T02:38:23+00:00",
-      "summary": "A few weeks ago, an SME CEO shared his frustration with me over coffee. His company had invested heavily in AI tools over the past year. Licences were purchased. Teams attended workshops. Managers were instructed to integrate AI into workflows. Like many businesses today, the organisation moved quickly because it feared falling behind. Yet despite […] The post The hidden problem inside AI teams isn’t skills — it’s t…",
+      "published_at": "2026-08-14T03:00:37+00:00",
+      "fetched_at": "2026-08-14T03:29:07+00:00",
+      "summary": "In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. The real ROI lies in the next evolutionary phase: fully autonomous AI agents. We are shifting from […] The post Moving past the chatbox: The hidden risks of agen…",
       "matched_keywords": [
         "AI Agents",
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e0f8dceca8500851380"
+      "relevance_score": 21,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: Hong Kong (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents, MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "3eac9cdb5ef8686b6e75"
     },
     {
-      "title": "AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The system behind the smile: How to make volunteer efforts sustainable",
+      "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-13T22:15:45+00:00",
-      "fetched_at": "2026-08-14T02:38:23+00:00",
-      "summary": "生成AIの「Chat（チャット）GPT」や「Gemini（ジェミニ）」を使うコストは――。生成AIサービスを使う人も使わない人も同じく、データセンターを支える電力網の整備費は電気料金の一部として支払う。その負担が膨張する見通しだ。大量の計算をするAIサービス基盤となる大規模データセンターは多くの電力を消費する。電力供...",
+      "published_at": "2026-08-14T02:45:37+00:00",
+      "fetched_at": "2026-08-14T03:29:07+00:00",
+      "summary": "When a resident faces a difficult problem, a community volunteer is often the first person willing to listen. The issue may involve housing, employment, financial hardship, healthcare, family concerns or a neighbourhood dispute. What begins as a simple conversation can quickly become a complicated process involving documents, appeals and coordination with government agencies, social-service organisations […] The pos…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "APAC Trend Radar",
+        "Content-Chance"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c754738cfcf4224dc940"
+      "id": "8321efa0434581170469"
     },
     {
-      "title": "最強のブクマカを決めるB-1グランプリ（賞金11億円）",
-      "url": "https://anond.hatelabo.jp/20260814102216",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "No fans, no fridges, just paint: ZERC’s founder on cracking SEA’s cooling crisis",
+      "url": "https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-14T01:26:51+00:00",
-      "fetched_at": "2026-08-14T02:38:23+00:00",
-      "summary": "多種あるブクマカがルール無しで戦った時… スポーツではなく中傷下ネタありの 『ブコメ』で戦った時 最強のブクマカは誰か！？ その答えの一端がこのトーナメントでわかる 今現在最強のブクマカは決まっていない",
+      "published_at": "2026-08-14T02:43:18+00:00",
+      "fetched_at": "2026-08-14T03:29:07+00:00",
+      "summary": "In much of Southeast Asia, heat has stopped being a seasonal inconvenience and become an infrastructure problem. Parked cars can hit cabin temperatures of 70 to 90 degrees Celsius within minutes, air-conditioning strains power grids at peak demand, and concrete-heavy cities from Bangkok to Jakarta trap heat well into the night. ZERC, a deeptech startup […] The post No fans, no fridges, just paint: ZERC’s founder on…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2454a0b5f6c30f427822"
+      "id": "368612c3b88c7782c82c"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f39c33cac90>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
