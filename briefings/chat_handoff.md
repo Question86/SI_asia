@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-14T22:53:47+00:00_
+_Generated: 2026-08-14T23:02:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `85`
+- findings: `87`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-14T22:53:47+00:00_
 - url: https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/
 - summary: In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. T…
 
-### 2. M 6.1 - 58 km N of Ende, Indonesia
+### 2. M 5.5 - 49 km NE of Labuan Bajo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-08-14T23:00:59.477+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf
+- summary: PAGER - GREEN ShakeMap - V Time 2026-08-14 22:37:17 UTC 2026-08-14 22:37:17 UTC at epicenter Location 8.160°S 120.191°E Depth 10.00 km (6.21 mi)
+
+### 3. M 6.1 - 58 km N of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-08-14T22:52:53.702+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuc
 - summary: PAGER - GREEN ShakeMap - VI Time 2026-08-14 22:28:37 UTC 2026-08-14 22:28:37 UTC at epicenter Location 8.319°S 121.572°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.6 - 61 km NNW of Ende, Indonesia
+### 4. M 5.6 - 61 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-08-14T22:42:19.946+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7
 - summary: PAGER - GREEN ShakeMap - VI Time 2026-08-14 22:18:06 UTC 2026-08-14 22:18:06 UTC at epicenter Location 8.341°S 121.428°E Depth 10.00 km (6.21 mi)
-
-### 4. M 7.7 - 68 km NNW of Ende, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-08-14T22:30:37.140+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2
-- summary: PAGER - YELLOW ShakeMap - VIII DYFI? - V Time 2026-08-14 21:58:21 UTC 2026-08-14 21:58:21 UTC at epicenter Location 8.310°S 121.352°E Depth 10.00 km (6.21 mi)
 
 ### 5. Three key learnings from SuiteWorld 2025: Why context, not automation, is the real AI prize
 - source: e27 Asia Startup and Tech Feed
