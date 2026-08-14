@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-14T01:52:09Z",
+  "generated_at": "2026-08-14T02:50:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 12,
     "bands": {
       "krass": 1,
-      "strong": 1,
-      "watch": 1,
-      "quiet": 5
-    },
-    "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 5
+      "quiet": 8
+    },
+    "bands_after_gate_recheck": {
+      "strong": 3,
+      "watch": 1,
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU97860021/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-14T09:30:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 56.0,
+      "age_days": 56.04,
       "topics": [
         "ai"
       ],
@@ -73,11 +73,39 @@
       "summary": ""
     },
     {
+      "title": "The new ransomware playbook: Why ASEAN banks are losing the disclosure war",
+      "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-14T02:25:24+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: regional",
+        "high terms: ransomware",
+        "security high-signal: ransomware",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample customer records attached as proof. The breach had happened. The…"
+    },
+    {
       "title": "M 4.9 - 29 km SW of Balangonan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-14T01:28:59.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -97,11 +125,87 @@
       "summary": "Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)"
     },
     {
+      "title": "AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-13T22:15:45+00:00",
+      "age_days": 0.19,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "生成AIの「Chat（チャット）GPT」や「Gemini（ジェミニ）」を使うコストは――。生成AIサービスを使う人も使わない人も同じく、データセンターを支える電力網の整備費は電気料金の一部として支払う。その負担が膨張する見通しだ。大量の計算をするAIサービス基盤となる大規模データセンターは多くの電力を消費する。電力供..."
+    },
+    {
+      "title": "最強のブクマカを決めるB-1グランプリ（賞金11億円）",
+      "url": "https://anond.hatelabo.jp/20260814102216",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-14T01:26:51+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "多種あるブクマカがルール無しで戦った時… スポーツではなく中傷下ネタありの 『ブコメ』で戦った時 最強のブクマカは誰か！？ その答えの一端がこのトーナメントでわかる 今現在最強のブクマカは決まっていない"
+    },
+    {
+      "title": "The hidden problem inside AI teams isn’t skills — it’s the human environment",
+      "url": "https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-14T01:44:19+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A few weeks ago, an SME CEO shared his frustration with me over coffee. His company had invested heavily in AI tools over the past year. Licences were purchased. Teams attended workshops. Managers were instructed to integrate AI into workflows. Like many businesses today, the organisation moved quickly because it fear…"
+    },
+    {
       "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
       "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T01:00:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -127,7 +231,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.96,
+      "age_days": 55.0,
       "topics": [
         "general"
       ],
@@ -152,7 +256,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.96,
+      "age_days": 55.0,
       "topics": [
         "general"
       ],
@@ -177,7 +281,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 54.96,
+      "age_days": 55.0,
       "topics": [
         "ai"
       ],
@@ -204,7 +308,7 @@
       "url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T15:34:30+00:00",
-      "age_days": 0.43,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
