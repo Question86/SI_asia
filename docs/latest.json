@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T10:18:40+00:00",
-  "run_id": "2026-08-14T10:18:40+00:00",
+  "generated_at": "2026-08-14T10:40:39+00:00",
+  "run_id": "2026-08-14T10:40:39+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 3,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 20,
-    "observe": 16,
+    "medium": 22,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -263,6 +263,43 @@
         "id": "291219cad2fc0b9478de"
       },
       {
+        "title": "M 4.8 - 207 km SE of Katsuura, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-14T10:25:28.040+00:00",
+        "fetched_at": "2026-08-14T10:40:07+00:00",
+        "summary": "Time 2026-08-14 09:58:43 UTC 2026-08-14 09:58:43 UTC at epicenter Location 33.615°N 141.619°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7ab671c29701854d3eb0"
+      },
+      {
         "title": "M 4.8 - Bonin Islands, Japan region",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -335,6 +372,29 @@
           "LOW"
         ],
         "id": "e52c71def14412438163"
+      },
+      {
+        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1626",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-14T10:36:14+00:00",
+        "fetched_at": "2026-08-14T10:40:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um eine Speicherbeschädigung auszulösen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27c35de0cba1bdcc983f"
       },
       {
         "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -720,6 +780,39 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "15f6a133068335336d97"
+      },
+      {
+        "title": "Fortinet FortiWeb: Angreifer können sich mit beliebigen Zugangsdaten einloggen",
+        "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-14T10:14:00.000+00:00",
+        "fetched_at": "2026-08-14T10:40:07+00:00",
+        "summary": "Sicherheitsupdates schließen mehrere Lücken in Software von Fortinet.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "6c3a0a69e5b1ef9ed00c"
       },
       {
         "title": "The system behind the smile: How to make volunteer efforts sustainable",
@@ -1189,6 +1282,43 @@
       "id": "291219cad2fc0b9478de"
     },
     {
+      "title": "M 4.8 - 207 km SE of Katsuura, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-14T10:25:28.040+00:00",
+      "fetched_at": "2026-08-14T10:40:07+00:00",
+      "summary": "Time 2026-08-14 09:58:43 UTC 2026-08-14 09:58:43 UTC at epicenter Location 33.615°N 141.619°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7ab671c29701854d3eb0"
+    },
+    {
       "title": "M 4.8 - Bonin Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1261,6 +1391,29 @@
         "LOW"
       ],
       "id": "e52c71def14412438163"
+    },
+    {
+      "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1626",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-14T10:36:14+00:00",
+      "fetched_at": "2026-08-14T10:40:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um eine Speicherbeschädigung auszulösen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27c35de0cba1bdcc983f"
     },
     {
       "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -1646,6 +1799,39 @@
       "id": "15f6a133068335336d97"
     },
     {
+      "title": "Fortinet FortiWeb: Angreifer können sich mit beliebigen Zugangsdaten einloggen",
+      "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-14T10:14:00.000+00:00",
+      "fetched_at": "2026-08-14T10:40:07+00:00",
+      "summary": "Sicherheitsupdates schließen mehrere Lücken in Software von Fortinet.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "6c3a0a69e5b1ef9ed00c"
+    },
+    {
       "title": "The system behind the smile: How to make volunteer efforts sustainable",
       "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1879,37 +2065,50 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "M 4.8 - 207 km SE of Katsuura, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-14T10:06:06+00:00",
-      "fetched_at": "2026-08-14T10:18:09+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und beliebigen Code mit Root-Rechten auszuführen.",
+      "published_at": "2026-08-14T10:25:28.040+00:00",
+      "fetched_at": "2026-08-14T10:40:07+00:00",
+      "summary": "Time 2026-08-14 09:58:43 UTC 2026-08-14 09:58:43 UTC at epicenter Location 33.615°N 141.619°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d45124559985897e876a"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7ab671c29701854d3eb0"
     },
     {
-      "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840",
+      "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1626",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-14T10:11:06+00:00",
-      "fetched_at": "2026-08-14T10:18:09+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost Server ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-08-14T10:36:14+00:00",
+      "fetched_at": "2026-08-14T10:40:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um eine Speicherbeschädigung auszulösen oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1923,99 +2122,40 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e3baff13ee8951273f17"
+      "id": "27c35de0cba1bdcc983f"
     },
     {
-      "title": "[NEU] [hoch] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Fortinet FortiWeb: Angreifer können sich mit beliebigen Zugangsdaten einloggen",
+      "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-08-14T10:11:06+00:00",
-      "fetched_at": "2026-08-14T10:18:09+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM Langflow Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-08-14T10:14:00.000+00:00",
+      "fetched_at": "2026-08-14T10:40:07+00:00",
+      "summary": "Sicherheitsupdates schließen mehrere Lücken in Software von Fortinet.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f6c845a39086a127d94"
-    },
-    {
-      "title": "[NEU] [hoch] Proxmox Backup Server: Schwachstelle ermöglicht Manipulation von Dateien und Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-14T10:11:06+00:00",
-      "fetched_at": "2026-08-14T10:18:09+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in Proxmox Backup Server ausnutzen, um Dateien zu manipulieren, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "870bf09d2f07939244b7"
-    },
-    {
-      "title": "[NEU] [mittel] Langflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2837",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-14T10:11:06+00:00",
-      "fetched_at": "2026-08-14T10:18:09+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Langflow ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c54228f01b48d373575"
-    },
-    {
-      "title": "[NEU] [hoch] Netgate pfSense: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2836",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-14T10:11:05+00:00",
-      "fetched_at": "2026-08-14T10:18:09+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Netgate pfSense ausnutzen, um beliebigen Programmcode auszuführen, Cross-Site-Scripting-Angriffe durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a5f7a89140de7fa4bf58"
+      "id": "6c3a0a69e5b1ef9ed00c"
     }
   ],
   "source_errors": [],

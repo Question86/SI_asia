@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T10:18:40+00:00",
+  "generated_at": "2026-08-14T10:40:39+00:00",
   "topics": {
     "ai": [
       {
@@ -186,6 +186,13 @@
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
       },
       {
+        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:36:14+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1626"
+      },
+      {
         "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T10:11:06+00:00",
@@ -212,13 +219,6 @@
         "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839"
-      },
-      {
-        "title": "[NEU] [hoch] Netgate pfSense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2836"
       }
     ],
     "geopolitics": [
@@ -279,21 +279,28 @@
         "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/"
       },
       {
+        "title": "Fortinet FortiWeb: Angreifer können sich mit beliebigen Zugangsdaten einloggen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-14T10:14:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html"
+      },
+      {
         "title": "The system behind the smile: How to make volunteer efforts sustainable",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-14T02:45:37+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/"
-      },
-      {
-        "title": "From Samsung to startups: Kevin Choi’s bet on AI-powered software creation",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-14T04:30:21+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/from-samsung-to-startups-kevin-chois-bet-on-ai-powered-software-creation-20260814/"
       }
     ],
     "general": [
+      {
+        "title": "M 4.8 - 207 km SE of Katsuura, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-14T10:25:28.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy"
+      },
       {
         "title": "M 4.8 - Bonin Islands, Japan region",
         "source": "USGS M4.5+ Earthquakes Past Hour",
