@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T23:02:04+00:00_
+_Generiert: 2026-08-14T23:10:43+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,18 @@ _Generiert: 2026-08-14T23:02:04+00:00_
   - Quelle: USGS
   - Zeit: `2026-08-14T22:28:37+00:00`
   - Kurz: M6.1 - 58 km N of Ende, Indonesia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558065)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,18 +69,6 @@ _Generiert: 2026-08-14T23:02:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone ONE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 10726 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001303)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ONE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 10726 .
-- **USGS earthquake M5.5 - 49 km NE of Labuan Bajo, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf)
-  - Quelle: USGS
-  - Zeit: `2026-08-14T22:37:17+00:00`
-  - Kurz: M5.5 - 49 km NE of Labuan Bajo, Indonesia. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.6 - 61 km NNW of Ende, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7)
-  - Quelle: USGS
-  - Zeit: `2026-08-14T22:18:06+00:00`
-  - Kurz: M5.6 - 61 km NNW of Ende, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

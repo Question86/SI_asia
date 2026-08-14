@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T23:02:04+00:00",
-  "run_id": "2026-08-14T23:02:04+00:00",
+  "generated_at": "2026-08-14T23:10:43+00:00",
+  "run_id": "2026-08-14T23:10:43+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 0,
@@ -4501,69 +4501,7 @@
       "id": "f8f6176e951be6b77c90"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.5 - 49 km NE of Labuan Bajo, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-14T23:00:59.477+00:00",
-      "fetched_at": "2026-08-14T23:01:30+00:00",
-      "summary": "PAGER - GREEN ShakeMap - V Time 2026-08-14 22:37:17 UTC 2026-08-14 22:37:17 UTC at epicenter Location 8.160°S 120.191°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f8ff5c69988cacd6f333"
-    },
-    {
-      "title": "開発中止の噂まで、「Gemini 3.5 Pro」のリリース遅延は続く | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "url": "https://forbesjapan.com/articles/detail/102858",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-14T12:02:10+00:00",
-      "fetched_at": "2026-08-14T23:01:30+00:00",
-      "summary": "8月も半ばに差しかかり、夏の大半をGemini 3.5 Proの登場を待って過ごしてきた人たちの間に、いらだちが広がっている。 これを「2026年で最も待たされたモデル」と呼ぶ声もある。というのも、当初発表されていたリリース時期は、夏の初めにずっと近い時点だったからだ。関連する他のモデルはすでに公開されているようだ...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c16252c11bd6b95bd9f3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
