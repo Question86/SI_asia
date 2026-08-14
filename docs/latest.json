@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T12:23:26+00:00",
-  "run_id": "2026-08-14T12:23:26+00:00",
+  "generated_at": "2026-08-14T12:42:24+00:00",
+  "run_id": "2026-08-14T12:42:24+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
     "medium": 34,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -1239,6 +1239,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f6fc40e7f2313b3fc85f"
+      },
+      {
+        "title": "The 37signals Manager Playbook",
+        "url": "https://basecamp.com/managers",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-14T06:04:57+00:00",
+        "fetched_at": "2026-08-14T12:41:49+00:00",
+        "summary": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience. sidebar#close mouseup->tweet#update input->tweet#update keydown->tweet#update scroll@window->tweet#update\" data-bookmark-id=\"/managers\"> Юk'�� � ^%�� The 37signals ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6bbdc4099b396f0040c0"
       },
       {
         "title": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」",
@@ -2578,6 +2599,27 @@
       "id": "f6fc40e7f2313b3fc85f"
     },
     {
+      "title": "The 37signals Manager Playbook",
+      "url": "https://basecamp.com/managers",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-14T06:04:57+00:00",
+      "fetched_at": "2026-08-14T12:41:49+00:00",
+      "summary": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience. sidebar#close mouseup->tweet#update input->tweet#update keydown->tweet#update scroll@window->tweet#update\" data-bookmark-id=\"/managers\"> Юk'�� � ^%�� The 37signals ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6bbdc4099b396f0040c0"
+    },
+    {
       "title": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」",
       "url": "https://pc.watch.impress.co.jp/docs/news/2132785.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2705,13 +2747,13 @@
   ],
   "new_findings": [
     {
-      "title": "豪雨に備える防災アプリ・サービスまとめ 雨雲レーダーからハザードマップ、通れた道まで",
-      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000549/",
+      "title": "The 37signals Manager Playbook",
+      "url": "https://basecamp.com/managers",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-14T09:13:00+00:00",
-      "fetched_at": "2026-08-14T12:22:53+00:00",
-      "summary": "豪雨による被害が各地で相次いでいる。 千葉県では8月13日午後から14日未明にかけて記録的な大雨となり、道路の冠水や家屋の浸水など深刻な被害が出た。 集中豪雨や台風による被害は各地で相次いでおり、備えの重要性が増している。防災に使えるアプリやサービスをまとめる。 備える：災害情報のプッシュ通知をアプリで...",
+      "published_at": "2026-08-14T06:04:57+00:00",
+      "fetched_at": "2026-08-14T12:41:49+00:00",
+      "summary": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience. sidebar#close mouseup->tweet#update input->tweet#update keydown->tweet#update scroll@window->tweet#update\" data-bookmark-id=\"/managers\"> Юk'�� � ^%�� The 37signals ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -2723,7 +2765,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f6fc40e7f2313b3fc85f"
+      "id": "6bbdc4099b396f0040c0"
     }
   ],
   "source_errors": [],
