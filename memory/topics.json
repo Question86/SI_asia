@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T09:54:48+00:00",
+  "generated_at": "2026-08-14T10:18:40+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:06:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T09:51:33+00:00",
@@ -179,41 +186,90 @@
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
       },
       {
-        "title": "[UPDATE] [hoch] HTTP/2-Implementierungen: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T09:51:33+00:00",
+        "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1791"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840"
       },
       {
-        "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Langflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T09:51:12+00:00",
+        "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1611"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2837"
       },
       {
-        "title": "[UPDATE] [hoch] Exim: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [hoch] Proxmox Backup Server: Schwachstelle ermöglicht Manipulation von Dateien und Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T09:51:12+00:00",
+        "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1505"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838"
       },
       {
-        "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T08:51:07+00:00",
+        "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2817"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839"
+      },
+      {
+        "title": "[NEU] [hoch] Netgate pfSense: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2836"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:06:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835"
+      },
       {
         "title": "The new ransomware playbook: Why ASEAN banks are losing the disclosure war",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-14T02:25:24+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840"
+      },
+      {
+        "title": "[NEU] [mittel] Langflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2837"
+      },
+      {
+        "title": "[NEU] [hoch] Proxmox Backup Server: Schwachstelle ermöglicht Manipulation von Dateien und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838"
+      },
+      {
+        "title": "[NEU] [hoch] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839"
+      },
+      {
+        "title": "[NEU] [hoch] Netgate pfSense: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T10:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2836"
       },
       {
         "title": "Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M",
@@ -235,13 +291,6 @@
         "published_at": "2026-08-14T04:30:21+00:00",
         "relevance_score": 5,
         "url": "https://e27.co/from-samsung-to-startups-kevin-chois-bet-on-ai-powered-software-creation-20260814/"
-      },
-      {
-        "title": "Pokemon cards gained 22.8% while Bitcoin lost 20.7% and that gap should worry every investor",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-14T03:56:24+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/pokemon-cards-gained-22-8-while-bitcoin-lost-20-7-and-that-gap-should-worry-every-investor-20260814/"
       }
     ],
     "general": [
