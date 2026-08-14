@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T04:57:07+00:00_
+_Generiert: 2026-08-14T05:32:17+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creati…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - Bonin Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-14T05:07:20.040+00:00`, fetched `2026-08-14T05:31:47+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-14 04:53:15 UTC 2026-08-14 04:53:15 UTC at epicenter Location 27.639°N 139.588°E Depth 516.45 km (320.90 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 29 km SW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-14T01:28:59.040+00:00`, fetched `2026-08-14T01:44:09+00:00`
@@ -69,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M** — Score 13, opportunity — [Quelle](https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-14T05:30:58+00:00`, fetched `2026-08-14T05:31:47+00:00`
+  - Treffer: APAC Trend Radar, Automatisierung, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Malaysia’s push to build more home-grown technology champions is gaining a fresh injection of capital, this time across three very different but strategically important areas: warehouse automation, medical technology commercialisation, and assistive digital tools for the visually impaired. VentureTECH, a Malaysian government-backed impact investment company, has invested US$7 million in three Bumiputera-led high-gro…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞** — Score 13, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-13T22:15:45+00:00`, fetched `2026-08-14T02:38:23+00:00`
@@ -105,14 +123,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
   - Kurz: When a resident faces a difficult problem, a community volunteer is often the first person willing to listen. The issue may involve housing, employment, financial hardship, healthcare, family concerns or a neighbourhood dispute. What begins as a simple conversation can quickly become a complicated process involving documents, appeals and coordination with government agencies, social-service organisations […] The pos…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **No fans, no fridges, just paint: ZERC’s founder on cracking SEA’s cooling crisis** — Score 8, observation — [Quelle](https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-14T02:43:18+00:00`, fetched `2026-08-14T03:29:07+00:00`
-  - Treffer: APAC Trend Radar, founder, Southeast Asia
+- **なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO** — Score 8, observation — [Quelle](https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-13T22:08:06+00:00`, fetched `2026-08-14T05:31:47+00:00`
+  - Treffer: developer, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.5); recent (+1.0)
-  - Kurz: In much of Southeast Asia, heat has stopped being a seasonal inconvenience and become an infrastructure problem. Parked cars can hit cabin temperatures of 70 to 90 degrees Celsius within minutes, air-conditioning strains power grids at peak demand, and concrete-heavy cities from Bangkok to Jakarta trap heat well into the night. ZERC, a deeptech startup […] The post No fans, no fridges, just paint: ZERC’s founder on…
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: ベテランの判断を若手に引き継ごうとマニュアル化しても、肝心の部分は毎回こぼれ落ちます。理由はシンプルで、本人が「言語化できていない・そもそも言語化すべきだと気づいていない」判断こそが価値の中心だからです。この記事では、なぜ暗黙知の継承が長年うまくいかなかったのか、その構造と、いまLLMで何が変わりつ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **最強のブクマカを決めるB-1グランプリ（賞金11億円）** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260814102216)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -122,15 +140,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 多種あるブクマカがルール無しで戦った時… スポーツではなく中傷下ネタありの 『ブコメ』で戦った時 最強のブクマカは誰か！？ その答えの一端がこのトーナメントでわかる 今現在最強のブクマカは決まっていない
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁** — Score 5, observation — [Quelle](https://digital-gov.note.jp/n/n56aaf580bfb6)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-13T15:34:30+00:00`, fetched `2026-08-14T01:44:09+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめにデジタル庁プロダクトマネージャーの土岐竜一です。事業者向けシステムや自治体窓口DX SaaS等を担当しています。 本記事では、デジタル庁が公表する行政手続等の調査（令和6年度悉皆調査）の結果データ約75,000件を対象に、対話形式で自然言語による分析を行える、技術検証目的の簡易的な実装を紹介します。分析...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **unslothai/unsloth** — Score 5, observation — [Quelle](https://github.com/unslothai/unsloth)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

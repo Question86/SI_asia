@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:57:07+00:00",
-  "run_id": "2026-08-14T04:57:07+00:00",
+  "generated_at": "2026-08-14T05:32:17+00:00",
+  "run_id": "2026-08-14T05:32:17+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 3,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 6,
-    "observe": 10,
+    "medium": 7,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -144,6 +144,43 @@
         "id": "291219cad2fc0b9478de"
       },
       {
+        "title": "M 4.8 - Bonin Islands, Japan region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-14T05:07:20.040+00:00",
+        "fetched_at": "2026-08-14T05:31:47+00:00",
+        "summary": "Time 2026-08-14 04:53:15 UTC 2026-08-14 04:53:15 UTC at epicenter Location 27.639°N 139.588°E Depth 516.45 km (320.90 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a21aca873bf6e20cec81"
+      },
+      {
         "title": "M 4.9 - 29 km SW of Balangonan, Philippines",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -204,6 +241,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M",
+        "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-14T05:30:58+00:00",
+        "fetched_at": "2026-08-14T05:31:47+00:00",
+        "summary": "Malaysia’s push to build more home-grown technology champions is gaining a fresh injection of capital, this time across three very different but strategically important areas: warehouse automation, medical technology commercialisation, and assistive digital tools for the visually impaired. VentureTECH, a Malaysian government-backed impact investment company, has invested US$7 million in three Bumiputera-led high-gro…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Automatisierung",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "567241f7742d3e180f15"
+      },
       {
         "title": "AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
@@ -335,6 +415,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "368612c3b88c7782c82c"
+      },
+      {
+        "title": "なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO",
+        "url": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-13T22:08:06+00:00",
+        "fetched_at": "2026-08-14T05:31:47+00:00",
+        "summary": "ベテランの判断を若手に引き継ごうとマニュアル化しても、肝心の部分は毎回こぼれ落ちます。理由はシンプルで、本人が「言語化できていない・そもそも言語化すべきだと気づいていない」判断こそが価値の中心だからです。この記事では、なぜ暗黙知の継承が長年うまくいかなかったのか、その構造と、いまLLMで何が変わりつ...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f590ffe145714bce2ab3"
       },
       {
         "title": "From Samsung to startups: Kevin Choi’s bet on AI-powered software creation",
@@ -558,6 +660,43 @@
       "id": "291219cad2fc0b9478de"
     },
     {
+      "title": "M 4.8 - Bonin Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-14T05:07:20.040+00:00",
+      "fetched_at": "2026-08-14T05:31:47+00:00",
+      "summary": "Time 2026-08-14 04:53:15 UTC 2026-08-14 04:53:15 UTC at epicenter Location 27.639°N 139.588°E Depth 516.45 km (320.90 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a21aca873bf6e20cec81"
+    },
+    {
       "title": "M 4.9 - 29 km SW of Balangonan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -615,6 +754,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "7e0f8dceca8500851380"
+    },
+    {
+      "title": "Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M",
+      "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-14T05:30:58+00:00",
+      "fetched_at": "2026-08-14T05:31:47+00:00",
+      "summary": "Malaysia’s push to build more home-grown technology champions is gaining a fresh injection of capital, this time across three very different but strategically important areas: warehouse automation, medical technology commercialisation, and assistive digital tools for the visually impaired. VentureTECH, a Malaysian government-backed impact investment company, has invested US$7 million in three Bumiputera-led high-gro…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "567241f7742d3e180f15"
     },
     {
       "title": "AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
@@ -749,6 +931,28 @@
       "id": "368612c3b88c7782c82c"
     },
     {
+      "title": "なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T22:08:06+00:00",
+      "fetched_at": "2026-08-14T05:31:47+00:00",
+      "summary": "ベテランの判断を若手に引き継ごうとマニュアル化しても、肝心の部分は毎回こぼれ落ちます。理由はシンプルで、本人が「言語化できていない・そもそも言語化すべきだと気づいていない」判断こそが価値の中心だからです。この記事では、なぜ暗黙知の継承が長年うまくいかなかったのか、その構造と、いまLLMで何が変わりつ...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f590ffe145714bce2ab3"
+    },
+    {
       "title": "From Samsung to startups: Kevin Choi’s bet on AI-powered software creation",
       "url": "https://e27.co/from-samsung-to-startups-kevin-chois-bet-on-ai-powered-software-creation-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -855,25 +1059,106 @@
   ],
   "new_findings": [
     {
-      "title": "From Samsung to startups: Kevin Choi’s bet on AI-powered software creation",
-      "url": "https://e27.co/from-samsung-to-startups-kevin-chois-bet-on-ai-powered-software-creation-20260814/",
+      "title": "M 4.8 - Bonin Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-14T05:07:20.040+00:00",
+      "fetched_at": "2026-08-14T05:31:47+00:00",
+      "summary": "Time 2026-08-14 04:53:15 UTC 2026-08-14 04:53:15 UTC at epicenter Location 27.639°N 139.588°E Depth 516.45 km (320.90 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a21aca873bf6e20cec81"
+    },
+    {
+      "title": "Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M",
+      "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-14T04:30:21+00:00",
-      "fetched_at": "2026-08-14T04:56:39+00:00",
-      "summary": "For all the excitement around AI-assisted coding, a stubborn gap remains: building a demo has become easier, but turning that demo into a reliable product is still hard. That is the problem GENCOW, a South Korea-based AI service development platform, is trying to solve. Founded by Kevin Choi, a former Samsung Electronics executive with more […] The post From Samsung to startups: Kevin Choi’s bet on AI-powered softwa…",
+      "published_at": "2026-08-14T05:30:58+00:00",
+      "fetched_at": "2026-08-14T05:31:47+00:00",
+      "summary": "Malaysia’s push to build more home-grown technology champions is gaining a fresh injection of capital, this time across three very different but strategically important areas: warehouse automation, medical technology commercialisation, and assistive digital tools for the visually impaired. VentureTECH, a Malaysian government-backed impact investment company, has invested US$7 million in three Bumiputera-led high-gro…",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_korea: South Korea, Samsung (+2.0); watchgraph demote demo (x0.45)",
+      "relevance_score": 13,
+      "relevance_reason": "Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "567241f7742d3e180f15"
+    },
+    {
+      "title": "なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO",
+      "url": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T22:08:06+00:00",
+      "fetched_at": "2026-08-14T05:31:47+00:00",
+      "summary": "ベテランの判断を若手に引き継ごうとマニュアル化しても、肝心の部分は毎回こぼれ落ちます。理由はシンプルで、本人が「言語化できていない・そもそも言語化すべきだと気づいていない」判断こそが価値の中心だからです。この記事では、なぜ暗黙知の継承が長年うまくいかなかったのか、その構造と、いまLLMで何が変わりつ...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "434de4ef8d8fa8214480"
+      "id": "f590ffe145714bce2ab3"
     }
   ],
   "source_errors": [],
