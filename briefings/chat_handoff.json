@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-14T01:05:24+00:00",
+  "generated_at": "2026-08-14T01:44:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 1,
-    "observe": 1
+    "medium": 2,
+    "observe": 2
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "M 4.9 - 29 km SW of Balangonan, Philippines",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-14T01:28:59.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
+      "summary": "Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)",
+      "section": "medium"
+    },
+    {
       "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -33,6 +43,16 @@
       "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
       "summary": "Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles work…",
       "section": "observe"
+    },
+    {
+      "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-13T15:34:30+00:00",
+      "relevance_score": 5,
+      "url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+      "summary": "はじめにデジタル庁プロダクトマネージャーの土岐竜一です。事業者向けシステムや自治体窓口DX SaaS等を担当しています。 本記事では、デジタル庁が公表する行政手続等の調査（令和6年度悉皆調査）の結果データ約75,000件を対象に、対話形式で自然言語による分析を行える、技術検証目的の簡易的な実装を紹介します。分析...",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -40,142 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
-        "url": "https://jvn.jp/vu/JVNVU97860021/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-14T09:30:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 55.97,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 56.0d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
-        "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-14T01:00:14+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 3.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles workflows, introduces a marketplace tab, and suddenly begins spe…"
-      },
-      {
-        "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-        "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-20T02:49:51+00:00",
-        "age_days": 54.93,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "aging penalty -16.0 for 54.9d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-20T02:49:51+00:00",
-        "age_days": 54.93,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "aging penalty -16.0 for 54.9d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

@@ -23,6 +23,43 @@
     "id": "00b204b762769ee79b3e"
   },
   {
+    "title": "M 4.9 - 29 km SW of Balangonan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-14T01:28:59.040+00:00",
+    "fetched_at": "2026-08-14T01:44:09+00:00",
+    "summary": "Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "e52c71def14412438163"
+  },
+  {
     "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
     "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -42,5 +79,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "15f6a133068335336d97"
+  },
+  {
+    "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁",
+    "url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-13T15:34:30+00:00",
+    "fetched_at": "2026-08-14T01:44:09+00:00",
+    "summary": "はじめにデジタル庁プロダクトマネージャーの土岐竜一です。事業者向けシステムや自治体窓口DX SaaS等を担当しています。 本記事では、デジタル庁が公表する行政手続等の調査（令和6年度悉皆調査）の結果データ約75,000件を対象に、対話形式で自然言語による分析を行える、技術検証目的の簡易的な実装を紹介します。分析...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a40c9f8652981f5e6323"
   }
 ]
