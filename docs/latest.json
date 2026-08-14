@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:38:53+00:00",
-  "run_id": "2026-08-14T00:38:53+00:00",
+  "generated_at": "2026-08-14T01:05:24+00:00",
+  "run_id": "2026-08-14T01:05:24+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 1,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
@@ -53,7 +53,29 @@
         "id": "00b204b762769ee79b3e"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
+        "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-14T01:00:14+00:00",
+        "fetched_at": "2026-08-14T01:04:55+00:00",
+        "summary": "Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles workflows, introduces a marketplace tab, and suddenly begins speaking as though it has crossed into a higher strategic category. The […] The post Platform illusions…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "15f6a133068335336d97"
+      }
+    ]
   },
   "findings": [
     {
@@ -78,31 +100,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "00b204b762769ee79b3e"
+    },
+    {
+      "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
+      "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-14T01:00:14+00:00",
+      "fetched_at": "2026-08-14T01:04:55+00:00",
+      "summary": "Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles workflows, introduces a marketplace tab, and suddenly begins speaking as though it has crossed into a higher strategic category. The […] The post Platform illusions…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "15f6a133068335336d97"
     }
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
-      "url": "https://jvn.jp/vu/JVNVU97860021/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Platform illusions: When ‘ecosystem’ is just a feature bundle",
+      "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-14T09:30:00+09:00",
-      "fetched_at": "2026-08-14T00:38:23+00:00",
-      "summary": "2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-08-14T01:00:14+00:00",
+      "fetched_at": "2026-08-14T01:04:55+00:00",
+      "summary": "Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles workflows, introduces a marketplace tab, and suddenly begins speaking as though it has crossed into a higher strategic category. The […] The post Platform illusions…",
       "matched_keywords": [
-        "advisory",
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Markets/Capital Structure"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "00b204b762769ee79b3e"
+      "id": "15f6a133068335336d97"
     }
   ],
   "source_errors": [],
