@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T01:44:41+00:00_
+_Generiert: 2026-08-14T02:38:54+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The new ransomware playbook: Why ASEAN banks are losing the disclosure war** — Score 16, risk — [Quelle](https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-14T02:25:24+00:00`, fetched `2026-08-14T02:38:23+00:00`
+  - Treffer: APAC Trend Radar, Security, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)
+  - Kurz: Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample customer records attached as proof. The breach had happened. The bank had not […] The post The new ransomware playbook: Why ASEAN banks are losing the disclosure war…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 29 km SW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-14T01:28:59.040+00:00`, fetched `2026-08-14T01:44:09+00:00`
@@ -91,9 +100,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The hidden problem inside AI teams isn’t skills — it’s the human environment** — Score 14, observation — [Quelle](https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-14T01:44:19+00:00`, fetched `2026-08-14T02:38:23+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A few weeks ago, an SME CEO shared his frustration with me over coffee. His company had invested heavily in AI tools over the past year. Licences were purchased. Teams attended workshops. Managers were instructed to integrate AI into workflows. Like many businesses today, the organisation moved quickly because it feared falling behind. Yet despite […] The post The hidden problem inside AI teams isn’t skills — it’s t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞** — Score 13, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-13T22:15:45+00:00`, fetched `2026-08-14T02:38:23+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 生成AIの「Chat（チャット）GPT」や「Gemini（ジェミニ）」を使うコストは――。生成AIサービスを使う人も使わない人も同じく、データセンターを支える電力網の整備費は電気料金の一部として支払う。その負担が膨張する見通しだ。大量の計算をするAIサービス基盤となる大規模データセンターは多くの電力を消費する。電力供...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Platform illusions: When ‘ecosystem’ is just a feature bundle** — Score 11, observation — [Quelle](https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-14T01:00:14+00:00`, fetched `2026-08-14T01:04:55+00:00`
@@ -102,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles workflows, introduces a marketplace tab, and suddenly begins speaking as though it has crossed into a higher strategic category. The […] The post Platform illusions…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **最強のブクマカを決めるB-1グランプリ（賞金11億円）** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260814102216)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-14T01:26:51+00:00`, fetched `2026-08-14T02:38:23+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 多種あるブクマカがルール無しで戦った時… スポーツではなく中傷下ネタありの 『ブコメ』で戦った時 最強のブクマカは誰か！？ その答えの一端がこのトーナメントでわかる 今現在最強のブクマカは決まっていない
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁** — Score 5, observation — [Quelle](https://digital-gov.note.jp/n/n56aaf580bfb6)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -116,6 +152,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

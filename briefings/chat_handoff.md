@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-14T01:44:41+00:00_
+_Generated: 2026-08-14T02:38:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `8`
 
 ## Top Signals
 
@@ -15,21 +15,49 @@ _Generated: 2026-08-14T01:44:41+00:00_
 - url: https://jvn.jp/vu/JVNVU97860021/
 - summary: 2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.9 - 29 km SW of Balangonan, Philippines
+### 2. The new ransomware playbook: Why ASEAN banks are losing the disclosure war
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-08-14T02:25:24+00:00`
+- url: https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/
+- summary: Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample custo…
+
+### 3. M 4.9 - 29 km SW of Balangonan, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-14T01:28:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw
 - summary: Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)
 
-### 3. Platform illusions: When ‘ecosystem’ is just a feature bundle
+### 4. The hidden problem inside AI teams isn’t skills — it’s the human environment
+- source: e27 Asia Startup and Tech Feed
+- score: `14`
+- published: `2026-08-14T01:44:19+00:00`
+- url: https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/
+- summary: A few weeks ago, an SME CEO shared his frustration with me over coffee. His company had invested heavily in AI tools over the past year. Licences were purchased. Teams attended workshops. Managers were instructed to integrate AI into workflows. Like many busi…
+
+### 5. AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-08-13T22:15:45+00:00`
+- url: https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/
+- summary: 生成AIの「Chat（チャット）GPT」や「Gemini（ジェミニ）」を使うコストは――。生成AIサービスを使う人も使わない人も同じく、データセンターを支える電力網の整備費は電気料金の一部として支払う。その負担が膨張する見通しだ。大量の計算をするAIサービス基盤となる大規模データセンターは多くの電力を消費する。電力供...
+
+### 6. Platform illusions: When ‘ecosystem’ is just a feature bundle
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-14T01:00:14+00:00`
 - url: https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/
 - summary: Few words in business are abused as generously as ecosystem. It appears in investor decks, product strategy documents, market narratives, and executive speeches with almost magical confidence. A company launches adjacent tools, adds integrations, bundles work…
 
-### 4. ⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁
+### 7. 最強のブクマカを決めるB-1グランプリ（賞金11億円）
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-08-14T01:26:51+00:00`
+- url: https://anond.hatelabo.jp/20260814102216
+- summary: 多種あるブクマカがルール無しで戦った時… スポーツではなく中傷下ネタありの 『ブコメ』で戦った時 最強のブクマカは誰か！？ その答えの一端がこのトーナメントでわかる 今現在最強のブクマカは決まっていない
+
+### 8. ⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-08-13T15:34:30+00:00`
