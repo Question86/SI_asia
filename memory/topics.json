@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T23:20:54+00:00",
+  "generated_at": "2026-08-14T23:32:36+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta"
       },
       {
+        "title": "M 5.3 - 49 km NE of Labuan Bajo, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-14T23:27:48.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuw"
+      },
+      {
         "title": "M 4.7 - 283 km N of Tobelo, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-14T18:28:29.040+00:00",
@@ -182,13 +189,6 @@
         "published_at": "2026-08-14T01:28:59.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw"
-      },
-      {
-        "title": "M 4.8 - 15 km WNW of Kirakira, Solomon Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-14T20:42:13.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tksg"
       }
     ],
     "github": [
@@ -226,6 +226,13 @@
         "published_at": "2026-08-14T16:17:46+00:00",
         "relevance_score": 11,
         "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot"
+      },
+      {
+        "title": "Multiple redirect URIs and token refresh for OAuth apps",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-14T22:43:44+00:00",
+        "relevance_score": 6,
+        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps"
       },
       {
         "title": "GitHub Copilot weekly releases — August 10",

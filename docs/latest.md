@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T23:20:54+00:00_
+_Generiert: 2026-08-14T23:32:36+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
+90 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 ## Priorität Hoch
 
