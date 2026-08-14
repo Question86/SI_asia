@@ -93,6 +93,30 @@
     "id": "9920d612c4227427a19c"
   },
   {
+    "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T09:51:33+00:00",
+    "fetched_at": "2026-08-14T09:54:15+00:00",
+    "summary": "Ein authentisierter Angreifer kann mehrere Schwachstellen im Flatpak Paket von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen und um Dateien zu löschen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "74204cba9d35d4c4711b"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
     "url": "https://jvn.jp/vu/JVNVU97860021/",
     "source": "JVN Japan Vulnerability Notes",
@@ -257,6 +281,75 @@
       "LOW"
     ],
     "id": "e52c71def14412438163"
+  },
+  {
+    "title": "[UPDATE] [hoch] HTTP/2-Implementierungen: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1791",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T09:51:33+00:00",
+    "fetched_at": "2026-08-14T09:54:15+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in verschiedenen HTTP/2-Implementierungen ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f22f0e2574427e049679"
+  },
+  {
+    "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1611",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T09:51:12+00:00",
+    "fetched_at": "2026-08-14T09:54:15+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Rsync ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f86cea01966399d3ff69"
+  },
+  {
+    "title": "[UPDATE] [hoch] Exim: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1505",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T09:51:12+00:00",
+    "fetched_at": "2026-08-14T09:54:15+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Exim ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "57ecfe3296cb0fb297d7"
   },
   {
     "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",

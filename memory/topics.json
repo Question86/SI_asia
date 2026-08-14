@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T09:32:15+00:00",
+  "generated_at": "2026-08-14T09:54:48+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T09:51:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-14T09:30:00+09:00",
@@ -170,6 +177,27 @@
         "published_at": "2026-08-14T02:25:24+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
+      },
+      {
+        "title": "[UPDATE] [hoch] HTTP/2-Implementierungen: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T09:51:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1791"
+      },
+      {
+        "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T09:51:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1611"
+      },
+      {
+        "title": "[UPDATE] [hoch] Exim: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T09:51:12+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1505"
       },
       {
         "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",

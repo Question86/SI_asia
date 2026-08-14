@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T09:32:15+00:00_
+_Generiert: 2026-08-14T09:54:48+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
+30 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company’s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Agentic Global Payments, argues that speed alone will not make this shift viable — businesses will need […] The post Ecosystem Roundup: Why “Know Your Agent” will…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-14T09:51:33+00:00`, fetched `2026-08-14T09:54:15+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein authentisierter Angreifer kann mehrere Schwachstellen im Flatpak Paket von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen und um Dateien zu löschen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU97860021/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-14T09:30:00+09:00`, fetched `2026-08-14T00:38:23+00:00`
@@ -84,14 +93,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Rsync: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2817)
+- **[UPDATE] [hoch] HTTP/2-Implementierungen: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1791)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-14T08:51:07+00:00`, fetched `2026-08-14T09:05:32+00:00`
+  - Zeit: published `2026-08-14T09:51:33+00:00`, fetched `2026-08-14T09:54:15+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Rsync ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in verschiedenen HTTP/2-Implementierungen ausnutzen, um einen Denial of Service Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -190,8 +199,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

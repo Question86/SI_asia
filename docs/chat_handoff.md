@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-14T09:32:15+00:00_
+_Generated: 2026-08-14T09:54:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `30`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-14T09:32:15+00:00_
 - url: https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/
 - summary: As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company’s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Ag…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）
+### 3. [UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-14T09:51:33+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732
+- summary: Ein authentisierter Angreifer kann mehrere Schwachstellen im Flatpak Paket von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen und um Dateien zu löschen.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-14T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU97860021/
 - summary: 2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (gnome-remote-desktop): Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-14T08:51:07+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2829
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (gnome-remote-desktop) ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Three key learnings from SuiteWorld 2025: Why context, not automation, is the real AI prize
 - source: e27 Asia Startup and Tech Feed
