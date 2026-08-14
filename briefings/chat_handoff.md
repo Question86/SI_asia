@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-14T08:09:49+00:00_
+_Generated: 2026-08-14T09:06:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `26`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-14T08:09:49+00:00_
 - url: https://jvn.jp/vu/JVNVU97860021/
 - summary: 2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. The new ransomware playbook: Why ASEAN banks are losing the disclosure war
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (gnome-remote-desktop): Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-14T02:25:24+00:00`
-- url: https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/
-- summary: Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample custo…
+- published: `2026-08-14T08:51:07+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2829
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (gnome-remote-desktop) ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Three key learnings from SuiteWorld 2025: Why context, not automation, is the real AI prize
 - source: e27 Asia Startup and Tech Feed
