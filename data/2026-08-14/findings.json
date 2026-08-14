@@ -475,6 +475,43 @@
     "id": "291219cad2fc0b9478de"
   },
   {
+    "title": "M 5.1 - 49 km N of Ruteng, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-14T23:38:30.040+00:00",
+    "fetched_at": "2026-08-14T23:42:05+00:00",
+    "summary": "Time 2026-08-14 23:12:31 UTC 2026-08-14 23:12:31 UTC at epicenter Location 8.169°S 120.417°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1aaf11a4e871382f8a9e"
+  },
+  {
     "title": "M 5.3 - 49 km NE of Labuan Bajo, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuw",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1511,6 +1548,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "867154c784d65cfd94e3"
+  },
+  {
+    "title": "M 5.2 - 1 km SW of Otura, Spain",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-14T23:38:34.019+00:00",
+    "fetched_at": "2026-08-14T23:42:05+00:00",
+    "summary": "DYFI? - III Time 2026-08-14 23:04:40 UTC 2026-08-14 23:04:40 UTC at epicenter Location 37.079°N 3.649°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a6a0b1dafa89ef68ecc3"
   },
   {
     "title": "M 4.8 - 15 km WNW of Kirakira, Solomon Islands",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T23:32:36+00:00_
+_Generiert: 2026-08-14T23:42:39+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
+92 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,12 +33,38 @@ _Generiert: 2026-08-14T23:32:36+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-- **USGS earthquake M5.5 - 49 km NE of Labuan Bajo, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf)
-  - Quelle: USGS
-  - Zeit: `2026-08-14T22:37:17+00:00`
-  - Kurz: M5.5 - 49 km NE of Labuan Bajo, Indonesia. PAGER alert: green. Tsunami flag: 0.
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f6cc2b08c50>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 550 thousand (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558059)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 550 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558065)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557839)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].
+- **GDACS: Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001304)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557728)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -265,6 +291,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 1 km SW of Otura, Spain** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkv2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-14T23:38:34.019+00:00`, fetched `2026-08-14T23:42:05+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-08-14 23:04:40 UTC 2026-08-14 23:04:40 UTC at epicenter Location 37.079°N 3.649°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 15 km WNW of Kirakira, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tksg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-14T20:42:13.040+00:00`, fetched `2026-08-14T20:44:11+00:00`
@@ -282,15 +317,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-14 18:33:25 UTC 2026-08-14 18:33:25 UTC at epicenter Location 12.381°S 167.480°E Depth 369.33 km (229.49 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 165 km E of Ozernovskiy, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-14T18:14:43.040+00:00`, fetched `2026-08-14T18:23:07+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-14 17:47:42 UTC 2026-08-14 17:47:42 UTC at epicenter Location 51.371°N 158.869°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **なぜベテランの暗黙知は、文書化しても継承できないのか | DevelopersIO** — Score 8, observation — [Quelle](https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
