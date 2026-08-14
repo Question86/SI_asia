@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T09:06:08+00:00",
-  "run_id": "2026-08-14T09:06:08+00:00",
+  "generated_at": "2026-08-14T09:32:15+00:00",
+  "run_id": "2026-08-14T09:32:15+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1413,77 +1413,7 @@
       "id": "f8f6176e951be6b77c90"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gnome-remote-desktop): Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2829",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-14T08:51:07+00:00",
-      "fetched_at": "2026-08-14T09:05:32+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (gnome-remote-desktop) ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3411a6574b30aa2c3f6e"
-    },
-    {
-      "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2817",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-14T08:51:07+00:00",
-      "fetched_at": "2026-08-14T09:05:32+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Rsync ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "33dcad5982d8ddf8c59c"
-    },
-    {
-      "title": "Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash｜npaka",
-      "url": "https://note.com/npaka/n/n1d08ec975c9f",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-08T12:36:55+00:00",
-      "fetched_at": "2026-08-14T09:05:32+00:00",
-      "summary": "Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash 最近話題のMythos級ローカルLLM 「Kimi K3」「Qwen3.8-Max」「GLM-5.2」「DeepSeek-V4 Flash」についてまとめました。 1. はじめに2026年夏、オープンウェイトを中心としたLLMの性能が大きく伸びています。 Arena.aiのFrontend Code Aren...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1387eceb6fc41fd3219d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
