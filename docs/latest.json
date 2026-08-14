@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T06:38:30+00:00",
-  "run_id": "2026-08-14T06:38:30+00:00",
+  "generated_at": "2026-08-14T07:05:17+00:00",
+  "run_id": "2026-08-14T07:05:17+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1275,77 +1275,7 @@
       "id": "f8f6176e951be6b77c90"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Ecosystem Roundup: Why “Know Your Agent” will matter as much as KYC in payments",
-      "url": "https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-14T06:30:58+00:00",
-      "fetched_at": "2026-08-14T06:38:01+00:00",
-      "summary": "As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company’s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Agentic Global Payments, argues that speed alone will not make this shift viable — businesses will need […] The post Ecosystem Roundup: Why “Know Your Agent” will…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "9920d612c4227427a19c"
-    },
-    {
-      "title": "Three key learnings from SuiteWorld 2025: Why context, not automation, is the real AI prize",
-      "url": "https://e27.co/three-key-learnings-from-suiteworld-2025-why-context-not-automation-is-the-real-ai-prize-20260814/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-14T06:25:54+00:00",
-      "fetched_at": "2026-08-14T06:38:01+00:00",
-      "summary": "Oracle NetSuite’s SuiteWorld 2025 in Las Vegas opened with a slogan built for a keynote stage: “No Limits.” But strip away the staging and the roughly 8,000 attendees packed into the venue, and what emerged from three days of product reveals and executive interviews was a more measured story — one about data plumbing, conversational […] The post Three key learnings from SuiteWorld 2025: Why context, not automation,…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d9266cede8a00fe01a57"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
