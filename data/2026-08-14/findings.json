@@ -93,6 +93,30 @@
     "id": "9920d612c4227427a19c"
   },
   {
+    "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:11:07+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "OpenSSL",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff035a07c723a0d379ef"
+  },
+  {
     "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835",
     "source": "BSI CERT-Bund Security Advisories",
@@ -342,6 +366,121 @@
       "LOW"
     ],
     "id": "e52c71def14412438163"
+  },
+  {
+    "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2429",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:16:05+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Synacor Zimbra ausnutzen, um beliebigen Programmcode auszuführen, Cross-Site-Scripting-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen und unbefugte Aktionen durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f7554c96e0683b105f4d"
+  },
+  {
+    "title": "[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2844",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:11:07+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in PostgreSQL ausnutzen, um beliebigen Programmcode auszuführen, SQL-Injection-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f0ad8ac7c70251094f31"
+  },
+  {
+    "title": "[NEU] [hoch] BigBlueButton: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2845",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:11:07+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in BigBlueButton ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "491c91af85d30da8d64b"
+  },
+  {
+    "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:11:06+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in vllm ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "48908b7850f8081b2236"
+  },
+  {
+    "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2841",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:11:06+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "96d9c662f60b99715e39"
   },
   {
     "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
@@ -908,6 +1047,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b91802e53abf1a4089d6"
+  },
+  {
+    "title": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2132785.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-14T05:26:06+00:00",
+    "fetched_at": "2026-08-14T11:23:02+00:00",
+    "summary": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a3c8d2a863291c704a77"
   },
   {
     "title": "From Samsung to startups: Kevin Choi’s bet on AI-powered software creation",

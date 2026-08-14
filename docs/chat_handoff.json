@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-14T11:04:21+00:00",
+  "generated_at": "2026-08-14T11:23:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 7,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 22,
-    "observe": 17
+    "medium": 28,
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-14T11:11:07+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "section": "medium"
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835",
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und beliebigen Code mit Root-Rechten auszuführen.",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-14T09:51:33+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732",
-      "summary": "Ein authentisierter Angreifer kann mehrere Schwachstellen im Flatpak Paket von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen und um Dateien zu löschen.",
       "section": "medium"
     },
     {

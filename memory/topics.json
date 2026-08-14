@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T11:04:21+00:00",
+  "generated_at": "2026-08-14T11:23:31+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/anthropics/skills"
+      },
+      {
+        "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842"
       },
       {
         "title": "The hidden problem inside AI teams isn’t skills — it’s the human environment",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/cactus-compute/needle"
-      },
-      {
-        "title": "The system behind the smile: How to make volunteer efforts sustainable",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-14T02:45:37+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/"
       }
     ],
     "economy": [
@@ -151,6 +151,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T10:06:06+00:00",
@@ -186,42 +193,42 @@
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
       },
       {
-        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+        "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:36:14+00:00",
+        "published_at": "2026-08-14T11:16:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1626"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2429"
       },
       {
-        "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "title": "[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
+        "published_at": "2026-08-14T11:11:07+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2844"
       },
       {
-        "title": "[NEU] [mittel] Langflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+        "title": "[NEU] [hoch] BigBlueButton: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
+        "published_at": "2026-08-14T11:11:07+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2837"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2845"
       },
       {
-        "title": "[NEU] [hoch] Proxmox Backup Server: Schwachstelle ermöglicht Manipulation von Dateien und Offenlegung von Informationen",
+        "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
+        "published_at": "2026-08-14T11:11:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838"
-      },
-      {
-        "title": "[NEU] [hoch] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843"
+      },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -237,6 +244,34 @@
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
       },
       {
+        "title": "[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2844"
+      },
+      {
+        "title": "[NEU] [hoch] BigBlueButton: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2845"
+      },
+      {
+        "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842"
+      },
+      {
+        "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2841"
+      },
+      {
         "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T10:11:06+00:00",
@@ -256,41 +291,6 @@
         "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838"
-      },
-      {
-        "title": "[NEU] [hoch] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839"
-      },
-      {
-        "title": "[NEU] [hoch] Netgate pfSense: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2836"
-      },
-      {
-        "title": "Malaysia’s VentureTECH backs Move Robotic, Recove and Edote with US$7M",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-14T05:30:58+00:00",
-        "relevance_score": 13,
-        "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/"
-      },
-      {
-        "title": "Fortinet FortiWeb: Angreifer können sich mit beliebigen Zugangsdaten einloggen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-14T10:14:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html"
-      },
-      {
-        "title": "The system behind the smile: How to make volunteer efforts sustainable",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-14T02:45:37+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/"
       }
     ],
     "general": [
