@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T00:08:33+00:00_
+_Generiert: 2026-08-14T00:38:53+00:00_
 
 ## Kurzlage
 
-Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
+1 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -12,7 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **CISA ICS Advisory / ICS Medical Advisory（2026年08月13日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU97860021/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-14T09:30:00+09:00`, fetched `2026-08-14T00:38:23+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年08月13日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -20,7 +28,7 @@ Keine neuen Beobachtungssignale.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
