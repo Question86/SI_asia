@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-14T22:38:18Z",
+  "generated_at": "2026-08-14T22:51:09Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 16,
-      "strong": 21,
-      "watch": 2
+      "strong": 23
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 35,
-      "watch": 2
+      "strong": 37
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:06:06+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1505",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T09:51:12+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2817",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T08:51:07+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -98,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2851",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:51:06+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -122,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2850",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:46:06+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -146,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2847",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:36:05+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -170,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2846",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:26:06+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -194,7 +192,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1735",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:21:05+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -218,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2845",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:11:07+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -242,7 +240,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:11:06+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security"
@@ -267,7 +265,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1626",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:36:14+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -291,7 +289,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:11:06+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -315,7 +313,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:11:06+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -339,7 +337,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2839",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:11:06+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -363,7 +361,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1791",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T09:51:33+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -387,7 +385,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1611",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T09:51:12+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -407,11 +405,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Rsync ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "M 5.9 - 36 km NE of Labuan Bajo, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkta",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-14T22:41:57.996+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - VII DYFI? - III Time 2026-08-14 22:13:50 UTC 2026-08-14 22:13:50 UTC at epicenter Location 8.285°S 120.147°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2761",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:51:05+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -439,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T09:51:33+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -465,7 +488,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2829",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T08:51:07+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "security"
       ],
@@ -517,7 +540,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2429",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:16:05+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -543,7 +566,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2844",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:11:07+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -569,7 +592,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2841",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:11:06+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -595,7 +618,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2837",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:11:06+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -621,7 +644,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2836",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T10:11:05+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -647,7 +670,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T11:11:07+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -672,7 +695,7 @@
       "url": "https://jvn.jp/vu/JVNVU97860021/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-14T09:30:00+09:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "security"
       ],
@@ -697,7 +720,7 @@
       "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-14T10:14:00.000+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -723,7 +746,7 @@
       "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T03:00:37+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai",
         "macro"
@@ -750,7 +773,7 @@
       "url": "https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T06:30:58+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "macro"
@@ -777,7 +800,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 56.86,
+      "age_days": 56.87,
       "topics": [
         "ai"
       ],
@@ -806,7 +829,7 @@
       "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T02:25:24+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai",
         "security"
@@ -828,6 +851,32 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "Late last year, a regional bank in Southeast Asia received an unusual email. Not from the attackers, but from their regulator. The supervisor had received an anonymous tip claiming the bank had suffered a major data breach two weeks earlier, with sample customer records attached as proof. The breach had happened. The…"
+    },
+    {
+      "title": "M 5.6 - 61 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tku7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-14T22:42:19.946+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - VI Time 2026-08-14 22:18:06 UTC 2026-08-14 22:18:06 UTC at epicenter Location 8.341°S 121.428°E Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 7.7 - 68 km NNW of Ende, Indonesia",
@@ -860,7 +909,7 @@
       "url": "https://restofworld.org/2026/south-korea-shopping-trend/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-14T13:00:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -885,7 +934,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-14T18:28:29.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -910,7 +959,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-14T10:25:28.040+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -961,7 +1010,7 @@
       "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T05:30:58+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "macro"
@@ -982,54 +1031,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Malaysia’s push to build more home-grown technology champions is gaining a fresh injection of capital, this time across three very different but strategically important areas: warehouse automation, medical technology commercialisation, and assistive digital tools for the visually impaired. VentureTECH, a Malaysian gov…"
-    },
-    {
-      "title": "M 4.8 - Bonin Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-14T05:07:20.040+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-14 04:53:15 UTC 2026-08-14 04:53:15 UTC at epicenter Location 27.639°N 139.588°E Depth 516.45 km (320.90 mi)"
-    },
-    {
-      "title": "M 4.9 - 29 km SW of Balangonan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-14T01:28:59.040+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-14 01:14:53 UTC 2026-08-14 01:14:53 UTC at epicenter Location 5.387°N 125.159°E Depth 92.56 km (57.51 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
