@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T15:55:37+00:00_
+_Generiert: 2026-08-14T16:14:32+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 ## Priorität Hoch
 
@@ -83,6 +83,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
   - Kurz: Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creati…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How to bring your software delivery workflow into GitHub with agent apps** — Score 15, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-14T16:00:00+00:00`, fetched `2026-08-14T16:14:01+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.5); Copilot (+2.0); recent (+1.0)
+  - Kurz: See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 207 km SE of Katsuura, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkmy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
