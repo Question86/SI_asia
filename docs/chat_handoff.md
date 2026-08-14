@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-14T11:41:47+00:00_
+_Generated: 2026-08-14T11:59:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `52`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-14T11:41:47+00:00_
 - url: https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/
 - summary: As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company’s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Ag…
 
-### 3. [NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service
+### 3. [UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-14T11:51:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2761
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Visual Studio Code, Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft .NET Framework, Microsoft Windows Server 2019, Microsoft Windows Server 2022,…
+
+### 4. [NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-14T11:11:07+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in OpenSSL ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (yelp, dracut): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-14T10:06:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2835
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und beliebigen Code mit Root-Rechten auszuführen.
 
 ### 5. Three key learnings from SuiteWorld 2025: Why context, not automation, is the real AI prize
 - source: e27 Asia Startup and Tech Feed

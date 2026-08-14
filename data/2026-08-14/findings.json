@@ -93,6 +93,30 @@
     "id": "9920d612c4227427a19c"
   },
   {
+    "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2761",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:51:05+00:00",
+    "fetched_at": "2026-08-14T11:58:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Visual Studio Code, Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Server 2016, Microsoft .NET Framework, Microsoft Windows Server 2019, Microsoft Windows Server 2022, Microsoft Windows Server 2025, Microsoft PowerShell, Microsoft Windows, Microsoft .NET, Microsoft Visual Studio 2022 und Microsoft Visual Studio 2026 ausnutzen,…",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ab9b8d5662a1c8b0d136"
+  },
+  {
     "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2843",
     "source": "BSI CERT-Bund Security Advisories",
@@ -366,6 +390,52 @@
       "LOW"
     ],
     "id": "e52c71def14412438163"
+  },
+  {
+    "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2851",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:51:06+00:00",
+    "fetched_at": "2026-08-14T11:58:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PJSIP ausnutzen, um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "03d8c7183dc0f620436f"
+  },
+  {
+    "title": "[NEU] [hoch] Golang Go: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2850",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:46:06+00:00",
+    "fetched_at": "2026-08-14T11:58:53+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen Denial of Service zu verursachen, ein Cross Site Scripting durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4b7925689956c719b8b1"
   },
   {
     "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",

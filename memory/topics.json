@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T11:41:47+00:00",
+  "generated_at": "2026-08-14T11:59:33+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Microsoft Developer Tools: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2761"
+      },
+      {
         "title": "[NEU] [mittel] OpenSSL: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T11:11:07+00:00",
@@ -193,32 +200,25 @@
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
       },
       {
+        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2851"
+      },
+      {
+        "title": "[NEU] [hoch] Golang Go: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:46:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2850"
+      },
+      {
         "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T11:36:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2847"
-      },
-      {
-        "title": "[NEU] [niedrig] Podman: Schwachstelle ermöglicht nicht spezifizierten Angriff und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:26:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2846"
-      },
-      {
-        "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:21:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1735"
-      },
-      {
-        "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2429"
       }
     ],
     "geopolitics": [
@@ -242,6 +242,20 @@
         "published_at": "2026-08-14T02:25:24+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
+      },
+      {
+        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:51:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2851"
+      },
+      {
+        "title": "[NEU] [hoch] Golang Go: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:46:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2850"
       },
       {
         "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
@@ -277,20 +291,6 @@
         "published_at": "2026-08-14T11:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842"
-      },
-      {
-        "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2841"
-      },
-      {
-        "title": "[NEU] [mittel] Mattermost Server: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840"
       }
     ],
     "general": [
