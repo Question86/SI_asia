@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T21:41:19+00:00",
-  "run_id": "2026-08-14T21:41:19+00:00",
+  "generated_at": "2026-08-14T21:59:45+00:00",
+  "run_id": "2026-08-14T21:59:45+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 36,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1712,6 +1712,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "30d2af06e82448ed490a"
+      },
+      {
+        "title": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2132156.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-14T10:43:58+00:00",
+        "fetched_at": "2026-08-14T21:59:08+00:00",
+        "summary": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "80df28f8915450753da8"
       },
       {
         "title": "豪雨に備える防災アプリ・サービスまとめ 雨雲レーダーからハザードマップ、通れた道まで",
@@ -3692,6 +3713,27 @@
       "id": "30d2af06e82448ed490a"
     },
     {
+      "title": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2132156.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-14T10:43:58+00:00",
+      "fetched_at": "2026-08-14T21:59:08+00:00",
+      "summary": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "80df28f8915450753da8"
+    },
+    {
       "title": "豪雨に備える防災アプリ・サービスまとめ 雨雲レーダーからハザードマップ、通れた道まで",
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000549/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3987,26 +4029,25 @@
   ],
   "new_findings": [
     {
-      "title": "なぜAI時代にGoが最適な言語なのか",
-      "url": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+      "title": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2132156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-13T12:11:19+00:00",
-      "fetched_at": "2026-08-14T21:40:49+00:00",
-      "summary": "はじめに 本記事では、GoogleのGolang Product ManagerのCameron Balahanと、Google Cloud Chief EvangelistのRichard Seroterによって投稿された、「Why Go is an Ideal Language for AI-Assisted Software Engineering」 を和訳するとともに、私の感想を少し書こうと思う。 また、本記事は元記事の著者の一人である、C...",
+      "published_at": "2026-08-14T10:43:58+00:00",
+      "fetched_at": "2026-08-14T21:59:08+00:00",
+      "summary": "MicrosoftのAIターミナル「Intelligent Terminal 0.2」が公開 ～ローカルモデルに対応／「OpenCode」対応、スラッシュコマンドの拡充、WSL内エージェントなどの改善も",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "408259df18099b029726"
+      "id": "80df28f8915450753da8"
     }
   ],
   "source_errors": [],
