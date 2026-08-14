@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-14T11:23:31+00:00",
+  "generated_at": "2026-08-14T11:41:47+00:00",
   "topics": {
     "ai": [
       {
@@ -193,32 +193,32 @@
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
       },
       {
+        "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2847"
+      },
+      {
+        "title": "[NEU] [niedrig] Podman: Schwachstelle ermöglicht nicht spezifizierten Angriff und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:26:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2846"
+      },
+      {
+        "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1735"
+      },
+      {
         "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-14T11:16:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2429"
-      },
-      {
-        "title": "[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:11:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2844"
-      },
-      {
-        "title": "[NEU] [hoch] BigBlueButton: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:11:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2845"
-      },
-      {
-        "title": "[NEU] [hoch] vllm: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T11:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2842"
       }
     ],
     "geopolitics": [
@@ -242,6 +242,20 @@
         "published_at": "2026-08-14T02:25:24+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/"
+      },
+      {
+        "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2847"
+      },
+      {
+        "title": "[NEU] [niedrig] Podman: Schwachstelle ermöglicht nicht spezifizierten Angriff und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-14T11:26:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2846"
       },
       {
         "title": "[NEU] [hoch] PostgreSQL: Mehrere Schwachstellen",
@@ -277,20 +291,6 @@
         "published_at": "2026-08-14T10:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2840"
-      },
-      {
-        "title": "[NEU] [mittel] Langflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2837"
-      },
-      {
-        "title": "[NEU] [hoch] Proxmox Backup Server: Schwachstelle ermöglicht Manipulation von Dateien und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-14T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2838"
       }
     ],
     "general": [

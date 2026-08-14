@@ -368,6 +368,75 @@
     "id": "e52c71def14412438163"
   },
   {
+    "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2847",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:36:05+00:00",
+    "fetched_at": "2026-08-14T11:41:18+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "afee1c698044853efa26"
+  },
+  {
+    "title": "[NEU] [niedrig] Podman: Schwachstelle ermöglicht nicht spezifizierten Angriff und Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2846",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:26:06+00:00",
+    "fetched_at": "2026-08-14T11:41:18+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Podman ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, und um Informationen offenzulegen..",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4fae6ce54eae14c21d7d"
+  },
+  {
+    "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1735",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-14T11:21:05+00:00",
+    "fetched_at": "2026-08-14T11:41:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Synacor Zimbra ausnutzen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e226728d229e73b1a05b"
+  },
+  {
     "title": "[UPDATE] [hoch] Synacor Zimbra: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2429",
     "source": "BSI CERT-Bund Security Advisories",
