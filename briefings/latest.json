@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T14:09:42+00:00",
-  "run_id": "2026-08-14T14:09:42+00:00",
+  "generated_at": "2026-08-14T14:33:14+00:00",
+  "run_id": "2026-08-14T14:33:14+00:00",
   "date": "2026-08-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 63
+      "configured_public_sources_only": 65
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 63,
-    "displayed_findings": 63,
+    "new_relevant_findings": 2,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
     "medium": 34,
-    "observe": 29,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -1382,6 +1382,27 @@
         "id": "b91802e53abf1a4089d6"
       },
       {
+        "title": "これこそ、まさに『印象操作』｜境野春彦－コネクトエネルギー合同会社CEO、経営コンサルタント",
+        "url": "https://note.com/connect_energy/n/n5a6c8c16bed6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-14T12:22:39+00:00",
+        "fetched_at": "2026-08-14T14:32:40+00:00",
+        "summary": "＜物価高対策①＞ 高市内閣では、国民の皆様が直面されている「物価高」への対応に最優先で取り組んできました。 高市内閣は、国民の皆様が苦しむ「物価高対策」をないがしろにして、自らの政治的信念の実現を優先しているように見えるとのご意見があるようですが、それは私の認識とは異なります。… pic.twitter.com/XN2t...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "30d2af06e82448ed490a"
+      },
+      {
         "title": "豪雨に備える防災アプリ・サービスまとめ 雨雲レーダーからハザードマップ、通れた道まで",
         "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000549/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1443,6 +1464,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6bbdc4099b396f0040c0"
+      },
+      {
+        "title": "タスクマネージャー開発者が作ったmacOSでも使える「Task Manager OG」",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2132786.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-14T05:30:00+00:00",
+        "fetched_at": "2026-08-14T14:32:40+00:00",
+        "summary": "タスクマネージャー開発者が作ったmacOSでも使える「Task Manager OG」",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f162d020ecc701a8edc8"
       },
       {
         "title": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」",
@@ -2944,6 +2986,27 @@
       "id": "b91802e53abf1a4089d6"
     },
     {
+      "title": "これこそ、まさに『印象操作』｜境野春彦－コネクトエネルギー合同会社CEO、経営コンサルタント",
+      "url": "https://note.com/connect_energy/n/n5a6c8c16bed6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-14T12:22:39+00:00",
+      "fetched_at": "2026-08-14T14:32:40+00:00",
+      "summary": "＜物価高対策①＞ 高市内閣では、国民の皆様が直面されている「物価高」への対応に最優先で取り組んできました。 高市内閣は、国民の皆様が苦しむ「物価高対策」をないがしろにして、自らの政治的信念の実現を優先しているように見えるとのご意見があるようですが、それは私の認識とは異なります。… pic.twitter.com/XN2t...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "30d2af06e82448ed490a"
+    },
+    {
       "title": "豪雨に備える防災アプリ・サービスまとめ 雨雲レーダーからハザードマップ、通れた道まで",
       "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000549/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3005,6 +3068,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6bbdc4099b396f0040c0"
+    },
+    {
+      "title": "タスクマネージャー開発者が作ったmacOSでも使える「Task Manager OG」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2132786.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-14T05:30:00+00:00",
+      "fetched_at": "2026-08-14T14:32:40+00:00",
+      "summary": "タスクマネージャー開発者が作ったmacOSでも使える「Task Manager OG」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f162d020ecc701a8edc8"
     },
     {
       "title": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」",
@@ -3155,13 +3239,13 @@
   ],
   "new_findings": [
     {
-      "title": "シャドーAIは「禁止」ではなく運用設計で向き合う - Qiita",
-      "url": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513",
+      "title": "これこそ、まさに『印象操作』｜境野春彦－コネクトエネルギー合同会社CEO、経営コンサルタント",
+      "url": "https://note.com/connect_energy/n/n5a6c8c16bed6",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-14T04:20:24+00:00",
-      "fetched_at": "2026-08-14T14:09:12+00:00",
-      "summary": "生成AIの利用が広がるほど、情報システム部門やセキュリティ部門が承認していないAIを、従業員が業務で使う「シャドーAI」は増えます。 個人アカウントの生成AIへ会議録を貼る。部門が独自にAIエージェントを作る。開発者が個人契約のコーディングAIに業務コードを読ませる。私物端末でローカルLLMを試す。いずれも現実...",
+      "published_at": "2026-08-14T12:22:39+00:00",
+      "fetched_at": "2026-08-14T14:32:40+00:00",
+      "summary": "＜物価高対策①＞ 高市内閣では、国民の皆様が直面されている「物価高」への対応に最優先で取り組んできました。 高市内閣は、国民の皆様が苦しむ「物価高対策」をないがしろにして、自らの政治的信念の実現を優先しているように見えるとのご意見があるようですが、それは私の認識とは異なります。… pic.twitter.com/XN2t...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -3173,7 +3257,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7fed4fe4fa2dff947e8d"
+      "id": "30d2af06e82448ed490a"
+    },
+    {
+      "title": "タスクマネージャー開発者が作ったmacOSでも使える「Task Manager OG」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2132786.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-14T05:30:00+00:00",
+      "fetched_at": "2026-08-14T14:32:40+00:00",
+      "summary": "タスクマネージャー開発者が作ったmacOSでも使える「Task Manager OG」",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f162d020ecc701a8edc8"
     }
   ],
   "source_errors": [],
