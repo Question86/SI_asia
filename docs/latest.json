@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-14T18:00:18+00:00",
-  "run_id": "2026-08-14T18:00:18+00:00",
+  "generated_at": "2026-08-14T18:23:43+00:00",
+  "run_id": "2026-08-14T18:23:43+00:00",
   "date": "2026-08-14",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 35,
-    "observe": 38,
-    "source_errors": 1
+    "observe": 39,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1253,6 +1253,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "867154c784d65cfd94e3"
+      },
+      {
+        "title": "M 4.5 - 165 km E of Ozernovskiy, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-14T18:14:43.040+00:00",
+        "fetched_at": "2026-08-14T18:23:07+00:00",
+        "summary": "Time 2026-08-14 17:47:42 UTC 2026-08-14 17:47:42 UTC at epicenter Location 51.371°N 158.869°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b5d8baf973ab065f9d53"
       },
       {
         "title": "M 4.9 - 19 km WSW of Divichibazar, Azerbaijan",
@@ -3045,6 +3081,42 @@
       "id": "867154c784d65cfd94e3"
     },
     {
+      "title": "M 4.5 - 165 km E of Ozernovskiy, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-14T18:14:43.040+00:00",
+      "fetched_at": "2026-08-14T18:23:07+00:00",
+      "summary": "Time 2026-08-14 17:47:42 UTC 2026-08-14 17:47:42 UTC at epicenter Location 51.371°N 158.869°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b5d8baf973ab065f9d53"
+    },
+    {
       "title": "M 4.9 - 19 km WSW of Divichibazar, Azerbaijan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3611,36 +3683,43 @@
   ],
   "new_findings": [
     {
-      "title": "Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog Atom",
+      "title": "M 4.5 - 165 km E of Ozernovskiy, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-14T16:17:46+00:00",
-      "fetched_at": "2026-08-14T17:59:37+00:00",
-      "summary": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed… The post Grok 4.6 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "published_at": "2026-08-14T18:14:43.040+00:00",
+      "fetched_at": "2026-08-14T18:23:07+00:00",
+      "summary": "Time 2026-08-14 17:47:42 UTC 2026-08-14 17:47:42 UTC at epicenter Location 51.371°N 158.869°E Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
-        "AI Agents",
-        "Copilot",
-        "GitHub"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9781cb4b8b63b0633ca3"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b5d8baf973ab065f9d53"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-14T18:00:18+00:00_
+_Generiert: 2026-08-14T18:23:43+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+74 neue relevante Treffer. Stärkstes Signal: „Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure“ aus e27 Asia Startup and Tech Feed (Score 21, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -278,6 +278,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 165 km E of Ozernovskiy, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-14T18:14:43.040+00:00`, fetched `2026-08-14T18:23:07+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-14 17:47:42 UTC 2026-08-14 17:47:42 UTC at epicenter Location 51.371°N 158.869°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 19 km WSW of Divichibazar, Azerbaijan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkrg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-14T17:09:40.040+00:00`, fetched `2026-08-14T17:16:20+00:00`
@@ -314,15 +323,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)
   - Kurz: Mythos級ローカルLLMまとめ - Kimi K3・Qwen3.8-Max・GLM-5.2・DeepSeek-V4 Flash 最近話題のMythos級ローカルLLM 「Kimi K3」「Qwen3.8-Max」「GLM-5.2」「DeepSeek-V4 Flash」についてまとめました。 1. はじめに2026年夏、オープンウェイトを中心としたLLMの性能が大きく伸びています。 Arena.aiのFrontend Code Aren...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **公募公告：防災庁のガバメントソリューションサービスへの移行に係るネットワーク環境構築及び保守を追加しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/a6ef7176-6cb9-42fe-bf1a-a70322f49800)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-14T06:00:00+00:00`, fetched `2026-08-14T06:03:19+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 公募公告：防災庁のガバメントソリューションサービスへの移行に係るネットワーク環境構築及び保守を追加しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -333,7 +333,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
