@@ -1,30 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-14T09:35:59Z",
+  "generated_at": "2026-08-14T10:06:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 34,
     "bands": {
-      "krass": 6,
-      "strong": 4,
+      "krass": 8,
+      "strong": 6,
       "watch": 2,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 9,
+      "krass": 2,
+      "strong": 12,
       "watch": 2,
       "quiet": 18
     }
   },
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Exim: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1505",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-14T09:51:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Exim ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2817",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T08:51:07+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -45,11 +70,85 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Rsync ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen."
     },
     {
+      "title": "[UPDATE] [hoch] HTTP/2-Implementierungen: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1791",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-14T09:51:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in verschiedenen HTTP/2-Implementierungen ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Rsync: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1611",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-14T09:51:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Rsync ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (Flatpak): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1732",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-14T09:51:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein authentisierter Angreifer kann mehrere Schwachstellen im Flatpak Paket von Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode auszuführen und um Dateien zu löschen."
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (gnome-remote-desktop): Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2829",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-14T08:51:07+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -75,7 +174,7 @@
       "url": "https://github.com/anthropics/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-14T04:16:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -101,7 +200,7 @@
       "url": "https://jvn.jp/vu/JVNVU97860021/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-14T09:30:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -126,7 +225,7 @@
       "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T03:00:37+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -153,7 +252,7 @@
       "url": "https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T06:30:58+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -180,7 +279,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 56.32,
+      "age_days": 56.34,
       "topics": [
         "ai"
       ],
@@ -209,7 +308,7 @@
       "url": "https://e27.co/the-new-ransomware-playbook-why-asean-banks-are-losing-the-disclosure-war-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T02:25:24+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -237,7 +336,7 @@
       "url": "https://e27.co/three-key-learnings-from-suiteworld-2025-why-context-not-automation-is-the-real-ai-prize-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T06:25:54+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -263,7 +362,7 @@
       "url": "https://e27.co/malaysias-venturetech-backs-move-robotic-recove-and-edote-with-us7m-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T05:30:58+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -290,7 +389,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tklc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-14T05:07:20.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -314,7 +413,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkkw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-14T01:28:59.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -338,7 +437,7 @@
       "url": "https://www.digital.go.jp/policies/electronic_invoice/84d11031-69a3-4c12-abd9-00ebdc23f290",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-14T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -362,7 +461,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T22:15:45+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -388,7 +487,7 @@
       "url": "https://anond.hatelabo.jp/20260814102216",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T01:26:51+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -412,7 +511,7 @@
       "url": "https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T01:44:19+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -438,7 +537,7 @@
       "url": "https://www.digital.go.jp/procurement/a6ef7176-6cb9-42fe-bf1a-a70322f49800",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-14T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -462,7 +561,7 @@
       "url": "https://github.com/cactus-compute/needle",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-14T04:16:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -487,7 +586,7 @@
       "url": "https://note.com/npaka/n/n1d08ec975c9f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-08T12:36:55+00:00",
-      "age_days": 5.87,
+      "age_days": 5.9,
       "topics": [
         "ai"
       ],
@@ -513,7 +612,7 @@
       "url": "https://e27.co/platform-illusions-when-ecosystem-is-just-a-feature-bundle-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T01:00:14+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -539,7 +638,7 @@
       "url": "https://e27.co/the-system-behind-the-smile-how-to-make-volunteer-efforts-sustainable-20260812/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T02:45:37+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -564,7 +663,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 55.28,
+      "age_days": 55.3,
       "topics": [
         "general"
       ],
@@ -589,7 +688,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 55.28,
+      "age_days": 55.3,
       "topics": [
         "general"
       ],
@@ -614,7 +713,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 55.28,
+      "age_days": 55.3,
       "topics": [
         "ai"
       ],
@@ -641,7 +740,7 @@
       "url": "https://e27.co/no-fans-no-fridges-just-paint-zercs-founder-on-cracking-seas-cooling-crisis-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T02:43:18+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -666,7 +765,7 @@
       "url": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T22:08:06+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -691,7 +790,7 @@
       "url": "https://e27.co/from-samsung-to-startups-kevin-chois-bet-on-ai-powered-software-creation-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T04:30:21+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -716,7 +815,7 @@
       "url": "https://digital-gov.note.jp/n/n56aaf580bfb6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-13T15:34:30+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "ai"
       ],
@@ -741,7 +840,7 @@
       "url": "https://github.com/unslothai/unsloth",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-14T04:16:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -767,7 +866,7 @@
       "url": "https://e27.co/pokemon-cards-gained-22-8-while-bitcoin-lost-20-7-and-that-gap-should-worry-every-investor-20260814/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-14T03:56:24+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -788,5 +887,5 @@
       "summary": "Cryptocurrency ecosystems currently present a fascinating study in shifting momentum and changing investor psychology. At the time of writing this analysis, the flagship digital token trades at US$63,480.75. Over the last 24 hours, the financial environment experienced microscopic upward movement. The primary cryptocu…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Rsync: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Exim: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
