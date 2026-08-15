@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T18:41:10+00:00",
-  "run_id": "2026-08-15T18:41:10+00:00",
+  "generated_at": "2026-08-15T18:54:19+00:00",
+  "run_id": "2026-08-15T18:54:19+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -2647,45 +2647,7 @@
       "id": "1e1f4b6d2192d049346c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.7 - 96 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-15T18:27:11.040+00:00",
-      "fetched_at": "2026-08-15T18:40:43+00:00",
-      "summary": "Time 2026-08-15 17:51:27 UTC 2026-08-15 17:51:27 UTC at epicenter Location 7.767°S 120.678°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "1092518a9eca8d0ce8de"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
