@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T06:26:58+00:00_
+_Generiert: 2026-08-15T06:45:18+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 62 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+19 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 62 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
