@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T12:29:35+00:00_
+_Generated: 2026-08-15T12:48:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-15T12:29:35+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk
 - summary: PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-08-15 10:54:52 UTC 2026-08-15 10:54:52 UTC at epicenter Location 3.018°N 99.038°E Depth 183.23 km (113.85 mi)
 
-### 3. M 5.1 - 39 km NNW of Ruteng, Indonesia
+### 3. M 5.2 - 78 km NW of Ende, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-15T12:31:02.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0v
+- summary: Time 2026-08-15 12:14:39 UTC 2026-08-15 12:14:39 UTC at epicenter Location 8.258°S 121.257°E Depth 10.00 km (6.21 mi)
+
+### 4. M 5.1 - 39 km NNW of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T10:51:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg
 - summary: Time 2026-08-15 10:31:30 UTC 2026-08-15 10:31:30 UTC at epicenter Location 8.264°S 120.368°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.6 - 122 km NW of Luwuk, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T10:06:23.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkya
-- summary: Time 2026-08-15 09:51:45 UTC 2026-08-15 09:51:45 UTC at epicenter Location 0.158°S 122.024°E Depth 272.76 km (169.48 mi)
 
 ### 5. M 4.9 - 63 km ESE of Yilan, Taiwan
 - source: USGS M4.5+ Earthquakes Past Hour
