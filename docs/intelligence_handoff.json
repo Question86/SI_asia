@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-15T21:02:59Z",
+  "generated_at": "2026-08-15T21:21:26Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.5 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T19:50:10.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://github.com/smicallef/spiderfoot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-15T02:36:40+00:00",
-      "age_days": 0.77,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "macro"
@@ -69,7 +69,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 57.79,
+      "age_days": 57.81,
       "topics": [
         "ai"
       ],
@@ -98,7 +98,7 @@
       "url": "https://ai.itokoba.com/archives/861/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:56:39+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "ai",
         "macro"
@@ -125,7 +125,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T11:19:41.929+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -147,11 +147,36 @@
       "summary": "PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-08-15 10:54:52 UTC 2026-08-15 10:54:52 UTC at epicenter Location 3.018°N 99.038°E Depth 183.23 km (113.85 mi)"
     },
     {
+      "title": "M 4.5 - 63 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-15T21:06:00.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-15 20:29:44 UTC 2026-08-15 20:29:44 UTC at epicenter Location 8.035°S 120.493°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 47 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl31",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T19:28:08.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -176,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T18:27:11.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -201,7 +226,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T18:18:48.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -226,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T17:53:13.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -251,7 +276,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T12:31:02.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -276,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T10:51:12.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -295,31 +320,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-15 10:31:30 UTC 2026-08-15 10:31:30 UTC at epicenter Location 8.264°S 120.368°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 65 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tky8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-15T09:49:10.040+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-15 09:32:53 UTC 2026-08-15 09:32:53 UTC at epicenter Location 8.281°S 121.488°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
