@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:13:56+00:00",
+  "generated_at": "2026-08-15T06:27:01+00:00",
   "sections": {
     "global_security": [
       {
@@ -13,7 +13,7 @@
         "metrics": {
           "mag": 7.7,
           "alert": "orange",
-          "sig": 1023.0,
+          "sig": 1024.0,
           "tsunami": 0
         }
       },
@@ -84,6 +84,16 @@
         "summary": "Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558059",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Japan",
+        "summary": "Green flood alert in Japan",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104090",
         "published_at": "",
         "metrics": {}
       },

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T06:13:52+00:00_
+_Generiert: 2026-08-15T06:26:58+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-08-15T06:13:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).
+- **GDACS: Green flood alert in Japan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104090)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Japan
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
   - Quelle: GDACS
   - Zeit: ``
