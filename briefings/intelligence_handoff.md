@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-15T13:51:33Z_
+_Generated: 2026-08-15T14:03:27Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-15T02:36:40+00:00` / age_days `0.47`
+- Published: `2026-08-15T02:36:40+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-15T03:56:39+00:00` / age_days `0.41`
+- Published: `2026-08-15T03:56:39+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T09:49:10.040+00:00` / age_days `0.17`
+- Published: `2026-08-15T09:49:10.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T06:10:51.926+00:00` / age_days `0.32`
+- Published: `2026-08-15T06:10:51.926+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T04:43:31.040+00:00` / age_days `0.38`
+- Published: `2026-08-15T04:43:31.040+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
