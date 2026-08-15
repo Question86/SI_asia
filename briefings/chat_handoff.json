@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-15T05:08:55+00:00",
+  "generated_at": "2026-08-15T05:18:51+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 9,
-    "observe": 7
+    "observe": 8
   },
-  "source_errors_count": 4,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "M 4.6 - 64 km NW of Ende, Indonesia",
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-15T01:37:14+00:00",
+      "relevance_score": 10,
+      "url": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
+      "summary": "Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...",
+      "section": "observe"
+    },
+    {
       "title": "M 5.3 - Balleny Islands region",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi",
       "summary": "Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-15T02:31:54+00:00",
-      "relevance_score": 5,
-      "url": "https://togetter.com/li/2733238",
-      "summary": "キニマンス塚本ニキ Nikki Tsukamoto Kininmonth @tsukaniki85 生成AIポスターを展示する飲食店が増えてるけど、私は極力そういう店には行かないようにしてる。 AIが出力したビジュアルや言葉を自分の目と感性で判断すらしようとしない人の料理には食指が動かない。 ちょっと変かもしれないけど、これくらい別にいいでし...",
       "section": "observe"
     }
   ],

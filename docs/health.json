@@ -1,42 +1,30 @@
 {
-  "generated_at": "2026-08-15T05:08:55+00:00",
+  "generated_at": "2026-08-15T05:18:51+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 9,
-    "observe": 7,
-    "source_errors": 4
+    "observe": 8,
+    "source_errors": 2
   },
   "source_errors": [
     {
       "source_id": "ecb_press_policy",
       "source_name": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)"
+      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f9685941190>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))"
     },
     {
       "source_id": "ecb_statistical_press",
       "source_name": "ECB Statistical Press Releases",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)"
-    },
-    {
-      "source_id": "ecb_open_market_operations",
-      "source_name": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/operations.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f898f3cf950>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))"
-    },
-    {
-      "source_id": "ecb_yield_curve",
-      "source_name": "ECB Euro Area Yield Curve",
-      "source_type": "rss",
-      "error": "502 Server Error: Bad Gateway for url: https://www.ecb.europa.eu/rss/yc.html"
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"

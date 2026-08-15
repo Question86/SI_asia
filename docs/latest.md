@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T05:08:55+00:00_
+_Generiert: 2026-08-15T05:18:51+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 64 km NW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 4 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+17 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 64 km NW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. SpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate. SpiderFoot has an embedded web-server for providing a clean and intuitive web-based interface but can also be used completel…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか** — Score 10, observation — [Quelle](https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-15T01:37:14+00:00`, fetched `2026-08-15T05:18:05+00:00`
+  - Treffer: GitHub Actions, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-15T00:58:24.040+00:00`, fetched `2026-08-15T01:08:15+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 8月13日、Jowi Moralesが「PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct」と題した記事を公開した。契約していたクラウドストレージベンダーが突然消滅し、70年分・50TB超のアーカイブデータへのアクセスを失った米PBS系列局の...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Opus 5 よりも Sonnet 5 を選ぶ理由——QCD を 240 試行で比較する（オトナの自由研究 #34）** — Score 5, observation — [Quelle](https://zenn.dev/nnakapa/articles/lab-34-opus5-sonnet5-qcd)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-14T00:44:29+00:00`, fetched `2026-08-15T00:22:34+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 3つの発見 1. 定番の DB 処理であれば、Opus 5 よりも Sonnet 5 のコストは約 1/2（$0.33 対 $0.59、同時間換算で約 2倍差）——ただし effort level は xhigh が必要 2. Sonnet 5 の合否は、罠に気づいたかどうか——effort level で上がるのは実装力ではなく「気づく確率」（40 試行全てで一致） 3. Opus 5 の失敗は逆——気...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **megadose/holehe** — Score 5, opportunity — [Quelle](https://github.com/megadose/holehe)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-15T02:36:40+00:00`
@@ -116,7 +116,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
-- `ecb_statistical_press` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
-- `ecb_open_market_operations` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/operations.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f898f3cf950>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))
-- `ecb_yield_curve` (rss): 502 Server Error: Bad Gateway for url: https://www.ecb.europa.eu/rss/yc.html
+- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f9685941190>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))
+- `ecb_statistical_press` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

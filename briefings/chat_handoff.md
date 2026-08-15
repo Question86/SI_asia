@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T05:08:55+00:00_
+_Generated: 2026-08-15T05:18:51+00:00_
 
 ## Status
 - status: `warning`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-15T05:08:55+00:00_
 - url: https://github.com/smicallef/spiderfoot
 - summary: SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. SpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis,…
 
-### 7. M 5.3 - Balleny Islands region
+### 7. 我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-08-15T01:37:14+00:00`
+- url: https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming
+- summary: Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...
+
+### 8. M 5.3 - Balleny Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-15T00:58:24.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi
 - summary: Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)
-
-### 8. 生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-15T02:31:54+00:00`
-- url: https://togetter.com/li/2733238
-- summary: キニマンス塚本ニキ Nikki Tsukamoto Kininmonth @tsukaniki85 生成AIポスターを展示する飲食店が増えてるけど、私は極力そういう店には行かないようにしてる。 AIが出力したビジュアルや言葉を自分の目と感性で判断すらしようとしない人の料理には食指が動かない。 ちょっと変かもしれないけど、これくらい別にいいでし...
 
 END OF DOCUMENT
