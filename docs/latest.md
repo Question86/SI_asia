@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T05:18:51+00:00_
+_Generiert: 2026-08-15T05:31:49+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 64 km NW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+17 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 64 km NW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -113,8 +113,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f9685941190>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))
-- `ecb_statistical_press` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

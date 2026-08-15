@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-08-15T05:18:51+00:00",
-  "status": "warning",
+  "generated_at": "2026-08-15T05:31:49+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
     "medium": 9,
     "observe": 8,
-    "source_errors": 2
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "ecb_press_policy",
-      "source_name": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f9685941190>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))"
-    },
-    {
-      "source_id": "ecb_statistical_press",
-      "source_name": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
