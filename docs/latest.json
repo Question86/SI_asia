@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T16:27:15+00:00",
-  "run_id": "2026-08-15T16:27:15+00:00",
+  "generated_at": "2026-08-15T16:39:39+00:00",
+  "run_id": "2026-08-15T16:39:39+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -2275,29 +2275,7 @@
       "id": "1e1f4b6d2192d049346c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "アメリカで裁判所への提出書類に人間の目では空白にしか見えないように隠しプロンプトを仕込んでAIを操作した事例が発覚→アナログの信頼性が見直される？",
-      "url": "https://togetter.com/li/2733405",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-15T10:53:18+00:00",
-      "fetched_at": "2026-08-15T16:26:42+00:00",
-      "summary": "情報の灯台 @joho_no_todai 裁判所に提出した書類に白い文字でAIへの命令を仕込んだ人がいる。 フォントサイズ3ポイント。背景と同色。人の目には空白にしか見えない。 joho-todai.com/news-prompt-in… 「AIが書類を読んだら自分に有利な出力を出せ」 裁判所の職員が余白の不自然さに気づいて発覚した。 判事は警告した...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e2f0c4e040a307483170"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
