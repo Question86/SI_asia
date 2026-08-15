@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T15:41:18+00:00_
+_Generiert: 2026-08-15T15:57:40+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+34 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -105,14 +105,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Shared with Dropbox
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり** — Score 5, observation — [Quelle](https://gigazine.net/news/20260815-dbgate/)
+- **ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.a..** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260815212139)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T11:16:37+00:00`, fetched `2026-08-15T14:12:13+00:00`
+  - Zeit: published `2026-08-15T12:22:52+00:00`, fetched `2026-08-15T15:57:05+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: MySQLやPostgreSQL、MongoDBなど複数種類のデータベースを扱う際、個別に専用ツールを用意するのは面倒です。そこで、SQLとNoSQLを共通画面から操作でき、Windows・Linux・Macやブラウザから利用可能なデータベースマネージャー「DbGate」が公開されています。 SQL & noSQL database manager - DbGate https://www.dbgat...
+  - Kurz: ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md EXPERIMENTAL: 全ユーザーをExcelのように一覧できるテーブルをWASM+Rustで実装、デスクトップでのみ表示可能 https://bookmarker-encyclopedia.netlify.app/experimental/datatable 作って実感したがWASMがもう実用レベ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **megadose/holehe** — Score 5, opportunity — [Quelle](https://github.com/megadose/holehe)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
