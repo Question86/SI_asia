@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T16:39:39+00:00_
+_Generated: 2026-08-15T16:50:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `36`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-15T16:39:39+00:00_
 - url: https://ai.itokoba.com/archives/861/
 - summary: こんにちは。AIを効率的に使うならSkillを入れた方がいいとよく言われていますよね。 実際、Agent Skillを探し始めるとかなりの数が見つかります。 ですが、何でもかんでも入れればいいというわけではありません。む […]
 
-### 2. M 6.9 - 7 km NNW of Pematangsiantar, Indonesia
+### 2. M 5.7 - 125 km NNE of Palu, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-08-15T16:48:34.608+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-15 16:25:18 UTC 2026-08-15 16:25:18 UTC at epicenter Location 0.154°N 120.257°E Depth 72.50 km (45.05 mi)
+
+### 3. M 6.9 - 7 km NNW of Pematangsiantar, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-08-15T11:19:41.929+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk
 - summary: PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-08-15 10:54:52 UTC 2026-08-15 10:54:52 UTC at epicenter Location 3.018°N 99.038°E Depth 183.23 km (113.85 mi)
 
-### 3. M 5.2 - 78 km NW of Ende, Indonesia
+### 4. M 5.2 - 78 km NW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T12:31:02.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0v
 - summary: Time 2026-08-15 12:14:39 UTC 2026-08-15 12:14:39 UTC at epicenter Location 8.258°S 121.257°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.1 - 39 km NNW of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T10:51:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg
-- summary: Time 2026-08-15 10:31:30 UTC 2026-08-15 10:31:30 UTC at epicenter Location 8.264°S 120.368°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 4.9 - 63 km ESE of Yilan, Taiwan
 - source: USGS M4.5+ Earthquakes Past Hour
