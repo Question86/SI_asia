@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T11:10:30+00:00_
+_Generiert: 2026-08-15T11:21:05+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+27 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-08-15T11:10:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Japan
+- **USGS earthquake M6.9 - 7 km NNW of Pematangsiantar, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk)
+  - Quelle: USGS
+  - Zeit: `2026-08-15T10:54:52+00:00`
+  - Kurz: M6.9 - 7 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-08-15T11:10:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557728)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -94,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: こんにちは。AIを効率的に使うならSkillを入れた方がいいとよく言われていますよね。 実際、Agent Skillを探し始めるとかなりの数が見つかります。 ですが、何でもかんでも入れればいいというわけではありません。む […]
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 6.9 - 7 km NNW of Pematangsiantar, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-15T11:19:41.929+00:00`, fetched `2026-08-15T11:20:36+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-08-15 10:54:52 UTC 2026-08-15 10:54:52 UTC at epicenter Location 3.018°N 99.038°E Depth 183.23 km (113.85 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 39 km NNW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-15T10:51:12.040+00:00`, fetched `2026-08-15T10:53:53+00:00`
@@ -111,15 +120,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-15 09:51:45 UTC 2026-08-15 09:51:45 UTC at epicenter Location 0.158°S 122.024°E Depth 272.76 km (169.48 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 65 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tky8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-15T09:49:10.040+00:00`, fetched `2026-08-15T09:55:28+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-15 09:32:53 UTC 2026-08-15 09:32:53 UTC at epicenter Location 8.281°S 121.488°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
