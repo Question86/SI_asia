@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T13:56:11+00:00_
+_Generiert: 2026-08-15T14:12:44+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+32 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり** — Score 5, observation — [Quelle](https://gigazine.net/news/20260815-dbgate/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-15T11:16:37+00:00`, fetched `2026-08-15T14:12:13+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: MySQLやPostgreSQL、MongoDBなど複数種類のデータベースを扱う際、個別に専用ツールを用意するのは面倒です。そこで、SQLとNoSQLを共通画面から操作でき、Windows・Linux・Macやブラウザから利用可能なデータベースマネージャー「DbGate」が公開されています。 SQL & noSQL database manager - DbGate https://www.dbgat...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **年収1億円プレイヤーが200ペタフロップスの推論エンジンになった話** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260815173709)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-15T08:42:45+00:00`, fetched `2026-08-15T12:48:04+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 39歳です。 先月まで外資系コンサルティング会社で働いていました。 年収は1億円です。 「1億円ほど」と書こうと思いましたが、源泉徴収票にきっちり100,000,000円と書いてあったので、ほどではありません。 会社からは「1億円プレイヤー」と呼ばれていました。 野球はできません。 キャッチボールをすると、ボールでは...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々** — Score 5, observation — [Quelle](https://togetter.com/li/2733238)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T02:31:54+00:00`, fetched `2026-08-15T04:05:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: キニマンス塚本ニキ Nikki Tsukamoto Kininmonth @tsukaniki85 生成AIポスターを展示する飲食店が増えてるけど、私は極力そういう店には行かないようにしてる。 AIが出力したビジュアルや言葉を自分の目と感性で判断すらしようとしない人の料理には食指が動かない。 ちょっと変かもしれないけど、これくらい別にいいでし...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **megadose/holehe** — Score 5, opportunity — [Quelle](https://github.com/megadose/holehe)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -132,7 +132,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
