@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T20:06:44+00:00_
+_Generiert: 2026-08-15T20:16:25+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,10 @@ _Generiert: 2026-08-15T20:06:44+00:00_
   - Quelle: USGS
   - Zeit: `2026-08-15T10:54:51+00:00`
   - Kurz: M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Volcano Islands, Japan Region 15/08/2026 19:32 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558582)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558582)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Volcano Islands, Japan Region 15/08/2026 19:32 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 650 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505)
   - Quelle: GDACS
   - Zeit: ``
