@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T13:46:22+00:00_
+_Generiert: 2026-08-15T13:56:11+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+31 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -132,3 +132,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
