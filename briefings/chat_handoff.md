@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T19:44:03+00:00_
+_Generated: 2026-08-15T19:51:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `41`
+- findings: `42`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-15T19:44:03+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk
 - summary: PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-08-15 10:54:52 UTC 2026-08-15 10:54:52 UTC at epicenter Location 3.018°N 99.038°E Depth 183.23 km (113.85 mi)
 
-### 4. M 4.5 - 47 km NNE of Ruteng, Indonesia
+### 4. M 5.5 - Volcano Islands, Japan region
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T19:28:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl31
-- summary: Time 2026-08-15 18:40:21 UTC 2026-08-15 18:40:21 UTC at epicenter Location 8.220°S 120.640°E Depth 10.00 km (6.21 mi)
+- score: `18`
+- published: `2026-08-15T19:50:10.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36
+- summary: Time 2026-08-15 19:32:30 UTC 2026-08-15 19:32:30 UTC at epicenter Location 23.446°N 142.787°E Depth 39.95 km (24.83 mi)
 
 ### 5. M 4.9 - 63 km ESE of Yilan, Taiwan
 - source: USGS M4.5+ Earthquakes Past Hour

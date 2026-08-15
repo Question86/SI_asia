@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:44:05+00:00",
+  "generated_at": "2026-08-15T19:51:59+00:00",
   "sections": {
     "global_security": [
       {
@@ -161,6 +161,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - Volcano Islands, Japan region",
+        "summary": "M5.5 - Volcano Islands, Japan region. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36",
+        "published_at": "2026-08-15T19:32:30+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
