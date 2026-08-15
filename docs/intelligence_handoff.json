@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-15T07:01:34Z",
+  "generated_at": "2026-08-15T07:23:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/smicallef/spiderfoot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-15T02:36:40+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -44,7 +44,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 57.21,
+      "age_days": 57.23,
       "topics": [
         "ai"
       ],
@@ -69,11 +69,61 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 46 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-15T06:59:38.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-15 06:43:07 UTC 2026-08-15 06:43:07 UTC at epicenter Location 8.238°S 120.652°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.1 - 71 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-15T06:45:05.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-15 06:28:51 UTC 2026-08-15 06:28:51 UTC at epicenter Location 8.267°S 121.366°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - 62 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T06:10:51.926+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -98,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T04:43:31.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -123,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T04:08:46.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -148,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T03:01:55.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -173,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T02:48:43.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -198,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T02:25:48.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -223,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:53:40.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -248,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:32:34.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -267,56 +317,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-15 01:17:20 UTC 2026-08-15 01:17:20 UTC at epicenter Location 8.009°S 120.689°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.7 - 16 km SSE of Tomioka, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-15T01:31:41.564+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "DYFI? - II Time 2026-08-15 01:10:51 UTC 2026-08-15 01:10:51 UTC at epicenter Location 37.208°N 141.114°E Depth 50.20 km (31.19 mi)"
-    },
-    {
-      "title": "M 5.1 - 71 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-15T01:02:17.040+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-15 00:40:18 UTC 2026-08-15 00:40:18 UTC at epicenter Location 8.248°S 121.416°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
