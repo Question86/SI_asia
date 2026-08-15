@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T21:17:49+00:00",
-  "run_id": "2026-08-15T21:17:49+00:00",
+  "generated_at": "2026-08-15T21:29:57+00:00",
+  "run_id": "2026-08-15T21:29:57+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 0,
@@ -2977,29 +2977,7 @@
       "id": "1e1f4b6d2192d049346c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "セールス主導開発の滑りやすい坂道 - ともにかける",
-      "url": "https://paper2.hatenablog.com/entry/2026/08/15/170823",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-15T13:55:39+00:00",
-      "fetched_at": "2026-08-15T21:17:21+00:00",
-      "summary": "本記事は、Rich Mironov 氏の The Slippery Slope of Sales-Led Development（2018-11-02）の日本語訳です。直訳ではなく、論点と口調が残るようにAIで意訳しています。公式訳ではありません。誤訳・ニュアンスのずれがあれば訳者の責任です。著者からAIで意訳すること含めて許可もいただいています。 www.mironov.com ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dd81bab0e1e7ca4fe103"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
