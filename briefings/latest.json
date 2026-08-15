@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T19:58:52+00:00",
-  "run_id": "2026-08-15T19:58:52+00:00",
+  "generated_at": "2026-08-15T20:06:44+00:00",
+  "run_id": "2026-08-15T20:06:44+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 43,
     "displayed_findings": 43,
     "high": 0,
@@ -2861,29 +2861,7 @@
       "id": "1e1f4b6d2192d049346c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "無題 - Write and Run",
-      "url": "https://diary.hatenablog.jp/entry/2026/08/15/235526",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-15T16:01:19+00:00",
-      "fetched_at": "2026-08-15T19:58:25+00:00",
-      "summary": "KOBA789 です。KOBA789 の 789 は平成7年8月9日に由来し、したがってこの前の日曜日に誕生日を迎え、31歳になったということです。 最近は忙しさの密度と長さが過去最高といった日々を過ごしており、Twitter しかり YouTube しかり、いまいち近況を伝えていなかったような気がします。 そしてぼちぼち今の会社に転職して...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "81679a40d2759ff371d3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
