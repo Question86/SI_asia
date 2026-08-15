@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T17:29:15+00:00_
+_Generiert: 2026-08-15T17:39:35+00:00_
 
 ## Kurzlage
 
@@ -33,42 +33,12 @@ _Generiert: 2026-08-15T17:29:15+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.8 million in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.8 million in MMI V.
-- **GDACS: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558059)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).
 - **USGS earthquake M6.9 - 15 km NNW of Pematangsiantar, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk)
   - Quelle: USGS
   - Zeit: `2026-08-15T10:54:51+00:00`
   - Kurz: M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 1 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558065)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 1 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557839)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f59807fa5d0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
