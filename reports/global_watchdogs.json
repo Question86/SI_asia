@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:59:05+00:00",
+  "generated_at": "2026-08-15T17:07:50+00:00",
   "sections": {
     "global_security": [
       {
@@ -99,16 +99,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Japan",
-        "summary": "Green flood alert in Japan",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104090",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.9 - 15 km NNW of Pematangsiantar, Indonesia",
         "summary": "M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.",
@@ -121,6 +111,16 @@
           "sig": 750.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
