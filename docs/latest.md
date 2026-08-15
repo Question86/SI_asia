@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T21:39:54+00:00_
+_Generiert: 2026-08-15T21:48:52+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+46 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果** — Score 8, observation — [Quelle](https://gigazine.net/news/20260815-ai-advice-suppresses-people-willingness-idk/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-15T02:33:53+00:00`, fetched `2026-08-15T21:48:20+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 生成AIはしばしば、聞かれたことに対して「分かりません」とは答えずに適当なでっち上げを返してくることがあります。生成AIを使う人間もこれに影響され、「分かりません」と言えなくなってしまっている可能性が見えてきました。 [2607.13562] AI advice suppresses people's willingness to say "I don't know", even w...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **無題 - Write and Run** — Score 5, observation — [Quelle](https://diary.hatenablog.jp/entry/2026/08/15/235526)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-15T16:01:19+00:00`, fetched `2026-08-15T19:58:25+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: KOBA789 です。KOBA789 の 789 は平成7年8月9日に由来し、したがってこの前の日曜日に誕生日を迎え、31歳になったということです。 最近は忙しさの密度と長さが過去最高といった日々を過ごしており、Twitter しかり YouTube しかり、いまいち近況を伝えていなかったような気がします。 そしてぼちぼち今の会社に転職して...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **セールス主導開発の滑りやすい坂道 - ともにかける** — Score 5, observation — [Quelle](https://paper2.hatenablog.com/entry/2026/08/15/170823)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T13:55:39+00:00`, fetched `2026-08-15T21:17:21+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 本記事は、Rich Mironov 氏の The Slippery Slope of Sales-Led Development（2018-11-02）の日本語訳です。直訳ではなく、論点と口調が残るようにAIで意訳しています。公式訳ではありません。誤訳・ニュアンスのずれがあれば訳者の責任です。著者からAIで意訳すること含めて許可もいただいています。 www.mironov.com ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **megadose/holehe** — Score 5, opportunity — [Quelle](https://github.com/megadose/holehe)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
