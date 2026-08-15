@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T10:45:34+00:00_
+_Generated: 2026-08-15T10:54:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-15T10:45:34+00:00_
 - url: https://ai.itokoba.com/archives/861/
 - summary: こんにちは。AIを効率的に使うならSkillを入れた方がいいとよく言われていますよね。 実際、Agent Skillを探し始めるとかなりの数が見つかります。 ですが、何でもかんでも入れればいいというわけではありません。む […]
 
-### 2. M 4.6 - 122 km NW of Luwuk, Indonesia
+### 2. M 5.1 - 39 km NNW of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-15T10:51:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg
+- summary: Time 2026-08-15 10:31:30 UTC 2026-08-15 10:31:30 UTC at epicenter Location 8.264°S 120.368°E Depth 10.00 km (6.21 mi)
+
+### 3. M 4.6 - 122 km NW of Luwuk, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T10:06:23.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkya
 - summary: Time 2026-08-15 09:51:45 UTC 2026-08-15 09:51:45 UTC at epicenter Location 0.158°S 122.024°E Depth 272.76 km (169.48 mi)
 
-### 3. M 4.9 - 65 km NNW of Ende, Indonesia
+### 4. M 4.9 - 65 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T09:49:10.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tky8
 - summary: Time 2026-08-15 09:32:53 UTC 2026-08-15 09:32:53 UTC at epicenter Location 8.281°S 121.488°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.1 - 71 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T07:56:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkx5
-- summary: Time 2026-08-15 07:39:38 UTC 2026-08-15 07:39:38 UTC at epicenter Location 8.045°S 120.777°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.4 - 38 km SSE of Severo-Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
