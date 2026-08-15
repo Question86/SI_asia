@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-08-15T21:56:57+00:00",
+  "generated_at": "2026-08-15T22:03:41+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "critical",
-        "title": "USGS earthquake M7.7 - 68 km NNW of Ende, Indonesia",
-        "summary": "M7.7 - 68 km NNW of Ende, Indonesia. PAGER alert: orange. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2",
-        "published_at": "2026-08-14T21:58:21+00:00",
-        "metrics": {
-          "mag": 7.7,
-          "alert": "orange",
-          "sig": 1032.0,
-          "tsunami": 0
-        }
-      },
       {
         "domain": "security",
         "severity": "high",

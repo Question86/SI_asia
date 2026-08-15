@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T21:56:54+00:00_
+_Generiert: 2026-08-15T22:03:37+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-08-15T21:56:54+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M7.7 - 68 km NNW of Ende, Indonesia** — critical — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2)
-  - Quelle: USGS
-  - Zeit: `2026-08-14T21:58:21+00:00`
-  - Kurz: M7.7 - 68 km NNW of Ende, Indonesia. PAGER alert: orange. Tsunami flag: 0.
 - **CISA KEV: CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-11`
