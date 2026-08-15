@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T18:13:05+00:00_
+_Generated: 2026-08-15T18:25:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `39`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-15T18:13:05+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk
 - summary: PAGER - GREEN ShakeMap - V DYFI? - II Time 2026-08-15 10:54:52 UTC 2026-08-15 10:54:52 UTC at epicenter Location 3.018°N 99.038°E Depth 183.23 km (113.85 mi)
 
-### 4. M 4.5 - 54 km NNW of Ende, Indonesia
+### 4. M 4.7 - 76 km N of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-15T17:53:13.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2p
-- summary: Time 2026-08-15 17:21:07 UTC 2026-08-15 17:21:07 UTC at epicenter Location 8.380°S 121.495°E Depth 10.00 km (6.21 mi)
+- published: `2026-08-15T18:18:48.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t
+- summary: Time 2026-08-15 17:44:14 UTC 2026-08-15 17:44:14 UTC at epicenter Location 7.926°S 120.412°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 4.9 - 63 km ESE of Yilan, Taiwan
 - source: USGS M4.5+ Earthquakes Past Hour
