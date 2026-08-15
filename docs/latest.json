@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T18:25:11+00:00",
-  "run_id": "2026-08-15T18:25:11+00:00",
+  "generated_at": "2026-08-15T18:41:10+00:00",
+  "run_id": "2026-08-15T18:41:10+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 22,
+    "medium": 23,
     "observe": 17,
     "source_errors": 0
   },
@@ -155,6 +155,43 @@
           "LOW"
         ],
         "id": "0cfd48c05c6b2f904144"
+      },
+      {
+        "title": "M 4.7 - 96 km NNE of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-15T18:27:11.040+00:00",
+        "fetched_at": "2026-08-15T18:40:43+00:00",
+        "summary": "Time 2026-08-15 17:51:27 UTC 2026-08-15 17:51:27 UTC at epicenter Location 7.767°S 120.678°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1092518a9eca8d0ce8de"
       },
       {
         "title": "M 4.7 - 76 km N of Ruteng, Indonesia",
@@ -1431,6 +1468,43 @@
       "id": "0cfd48c05c6b2f904144"
     },
     {
+      "title": "M 4.7 - 96 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-15T18:27:11.040+00:00",
+      "fetched_at": "2026-08-15T18:40:43+00:00",
+      "summary": "Time 2026-08-15 17:51:27 UTC 2026-08-15 17:51:27 UTC at epicenter Location 7.767°S 120.678°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1092518a9eca8d0ce8de"
+    },
+    {
       "title": "M 4.7 - 76 km N of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2575,13 +2649,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - 76 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t",
+      "title": "M 4.7 - 96 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-15T18:18:48.040+00:00",
-      "fetched_at": "2026-08-15T18:24:41+00:00",
-      "summary": "Time 2026-08-15 17:44:14 UTC 2026-08-15 17:44:14 UTC at epicenter Location 7.926°S 120.412°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-15T18:27:11.040+00:00",
+      "fetched_at": "2026-08-15T18:40:43+00:00",
+      "summary": "Time 2026-08-15 17:51:27 UTC 2026-08-15 17:51:27 UTC at epicenter Location 7.767°S 120.678°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
@@ -2609,7 +2683,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b057282a11c8ab602ea7"
+      "id": "1092518a9eca8d0ce8de"
     }
   ],
   "source_errors": [],
