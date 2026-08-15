@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-15T22:50:19Z",
+  "generated_at": "2026-08-15T23:21:17Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "strong": 26,
-      "watch": 6,
-      "quiet": 7
-    },
-    "bands_after_gate_recheck": {
       "strong": 27,
       "watch": 6,
-      "quiet": 7
+      "quiet": 6
+    },
+    "bands_after_gate_recheck": {
+      "strong": 28,
+      "watch": 6,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl36",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T19:50:10.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -44,11 +44,36 @@
       "summary": "Time 2026-08-15 19:32:30 UTC 2026-08-15 19:32:30 UTC at epicenter Location 23.446°N 142.787°E Depth 39.95 km (24.83 mi)"
     },
     {
+      "title": "M 5.4 - 19 km NE of Colonia, Micronesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl43",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-15T23:17:35.003+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - VI DYFI? - IV Time 2026-08-15 22:52:55 UTC 2026-08-15 22:52:55 UTC at epicenter Location 9.657°N 138.224°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-15T02:36:40+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "ai",
         "macro"
@@ -77,7 +102,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 57.87,
+      "age_days": 57.89,
       "topics": [
         "ai"
       ],
@@ -106,7 +131,7 @@
       "url": "https://ai.itokoba.com/archives/861/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:56:39+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai",
         "macro"
@@ -133,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T11:19:41.929+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -159,7 +184,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T21:06:00.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -184,7 +209,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl31",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T19:28:08.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -209,7 +234,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T18:27:11.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -234,7 +259,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T18:18:48.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -259,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T17:53:13.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -284,7 +309,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T12:31:02.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -309,7 +334,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T10:51:12.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -334,7 +359,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tky8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T09:49:10.040+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "disaster"
       ],
@@ -359,7 +384,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkx5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T07:56:30.040+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -384,7 +409,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T06:59:38.040+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -409,7 +434,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T06:45:05.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "disaster"
       ],
@@ -434,7 +459,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T06:10:51.926+00:00",
-      "age_days": 0.69,
+      "age_days": 0.72,
       "topics": [
         "disaster"
       ],
@@ -459,7 +484,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T04:43:31.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -484,7 +509,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T04:08:46.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "disaster"
       ],
@@ -509,7 +534,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T03:01:55.040+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "disaster"
       ],
@@ -534,7 +559,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T02:48:43.040+00:00",
-      "age_days": 0.83,
+      "age_days": 0.86,
       "topics": [
         "disaster"
       ],
@@ -559,7 +584,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T02:25:48.040+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "disaster"
       ],
@@ -584,7 +609,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:53:40.040+00:00",
-      "age_days": 0.87,
+      "age_days": 0.89,
       "topics": [
         "disaster"
       ],
@@ -609,7 +634,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:32:34.040+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "disaster"
       ],
@@ -634,7 +659,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:31:41.564+00:00",
-      "age_days": 0.89,
+      "age_days": 0.91,
       "topics": [
         "disaster"
       ],
@@ -659,7 +684,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:02:17.040+00:00",
-      "age_days": 0.91,
+      "age_days": 0.93,
       "topics": [
         "disaster"
       ],
@@ -684,7 +709,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl1s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T16:48:34.608+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -708,7 +733,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T11:29:56.240+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -733,7 +758,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkya",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T10:06:23.040+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "disaster"
       ],
@@ -757,7 +782,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T18:05:30.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -782,7 +807,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T00:58:24.040+00:00",
-      "age_days": 0.91,
+      "age_days": 0.93,
       "topics": [
         "disaster"
       ],
@@ -807,7 +832,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T01:03:49.775+00:00",
-      "age_days": 0.91,
+      "age_days": 0.93,
       "topics": [
         "disaster"
       ],
@@ -831,7 +856,7 @@
       "url": "https://github.com/megadose/holehe",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-15T02:36:40+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -857,7 +882,7 @@
       "url": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T01:37:14+00:00",
-      "age_days": 0.88,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -881,7 +906,7 @@
       "url": "https://anond.hatelabo.jp/20260815173709",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T08:42:45+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -905,7 +930,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-15T11:49:16.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "disaster"
@@ -932,7 +957,7 @@
       "url": "https://kawarimidoll.com/posts/202608152/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T20:36:32+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -959,7 +984,7 @@
       "url": "https://diary.hatenablog.jp/entry/2026/08/15/235526",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T16:01:19+00:00",
-      "age_days": 0.28,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -983,7 +1008,7 @@
       "url": "https://www.dropbox.com/scl/fi/2dz2rnch41n0ym6svx2v1/260815_.pdf?rlkey=79hr9bq43shkosbwhe93003lu&st=z03mvt95&e=1&dl=0",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T12:23:28+00:00",
-      "age_days": 0.44,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -1001,30 +1026,6 @@
         "no strong comparative reason"
       ],
       "summary": "Shared with Dropbox"
-    },
-    {
-      "title": "ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.a..",
-      "url": "https://anond.hatelabo.jp/20260815212139",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-15T12:22:52+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md EXPERIMENTAL: 全ユーザーをExcelのように一覧できるテーブルをWASM+Rustで実装、デスクトップでのみ表示可能 https://bookmarker-encyclopedia.netlify.app/experimental/datatable 作って実感したがWASMがもう実用レベ..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.5 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
