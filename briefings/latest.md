@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T21:48:52+00:00_
+_Generiert: 2026-08-15T21:56:54+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+47 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -178,14 +178,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 生成AIはしばしば、聞かれたことに対して「分かりません」とは答えずに適当なでっち上げを返してくることがあります。生成AIを使う人間もこれに影響され、「分かりません」と言えなくなってしまっている可能性が見えてきました。 [2607.13562] AI advice suppresses people's willingness to say "I don't know", even w...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無題 - Write and Run** — Score 5, observation — [Quelle](https://diary.hatenablog.jp/entry/2026/08/15/235526)
+- **開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも | kawarimidoll.com** — Score 5, observation — [Quelle](https://kawarimidoll.com/posts/202608152/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T16:01:19+00:00`, fetched `2026-08-15T19:58:25+00:00`
+  - Zeit: published `2026-08-15T20:36:32+00:00`, fetched `2026-08-15T21:56:21+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: KOBA789 です。KOBA789 の 789 は平成7年8月9日に由来し、したがってこの前の日曜日に誕生日を迎え、31歳になったということです。 最近は忙しさの密度と長さが過去最高といった日々を過ごしており、Twitter しかり YouTube しかり、いまいち近況を伝えていなかったような気がします。 そしてぼちぼち今の会社に転職して...
+  - Kurz: ローカル開発サーバーにHTTPSのドメインを割り当て、外への公開もできるCLIツールslimの紹介です。 Slim maps localhost to pretty .test domains with automatic HTTPS, SSL certificates, WebSocket & HMR support, path routing, and public URL tunnels via slim.show. Free, zero-config CLI built with Go for mac...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **megadose/holehe** — Score 5, opportunity — [Quelle](https://github.com/megadose/holehe)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

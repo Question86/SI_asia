@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T21:48:52+00:00",
-  "run_id": "2026-08-15T21:48:52+00:00",
+  "generated_at": "2026-08-15T21:56:54+00:00",
+  "run_id": "2026-08-15T21:56:54+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
     "medium": 26,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -1271,6 +1271,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05398cf47a77c481f7bd"
+      },
+      {
+        "title": "開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも | kawarimidoll.com",
+        "url": "https://kawarimidoll.com/posts/202608152/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-15T20:36:32+00:00",
+        "fetched_at": "2026-08-15T21:56:21+00:00",
+        "summary": "ローカル開発サーバーにHTTPSのドメインを割り当て、外への公開もできるCLIツールslimの紹介です。 Slim maps localhost to pretty .test domains with automatic HTTPS, SSL certificates, WebSocket & HMR support, path routing, and public URL tunnels via slim.show. Free, zero-config CLI built with Go for mac...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bad6eee7b022c20e9b88"
       },
       {
         "title": "無題 - Write and Run",
@@ -2769,6 +2790,27 @@
       "id": "05398cf47a77c481f7bd"
     },
     {
+      "title": "開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202608152/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-15T20:36:32+00:00",
+      "fetched_at": "2026-08-15T21:56:21+00:00",
+      "summary": "ローカル開発サーバーにHTTPSのドメインを割り当て、外への公開もできるCLIツールslimの紹介です。 Slim maps localhost to pretty .test domains with automatic HTTPS, SSL certificates, WebSocket & HMR support, path routing, and public URL tunnels via slim.show. Free, zero-config CLI built with Go for mac...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bad6eee7b022c20e9b88"
+    },
+    {
       "title": "無題 - Write and Run",
       "url": "https://diary.hatenablog.jp/entry/2026/08/15/235526",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3023,26 +3065,25 @@
   ],
   "new_findings": [
     {
-      "title": "AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果",
-      "url": "https://gigazine.net/news/20260815-ai-advice-suppresses-people-willingness-idk/",
+      "title": "開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202608152/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-15T02:33:53+00:00",
-      "fetched_at": "2026-08-15T21:48:20+00:00",
-      "summary": "生成AIはしばしば、聞かれたことに対して「分かりません」とは答えずに適当なでっち上げを返してくることがあります。生成AIを使う人間もこれに影響され、「分かりません」と言えなくなってしまっている可能性が見えてきました。 [2607.13562] AI advice suppresses people's willingness to say \"I don't know\", even w...",
+      "published_at": "2026-08-15T20:36:32+00:00",
+      "fetched_at": "2026-08-15T21:56:21+00:00",
+      "summary": "ローカル開発サーバーにHTTPSのドメインを割り当て、外への公開もできるCLIツールslimの紹介です。 Slim maps localhost to pretty .test domains with automatic HTTPS, SSL certificates, WebSocket & HMR support, path routing, and public URL tunnels via slim.show. Free, zero-config CLI built with Go for mac...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "05398cf47a77c481f7bd"
+      "id": "bad6eee7b022c20e9b88"
     }
   ],
   "source_errors": [],
