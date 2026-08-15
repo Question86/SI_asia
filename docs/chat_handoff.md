@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T11:21:05+00:00_
+_Generated: 2026-08-15T11:31:50+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `28`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-15T11:21:05+00:00_
 - url: https://github.com/smicallef/spiderfoot
 - summary: SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. SpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis,…
 
-### 7. 我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか
+### 7. M 5.4 - 41 km SSW of Angoram, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-15T11:29:56.240+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyz
+- summary: ShakeMap - IV Time 2026-08-15 11:10:24 UTC 2026-08-15 11:10:24 UTC at epicenter Location 4.411°S 143.921°E Depth 120.21 km (74.70 mi)
+
+### 8. 我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-08-15T01:37:14+00:00`
 - url: https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming
 - summary: Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...
-
-### 8. M 5.3 - Balleny Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-15T00:58:24.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi
-- summary: Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
