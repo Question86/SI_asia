@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T09:23:35+00:00_
+_Generiert: 2026-08-15T09:36:34+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „M 5.1 - 71 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+23 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】** — Score 23, observation — [Quelle](https://ai.itokoba.com/archives/861/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-15T03:56:39+00:00`, fetched `2026-08-15T09:36:00+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: こんにちは。AIを効率的に使うならSkillを入れた方がいいとよく言われていますよね。 実際、Agent Skillを探し始めるとかなりの数が見つかります。 ですが、何でもかんでも入れればいいというわけではありません。む […]
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.1 - 71 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkx5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-15T07:56:30.040+00:00`, fetched `2026-08-15T08:02:31+00:00`
@@ -108,6 +117,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
