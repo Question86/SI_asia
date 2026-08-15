@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-15T18:22:18Z_
+_Generated: 2026-08-15T18:41:32Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-15T02:36:40+00:00` / age_days `0.66`
+- Published: `2026-08-15T02:36:40+00:00` / age_days `0.67`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `57.68`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `57.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 57.7d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-15T03:56:39+00:00` / age_days `0.6`
+- Published: `2026-08-15T03:56:39+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,17 +42,37 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-15T11:19:41.929+00:00` / age_days `0.29`
+- Published: `2026-08-15T11:19:41.929+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk
 
+### M 4.7 - 96 km NNE of Ruteng, Indonesia
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-08-15T18:27:11.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2u
+
+### M 4.7 - 76 km N of Ruteng, Indonesia
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-08-15T18:18:48.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl2t
+
 ### M 4.5 - 54 km NNW of Ende, Indonesia
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T17:53:13.040+00:00` / age_days `0.02`
+- Published: `2026-08-15T17:53:13.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T12:31:02.040+00:00` / age_days `0.24`
+- Published: `2026-08-15T12:31:02.040+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T10:51:12.040+00:00` / age_days `0.31`
+- Published: `2026-08-15T10:51:12.040+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T09:49:10.040+00:00` / age_days `0.36`
+- Published: `2026-08-15T09:49:10.040+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T07:56:30.040+00:00` / age_days `0.43`
+- Published: `2026-08-15T07:56:30.040+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “smicallef/spiderfoot” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-15T06:59:38.040+00:00` / age_days `0.47`
+- Published: `2026-08-15T06:59:38.040+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwt
-
-### M 5.1 - 71 km NNW of Ende, Indonesia
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-08-15T06:45:05.040+00:00` / age_days `0.48`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwq
-
-### M 5.0 - 62 km NNW of Ende, Indonesia
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-08-15T06:10:51.926+00:00` / age_days `0.51`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj
 
 END OF DOCUMENT
