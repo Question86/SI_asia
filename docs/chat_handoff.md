@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T07:54:34+00:00_
+_Generated: 2026-08-15T08:03:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
-### 1. M 4.7 - 46 km NNE of Ruteng, Indonesia
+### 1. M 5.1 - 71 km NNE of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-15T07:56:30.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkx5
+- summary: Time 2026-08-15 07:39:38 UTC 2026-08-15 07:39:38 UTC at epicenter Location 8.045°S 120.777°E Depth 10.00 km (6.21 mi)
+
+### 2. M 4.7 - 46 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T06:59:38.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwt
 - summary: Time 2026-08-15 06:43:07 UTC 2026-08-15 06:43:07 UTC at epicenter Location 8.238°S 120.652°E Depth 10.00 km (6.21 mi)
 
-### 2. M 5.1 - 71 km NNW of Ende, Indonesia
+### 3. M 5.1 - 71 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T06:45:05.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwq
 - summary: Time 2026-08-15 06:28:51 UTC 2026-08-15 06:28:51 UTC at epicenter Location 8.267°S 121.366°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.0 - 62 km NNW of Ende, Indonesia
+### 4. M 5.0 - 62 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T06:10:51.926+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj
 - summary: DYFI? - II Time 2026-08-15 05:45:08 UTC 2026-08-15 05:45:08 UTC at epicenter Location 8.368°S 121.361°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.6 - 64 km NW of Ende, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T04:43:31.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwd
-- summary: Time 2026-08-15 04:23:07 UTC 2026-08-15 04:23:07 UTC at epicenter Location 8.399°S 121.285°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.4 - 38 km SSE of Severo-Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
