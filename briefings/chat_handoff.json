@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-15T22:54:23+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-08-15T23:02:15+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 47,
@@ -12,7 +12,7 @@
     "medium": 26,
     "observe": 21
   },
-  "source_errors_count": 0,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】",
