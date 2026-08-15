@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T06:45:18+00:00_
+_Generated: 2026-08-15T07:16:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
-### 1. M 5.0 - 62 km NNW of Ende, Indonesia
+### 1. M 4.7 - 46 km NNE of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-15T06:59:38.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwt
+- summary: Time 2026-08-15 06:43:07 UTC 2026-08-15 06:43:07 UTC at epicenter Location 8.238°S 120.652°E Depth 10.00 km (6.21 mi)
+
+### 2. M 5.1 - 71 km NNW of Ende, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-15T06:45:05.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwq
+- summary: Time 2026-08-15 06:28:51 UTC 2026-08-15 06:28:51 UTC at epicenter Location 8.267°S 121.366°E Depth 10.00 km (6.21 mi)
+
+### 3. M 5.0 - 62 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T06:10:51.926+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj
 - summary: DYFI? - II Time 2026-08-15 05:45:08 UTC 2026-08-15 05:45:08 UTC at epicenter Location 8.368°S 121.361°E Depth 10.00 km (6.21 mi)
 
-### 2. M 4.6 - 64 km NW of Ende, Indonesia
+### 4. M 4.6 - 64 km NW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-15T04:43:31.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwd
 - summary: Time 2026-08-15 04:23:07 UTC 2026-08-15 04:23:07 UTC at epicenter Location 8.399°S 121.285°E Depth 10.00 km (6.21 mi)
-
-### 3. M 5.0 - 67 km NNW of Ende, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T04:08:46.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw9
-- summary: Time 2026-08-15 03:54:13 UTC 2026-08-15 03:54:13 UTC at epicenter Location 8.320°S 121.346°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.9 - 69 km NNW of Ende, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-15T03:01:55.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkw2
-- summary: Time 2026-08-15 02:46:55 UTC 2026-08-15 02:46:55 UTC at epicenter Location 8.299°S 121.343°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.4 - 38 km SSE of Severo-Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
