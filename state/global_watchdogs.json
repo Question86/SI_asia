@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:30:06+00:00",
+  "generated_at": "2026-08-15T21:39:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -79,6 +79,26 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.8 million in MMI V.",
+        "summary": "Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.8 million in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).",
+        "summary": "Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558059",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.9 - 15 km NNW of Pematangsiantar, Indonesia",
         "summary": "M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.",
@@ -91,12 +111,71 @@
           "sig": 750.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558582",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 650 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 650 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 1 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 1 thousand in MMI VI.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558065",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062",
+        "published_at": "",
+        "metrics": {}
       }
     ],
     "global_economy": []
   },
   "source_errors": [
-    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fa72783da90>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
