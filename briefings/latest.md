@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T19:13:30+00:00_
+_Generiert: 2026-08-15T19:24:50+00:00_
 
 ## Kurzlage
 
@@ -65,10 +65,6 @@ _Generiert: 2026-08-15T19:13:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557839)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].
 
 ## Wirtschaft global
 
