@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:08:46+00:00",
-  "run_id": "2026-08-15T01:08:46+00:00",
+  "generated_at": "2026-08-15T01:45:24+00:00",
+  "run_id": "2026-08-15T01:45:24+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,91 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
-    "medium": 1,
+    "medium": 3,
     "observe": 3,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "M 5.1 - 71 km NNE of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-15T01:32:34.040+00:00",
+        "fetched_at": "2026-08-15T01:44:52+00:00",
+        "summary": "Time 2026-08-15 01:17:20 UTC 2026-08-15 01:17:20 UTC at epicenter Location 8.009°S 120.689°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b6fcdaab7d0e758f89c9"
+      },
+      {
+        "title": "M 4.7 - 16 km SSE of Tomioka, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvn",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-15T01:31:41.564+00:00",
+        "fetched_at": "2026-08-15T01:44:52+00:00",
+        "summary": "DYFI? - II Time 2026-08-15 01:10:51 UTC 2026-08-15 01:10:51 UTC at epicenter Location 37.208°N 141.114°E Depth 50.20 km (31.19 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7a8642f92df63a131c67"
+      },
       {
         "title": "M 5.1 - 71 km NNW of Ende, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh",
@@ -167,6 +241,80 @@
   },
   "findings": [
     {
+      "title": "M 5.1 - 71 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-15T01:32:34.040+00:00",
+      "fetched_at": "2026-08-15T01:44:52+00:00",
+      "summary": "Time 2026-08-15 01:17:20 UTC 2026-08-15 01:17:20 UTC at epicenter Location 8.009°S 120.689°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b6fcdaab7d0e758f89c9"
+    },
+    {
+      "title": "M 4.7 - 16 km SSE of Tomioka, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-15T01:31:41.564+00:00",
+      "fetched_at": "2026-08-15T01:44:52+00:00",
+      "summary": "DYFI? - II Time 2026-08-15 01:10:51 UTC 2026-08-15 01:10:51 UTC at epicenter Location 37.208°N 141.114°E Depth 50.20 km (31.19 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7a8642f92df63a131c67"
+    },
+    {
       "title": "M 5.1 - 71 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -301,13 +449,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.1 - 71 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvh",
+      "title": "M 5.1 - 71 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-15T01:02:17.040+00:00",
-      "fetched_at": "2026-08-15T01:08:15+00:00",
-      "summary": "Time 2026-08-15 00:40:18 UTC 2026-08-15 00:40:18 UTC at epicenter Location 8.248°S 121.416°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-15T01:32:34.040+00:00",
+      "fetched_at": "2026-08-15T01:44:52+00:00",
+      "summary": "Time 2026-08-15 01:17:20 UTC 2026-08-15 01:17:20 UTC at epicenter Location 8.009°S 120.689°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
@@ -335,60 +483,23 @@
         "HD",
         "LOW"
       ],
-      "id": "374cbc351b2eafcbb867"
+      "id": "b6fcdaab7d0e758f89c9"
     },
     {
-      "title": "M 5.4 - 38 km SSE of Severo-Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvj",
+      "title": "M 4.7 - 16 km SSE of Tomioka, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-15T01:03:49.775+00:00",
-      "fetched_at": "2026-08-15T01:08:15+00:00",
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-15 00:43:29 UTC 2026-08-15 00:43:29 UTC at epicenter Location 50.375°N 156.386°E Depth 78.98 km (49.08 mi)",
+      "published_at": "2026-08-15T01:31:41.564+00:00",
+      "fetched_at": "2026-08-15T01:44:52+00:00",
+      "summary": "DYFI? - II Time 2026-08-15 01:10:51 UTC 2026-08-15 01:10:51 UTC at epicenter Location 37.208°N 141.114°E Depth 50.20 km (31.19 mi)",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "PAGER",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "317cc448025ee088d344"
-    },
-    {
-      "title": "M 5.3 - Balleny Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-15T00:58:24.040+00:00",
-      "fetched_at": "2026-08-15T01:08:15+00:00",
-      "summary": "Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -409,7 +520,7 @@
         "HD",
         "LOW"
       ],
-      "id": "b1088cff51482f6e3975"
+      "id": "7a8642f92df63a131c67"
     }
   ],
   "source_errors": [],
