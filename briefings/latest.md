@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T03:52:08+00:00_
+_Generiert: 2026-08-15T04:06:11+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 69 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+14 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 69 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -138,6 +138,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々** — Score 5, observation — [Quelle](https://togetter.com/li/2733238)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-15T02:31:54+00:00`, fetched `2026-08-15T04:05:40+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: キニマンス塚本ニキ Nikki Tsukamoto Kininmonth @tsukaniki85 生成AIポスターを展示する飲食店が増えてるけど、私は極力そういう店には行かないようにしてる。 AIが出力したビジュアルや言葉を自分の目と感性で判断すらしようとしない人の料理には食指が動かない。 ちょっと変かもしれないけど、これくらい別にいいでし...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **クラウドベンダーが突然消滅、PBS系列局が70年分・50TBの放送アーカイブにアクセス不能に — バックアップなしで法廷闘争へ** — Score 5, observation — [Quelle](https://techfeed.io/entries/6a7e3a5aec7a075ad3292ac1)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-14T15:26:09+00:00`, fetched `2026-08-15T02:36:40+00:00`

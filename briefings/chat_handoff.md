@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-15T03:52:08+00:00_
+_Generated: 2026-08-15T04:06:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-15T03:52:08+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi
 - summary: Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)
 
-### 8. クラウドベンダーが突然消滅、PBS系列局が70年分・50TBの放送アーカイブにアクセス不能に — バックアップなしで法廷闘争へ
+### 8. 生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-08-14T15:26:09+00:00`
-- url: https://techfeed.io/entries/6a7e3a5aec7a075ad3292ac1
-- summary: 8月13日、Jowi Moralesが「PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct」と題した記事を公開した。契約していたクラウドストレージベンダーが突然消滅し、70年分・50TB超のアーカイブデータへのアクセスを失った米PBS系列局の...
+- published: `2026-08-15T02:31:54+00:00`
+- url: https://togetter.com/li/2733238
+- summary: キニマンス塚本ニキ Nikki Tsukamoto Kininmonth @tsukaniki85 生成AIポスターを展示する飲食店が増えてるけど、私は極力そういう店には行かないようにしてる。 AIが出力したビジュアルや言葉を自分の目と感性で判断すらしようとしない人の料理には食指が動かない。 ちょっと変かもしれないけど、これくらい別にいいでし...
 
 END OF DOCUMENT
