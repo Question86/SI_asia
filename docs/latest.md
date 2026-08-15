@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T11:40:28+00:00_
+_Generiert: 2026-08-15T11:57:09+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+29 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.9 - 63 km ESE of Yilan, Taiwan** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl0a)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-15T11:49:16.040+00:00`, fetched `2026-08-15T11:56:40+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-15 11:30:15 UTC 2026-08-15 11:30:15 UTC at epicenter Location 24.473°N 122.293°E Depth 66.36 km (41.23 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.4 - 38 km SSE of Severo-Kuril’sk, Russia** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvj)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-15T01:03:49.775+00:00`, fetched `2026-08-15T01:08:15+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れる。レスポンスを全部メモリへ載せる。DBのSELECTを順番に待つ。Cronで全件...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - Balleny Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkvi)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-15T00:58:24.040+00:00`, fetched `2026-08-15T01:08:15+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-15 00:40:13 UTC 2026-08-15 00:40:13 UTC at epicenter Location 62.913°S 165.890°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **生成AIポスターを展示する飲食店が増えているが、極力そういう店には行かないようにしている…「これくらい別にいいでしょ？」とバカにされていると感じる→共感の声が続々** — Score 5, observation — [Quelle](https://togetter.com/li/2733238)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-15T02:31:54+00:00`, fetched `2026-08-15T04:05:40+00:00`
