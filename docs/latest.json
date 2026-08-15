@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T11:31:50+00:00",
-  "run_id": "2026-08-15T11:31:50+00:00",
+  "generated_at": "2026-08-15T11:40:28+00:00",
+  "run_id": "2026-08-15T11:40:28+00:00",
   "date": "2026-08-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -1917,45 +1917,7 @@
       "id": "1e1f4b6d2192d049346c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.4 - 41 km SSW of Angoram, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-15T11:29:56.240+00:00",
-      "fetched_at": "2026-08-15T11:31:19+00:00",
-      "summary": "ShakeMap - IV Time 2026-08-15 11:10:24 UTC 2026-08-15 11:10:24 UTC at epicenter Location 4.411°S 143.921°E Depth 120.21 km (74.70 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "b49468a12bb5a246e3cf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
