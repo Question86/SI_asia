@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T04:58:25+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-15T05:08:55+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 16,
@@ -11,8 +11,33 @@
     "high": 0,
     "medium": 9,
     "observe": 7,
-    "source_errors": 0
+    "source_errors": 4
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "ecb_press_policy",
+      "source_name": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "ecb_statistical_press",
+      "source_name": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "ecb_open_market_operations",
+      "source_name": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/operations.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f898f3cf950>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))"
+    },
+    {
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
+      "source_type": "rss",
+      "error": "502 Server Error: Bad Gateway for url: https://www.ecb.europa.eu/rss/yc.html"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

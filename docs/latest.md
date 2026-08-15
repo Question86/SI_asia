@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T04:58:25+00:00_
+_Generiert: 2026-08-15T05:08:55+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 64 km NW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+16 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 64 km NW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 4 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -113,3 +113,10 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
+- `ecb_statistical_press` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Read timed out. (read timeout=8)
+- `ecb_open_market_operations` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/operations.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ecb.europa.eu', port=443) at 0x7f898f3cf950>, 'Connection to www.ecb.europa.eu timed out. (connect timeout=8)'))
+- `ecb_yield_curve` (rss): 502 Server Error: Bad Gateway for url: https://www.ecb.europa.eu/rss/yc.html
