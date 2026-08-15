@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T21:07:56+00:00_
+_Generiert: 2026-08-15T21:17:49+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+45 neue relevante Treffer. Stärkstes Signal: „AIを使っているなら全員入れるべきAgent Skill 4選【ChatGPT / Codex / Claude Code】“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -178,14 +178,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: KOBA789 です。KOBA789 の 789 は平成7年8月9日に由来し、したがってこの前の日曜日に誕生日を迎え、31歳になったということです。 最近は忙しさの密度と長さが過去最高といった日々を過ごしており、Twitter しかり YouTube しかり、いまいち近況を伝えていなかったような気がします。 そしてぼちぼち今の会社に転職して...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **260815_超かぐや姫おつかれさま本.pdf** — Score 5, observation — [Quelle](https://www.dropbox.com/scl/fi/2dz2rnch41n0ym6svx2v1/260815_.pdf?rlkey=79hr9bq43shkosbwhe93003lu&st=z03mvt95&e=1&dl=0)
+- **セールス主導開発の滑りやすい坂道 - ともにかける** — Score 5, observation — [Quelle](https://paper2.hatenablog.com/entry/2026/08/15/170823)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T12:23:28+00:00`, fetched `2026-08-15T15:10:09+00:00`
+  - Zeit: published `2026-08-15T13:55:39+00:00`, fetched `2026-08-15T21:17:21+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Shared with Dropbox
+  - Kurz: 本記事は、Rich Mironov 氏の The Slippery Slope of Sales-Led Development（2018-11-02）の日本語訳です。直訳ではなく、論点と口調が残るようにAIで意訳しています。公式訳ではありません。誤訳・ニュアンスのずれがあれば訳者の責任です。著者からAIで意訳すること含めて許可もいただいています。 www.mironov.com ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **megadose/holehe** — Score 5, opportunity — [Quelle](https://github.com/megadose/holehe)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
