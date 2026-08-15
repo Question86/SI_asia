@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-15T04:17:13+00:00_
+_Generiert: 2026-08-15T04:31:10+00:00_
 
 ## Kurzlage
 
@@ -33,8 +33,38 @@ _Generiert: 2026-08-15T04:17:13+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f809b9aca50>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558059)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 1 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558065)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 1 thousand in MMI VI.
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557839)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Kermadec Islands Region 13/08/2026 16:11 UTC, [unknown].
+- **GDACS: Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001304)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1557728)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.
 
 ## Wirtschaft global
 
