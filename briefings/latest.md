@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T03:11:11+00:00_
+_Generiert: 2026-08-16T03:51:19+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+10 neue relevante Treffer. Stärkstes Signal: „GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,10 +37,18 @@ _Generiert: 2026-08-16T03:11:11+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.2 million (in MMI&gt;=VII).
+- **USGS earthquake M6.1 - 56 km NNE of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w)
+  - Quelle: USGS
+  - Zeit: `2026-08-16T03:20:24+00:00`
+  - Kurz: M6.1 - 56 km NNE of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.9 - 15 km NNW of Pematangsiantar, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk)
   - Quelle: USGS
   - Zeit: `2026-08-15T10:54:51+00:00`
   - Kurz: M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558766)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558582)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,10 +69,6 @@ _Generiert: 2026-08-16T03:11:11+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
@@ -102,6 +106,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.1 - 56 km NNE of Port-Olry, Vanuatu** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-16T03:44:29.471+00:00`, fetched `2026-08-16T03:50:49+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-08-16 03:20:24 UTC 2026-08-16 03:20:24 UTC at epicenter Location 14.547°S 167.193°E Depth 188.15 km (116.91 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **cursor/plugins** — Score 7, opportunity — [Quelle](https://github.com/cursor/plugins)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`
@@ -120,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい** — Score 5, observation — [Quelle](https://togetter.com/li/2733352)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-15T14:31:02+00:00`, fetched `2026-08-16T03:50:49+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **人権作文コンテストで内閣総理大臣賞を獲る13ヶ条！｜星野俊樹「とびこえる教室」** — Score 5, observation — [Quelle](https://note.com/toshiki_hoshino/n/n31b739741231)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-15T12:31:29+00:00`, fetched `2026-08-16T02:22:52+00:00`
@@ -128,15 +150,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: （１）導入は必ず「身近な人」から始めよ社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなたの半径5メートル以内に、都合よく人権問題を体現してくれる存在がいることが前提条件である。いなければ探せ。...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か - AUTOMATON** — Score 5, observation — [Quelle](https://automaton-media.com/articles/newsjp/20260815-460351/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T12:12:08+00:00`, fetched `2026-08-16T01:52:18+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 生成AIのゲーム利用については物議をかもすことが多い。ゲーム制作においては、汎用ゲームエンジンでも開発支援ツールなどで活用される一方で、開発者のあいだでも批判的な見方も示されていることがある。そうしたゲーム制作における生成AI利用について8月12日、「プレイヤー反応が何故良くないのか」を分析した研究が発...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-16T03:11:11+00:00_
+_Generated: 2026-08-16T03:51:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -22,32 +22,32 @@ _Generated: 2026-08-16T03:11:11+00:00_
 - url: https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html
 - summary: AI Agentに指示を与えるために音声入力を使うことが増えてきたので、フットペダルを導入した。左手デバイスで有名なStream Deckシリーズのこのフットペダル。 Elgato フットペダル型 Stream Deck/ハンズフリー 配信/ワンタッチ配信/Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue対応/Wind...
 
-### 3. cursor/plugins
+### 3. M 6.1 - 56 km NNE of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-16T03:44:29.471+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-08-16 03:20:24 UTC 2026-08-16 03:20:24 UTC at epicenter Location 14.547°S 167.193°E Depth 188.15 km (116.91 mi)
+
+### 4. cursor/plugins
 - source: GitHub Trending RSS All Languages Daily
 - score: `7`
 - published: `None`
 - url: https://github.com/cursor/plugins
 - summary: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest.…
 
-### 4. テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中
+### 5. テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-08-15T23:30:18+00:00`
 - url: https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/
 - summary: アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分...
 
-### 5. 人権作文コンテストで内閣総理大臣賞を獲る13ヶ条！｜星野俊樹「とびこえる教室」
+### 6. アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-08-15T12:31:29+00:00`
-- url: https://note.com/toshiki_hoshino/n/n31b739741231
-- summary: （１）導入は必ず「身近な人」から始めよ社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなたの半径5メートル以内に、都合よく人権問題を体現してくれる存在がいることが前提条件である。いなければ探せ。...
-
-### 6. Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か - AUTOMATON
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-15T12:12:08+00:00`
-- url: https://automaton-media.com/articles/newsjp/20260815-460351/
-- summary: 生成AIのゲーム利用については物議をかもすことが多い。ゲーム制作においては、汎用ゲームエンジンでも開発支援ツールなどで活用される一方で、開発者のあいだでも批判的な見方も示されていることがある。そうしたゲーム制作における生成AI利用について8月12日、「プレイヤー反応が何故良くないのか」を分析した研究が発...
+- published: `2026-08-15T14:31:02+00:00`
+- url: https://togetter.com/li/2733352
+- summary: アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい
 
 END OF DOCUMENT
