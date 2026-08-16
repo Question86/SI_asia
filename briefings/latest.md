@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T12:17:12+00:00_
+_Generiert: 2026-08-16T12:31:46+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+23 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -183,14 +183,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0)
   - Kurz: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven me…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe)
+- **AIがコードを書くなら、もう勉強しなくていい？AI時代に基礎を学ぶ理由 | ドクセル** — Score 5, observation — [Quelle](https://www.docswell.com/s/magurotuna/53J4YJ-2026-08-16-aiau-craft-day)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-16T06:36:58+00:00`, fetched `2026-08-16T09:45:19+00:00`
+  - Zeit: published `2026-08-16T08:10:05+00:00`, fetched `2026-08-16T12:31:15+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
+  - Kurz: 2026/08/16 3日間でアプリ・サービスをローンチせよ！AIAU Craft Day https://aiau.connpass.com/event/401500/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
