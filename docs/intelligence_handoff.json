@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-16T11:21:25Z",
+  "generated_at": "2026-08-16T11:35:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.39,
+      "age_days": 58.4,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:50:40.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:33:42.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -120,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -145,7 +145,7 @@
       "url": "https://github.com/cursor/plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -169,11 +169,36 @@
       "summary": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from market…"
     },
     {
+      "title": "M 5.1 - 112 km ESE of Madang, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-16T11:25:45.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-16 10:59:10 UTC 2026-08-16 10:59:10 UTC at epicenter Location 5.548°S 146.748°E Depth 138.74 km (86.21 mi)"
+    },
+    {
       "title": "M 4.6 - 68 km ESE of Madang, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T08:39:46.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -198,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:44:29.471+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -222,7 +247,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 40.27,
+      "age_days": 40.28,
       "topics": [
         "ai",
         "macro"
@@ -250,7 +275,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.33,
+      "age_days": 1.34,
       "topics": [
         "ai"
       ],
@@ -276,7 +301,7 @@
       "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T15:03:55+00:00",
-      "age_days": 1.85,
+      "age_days": 1.86,
       "topics": [
         "ai"
       ],
@@ -295,30 +320,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "AI Agentに指示を与えるために音声入力を使うことが増えてきたので、フットペダルを導入した。左手デバイスで有名なStream Deckシリーズのこのフットペダル。 Elgato フットペダル型 Stream Deck/ハンズフリー 配信/ワンタッチ配信/Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue対応/Wind..."
-    },
-    {
-      "title": "なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？",
-      "url": "https://zenn.dev/pdfractal/articles/c7af0a168c0552",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-16T03:25:37+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や..."
     }
   ],
   "read_order": [
@@ -331,8 +332,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 2,
-      "quiet": 4
+      "watch": 3,
+      "quiet": 3
     }
   }
 }

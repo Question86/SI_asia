@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-16T11:21:25Z",
+  "generated_at": "2026-08-16T11:35:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 25,
     "bands": {
       "strong": 6,
-      "watch": 2,
+      "watch": 3,
       "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 2,
+      "watch": 3,
       "quiet": 16
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.39,
+      "age_days": 58.4,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:50:40.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:33:42.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://github.com/cursor/plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -176,11 +176,36 @@
       "summary": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from market…"
     },
     {
+      "title": "M 5.1 - 112 km ESE of Madang, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-16T11:25:45.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-16 10:59:10 UTC 2026-08-16 10:59:10 UTC at epicenter Location 5.548°S 146.748°E Depth 138.74 km (86.21 mi)"
+    },
+    {
       "title": "M 4.6 - 68 km ESE of Madang, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T08:39:46.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -205,7 +230,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:44:29.471+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "disaster"
       ],
@@ -229,7 +254,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 40.27,
+      "age_days": 40.28,
       "topics": [
         "ai",
         "macro"
@@ -257,7 +282,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.33,
+      "age_days": 1.34,
       "topics": [
         "ai"
       ],
@@ -283,7 +308,7 @@
       "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T15:03:55+00:00",
-      "age_days": 1.85,
+      "age_days": 1.86,
       "topics": [
         "ai"
       ],
@@ -308,7 +333,7 @@
       "url": "https://zenn.dev/pdfractal/articles/c7af0a168c0552",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T03:25:37+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -332,7 +357,7 @@
       "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T23:30:18+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -356,7 +381,7 @@
       "url": "https://togetter.com/li/2733352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T14:31:02+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -380,7 +405,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T02:23:01+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -405,7 +430,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -432,7 +457,7 @@
       "url": "https://github.com/cordiverse/cordis",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -458,7 +483,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.36,
+      "age_days": 57.37,
       "topics": [
         "general"
       ],
@@ -483,7 +508,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.36,
+      "age_days": 57.37,
       "topics": [
         "general"
       ],
@@ -508,7 +533,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.36,
+      "age_days": 57.37,
       "topics": [
         "ai"
       ],
@@ -535,7 +560,7 @@
       "url": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T06:36:58+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -560,7 +585,7 @@
       "url": "https://togetter.com/li/2733655",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T03:54:10+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -585,7 +610,7 @@
       "url": "https://note.com/toshiki_hoshino/n/n31b739741231",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T12:31:29+00:00",
-      "age_days": 0.95,
+      "age_days": 0.96,
       "topics": [
         "ai"
       ],
@@ -610,7 +635,7 @@
       "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T12:12:08+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
