@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-16T13:52:17Z",
+  "generated_at": "2026-08-16T14:04:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 29,
+    "dynamics": 30,
     "bands": {
-      "strong": 8,
+      "strong": 9,
       "watch": 3,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
+      "strong": 9,
       "watch": 3,
       "quiet": 18
     }
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -73,11 +73,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - 81 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e86",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-16T13:57:43.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-16 13:38:39 UTC 2026-08-16 13:38:39 UTC at epicenter Location 7.918°S 120.717°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.5 - 119 km N of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T13:27:48.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -152,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:33:42.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -177,7 +202,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -202,7 +227,7 @@
       "url": "https://github.com/cursor/plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -230,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T11:25:45.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -255,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T08:39:46.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -280,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:44:29.471+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -332,7 +357,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.43,
+      "age_days": 1.44,
       "topics": [
         "ai"
       ],
@@ -358,7 +383,7 @@
       "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T15:03:55+00:00",
-      "age_days": 1.95,
+      "age_days": 1.96,
       "topics": [
         "ai"
       ],
@@ -407,7 +432,7 @@
       "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T23:30:18+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -431,7 +456,7 @@
       "url": "https://togetter.com/li/2733352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T14:31:02+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "general"
       ],
@@ -455,7 +480,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T02:23:01+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -480,7 +505,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -507,7 +532,7 @@
       "url": "https://github.com/cordiverse/cordis",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -533,7 +558,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.46,
+      "age_days": 57.47,
       "topics": [
         "general"
       ],
@@ -558,7 +583,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.46,
+      "age_days": 57.47,
       "topics": [
         "general"
       ],
@@ -583,7 +608,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.46,
+      "age_days": 57.47,
       "topics": [
         "ai"
       ],
@@ -610,7 +635,7 @@
       "url": "https://anond.hatelabo.jp/20260816172202",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T08:28:20+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -635,7 +660,7 @@
       "url": "https://www.docswell.com/s/magurotuna/53J4YJ-2026-08-16-aiau-craft-day",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T08:10:05+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -660,7 +685,7 @@
       "url": "https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T06:36:58+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -735,7 +760,7 @@
       "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T12:12:08+00:00",
-      "age_days": 1.07,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
