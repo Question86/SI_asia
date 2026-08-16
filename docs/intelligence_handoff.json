@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-16T13:23:50Z",
+  "generated_at": "2026-08-16T13:39:40Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.48,
+      "age_days": 58.49,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -66,11 +66,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.5 - 119 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7x",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-16T13:27:48.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-16 12:37:51 UTC 2026-08-16 12:37:51 UTC at epicenter Location 7.542°S 120.590°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 112 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T11:33:20.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -95,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:50:40.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -120,7 +145,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:33:42.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -145,7 +170,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -170,7 +195,7 @@
       "url": "https://github.com/cursor/plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "macro"
@@ -198,7 +223,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T11:25:45.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -223,7 +248,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T08:39:46.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -248,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:44:29.471+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -272,7 +297,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 40.36,
+      "age_days": 40.37,
       "topics": [
         "ai",
         "macro"
@@ -294,32 +319,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "(-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, You..."
-    },
-    {
-      "title": "なぜ日本企業のAI導入はこんなに遅いのか？｜中島聡",
-      "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.41,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 Why Japanese firms are being so slow to use AI 深刻な人手不足も、高齢化..."
     }
   ],
   "read_order": [
@@ -331,9 +330,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 8,
       "watch": 3,
-      "quiet": 2
+      "quiet": 1
     }
   }
 }
