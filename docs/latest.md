@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T02:23:23+00:00_
+_Generiert: 2026-08-16T02:47:46+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+8 neue relevante Treffer. Stärkstes Signal: „GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -21,9 +21,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)
   - Kurz: (-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, You...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **フットペダルデバイスと最近の音声入力環境 | おそらくはそれさえも平凡な日々** — Score 15, observation — [Quelle](https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-14T15:03:55+00:00`, fetched `2026-08-16T02:47:13+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: AI Agentに指示を与えるために音声入力を使うことが増えてきたので、フットペダルを導入した。左手デバイスで有名なStream Deckシリーズのこのフットペダル。 Elgato フットペダル型 Stream Deck/ハンズフリー 配信/ワンタッチ配信/Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue対応/Wind...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **cursor/plugins** — Score 7, opportunity — [Quelle](https://github.com/cursor/plugins)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`
+  - Treffer: APAC Trend Radar, developer tools, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0)
+  - Kurz: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven me…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中** — Score 5, observation — [Quelle](https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-15T23:30:18+00:00`, fetched `2026-08-16T02:22:52+00:00`
@@ -50,6 +68,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 生成AIのゲーム利用については物議をかもすことが多い。ゲーム制作においては、汎用ゲームエンジンでも開発支援ツールなどで活用される一方で、開発者のあいだでも批判的な見方も示されていることがある。そうしたゲーム制作における生成AI利用について8月12日、「プレイヤー反応が何故良くないのか」を分析した研究が発...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A collective list of free APIs APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. Sign up and start building today! Fork our official APILayer Postman Collection and get started i…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **cordiverse/cordis** — Score 5, observation — [Quelle](https://github.com/cordiverse/cordis)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Meta-Framework of Spatiotemporal Composability Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is not yet stable and may change without notice. Paper: A Programming Paradigm for Spatiotemporal Composability Documentation: cordis-primer
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
