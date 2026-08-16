@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-16T21:19:00+00:00",
+  "generated_at": "2026-08-16T21:30:24+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 0,
     "medium": 10,
-    "observe": 22
+    "observe": 23
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.5 - 105 km W of San Antonio de los Cobres, Argentina",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-16T21:25:31.040+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ea6",
+      "summary": "Time 2026-08-16 21:06:07 UTC 2026-08-16 21:06:07 UTC at epicenter Location 24.305°S 67.352°W Depth 164.60 km (102.28 mi)",
+      "section": "observe"
+    },
+    {
       "title": "AI小説が文学賞に殺到 増える選考コスト、公募新人賞は存続できるか - 日本経済新聞",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/",
       "summary": "今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目...",
       "section": "observe"
-    },
-    {
-      "title": "M 4.9 - South Atlantic Ocean",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-16T18:03:10.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e96",
-      "summary": "Time 2026-08-16 17:11:07 UTC 2026-08-16 17:11:07 UTC at epicenter Location 22.578°S 20.371°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,144 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 58.81,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 58.8d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.5 - 76 km N of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-16T07:17:31.489+00:00",
-        "age_days": 0.59,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.0 - 81 km NNE of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e86",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-16T13:57:43.040+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-08-16 13:38:39 UTC 2026-08-16 13:38:39 UTC at epicenter Location 7.918°S 120.717°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.5 - 119 km N of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7x",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-16T13:27:48.040+00:00",
-        "age_days": 0.33,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-08-16 12:37:51 UTC 2026-08-16 12:37:51 UTC at epicenter Location 7.542°S 120.590°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.9 - 112 km NNE of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7q",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-16T11:33:20.040+00:00",
-        "age_days": 0.41,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-08-16 11:11:46 UTC 2026-08-16 11:11:46 UTC at epicenter Location 7.672°S 120.851°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
