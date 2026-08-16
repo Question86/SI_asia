@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T00:45:00+00:00",
-  "run_id": "2026-08-16T00:45:00+00:00",
+  "generated_at": "2026-08-16T01:13:29+00:00",
+  "run_id": "2026-08-16T01:13:29+00:00",
   "date": "2026-08-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 0
+      "configured_public_sources_only": 1
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,21 +18,99 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 0,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-07T04:49:49+00:00",
+        "fetched_at": "2026-08-16T01:12:53+00:00",
+        "summary": "(-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, You...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "60a9cda690801fd84c9d"
+      }
+    ],
     "observe": []
   },
-  "findings": [],
-  "new_findings": [],
+  "findings": [
+    {
+      "title": "GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T04:49:49+00:00",
+      "fetched_at": "2026-08-16T01:12:53+00:00",
+      "summary": "(-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, You...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60a9cda690801fd84c9d"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-07T04:49:49+00:00",
+      "fetched_at": "2026-08-16T01:12:53+00:00",
+      "summary": "(-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, You...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60a9cda690801fd84c9d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
