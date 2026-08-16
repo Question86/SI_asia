@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-16T07:47:25+00:00_
+_Generated: 2026-08-16T07:57:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-16T07:47:25+00:00_
 - url: https://note.com/lifeisbeautiful/n/n058e3c105b7e
 - summary: これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 Why Japanese firms are being so slow to use AI 深刻な人手不足も、高齢化...
 
-### 7. cursor/plugins
+### 7. AI小説が文学賞に殺到 増える選考コスト、公募新人賞は存続できるか - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-08-16T02:23:01+00:00`
+- url: https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/
+- summary: 今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目...
+
+### 8. cursor/plugins
 - source: GitHub Trending RSS All Languages Daily
 - score: `7`
 - published: `None`
 - url: https://github.com/cursor/plugins
 - summary: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest.…
-
-### 8. 味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-16T03:54:10+00:00`
-- url: https://togetter.com/li/2733655
-- summary: 味の素パーク @AJINOMOTOPARK めんつゆが切れてしまって絶体絶命なときはこれを思い出してください。これさえあれば「めんつゆ」できます！ park.ajinomoto.co.jp/recipe/card/70… pic.x.com/nG9H8GLhgJ 2026-08-14 20:00:00 味の素パーク @AJINOMOTOPARK 「おいしい」でもっとHAPPYに♪「味の素パーク」の公式アカウント...
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T07:47:25+00:00_
+_Generiert: 2026-08-16T07:57:12+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+16 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 Why Japanese firms are being so slow to use AI 深刻な人手不足も、高齢化...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI小説が文学賞に殺到 増える選考コスト、公募新人賞は存続できるか - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-16T02:23:01+00:00`, fetched `2026-08-16T07:56:41+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **cursor/plugins** — Score 7, opportunity — [Quelle](https://github.com/cursor/plugins)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`
@@ -86,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 味の素パーク @AJINOMOTOPARK めんつゆが切れてしまって絶体絶命なときはこれを思い出してください。これさえあれば「めんつゆ」できます！ park.ajinomoto.co.jp/recipe/card/70… pic.x.com/nG9H8GLhgJ 2026-08-14 20:00:00 味の素パーク @AJINOMOTOPARK 「おいしい」でもっとHAPPYに♪「味の素パーク」の公式アカウント...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？** — Score 5, observation — [Quelle](https://zenn.dev/pdfractal/articles/c7af0a168c0552)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-16T03:25:37+00:00`, fetched `2026-08-16T04:07:32+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
