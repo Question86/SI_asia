@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-16T08:29:48+00:00_
+_Generated: 2026-08-16T08:45:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-16T08:29:48+00:00_
 - url: https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/
 - summary: 今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目...
 
-### 8. cursor/plugins
-- source: GitHub Trending RSS All Languages Daily
-- score: `7`
-- published: `None`
-- url: https://github.com/cursor/plugins
-- summary: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest.…
+### 8. M 4.6 - 68 km ESE of Madang, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-16T08:39:46.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s
+- summary: Time 2026-08-16 08:06:50 UTC 2026-08-16 08:06:50 UTC at epicenter Location 5.530°S 146.328°E Depth 130.10 km (80.84 mi)
 
 END OF DOCUMENT
