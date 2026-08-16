@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T19:55:36+00:00_
+_Generiert: 2026-08-16T20:01:24+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+30 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -179,14 +179,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0)
   - Kurz: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven me…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **小説文体におけるAI臭さ** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260816172202)
+- **タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-16T08:28:20+00:00`, fetched `2026-08-16T13:08:40+00:00`
+  - Zeit: published `2026-08-16T14:23:07+00:00`, fetched `2026-08-16T20:00:52+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 最近唐突に、AIで書かれた小説を見分けられる能力を得た。 それらには共通の特徴があるように思われるので、皆のために共有しておく。 その前に AI小説が見分けられるというところに疑念を持つ向きもあるだろうから、先にそこを説明しておく。 自分は小説家になろうやその関連18禁サイトの小説をよく読む。 基本的に素人...
+  - Kurz: タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表 CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた後、同社のアプ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
