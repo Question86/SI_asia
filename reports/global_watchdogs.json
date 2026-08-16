@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:46:04+00:00",
+  "generated_at": "2026-08-16T10:55:18+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,21 +85,6 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.9 - 15 km NNW of Pematangsiantar, Indonesia",
-        "summary": "M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk",
-        "published_at": "2026-08-15T10:54:51+00:00",
-        "metrics": {
-          "mag": 6.9,
-          "alert": "green",
-          "sig": 751.0,
-          "tsunami": 0
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.",
         "source": "GDACS",
@@ -164,6 +149,16 @@
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558065",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).",
+        "summary": "Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062",
         "published_at": "",
         "metrics": {}
       }
