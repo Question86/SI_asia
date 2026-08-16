@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T21:09:00+00:00_
+_Generiert: 2026-08-16T21:19:00+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+32 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-16 15:52:53 UTC 2026-08-16 15:52:53 UTC at epicenter Location 14.418°N 92.969°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ローカル LLM 雑感 (2026-08)** — Score 9, observation — [Quelle](https://voluntas.ghost.io/local-llm-2026-08/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-16T12:36:32+00:00`, fetched `2026-08-16T21:18:31+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: NVIDIA DGX Spark 互換機 (以下 Spark) を 2 台購入し、クラスター起動して ローカルで DeepSeek V4 Flash 0731 の運用を開始したので雑感を書いて行く。 前提悪いのでそもそもコスパを検討するなら API 利用をすべきなので、コスト面でのメリットはとても薄い。 速度まずローカル LLM の一番気になっていた「速度」だが...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **cursor/plugins** — Score 7, opportunity — [Quelle](https://github.com/cursor/plugins)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`
@@ -114,15 +123,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0)
   - Kurz: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven me…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-16T14:23:07+00:00`, fetched `2026-08-16T20:00:52+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表 CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた後、同社のアプ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-16T02:47:13+00:00`

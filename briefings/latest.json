@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T21:09:00+00:00",
-  "run_id": "2026-08-16T21:09:00+00:00",
+  "generated_at": "2026-08-16T21:19:00+00:00",
+  "run_id": "2026-08-16T21:19:00+00:00",
   "date": "2026-08-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 1,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 10,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -532,6 +532,28 @@
           "LOW"
         ],
         "id": "113f2800186cff94c5e8"
+      },
+      {
+        "title": "ローカル LLM 雑感 (2026-08)",
+        "url": "https://voluntas.ghost.io/local-llm-2026-08/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-16T12:36:32+00:00",
+        "fetched_at": "2026-08-16T21:18:31+00:00",
+        "summary": "NVIDIA DGX Spark 互換機 (以下 Spark) を 2 台購入し、クラスター起動して ローカルで DeepSeek V4 Flash 0731 の運用を開始したので雑感を書いて行く。 前提悪いのでそもそもコスパを検討するなら API 利用をすべきなので、コスト面でのメリットはとても薄い。 速度まずローカル LLM の一番気になっていた「速度」だが...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fdeae376ba65d5c83d17"
       },
       {
         "title": "M 5.1 - 112 km ESE of Madang, Papua New Guinea",
@@ -1406,6 +1428,28 @@
       "id": "113f2800186cff94c5e8"
     },
     {
+      "title": "ローカル LLM 雑感 (2026-08)",
+      "url": "https://voluntas.ghost.io/local-llm-2026-08/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-16T12:36:32+00:00",
+      "fetched_at": "2026-08-16T21:18:31+00:00",
+      "summary": "NVIDIA DGX Spark 互換機 (以下 Spark) を 2 台購入し、クラスター起動して ローカルで DeepSeek V4 Flash 0731 の運用を開始したので雑感を書いて行く。 前提悪いのでそもそもコスパを検討するなら API 利用をすべきなので、コスト面でのメリットはとても薄い。 速度まずローカル LLM の一番気になっていた「速度」だが...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdeae376ba65d5c83d17"
+    },
+    {
       "title": "M 5.1 - 112 km ESE of Madang, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1773,7 +1817,30 @@
       "id": "df4c1ecba5c8e1ccc00f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ローカル LLM 雑感 (2026-08)",
+      "url": "https://voluntas.ghost.io/local-llm-2026-08/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-16T12:36:32+00:00",
+      "fetched_at": "2026-08-16T21:18:31+00:00",
+      "summary": "NVIDIA DGX Spark 互換機 (以下 Spark) を 2 台購入し、クラスター起動して ローカルで DeepSeek V4 Flash 0731 の運用を開始したので雑感を書いて行く。 前提悪いのでそもそもコスパを検討するなら API 利用をすべきなので、コスト面でのメリットはとても薄い。 速度まずローカル LLM の一番気になっていた「速度」だが...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fdeae376ba65d5c83d17"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
