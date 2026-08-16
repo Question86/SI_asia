@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-16T11:32:26+00:00_
+_Generated: 2026-08-16T11:41:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-16T11:32:26+00:00_
 - url: https://github.com/mvanhorn/last30days-skill
 - summary: (-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it on…
 
-### 3. M 5.1 - 81 km N of Ruteng, Indonesia
+### 3. M 4.9 - 112 km NNE of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-16T11:33:20.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7q
+- summary: Time 2026-08-16 11:11:46 UTC 2026-08-16 11:11:46 UTC at epicenter Location 7.672°S 120.851°E Depth 10.00 km (6.21 mi)
+
+### 4. M 5.1 - 81 km N of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-16T10:50:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7k
 - summary: Time 2026-08-16 10:31:34 UTC 2026-08-16 10:31:34 UTC at epicenter Location 7.879°S 120.550°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.5 - 74 km N of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-16T10:33:42.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j
-- summary: Time 2026-08-16 10:14:36 UTC 2026-08-16 10:14:36 UTC at epicenter Location 7.939°S 120.546°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 6.1 - 56 km NNE of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
