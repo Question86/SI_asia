@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-16T10:50:49Z",
+  "generated_at": "2026-08-16T11:03:28Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.37,
+      "age_days": 58.38,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -66,11 +66,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.1 - 81 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-16T10:50:40.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-16 10:31:34 UTC 2026-08-16 10:31:34 UTC at epicenter Location 7.879°S 120.550°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.5 - 74 km N of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T10:33:42.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -95,7 +120,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -148,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T08:39:46.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -197,7 +222,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 40.25,
+      "age_days": 40.26,
       "topics": [
         "ai",
         "macro"
@@ -225,7 +250,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.3,
+      "age_days": 1.31,
       "topics": [
         "ai"
       ],
@@ -251,7 +276,7 @@
       "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T15:03:55+00:00",
-      "age_days": 1.82,
+      "age_days": 1.83,
       "topics": [
         "ai"
       ],
@@ -276,7 +301,7 @@
       "url": "https://zenn.dev/pdfractal/articles/c7af0a168c0552",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T03:25:37+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -294,30 +319,6 @@
         "no strong comparative reason"
       ],
       "summary": "はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や..."
-    },
-    {
-      "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
-      "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-15T23:30:18+00:00",
-      "age_days": 0.47,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分..."
     }
   ],
   "read_order": [
@@ -329,9 +330,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
+      "strong": 6,
       "watch": 2,
-      "quiet": 5
+      "quiet": 4
     }
   }
 }
