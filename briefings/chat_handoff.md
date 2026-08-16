@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-16T10:23:22+00:00_
+_Generated: 2026-08-16T10:35:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `19`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-16T10:23:22+00:00_
 - url: https://github.com/mvanhorn/last30days-skill
 - summary: (-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it on…
 
-### 3. M 5.0 - 45 km NNW of Ende, Indonesia
+### 3. M 5.5 - 74 km N of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-16T10:33:42.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j
+- summary: Time 2026-08-16 10:14:36 UTC 2026-08-16 10:14:36 UTC at epicenter Location 7.939°S 120.546°E Depth 10.00 km (6.21 mi)
+
+### 4. M 5.0 - 45 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-16T03:58:33.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55
 - summary: Time 2026-08-16 03:42:59 UTC 2026-08-16 03:42:59 UTC at epicenter Location 8.462°S 121.508°E Depth 10.00 km (6.21 mi)
-
-### 4. フットペダルデバイスと最近の音声入力環境 | おそらくはそれさえも平凡な日々
-- source: Hatena Bookmark Hotentry IT
-- score: `15`
-- published: `2026-08-14T15:03:55+00:00`
-- url: https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html
-- summary: AI Agentに指示を与えるために音声入力を使うことが増えてきたので、フットペダルを導入した。左手デバイスで有名なStream Deckシリーズのこのフットペダル。 Elgato フットペダル型 Stream Deck/ハンズフリー 配信/ワンタッチ配信/Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue対応/Wind...
 
 ### 5. M 6.1 - 56 km NNE of Port-Olry, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour

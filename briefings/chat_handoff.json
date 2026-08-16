@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-16T10:23:22+00:00",
+  "generated_at": "2026-08-16T10:35:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 14
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.5 - 74 km N of Ruteng, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-16T10:33:42.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
+      "summary": "Time 2026-08-16 10:14:36 UTC 2026-08-16 10:14:36 UTC at epicenter Location 7.939°S 120.546°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
+    {
       "title": "M 5.0 - 45 km NNW of Ende, Indonesia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "summary": "Time 2026-08-16 03:42:59 UTC 2026-08-16 03:42:59 UTC at epicenter Location 8.462°S 121.508°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "フットペダルデバイスと最近の音声入力環境 | おそらくはそれさえも平凡な日々",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-14T15:03:55+00:00",
-      "relevance_score": 15,
-      "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
-      "summary": "AI Agentに指示を与えるために音声入力を使うことが増えてきたので、フットペダルを導入した。左手デバイスで有名なStream Deckシリーズのこのフットペダル。 Elgato フットペダル型 Stream Deck/ハンズフリー 配信/ワンタッチ配信/Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue対応/Wind...",
       "section": "medium"
     },
     {
