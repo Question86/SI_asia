@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T16:05:20+00:00_
+_Generiert: 2026-08-16T16:14:53+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+27 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -152,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 67 km WSW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e8n)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-16T16:13:10.040+00:00`, fetched `2026-08-16T16:14:19+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-16 15:52:53 UTC 2026-08-16 15:52:53 UTC at epicenter Location 14.418°N 92.969°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 112 km ESE of Madang, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-16T11:25:45.040+00:00`, fetched `2026-08-16T11:31:56+00:00`
@@ -160,15 +169,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-16 10:59:10 UTC 2026-08-16 10:59:10 UTC at epicenter Location 5.548°S 146.748°E Depth 138.74 km (86.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 68 km ESE of Madang, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-16T08:39:46.040+00:00`, fetched `2026-08-16T08:44:30+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-16 08:06:50 UTC 2026-08-16 08:06:50 UTC at epicenter Location 5.530°S 146.328°E Depth 130.10 km (80.84 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **cursor/plugins** — Score 7, opportunity — [Quelle](https://github.com/cursor/plugins)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
