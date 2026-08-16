@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-16T10:21:40Z",
+  "generated_at": "2026-08-16T10:37:37Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.35,
+      "age_days": 58.36,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 58.3d old signal",
+        "aging penalty -8.0 for 58.4d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -66,11 +66,36 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.5 - 74 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-16T10:33:42.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-16 10:14:36 UTC 2026-08-16 10:14:36 UTC at epicenter Location 7.939°S 120.546°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - 45 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -95,7 +120,7 @@
       "url": "https://github.com/cursor/plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -123,7 +148,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e6s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T08:39:46.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -148,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:44:29.471+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -172,7 +197,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 40.23,
+      "age_days": 40.24,
       "topics": [
         "ai",
         "macro"
@@ -200,7 +225,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.28,
+      "age_days": 1.29,
       "topics": [
         "ai"
       ],
@@ -226,7 +251,7 @@
       "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T15:03:55+00:00",
-      "age_days": 1.8,
+      "age_days": 1.82,
       "topics": [
         "ai"
       ],
@@ -251,7 +276,7 @@
       "url": "https://zenn.dev/pdfractal/articles/c7af0a168c0552",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T03:25:37+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -275,7 +300,7 @@
       "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T23:30:18+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -293,30 +318,6 @@
         "no strong comparative reason"
       ],
       "summary": "アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分..."
-    },
-    {
-      "title": "アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい",
-      "url": "https://togetter.com/li/2733352",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-15T14:31:02+00:00",
-      "age_days": 0.83,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい"
     }
   ],
   "read_order": [
@@ -328,9 +329,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 2,
-      "quiet": 6
+      "quiet": 5
     }
   }
 }
