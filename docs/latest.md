@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T22:01:29+00:00_
+_Generiert: 2026-08-16T22:09:45+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+37 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 76 km N of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: AI Agentに指示を与えるために音声入力を使うことが増えてきたので、フットペダルを導入した。左手デバイスで有名なStream Deckシリーズのこのフットペダル。 Elgato フットペダル型 Stream Deck/ハンズフリー 配信/ワンタッチ配信/Elgato 4KCU、OBS、Twitch、YouTube、Twitter、Discord、Spotify、Philips Hue対応/Wind...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub - coji/natural-japanese: 仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。** — Score 15, observation — [Quelle](https://github.com/coji/natural-japanese)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-14T07:56:39+00:00`, fetched `2026-08-16T22:09:15+00:00`
+  - Treffer: agent, APAC Trend Radar, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); watchgraph region japan: Japan (+2.0)
+  - Kurz: 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成といった仕事の文書から、note・ブログ・エッセイまで。AIと文書を作るとき毎回プロンプトに書いている指示——結論から書いて、論旨を明確に、見出しは端的に、専門用語は文中で...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
