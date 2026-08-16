@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T13:57:57+00:00_
+_Generiert: 2026-08-16T14:06:38+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-08-16T13:57:57+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.8 million in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363)
+- **GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.8 million in MMI V.
+  - Kurz: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558840)
   - Quelle: GDACS
   - Zeit: ``
