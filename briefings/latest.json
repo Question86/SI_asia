@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T21:55:32+00:00",
-  "run_id": "2026-08-16T21:55:32+00:00",
+  "generated_at": "2026-08-16T22:01:29+00:00",
+  "run_id": "2026-08-16T22:01:29+00:00",
   "date": "2026-08-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 10,
-    "observe": 25,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -728,6 +728,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2ea470c4617ca3cbcfef"
+      },
+      {
+        "title": "オープンＡＩで経営幹部が相次ぎ退社、半年前加入の「中心人物」も…新規株式公開を前に「危険信号」（読売新聞オンライン） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/b12c70eea1870fe6d19b036884a06ae0c00729ef",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-16T19:41:00+00:00",
+        "fetched_at": "2026-08-16T22:00:57+00:00",
+        "summary": "【ニューヨーク＝木瀬武】対話型ＡＩ（人工知能）サービス「チャットＧＰＴ」を手がける米オープンＡＩで、経営幹部の退社が相次いでいる。米国や中国の同業との競争が激化しており、背景には収益向上への対応がありそうだ。年内にも新規株式公開（ＩＰＯ）に踏み切る可能性がある中、経営体制の不安定さが懸念材料とな...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2a0abe1aea9e84c331b2"
       },
       {
         "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
@@ -1704,6 +1725,27 @@
       "id": "2ea470c4617ca3cbcfef"
     },
     {
+      "title": "オープンＡＩで経営幹部が相次ぎ退社、半年前加入の「中心人物」も…新規株式公開を前に「危険信号」（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/b12c70eea1870fe6d19b036884a06ae0c00729ef",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-16T19:41:00+00:00",
+      "fetched_at": "2026-08-16T22:00:57+00:00",
+      "summary": "【ニューヨーク＝木瀬武】対話型ＡＩ（人工知能）サービス「チャットＧＰＴ」を手がける米オープンＡＩで、経営幹部の退社が相次いでいる。米国や中国の同業との競争が激化しており、背景には収益向上への対応がありそうだ。年内にも新規株式公開（ＩＰＯ）に踏み切る可能性がある中、経営体制の不安定さが懸念材料とな...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a0abe1aea9e84c331b2"
+    },
+    {
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
       "url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1979,26 +2021,25 @@
   ],
   "new_findings": [
     {
-      "title": "記憶を保つのはシナプスの強さではなく「つながり方」：沖縄科学技術大学院大などが人工冬眠マウスで示す",
-      "url": "https://ki-to-oku.net/oist-artificial-hibernation-memory-retention/",
+      "title": "オープンＡＩで経営幹部が相次ぎ退社、半年前加入の「中心人物」も…新規株式公開を前に「危険信号」（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/b12c70eea1870fe6d19b036884a06ae0c00729ef",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-16T21:27:10+00:00",
-      "fetched_at": "2026-08-16T21:55:03+00:00",
-      "summary": "冬眠明けのマウスは記憶を保っていた沖縄科学技術大学院大学（OIST）、筑波大学、自然科学研究機構 生命創成探究センター/生理学研究所などの研究チームは2026年8月13日、人工冬眠を利用したマウス実験により、長期記憶の保持には、神経細胞同士が信号をやり取りする接合部「シナプス」の強さではなく、記憶痕跡を担うそ...",
+      "published_at": "2026-08-16T19:41:00+00:00",
+      "fetched_at": "2026-08-16T22:00:57+00:00",
+      "summary": "【ニューヨーク＝木瀬武】対話型ＡＩ（人工知能）サービス「チャットＧＰＴ」を手がける米オープンＡＩで、経営幹部の退社が相次いでいる。米国や中国の同業との競争が激化しており、背景には収益向上への対応がありそうだ。年内にも新規株式公開（ＩＰＯ）に踏み切る可能性がある中、経営体制の不安定さが懸念材料とな...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "102605f2ad332f6de012"
+      "id": "2a0abe1aea9e84c331b2"
     }
   ],
   "source_errors": [],
