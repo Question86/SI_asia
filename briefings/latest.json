@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T07:57:12+00:00",
-  "run_id": "2026-08-16T07:57:12+00:00",
+  "generated_at": "2026-08-16T08:06:15+00:00",
+  "run_id": "2026-08-16T08:06:15+00:00",
   "date": "2026-08-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -831,30 +831,7 @@
       "id": "df4c1ecba5c8e1ccc00f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI小説が文学賞に殺到 増える選考コスト、公募新人賞は存続できるか - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-16T02:23:01+00:00",
-      "fetched_at": "2026-08-16T07:56:41+00:00",
-      "summary": "今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e7f9b4fb8ad7d90792e3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
