@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T04:38:31+00:00_
+_Generiert: 2026-08-16T04:53:15+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+13 neue relevante Treffer. Stärkstes Signal: „GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); developer tools (+2.0)
   - Kurz: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven me…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」** — Score 5, observation — [Quelle](https://togetter.com/li/2733655)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-16T03:54:10+00:00`, fetched `2026-08-16T04:52:43+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 味の素パーク @AJINOMOTOPARK めんつゆが切れてしまって絶体絶命なときはこれを思い出してください。これさえあれば「めんつゆ」できます！ park.ajinomoto.co.jp/recipe/card/70… pic.x.com/nG9H8GLhgJ 2026-08-14 20:00:00 味の素パーク @AJINOMOTOPARK 「おいしい」でもっとHAPPYに♪「味の素パーク」の公式アカウント...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？** — Score 5, observation — [Quelle](https://zenn.dev/pdfractal/articles/c7af0a168c0552)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-16T03:25:37+00:00`, fetched `2026-08-16T04:07:32+00:00`
@@ -77,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい** — Score 5, observation — [Quelle](https://togetter.com/li/2733352)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-15T14:31:02+00:00`, fetched `2026-08-16T03:50:49+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **public-apis/public-apis** — Score 5, observation — [Quelle](https://github.com/public-apis/public-apis)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

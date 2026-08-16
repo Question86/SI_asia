@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-16T04:38:31+00:00_
+_Generated: 2026-08-16T04:53:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-08-16T04:38:31+00:00_
 - url: https://github.com/cursor/plugins
 - summary: Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest.…
 
-### 6. なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？
+### 6. 味の素パークの公式アカウント、AIによる補正でぐちゃぐちゃになった「ほんだし」の画像をポストし、批判相次ぐ流れに「ブランド名すら違う」「AINOMOTO」
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-08-16T03:54:10+00:00`
+- url: https://togetter.com/li/2733655
+- summary: 味の素パーク @AJINOMOTOPARK めんつゆが切れてしまって絶体絶命なときはこれを思い出してください。これさえあれば「めんつゆ」できます！ park.ajinomoto.co.jp/recipe/card/70… pic.x.com/nG9H8GLhgJ 2026-08-14 20:00:00 味の素パーク @AJINOMOTOPARK 「おいしい」でもっとHAPPYに♪「味の素パーク」の公式アカウント...
+
+### 7. なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-08-16T03:25:37+00:00`
 - url: https://zenn.dev/pdfractal/articles/c7af0a168c0552
 - summary: はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や...
-
-### 7. テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-15T23:30:18+00:00`
-- url: https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/
-- summary: アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分...
 
 END OF DOCUMENT
