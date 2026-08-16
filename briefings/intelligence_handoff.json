@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-16T07:53:00Z",
+  "generated_at": "2026-08-16T08:04:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 58.2d old signal",
+        "aging penalty -8.0 for 58.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -70,7 +70,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -95,7 +95,7 @@
       "url": "https://github.com/cursor/plugins",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-16T03:44:29.471+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -147,7 +147,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 40.13,
+      "age_days": 40.14,
       "topics": [
         "ai",
         "macro"
@@ -175,7 +175,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n058e3c105b7e",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T03:33:03+00:00",
-      "age_days": 1.18,
+      "age_days": 1.19,
       "topics": [
         "ai"
       ],
@@ -201,7 +201,7 @@
       "url": "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T15:03:55+00:00",
-      "age_days": 1.7,
+      "age_days": 1.71,
       "topics": [
         "ai"
       ],
@@ -250,7 +250,7 @@
       "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T23:30:18+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -274,7 +274,7 @@
       "url": "https://togetter.com/li/2733352",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T14:31:02+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -294,14 +294,13 @@
       "summary": "アプリ起動→「ねっっっっとりとロゴ表示」→「ホーム画面開いてから通信して何かロードしだす」→「大量の通知が1個1個出てくる」→やっと使える…というフローのアプリ消滅してほしい"
     },
     {
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.21,
+      "title": "AI小説が文学賞に殺到 増える選考コスト、公募新人賞は存続できるか - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-16T02:23:01+00:00",
+      "age_days": 0.24,
       "topics": [
-        "ai",
-        "macro"
+        "ai"
       ],
       "dynamics_score": 2.0,
       "raw_band": "quiet",
@@ -314,11 +313,10 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: code",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "A collective list of free APIs APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search resul…"
+      "summary": "今年に入って、どこの文学賞も応募が急増している――。出版関係者らがそんなささやきを交わしている。人工知能（AI）を使って気軽に大量の小説を出力できるようになった結果、公募新人文学賞の存続が危うくなりかねない事態を招いている。「いくらなんでも多すぎる」。早川書房編集本部シニアエディターの塩澤快浩氏は目..."
     }
   ],
   "read_order": [
