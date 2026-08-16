@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-16T02:05:17Z",
+  "generated_at": "2026-08-16T02:38:15Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 8,
     "bands": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.0,
+      "age_days": 58.03,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-07-07T04:49:49+00:00",
-      "age_days": 39.89,
+      "age_days": 39.91,
       "topics": [
         "ai",
         "macro"
@@ -73,11 +73,35 @@
       "summary": "(-g installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, OpenClaw, manual) in the Install section below. Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, You..."
     },
     {
+      "title": "テクノロジー企業がデータセンターのエネルギーコストを負担しなければならないとする法案が進行中",
+      "url": "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-15T23:30:18+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "アメリカではデータセンターの建設が相次いでおり、データセンターが過剰に電力を消費することで一般市民の電気代も上がるのではないか、という懸念が出ています。新たに、アメリカの下院エネルギー・商業委員会が、データセンターのエネルギーコストをテクノロジー企業に転嫁させる法案を全会一致で可決させたことが分..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 56.97,
+      "age_days": 56.99,
       "topics": [
         "general"
       ],
@@ -102,7 +126,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 56.97,
+      "age_days": 56.99,
       "topics": [
         "general"
       ],
@@ -127,7 +151,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 56.97,
+      "age_days": 56.99,
       "topics": [
         "ai"
       ],
@@ -150,11 +174,36 @@
       "summary": ""
     },
     {
+      "title": "人権作文コンテストで内閣総理大臣賞を獲る13ヶ条！｜星野俊樹「とびこえる教室」",
+      "url": "https://note.com/toshiki_hoshino/n/n31b739741231",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-15T12:31:29+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "（１）導入は必ず「身近な人」から始めよ社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなたの半径5メートル以内に、都合よく人権問題を体現してくれる存在がいることが前提条件である。いなければ探せ。..."
+    },
+    {
       "title": "Steamの“生成AI利用ゲーム”に対するプレイヤーの反応を分析した研究。評価を分けるのは“利用そのもの”より“利用目的”か - AUTOMATON",
       "url": "https://automaton-media.com/articles/newsjp/20260815-460351/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-15T12:12:08+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
