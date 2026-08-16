@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T07:19:32+00:00_
+_Generiert: 2026-08-16T07:34:17+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,10 @@ _Generiert: 2026-08-16T07:19:32+00:00_
   - Quelle: USGS
   - Zeit: `2026-08-15T10:54:51+00:00`
   - Kurz: M6.9 - 15 km NNW of Pematangsiantar, Indonesia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558840)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558766)
   - Quelle: GDACS
   - Zeit: ``
@@ -65,10 +69,6 @@ _Generiert: 2026-08-16T07:19:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
