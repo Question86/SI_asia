@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-16T04:08:01+00:00_
+_Generiert: 2026-08-16T04:22:36+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-08-16T04:08:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Red earthquake (Magnitude 7.7M, Depth:10km) in Indonesia 14/08/2026 21:58 UTC, 1.2 million (in MMI&gt;=VII).
-- **USGS earthquake M6.1 - 56 km NNE of Port-Olry, Vanuatu** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl4w)
-  - Quelle: USGS
-  - Zeit: `2026-08-16T03:20:24+00:00`
-  - Kurz: M6.1 - 56 km NNE of Port-Olry, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 - **USGS earthquake M6.9 - 15 km NNW of Pematangsiantar, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkyk)
   - Quelle: USGS
   - Zeit: `2026-08-15T10:54:51+00:00`
@@ -69,6 +65,10 @@ _Generiert: 2026-08-16T04:08:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 14/08/2026 22:18 UTC, 70 thousand in MMI V.
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558062)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Indonesia 14/08/2026 22:13 UTC, 2 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
