@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-16T07:05:13+00:00",
+  "generated_at": "2026-08-16T07:19:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "M 5.5 - 76 km N of Ruteng, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-16T07:17:31.489+00:00",
+      "relevance_score": 19,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
     {
       "title": "GitHub - mvanhorn/last30days-skill: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "source": "Hatena Bookmark Hotentry IT",
