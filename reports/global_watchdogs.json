@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:06:29+00:00",
+  "generated_at": "2026-08-17T13:25:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia",
+        "summary": "M5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq",
+        "published_at": "2026-08-17T12:38:03+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "",
+          "sig": 518.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
