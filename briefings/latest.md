@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T09:32:38+00:00_
+_Generiert: 2026-08-17T09:52:20+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+40 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,38 +29,8 @@ _Generiert: 2026-08-17T09:32:38+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-05`
   - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.
-- **GDACS: Green flood alert in Andorra** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104092)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Andorra
-- **GDACS: Green flood alert in South Korea** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104095)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in South Korea
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558840)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558766)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558582)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f84ba465150>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -86,6 +56,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-17T09:41:06+00:00`, fetched `2026-08-17T09:51:51+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service herbeizuführen oder einen nicht näher spezifizierten Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-17T09:37:40+00:00`, fetched `2026-08-17T09:51:51+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die potenziell einen Denial-of-Service-Zustand verursachen, sensible Informationen offenlegen oder zu einer Speicherbeschädigung führen können.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Red Hat Enterprise Linux (nodejs:24): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-17T09:14:11+00:00`, fetched `2026-08-17T09:16:44+00:00`
@@ -94,15 +82,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um SSRF-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, möglicherweise beliebigen Code auszuführen oder einen Denial-of-Service-Zustand herbeizuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-17T05:36:05+00:00`, fetched `2026-08-17T05:49:54+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, SQL-Injection- oder Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand herbeizuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asia doesn’t need to pick a side in the AI race** — Score 16, observation — [Quelle](https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -122,6 +101,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tools, workflows and AI agents. The community edition provides a powerful visual builder, drag-and-drop…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.8 - 52 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed1)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-17T09:34:54.040+00:00`, fetched `2026-08-17T09:51:51+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-17 09:16:05 UTC 2026-08-17 09:16:05 UTC at epicenter Location 8.391°S 121.519°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 61 km NW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ech)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-17T07:57:03.040+00:00`, fetched `2026-08-17T08:03:50+00:00`
@@ -130,15 +118,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-17 07:20:32 UTC 2026-08-17 07:20:32 UTC at epicenter Location 8.525°S 121.201°E Depth 28.25 km (17.55 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 90 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-17T04:14:30.040+00:00`, fetched `2026-08-17T04:25:53+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-17 03:33:53 UTC 2026-08-17 03:33:53 UTC at epicenter Location 8.091°S 121.095°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN58692577/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -167,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-17T08:31:06+00:00`, fetched `2026-08-17T08:38:29+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren oder um einen Denial of Service zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Malaysia’s sovereign AI bet: Local context becomes the next startup moat** — Score 14, observation — [Quelle](https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-17T05:52:02+00:00`, fetched `2026-08-17T06:02:46+00:00`
