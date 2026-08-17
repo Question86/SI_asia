@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:10:02+00:00",
-  "run_id": "2026-08-17T03:10:02+00:00",
+  "generated_at": "2026-08-17T03:30:58+00:00",
+  "run_id": "2026-08-17T03:30:58+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -825,93 +825,7 @@
       "id": "b9f8244ade8233acaec4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN40688603/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-17T12:00:30+09:00",
-      "fetched_at": "2026-08-17T03:09:29+00:00",
-      "summary": "Eclipse Foundationが開発し総務省が提供するmiCheckerには、XML外部実体参照（XXE）に関する脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fcb3ee9a6cf1ed9c0517"
-    },
-    {
-      "title": "Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性",
-      "url": "https://jvn.jp/jp/JVN91713656/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-17T12:00:00+09:00",
-      "fetched_at": "2026-08-17T03:09:29+00:00",
-      "summary": "Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "be5e2959a29bda9f4859"
-    },
-    {
-      "title": "GDPの四半期別速報に関するダッシュボードを更新しました",
-      "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-17T03:00:00+00:00",
-      "fetched_at": "2026-08-17T03:09:29+00:00",
-      "summary": "GDPの四半期別速報に関するダッシュボードを更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5891662dfb5388b7a524"
-    },
-    {
-      "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
-      "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-17T02:50:00+00:00",
-      "fetched_at": "2026-08-17T03:09:29+00:00",
-      "summary": "Singaporean deeptech startup Datakrew just wrapped a year-long study with Hyundai’s venture arm and GetGo. The headline numbers are big — 3.6 billion data points, 70 vehicles, 101,000 trips, but the more interesting story is what Datakrew is trying to build after the pilot ends. Batteries do not fail like engines. There is no warning […] The post 70 Cars, 55,000 hours, one question: Can you forecast when an EV batte…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d5e11d91e8a5168395c2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
