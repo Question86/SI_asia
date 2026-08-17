@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-17T05:43:42Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-17T05:58:07Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T05:36:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, kritisch, code",
+        "security high-signal: angriffe, kritisch, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, SQL-Injection- oder Cross-Site-Scripting-Angriffe durchzuführen oder einen…"
+    },
+    {
       "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
       "url": "https://jvn.jp/jp/JVN58692577/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T14:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -39,7 +64,7 @@
       "url": "https://jvn.jp/jp/JVN40688603/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:30+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -63,7 +88,7 @@
       "url": "https://jvn.jp/jp/JVN91713656/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -87,7 +112,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T05:11:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -111,7 +136,7 @@
       "url": "https://github.com/ToolJet/ToolJet",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -139,7 +164,7 @@
       "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T03:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -165,7 +190,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.16,
+      "age_days": 59.17,
       "topics": [
         "ai"
       ],
@@ -194,7 +219,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:14:30.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -219,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:02:57.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -244,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T03:54:47.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -265,36 +290,11 @@
       "summary": "Time 2026-08-17 03:36:39 UTC 2026-08-17 03:36:39 UTC at epicenter Location 8.278°S 121.407°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.5 - 35 km E of Poso, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T01:37:34.040+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 01:01:29 UTC 2026-08-17 01:01:29 UTC at epicenter Location 1.366°S 121.071°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -324,7 +324,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
