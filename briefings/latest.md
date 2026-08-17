@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T14:57:02+00:00_
+_Generiert: 2026-08-17T15:07:05+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,6 @@ _Generiert: 2026-08-17T14:57:02+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
   - Kurz: Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559459)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,14 +45,6 @@ _Generiert: 2026-08-17T14:57:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558582)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:39.954km) in Japan 15/08/2026 19:32 UTC, 2 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.
 
 ## Wirtschaft global
 
