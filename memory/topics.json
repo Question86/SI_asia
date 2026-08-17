@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T08:58:16+00:00",
+  "generated_at": "2026-08-17T09:17:13+00:00",
   "topics": {
     "general": [
       {
@@ -76,6 +76,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (nodejs:24): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:14:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816"
+      },
       {
         "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
