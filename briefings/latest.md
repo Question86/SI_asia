@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T07:26:31+00:00_
+_Generiert: 2026-08-17T07:46:24+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-08-17T07:26:31+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Andorra
+- **GDACS: Green flood alert in South Korea** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104095)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in South Korea
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203)
   - Quelle: GDACS
   - Zeit: ``
