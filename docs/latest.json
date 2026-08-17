@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T06:03:15+00:00",
-  "run_id": "2026-08-17T06:03:15+00:00",
+  "generated_at": "2026-08-17T06:20:07+00:00",
+  "run_id": "2026-08-17T06:20:07+00:00",
   "date": "2026-08-17",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 27
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
     "medium": 14,
     "observe": 13,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1475,91 +1475,15 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
-      "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "source_id": "ecb_statistical_press",
+      "source_name": "ECB Statistical Press Releases",
       "source_type": "rss",
-      "published_at": "2026-08-17T05:52:02+00:00",
-      "fetched_at": "2026-08-17T06:02:46+00:00",
-      "summary": "For years, Southeast Asia’s digital economy has grown on top of technologies built elsewhere. Cloud infrastructure, operating systems, search, social media, e-commerce tools and, more recently, large language models have largely come from the US and China. The region adapted quickly, but rarely controlled the deepest layers of the stack. Artificial intelligence is forcing governments […] The post Malaysia’s sovereig…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d56b181c4ec51663a62"
-    },
-    {
-      "title": "公金受取口座として登録可能な口座の金融機関の一覧を更新しました",
-      "url": "https://www.digital.go.jp/policies/account_registration/list-registerable-account",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-17T06:00:00+00:00",
-      "fetched_at": "2026-08-17T06:02:46+00:00",
-      "summary": "公金受取口座として登録可能な口座の金融機関の一覧を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3dad408111fdf8e9a48c"
-    },
-    {
-      "title": "行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました",
-      "url": "https://www.digital.go.jp/policies/administrative_procedures_online",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-17T06:00:00+00:00",
-      "fetched_at": "2026-08-17T06:02:46+00:00",
-      "summary": "行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "98162e649c2c2c3f4d17"
-    },
-    {
-      "title": "アナログ規制の見直しに係る工程表等のフォローアップ結果をまとめた資料を掲載しました",
-      "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-17T06:00:00+00:00",
-      "fetched_at": "2026-08-17T06:02:46+00:00",
-      "summary": "アナログ規制の見直しに係る工程表等のフォローアップ結果をまとめた資料を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "670ee4cba60486a2edfa"
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

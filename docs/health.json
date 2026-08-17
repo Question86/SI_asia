@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-08-17T06:03:15+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-17T06:20:07+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
     "medium": 14,
     "observe": 13,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "ecb_statistical_press",
+      "source_name": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
