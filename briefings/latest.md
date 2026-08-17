@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T10:32:48+00:00_
+_Generiert: 2026-08-17T10:47:48+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+55 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -99,23 +99,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857)
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-17T10:06:05+00:00`, fetched `2026-08-17T10:17:41+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft PowerShell ausnutzen, um beliebigen Programmcode auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-17T09:51:06+00:00`, fetched `2026-08-17T10:06:26+00:00`
+  - Zeit: published `2026-08-17T10:36:07+00:00`, fetched `2026-08-17T10:47:18+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, weitere nicht spezifizierte Auswirkungen zu verursachen und potentiell Code auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-17T10:36:06+00:00`, fetched `2026-08-17T10:47:18+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asia doesn’t need to pick a side in the AI race** — Score 16, observation — [Quelle](https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -210,6 +210,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Malaysia (+2.0)
   - Kurz: Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary […] The post AI demand lifts Mala…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **二一零零科技｜公文管理系統 - Arbitrary File Upload** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11108-7b14c-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-17T06:13:00+00:00`, fetched `2026-08-17T10:47:18+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 二一零零科技｜公文管理系統 - Arbitrary File Upload
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GDPの四半期別速報に関するダッシュボードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-17T03:00:00+00:00`, fetched `2026-08-17T03:09:29+00:00`
@@ -326,15 +335,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **差別や偏見が生まれる「構造」を問うてはいけない？全国中学生人権作文コンテストの受賞作品をAIに分析させたら「内閣総理大臣賞を獲る13ヶ条」ができた話** — Score 5, observation — [Quelle](https://togetter.com/li/2734001)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T02:15:16+00:00`, fetched `2026-08-17T08:21:35+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 星野俊樹『とびこえる教室』 @tipacabla 【完全攻略】人権作文コンテストで内閣総理大臣賞を獲る１３ヶ条！ （１）導入は必ず「身近な人」から始めよ 社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなた...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

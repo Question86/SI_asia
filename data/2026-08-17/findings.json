@@ -63,6 +63,54 @@
     "id": "1065f5427e7407cc8494"
   },
   {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:36:07+00:00",
+    "fetched_at": "2026-08-17T10:47:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, weitere nicht spezifizierte Auswirkungen zu verursachen und potentiell Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a98007bd4659ad578fd5"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:36:06+00:00",
+    "fetched_at": "2026-08-17T10:47:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "50f0db33527b361b5477"
+  },
+  {
     "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
     "source": "BSI CERT-Bund Security Advisories",
@@ -612,6 +660,29 @@
     "id": "be5e2959a29bda9f4859"
   },
   {
+    "title": "[UPDATE] [hoch] AMD Prozessor: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1482",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:36:10+00:00",
+    "fetched_at": "2026-08-17T10:47:18+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen – sogar mit Administratorrechten –, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3287a3d1e44bc203ccba"
+  },
+  {
     "title": "[NEU] [mittel] InetUtils (talkd): Schwachstelle ermöglicht nicht spezifizierten Angriff",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2860",
     "source": "BSI CERT-Bund Security Advisories",
@@ -860,6 +931,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d9f1bbb2973eaff798f9"
+  },
+  {
+    "title": "二一零零科技｜公文管理系統 - Arbitrary File Upload",
+    "url": "https://www.twcert.org.tw/tw/cp-132-11108-7b14c-1.html",
+    "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-17T06:13:00+00:00",
+    "fetched_at": "2026-08-17T10:47:18+00:00",
+    "summary": "二一零零科技｜公文管理系統 - Arbitrary File Upload",
+    "matched_keywords": [
+      "Security",
+      "TVN",
+      "TWCERT"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "10a69b87ffca12ea5720"
   },
   {
     "title": "GDPの四半期別速報に関するダッシュボードを更新しました",
@@ -1182,6 +1275,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6b71b31c0ab08b4b7b9d"
+  },
+  {
+    "title": "Ankerのスピーカーでまた発火事故 過去にも5回の火災で回収・交換中 消費者庁「直ちに使用中止を」",
+    "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000562/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-17T02:48:48+00:00",
+    "fetched_at": "2026-08-17T10:47:18+00:00",
+    "summary": "消費者庁は8月14日、アンカー・ジャパンの充電式スピーカー「Soundcore 3」による発火事故が起きたと発表した。この製品では以前にも発火事故が起きており、2025年10月から自主回収（回収・交換）の対象となっている。 6月15日に沖縄県で、駐車場の車両内に置いていた同製品と周辺を焼損する火災が発生した。原因は調査...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "827619dc48eefbe390e4"
   },
   {
     "title": "差別や偏見が生まれる「構造」を問うてはいけない？全国中学生人権作文コンテストの受賞作品をAIに分析させたら「内閣総理大臣賞を獲る13ヶ条」ができた話",

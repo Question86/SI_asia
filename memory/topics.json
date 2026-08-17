@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T10:32:48+00:00",
+  "generated_at": "2026-08-17T10:47:48+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-08-17T10:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:36:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:36:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324"
       },
       {
         "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
@@ -59,20 +73,6 @@
         "published_at": "2026-08-17T05:36:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
-      },
-      {
-        "title": "[UPDATE] [mittel] SonicWall Email Security: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:41:05+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765"
-      },
-      {
-        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN58692577/"
       }
     ],
     "geopolitics": [
