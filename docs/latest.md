@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T12:46:03+00:00_
+_Generiert: 2026-08-17T13:06:27+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+82 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The Defender’s Window** — Score 16, observation — [Quelle](https://openai.com/index/the-defenders-window)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-17T05:30:00+00:00`, fetched `2026-08-17T13:05:57+00:00`
+  - Treffer: AI/KI, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); recent (+1.0)
+  - Kurz: AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asia doesn’t need to pick a side in the AI race** — Score 16, observation — [Quelle](https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -195,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship, more of the workflow, more of the economics, then surely we […] The post Strategic chokepoints: Designing leverage without owning everything appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 75 km ESE of Petropavlovsk-Kamchatsky, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-17T12:57:49.040+00:00`, fetched `2026-08-17T13:05:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-17 12:38:04 UTC 2026-08-17 12:38:04 UTC at epicenter Location 52.913°N 159.726°E Depth 67.50 km (41.94 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 28 km SW of Kandrian, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-17T11:19:35.040+00:00`, fetched `2026-08-17T11:20:57+00:00`
@@ -231,6 +249,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-17 00:08:06 UTC 2026-08-17 00:08:06 UTC at epicenter Location 17.737°S 178.666°W Depth 555.52 km (345.18 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAI joins PORTS-Pike project** — Score 8, observation — [Quelle](https://openai.com/index/openai-joins-ports-pike-project)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-17T05:00:00+00:00`, fetched `2026-08-17T13:05:57+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI is not the advantage, build what competitors cannot copy** — Score 8, observation — [Quelle](https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-17T02:00:19+00:00`, fetched `2026-08-17T02:17:50+00:00`
@@ -248,24 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: In aktuellen Versionen haben die PostgreSQL-Entwickler mehrere Sicherheitslücken geschlossen. Für einen Versionsstrang läuft bald der Support aus.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ban on Chinese robots leaves U.S. startups stranded** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-08-17T10:00:00+00:00`, fetched `2026-08-17T10:06:26+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)
-  - Kurz: Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Zahlreiche Crash-Lücken in Wireshark geschlossen** — Score 7, observation — [Quelle](https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-17T08:15:00.000+00:00`, fetched `2026-08-17T08:38:29+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
