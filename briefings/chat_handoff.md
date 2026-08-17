@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T05:34:46+00:00_
+_Generated: 2026-08-17T05:50:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-17T05:34:46+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 2. Why Southeast Asia doesn’t need to pick a side in the AI race
+### 2. [UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-17T05:36:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746
+- summary: Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, SQL-Injection-…
+
+### 3. Why Southeast Asia doesn’t need to pick a side in the AI race
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-17T02:30:58+00:00`
 - url: https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/
 - summary: For most of my career, building a technology company felt like solving a complicated but understandable puzzle. You studied the market, listened to customers, assembled a great team, built the right product, and executed better than everyone else. The journey…
 
-### 3. ToolJet/ToolJet
+### 4. ToolJet/ToolJet
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/ToolJet/ToolJet
 - summary: ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the…
-
-### 4. M 4.9 - 90 km NE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-17T04:14:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh
-- summary: Time 2026-08-17 03:33:53 UTC 2026-08-17 03:33:53 UTC at epicenter Location 8.091°S 121.095°E Depth 10.00 km (6.21 mi)
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed

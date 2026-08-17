@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T05:34:46+00:00",
+  "generated_at": "2026-08-17T05:50:25+00:00",
   "topics": {
     "general": [
       {
@@ -59,6 +59,59 @@
         "published_at": "2026-08-16T23:08:00+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005"
+      }
+    ],
+    "security": [
+      {
+        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T05:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
+      },
+      {
+        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN58692577/"
+      },
+      {
+        "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T12:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN40688603/"
+      },
+      {
+        "title": "Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN91713656/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T05:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T05:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
+      },
+      {
+        "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T02:50:00+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
       }
     ],
     "ai": [
@@ -170,45 +223,6 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/basecamp/omarchy"
-      }
-    ],
-    "security": [
-      {
-        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN58692577/"
-      },
-      {
-        "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T12:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN40688603/"
-      },
-      {
-        "title": "Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN91713656/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T05:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T02:50:00+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
       }
     ]
   }
