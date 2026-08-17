@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T08:04:20+00:00_
+_Generiert: 2026-08-17T08:22:04+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+30 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 ## Priorität Hoch
 
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **差別や偏見が生まれる「構造」を問うてはいけない？全国中学生人権作文コンテストの受賞作品をAIに分析させたら「内閣総理大臣賞を獲る13ヶ条」ができた話** — Score 5, observation — [Quelle](https://togetter.com/li/2734001)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-17T02:15:16+00:00`, fetched `2026-08-17T08:21:35+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 星野俊樹『とびこえる教室』 @tipacabla 【完全攻略】人権作文コンテストで内閣総理大臣賞を獲る１３ヶ条！ （１）導入は必ず「身近な人」から始めよ 社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなた...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/17/053005)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
