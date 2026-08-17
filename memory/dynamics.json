@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-17T06:17:49Z",
+  "generated_at": "2026-08-17T06:44:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 31,
+    "dynamics": 32,
     "bands": {
       "extreme": 1,
       "krass": 2,
-      "strong": 12,
+      "strong": 13,
       "watch": 1,
       "quiet": 15
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 14,
+      "strong": 15,
       "watch": 1,
       "quiet": 15
     }
@@ -25,7 +25,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T05:36:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -50,7 +50,7 @@
       "url": "https://jvn.jp/jp/JVN58692577/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T14:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/jp/JVN40688603/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:30+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://jvn.jp/jp/JVN91713656/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T05:11:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://github.com/ToolJet/ToolJet",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T03:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -200,7 +200,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.18,
+      "age_days": 59.2,
       "topics": [
         "ai"
       ],
@@ -229,7 +229,7 @@
       "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T05:52:02+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -252,11 +252,36 @@
       "summary": "For years, Southeast Asia’s digital economy has grown on top of technologies built elsewhere. Cloud infrastructure, operating systems, search, social media, e-commerce tools and, more recently, large language models have largely come from the US and China. The region adapted quickly, but rarely controlled the deepest…"
     },
     {
+      "title": "Angriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
+      "url": "https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-17T06:21:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, kritisch, rce",
+        "security high-signal: angriffe, kritisch, rce"
+      ],
+      "summary": "SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen."
+    },
+    {
       "title": "M 4.9 - 90 km NE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:14:30.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -281,7 +306,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:02:57.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -306,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T03:54:47.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -331,7 +356,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:37:34.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -356,7 +381,7 @@
       "url": "https://github.com/basecamp/omarchy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -381,7 +406,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:06:50.002+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -405,7 +430,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T00:24:34.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -429,7 +454,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T23:08:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -453,7 +478,7 @@
       "url": "https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T02:30:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -479,7 +504,7 @@
       "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T03:47:09+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -505,7 +530,7 @@
       "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T01:30:07+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -530,7 +555,7 @@
       "url": "https://www.digital.go.jp/policies/administrative_procedures_online",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T06:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -554,7 +579,7 @@
       "url": "https://www.digital.go.jp/policies/account_registration/list-registerable-account",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T06:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -578,7 +603,7 @@
       "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T06:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -602,7 +627,7 @@
       "url": "https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T01:00:33+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -629,7 +654,7 @@
       "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:11:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -653,7 +678,7 @@
       "url": "https://e27.co/the-us46300-question-how-low-can-bitcoin-go-before-buyers-return-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T03:59:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -677,7 +702,7 @@
       "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T02:50:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -703,7 +728,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.14,
+      "age_days": 58.16,
       "topics": [
         "general"
       ],
@@ -719,7 +744,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 58.1d old signal"
+        "aging penalty -16.0 for 58.2d old signal"
       ],
       "summary": ""
     },
@@ -728,7 +753,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.14,
+      "age_days": 58.16,
       "topics": [
         "general"
       ],
@@ -744,7 +769,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 58.1d old signal"
+        "aging penalty -16.0 for 58.2d old signal"
       ],
       "summary": ""
     },
@@ -753,7 +778,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.14,
+      "age_days": 58.16,
       "topics": [
         "ai"
       ],
@@ -770,7 +795,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 58.1d old signal",
+        "aging penalty -16.0 for 58.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -780,7 +805,7 @@
       "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T02:00:19+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
