@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T01:48:22+00:00_
+_Generiert: 2026-08-17T02:18:22+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-17 00:08:06 UTC 2026-08-17 00:08:06 UTC at epicenter Location 17.737°S 178.666°W Depth 555.52 km (345.18 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI is not the advantage, build what competitors cannot copy** — Score 8, observation — [Quelle](https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-17T02:00:19+00:00`, fetched `2026-08-17T02:17:50+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/17/053005)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-16T23:08:00+00:00`, fetched `2026-08-17T01:09:15+00:00`

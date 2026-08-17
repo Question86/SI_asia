@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T01:48:22+00:00_
+_Generated: 2026-08-17T02:18:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -43,7 +43,14 @@ _Generated: 2026-08-17T01:48:22+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas
 - summary: Time 2026-08-17 00:08:06 UTC 2026-08-17 00:08:06 UTC at epicenter Location 17.737°S 178.666°W Depth 555.52 km (345.18 mi)
 
-### 6. 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog
+### 6. AI is not the advantage, build what competitors cannot copy
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-08-17T02:00:19+00:00`
+- url: https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/
+- summary: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. H…
+
+### 7. 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-08-16T23:08:00+00:00`
