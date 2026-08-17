@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T16:00:26+00:00_
+_Generiert: 2026-08-17T16:10:11+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+90 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -70,6 +70,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Microsoft (+2.5); recent (+1.0)
   - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How canvases make agentic workflows visible, steerable, and cost-efficient** — Score 17, opportunity — [Quelle](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-17T16:00:00+00:00`, fetched `2026-08-17T16:09:33+00:00`
+  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.7 - 42 km NNW of Ende, Indonesia** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-17T01:06:50.002+00:00`, fetched `2026-08-17T01:09:15+00:00`
@@ -186,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: For years, Southeast Asia’s digital economy has grown on top of technologies built elsewhere. Cloud infrastructure, operating systems, search, social media, e-commerce tools and, more recently, large language models have largely come from the US and China. The region adapted quickly, but rarely controlled the deepest layers of the stack. Artificial intelligence is forcing governments […] The post Malaysia’s sovereig…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital** — Score 14, observation — [Quelle](https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-17T01:30:07+00:00`, fetched `2026-08-17T01:47:51+00:00`
-  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: A few years ago, the most important questions in a funding conversation were fairly predictable. How much is the investor offering? At what valuation? What expertise, introductions or follow-on capital can they bring? Those questions still matter. But for founders building from Southeast Asia today, they are no longer enough. A cheque now arrives with […] The post Not every cheque keeps every door open: Why Southeas…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -338,8 +338,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

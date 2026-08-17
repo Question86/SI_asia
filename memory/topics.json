@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T16:00:26+00:00",
+  "generated_at": "2026-08-17T16:10:11+00:00",
   "topics": {
     "security": [
       {
@@ -147,6 +147,108 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2867"
       }
     ],
+    "ai": [
+      {
+        "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-17T16:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (12 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-12T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/"
+      },
+      {
+        "title": "The Defender’s Window",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-17T05:30:00+00:00",
+        "relevance_score": 16,
+        "url": "https://openai.com/index/the-defenders-window"
+      },
+      {
+        "title": "Why Southeast Asia doesn’t need to pick a side in the AI race",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T02:30:58+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/"
+      },
+      {
+        "title": "ToolJet/ToolJet",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/ToolJet/ToolJet"
+      },
+      {
+        "title": "[UPDATE] [mittel] SonicWall Email Security: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:41:05+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765"
+      },
+      {
+        "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858"
+      },
+      {
+        "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T05:52:02+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/"
+      },
+      {
+        "title": "Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T01:30:07+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/"
+      },
+      {
+        "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T03:47:09+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/"
+      }
+    ],
+    "github": [
+      {
+        "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-17T16:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/"
+      },
+      {
+        "title": "ToolJet/ToolJet",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/ToolJet/ToolJet"
+      },
+      {
+        "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T03:47:09+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/"
+      },
+      {
+        "title": "basecamp/omarchy",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/basecamp/omarchy"
+      }
+    ],
     "general": [
       {
         "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
@@ -219,78 +321,6 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0"
       }
     ],
-    "ai": [
-      {
-        "title": "Multiples vulnérabilités dans Microsoft Windows (12 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-12T00:00:00+00:00",
-        "relevance_score": 17,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/"
-      },
-      {
-        "title": "The Defender’s Window",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-17T05:30:00+00:00",
-        "relevance_score": 16,
-        "url": "https://openai.com/index/the-defenders-window"
-      },
-      {
-        "title": "Why Southeast Asia doesn’t need to pick a side in the AI race",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T02:30:58+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/"
-      },
-      {
-        "title": "ToolJet/ToolJet",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/ToolJet/ToolJet"
-      },
-      {
-        "title": "[UPDATE] [mittel] SonicWall Email Security: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:41:05+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765"
-      },
-      {
-        "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T10:11:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858"
-      },
-      {
-        "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T05:52:02+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/"
-      },
-      {
-        "title": "Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T01:30:07+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/"
-      },
-      {
-        "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T03:47:09+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/"
-      },
-      {
-        "title": "Philip R Lane: AI and monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-08-17T07:43:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.bis.org/review/r260813c.htm"
-      }
-    ],
     "economy": [
       {
         "title": "Why Southeast Asia doesn’t need to pick a side in the AI race",
@@ -361,29 +391,6 @@
         "published_at": "2026-08-17T08:11:00+00:00",
         "relevance_score": 8,
         "url": "https://www.bis.org/review/r260813f.htm"
-      }
-    ],
-    "github": [
-      {
-        "title": "ToolJet/ToolJet",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 16,
-        "url": "https://github.com/ToolJet/ToolJet"
-      },
-      {
-        "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T03:47:09+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/"
-      },
-      {
-        "title": "basecamp/omarchy",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/basecamp/omarchy"
       }
     ]
   }

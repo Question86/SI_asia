@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T16:00:26+00:00_
+_Generated: 2026-08-17T16:10:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `89`
+- findings: `90`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-17T16:00:26+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.
 
-### 2. M 5.7 - 42 km NNW of Ende, Indonesia
+### 2. How canvases make agentic workflows visible, steerable, and cost-efficient
+- source: GitHub Blog Atom
+- score: `17`
+- published: `2026-08-17T16:00:00+00:00`
+- url: https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/
+- summary: Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared f…
+
+### 3. M 5.7 - 42 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-08-17T01:06:50.002+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 3. Multiples vulnérabilités dans Microsoft Windows (12 août 2026)
+### 4. Multiples vulnérabilités dans Microsoft Windows (12 août 2026)
 - source: CERT-FR Avis de sécurité
 - score: `17`
 - published: `2026-08-12T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/
 - summary: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique…
-
-### 4. [NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T11:16:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
