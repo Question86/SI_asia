@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T12:27:19+00:00",
-  "run_id": "2026-08-17T12:27:19+00:00",
+  "generated_at": "2026-08-17T12:46:03+00:00",
+  "run_id": "2026-08-17T12:46:03+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -3877,108 +3877,7 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Lisa D Cook: Outlook for the US and Alaskan economies",
-      "url": "https://www.bis.org/review/r260813h.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:17:00+00:00",
-      "fetched_at": "2026-08-17T12:26:49+00:00",
-      "summary": "Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska, 5 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2a08ca1c88d2643628f8"
-    },
-    {
-      "title": "Burkhard Balz: 40 years of the Deutsche Bundesbank's Representative Office in New York",
-      "url": "https://www.bis.org/review/r260813f.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:11:00+00:00",
-      "fetched_at": "2026-08-17T12:26:49+00:00",
-      "summary": "Speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the reception marking 40 years of the Representative Office of the Deutsche Bundesbank in the United States, New York City, 7 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: United States, New York (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5248e5aacb1ce5e78045"
-    },
-    {
-      "title": "Lesetja Kganyago: Remarks - annual dinner for the Heads of Foreign Missions accredited in South Africa",
-      "url": "https://www.bis.org/review/r260813i.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:22:00+00:00",
-      "fetched_at": "2026-08-17T12:26:49+00:00",
-      "summary": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the annual dinner for the Heads of Foreign Missions accredited in South Africa, South African Reserve Bank, Pretoria, 9 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "24fdcb766012215463b7"
-    },
-    {
-      "title": "Lesetja Kganyago: Overview of the South African economy",
-      "url": "https://www.bis.org/review/r260813j.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:22:00+00:00",
-      "fetched_at": "2026-08-17T12:26:49+00:00",
-      "summary": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank, Pretoria, 31 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7ae55dd959c0eb9bfafb"
-    },
-    {
-      "title": "Yannis Stournaras: The global economy in 2026 and beyond - financing Europe and Greece's future",
-      "url": "https://www.bis.org/review/r260813g.htm",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:15:00+00:00",
-      "fetched_at": "2026-08-17T12:26:49+00:00",
-      "summary": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 30th Annual Economist Government Roundtable \"The global economy in 2026 and beyond &#8211; financing Europe and Greece's future\", Athens, 10 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "66f3cecc57ec65b1f9e9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
