@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T17:23:52+00:00",
-  "run_id": "2026-08-17T17:23:52+00:00",
+  "generated_at": "2026-08-17T17:38:02+00:00",
+  "run_id": "2026-08-17T17:38:02+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -4649,29 +4649,7 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ほぼ個人で10年開発MMORPG『Soul's Remnant』いきなり人気沸騰中。『メイプル』『マビノギ』大好き開発者が執念で作った“自分のMMO” - AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20260817-460496/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:42:43+00:00",
-      "fetched_at": "2026-08-17T17:23:22+00:00",
-      "summary": "Chaomoonは8月13日、MMORPG『Soul's Remnant』を早期アクセス配信開始した。「非常に好評」ステータスを獲得するなど好調な滑り出しを見せている。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fea058f7a3b99c7d1e0b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
