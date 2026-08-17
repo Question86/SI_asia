@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T14:46:04+00:00_
+_Generated: 2026-08-17T14:57:02+00:00_
 
 ## Status
-- status: `warning`
-- findings: `86`
+- status: `normal`
+- findings: `88`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-17T14:46:04+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 3. [NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen
+### 3. Multiples vulnérabilités dans Microsoft Windows (12 août 2026)
+- source: CERT-FR Avis de sécurité
+- score: `17`
+- published: `2026-08-12T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique…
+
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-17T11:16:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.
-
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T11:11:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
 
 ### 5. Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication

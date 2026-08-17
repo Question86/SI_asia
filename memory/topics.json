@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T14:46:04+00:00",
+  "generated_at": "2026-08-17T14:57:02+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-08-17T10:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (12 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-12T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-17T09:51:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
-      },
-      {
-        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:41:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852"
       }
     ],
     "geopolitics": [
@@ -221,6 +221,13 @@
     ],
     "ai": [
       {
+        "title": "Multiples vulnérabilités dans Microsoft Windows (12 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-12T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/"
+      },
+      {
         "title": "The Defender’s Window",
         "source": "OpenAI News RSS",
         "published_at": "2026-08-17T05:30:00+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-08-17T07:43:00+00:00",
         "relevance_score": 11,
         "url": "https://www.bis.org/review/r260813c.htm"
-      },
-      {
-        "title": "New policy ideas for the Intelligence Age",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-17T03:15:00+00:00",
-        "relevance_score": 10,
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
       }
     ],
     "economy": [
