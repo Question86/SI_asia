@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T13:42:03+00:00_
+_Generiert: 2026-08-17T13:56:46+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-08-17T13:42:03+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2025-62593 Ray-Project Ray** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Ray-Project Ray Code Injection Vulnerability
 - **CISA KEV: CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-11`
@@ -25,10 +29,6 @@ _Generiert: 2026-08-17T13:42:03+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
   - Kurz: Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability
-- **CISA KEV: CVE-2026-63077 JetBrains TeamCity** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-05`
-  - Kurz: Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363)
   - Quelle: GDACS
   - Zeit: ``

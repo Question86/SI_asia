@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-17T13:42:06+00:00",
+  "generated_at": "2026-08-17T13:56:49+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-62593 Ray-Project Ray",
+        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Ray-Project Ray Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-18",
+        "metrics": {
+          "cve": "CVE-2025-62593"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-08-07",
         "metrics": {
           "cve": "CVE-2026-8037"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-63077 JetBrains TeamCity",
-        "summary": "Known exploited vulnerability. Added 2026-08-05. Due 2026-08-08. JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-05",
-        "metrics": {
-          "cve": "CVE-2026-63077"
         }
       },
       {
