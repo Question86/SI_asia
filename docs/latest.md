@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T05:50:25+00:00_
+_Generiert: 2026-08-17T06:03:15+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+27 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 ## Priorität Hoch
 
@@ -93,6 +93,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Malaysia’s sovereign AI bet: Local context becomes the next startup moat** — Score 14, observation — [Quelle](https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-17T05:52:02+00:00`, fetched `2026-08-17T06:02:46+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: For years, Southeast Asia’s digital economy has grown on top of technologies built elsewhere. Cloud infrastructure, operating systems, search, social media, e-commerce tools and, more recently, large language models have largely come from the US and China. The region adapted quickly, but rarely controlled the deepest layers of the stack. Artificial intelligence is forcing governments […] The post Malaysia’s sovereig…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-17T05:11:06+00:00`, fetched `2026-08-17T05:18:56+00:00`
@@ -158,6 +167,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/administrative_procedures_online)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-17T06:00:00+00:00`, fetched `2026-08-17T06:02:46+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **公金受取口座として登録可能な口座の金融機関の一覧を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/account_registration/list-registerable-account)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-17T06:00:00+00:00`, fetched `2026-08-17T06:02:46+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 公金受取口座として登録可能な口座の金融機関の一覧を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット** — Score 5, observation — [Quelle](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
