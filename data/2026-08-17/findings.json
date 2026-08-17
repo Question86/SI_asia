@@ -383,6 +383,52 @@
     "id": "be5e2959a29bda9f4859"
   },
   {
+    "title": "[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T08:31:06+00:00",
+    "fetched_at": "2026-08-17T08:38:29+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren oder um einen Denial of Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "118cb5270f8bd6cf7877"
+  },
+  {
+    "title": "[UPDATE] [hoch] Oracle PeopleSoft: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1793",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T08:21:06+00:00",
+    "fetched_at": "2026-08-17T08:38:29+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle PeopleSoft ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a81c66e3bcc03edfc5b9"
+  },
+  {
     "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
     "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -592,6 +638,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ed24708a7ab513919bcc"
+  },
+  {
+    "title": "Zahlreiche Crash-Lücken in Wireshark geschlossen",
+    "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-17T08:15:00.000+00:00",
+    "fetched_at": "2026-08-17T08:38:29+00:00",
+    "summary": "In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee0cf9dc773c70f6c94d"
   },
   {
     "title": "Angriffe auf SAP-Commerce-Cloud-Lücke beobachtet",

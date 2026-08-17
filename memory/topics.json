@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T08:22:04+00:00",
+  "generated_at": "2026-08-17T08:38:58+00:00",
   "topics": {
     "general": [
       {
@@ -105,11 +105,32 @@
         "url": "https://jvn.jp/jp/JVN91713656/"
       },
       {
+        "title": "[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T08:31:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848"
+      },
+      {
+        "title": "[UPDATE] [hoch] Oracle PeopleSoft: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T08:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1793"
+      },
+      {
         "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-17T05:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806"
+      },
+      {
+        "title": "Zahlreiche Crash-Lücken in Wireshark geschlossen",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-17T08:15:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html"
       },
       {
         "title": "Angriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
