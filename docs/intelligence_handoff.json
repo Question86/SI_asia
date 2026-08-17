@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-17T11:05:24Z",
+  "generated_at": "2026-08-17T11:37:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:06:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:51:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:14:11+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T05:36:05+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -111,36 +111,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, SQL-Injection- oder Cross-Site-Scripting-Angriffe durchzuführen oder einen…"
     },
     {
-      "title": "[UPDATE] [hoch] AMD Prozessor: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1482",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-17T10:36:10+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in AMD Prozessor ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen – sogar mit Administratorrechten –, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
-    },
-    {
       "title": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -164,11 +139,37 @@
       "summary": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tool…"
     },
     {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:16:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:36:07+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -194,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:36:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -220,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:37:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -246,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:06:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -271,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:41:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -294,11 +295,11 @@
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SonicWall Email Security ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
     },
     {
-      "title": "[NEU] [mittel] InetUtils (talkd): Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2860",
+      "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-17T10:26:05+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-08-17T11:06:06+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -313,11 +314,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code",
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
         "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in InetUtils ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise einen Denial-of-Service-Zustand oder die Ausführung von beliebigem Code."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vm2 ausnutzen, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, und um Daten zu manipulieren."
     }
   ],
   "read_order": [
@@ -329,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 5,
-      "strong": 7
+      "krass": 4,
+      "strong": 8
     }
   }
 }

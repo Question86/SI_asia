@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-17T11:05:24Z",
+  "generated_at": "2026-08-17T11:37:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 17,
-      "strong": 20,
-      "watch": 2
+      "krass": 23,
+      "strong": 15,
+      "watch": 1
     },
     "bands_after_gate_recheck": {
-      "krass": 5,
+      "krass": 6,
       "strong": 33,
-      "watch": 2
+      "watch": 1
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:06:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:51:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:14:11+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T05:36:05+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -119,11 +119,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, SQL-Injection- oder Cross-Site-Scripting-Angriffe durchzuführen oder einen…"
     },
     {
+      "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2863",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:01:06+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Gitea ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Berechtigungen zu erweitern, Benutzerkonten zu übernehmen, vertrauliche Informationen offenzulegen oder beliebigen Code als Gitea-Dienstbenutzer auszuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] AMD Prozessor: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1482",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:36:10+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -148,7 +173,7 @@
       "url": "https://jvn.jp/jp/JVN58692577/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T14:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -172,7 +197,7 @@
       "url": "https://jvn.jp/jp/JVN40688603/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:30+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -196,7 +221,7 @@
       "url": "https://jvn.jp/jp/JVN91713656/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -216,11 +241,59 @@
       "summary": "Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] RealObjects PDFreactor: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2867",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:16:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in RealObjects PDFreactor ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] OpenTofu: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2864",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:06:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OpenTofu ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen."
+    },
+    {
       "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:56:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -244,7 +317,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T08:31:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -268,7 +341,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1793",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T08:21:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -292,7 +365,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T05:11:06+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -316,7 +389,7 @@
       "url": "https://github.com/ToolJet/ToolJet",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -340,11 +413,37 @@
       "summary": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tool…"
     },
     {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:16:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:36:07+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -370,7 +469,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:36:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -396,7 +495,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:37:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -422,7 +521,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:06:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -447,7 +546,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:41:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -470,11 +569,63 @@
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SonicWall Email Security ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
     },
     {
+      "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:06:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in vm2 ausnutzen, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, und um Daten zu manipulieren."
+    },
+    {
+      "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2861",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:01:05+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Budibase ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] InetUtils (talkd): Schwachstelle ermöglicht nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2860",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:26:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -500,7 +651,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2859",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:21:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -526,7 +677,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T10:11:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -549,11 +700,61 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM AIX und IBM VIOS ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:11:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen."
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T11:01:06+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:51:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -578,7 +779,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-17T09:41:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -603,7 +804,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11108-7b14c-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-17T06:13:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -629,7 +830,7 @@
       "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T03:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -655,7 +856,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.38,
+      "age_days": 59.4,
       "topics": [
         "ai"
       ],
@@ -684,7 +885,7 @@
       "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T05:52:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -711,7 +912,7 @@
       "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-PostgreSQL-11415746.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-17T10:21:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -736,7 +937,7 @@
       "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-17T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -761,7 +962,7 @@
       "url": "https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-17T06:21:00.000+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -782,161 +983,11 @@
       "summary": "SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen."
     },
     {
-      "title": "M 5.2 - 81 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T10:59:05.040+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 10:42:41 UTC 2026-08-17 10:42:41 UTC at epicenter Location 7.876°S 120.502°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.8 - 52 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T09:34:54.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 09:16:05 UTC 2026-08-17 09:16:05 UTC at epicenter Location 8.391°S 121.519°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 90 km NE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T04:14:30.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 03:33:53 UTC 2026-08-17 03:33:53 UTC at epicenter Location 8.091°S 121.095°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.2 - 70 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T04:02:57.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 03:48:04 UTC 2026-08-17 03:48:04 UTC at epicenter Location 8.300°S 121.327°E Depth 16.34 km (10.15 mi)"
-    },
-    {
-      "title": "M 5.3 - 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T03:54:47.040+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 03:36:39 UTC 2026-08-17 03:36:39 UTC at epicenter Location 8.278°S 121.407°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.5 - 35 km E of Poso, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T01:37:34.040+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-17 01:01:29 UTC 2026-08-17 01:01:29 UTC at epicenter Location 1.366°S 121.071°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -957,35 +1008,11 @@
       "summary": "Beautiful, Modern & Opinionated Linux https://omarchy.org Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at omarchy.org . The Omarchy Manual The manual lives in manual/ , which is its authoritative source. It's mirrored to learn.omacom.io , where its screenshots are also host…"
     },
     {
-      "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T01:06:50.002+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)"
-    },
-    {
       "title": "Zahlreiche Crash-Lücken in Wireshark geschlossen",
       "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-17T08:15:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -1003,30 +1030,6 @@
         "security high-signal: security"
       ],
       "summary": "In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert."
-    },
-    {
-      "title": "M 4.9 - 61 km NW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ech",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T07:57:03.040+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-17 07:20:32 UTC 2026-08-17 07:20:32 UTC at epicenter Location 8.525°S 121.201°E Depth 28.25 km (17.55 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
