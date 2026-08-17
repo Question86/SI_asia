@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T14:32:22+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-17T14:46:04+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 86,
@@ -11,8 +11,15 @@
     "high": 0,
     "medium": 45,
     "observe": 41,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_vietnam_hot",
+      "source_name": "Google Trends Vietnam Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.com.vn', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
