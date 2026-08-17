@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T13:56:46+00:00_
+_Generiert: 2026-08-17T14:07:46+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+86 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 ## Priorität Hoch
 

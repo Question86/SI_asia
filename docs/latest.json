@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T13:56:46+00:00",
-  "run_id": "2026-08-17T13:56:46+00:00",
+  "generated_at": "2026-08-17T14:07:46+00:00",
+  "run_id": "2026-08-17T14:07:46+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 45,
-    "observe": 40,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -1761,6 +1761,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "32352916bacc0d6a0eee"
+      },
+      {
+        "title": "Wealth management emerges bright spot in Southeast Asia financial services M&A",
+        "url": "https://e27.co/wealth-management-emerges-bright-spot-in-southeast-asia-financial-services-ma-20260817/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-17T13:59:43+00:00",
+        "fetched_at": "2026-08-17T14:07:10+00:00",
+        "summary": "Southeast Asia’s financial services dealmaking held its ground in the first half of 2026, even as the total value of transactions dropped sharply, suggesting that buyers remain active but more selective in a market still shaped by high uncertainty. According to EY’s latest financial services M&A analysis, the region recorded 31 publicly disclosed mergers and […] The post Wealth management emerges bright spot in Sout…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bc3fe1b855a7866c2b70"
       },
       {
         "title": "Lesetja Kganyago: Remarks - annual dinner for the Heads of Foreign Missions accredited in South Africa",
@@ -3866,6 +3887,27 @@
       "id": "32352916bacc0d6a0eee"
     },
     {
+      "title": "Wealth management emerges bright spot in Southeast Asia financial services M&A",
+      "url": "https://e27.co/wealth-management-emerges-bright-spot-in-southeast-asia-financial-services-ma-20260817/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-17T13:59:43+00:00",
+      "fetched_at": "2026-08-17T14:07:10+00:00",
+      "summary": "Southeast Asia’s financial services dealmaking held its ground in the first half of 2026, even as the total value of transactions dropped sharply, suggesting that buyers remain active but more selective in a market still shaped by high uncertainty. According to EY’s latest financial services M&A analysis, the region recorded 31 publicly disclosed mergers and […] The post Wealth management emerges bright spot in Sout…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bc3fe1b855a7866c2b70"
+    },
+    {
       "title": "Lesetja Kganyago: Remarks - annual dinner for the Heads of Foreign Missions accredited in South Africa",
       "url": "https://www.bis.org/review/r260813i.htm",
       "source": "BIS Central Bankers Speeches",
@@ -4235,7 +4277,29 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Wealth management emerges bright spot in Southeast Asia financial services M&A",
+      "url": "https://e27.co/wealth-management-emerges-bright-spot-in-southeast-asia-financial-services-ma-20260817/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-17T13:59:43+00:00",
+      "fetched_at": "2026-08-17T14:07:10+00:00",
+      "summary": "Southeast Asia’s financial services dealmaking held its ground in the first half of 2026, even as the total value of transactions dropped sharply, suggesting that buyers remain active but more selective in a market still shaped by high uncertainty. According to EY’s latest financial services M&A analysis, the region recorded 31 publicly disclosed mergers and […] The post Wealth management emerges bright spot in Sout…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bc3fe1b855a7866c2b70"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
