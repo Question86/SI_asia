@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T17:11:33+00:00",
-  "run_id": "2026-08-17T17:11:33+00:00",
+  "generated_at": "2026-08-17T17:23:52+00:00",
+  "run_id": "2026-08-17T17:23:52+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 1,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 48,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -2107,6 +2107,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "69cd4d6e09089a5cbf80"
+      },
+      {
+        "title": "ほぼ個人で10年開発MMORPG『Soul's Remnant』いきなり人気沸騰中。『メイプル』『マビノギ』大好き開発者が執念で作った“自分のMMO” - AUTOMATON",
+        "url": "https://automaton-media.com/articles/newsjp/20260817-460496/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-17T08:42:43+00:00",
+        "fetched_at": "2026-08-17T17:23:22+00:00",
+        "summary": "Chaomoonは8月13日、MMORPG『Soul's Remnant』を早期アクセス配信開始した。「非常に好評」ステータスを獲得するなど好調な滑り出しを見せている。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fea058f7a3b99c7d1e0b"
       },
       {
         "title": "「ほんだし」のラベルがAIでぐちゃぐちゃに…… 味の素、公式Xの投稿画像について謝罪",
@@ -4398,6 +4419,27 @@
       "id": "69cd4d6e09089a5cbf80"
     },
     {
+      "title": "ほぼ個人で10年開発MMORPG『Soul's Remnant』いきなり人気沸騰中。『メイプル』『マビノギ』大好き開発者が執念で作った“自分のMMO” - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460496/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T08:42:43+00:00",
+      "fetched_at": "2026-08-17T17:23:22+00:00",
+      "summary": "Chaomoonは8月13日、MMORPG『Soul's Remnant』を早期アクセス配信開始した。「非常に好評」ステータスを獲得するなど好調な滑り出しを見せている。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fea058f7a3b99c7d1e0b"
+    },
+    {
       "title": "「ほんだし」のラベルがAIでぐちゃぐちゃに…… 味の素、公式Xの投稿画像について謝罪",
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000564/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4607,7 +4649,29 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ほぼ個人で10年開発MMORPG『Soul's Remnant』いきなり人気沸騰中。『メイプル』『マビノギ』大好き開発者が執念で作った“自分のMMO” - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460496/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T08:42:43+00:00",
+      "fetched_at": "2026-08-17T17:23:22+00:00",
+      "summary": "Chaomoonは8月13日、MMORPG『Soul's Remnant』を早期アクセス配信開始した。「非常に好評」ステータスを獲得するなど好調な滑り出しを見せている。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fea058f7a3b99c7d1e0b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
