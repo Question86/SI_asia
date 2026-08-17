@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T15:52:02+00:00",
-  "run_id": "2026-08-17T15:52:02+00:00",
+  "generated_at": "2026-08-17T16:00:26+00:00",
+  "run_id": "2026-08-17T16:00:26+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4417,29 +4417,7 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "なぜXperiaは「イヤフォンジャック」の搭載を続けるのか？ ソニー開発陣が明かす基板設計と音質へのこだわり",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2608/17/news012.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-17T10:01:15+00:00",
-      "fetched_at": "2026-08-17T15:51:28+00:00",
-      "summary": "近年のスマートフォン市場、特にハイエンドモデルにおいては、3.5mmオーディオジャック（イヤフォンジャック）を廃止する流れが定着しつつある。国内外の主要メーカーがワイヤレス接続への移行を理由に搭載を見送る中、実質的に唯一といえるほどかたくなにイヤフォンジャックを搭載し続けているのが、ソニーの「Xperia 1...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "69cd4d6e09089a5cbf80"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
