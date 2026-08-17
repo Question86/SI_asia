@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:42:33+00:00",
+  "generated_at": "2026-08-17T01:09:51+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.7 - 42 km NNW of Ende, Indonesia",
+        "summary": "M5.7 - 42 km NNW of Ende, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
+        "published_at": "2026-08-17T00:46:45+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "",
+          "sig": 500.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
