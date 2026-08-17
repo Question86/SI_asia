@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:02:08+00:00",
-  "run_id": "2026-08-17T05:02:08+00:00",
+  "generated_at": "2026-08-17T05:19:26+00:00",
+  "run_id": "2026-08-17T05:19:26+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 2,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 11,
-    "observe": 9,
+    "medium": 12,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -352,6 +352,29 @@
         "id": "be5e2959a29bda9f4859"
       },
       {
+        "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T05:11:06+00:00",
+        "fetched_at": "2026-08-17T05:18:56+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7adf4404bedcb1c8be84"
+      },
+      {
         "title": "Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital",
         "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -538,6 +561,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d5e11d91e8a5168395c2"
+      },
+      {
+        "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-17T03:11:17+00:00",
+        "fetched_at": "2026-08-17T05:18:56+00:00",
+        "summary": "このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6b71b31c0ab08b4b7b9d"
       },
       {
         "title": "北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog",
@@ -927,6 +971,29 @@
       "id": "be5e2959a29bda9f4859"
     },
     {
+      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T05:11:06+00:00",
+      "fetched_at": "2026-08-17T05:18:56+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7adf4404bedcb1c8be84"
+    },
+    {
       "title": "Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital",
       "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1113,6 +1180,27 @@
       "id": "d5e11d91e8a5168395c2"
     },
     {
+      "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
+      "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T03:11:17+00:00",
+      "fetched_at": "2026-08-17T05:18:56+00:00",
+      "summary": "このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6b71b31c0ab08b4b7b9d"
+    },
+    {
       "title": "北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1177,26 +1265,48 @@
   ],
   "new_findings": [
     {
-      "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/jp/JVN58692577/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T14:00:00+09:00",
-      "fetched_at": "2026-08-17T05:01:34+00:00",
-      "summary": "シンキングリード株式会社が提供するF-RevoCRMには、クロスサイトスクリプティングの脆弱性が存在します。",
+      "published_at": "2026-08-17T05:11:06+00:00",
+      "fetched_at": "2026-08-17T05:18:56+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
         "Security"
       ],
       "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b1c8a2fdf4ae466f6030"
+      "id": "7adf4404bedcb1c8be84"
+    },
+    {
+      "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
+      "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T03:11:17+00:00",
+      "fetched_at": "2026-08-17T05:18:56+00:00",
+      "summary": "このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6b71b31c0ab08b4b7b9d"
     }
   ],
   "source_errors": [],
