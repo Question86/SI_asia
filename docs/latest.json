@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T08:38:58+00:00",
-  "run_id": "2026-08-17T08:38:58+00:00",
+  "generated_at": "2026-08-17T08:58:16+00:00",
+  "run_id": "2026-08-17T08:58:16+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 1,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 17,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -790,6 +790,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d5e11d91e8a5168395c2"
+      },
+      {
+        "title": "とまり木 — 各地のカメラから、日本のいま。",
+        "url": "https://tomarigi.me/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-17T06:22:27+00:00",
+        "fetched_at": "2026-08-17T08:57:40+00:00",
+        "summary": "日本各地のYouTubeライブカメラを地図から探して、その場で視聴できるサービス「とまり木」。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a4ed2390bb8b9384c17"
       },
       {
         "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
@@ -1659,6 +1680,27 @@
       "id": "d5e11d91e8a5168395c2"
     },
     {
+      "title": "とまり木 — 各地のカメラから、日本のいま。",
+      "url": "https://tomarigi.me/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T06:22:27+00:00",
+      "fetched_at": "2026-08-17T08:57:40+00:00",
+      "summary": "日本各地のYouTubeライブカメラを地図から探して、その場で視聴できるサービス「とまり木」。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a4ed2390bb8b9384c17"
+    },
+    {
       "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
       "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1765,70 +1807,25 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "とまり木 — 各地のカメラから、日本のいま。",
+      "url": "https://tomarigi.me/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-17T08:31:06+00:00",
-      "fetched_at": "2026-08-17T08:38:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache Struts ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren oder um einen Denial of Service zu verursachen.",
+      "published_at": "2026-08-17T06:22:27+00:00",
+      "fetched_at": "2026-08-17T08:57:40+00:00",
+      "summary": "日本各地のYouTubeライブカメラを地図から探して、その場で視聴できるサービス「とまり木」。",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "118cb5270f8bd6cf7877"
-    },
-    {
-      "title": "[UPDATE] [hoch] Oracle PeopleSoft: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1793",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:21:06+00:00",
-      "fetched_at": "2026-08-17T08:38:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Oracle PeopleSoft ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a81c66e3bcc03edfc5b9"
-    },
-    {
-      "title": "Zahlreiche Crash-Lücken in Wireshark geschlossen",
-      "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-17T08:15:00.000+00:00",
-      "fetched_at": "2026-08-17T08:38:29+00:00",
-      "summary": "In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ee0cf9dc773c70f6c94d"
+      "id": "7a4ed2390bb8b9384c17"
     }
   ],
   "source_errors": [],

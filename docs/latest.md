@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T08:38:58+00:00_
+_Generiert: 2026-08-17T08:58:16+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+34 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 公金受取口座として登録可能な口座の金融機関の一覧を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **とまり木 — 各地のカメラから、日本のいま。** — Score 5, observation — [Quelle](https://tomarigi.me/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-17T06:22:27+00:00`, fetched `2026-08-17T08:57:40+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 日本各地のYouTubeライブカメラを地図から探して、その場で視聴できるサービス「とまり木」。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット** — Score 5, observation — [Quelle](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-17T03:11:17+00:00`, fetched `2026-08-17T05:18:56+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 星野俊樹『とびこえる教室』 @tipacabla 【完全攻略】人権作文コンテストで内閣総理大臣賞を獲る１３ヶ条！ （１）導入は必ず「身近な人」から始めよ 社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなた...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/17/053005)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-16T23:08:00+00:00`, fetched `2026-08-17T01:09:15+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: セキュリティベンダのANY.RUNと、脅威インテリジェンス組織のBCA LTD、NorthScanの3者は2026年8月10日、偽のDeFiスタートアップを設立し、Famous Chollimaに属するとみられる北朝鮮IT労働者を実際に採用したうえで、取引先が用意したと説明した仮想デスクトップ環境を通じて採用後の挙動を記録したとする調査結果を公表...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **basecamp/omarchy** — Score 5, observation — [Quelle](https://github.com/basecamp/omarchy)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
