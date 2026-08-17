@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T04:09:19+00:00_
+_Generated: 2026-08-17T04:26:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `19`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-17T04:09:19+00:00_
 - url: https://github.com/ToolJet/ToolJet
 - summary: ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the…
 
-### 4. M 5.2 - 70 km NNW of Ende, Indonesia
+### 4. M 4.9 - 90 km NE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-17T04:02:57.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj
-- summary: Time 2026-08-17 03:48:04 UTC 2026-08-17 03:48:04 UTC at epicenter Location 8.300°S 121.327°E Depth 16.34 km (10.15 mi)
+- published: `2026-08-17T04:14:30.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh
+- summary: Time 2026-08-17 03:33:53 UTC 2026-08-17 03:33:53 UTC at epicenter Location 8.091°S 121.095°E Depth 10.00 km (6.21 mi)
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed
