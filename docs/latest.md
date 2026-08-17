@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T21:45:13+00:00_
+_Generiert: 2026-08-17T21:54:44+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „Codexを効率よく使う方法（ChatGPT + GitHub）“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+100 neue relevante Treffer. Stärkstes Signal: „Codexを効率よく使う方法（ChatGPT + GitHub）“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship, more of the workflow, more of the economics, then surely we […] The post Strategic chokepoints: Designing leverage without owning everything appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - Kuril Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlbz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-17T21:53:24.040+00:00`, fetched `2026-08-17T21:54:13+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-17 21:36:35 UTC 2026-08-17 21:36:35 UTC at epicenter Location 46.434°N 151.383°E Depth 90.99 km (56.54 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 41 km SW of Karluk, Alaska** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgsene)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-17T20:37:31.146+00:00`, fetched `2026-08-17T20:37:14+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-17 19:51:23 UTC 2026-08-17 19:51:23 UTC at epicenter Location 77.575°N 6.791°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 75 km ESE of Petropavlovsk-Kamchatsky, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-17T12:57:49.040+00:00`, fetched `2026-08-17T13:05:57+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-17 12:38:04 UTC 2026-08-17 12:38:04 UTC at epicenter Location 52.913°N 159.726°E Depth 67.50 km (41.94 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Michele Bullock: Monetary policy in an era of shocks** — Score 9, observation — [Quelle](https://www.bis.org/review/r260813a.htm)
   - Quelle: BIS Central Bankers Speeches / `rss`
