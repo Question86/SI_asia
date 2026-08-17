@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T09:52:20+00:00",
-  "run_id": "2026-08-17T09:52:20+00:00",
+  "generated_at": "2026-08-17T10:06:57+00:00",
+  "run_id": "2026-08-17T10:06:57+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 4,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
-    "medium": 22,
-    "observe": 18,
+    "medium": 25,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -66,6 +66,54 @@
           "LOW"
         ],
         "id": "1065f5427e7407cc8494"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T09:51:06+00:00",
+        "fetched_at": "2026-08-17T10:06:26+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4aa182e95b2f22e0ac53"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T09:51:05+00:00",
+        "fetched_at": "2026-08-17T10:06:26+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "628188b5c247a7e46340"
       },
       {
         "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -545,6 +593,29 @@
         "id": "be5e2959a29bda9f4859"
       },
       {
+        "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T09:56:06+00:00",
+        "fetched_at": "2026-08-17T10:06:26+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM Langflow Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a7a5b4c648173302ca78"
+      },
+      {
         "title": "[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848",
         "source": "BSI CERT-Bund Security Advisories",
@@ -823,6 +894,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ed24708a7ab513919bcc"
+      },
+      {
+        "title": "Ban on Chinese robots leaves U.S. startups stranded",
+        "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-17T10:00:00+00:00",
+        "fetched_at": "2026-08-17T10:06:26+00:00",
+        "summary": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a8ea5a750d65cbfdab86"
       },
       {
         "title": "Zahlreiche Crash-Lücken in Wireshark geschlossen",
@@ -1109,6 +1200,54 @@
         "LOW"
       ],
       "id": "1065f5427e7407cc8494"
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T09:51:06+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4aa182e95b2f22e0ac53"
+    },
+    {
+      "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T09:51:05+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "628188b5c247a7e46340"
     },
     {
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -1588,6 +1727,29 @@
       "id": "be5e2959a29bda9f4859"
     },
     {
+      "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T09:56:06+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM Langflow Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a7a5b4c648173302ca78"
+    },
+    {
       "title": "[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1866,6 +2028,26 @@
       "id": "ed24708a7ab513919bcc"
     },
     {
+      "title": "Ban on Chinese robots leaves U.S. startups stranded",
+      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-17T10:00:00+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a8ea5a750d65cbfdab86"
+    },
+    {
       "title": "Zahlreiche Crash-Lücken in Wireshark geschlossen",
       "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
       "source": "heise Security Alerts",
@@ -2113,13 +2295,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:41:06+00:00",
-      "fetched_at": "2026-08-17T09:51:51+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service herbeizuführen oder einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-08-17T09:51:06+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2134,91 +2316,74 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f45d46373244c6706b3f"
+      "id": "4aa182e95b2f22e0ac53"
     },
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180",
+      "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:37:40+00:00",
-      "fetched_at": "2026-08-17T09:51:51+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die potenziell einen Denial-of-Service-Zustand verursachen, sensible Informationen offenlegen oder zu einer Speicherbeschädigung führen können.",
+      "published_at": "2026-08-17T09:51:05+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Linux",
+        "Microsoft",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a36468002c2c5b828bf7"
+      "id": "628188b5c247a7e46340"
     },
     {
-      "title": "[UPDATE] [mittel] SonicWall Email Security: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765",
+      "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:41:05+00:00",
-      "fetched_at": "2026-08-17T09:51:51+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in SonicWall Email Security ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+      "published_at": "2026-08-17T09:56:06+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM Langflow Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "34d71d9bf199d1759d5d"
+      "id": "a7a5b4c648173302ca78"
     },
     {
-      "title": "M 4.8 - 52 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Ban on Chinese robots leaves U.S. startups stranded",
+      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:34:54.040+00:00",
-      "fetched_at": "2026-08-17T09:51:51+00:00",
-      "summary": "Time 2026-08-17 09:16:05 UTC 2026-08-17 09:16:05 UTC at epicenter Location 8.391°S 121.519°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-17T10:00:00+00:00",
+      "fetched_at": "2026-08-17T10:06:26+00:00",
+      "summary": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e0c7730808eaa124559b"
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a8ea5a750d65cbfdab86"
     }
   ],
   "source_errors": [],

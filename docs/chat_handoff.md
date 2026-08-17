@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T09:52:20+00:00_
+_Generated: 2026-08-17T10:06:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `44`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-17T09:52:20+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 2. [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 2. [NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-17T09:51:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.
+
+### 3. [NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-17T09:51:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 4. [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-17T09:41:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852
 - summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service herbeizuführen oder einen nicht näher spezifizierten Angriff durchzuführen.
-
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T09:37:40+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die potenziell einen Denial-of-Service-Zustand verursachen, sensible Informationen offenlegen oder zu einer Speicherbeschädigung…
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (nodejs:24): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T09:14:11+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um SSRF-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren, möglicherweise beliebigen Code auszuführen oder einen Denial-of-Service-…
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed

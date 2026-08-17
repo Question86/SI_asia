@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T09:52:20+00:00",
+  "generated_at": "2026-08-17T10:06:57+00:00",
   "topics": {
     "general": [
       {
@@ -77,6 +77,20 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
+      },
+      {
         "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-17T09:41:06+00:00",
@@ -131,23 +145,23 @@
         "published_at": "2026-08-17T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN91713656/"
-      },
-      {
-        "title": "[UPDATE] [mittel] Apache Struts: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T08:31:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2848"
-      },
-      {
-        "title": "[UPDATE] [hoch] Oracle PeopleSoft: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T08:21:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1793"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
+      },
       {
         "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -161,6 +175,13 @@
         "published_at": "2026-08-17T05:36:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
+      },
+      {
+        "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855"
       },
       {
         "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
@@ -242,18 +263,18 @@
         "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/"
       },
       {
+        "title": "Ban on Chinese robots leaves U.S. startups stranded",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-08-17T10:00:00+00:00",
+        "relevance_score": 7,
+        "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
         "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-17T02:50:00+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
-      },
-      {
-        "title": "差別や偏見が生まれる「構造」を問うてはいけない？全国中学生人権作文コンテストの受賞作品をAIに分析させたら「内閣総理大臣賞を獲る13ヶ条」ができた話",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-17T02:15:16+00:00",
-        "relevance_score": 5,
-        "url": "https://togetter.com/li/2734001"
       }
     ],
     "economy": [
