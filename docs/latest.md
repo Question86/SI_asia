@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T10:18:15+00:00_
+_Generiert: 2026-08-17T10:32:48+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+50 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Schadcode-Sicherheitslücken bedrohen PostgreSQL** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-PostgreSQL-11415746.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-17T10:21:00.000+00:00`, fetched `2026-08-17T10:32:13+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In aktuellen Versionen haben die PostgreSQL-Entwickler mehrere Sicherheitslücken geschlossen. Für einen Versionsstrang läuft bald der Support aus.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ban on Chinese robots leaves U.S. startups stranded** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-17T10:00:00+00:00`, fetched `2026-08-17T10:06:26+00:00`
@@ -257,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 星野俊樹『とびこえる教室』 @tipacabla 【完全攻略】人権作文コンテストで内閣総理大臣賞を獲る１３ヶ条！ （１）導入は必ず「身近な人」から始めよ 社会や国家の話から始めてはいけない。母、幼馴染、聾学校の同級生——血縁か、それに準ずる情の濃い関係からスタートすること。「先日ニュースを見て」は絶対NG。あなた...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **basecamp/omarchy** — Score 5, observation — [Quelle](https://github.com/basecamp/omarchy)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-17T02:45:19+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Beautiful, Modern & Opinionated Linux https://omarchy.org Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at omarchy.org . The Omarchy Manual The manual lives in manual/ , which is its authoritative source. It's mirrored to learn.omacom.io , where its screenshots are also hosted. Welcome to Omarchy! The Basics Getting Started Coming From Mac or Windows Navigation The top bar…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

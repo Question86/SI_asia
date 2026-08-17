@@ -612,6 +612,52 @@
     "id": "be5e2959a29bda9f4859"
   },
   {
+    "title": "[NEU] [mittel] InetUtils (talkd): Schwachstelle ermöglicht nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2860",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:26:05+00:00",
+    "fetched_at": "2026-08-17T10:32:13+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in InetUtils ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise einen Denial-of-Service-Zustand oder die Ausführung von beliebigem Code.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0200a27da63acf218938"
+  },
+  {
+    "title": "[NEU] [hoch] WP Royal Royal Elementor Addons: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2859",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:21:05+00:00",
+    "fetched_at": "2026-08-17T10:32:13+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in WP Royal Royal Elementor Addons ausnutzen, um serverseitige Request-Forgery- und Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "50467966dc793bcfd772"
+  },
+  {
     "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858",
     "source": "BSI CERT-Bund Security Advisories",
@@ -934,6 +980,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ed24708a7ab513919bcc"
+  },
+  {
+    "title": "Schadcode-Sicherheitslücken bedrohen PostgreSQL",
+    "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-PostgreSQL-11415746.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:21:00.000+00:00",
+    "fetched_at": "2026-08-17T10:32:13+00:00",
+    "summary": "In aktuellen Versionen haben die PostgreSQL-Entwickler mehrere Sicherheitslücken geschlossen. Für einen Versionsstrang läuft bald der Support aus.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b28f88d87699d2021494"
   },
   {
     "title": "Ban on Chinese robots leaves U.S. startups stranded",
