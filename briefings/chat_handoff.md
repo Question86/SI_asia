@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T09:17:13+00:00_
+_Generated: 2026-08-17T09:32:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `36`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-17T09:17:13+00:00_
 - url: https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates
 - summary: GDPの四半期別速報に関するダッシュボードを更新しました
 
-### 7. Strategic chokepoints: Designing leverage without owning everything
+### 7. Philip R. Lane: The rise in defence spending and the euro area economy
+- source: ECB Press Releases Speeches Interviews
+- score: `10`
+- published: `2026-08-17T09:30:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf
+- summary: Philip R. Lane: The rise in defence spending and the euro area economy
+
+### 8. Strategic chokepoints: Designing leverage without owning everything
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-17T01:00:33+00:00`
 - url: https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/
 - summary: One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship,…
-
-### 8. M 4.9 - 216 km E of Levuka, Fiji
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-17T00:24:34.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas
-- summary: Time 2026-08-17 00:08:06 UTC 2026-08-17 00:08:06 UTC at epicenter Location 17.737°S 178.666°W Depth 555.52 km (345.18 mi)
 
 END OF DOCUMENT

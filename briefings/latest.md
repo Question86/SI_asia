@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T09:17:13+00:00_
+_Generiert: 2026-08-17T09:32:38+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+36 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -214,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: GDPの四半期別速報に関するダッシュボードを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Philip R. Lane: The rise in defence spending and the euro area economy** — Score 10, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-08-17T09:30:00+00:00`, fetched `2026-08-17T09:32:09+00:00`
+  - Treffer: euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Philip R. Lane: The rise in defence spending and the euro area economy
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Strategic chokepoints: Designing leverage without owning everything** — Score 10, observation — [Quelle](https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
