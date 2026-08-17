@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T17:51:19+00:00_
+_Generiert: 2026-08-17T18:01:44+00:00_
 
 ## Kurzlage
 
@@ -11,8 +11,8 @@ _Generiert: 2026-08-17T17:51:19+00:00_
 
 - **CISA KEV: CVE-2025-62593 Ray-Project Ray** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-18`
-  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Ray-Project Ray Code Injection Vulnerability
+  - Zeit: `2026-08-17`
+  - Kurz: Known exploited vulnerability. Added 2026-08-17. Due 2026-08-20. Ray-Project Ray Code Injection Vulnerability
 - **CISA KEV: CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-11`
