@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:30:58+00:00",
-  "run_id": "2026-08-17T03:30:58+00:00",
+  "generated_at": "2026-08-17T03:51:41+00:00",
+  "run_id": "2026-08-17T03:51:41+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 7,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -265,6 +265,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
+        "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-17T03:47:09+00:00",
+        "fetched_at": "2026-08-17T03:51:07+00:00",
+        "summary": "Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary […] The post AI demand lifts Mala…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d9f1bbb2973eaff798f9"
+      },
       {
         "title": "GDPの四半期別速報に関するダッシュボードを更新しました",
         "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
@@ -664,6 +686,28 @@
       "id": "7d09494e86d1823ad5c2"
     },
     {
+      "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
+      "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-17T03:47:09+00:00",
+      "fetched_at": "2026-08-17T03:51:07+00:00",
+      "summary": "Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary […] The post AI demand lifts Mala…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9f1bbb2973eaff798f9"
+    },
+    {
       "title": "GDPの四半期別速報に関するダッシュボードを更新しました",
       "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
       "source": "Japan Digital Agency News RSS",
@@ -825,7 +869,30 @@
       "id": "b9f8244ade8233acaec4"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
+      "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-17T03:47:09+00:00",
+      "fetched_at": "2026-08-17T03:51:07+00:00",
+      "summary": "Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary […] The post AI demand lifts Mala…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d9f1bbb2973eaff798f9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

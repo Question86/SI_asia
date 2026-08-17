@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T03:30:58+00:00_
+_Generiert: 2026-08-17T03:51:41+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -135,6 +135,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AI demand lifts Malaysia’s chip sector, but not every player wins** — Score 12, observation — [Quelle](https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-17T03:47:09+00:00`, fetched `2026-08-17T03:51:07+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Malaysia (+2.0)
+  - Kurz: Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary […] The post AI demand lifts Mala…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GDPの四半期別速報に関するダッシュボードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-17T03:00:00+00:00`, fetched `2026-08-17T03:09:29+00:00`
@@ -170,15 +179,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?** — Score 6, observation — [Quelle](https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-17T02:50:00+00:00`, fetched `2026-08-17T03:09:29+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singaporean deeptech startup Datakrew just wrapped a year-long study with Hyundai’s venture arm and GetGo. The headline numbers are big — 3.6 billion data points, 70 vehicles, 101,000 trips, but the more interesting story is what Datakrew is trying to build after the pilot ends. Batteries do not fail like engines. There is no warning […] The post 70 Cars, 55,000 hours, one question: Can you forecast when an EV batte…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/17/053005)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
