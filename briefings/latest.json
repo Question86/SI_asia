@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T23:25:14+00:00",
-  "run_id": "2026-08-17T23:25:14+00:00",
+  "generated_at": "2026-08-17T23:36:02+00:00",
+  "run_id": "2026-08-17T23:36:02+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 104,
     "displayed_findings": 104,
     "high": 0,
@@ -5341,29 +5341,7 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ドコモの「RCS」は8月24日スタート、写真や動画も送れるSMS後継機能",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2133298.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-17T14:35:33+00:00",
-      "fetched_at": "2026-08-17T23:24:44+00:00",
-      "summary": "ドコモの「RCS」は8月24日スタート、写真や動画も送れるSMS後継機能",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f0fdef4fc49fbe05ba71"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
