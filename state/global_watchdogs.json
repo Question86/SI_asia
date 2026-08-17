@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:20:11+00:00",
+  "generated_at": "2026-08-17T06:36:55+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,16 @@
         "summary": "Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558363",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Andorra",
+        "summary": "Green flood alert in Andorra",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104092",
         "published_at": "",
         "metrics": {}
       },

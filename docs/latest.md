@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T06:20:07+00:00_
+_Generiert: 2026-08-17T06:36:52+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+28 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffe auf SAP-Commerce-Cloud-Lücke beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-17T06:21:00.000+00:00`, fetched `2026-08-17T06:36:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/administrative_procedures_online)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-17T06:00:00+00:00`, fetched `2026-08-17T06:02:46+00:00`
@@ -223,7 +232,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
