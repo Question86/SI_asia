@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T13:24:56+00:00_
+_Generated: 2026-08-17T13:42:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `85`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-17T13:24:56+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
 
-### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
+### 5. Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-17T14:41:10+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260072.en.html
+- summary: Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 6. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-17T03:47:09+00:00`
 - url: https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/
 - summary: Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report relea…
 
-### 6. Philip R Lane: AI and monetary policy
+### 7. Philip R Lane: AI and monetary policy
 - source: BIS Central Bankers Speeches
 - score: `11`
 - published: `2026-08-17T07:43:00+00:00`
 - url: https://www.bis.org/review/r260813c.htm
 - summary: Dinner speech by Philip R. Lane, Member of the Executive Board of the European Central Bank, at the closing conference of the European System of Central Banks Research Network on Challenges for Monetary Policy Transmission in a Changing World (ChaMP), Rome, 6…
 
-### 7. 二一零零科技｜公文管理系統 - Arbitrary File Upload
+### 8. 二一零零科技｜公文管理系統 - Arbitrary File Upload
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-08-17T06:13:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11108-7b14c-1.html
 - summary: 二一零零科技｜公文管理系統 - Arbitrary File Upload
-
-### 8. GDPの四半期別速報に関するダッシュボードを更新しました
-- source: Japan Digital Agency News RSS
-- score: `11`
-- published: `2026-08-17T03:00:00+00:00`
-- url: https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates
-- summary: GDPの四半期別速報に関するダッシュボードを更新しました
 
 END OF DOCUMENT

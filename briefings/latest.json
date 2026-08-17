@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T13:24:56+00:00",
-  "run_id": "2026-08-17T13:24:56+00:00",
+  "generated_at": "2026-08-17T13:42:03+00:00",
+  "run_id": "2026-08-17T13:42:03+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 1,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 45,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -1262,6 +1262,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260072.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-08-17T14:41:10+00:00",
+        "fetched_at": "2026-08-17T13:41:34+00:00",
+        "summary": "Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7c7d972e0f5aced8d5c0"
+      },
       {
         "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
         "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
@@ -3344,6 +3366,28 @@
       "id": "7d09494e86d1823ad5c2"
     },
     {
+      "title": "Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260072.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-08-17T14:41:10+00:00",
+      "fetched_at": "2026-08-17T13:41:34+00:00",
+      "summary": "Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c7d972e0f5aced8d5c0"
+    },
+    {
       "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
       "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -4193,62 +4237,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 44 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edt",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260072.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-08-17T13:23:33.040+00:00",
-      "fetched_at": "2026-08-17T13:24:25+00:00",
-      "summary": "Time 2026-08-17 12:51:05 UTC 2026-08-17 12:51:05 UTC at epicenter Location 8.271°S 120.672°E Depth 30.03 km (18.66 mi)",
+      "published_at": "2026-08-17T14:41:10+00:00",
+      "fetched_at": "2026-08-17T13:41:34+00:00",
+      "summary": "Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "02a4e8020a237c971aaa"
-    },
-    {
-      "title": "攻撃手法から学ぶ OAuth セキュリティベストプラクティス",
-      "url": "https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-17T07:38:12+00:00",
-      "fetched_at": "2026-08-17T13:24:25+00:00",
-      "summary": "OAuth における代表的な攻撃手法とその対抗策を最新のベストプラクティスに基づいて解説します。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "19a82283403a316a8676"
+      "id": "7c7d972e0f5aced8d5c0"
     }
   ],
   "source_errors": [],

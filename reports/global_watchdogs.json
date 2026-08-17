@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:25:00+00:00",
+  "generated_at": "2026-08-17T13:42:06+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,11 +74,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in South Korea",
-        "summary": "Green flood alert in South Korea",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104095",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559459",
         "published_at": "",
         "metrics": {}
       },
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558505",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia",
-        "summary": "M5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia. PAGER alert: none. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq",
-        "published_at": "2026-08-17T12:38:03+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "",
-          "sig": 518.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

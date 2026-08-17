@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T13:24:56+00:00_
+_Generiert: 2026-08-17T13:42:03+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+85 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-08-17T13:24:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.9M, Depth:172.526km) in Indonesia 15/08/2026 10:54 UTC, 10.5 million in MMI V.
-- **GDACS: Green flood alert in South Korea** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104095)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559459)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in South Korea
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +57,6 @@ _Generiert: 2026-08-17T13:24:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.
-- **USGS earthquake M5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq)
-  - Quelle: USGS
-  - Zeit: `2026-08-17T12:38:03+00:00`
-  - Kurz: M5.8 - 72 km E of Petropavlovsk-Kamchatsky, Russia. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -206,6 +202,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260072.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-08-17T14:41:10+00:00`, fetched `2026-08-17T13:41:34+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI demand lifts Malaysia’s chip sector, but not every player wins** — Score 12, observation — [Quelle](https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-17T03:47:09+00:00`, fetched `2026-08-17T03:51:07+00:00`
@@ -331,15 +336,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Schadcode-Sicherheitslücken bedrohen PostgreSQL** — Score 7, observation — [Quelle](https://www.heise.de/news/Schadcode-Sicherheitsluecken-bedrohen-PostgreSQL-11415746.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-17T10:21:00.000+00:00`, fetched `2026-08-17T10:32:13+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In aktuellen Versionen haben die PostgreSQL-Entwickler mehrere Sicherheitslücken geschlossen. Für einen Versionsstrang läuft bald der Support aus.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
