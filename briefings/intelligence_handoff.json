@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-17T05:12:27Z",
+  "generated_at": "2026-08-17T05:26:40Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN58692577/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T14:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN40688603/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:30+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/jp/JVN91713656/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -83,11 +83,35 @@
       "summary": "Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T05:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -115,7 +139,7 @@
       "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T03:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -141,7 +165,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.13,
+      "age_days": 59.14,
       "topics": [
         "ai"
       ],
@@ -170,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:14:30.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -195,7 +219,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:02:57.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -220,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T03:54:47.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -245,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:37:34.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -270,7 +294,7 @@
       "url": "https://github.com/basecamp/omarchy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -289,30 +313,6 @@
         "security high-signal: rce, auth"
       ],
       "summary": "Beautiful, Modern & Opinionated Linux https://omarchy.org Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at omarchy.org . The Omarchy Manual The manual lives in manual/ , which is its authoritative source. It's mirrored to learn.omacom.io , where its screenshots are also host…"
-    },
-    {
-      "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-17T01:06:50.002+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)"
     }
   ],
   "read_order": [

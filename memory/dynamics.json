@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-17T05:12:27Z",
+  "generated_at": "2026-08-17T05:26:40Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 26,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 10,
+      "strong": 11,
       "watch": 1,
-      "quiet": 11
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
+      "strong": 13,
       "watch": 1,
-      "quiet": 11
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN58692577/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T14:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN40688603/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:30+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/jp/JVN91713656/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-17T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -92,11 +92,35 @@
       "summary": "Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Wireshark: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2806",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-17T05:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Wireshark ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "ToolJet/ToolJet",
       "url": "https://github.com/ToolJet/ToolJet",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -124,7 +148,7 @@
       "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-17T03:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -150,7 +174,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.13,
+      "age_days": 59.14,
       "topics": [
         "ai"
       ],
@@ -179,7 +203,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:14:30.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -204,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T04:02:57.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -229,7 +253,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T03:54:47.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -254,7 +278,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:37:34.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -279,7 +303,7 @@
       "url": "https://github.com/basecamp/omarchy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-17T02:45:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -304,7 +328,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:06:50.002+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -328,7 +352,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T00:24:34.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -352,7 +376,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T23:08:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -376,7 +400,7 @@
       "url": "https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T02:30:58+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -402,7 +426,7 @@
       "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T03:47:09+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -428,7 +452,7 @@
       "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T01:30:07+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -453,7 +477,7 @@
       "url": "https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T01:00:33+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -476,11 +500,35 @@
       "summary": "One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship, more of the workflow, more of the economics, then surely we…"
     },
     {
+      "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
+      "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-17T03:11:17+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "このたび、当社レンタルサーバーサービス「さくらのレンタルサーバ」の一部お客さま環境に対する第三者による不正アクセスを確認いたしました。 調査の結果、一部のお客さま情報を含む個人データが第三者に閲覧または取得された可能性があることを確認しております。 現在、外部専門機関と連携し、侵入経路、発生時期、..."
+    },
+    {
       "title": "The US$46,300 question: How low can Bitcoin go before buyers return",
       "url": "https://e27.co/the-us46300-question-how-low-can-bitcoin-go-before-buyers-return-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T03:59:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -504,7 +552,7 @@
       "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T02:50:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -530,7 +578,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.1,
+      "age_days": 58.11,
       "topics": [
         "general"
       ],
@@ -555,7 +603,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.1,
+      "age_days": 58.11,
       "topics": [
         "general"
       ],
@@ -580,7 +628,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.1,
+      "age_days": 58.11,
       "topics": [
         "ai"
       ],
@@ -607,7 +655,7 @@
       "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T02:00:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
