@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T10:59:36+00:00",
+  "generated_at": "2026-08-17T11:10:20+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-08-17T10:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T11:01:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-17T09:14:11+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816"
-      },
-      {
-        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T05:36:05+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
       }
     ],
     "geopolitics": [
@@ -82,6 +82,13 @@
         "published_at": "2026-08-17T10:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T11:01:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862"
       },
       {
         "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
@@ -119,32 +126,25 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
       },
       {
-        "title": "[NEU] [mittel] InetUtils (talkd): Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T10:26:05+00:00",
+        "published_at": "2026-08-17T11:06:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2860"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865"
       },
       {
-        "title": "[NEU] [hoch] WP Royal Royal Elementor Addons: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] OpenTofu: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T10:21:05+00:00",
+        "published_at": "2026-08-17T11:06:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2859"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2864"
       },
       {
-        "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T10:11:06+00:00",
+        "published_at": "2026-08-17T11:01:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858"
-      },
-      {
-        "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2863"
       }
     ],
     "general": [
@@ -154,6 +154,13 @@
         "published_at": "2026-08-17T01:06:50.002+00:00",
         "relevance_score": 17,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay"
+      },
+      {
+        "title": "M 5.4 - 75 km N of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-17T11:04:49.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed8"
       },
       {
         "title": "M 5.2 - 81 km N of Ruteng, Indonesia",
@@ -210,13 +217,6 @@
         "published_at": "2026-08-17T03:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates"
-      },
-      {
-        "title": "M 4.9 - 216 km E of Levuka, Fiji",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-17T00:24:34.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas"
       }
     ],
     "ai": [
@@ -270,6 +270,13 @@
         "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/"
       },
       {
+        "title": "New policy ideas for the Intelligence Age",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-17T03:15:00+00:00",
+        "relevance_score": 10,
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+      },
+      {
         "title": "Strategic chokepoints: Designing leverage without owning everything",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-17T01:00:33+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-08-17T02:00:19+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/"
-      },
-      {
-        "title": "Ban on Chinese robots leaves U.S. startups stranded",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-08-17T10:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "economy": [

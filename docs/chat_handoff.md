@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T10:59:36+00:00_
+_Generated: 2026-08-17T11:10:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `57`
+- findings: `64`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-17T10:59:36+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 3. [NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-17T11:01:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um Dateien zu manipulieren.
+
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-17T10:36:07+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861
 - summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, weitere nicht spezifizierte Auswirkungen zu verursachen und potentiell Code auszuführe…
-
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T10:36:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0324
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed
