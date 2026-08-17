@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T21:34:15+00:00_
+_Generiert: 2026-08-17T21:45:13+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-08-17T21:34:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:147.71km) in Papua New Guinea 16/08/2026 10:59 UTC, 210 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558930)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:147.71km) in Papua New Guinea 16/08/2026 10:59 UTC, 210 thousand in 100km.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558840)
   - Quelle: GDACS
   - Zeit: ``
