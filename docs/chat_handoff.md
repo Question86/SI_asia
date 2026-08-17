@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T16:36:00+00:00_
+_Generated: 2026-08-17T16:49:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `90`
+- findings: `91`
 
 ## Top Signals
 
-### 1. [NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten
+### 1. Codexを効率よく使う方法（ChatGPT + GitHub）
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-08-17T01:00:08+00:00`
+- url: https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e
+- summary: 対象読者 Codex を効率よく使う方法を知りたい方 ChatGPT を契約しているけど、開発では Codex ばかり使っている方 Claude Code を使っているけど、Codex にも興味がある方 はじめに Codex を使って開発していると、調査や実装計画、コード変更、レビューなど、さまざまな工程をそのまま Codex にお願いしたくなります。...
+
+### 2. [NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten
 - source: BSI CERT-Bund Security Advisories
 - score: `20`
 - published: `2026-08-17T10:06:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.
 
-### 2. How canvases make agentic workflows visible, steerable, and cost-efficient
+### 3. How canvases make agentic workflows visible, steerable, and cost-efficient
 - source: GitHub Blog Atom
 - score: `17`
 - published: `2026-08-17T16:00:00+00:00`
 - url: https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/
 - summary: Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared f…
 
-### 3. M 5.7 - 42 km NNW of Ende, Indonesia
+### 4. M 5.7 - 42 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-08-17T01:06:50.002+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
-
-### 4. Multiples vulnérabilités dans Microsoft Windows (12 août 2026)
-- source: CERT-FR Avis de sécurité
-- score: `17`
-- published: `2026-08-12T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1001/
-- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique…
 
 ### 5. Announcing 20260072 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
