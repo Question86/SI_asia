@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-17T02:37:56Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-17T03:05:32Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ToolJet/ToolJet” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,39 @@
   ],
   "top_dynamics": [
     {
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-17T02:45:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building and deploying internal tool…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.03,
+      "age_days": 59.05,
       "topics": [
         "ai"
       ],
@@ -44,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:37:34.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -65,11 +93,36 @@
       "summary": "Time 2026-08-17 01:01:29 UTC 2026-08-17 01:01:29 UTC at epicenter Location 1.366°S 121.071°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-08-17T02:45:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, auth",
+        "security high-signal: rce, auth"
+      ],
+      "summary": "Beautiful, Modern & Opinionated Linux https://omarchy.org Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at omarchy.org . The Omarchy Manual The manual lives in manual/ , which is its authoritative source. It's mirrored to learn.omacom.io , where its screenshots are also host…"
+    },
+    {
       "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T01:06:50.002+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -93,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T00:24:34.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -117,7 +170,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-16T23:08:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -137,11 +190,37 @@
       "summary": "セキュリティベンダのANY.RUNと、脅威インテリジェンス組織のBCA LTD、NorthScanの3者は2026年8月10日、偽のDeFiスタートアップを設立し、Famous Chollimaに属するとみられる北朝鮮IT労働者を実際に採用したうえで、取引先が用意したと説明した仮想デスクトップ環境を通じて採用後の挙動を記録したとする調査結果を公表..."
     },
     {
+      "title": "Why Southeast Asia doesn’t need to pick a side in the AI race",
+      "url": "https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-17T02:30:58+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For most of my career, building a technology company felt like solving a complicated but understandable puzzle. You studied the market, listened to customers, assembled a great team, built the right product, and executed better than everyone else. The journey was never easy, but it was predictable enough that you coul…"
+    },
+    {
       "title": "Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital",
       "url": "https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T01:30:07+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -166,7 +245,7 @@
       "url": "https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-17T01:00:33+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "macro"
@@ -193,7 +272,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.99,
+      "age_days": 58.01,
       "topics": [
         "general"
       ],
@@ -218,7 +297,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.99,
+      "age_days": 58.01,
       "topics": [
         "general"
       ],
@@ -237,58 +316,6 @@
         "aging penalty -16.0 for 58.0d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
-      "url": "https://toyokeizai.net/articles/-/948348?display=b",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.99,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 58.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "AI is not the advantage, build what competitors cannot copy",
-      "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-17T02:00:19+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask si…"
     }
   ],
   "read_order": [
@@ -300,9 +327,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 5,
       "watch": 1,
-      "quiet": 7
+      "quiet": 6
     }
   }
 }
