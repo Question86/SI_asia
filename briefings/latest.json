@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T16:10:11+00:00",
-  "run_id": "2026-08-17T16:10:11+00:00",
+  "generated_at": "2026-08-17T16:21:25+00:00",
+  "run_id": "2026-08-17T16:21:25+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4511,55 +4511,7 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-17T16:00:00+00:00",
-      "fetched_at": "2026-08-17T16:09:33+00:00",
-      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Copilot",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: agentic workflow"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "d5cd53b7ea6af9aae705"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
