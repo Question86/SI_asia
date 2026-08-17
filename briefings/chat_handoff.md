@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T03:51:41+00:00_
+_Generated: 2026-08-17T04:09:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `18`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-17T03:51:41+00:00_
 - url: https://github.com/ToolJet/ToolJet
 - summary: ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 https://tooljet.com ToolJet is the open-source foundation of ToolJet AI - the…
 
-### 4. M 4.5 - 35 km E of Poso, Indonesia
+### 4. M 5.2 - 70 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-17T01:37:34.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0
-- summary: Time 2026-08-17 01:01:29 UTC 2026-08-17 01:01:29 UTC at epicenter Location 1.366°S 121.071°E Depth 10.00 km (6.21 mi)
+- published: `2026-08-17T04:02:57.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebj
+- summary: Time 2026-08-17 03:48:04 UTC 2026-08-17 03:48:04 UTC at epicenter Location 8.300°S 121.327°E Depth 16.34 km (10.15 mi)
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed
