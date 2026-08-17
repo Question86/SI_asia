@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T11:10:20+00:00_
+_Generiert: 2026-08-17T11:21:30+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+68 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,23 +91,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862)
+- **[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-17T11:01:06+00:00`, fetched `2026-08-17T11:09:49+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um Dateien zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-17T10:36:07+00:00`, fetched `2026-08-17T10:47:18+00:00`
+  - Zeit: published `2026-08-17T11:16:06+00:00`, fetched `2026-08-17T11:20:57+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, weitere nicht spezifizierte Auswirkungen zu verursachen und potentiell Code auszuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-17T11:11:05+00:00`, fetched `2026-08-17T11:20:57+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asia doesn’t need to pick a side in the AI race** — Score 16, observation — [Quelle](https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -247,6 +247,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship, more of the workflow, more of the economics, then surely we […] The post Strategic chokepoints: Designing leverage without owning everything appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 28 km SW of Kandrian, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edb)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-17T11:19:35.040+00:00`, fetched `2026-08-17T11:20:57+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-17 11:00:23 UTC 2026-08-17 11:00:23 UTC at epicenter Location 6.377°S 149.358°E Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 216 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-17T00:24:34.040+00:00`, fetched `2026-08-17T00:41:58+00:00`
@@ -318,15 +327,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 公金受取口座として登録可能な口座の金融機関の一覧を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「ほんだし」のラベルがAIでぐちゃぐちゃに…… 味の素、公式Xの投稿画像について謝罪** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2608/17/2000000564/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T08:33:12+00:00`, fetched `2026-08-17T10:59:06+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 味の素は8月16日、レシピサイト「味の素パーク」の公式Xで14日に投稿した画像について謝罪した。生成AIによる加工のため、商品のラベルや文字の一部が乱れていたという。同社は再発防止に努めるとしている。 14日の投稿では、味の素の商品「ほんだし」を使ってめんつゆを作るレシピを紹介していた。一方、添付した画像内...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

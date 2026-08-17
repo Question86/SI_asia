@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T11:10:20+00:00_
+_Generated: 2026-08-17T11:21:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `68`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-17T11:10:20+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 3. [NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien
+### 3. [NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-17T11:01:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um Dateien zu manipulieren.
+- published: `2026-08-17T11:16:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.
 
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-17T10:36:07+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861
-- summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen, Informationen offenzulegen, weitere nicht spezifizierte Auswirkungen zu verursachen und potentiell Code auszuführe…
+- published: `2026-08-17T11:11:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed

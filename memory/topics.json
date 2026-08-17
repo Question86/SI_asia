@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T11:10:20+00:00",
+  "generated_at": "2026-08-17T11:21:30+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-08-17T10:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T11:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T11:11:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -59,20 +73,6 @@
         "published_at": "2026-08-17T09:41:06+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:37:40+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (nodejs:24): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:14:11+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816"
       }
     ],
     "geopolitics": [
@@ -82,6 +82,20 @@
         "published_at": "2026-08-17T10:06:05+00:00",
         "relevance_score": 20,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T11:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T11:11:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -126,25 +140,11 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
       },
       {
-        "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] RealObjects PDFreactor: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T11:06:06+00:00",
+        "published_at": "2026-08-17T11:16:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865"
-      },
-      {
-        "title": "[NEU] [mittel] OpenTofu: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T11:06:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2864"
-      },
-      {
-        "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T11:01:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2863"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2867"
       }
     ],
     "general": [

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T11:10:20+00:00",
-  "run_id": "2026-08-17T11:10:20+00:00",
+  "generated_at": "2026-08-17T11:21:30+00:00",
+  "run_id": "2026-08-17T11:21:30+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "new_relevant_findings": 4,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 0,
-    "medium": 40,
-    "observe": 24,
+    "medium": 43,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -91,6 +91,54 @@
           "LOW"
         ],
         "id": "1065f5427e7407cc8494"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T11:16:06+00:00",
+        "fetched_at": "2026-08-17T11:20:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cdea8d3a00abbbb81069"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T11:11:05+00:00",
+        "fetched_at": "2026-08-17T11:20:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9f64da95e4332535a095"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -788,6 +836,29 @@
         "id": "be5e2959a29bda9f4859"
       },
       {
+        "title": "[NEU] [mittel] RealObjects PDFreactor: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2867",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T11:16:05+00:00",
+        "fetched_at": "2026-08-17T11:20:57+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in RealObjects PDFreactor ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a6327fc8090eadac75fe"
+      },
+      {
         "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865",
         "source": "BSI CERT-Bund Security Advisories",
@@ -1261,6 +1332,42 @@
         "id": "a62a27be27617cd59235"
       },
       {
+        "title": "M 5.1 - 28 km SW of Kandrian, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-17T11:19:35.040+00:00",
+        "fetched_at": "2026-08-17T11:20:57+00:00",
+        "summary": "Time 2026-08-17 11:00:23 UTC 2026-08-17 11:00:23 UTC at epicenter Location 6.377°S 149.358°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "05c2147bc7acfff7dac2"
+      },
+      {
         "title": "M 4.9 - 216 km E of Levuka, Fiji",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1709,6 +1816,54 @@
         "LOW"
       ],
       "id": "1065f5427e7407cc8494"
+    },
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T11:16:06+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cdea8d3a00abbbb81069"
+    },
+    {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T11:11:05+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f64da95e4332535a095"
     },
     {
       "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -2406,6 +2561,29 @@
       "id": "be5e2959a29bda9f4859"
     },
     {
+      "title": "[NEU] [mittel] RealObjects PDFreactor: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2867",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T11:16:05+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in RealObjects PDFreactor ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a6327fc8090eadac75fe"
+    },
+    {
       "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2877,6 +3055,42 @@
       "id": "a62a27be27617cd59235"
     },
     {
+      "title": "M 5.1 - 28 km SW of Kandrian, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-17T11:19:35.040+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Time 2026-08-17 11:00:23 UTC 2026-08-17 11:00:23 UTC at epicenter Location 6.377°S 149.358°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "05c2147bc7acfff7dac2"
+    },
+    {
       "title": "M 4.9 - 216 km E of Levuka, Fiji",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3263,44 +3477,90 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2862",
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (pcp): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2868",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T11:01:06+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um Dateien zu manipulieren.",
+      "published_at": "2026-08-17T11:16:06+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (pcp) ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, und um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Patch",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0cc7faee73b7855dd86b"
+      "id": "cdea8d3a00abbbb81069"
     },
     {
-      "title": "M 5.4 - 75 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ed8",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (glib2): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2866",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T11:11:05+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux (glib2) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9f64da95e4332535a095"
+    },
+    {
+      "title": "[NEU] [mittel] RealObjects PDFreactor: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2867",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T11:16:05+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in RealObjects PDFreactor ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a6327fc8090eadac75fe"
+    },
+    {
+      "title": "M 5.1 - 28 km SW of Kandrian, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-17T11:04:49.040+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "Time 2026-08-17 10:44:49 UTC 2026-08-17 10:44:49 UTC at epicenter Location 7.929°S 120.432°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-17T11:19:35.040+00:00",
+      "fetched_at": "2026-08-17T11:20:57+00:00",
+      "summary": "Time 2026-08-17 11:00:23 UTC 2026-08-17 11:00:23 UTC at epicenter Location 6.377°S 149.358°E Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -3321,120 +3581,7 @@
         "HD",
         "LOW"
       ],
-      "id": "815d4f5e0abfabd48f41"
-    },
-    {
-      "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2865",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-17T11:06:06+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in vm2 ausnutzen, um einen Denial of Service Angriff durchzuführen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, und um Daten zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9b001036aaca4818b9ab"
-    },
-    {
-      "title": "[NEU] [mittel] OpenTofu: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2864",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-17T11:06:05+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in OpenTofu ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und einen Denial-of-Service-Zustand auszulösen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c8b5bf36fae1ae73f6b6"
-    },
-    {
-      "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2863",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-17T11:01:06+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Gitea ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen, Berechtigungen zu erweitern, Benutzerkonten zu übernehmen, vertrauliche Informationen offenzulegen oder beliebigen Code als Gitea-Dienstbenutzer auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b6064dd253de43ff8f6b"
-    },
-    {
-      "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2861",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-17T11:01:05+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Budibase ausnutzen, um Dateien zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ce55987274a374124da0"
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-17T03:15:00+00:00",
-      "fetched_at": "2026-08-17T11:09:49+00:00",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e125b5364cefc9aef62"
+      "id": "05c2147bc7acfff7dac2"
     }
   ],
   "source_errors": [],
