@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-16T23:49:03Z",
+  "generated_at": "2026-08-17T00:04:08Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.91,
+      "age_days": 58.92,
       "topics": [
         "ai"
       ],
@@ -40,282 +40,81 @@
       "summary": ""
     },
     {
-      "title": "M 5.5 - 76 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl6a",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T07:17:31.489+00:00",
-      "age_days": 0.69,
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 57.88,
       "topics": [
-        "disaster"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-16 06:51:47 UTC 2026-08-16 06:51:47 UTC at epicenter Location 7.932°S 120.586°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 81 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e86",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T13:57:43.040+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10"
+        "momentum delta +1",
+        "aging penalty -16.0 for 57.9d old signal"
       ],
-      "summary": "Time 2026-08-16 13:38:39 UTC 2026-08-16 13:38:39 UTC at epicenter Location 7.918°S 120.717°E Depth 10.00 km (6.21 mi)"
+      "summary": ""
     },
     {
-      "title": "M 4.5 - 119 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7x",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T13:27:48.040+00:00",
-      "age_days": 0.43,
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 57.88,
       "topics": [
-        "disaster"
+        "general"
       ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "early terms: earthquake",
-        "high terms: 10"
+        "momentum delta +1",
+        "aging penalty -16.0 for 57.9d old signal"
       ],
-      "summary": "Time 2026-08-16 12:37:51 UTC 2026-08-16 12:37:51 UTC at epicenter Location 7.542°S 120.590°E Depth 10.00 km (6.21 mi)"
+      "summary": ""
     },
     {
-      "title": "M 4.9 - 112 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7q",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T11:33:20.040+00:00",
-      "age_days": 0.51,
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 57.88,
       "topics": [
-        "disaster"
+        "ai"
       ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-16 11:11:46 UTC 2026-08-16 11:11:46 UTC at epicenter Location 7.672°S 120.851°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.1 - 81 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7k",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T10:50:40.040+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-16 10:31:34 UTC 2026-08-16 10:31:34 UTC at epicenter Location 7.879°S 120.550°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.5 - 74 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7j",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T10:33:42.040+00:00",
-      "age_days": 0.55,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-16 10:14:36 UTC 2026-08-16 10:14:36 UTC at epicenter Location 7.939°S 120.546°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - 45 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tl55",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T03:58:33.040+00:00",
-      "age_days": 0.83,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-16 03:42:59 UTC 2026-08-16 03:42:59 UTC at epicenter Location 8.462°S 121.508°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-16T02:47:13+00:00",
-      "age_days": 0.88,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: auth, root",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 57.9d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from market…"
-    },
-    {
-      "title": "M 4.5 - 105 km W of San Antonio de los Cobres, Argentina",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ea6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T21:25:31.040+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-16 21:06:07 UTC 2026-08-16 21:06:07 UTC at epicenter Location 24.305°S 67.352°W Depth 164.60 km (102.28 mi)"
-    },
-    {
-      "title": "M 4.9 - 77 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e9a",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T18:00:17.040+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-16 17:26:15 UTC 2026-08-16 17:26:15 UTC at epicenter Location 7.911°S 120.460°E Depth 9.31 km (5.78 mi)"
-    },
-    {
-      "title": "M 4.9 - South Atlantic Ocean",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e96",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-16T18:03:10.040+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-16 17:11:07 UTC 2026-08-16 17:11:07 UTC at epicenter Location 22.578°S 20.371°W Depth 10.00 km (6.21 mi)"
+      "summary": ""
     }
   ],
   "read_order": [
@@ -327,8 +126,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 3
+      "strong": 1,
+      "quiet": 3
     }
   }
 }
