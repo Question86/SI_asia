@@ -1620,6 +1620,42 @@
     "id": "a62a27be27617cd59235"
   },
   {
+    "title": "M 4.6 - 41 km SW of Karluk, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qgsene",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-17T20:37:31.146+00:00",
+    "fetched_at": "2026-08-17T20:37:14+00:00",
+    "summary": "Time 2026-08-17 20:35:10 UTC 2026-08-17 20:35:10 UTC at epicenter Location 57.273°N 154.881°W Depth 55.70 km (34.61 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5de87bd56d6e2e399682"
+  },
+  {
     "title": "M 4.8 - 219 km WSW of Longyearbyen, Svalbard and Jan Mayen",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015efp",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1903,6 +1939,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ed24708a7ab513919bcc"
+  },
+  {
+    "title": "コードの構造をざっと外観するzatが良さげかも | kawarimidoll.com",
+    "url": "https://kawarimidoll.com/posts/202608172/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-17T12:15:14+00:00",
+    "fetched_at": "2026-08-17T20:37:14+00:00",
+    "summary": "CLI code outline viewer. Contribute to bglgwyng/zat development by creating an account on GitHub. 機能 zatはRust製のコードアウトラインビューアです。エクスポートされたシンボルとその行番号を一覧し、AIコーディングエージェントが実装を細かく読む前の構造把握を支援します。READMEによると、名前は日本語の...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d78b750cb563e7decff6"
   },
   {
     "title": "Schadcode-Sicherheitslücken bedrohen PostgreSQL",
