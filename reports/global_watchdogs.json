@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:09:51+00:00",
+  "generated_at": "2026-08-17T01:48:26+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 1.1 million in 100km.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 1.1 million in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 16/08/2026 06:51 UTC, 480 thousand in MMI IV.",
         "source": "GDACS",
@@ -121,31 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.1M, Depth:10km) in Indonesia 14/08/2026 22:28 UTC, 20 thousand in MMI VI.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558064",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 42 km NNW of Ende, Indonesia",
-        "summary": "M5.7 - 42 km NNW of Ende, Indonesia. PAGER alert: none. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
-        "published_at": "2026-08-17T00:46:45+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
