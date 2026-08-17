@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T06:36:52+00:00",
-  "run_id": "2026-08-17T06:36:52+00:00",
+  "generated_at": "2026-08-17T06:59:57+00:00",
+  "run_id": "2026-08-17T06:59:57+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 28,
     "displayed_findings": 28,
     "high": 0,
@@ -1515,28 +1515,7 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Angriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
-      "url": "https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-17T06:21:00.000+00:00",
-      "fetched_at": "2026-08-17T06:36:23+00:00",
-      "summary": "SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "32352916bacc0d6a0eee"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
