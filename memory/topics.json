@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T02:45:48+00:00",
+  "generated_at": "2026-08-17T03:10:02+00:00",
   "topics": {
     "general": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-08-17T01:37:34.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0"
+      },
+      {
+        "title": "GDPの四半期別速報に関するダッシュボードを更新しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-08-17T03:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates"
       },
       {
         "title": "M 4.9 - 216 km E of Levuka, Fiji",
@@ -70,6 +77,13 @@
         "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/"
       },
       {
+        "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T02:50:00+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
+      },
+      {
         "title": "basecamp/omarchy",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -107,6 +121,31 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/basecamp/omarchy"
+      }
+    ],
+    "security": [
+      {
+        "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T12:00:30+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN40688603/"
+      },
+      {
+        "title": "Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN91713656/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T02:50:00+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
       }
     ]
   }

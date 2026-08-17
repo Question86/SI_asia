@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T02:45:48+00:00_
+_Generated: 2026-08-17T03:10:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `14`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-17T02:45:48+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eb0
 - summary: Time 2026-08-17 01:01:29 UTC 2026-08-17 01:01:29 UTC at epicenter Location 1.366°S 121.071°E Depth 10.00 km (6.21 mi)
 
-### 5. Strategic chokepoints: Designing leverage without owning everything
+### 5. GDPの四半期別速報に関するダッシュボードを更新しました
+- source: Japan Digital Agency News RSS
+- score: `11`
+- published: `2026-08-17T03:00:00+00:00`
+- url: https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates
+- summary: GDPの四半期別速報に関するダッシュボードを更新しました
+
+### 6. Strategic chokepoints: Designing leverage without owning everything
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-17T01:00:33+00:00`
 - url: https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/
 - summary: One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship,…
 
-### 6. M 4.9 - 216 km E of Levuka, Fiji
+### 7. M 4.9 - 216 km E of Levuka, Fiji
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-17T00:24:34.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas
 - summary: Time 2026-08-17 00:08:06 UTC 2026-08-17 00:08:06 UTC at epicenter Location 17.737°S 178.666°W Depth 555.52 km (345.18 mi)
 
-### 7. AI is not the advantage, build what competitors cannot copy
+### 8. AI is not the advantage, build what competitors cannot copy
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-08-17T02:00:19+00:00`
 - url: https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/
 - summary: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. H…
-
-### 8. 北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-16T23:08:00+00:00`
-- url: https://piyolog.hatenadiary.jp/entry/2026/08/17/053005
-- summary: セキュリティベンダのANY.RUNと、脅威インテリジェンス組織のBCA LTD、NorthScanの3者は2026年8月10日、偽のDeFiスタートアップを設立し、Famous Chollimaに属するとみられる北朝鮮IT労働者を実際に採用したうえで、取引先が用意したと説明した仮想デスクトップ環境を通じて採用後の挙動を記録したとする調査結果を公表...
 
 END OF DOCUMENT

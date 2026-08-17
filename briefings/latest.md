@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T02:45:48+00:00_
+_Generiert: 2026-08-17T03:10:02+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
+14 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 42 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 17, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-08-17T02:45:48+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558069)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 14/08/2026 22:37 UTC, 8 thousand in MMI V.
 
 ## Wirtschaft global
 
@@ -109,6 +105,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-17 01:01:29 UTC 2026-08-17 01:01:29 UTC at epicenter Location 1.366°S 121.071°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN40688603/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-17T12:00:30+09:00`, fetched `2026-08-17T03:09:29+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Eclipse Foundationが開発し総務省が提供するmiCheckerには、XML外部実体参照（XXE）に関する脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN91713656/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-17T12:00:00+09:00`, fetched `2026-08-17T03:09:29+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Synology Inc.が提供するSynology Assistantには、不適切なファイルアクセス権設定の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Not every cheque keeps every door open: Why Southeast Asian founders must rethink smart capital** — Score 14, observation — [Quelle](https://e27.co/not-every-cheque-keeps-every-door-open-why-southeast-asian-founders-must-rethink-smart-capital-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-17T01:30:07+00:00`, fetched `2026-08-17T01:47:51+00:00`
@@ -121,6 +135,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **GDPの四半期別速報に関するダッシュボードを更新しました** — Score 11, observation — [Quelle](https://www.digital.go.jp/resources/japandashboard/gdp-quarterly-estimates)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-17T03:00:00+00:00`, fetched `2026-08-17T03:09:29+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: GDPの四半期別速報に関するダッシュボードを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Strategic chokepoints: Designing leverage without owning everything** — Score 10, observation — [Quelle](https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-17T01:00:33+00:00`, fetched `2026-08-17T01:09:15+00:00`
@@ -147,6 +170,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team. Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft […] The post AI is not the advantage, build what competitors cannot copy appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?** — Score 6, observation — [Quelle](https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-17T02:50:00+00:00`, fetched `2026-08-17T03:09:29+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singaporean deeptech startup Datakrew just wrapped a year-long study with Hyundai’s venture arm and GetGo. The headline numbers are big — 3.6 billion data points, 70 vehicles, 101,000 trips, but the more interesting story is what Datakrew is trying to build after the pilot ends. Batteries do not fail like engines. There is no warning […] The post 70 Cars, 55,000 hours, one question: Can you forecast when an EV batte…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/17/053005)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
