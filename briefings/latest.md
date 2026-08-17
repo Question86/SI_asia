@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-17T12:03:03+00:00_
+_Generiert: 2026-08-17T12:13:45+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
+73 neue relevante Treffer. Stärkstes Signal: „[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten“ aus BSI CERT-Bund Security Advisories (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -202,6 +202,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Malaysia (+2.0)
   - Kurz: Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary […] The post AI demand lifts Mala…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Philip R Lane: AI and monetary policy** — Score 11, opportunity — [Quelle](https://www.bis.org/review/r260813c.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-17T07:43:00+00:00`, fetched `2026-08-17T12:13:14+00:00`
+  - Treffer: AI/KI, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0)
+  - Kurz: Dinner speech by Philip R. Lane, Member of the Executive Board of the European Central Bank, at the closing conference of the European System of Central Banks Research Network on Challenges for Monetary Policy Transmission in a Changing World (ChaMP), Rome, 6 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **二一零零科技｜公文管理系統 - Arbitrary File Upload** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11108-7b14c-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-08-17T06:13:00+00:00`, fetched `2026-08-17T10:47:18+00:00`
@@ -256,6 +265,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-17 11:00:23 UTC 2026-08-17 11:00:23 UTC at epicenter Location 6.377°S 149.358°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Michele Bullock: Monetary policy in an era of shocks** — Score 9, observation — [Quelle](https://www.bis.org/review/r260813a.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-17T07:31:00+00:00`, fetched `2026-08-17T12:13:14+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)
+  - Kurz: Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Anika Foundation Fundraising Lunch, Sydney, 28 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Andriy Pyshnyy: National Bank of Ukraine press briefing - monetary policy decisions** — Score 9, observation — [Quelle](https://www.bis.org/review/r260813k.htm)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-17T06:29:00+00:00`, fetched `2026-08-17T12:13:14+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: Kyiv (+2.0)
+  - Kurz: Speech by Mr Andriy Pyshnyy, Governor of the National Bank of Ukraine, at a press briefing on monetary policy decisions, Kyiv, 30 July 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 216 km E of Levuka, Fiji** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-17T00:24:34.040+00:00`, fetched `2026-08-17T00:41:58+00:00`
@@ -300,33 +327,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffe auf SAP-Commerce-Cloud-Lücke beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-17T06:21:00.000+00:00`, fetched `2026-08-17T06:36:23+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/administrative_procedures_online)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-17T06:00:00+00:00`, fetched `2026-08-17T06:02:46+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 行政手続のオンライン化に関する次期オンライン申請サービスの実証事業に係る先行実証の対象を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **公金受取口座として登録可能な口座の金融機関の一覧を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/account_registration/list-registerable-account)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-17T06:00:00+00:00`, fetched `2026-08-17T06:02:46+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 公金受取口座として登録可能な口座の金融機関の一覧を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
