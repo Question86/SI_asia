@@ -256,6 +256,28 @@
     "id": "03f33faa7f92a813aa49"
   },
   {
+    "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+    "url": "https://jvn.jp/jp/JVN58692577/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-17T14:00:00+09:00",
+    "fetched_at": "2026-08-17T05:01:34+00:00",
+    "summary": "シンキングリード株式会社が提供するF-RevoCRMには、クロスサイトスクリプティングの脆弱性が存在します。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b1c8a2fdf4ae466f6030"
+  },
+  {
     "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
     "url": "https://jvn.jp/jp/JVN40688603/",
     "source": "JVN Japan Vulnerability Notes",

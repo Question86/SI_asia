@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T04:44:46+00:00",
+  "generated_at": "2026-08-17T05:02:08+00:00",
   "topics": {
     "general": [
       {
@@ -166,6 +166,13 @@
       }
     ],
     "security": [
+      {
+        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN58692577/"
+      },
       {
         "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
         "source": "JVN Japan Vulnerability Notes",

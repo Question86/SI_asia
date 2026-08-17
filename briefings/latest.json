@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T04:44:46+00:00",
-  "run_id": "2026-08-17T04:44:46+00:00",
+  "generated_at": "2026-08-17T05:02:08+00:00",
+  "run_id": "2026-08-17T05:02:08+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 10,
+    "medium": 11,
     "observe": 9,
     "source_errors": 0
   },
@@ -284,6 +284,28 @@
           "LOW"
         ],
         "id": "03f33faa7f92a813aa49"
+      },
+      {
+        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+        "url": "https://jvn.jp/jp/JVN58692577/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-17T14:00:00+09:00",
+        "fetched_at": "2026-08-17T05:01:34+00:00",
+        "summary": "シンキングリード株式会社が提供するF-RevoCRMには、クロスサイトスクリプティングの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1c8a2fdf4ae466f6030"
       },
       {
         "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
@@ -839,6 +861,28 @@
       "id": "03f33faa7f92a813aa49"
     },
     {
+      "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN58692577/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-17T14:00:00+09:00",
+      "fetched_at": "2026-08-17T05:01:34+00:00",
+      "summary": "シンキングリード株式会社が提供するF-RevoCRMには、クロスサイトスクリプティングの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1c8a2fdf4ae466f6030"
+    },
+    {
       "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
       "url": "https://jvn.jp/jp/JVN40688603/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1131,7 +1175,30 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+      "url": "https://jvn.jp/jp/JVN58692577/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-17T14:00:00+09:00",
+      "fetched_at": "2026-08-17T05:01:34+00:00",
+      "summary": "シンキングリード株式会社が提供するF-RevoCRMには、クロスサイトスクリプティングの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1c8a2fdf4ae466f6030"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
