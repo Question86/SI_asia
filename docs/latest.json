@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T22:36:12+00:00",
-  "run_id": "2026-08-17T22:36:12+00:00",
+  "generated_at": "2026-08-17T22:46:30+00:00",
+  "run_id": "2026-08-17T22:46:30+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 100
+      "configured_public_sources_only": 101
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 100,
-    "displayed_findings": 100,
+    "new_relevant_findings": 1,
+    "today_file_total": 101,
+    "displayed_findings": 101,
     "high": 0,
     "medium": 50,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -2311,6 +2311,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "404d588af96000fa1999"
+      },
+      {
+        "title": "温泉トロジーでオントロジーの効能に思いを馳せてみた - Qiita",
+        "url": "https://qiita.com/kazuneet/items/8b890ba7903326209729",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-17T16:15:26+00:00",
+        "fetched_at": "2026-08-17T22:46:00+00:00",
+        "summary": "分母の102は問数ではありません。採点条件の数です。 12問に1〜4個の条件をぶら下げて計34条件、それを3回で 34×3=102。たとえば高血圧の相談なら「42℃以上の高温浴に触れる」「掲示基準に基づくと明示する」「医学的な断定をしない」の3つ。1問1点ではないので、条件4つの問（源泉ごとの pH）は4倍効きます。 Sonnet の...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8f2003e2c956ac7a12cd"
       },
       {
         "title": "「AI画像を見本に出すなんて」不動産の物件をAIで良く見せようとする行為に「景品表示法違反なのでは？」とコメントが、一応違法ではないようだが",
@@ -4869,6 +4890,27 @@
       "id": "404d588af96000fa1999"
     },
     {
+      "title": "温泉トロジーでオントロジーの効能に思いを馳せてみた - Qiita",
+      "url": "https://qiita.com/kazuneet/items/8b890ba7903326209729",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T16:15:26+00:00",
+      "fetched_at": "2026-08-17T22:46:00+00:00",
+      "summary": "分母の102は問数ではありません。採点条件の数です。 12問に1〜4個の条件をぶら下げて計34条件、それを3回で 34×3=102。たとえば高血圧の相談なら「42℃以上の高温浴に触れる」「掲示基準に基づくと明示する」「医学的な断定をしない」の3つ。1問1点ではないので、条件4つの問（源泉ごとの pH）は4倍効きます。 Sonnet の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f2003e2c956ac7a12cd"
+    },
+    {
       "title": "「AI画像を見本に出すなんて」不動産の物件をAIで良く見せようとする行為に「景品表示法違反なのでは？」とコメントが、一応違法ではないようだが",
       "url": "https://togetter.com/li/2734175",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5141,7 +5183,29 @@
       "id": "1dfa968f3964a6ad7d2a"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "温泉トロジーでオントロジーの効能に思いを馳せてみた - Qiita",
+      "url": "https://qiita.com/kazuneet/items/8b890ba7903326209729",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T16:15:26+00:00",
+      "fetched_at": "2026-08-17T22:46:00+00:00",
+      "summary": "分母の102は問数ではありません。採点条件の数です。 12問に1〜4個の条件をぶら下げて計34条件、それを3回で 34×3=102。たとえば高血圧の相談なら「42℃以上の高温浴に触れる」「掲示基準に基づくと明示する」「医学的な断定をしない」の3つ。1問1点ではないので、条件4つの問（源泉ごとの pH）は4倍効きます。 Sonnet の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f2003e2c956ac7a12cd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
