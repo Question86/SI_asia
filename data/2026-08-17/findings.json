@@ -1,5 +1,30 @@
 [
   {
+    "title": "[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:06:05+00:00",
+    "fetched_at": "2026-08-17T10:17:41+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e58d0a1a6414588c5a1f"
+  },
+  {
     "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -36,6 +61,30 @@
       "LOW"
     ],
     "id": "1065f5427e7407cc8494"
+  },
+  {
+    "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:06:05+00:00",
+    "fetched_at": "2026-08-17T10:17:41+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft PowerShell ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "630432f85e6ad9380f96"
   },
   {
     "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
@@ -561,6 +610,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "be5e2959a29bda9f4859"
+  },
+  {
+    "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-17T10:11:06+00:00",
+    "fetched_at": "2026-08-17T10:17:41+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM AIX und IBM VIOS ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a3f625c09a1aa426f153"
   },
   {
     "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",

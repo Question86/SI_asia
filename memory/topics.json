@@ -1,8 +1,152 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-17T10:06:57+00:00",
+  "generated_at": "2026-08-17T10:18:15+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:06:05+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:06:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:41:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:37:40+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (nodejs:24): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:14:11+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816"
+      },
+      {
+        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T05:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
+      },
+      {
+        "title": "[UPDATE] [mittel] SonicWall Email Security: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:41:05+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765"
+      },
+      {
+        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-17T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN58692577/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:06:05+00:00",
+        "relevance_score": 20,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:06:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:41:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852"
+      },
+      {
+        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T05:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
+      },
+      {
+        "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858"
+      },
+      {
+        "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855"
+      },
+      {
+        "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-17T05:52:02+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/"
+      },
+      {
+        "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-08-17T09:30:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
+      }
+    ],
     "general": [
       {
         "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
@@ -75,136 +219,6 @@
         "url": "https://www.digital.go.jp/policies/administrative_procedures_online"
       }
     ],
-    "security": [
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:51:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:51:05+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
-      },
-      {
-        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:41:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852"
-      },
-      {
-        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:37:40+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1180"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (nodejs:24): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:14:11+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2816"
-      },
-      {
-        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T05:36:05+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
-      },
-      {
-        "title": "[UPDATE] [mittel] SonicWall Email Security: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:41:05+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765"
-      },
-      {
-        "title": "F-RevoCRMにおけるクロスサイトスクリプティングの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN58692577/"
-      },
-      {
-        "title": "miCheckerにおけるXML外部実体参照（XXE）に関する脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T12:00:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN40688603/"
-      },
-      {
-        "title": "Synology Assistantにおける不適切なファイルアクセス権設定の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-17T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN91713656/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:51:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:51:05+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853"
-      },
-      {
-        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:41:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852"
-      },
-      {
-        "title": "[UPDATE] [kritisch] SAP Patch Day August 2026: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T05:36:05+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2746"
-      },
-      {
-        "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-17T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855"
-      },
-      {
-        "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T05:52:02+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/malaysias-sovereign-ai-bet-local-context-becomes-the-next-startup-moat-20260817/"
-      },
-      {
-        "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-17T09:30:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf"
-      },
-      {
-        "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T02:50:00+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
-      }
-    ],
     "ai": [
       {
         "title": "Why Southeast Asia doesn’t need to pick a side in the AI race",
@@ -226,6 +240,13 @@
         "published_at": "2026-08-17T09:41:05+00:00",
         "relevance_score": 15,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2765"
+      },
+      {
+        "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-17T10:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858"
       },
       {
         "title": "Malaysia’s sovereign AI bet: Local context becomes the next startup moat",
@@ -268,13 +289,6 @@
         "published_at": "2026-08-17T10:00:00+00:00",
         "relevance_score": 7,
         "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-17T02:50:00+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/"
       }
     ],
     "economy": [

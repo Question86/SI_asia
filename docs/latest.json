@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T10:06:57+00:00",
-  "run_id": "2026-08-17T10:06:57+00:00",
+  "generated_at": "2026-08-17T10:18:15+00:00",
+  "run_id": "2026-08-17T10:18:15+00:00",
   "date": "2026-08-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,42 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 3,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
-    "medium": 25,
+    "medium": 28,
     "observe": 19,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T10:06:05+00:00",
+        "fetched_at": "2026-08-17T10:17:41+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e58d0a1a6414588c5a1f"
+      },
       {
         "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
@@ -66,6 +91,30 @@
           "LOW"
         ],
         "id": "1065f5427e7407cc8494"
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T10:06:05+00:00",
+        "fetched_at": "2026-08-17T10:17:41+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft PowerShell ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Microsoft",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "630432f85e6ad9380f96"
       },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
@@ -591,6 +640,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "be5e2959a29bda9f4859"
+      },
+      {
+        "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-17T10:11:06+00:00",
+        "fetched_at": "2026-08-17T10:17:41+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM AIX und IBM VIOS ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a3f625c09a1aa426f153"
       },
       {
         "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
@@ -1164,6 +1236,31 @@
   },
   "findings": [
     {
+      "title": "[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T10:06:05+00:00",
+      "fetched_at": "2026-08-17T10:17:41+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e58d0a1a6414588c5a1f"
+    },
+    {
       "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1200,6 +1297,30 @@
         "LOW"
       ],
       "id": "1065f5427e7407cc8494"
+    },
+    {
+      "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T10:06:05+00:00",
+      "fetched_at": "2026-08-17T10:17:41+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft PowerShell ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Microsoft",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "630432f85e6ad9380f96"
     },
     {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
@@ -1725,6 +1846,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "be5e2959a29bda9f4859"
+    },
+    {
+      "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-17T10:11:06+00:00",
+      "fetched_at": "2026-08-17T10:17:41+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM AIX und IBM VIOS ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a3f625c09a1aa426f153"
     },
     {
       "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
@@ -2295,37 +2439,38 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854",
+      "title": "[NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:51:06+00:00",
-      "fetched_at": "2026-08-17T10:06:26+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-08-17T10:06:05+00:00",
+      "fetched_at": "2026-08-17T10:17:41+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Linux",
+        "Microsoft",
+        "Patch",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 20,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4aa182e95b2f22e0ac53"
+      "id": "e58d0a1a6414588c5a1f"
     },
     {
-      "title": "[NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853",
+      "title": "[NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:51:05+00:00",
-      "fetched_at": "2026-08-17T10:06:26+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-08-17T10:06:05+00:00",
+      "fetched_at": "2026-08-17T10:17:41+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft PowerShell ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2340,16 +2485,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "628188b5c247a7e46340"
+      "id": "630432f85e6ad9380f96"
     },
     {
-      "title": "[NEU] [mittel] IBM Langflow Desktop: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2855",
+      "title": "[NEU] [hoch] IBM AIX und VIOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2858",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-17T09:56:06+00:00",
-      "fetched_at": "2026-08-17T10:06:26+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM Langflow Desktop ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
+      "published_at": "2026-08-17T10:11:06+00:00",
+      "fetched_at": "2026-08-17T10:17:41+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM AIX und IBM VIOS ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, und um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2363,27 +2508,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a7a5b4c648173302ca78"
-    },
-    {
-      "title": "Ban on Chinese robots leaves U.S. startups stranded",
-      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-17T10:00:00+00:00",
-      "fetched_at": "2026-08-17T10:06:26+00:00",
-      "summary": "Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region china_credible_only: China, Beijing (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a8ea5a750d65cbfdab86"
+      "id": "a3f625c09a1aa426f153"
     }
   ],
   "source_errors": [],

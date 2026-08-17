@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-17T10:06:57+00:00_
+_Generated: 2026-08-17T10:18:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `47`
 
 ## Top Signals
 
-### 1. M 5.7 - 42 km NNW of Ende, Indonesia
+### 1. [NEU] [UNGEPATCHT] [hoch] Microsoft Malware Protection Engine und Defender: Schwachstelle ermöglicht Erlangen von Administratorrechten
+- source: BSI CERT-Bund Security Advisories
+- score: `20`
+- published: `2026-08-17T10:06:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2856
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Defender und Microsoft Malware Protection Engine ausnutzen, um Administratorrechte zu erlangen.
+
+### 2. M 5.7 - 42 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-08-17T01:06:50.002+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay
 - summary: ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)
 
-### 2. [NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen
+### 3. [NEU] [mittel] Microsoft PowerShell: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-17T10:06:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2857
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft PowerShell ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 4. [NEU] [mittel] Red Hat Enterprise Linux (389-ds-base): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-17T09:51:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2854
 - summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen und um einen Denial-of-Service-Zustand zu verursachen.
-
-### 3. [NEU] [hoch] Microsoft Edge: Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T09:51:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2853
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen.
-
-### 4. [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-17T09:41:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2852
-- summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service herbeizuführen oder einen nicht näher spezifizierten Angriff durchzuführen.
 
 ### 5. AI demand lifts Malaysia’s chip sector, but not every player wins
 - source: e27 Asia Startup and Tech Feed
