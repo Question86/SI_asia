@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-17T00:45:48Z",
+  "generated_at": "2026-08-17T01:28:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 5,
+    "dynamics": 8,
     "bands": {
-      "strong": 1,
+      "strong": 2,
       "watch": 1,
-      "quiet": 3
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
+      "strong": 2,
       "watch": 1,
-      "quiet": 3
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 58.95,
+      "age_days": 58.98,
       "topics": [
         "ai"
       ],
@@ -41,17 +41,41 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 58.9d old signal",
+        "aging penalty -8.0 for 59.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.7 - 42 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eay",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-17T01:06:50.002+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "ShakeMap - V Time 2026-08-17 00:46:45 UTC 2026-08-17 00:46:45 UTC at epicenter Location 8.513°S 121.473°E Depth 35.59 km (22.11 mi)"
     },
     {
       "title": "M 4.9 - 216 km E of Levuka, Fiji",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015eas",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-17T00:24:34.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -71,11 +95,62 @@
       "summary": "Time 2026-08-17 00:08:06 UTC 2026-08-17 00:08:06 UTC at epicenter Location 17.737°S 178.666°W Depth 555.52 km (345.18 mi)"
     },
     {
+      "title": "北朝鮮IT労働者とみられる人物とわかって採用した調査についてまとめてみた - piyolog",
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-16T23:08:00+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "セキュリティベンダのANY.RUNと、脅威インテリジェンス組織のBCA LTD、NorthScanの3者は2026年8月10日、偽のDeFiスタートアップを設立し、Famous Chollimaに属するとみられる北朝鮮IT労働者を実際に採用したうえで、取引先が用意したと説明した仮想デスクトップ環境を通じて採用後の挙動を記録したとする調査結果を公表..."
+    },
+    {
+      "title": "Strategic chokepoints: Designing leverage without owning everything",
+      "url": "https://e27.co/strategic-chokepoints-designing-leverage-without-owning-everything-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-17T01:00:33+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: chain",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "One of the laziest ambitions in strategy is the desire to own the whole stack. It sounds bold in leadership meetings. It sounds defensible in investor conversations. It sounds like control. If we own more of the value chain, more of the customer relationship, more of the workflow, more of the economics, then surely we…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.91,
+      "age_days": 57.94,
       "topics": [
         "general"
       ],
@@ -100,7 +175,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.91,
+      "age_days": 57.94,
       "topics": [
         "general"
       ],
@@ -125,7 +200,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 57.91,
+      "age_days": 57.94,
       "topics": [
         "ai"
       ],
