@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-18T00:04:52Z",
+  "generated_at": "2026-08-18T00:24:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 4,
+    "dynamics": 5,
     "bands": {
       "strong": 1,
-      "quiet": 3
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 3
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 59.92,
+      "age_days": 59.93,
       "topics": [
         "ai"
       ],
@@ -45,11 +45,35 @@
       "summary": ""
     },
     {
+      "title": "Linuxがついに「TSC必須」へ。Windowsに続く大きな転換点を迎える | ソフトアンテナ",
+      "url": "https://softantenna.com/blog/linux-tsc-requirement/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-17T03:27:49+00:00",
+      "age_days": 0.87,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Linuxカーネルにx86環境でTime Stamp Counter(TSC)を必須要件にするという大きな変更が加えられたことがわかりました。 一見コードのクリーンアップのための小規模な変更に思えますが、実際には「超古いCPUへの長年の互換性維持をついに終了した」という象徴的な出来事で、Windowsが10年以上前から進めていた流れに、Lin..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.89,
+      "age_days": 58.9,
       "topics": [
         "general"
       ],
@@ -74,7 +98,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.89,
+      "age_days": 58.9,
       "topics": [
         "general"
       ],
@@ -99,7 +123,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 58.89,
+      "age_days": 58.9,
       "topics": [
         "ai"
       ],
