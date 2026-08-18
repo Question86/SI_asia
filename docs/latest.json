@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T10:18:35+00:00",
-  "run_id": "2026-08-18T10:18:35+00:00",
+  "generated_at": "2026-08-18T10:32:20+00:00",
+  "run_id": "2026-08-18T10:32:20+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 50,
     "displayed_findings": 50,
     "high": 0,
@@ -2525,64 +2525,7 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Chinese carmakers now sell one EV abroad for every two at home",
-      "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-18T10:00:00+00:00",
-      "fetched_at": "2026-08-18T10:18:05+00:00",
-      "summary": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Thailand (+2.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "98b99f4ea16b0f0fe278"
-    },
-    {
-      "title": "M 4.6 - 5 km ENE of Escúzar, Spain",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-18T10:12:21.378+00:00",
-      "fetched_at": "2026-08-18T10:18:05+00:00",
-      "summary": "DYFI? - II Time 2026-08-18 09:34:37 UTC 2026-08-18 09:34:37 UTC at epicenter Location 37.088°N 3.708°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "02bbdff147586bdfc33e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
