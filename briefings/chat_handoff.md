@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T11:32:44+00:00_
+_Generated: 2026-08-18T11:44:34+00:00_
 
 ## Status
 - status: `normal`
-- findings: `59`
+- findings: `61`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-18T11:32:44+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt
 - summary: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
 
-### 4. Partnering with CodeAI to prepare the first AI generation
-- source: OpenAI News RSS
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-18T11:00:00+00:00`
-- url: https://openai.com/index/partnering-with-codeai
-- summary: OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
+- published: `2026-08-18T11:41:08+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2799
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Offenlegung von Informationen, die Manipulatio…
 
 ### 5. WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel
 - source: heise Security Alerts
