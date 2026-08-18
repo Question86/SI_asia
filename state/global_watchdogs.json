@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:32:06+00:00",
+  "generated_at": "2026-08-18T06:52:38+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559738",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 320 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 320 thousand in MMI IV.",
         "source": "GDACS",
@@ -126,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.6 - 154 km SSE of Teluk Dalam, Indonesia",
-        "summary": "M5.6 - 154 km SSE of Teluk Dalam, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.6 - 154 km SSE of Teluk Dalam, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
         "published_at": "2026-08-18T06:02:20+00:00",
         "metrics": {
           "mag": 5.6,
-          "alert": "",
+          "alert": "green",
           "sig": 482.0,
           "tsunami": 0
         }

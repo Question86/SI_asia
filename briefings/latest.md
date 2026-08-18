@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T06:32:02+00:00_
+_Generiert: 2026-08-18T06:52:34+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-08-18T06:32:02+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
   - Kurz: Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559738)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 320 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559720)
   - Quelle: GDACS
   - Zeit: ``
@@ -56,7 +60,7 @@ _Generiert: 2026-08-18T06:32:02+00:00_
 - **USGS earthquake M5.6 - 154 km SSE of Teluk Dalam, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt)
   - Quelle: USGS
   - Zeit: `2026-08-18T06:02:20+00:00`
-  - Kurz: M5.6 - 154 km SSE of Teluk Dalam, Indonesia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.6 - 154 km SSE of Teluk Dalam, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
