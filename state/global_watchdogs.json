@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-18T17:22:17+00:00",
+  "generated_at": "2026-08-18T17:36:27+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions",
+        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-18",
+        "metrics": {
+          "cve": "CVE-2026-33824"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-59310 Broadcom VMware vCenter",
+        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Broadcom VMware vCenter Path Traversal Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-18",
+        "metrics": {
+          "cve": "CVE-2026-59310"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-55040 Microsoft SharePoint",
+        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft SharePoint Weak Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-18",
+        "metrics": {
+          "cve": "CVE-2026-55040"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-65400 Apple macOS",
+        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-18",
+        "metrics": {
+          "cve": "CVE-2026-65400"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -12,54 +60,6 @@
         "published_at": "2026-08-17",
         "metrics": {
           "cve": "CVE-2025-62593"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)",
-        "summary": "Known exploited vulnerability. Added 2026-08-11. Due 2026-08-14. Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-11",
-        "metrics": {
-          "cve": "CVE-2026-20349"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-68820 Microsoft Windows Ancillary Function Driver for WinSock",
-        "summary": "Known exploited vulnerability. Added 2026-08-11. Due 2026-08-25. Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-11",
-        "metrics": {
-          "cve": "CVE-2026-68820"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-72898 Metabase Metabase",
-        "summary": "Known exploited vulnerability. Added 2026-08-11. Due 2026-08-14. Metabase SQL Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-11",
-        "metrics": {
-          "cve": "CVE-2026-72898"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-8037 Progress LoadMaster",
-        "summary": "Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-07",
-        "metrics": {
-          "cve": "CVE-2026-8037"
         }
       },
       {

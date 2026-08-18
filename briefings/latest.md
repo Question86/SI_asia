@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T17:22:14+00:00_
+_Generiert: 2026-08-18T17:36:20+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+71 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability
+- **CISA KEV: CVE-2026-59310 Broadcom VMware vCenter** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Broadcom VMware vCenter Path Traversal Vulnerability
+- **CISA KEV: CVE-2026-55040 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft SharePoint Weak Authentication Vulnerability
+- **CISA KEV: CVE-2026-65400 Apple macOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability
 - **CISA KEV: CVE-2025-62593 Ray-Project Ray** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-17`
   - Kurz: Known exploited vulnerability. Added 2026-08-17. Due 2026-08-20. Ray-Project Ray Code Injection Vulnerability
-- **CISA KEV: CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-11`
-  - Kurz: Known exploited vulnerability. Added 2026-08-11. Due 2026-08-14. Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability
-- **CISA KEV: CVE-2026-68820 Microsoft Windows Ancillary Function Driver for WinSock** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-11`
-  - Kurz: Known exploited vulnerability. Added 2026-08-11. Due 2026-08-25. Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability
-- **CISA KEV: CVE-2026-72898 Metabase Metabase** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-11`
-  - Kurz: Known exploited vulnerability. Added 2026-08-11. Due 2026-08-14. Metabase SQL Injection Vulnerability
-- **CISA KEV: CVE-2026-8037 Progress LoadMaster** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-07`
-  - Kurz: Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability
 - **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104099)
   - Quelle: GDACS
   - Zeit: ``
