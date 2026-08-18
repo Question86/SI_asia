@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-18T10:32:20+00:00",
+  "generated_at": "2026-08-18T10:46:46+00:00",
   "topics": {
     "ai": [
       {
@@ -251,6 +251,27 @@
         "url": "https://jvn.jp/jp/JVN06609828/"
       },
       {
+        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T10:31:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883"
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T10:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T10:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2882"
+      },
+      {
         "title": "[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-18T09:46:05+00:00",
@@ -284,27 +305,6 @@
         "published_at": "2026-08-18T09:21:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876"
-      },
-      {
-        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:06:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875"
-      },
-      {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:06:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874"
-      },
-      {
-        "title": "[NEU] [niedrig] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873"
       }
     ],
     "geopolitics": [
@@ -314,6 +314,27 @@
         "published_at": "2026-08-18T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN06609828/"
+      },
+      {
+        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T10:31:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883"
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T10:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T10:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2882"
       },
       {
         "title": "[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
@@ -356,27 +377,6 @@
         "published_at": "2026-08-18T09:06:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874"
-      },
-      {
-        "title": "[NEU] [niedrig] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873"
-      },
-      {
-        "title": "[NEU] [hoch] Apple macOS, iOS und iPadOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872"
-      },
-      {
-        "title": "[NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T08:56:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871"
       }
     ]
   }
