@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-18T08:29:35Z",
+  "generated_at": "2026-08-18T08:48:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T06:30:00.508+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -88,7 +88,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:06:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -114,7 +114,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T06:09:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -140,7 +140,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.27,
+      "age_days": 60.28,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T06:00:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security",
@@ -195,11 +195,37 @@
       "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardroom…"
     },
     {
+      "title": "Kritische Sicherheitslücke in GitLab: Angreifer können Projekte löschen",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-18T08:29:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch",
+        "security high-signal: kritisch"
+      ],
+      "summary": "GitLab-Umgebungen sind über zwei nun geschlossene Schwachstellen attackierbar."
+    },
+    {
       "title": "Webmailer Roundcube: Updates stopfen zahlreiche Sicherheitslecks",
       "url": "https://www.heise.de/news/Webmailer-Roundcube-Updates-stopfen-zahlreiche-Sicherheitslecks-11416887.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T07:06:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -225,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T05:26:36.520+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -250,7 +276,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -276,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T03:19:14.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -294,31 +320,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)"
-    },
-    {
-      "title": "M 4.8 - south of the Fiji Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)"
     }
   ],
   "read_order": [
@@ -330,8 +331,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 10,
-      "watch": 2
+      "strong": 11,
+      "watch": 1
     }
   }
 }
