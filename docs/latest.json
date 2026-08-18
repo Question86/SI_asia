@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T16:30:51+00:00",
-  "run_id": "2026-08-18T16:30:51+00:00",
+  "generated_at": "2026-08-18T16:46:41+00:00",
+  "run_id": "2026-08-18T16:46:41+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 70
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 1,
+    "today_file_total": 70,
+    "displayed_findings": 70,
     "high": 0,
     "medium": 31,
-    "observe": 38,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -949,6 +949,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "91a7cb435385e7d795c8"
+      },
+      {
+        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-18T07:00:00+00:00",
+        "fetched_at": "2026-08-18T16:46:02+00:00",
+        "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "bf425372580c5d2f9aaa"
       },
       {
         "title": "MCPの仕組みと役割を理解する - 『MCP Deep Dive』社内講習会を実施 - Taste of Tech Topics",
@@ -2684,6 +2728,50 @@
       "id": "91a7cb435385e7d795c8"
     },
     {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "fetched_at": "2026-08-18T16:46:02+00:00",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "bf425372580c5d2f9aaa"
+    },
+    {
       "title": "MCPの仕組みと役割を理解する - 『MCP Deep Dive』社内講習会を実施 - Taste of Tech Topics",
       "url": "https://acro-engineer.hatenablog.com/entry/2026/08/18/120000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3495,7 +3583,52 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "fetched_at": "2026-08-18T16:46:02+00:00",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "bf425372580c5d2f9aaa"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

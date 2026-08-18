@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T16:30:51+00:00_
+_Generiert: 2026-08-18T16:46:41+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+70 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -198,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
   - Kurz: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Asana cleared 5 years of engineering work in 2 weeks with Codex** — Score 12, observation — [Quelle](https://openai.com/index/asana)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-18T07:00:00+00:00`, fetched `2026-08-18T16:46:02+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **MCPの仕組みと役割を理解する - 『MCP Deep Dive』社内講習会を実施 - Taste of Tech Topics** — Score 12, observation — [Quelle](https://acro-engineer.hatenablog.com/entry/2026/08/18/120000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-18T06:03:40+00:00`, fetched `2026-08-18T12:14:52+00:00`
@@ -287,15 +296,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **nautechsystems/nautilus_trader** — Score 8, observation — [Quelle](https://github.com/nautechsystems/nautilus_trader)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-18T03:03:15+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Production-grade Rust-native trading engine with deterministic event-driven architecture https://nautilustrader.io Branch Version Status master nightly develop Platform Rust Python Linux (x86_64) 1.97.1 3.12-3.14 Linux (ARM64) 1.97.1 3.12-3.14 macOS (ARM64) 1.97.1 3.12-3.14 Windows (x86_64) 1.97.1 3.12-3.14 Docs : https://nautilustrader.io/docs/ Website : https://nautilustrader.io Support : support@nautilustrader.io…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
