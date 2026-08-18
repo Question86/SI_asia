@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T03:43:02+00:00_
+_Generiert: 2026-08-18T04:00:36+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+18 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -50,6 +50,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fireside chat and UAE Minister Omar Sultan Al Olama’s candid conversation with […] The post Four lessons from GITEX Global 2025: What Dubai’s AI playbook means fo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **米Amazon、規約で集団訴訟を禁止--利用で「同意」扱いに** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251626/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-18T01:19:38+00:00`, fetched `2026-08-18T04:00:04+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米Amazonが利用規約を改定し、米国の顧客が同社に対して集団訴訟を起こすことを禁じる条項を盛り込んだ。今後、同社との間で紛争が生じた場合、顧客は裁判ではなく、第三者の仲裁人による個別の仲裁で解決することになる。8月14日以降もAmazonのサービスを使い続けた顧客は、新たな集団訴訟を起こす権利を放棄したものと...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your AI isn’t producing bad creative, your brief is** — Score 10, observation — [Quelle](https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 LLMs do one thing: predict the next word. Here's how that creates somet...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **なぜ「純国産AIは無理」なのか？ さくらとSakana AIが示す「ソブリンAI」の現実解** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T23:27:10+00:00`, fetched `2026-08-18T03:24:08+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 米中の技術覇権争いや地政学的リスクの高まりを背景に、「国産LLM」「国産AI」をうたう製品のリリースが相次いでいる。しかし、何をもって「国産」と呼ぶのかは実はあいまいだ。学習データか、モデル構造か、それとも運用環境か──。 「LLMはどこまで『国産』であるべきか？」と題した本特集では、日本企業が安全性と利便...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AlexsJones/llmfit** — Score 5, observation — [Quelle](https://github.com/AlexsJones/llmfit)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
