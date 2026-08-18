@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T21:20:35+00:00",
-  "run_id": "2026-08-18T21:20:35+00:00",
+  "generated_at": "2026-08-18T21:33:23+00:00",
+  "run_id": "2026-08-18T21:33:23+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 1,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 34,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1938,6 +1938,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e7d47f4faf519a234a7d"
+      },
+      {
+        "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+        "url": "https://gigazine.net/news/20260817-anthropic-model-2/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-17T12:40:32+00:00",
+        "fetched_at": "2026-08-18T21:32:53+00:00",
+        "summary": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 Redacted Risk Report August 2026 - Redacted Risk Report August 2026 .pdf (PDFファイル)https://www-cdn.anthropic.com/f61d...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "101fff263da6e430c732"
       },
       {
         "title": "一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」",
@@ -3934,6 +3955,27 @@
       "id": "e7d47f4faf519a234a7d"
     },
     {
+      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+      "url": "https://gigazine.net/news/20260817-anthropic-model-2/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T12:40:32+00:00",
+      "fetched_at": "2026-08-18T21:32:53+00:00",
+      "summary": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 Redacted Risk Report August 2026 - Redacted Risk Report August 2026 .pdf (PDFファイル)https://www-cdn.anthropic.com/f61d...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "101fff263da6e430c732"
+    },
+    {
       "title": "一瞬でいいから世界が変わると思わせてくれ｜情報処理学会・学会誌「情報処理」",
       "url": "https://note.com/ipsj/n/n6b8ce8659185",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4017,7 +4059,29 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "実はAnthropicには最上位のMythosよりも強力な「Model 2」というAIモデルがあるがリリース予定はない",
+      "url": "https://gigazine.net/news/20260817-anthropic-model-2/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T12:40:32+00:00",
+      "fetched_at": "2026-08-18T21:32:53+00:00",
+      "summary": "AnthropicがAIに関するリスクレポートを公開しました。その中で、一般公開されている最高性能のモデル「Claude Mythos 5」よりも性能が高い謎のモデルが登場することが話題になっています。 Redacted Risk Report August 2026 - Redacted Risk Report August 2026 .pdf (PDFファイル)https://www-cdn.anthropic.com/f61d...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "101fff263da6e430c732"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
