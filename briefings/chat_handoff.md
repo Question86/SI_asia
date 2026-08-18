@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T23:42:47+00:00_
+_Generated: 2026-08-18T23:51:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `85`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-18T23:42:47+00:00_
 - url: https://github.com/akitaonrails/ai-memory
 - summary: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the archit…
 
-### 3. M 5.6 - 154 km SSE of Teluk Dalam, Indonesia
+### 3. Enterprise managed settings in GitHub Copilot for JetBrains
+- source: GitHub Changelog Atom
+- score: `17`
+- published: `2026-08-18T23:33:07+00:00`
+- url: https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains
+- summary: GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s… The post Enterprise manage…
+
+### 4. M 5.6 - 154 km SSE of Teluk Dalam, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `17`
 - published: `2026-08-18T06:30:00.508+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt
 - summary: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
-
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-18T11:41:08+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2799
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Offenlegung von Informationen, die Manipulatio…
 
 ### 5. WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel
 - source: heise Security Alerts
