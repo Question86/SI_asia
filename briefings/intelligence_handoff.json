@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-18T22:03:02Z",
+  "generated_at": "2026-08-18T22:22:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:09+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2886",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T11:16:05+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2884",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T11:11:05+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:05+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -137,11 +137,39 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains PyCharm ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-08-18T21:57:30+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives… The post Credential revocation and deauthorization by token type appeared first on The GitHub Bl…"
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2799",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T11:41:08+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -167,7 +195,7 @@
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-18T11:00:00+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security"
@@ -194,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:06+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -220,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:46:05+00:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "security"
@@ -247,7 +275,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai",
         "security"
@@ -274,7 +302,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -294,32 +322,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen."
     }
   ],
   "read_order": [
