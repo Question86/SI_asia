@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-18T05:53:20Z",
+  "generated_at": "2026-08-18T06:05:37Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.16,
+      "age_days": 60.17,
       "topics": [
         "ai"
       ],
@@ -88,11 +88,41 @@
       "summary": ""
     },
     {
+      "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
+      "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-18T06:00:05+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "security",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: supply, chain",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardroom…"
+    },
+    {
       "title": "M 5.7 - 95 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T05:26:36.520+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -117,7 +147,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -143,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T03:19:14.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -167,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -192,7 +222,7 @@
       "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:30:11+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -216,7 +246,7 @@
       "url": "https://japan.cnet.com/article/35251626/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T01:19:38+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -240,7 +270,7 @@
       "url": "https://softantenna.com/blog/linux-tsc-requirement/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:27:49+00:00",
-      "age_days": 1.1,
+      "age_days": 1.11,
       "topics": [
         "general"
       ],
@@ -264,7 +294,7 @@
       "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -282,33 +312,6 @@
         "no strong comparative reason"
       ],
       "summary": "You’ve probably already spotted the gap. The onboarding flow that assumes everyone has a smartphone. The interview process that filters out neurodivergent candidates because it rewards fast small talk over actual competence. The product line priced for people who already have money, built by people who’ve never had to…"
-    },
-    {
-      "title": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模…"
     }
   ],
   "read_order": [
@@ -320,9 +323,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
+      "strong": 6,
       "watch": 3,
-      "quiet": 4
+      "quiet": 3
     }
   }
 }
