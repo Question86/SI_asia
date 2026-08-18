@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T06:04:30+00:00",
+  "generated_at": "2026-08-18T06:17:09+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 5,
-    "observe": 21
+    "observe": 22
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-18T06:09:00.000+00:00",
+      "relevance_score": 13,
+      "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
+      "summary": "Das WordPress-Plug-in Forminator Forms enthält eine kritische Schadcode-Lücke. Zudem sind Royal Elementor Addons löchrig.",
+      "section": "observe"
+    },
+    {
       "title": "M 5.7 - 95 km SW of Puerto Madero, Mexico",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/",
       "summary": "For years, voice technology in Asia was held back by the very thing that makes the region such a compelling market: its linguistic complexity. A customer may begin a call in English, switch to Mandarin, insert Malay or Tamil phrases, speak through background…",
       "section": "observe"
-    },
-    {
-      "title": "Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-18T01:22:15+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
-      "summary": "Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fi…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,146 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性",
-        "url": "https://jvn.jp/jp/JVN06609828/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-18T12:00:00+09:00",
-        "age_days": 0.13,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。"
-      },
-      {
-        "title": "[UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T04:36:06+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in nmap ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 60.17,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 60.2d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
-        "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-18T06:00:05+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "ai",
-          "security",
-          "infra",
-          "macro"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: supply, chain",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardroom…"
-      },
-      {
-        "title": "M 5.7 - 95 km SW of Puerto Madero, Mexico",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-18T05:26:36.520+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }

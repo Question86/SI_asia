@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T06:04:30+00:00_
+_Generiert: 2026-08-18T06:17:09+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+27 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel** — Score 13, observation — [Quelle](https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-18T06:09:00.000+00:00`, fetched `2026-08-18T06:16:37+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0); watchgraph region europe: NATO (+2.0)
+  - Kurz: Das WordPress-Plug-in Forminator Forms enthält eine kritische Schadcode-Lücke. Zudem sind Royal Elementor Addons löchrig.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.7 - 95 km SW of Puerto Madero, Mexico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-18T05:26:36.520+00:00`, fetched `2026-08-18T05:28:29+00:00`
