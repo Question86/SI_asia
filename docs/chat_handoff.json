@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T02:40:25+00:00",
+  "generated_at": "2026-08-18T03:03:48+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 6,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 0,
-    "observe": 8
+    "medium": 2,
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "akitaonrails/ai-memory",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 23,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the archit…",
+      "section": "medium"
+    },
+    {
+      "title": "Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-18T12:00:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/jp/JVN06609828/",
+      "summary": "The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。",
+      "section": "medium"
+    },
     {
       "title": "Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia",
       "source": "e27 Asia Startup and Tech Feed",
