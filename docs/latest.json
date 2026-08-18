@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T18:42:14+00:00",
-  "run_id": "2026-08-18T18:42:14+00:00",
+  "generated_at": "2026-08-18T18:59:13+00:00",
+  "run_id": "2026-08-18T18:59:13+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3711,51 +3711,7 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "fetched_at": "2026-08-18T18:41:44+00:00",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8f32e16be4074a12c65e"
-    },
-    {
-      "title": "[本日の一品]評判の良さげなAmazonベーシックのトラックパッド、試してみた",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2133121.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-18T15:49:43+00:00",
-      "fetched_at": "2026-08-18T18:41:44+00:00",
-      "summary": "[本日の一品]評判の良さげなAmazonベーシックのトラックパッド、試してみた",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "783367ffc032380de775"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
