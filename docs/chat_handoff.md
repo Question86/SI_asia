@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T06:17:09+00:00_
+_Generated: 2026-08-18T06:32:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `28`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-18T06:17:09+00:00_
 - url: https://github.com/akitaonrails/ai-memory
 - summary: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the archit…
 
-### 3. M 4.8 - 46 km NNW of Ruteng, Indonesia
+### 3. M 5.6 - 154 km SSE of Teluk Dalam, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-08-18T06:30:00.508+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt
+- summary: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.8 - 46 km NNW of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-18T03:19:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5
 - summary: Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)
-
-### 4. Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-18T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN06609828/
-- summary: The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。
 
 ### 5. WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel
 - source: heise Security Alerts

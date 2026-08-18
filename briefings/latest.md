@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T06:17:09+00:00_
+_Generiert: 2026-08-18T06:32:02+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+28 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-08-18T06:17:09+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.
+- **USGS earthquake M5.6 - 154 km SSE of Teluk Dalam, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt)
+  - Quelle: USGS
+  - Zeit: `2026-08-18T06:02:20+00:00`
+  - Kurz: M5.6 - 154 km SSE of Teluk Dalam, Indonesia. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -87,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Support Matrix Area Status Notes Linux Supported Primary Docker/server target and CI platform. Published D…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.6 - 154 km SSE of Teluk Dalam, Indonesia** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-18T06:30:00.508+00:00`, fetched `2026-08-18T06:31:32+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 46 km NNW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-18T03:19:14.040+00:00`, fetched `2026-08-18T03:24:08+00:00`
