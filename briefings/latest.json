@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T12:49:36+00:00",
-  "run_id": "2026-08-18T12:49:36+00:00",
+  "generated_at": "2026-08-18T13:10:42+00:00",
+  "run_id": "2026-08-18T13:10:42+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 67,
     "displayed_findings": 67,
     "high": 0,
@@ -3411,29 +3411,7 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI応答のコールセンターに初めて電話かけたんだけど、これやばすぎるな。人間に繋がった時の第一声が冗談抜きに「◯すぞ」になってしまう",
-      "url": "https://togetter.com/li/2734385",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-18T05:35:31+00:00",
-      "fetched_at": "2026-08-18T12:49:06+00:00",
-      "summary": "AI応答のコールセンターに初めて電話かけたんだけど、これやばすぎるな。人間に繋がった時の第一声が冗談抜きに「◯すぞ」になってしまう",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "afb6dde9432730c185ef"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
