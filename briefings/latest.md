@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T04:33:19+00:00_
+_Generiert: 2026-08-18T04:49:26+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+20 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -92,9 +92,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-18T04:36:06+00:00`, fetched `2026-08-18T04:48:56+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in nmap ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge** — Score 10, observation — [Quelle](https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-18T04:43:33+00:00`, fetched `2026-08-18T04:48:56+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For years, voice technology in Asia was held back by the very thing that makes the region such a compelling market: its linguistic complexity. A customer may begin a call in English, switch to Mandarin, insert Malay or Tamil phrases, speak through background noise, and expect the system on the other end to keep up […] The post Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-18T01:22:15+00:00`, fetched `2026-08-18T01:44:26+00:00`
@@ -121,15 +139,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: Volume went up. Quality didn’t. The bottleneck moved somewhere nobody is looking. Every marketing team I speak to in Southeast Asia has the same story about generative AI: we make ten times more creative than we did eighteen months ago, and we’re not convinced any of it is better. That instinct is now measurable. New […] The post Your AI isn’t producing bad creative, your brief is appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Social intrapreneurs can change the world too** — Score 9, observation — [Quelle](https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-18T02:00:12+00:00`, fetched `2026-08-18T02:13:32+00:00`
-  - Treffer: APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
-  - Kurz: You’ve probably already spotted the gap. The onboarding flow that assumes everyone has a smartphone. The interview process that filters out neurodivergent candidates because it rewards fast small talk over actual competence. The product line priced for people who already have money, built by people who’ve never had to think twice about a grocery bill. […] The post Social intrapreneurs can change the world too appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
