@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T18:25:19+00:00_
+_Generiert: 2026-08-18T18:42:14+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+73 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)
   - Kurz: OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Pacing model development in an era of cyber-critical capabilities** — Score 16, observation — [Quelle](https://openai.com/index/pacing-model-development-cyber-capabilities)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-18T11:00:00+00:00`, fetched `2026-08-18T18:41:44+00:00`
+  - Treffer: AI/KI, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); recent (+1.0)
+  - Kurz: OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
