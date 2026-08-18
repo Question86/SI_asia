@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T09:57:25+00:00_
+_Generated: 2026-08-18T10:18:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `50`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-18T09:57:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)
 
-### 7. From paddy fields to small shops, Malaysia maps an inclusive AI future
+### 7. Chinese carmakers now sell one EV abroad for every two at home
+- source: Rest of World Global Tech Feed
+- score: `10`
+- published: `2026-08-18T10:00:00+00:00`
+- url: https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.
+
+### 8. From paddy fields to small shops, Malaysia maps an inclusive AI future
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-18T05:10:05+00:00`
 - url: https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/
 - summary: For years, artificial intelligence was framed as a technology for companies with deep pockets: banks with large data teams, manufacturers with automated lines, or global platforms sitting on oceans of customer information. Malaysia’s latest AI agenda is tryin…
-
-### 8. Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-18T04:43:33+00:00`
-- url: https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/
-- summary: For years, voice technology in Asia was held back by the very thing that makes the region such a compelling market: its linguistic complexity. A customer may begin a call in English, switch to Mandarin, insert Malay or Tamil phrases, speak through background…
 
 END OF DOCUMENT
