@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T20:06:07+00:00_
+_Generiert: 2026-08-18T20:15:33+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+77 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
