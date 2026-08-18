@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-18T09:27:32+00:00",
+  "generated_at": "2026-08-18T09:43:46+00:00",
   "topics": {
     "ai": [
       {
@@ -165,6 +165,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
       },
       {
+        "title": "M 4.8 - 74 km N of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-18T09:39:24.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlm3"
+      },
+      {
         "title": "M 4.8 - 46 km NNW of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-18T03:19:14.040+00:00",
@@ -223,11 +230,25 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:26:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553"
+      },
+      {
         "title": "Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-18T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN06609828/"
+      },
+      {
+        "title": "[UPDATE] [hoch] HAProxy: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:26:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012"
       },
       {
         "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
@@ -277,20 +298,6 @@
         "published_at": "2026-08-18T09:01:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872"
-      },
-      {
-        "title": "[NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T08:56:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871"
-      },
-      {
-        "title": "[NEU] [hoch] SuiteCRM: Schwachstelle ermöglicht SQL-Injection",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T08:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870"
       }
     ],
     "geopolitics": [

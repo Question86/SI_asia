@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T09:27:32+00:00_
+_Generated: 2026-08-18T09:43:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `44`
+- findings: `47`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-18T09:27:32+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt
 - summary: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
 
-### 4. M 4.8 - 46 km NNW of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-18T03:19:14.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5
-- summary: Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-18T09:26:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen.
 
 ### 5. WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel
 - source: heise Security Alerts
