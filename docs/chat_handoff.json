@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T10:58:17+00:00",
+  "generated_at": "2026-08-18T11:08:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 2,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 24,
-    "observe": 29
+    "medium": 25,
+    "observe": 30
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-18T09:26:09+00:00",
+      "published_at": "2026-08-18T11:00:00+00:00",
       "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen.",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "section": "medium"
     },
     {
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "section": "observe"
+    },
+    {
       "title": "Chinese carmakers now sell one EV abroad for every two at home",
       "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "summary": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
       "section": "observe"
-    },
-    {
-      "title": "From paddy fields to small shops, Malaysia maps an inclusive AI future",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-18T05:10:05+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/",
-      "summary": "For years, artificial intelligence was framed as a technology for companies with deep pockets: banks with large data teams, manufacturers with automated lines, or global platforms sitting on oceans of customer information. Malaysia’s latest AI agenda is tryin…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:26:09+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T10:31:06+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T10:31:05+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, beliebigen Code auszuführen oder Denial-of-Service-Zustände herbeizuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:46:05+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
-      },
-      {
-        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:21:06+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen, SSRF-Angriffe durchzuführen oder vertrauliche Informationen offenzulegen."
-      }
-    ]
-  }
+  ]
 }

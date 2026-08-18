@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T10:58:17+00:00_
+_Generiert: 2026-08-18T11:08:20+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+55 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Partnering with CodeAI to prepare the first AI generation** — Score 16, observation — [Quelle](https://openai.com/index/partnering-with-codeai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-18T11:00:00+00:00`, fetched `2026-08-18T11:07:49+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0)
+  - Kurz: OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-18T09:26:09+00:00`, fetched `2026-08-18T09:43:17+00:00`
@@ -114,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing ChatGPT for Teens: Built for learning, backed by protections** — Score 12, observation — [Quelle](https://openai.com/index/introducing-chatgpt-for-teens)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-18T11:00:00+00:00`, fetched `2026-08-18T11:07:49+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Chinese carmakers now sell one EV abroad for every two at home** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-18T10:00:00+00:00`, fetched `2026-08-18T10:18:05+00:00`
@@ -221,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ニューヨーク=今堀祥和】17日の米国債市場で償還までの期間が最も長い30年物の利回りが一時5.3%台に上昇し、19年ぶりの高水準を付けた。金利上昇は債券価格の下落を意味する。米超長期債は投資家が買いを手控える「3つの懸念」にさらされている。米10年物金利も上昇LSEGによると30年債は前週終値から一時0.05%高い5.31...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/local_governments/character-specification)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-18T06:00:00+00:00`, fetched `2026-08-18T06:04:00+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

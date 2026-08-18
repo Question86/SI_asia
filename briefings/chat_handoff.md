@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T10:58:17+00:00_
+_Generated: 2026-08-18T11:08:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `55`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-18T10:58:17+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt
 - summary: ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)
 
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
+### 4. Partnering with CodeAI to prepare the first AI generation
+- source: OpenAI News RSS
 - score: `16`
-- published: `2026-08-18T09:26:09+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen.
+- published: `2026-08-18T11:00:00+00:00`
+- url: https://openai.com/index/partnering-with-codeai
+- summary: OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
 
 ### 5. WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel
 - source: heise Security Alerts
@@ -50,18 +50,18 @@ _Generated: 2026-08-18T10:58:17+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)
 
-### 7. Chinese carmakers now sell one EV abroad for every two at home
+### 7. Introducing ChatGPT for Teens: Built for learning, backed by protections
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-08-18T11:00:00+00:00`
+- url: https://openai.com/index/introducing-chatgpt-for-teens
+- summary: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
+
+### 8. Chinese carmakers now sell one EV abroad for every two at home
 - source: Rest of World Global Tech Feed
 - score: `10`
 - published: `2026-08-18T10:00:00+00:00`
 - url: https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.
-
-### 8. From paddy fields to small shops, Malaysia maps an inclusive AI future
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-18T05:10:05+00:00`
-- url: https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/
-- summary: For years, artificial intelligence was framed as a technology for companies with deep pockets: banks with large data teams, manufacturers with automated lines, or global platforms sitting on oceans of customer information. Malaysia’s latest AI agenda is tryin…
 
 END OF DOCUMENT
