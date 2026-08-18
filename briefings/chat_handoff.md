@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T01:44:56+00:00_
+_Generated: 2026-08-18T02:14:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-08-18T01:44:56+00:00_
 - url: https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/
 - summary: Volume went up. Quality didn’t. The bottleneck moved somewhere nobody is looking. Every marketing team I speak to in Southeast Asia has the same story about generative AI: we make ten times more creative than we did eighteen months ago, and we’re not convince…
 
-### 3. M 4.8 - south of the Fiji Islands
+### 3. Social intrapreneurs can change the world too
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-08-18T02:00:12+00:00`
+- url: https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/
+- summary: You’ve probably already spotted the gap. The onboarding flow that assumes everyone has a smartphone. The interview process that filters out neurodivergent candidates because it rewards fast small talk over actual competence. The product line priced for people…
+
+### 4. M 4.8 - south of the Fiji Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-18T01:26:57.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs
 - summary: Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)
-
-### 4. Southeast Asia solved distribution: Now fintech has to scale on the balance sheet
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-18T01:30:11+00:00`
-- url: https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/
-- summary: A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets. Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did n…
 
 END OF DOCUMENT
