@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T14:04:23+00:00_
+_Generiert: 2026-08-18T14:18:06+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,10 @@ _Generiert: 2026-08-18T14:04:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203)
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 40 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 40 thousand in MMI V.
 
 ## Wirtschaft global
 
