@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T06:52:34+00:00_
+_Generiert: 2026-08-18T07:11:41+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,6 @@ _Generiert: 2026-08-18T06:52:34+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.
-- **USGS earthquake M5.6 - 154 km SSE of Teluk Dalam, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt)
-  - Quelle: USGS
-  - Zeit: `2026-08-18T06:02:20+00:00`
-  - Kurz: M5.6 - 154 km SSE of Teluk Dalam, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
