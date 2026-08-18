@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T22:54:02+00:00",
-  "run_id": "2026-08-18T22:54:02+00:00",
+  "generated_at": "2026-08-18T23:02:44+00:00",
+  "run_id": "2026-08-18T23:02:44+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 1,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 35,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1619,6 +1619,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fc02776be02d1f813ef5"
+      },
+      {
+        "title": "How NVIDIA scales expertise with ChatGPT Work",
+        "url": "https://openai.com/index/nvidia/chatgpt-work",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-18T00:00:00+00:00",
+        "fetched_at": "2026-08-18T23:02:08+00:00",
+        "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3730906fddd944e3d50a"
       },
       {
         "title": "Multiples vulnérabilités dans les produits SonicWall (12 août 2026)",
@@ -3696,6 +3716,26 @@
       "id": "fc02776be02d1f813ef5"
     },
     {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T00:00:00+00:00",
+      "fetched_at": "2026-08-18T23:02:08+00:00",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3730906fddd944e3d50a"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits SonicWall (12 août 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1006/",
       "source": "CERT-FR Avis de sécurité",
@@ -4179,7 +4219,28 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T00:00:00+00:00",
+      "fetched_at": "2026-08-18T23:02:08+00:00",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3730906fddd944e3d50a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
