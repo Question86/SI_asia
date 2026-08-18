@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T08:13:32+00:00",
-  "run_id": "2026-08-18T08:13:32+00:00",
+  "generated_at": "2026-08-18T08:26:59+00:00",
+  "run_id": "2026-08-18T08:26:59+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1543,31 +1543,7 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [hoch] Oracle MySQL: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2441",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-18T08:06:05+00:00",
-      "fetched_at": "2026-08-18T08:13:02+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle MySQL ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "76c53d298b361ed78e02"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
