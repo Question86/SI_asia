@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-18T09:56:10Z",
+  "generated_at": "2026-08-18T10:07:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 11,
+      "krass": 12,
       "strong": 12,
       "watch": 4,
-      "quiet": 13
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 20,
+      "strong": 21,
       "watch": 4,
-      "quiet": 13
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:09+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:07+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:07+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -220,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T06:30:00.508+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -241,11 +241,38 @@
       "summary": "ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T09:46:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
+    },
+    {
       "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -272,7 +299,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -298,7 +325,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -324,7 +351,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:01:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -350,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:01:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -376,7 +403,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -428,7 +455,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T06:09:00.000+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -454,7 +481,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.33,
+      "age_days": 60.34,
       "topics": [
         "ai"
       ],
@@ -483,7 +510,7 @@
       "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T06:00:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -513,7 +540,7 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T08:29:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -539,7 +566,7 @@
       "url": "https://www.heise.de/news/Webmailer-Roundcube-Updates-stopfen-zahlreiche-Sicherheitslecks-11416887.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T07:06:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -616,7 +643,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlm3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T09:39:24.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -664,7 +691,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -689,7 +716,7 @@
       "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:30:11+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "macro"
       ],
@@ -713,7 +740,7 @@
       "url": "https://japan.cnet.com/article/35251626/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T01:19:38+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -737,7 +764,7 @@
       "url": "https://softantenna.com/blog/linux-tsc-requirement/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:27:49+00:00",
-      "age_days": 1.27,
+      "age_days": 1.28,
       "topics": [
         "general"
       ],
@@ -761,7 +788,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tllu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T08:57:11.436+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -789,7 +816,7 @@
       "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -813,7 +840,7 @@
       "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-18T06:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -888,7 +915,7 @@
       "url": "https://anond.hatelabo.jp/20260818123722",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T03:37:32+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -912,7 +939,7 @@
       "url": "https://onaji.me/entry/2026/08/18",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -936,7 +963,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T22:42:32+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -962,7 +989,7 @@
       "url": "https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T05:10:05+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -1007,31 +1034,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "For years, voice technology in Asia was held back by the very thing that makes the region such a compelling market: its linguistic complexity. A customer may begin a call in English, switch to Mandarin, insert Malay or Tamil phrases, speak through background noise, and expect the system on the other end to keep up […]…"
-    },
-    {
-      "title": "Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia",
-      "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-18T01:22:15+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fireside chat and UAE Minister Omar Sultan Al Olama’s candid c…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
