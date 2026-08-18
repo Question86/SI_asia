@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-18T08:48:23Z",
+  "generated_at": "2026-08-18T09:08:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 36,
+    "dynamics": 40,
     "bands": {
-      "krass": 2,
-      "strong": 9,
+      "krass": 4,
+      "strong": 10,
       "watch": 3,
-      "quiet": 22
+      "quiet": 23
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
+      "krass": 1,
+      "strong": 13,
       "watch": 3,
-      "quiet": 22
+      "quiet": 23
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Redis: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T08:56:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Redis ausnutzen, um Sicherheitsvorkehrungen zu umgehen, sich als andere Benutzer auszugeben, Daten zu manipulieren, vertrauliche Informationen offenzulegen, den Speicher zu beschädigen, möglicherweise beliebigen Code auszuführen und Denial-of-Service-Zustände herbeizuführen."
+    },
     {
       "title": "Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性",
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -43,11 +69,35 @@
       "summary": "The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T08:56:07+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in HP Web JetAdmin ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -71,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T06:30:00.508+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -92,11 +142,37 @@
       "summary": "ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "[NEU] [hoch] SuiteCRM: Schwachstelle ermöglicht SQL-Injection",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T08:56:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in SuiteCRM ausnutzen, um einen SQL-Injection Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Oracle MySQL: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:06:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -122,7 +198,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T06:09:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -148,7 +224,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.28,
+      "age_days": 60.3,
       "topics": [
         "ai"
       ],
@@ -177,7 +253,7 @@
       "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T06:00:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -207,7 +283,7 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T08:29:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -233,7 +309,7 @@
       "url": "https://www.heise.de/news/Webmailer-Roundcube-Updates-stopfen-zahlreiche-Sicherheitslecks-11416887.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T07:06:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -259,7 +335,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T05:26:36.520+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -284,7 +360,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -310,7 +386,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T03:19:14.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -334,7 +410,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -359,7 +435,7 @@
       "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:30:11+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "macro"
       ],
@@ -383,7 +459,7 @@
       "url": "https://japan.cnet.com/article/35251626/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T01:19:38+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -407,7 +483,7 @@
       "url": "https://softantenna.com/blog/linux-tsc-requirement/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:27:49+00:00",
-      "age_days": 1.22,
+      "age_days": 1.24,
       "topics": [
         "general"
       ],
@@ -427,11 +503,39 @@
       "summary": "Linuxカーネルにx86環境でTime Stamp Counter(TSC)を必須要件にするという大きな変更が加えられたことがわかりました。 一見コードのクリーンアップのための小規模な変更に思えますが、実際には「超古いCPUへの長年の互換性維持をついに終了した」という象徴的な出来事で、Windowsが10年以上前から進めていた流れに、Lin..."
     },
     {
+      "title": "M 4.9 - 2 km WSW of Granada, Spain",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tllu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-18T08:57:11.436+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "disaster"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "DYFI? - III Time 2026-08-18 08:37:44 UTC 2026-08-18 08:37:44 UTC at epicenter Location 37.179°N 3.631°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Social intrapreneurs can change the world too",
       "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -455,7 +559,7 @@
       "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-18T06:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -479,7 +583,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "macro"
@@ -502,11 +606,35 @@
       "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模…"
     },
     {
+      "title": "通販生活が楽天市場から撤退 迎撃ドローン関連の報道受け「企業理念に反する」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000596/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-18T08:05:27+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "通信販売カタログ「通販生活」を手掛けるカタログハウスは8月18日、同サービスを巡り、楽天グループのECモール「楽天市場」への出店を取りやめたと発表した。楽天グループが迎撃用ドローンを手掛ける独Helsingと提携するとの報道を受け、企業理念に抵触するとして撤退に至ったという。カタログハウスがITmedia NEWSの取..."
+    },
+    {
       "title": "若者の【キモい】の使い方がおかしい",
       "url": "https://anond.hatelabo.jp/20260818123722",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T03:37:32+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -530,7 +658,7 @@
       "url": "https://onaji.me/entry/2026/08/18",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -554,7 +682,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T22:42:32+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -580,7 +708,7 @@
       "url": "https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T05:10:05+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -605,7 +733,7 @@
       "url": "https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T04:43:33+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -631,7 +759,7 @@
       "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:22:15+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -656,7 +784,7 @@
       "url": "https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:00:11+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -682,7 +810,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 59.25,
+      "age_days": 59.26,
       "topics": [
         "general"
       ],
@@ -698,7 +826,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 59.2d old signal"
+        "aging penalty -16.0 for 59.3d old signal"
       ],
       "summary": ""
     },
@@ -707,7 +835,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 59.25,
+      "age_days": 59.26,
       "topics": [
         "general"
       ],
@@ -723,7 +851,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 59.2d old signal"
+        "aging penalty -16.0 for 59.3d old signal"
       ],
       "summary": ""
     },
@@ -732,7 +860,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 59.25,
+      "age_days": 59.26,
       "topics": [
         "ai"
       ],
@@ -749,7 +877,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 59.2d old signal",
+        "aging penalty -16.0 for 59.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -759,7 +887,7 @@
       "url": "https://e27.co/ai-will-not-just-automate-tasks-it-will-repackage-responsibilities-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T02:30:49+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -784,7 +912,7 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -809,7 +937,7 @@
       "url": "https://e27.co/ecosystem-roundup-sea-financial-services-deals-hold-firm-despite-sharp-drop-in-value-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T08:39:52+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -834,7 +962,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n890f00a6136a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T00:13:59+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -859,7 +987,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T23:27:10+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -884,7 +1012,7 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -904,33 +1032,7 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Hundreds of models & providers. One command to find what runs on your hardware. llmfit English · 中文 · 日本語 📊 New: benchmark & share — real numbers from your machine, better estimates for everyone. Download a model, serve it, and measure real tok/s on your hardware — then contribute the results back to the project as a…"
-    },
-    {
-      "title": "Despite the rally, the CMC Fear and Greed Index remains at 39, indicating underlying market caution",
-      "url": "https://e27.co/despite-the-rally-the-cmc-fear-and-greed-index-remains-at-39-indicating-underlying-market-caution-20260818/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-18T03:05:29+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The global cryptocurrency market currently exhibits a fascinating divergence from traditional equities. Digital assets recently surged 1.52 per cent to reach a total valuation of US$2.19 trillion. This rally highlights a striking negative correlation of 90 per cent with the broader S&P 500 index. Bitcoin leads this ch…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Redis: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }

@@ -1,28 +1,48 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-18T08:48:23Z_
+_Generated: 2026-08-18T09:08:44Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Redis: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
 
 ## Top Dynamics
+
+### [NEU] [hoch] Redis: Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-08-18T08:56:06+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869
 
 ### Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-18T12:00:00+09:00` / age_days `0.24`
+- Published: `2026-08-18T12:00:00+09:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/jp/JVN06609828/
 
+### [NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-08-18T08:56:07+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871
+
 ### [UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-18T04:36:06+00:00` / age_days `0.18`
+- Published: `2026-08-18T04:36:06+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイ
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-08-18T06:30:00.508+00:00` / age_days `0.1`
+- Published: `2026-08-18T06:30:00.508+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt
 
+### [NEU] [hoch] SuiteCRM: Schwachstelle ermöglicht SQL-Injection
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-18T08:56:06+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870
+
 ### [UPDATE] [hoch] Oracle MySQL: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-18T08:06:05+00:00` / age_days `0.03`
+- Published: `2026-08-18T08:06:05+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -52,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイ
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-18T06:09:00.000+00:00` / age_days `0.11`
+- Published: `2026-08-18T06:09:00.000+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイ
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `60.28`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `60.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 60.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイ
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-18T06:00:05+00:00` / age_days `0.12`
+- Published: `2026-08-18T06:00:05+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイ
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-08-18T08:29:00.000+00:00` / age_days `0.01`
+- Published: `2026-08-18T08:29:00.000+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, security high-signal: kritisch
@@ -92,40 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Alluraにおけるサーバサイ
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-08-18T07:06:00.000+00:00` / age_days `0.07`
+- Published: `2026-08-18T07:06:00.000+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
 - Quelle: https://www.heise.de/news/Webmailer-Roundcube-Updates-stopfen-zahlreiche-Sicherheitslecks-11416887.html
-
-### M 5.7 - 95 km SW of Puerto Madero, Mexico
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `21.0`
-- Published: `2026-08-18T05:26:36.520+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl
-
-### akitaonrails/ai-memory
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `20.0`
-- Published: `2026-08-18T03:03:15+00:00` / age_days `0.24`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/akitaonrails/ai-memory
-
-### M 4.8 - 46 km NNW of Ruteng, Indonesia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-08-18T03:19:14.040+00:00` / age_days `0.23`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5
 
 END OF DOCUMENT
