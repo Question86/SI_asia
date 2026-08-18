@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T03:03:48+00:00_
+_Generiert: 2026-08-18T03:24:45+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+17 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the architecture, the failed approaches, or the open questions. Support Matrix Area Status Notes Linux Supported Primary Docker/server target and CI platform. Published D…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 46 km NNW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-18T03:19:14.040+00:00`, fetched `2026-08-18T03:24:08+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN06609828/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-18T12:00:00+09:00`, fetched `2026-08-18T03:03:15+00:00`
@@ -158,14 +167,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減らして読みやすくすることを目的としています。 LLMs do one thing: predict the next word. Here's how that creates somet...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Linuxがついに「TSC必須」へ。Windowsに続く大きな転換点を迎える | ソフトアンテナ** — Score 5, observation — [Quelle](https://softantenna.com/blog/linux-tsc-requirement/)
+- **なぜ「純国産AIは無理」なのか？ さくらとSakana AIが示す「ソブリンAI」の現実解** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T03:27:49+00:00`, fetched `2026-08-18T00:22:05+00:00`
+  - Zeit: published `2026-08-17T23:27:10+00:00`, fetched `2026-08-18T03:24:08+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Linuxカーネルにx86環境でTime Stamp Counter(TSC)を必須要件にするという大きな変更が加えられたことがわかりました。 一見コードのクリーンアップのための小規模な変更に思えますが、実際には「超古いCPUへの長年の互換性維持をついに終了した」という象徴的な出来事で、Windowsが10年以上前から進めていた流れに、Lin...
+  - Kurz: 米中の技術覇権争いや地政学的リスクの高まりを背景に、「国産LLM」「国産AI」をうたう製品のリリースが相次いでいる。しかし、何をもって「国産」と呼ぶのかは実はあいまいだ。学習データか、モデル構造か、それとも運用環境か──。 「LLMはどこまで『国産』であるべきか？」と題した本特集では、日本企業が安全性と利便...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AlexsJones/llmfit** — Score 5, observation — [Quelle](https://github.com/AlexsJones/llmfit)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

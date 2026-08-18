@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T03:03:48+00:00",
+  "generated_at": "2026-08-18T03:24:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 3,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 2,
-    "observe": 12
+    "medium": 3,
+    "observe": 14
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 23,
       "url": "https://github.com/akitaonrails/ai-memory",
       "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the archit…",
+      "section": "medium"
+    },
+    {
+      "title": "M 4.8 - 46 km NNW of Ruteng, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-18T03:19:14.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
+      "summary": "Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)",
       "section": "medium"
     },
     {
