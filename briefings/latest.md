@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T09:43:46+00:00_
+_Generiert: 2026-08-18T09:57:25+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+48 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -136,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-18T09:46:05+00:00`, fetched `2026-08-18T09:56:52+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] HAProxy: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-18T09:26:07+00:00`, fetched `2026-08-18T09:43:17+00:00`
@@ -144,15 +153,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in HAProxy ausnutzen, um Dateien zu manipulieren oder einen Denial of Service zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-18T09:21:06+00:00`, fetched `2026-08-18T09:27:00+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen, SSRF-Angriffe durchzuführen oder vertrauliche Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten

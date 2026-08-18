@@ -251,6 +251,29 @@
     "id": "5213c40b61db4ea94039"
   },
   {
+    "title": "[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-18T09:46:05+00:00",
+    "fetched_at": "2026-08-18T09:56:52+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e10ab36874379d8de0b8"
+  },
+  {
     "title": "[UPDATE] [hoch] HAProxy: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012",
     "source": "BSI CERT-Bund Security Advisories",
