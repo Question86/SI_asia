@@ -1220,6 +1220,42 @@
     "id": "5d928e2da9dbf6446ff0"
   },
   {
+    "title": "M 5.3 - 35 km SSW of Jurm, Afghanistan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-18T20:03:42.040+00:00",
+    "fetched_at": "2026-08-18T20:05:35+00:00",
+    "summary": "Time 2026-08-18 19:51:09 UTC 2026-08-18 19:51:09 UTC at epicenter Location 36.554°N 70.755°E Depth 195.94 km (121.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "df39f79411d349d17b1d"
+  },
+  {
     "title": "M 4.6 - 5 km ENE of Escúzar, Spain",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmc",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1347,6 +1383,28 @@
       "LOW"
     ],
     "id": "dc8b422129c6602ae438"
+  },
+  {
+    "title": "Strengthening Democratic Oversight in National Security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-18T19:00:00+00:00",
+    "fetched_at": "2026-08-18T20:05:35+00:00",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI",
+      "Security"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Security (+7.5); recent (+1.0); watchgraph demote demo (x0.45)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "36e88af3fb9e1cf9bce2"
   },
   {
     "title": "Bangladesh launches US$33M fund-of-funds to deepen startup capital pool",
