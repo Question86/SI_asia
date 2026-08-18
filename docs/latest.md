@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T02:14:02+00:00_
+_Generiert: 2026-08-18T02:40:25+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 10, observation).
+8 neue relevante Treffer. Stärkstes Signal: „Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 10, observation).
 
 ## Priorität Hoch
 
