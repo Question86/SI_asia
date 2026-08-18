@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T12:29:52+00:00_
+_Generiert: 2026-08-18T12:49:36+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+67 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-18T12:29:52+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-07`
   - Kurz: Known exploited vulnerability. Added 2026-08-07. Due 2026-08-10. Progress LoadMaster Command Injection Vulnerability
+- **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104099)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Mexico
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559738)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,6 @@ _Generiert: 2026-08-18T12:29:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:147.71km) in Papua New Guinea 16/08/2026 10:59 UTC, 2.1 million in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1558930)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:147.71km) in Papua New Guinea 16/08/2026 10:59 UTC, 2.1 million in MMI&gt;=III.
 
 ## Wirtschaft global
 
