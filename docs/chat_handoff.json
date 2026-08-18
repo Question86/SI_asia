@@ -60,5 +60,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 60.03,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 60.0d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.8 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-18T01:26:57.040+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)"
+      },
+      {
+        "title": "Southeast Asia solved distribution: Now fintech has to scale on the balance sheet",
+        "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-18T01:30:11+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "macro"
+        ],
+        "dynamics_score": 13.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: active"
+        ],
+        "summary": "A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets. Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did not have an answer. Neither did his finance lead. That […] Th…"
+      },
+      {
+        "title": "Linuxがついに「TSC必須」へ。Windowsに続く大きな転換点を迎える | ソフトアンテナ",
+        "url": "https://softantenna.com/blog/linux-tsc-requirement/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-17T03:27:49+00:00",
+        "age_days": 0.96,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 10.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10"
+        ],
+        "summary": "Linuxカーネルにx86環境でTime Stamp Counter(TSC)を必須要件にするという大きな変更が加えられたことがわかりました。 一見コードのクリーンアップのための小規模な変更に思えますが、実際には「超古いCPUへの長年の互換性維持をついに終了した」という象徴的な出来事で、Windowsが10年以上前から進めていた流れに、Lin..."
+      },
+      {
+        "title": "Social intrapreneurs can change the world too",
+        "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-18T02:00:12+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 9.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "You’ve probably already spotted the gap. The onboarding flow that assumes everyone has a smartphone. The interview process that filters out neurodivergent candidates because it rewards fast small talk over actual competence. The product line priced for people who already have money, built by people who’ve never had to…"
+      }
+    ]
+  }
 }
