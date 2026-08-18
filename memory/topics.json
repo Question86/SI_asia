@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-18T09:14:26+00:00",
+  "generated_at": "2026-08-18T09:27:32+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,20 @@
         "published_at": null,
         "relevance_score": 23,
         "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      {
+        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains PyCharm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878"
       },
       {
         "title": "From paddy fields to small shops, Malaysia maps an inclusive AI future",
@@ -59,20 +73,6 @@
         "published_at": "2026-08-18T02:30:49+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-will-not-just-automate-tasks-it-will-repackage-responsibilities-20260815/"
-      },
-      {
-        "title": "nautechsystems/nautilus_trader",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/nautechsystems/nautilus_trader"
-      },
-      {
-        "title": "harry0703/MoneyPrinterTurbo",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
       }
     ],
     "economy": [
@@ -230,6 +230,27 @@
         "url": "https://jvn.jp/jp/JVN06609828/"
       },
       {
+        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains PyCharm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost Desktop: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876"
+      },
+      {
         "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-18T09:06:05+00:00",
@@ -270,27 +291,6 @@
         "published_at": "2026-08-18T08:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870"
-      },
-      {
-        "title": "[NEU] [hoch] Redis: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T08:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869"
-      },
-      {
-        "title": "[UPDATE] [hoch] Oracle MySQL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T08:06:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2441"
-      },
-      {
-        "title": "[UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T04:36:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098"
       }
     ],
     "geopolitics": [
@@ -302,6 +302,27 @@
         "url": "https://jvn.jp/jp/JVN06609828/"
       },
       {
+        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains PyCharm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost Desktop: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T09:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876"
+      },
+      {
         "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-18T09:06:05+00:00",
@@ -342,27 +363,6 @@
         "published_at": "2026-08-18T08:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870"
-      },
-      {
-        "title": "[NEU] [hoch] Redis: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T08:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869"
-      },
-      {
-        "title": "WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-18T06:09:00.000+00:00",
-        "relevance_score": 13,
-        "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html"
-      },
-      {
-        "title": "Social intrapreneurs can change the world too",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-18T02:00:12+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/"
       }
     ]
   }

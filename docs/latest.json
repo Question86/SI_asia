@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T09:14:26+00:00",
-  "run_id": "2026-08-18T09:14:26+00:00",
+  "generated_at": "2026-08-18T09:27:32+00:00",
+  "run_id": "2026-08-18T09:27:32+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 3,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
-    "medium": 14,
+    "medium": 17,
     "observe": 27,
     "source_errors": 0
   },
@@ -218,6 +218,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5213c40b61db4ea94039"
+      },
+      {
+        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "fetched_at": "2026-08-18T09:27:00+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen, SSRF-Angriffe durchzuführen oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e9328cea5af523bb25e2"
+      },
+      {
+        "title": "[NEU] [hoch] JetBrains PyCharm: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:21:06+00:00",
+        "fetched_at": "2026-08-18T09:27:00+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains PyCharm ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a3a8cca15fb489ee2f52"
+      },
+      {
+        "title": "[NEU] [mittel] Mattermost Desktop: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:21:05+00:00",
+        "fetched_at": "2026-08-18T09:27:00+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost Desktop ausnutzen, um Informationen offenzulegen oder um nicht näher spezifizierte Auswirkungen zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "385c3a00484b827dbfa2"
       },
       {
         "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1238,6 +1307,75 @@
       "id": "5213c40b61db4ea94039"
     },
     {
+      "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:21:06+00:00",
+      "fetched_at": "2026-08-18T09:27:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen, SSRF-Angriffe durchzuführen oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e9328cea5af523bb25e2"
+    },
+    {
+      "title": "[NEU] [hoch] JetBrains PyCharm: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:21:06+00:00",
+      "fetched_at": "2026-08-18T09:27:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains PyCharm ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a3a8cca15fb489ee2f52"
+    },
+    {
+      "title": "[NEU] [mittel] Mattermost Desktop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:21:05+00:00",
+      "fetched_at": "2026-08-18T09:27:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost Desktop ausnutzen, um Informationen offenzulegen oder um nicht näher spezifizierte Auswirkungen zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "385c3a00484b827dbfa2"
+    },
+    {
       "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2063,13 +2201,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
+      "title": "[NEU] [hoch] JetBrains PyCharm: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T09:06:05+00:00",
-      "fetched_at": "2026-08-18T09:13:55+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-08-18T09:21:06+00:00",
+      "fetched_at": "2026-08-18T09:27:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains PyCharm ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2083,16 +2221,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "56f6a37ff823926bc25c"
+      "id": "a3a8cca15fb489ee2f52"
     },
     {
-      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
+      "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T09:06:05+00:00",
-      "fetched_at": "2026-08-18T09:13:55+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+      "published_at": "2026-08-18T09:21:06+00:00",
+      "fetched_at": "2026-08-18T09:27:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in JetBrains IntelliJ IDEA ausnutzen, um beliebigen Programmcode auszuführen, SSRF-Angriffe durchzuführen oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2106,16 +2244,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dc418df4c1e18e6427bf"
+      "id": "e9328cea5af523bb25e2"
     },
     {
-      "title": "[NEU] [niedrig] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
+      "title": "[NEU] [mittel] Mattermost Desktop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T09:01:05+00:00",
-      "fetched_at": "2026-08-18T09:13:55+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-08-18T09:21:05+00:00",
+      "fetched_at": "2026-08-18T09:27:00+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mattermost Desktop ausnutzen, um Informationen offenzulegen oder um nicht näher spezifizierte Auswirkungen zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2129,30 +2267,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5b5eab6219efff396b6c"
-    },
-    {
-      "title": "[NEU] [hoch] Apple macOS, iOS und iPadOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-18T09:01:05+00:00",
-      "fetched_at": "2026-08-18T09:13:55+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple macOS, Apple iOS und Apple iPadOS ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "12903327d8e9111327bd"
+      "id": "385c3a00484b827dbfa2"
     }
   ],
   "source_errors": [],
