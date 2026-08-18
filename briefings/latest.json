@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T17:36:20+00:00",
-  "run_id": "2026-08-18T17:36:20+00:00",
+  "generated_at": "2026-08-18T17:49:03+00:00",
+  "run_id": "2026-08-18T17:49:03+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 71,
     "displayed_findings": 71,
     "high": 0,
@@ -3625,29 +3625,7 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Googleドライブを使いこなす10のコツ | ライフハッカー・ジャパン",
-      "url": "https://www.lifehacker.jp/article/260810-hacks-every-google-drive-user-should-know/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-18T08:25:52+00:00",
-      "fetched_at": "2026-08-18T17:35:45+00:00",
-      "summary": "Googleドキュメントやスプレッドシートからちょっとしたメモまで、そのほとんどが「Googleドライブ」に集まってきます。 それだけに、ドライブが散らかっていると、必要なファイルを探すだけで時間を取られてしまうことも。 そこで今回は、ドライブをすっきり整理し、共有・共同編集の機能を使いこなすための10のテクニ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "51672c8eebdc1967c312"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
