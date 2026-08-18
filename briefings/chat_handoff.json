@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T11:19:06+00:00",
+  "generated_at": "2026-08-18T11:32:44+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 1,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
-    "medium": 27,
+    "medium": 28,
     "observe": 31
   },
   "source_errors_count": 0,
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:26:09+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Citrix Systems ShareFile StorageZones Controller: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2884",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T11:11:05+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, controller, citrix",
-          "security high-signal: code, controller, citrix"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems ShareFile StorageZones Controller ausnutzen, um beliebigen Programmcode auszuführen und Daten zu manipulieren."
-      },
-      {
-        "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T10:31:06+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T10:31:05+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, beliebigen Code auszuführen oder Denial-of-Service-Zustände herbeizuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Roundcube Webmail: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:46:05+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Roundcube Webmail ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }

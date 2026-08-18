@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-18T11:19:06+00:00",
+  "generated_at": "2026-08-18T11:32:44+00:00",
   "topics": {
     "ai": [
       {
@@ -251,6 +251,13 @@
         "url": "https://jvn.jp/jp/JVN06609828/"
       },
       {
+        "title": "[NEU] [kritisch] GeoServer: Schwachstelle ermöglicht SQL-Injection und potenziell Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2886"
+      },
+      {
         "title": "[NEU] [mittel] Icinga: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-18T11:11:05+00:00",
@@ -298,13 +305,6 @@
         "published_at": "2026-08-18T09:26:07+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012"
-      },
-      {
-        "title": "[NEU] [mittel] JetBrains IntelliJ IDEA: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:21:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877"
       }
     ],
     "geopolitics": [
@@ -314,6 +314,13 @@
         "published_at": "2026-08-18T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN06609828/"
+      },
+      {
+        "title": "[NEU] [kritisch] GeoServer: Schwachstelle ermöglicht SQL-Injection und potenziell Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-18T11:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2886"
       },
       {
         "title": "[NEU] [mittel] Icinga: Mehrere Schwachstellen",
@@ -370,13 +377,6 @@
         "published_at": "2026-08-18T09:21:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878"
-      },
-      {
-        "title": "[NEU] [mittel] Mattermost Desktop: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:21:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876"
       }
     ]
   }
