@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T03:24:45+00:00",
-  "run_id": "2026-08-18T03:24:45+00:00",
+  "generated_at": "2026-08-18T03:43:02+00:00",
+  "run_id": "2026-08-18T03:43:02+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -875,86 +875,7 @@
       "id": "d9c7ef04bff3c57a26f5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.8 - 46 km NNW of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-18T03:19:14.040+00:00",
-      "fetched_at": "2026-08-18T03:24:08+00:00",
-      "summary": "Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "f59dfc8316f6296cce57"
-    },
-    {
-      "title": "なぜ「純国産AIは無理」なのか？ さくらとSakana AIが示す「ソブリンAI」の現実解",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-17T23:27:10+00:00",
-      "fetched_at": "2026-08-18T03:24:08+00:00",
-      "summary": "米中の技術覇権争いや地政学的リスクの高まりを背景に、「国産LLM」「国産AI」をうたう製品のリリースが相次いでいる。しかし、何をもって「国産」と呼ぶのかは実はあいまいだ。学習データか、モデル構造か、それとも運用環境か──。 「LLMはどこまで『国産』であるべきか？」と題した本特集では、日本企業が安全性と利便...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e7d47f4faf519a234a7d"
-    },
-    {
-      "title": "Despite the rally, the CMC Fear and Greed Index remains at 39, indicating underlying market caution",
-      "url": "https://e27.co/despite-the-rally-the-cmc-fear-and-greed-index-remains-at-39-indicating-underlying-market-caution-20260818/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-18T03:05:29+00:00",
-      "fetched_at": "2026-08-18T03:24:08+00:00",
-      "summary": "The global cryptocurrency market currently exhibits a fascinating divergence from traditional equities. Digital assets recently surged 1.52 per cent to reach a total valuation of US$2.19 trillion. This rally highlights a striking negative correlation of 90 per cent with the broader S&P 500 index. Bitcoin leads this charge, rising 2.23 per cent to US$64,300.94 in […] The post Despite the rally, the CMC Fear and Greed…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d9c7ef04bff3c57a26f5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
