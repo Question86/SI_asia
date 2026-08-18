@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T23:33:27+00:00_
+_Generiert: 2026-08-18T23:42:47+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+84 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -242,6 +242,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); GitHub (+2.0); Actions (+2.0); recent (+1.0)
   - Kurz: Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives… The post Credential revocation and deauthorization by token type appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ドコモ・バイクシェア障害、返金の詳細発表 原因は「新システムの処理能力不足」とも公表** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251660/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-18T12:48:59+00:00`, fetched `2026-08-18T23:42:16+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ドコモ・バイクシェアは8月18日、8月上旬に発生したバイクシェアサービスのシステム障害について、原因と対応を報告した。8月1日に切り替えた新システムが、利用の集中する時間帯に処理能力不足に陥り、貸出・返却ができなくなったという。全国すべてのエリアでサービスを再開したのは8月13日。利用料金の返金は8月下旬...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Chinese carmakers now sell one EV abroad for every two at home** — Score 10, observation — [Quelle](https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-18T10:00:00+00:00`, fetched `2026-08-18T10:18:05+00:00`
@@ -304,15 +313,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-18 19:51:09 UTC 2026-08-18 19:51:09 UTC at epicenter Location 36.554°N 70.755°E Depth 195.94 km (121.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 5 km ENE of Escúzar, Spain** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmc)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-18T10:12:21.378+00:00`, fetched `2026-08-18T10:18:05+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-08-18 09:34:37 UTC 2026-08-18 09:34:37 UTC at epicenter Location 37.088°N 3.708°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
