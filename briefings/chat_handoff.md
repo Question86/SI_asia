@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T05:15:58+00:00_
+_Generated: 2026-08-18T05:28:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `23`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-18T05:15:58+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in nmap ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 5. From paddy fields to small shops, Malaysia maps an inclusive AI future
+### 5. M 5.7 - 95 km SW of Puerto Madero, Mexico
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-18T05:26:36.520+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)
+
+### 6. From paddy fields to small shops, Malaysia maps an inclusive AI future
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-18T05:10:05+00:00`
 - url: https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/
 - summary: For years, artificial intelligence was framed as a technology for companies with deep pockets: banks with large data teams, manufacturers with automated lines, or global platforms sitting on oceans of customer information. Malaysia’s latest AI agenda is tryin…
 
-### 6. Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge
+### 7. Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-18T04:43:33+00:00`
 - url: https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/
 - summary: For years, voice technology in Asia was held back by the very thing that makes the region such a compelling market: its linguistic complexity. A customer may begin a call in English, switch to Mandarin, insert Malay or Tamil phrases, speak through background…
 
-### 7. Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia
+### 8. Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-18T01:22:15+00:00`
 - url: https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/
 - summary: Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fi…
-
-### 8. 米Amazon、規約で集団訴訟を禁止--利用で「同意」扱いに
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-08-18T01:19:38+00:00`
-- url: https://japan.cnet.com/article/35251626/
-- summary: 米Amazonが利用規約を改定し、米国の顧客が同社に対して集団訴訟を起こすことを禁じる条項を盛り込んだ。今後、同社との間で紛争が生じた場合、顧客は裁判ではなく、第三者の仲裁人による個別の仲裁で解決することになる。8月14日以降もAmazonのサービスを使い続けた顧客は、新たな集団訴訟を起こす権利を放棄したものと...
 
 END OF DOCUMENT
