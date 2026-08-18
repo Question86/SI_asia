@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T08:59:36+00:00",
-  "run_id": "2026-08-18T08:59:36+00:00",
+  "generated_at": "2026-08-18T09:14:26+00:00",
+  "run_id": "2026-08-18T09:14:26+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 4,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 10,
+    "medium": 14,
     "observe": 27,
     "source_errors": 0
   },
@@ -218,6 +218,98 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5213c40b61db4ea94039"
+      },
+      {
+        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:06:05+00:00",
+        "fetched_at": "2026-08-18T09:13:55+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "56f6a37ff823926bc25c"
+      },
+      {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:06:05+00:00",
+        "fetched_at": "2026-08-18T09:13:55+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dc418df4c1e18e6427bf"
+      },
+      {
+        "title": "[NEU] [niedrig] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:01:05+00:00",
+        "fetched_at": "2026-08-18T09:13:55+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5b5eab6219efff396b6c"
+      },
+      {
+        "title": "[NEU] [hoch] Apple macOS, iOS und iPadOS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-18T09:01:05+00:00",
+        "fetched_at": "2026-08-18T09:13:55+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple macOS, Apple iOS und Apple iPadOS ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12903327d8e9111327bd"
       },
       {
         "title": "[NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -1146,6 +1238,98 @@
       "id": "5213c40b61db4ea94039"
     },
     {
+      "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:06:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56f6a37ff823926bc25c"
+    },
+    {
+      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:06:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dc418df4c1e18e6427bf"
+    },
+    {
+      "title": "[NEU] [niedrig] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:01:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5b5eab6219efff396b6c"
+    },
+    {
+      "title": "[NEU] [hoch] Apple macOS, iOS und iPadOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-18T09:01:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple macOS, Apple iOS und Apple iPadOS ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12903327d8e9111327bd"
+    },
+    {
       "title": "[NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1879,13 +2063,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] HP Web JetAdmin: Schwachstelle ermöglicht Manipulation von Dateien",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871",
+      "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T08:56:07+00:00",
-      "fetched_at": "2026-08-18T08:59:06+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in HP Web JetAdmin ausnutzen, um Dateien zu manipulieren.",
+      "published_at": "2026-08-18T09:06:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Checkmk ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1899,16 +2083,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "18fa10ce229f42ba5496"
+      "id": "56f6a37ff823926bc25c"
     },
     {
-      "title": "[NEU] [hoch] SuiteCRM: Schwachstelle ermöglicht SQL-Injection",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870",
+      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T08:56:06+00:00",
-      "fetched_at": "2026-08-18T08:59:06+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in SuiteCRM ausnutzen, um einen SQL-Injection Angriff durchzuführen.",
+      "published_at": "2026-08-18T09:06:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1922,16 +2106,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c78be277fc5d5c4ffb8c"
+      "id": "dc418df4c1e18e6427bf"
     },
     {
-      "title": "[NEU] [hoch] Redis: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869",
+      "title": "[NEU] [niedrig] Grafana: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T08:56:06+00:00",
-      "fetched_at": "2026-08-18T08:59:06+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Redis ausnutzen, um Sicherheitsvorkehrungen zu umgehen, sich als andere Benutzer auszugeben, Daten zu manipulieren, vertrauliche Informationen offenzulegen, den Speicher zu beschädigen, möglicherweise beliebigen Code auszuführen und Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-08-18T09:01:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1945,64 +2129,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "53d3a85c886753854f40"
+      "id": "5b5eab6219efff396b6c"
     },
     {
-      "title": "M 4.9 - 2 km WSW of Granada, Spain",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tllu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "[NEU] [hoch] Apple macOS, iOS und iPadOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-18T08:57:11.436+00:00",
-      "fetched_at": "2026-08-18T08:59:06+00:00",
-      "summary": "DYFI? - III Time 2026-08-18 08:37:44 UTC 2026-08-18 08:37:44 UTC at epicenter Location 37.179°N 3.631°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-18T09:01:05+00:00",
+      "fetched_at": "2026-08-18T09:13:55+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple macOS, Apple iOS und Apple iPadOS ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand herbeizuführen.",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9ae7958ffb797c6e68e5"
-    },
-    {
-      "title": "通販生活が楽天市場から撤退 迎撃ドローン関連の報道受け「企業理念に反する」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000596/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-18T08:05:27+00:00",
-      "fetched_at": "2026-08-18T08:59:06+00:00",
-      "summary": "通信販売カタログ「通販生活」を手掛けるカタログハウスは8月18日、同サービスを巡り、楽天グループのECモール「楽天市場」への出店を取りやめたと発表した。楽天グループが迎撃用ドローンを手掛ける独Helsingと提携するとの報道を受け、企業理念に抵触するとして撤退に至ったという。カタログハウスがITmedia NEWSの取...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d1af344a437862ba6c23"
+      "id": "12903327d8e9111327bd"
     }
   ],
   "source_errors": [],
