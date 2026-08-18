@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T01:07:59+00:00",
-  "run_id": "2026-08-18T01:07:59+00:00",
+  "generated_at": "2026-08-18T01:44:56+00:00",
+  "run_id": "2026-08-18T01:44:56+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,40 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 4,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 0,
-    "observe": 2,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia",
+        "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-18T01:22:15+00:00",
+        "fetched_at": "2026-08-18T01:44:26+00:00",
+        "summary": "Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fireside chat and UAE Minister Omar Sultan Al Olama’s candid conversation with […] The post Four lessons from GITEX Global 2025: What Dubai’s AI playbook means fo…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f425d24b146c0d266772"
+      },
       {
         "title": "Your AI isn’t producing bad creative, your brief is",
         "url": "https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/",
@@ -51,6 +73,85 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "412806269afbd67eb55e"
+      },
+      {
+        "title": "M 4.8 - south of the Fiji Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-18T01:26:57.040+00:00",
+        "fetched_at": "2026-08-18T01:44:26+00:00",
+        "summary": "Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "dc8b422129c6602ae438"
+      },
+      {
+        "title": "Southeast Asia solved distribution: Now fintech has to scale on the balance sheet",
+        "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-18T01:30:11+00:00",
+        "fetched_at": "2026-08-18T01:44:26+00:00",
+        "summary": "A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets. Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did not have an answer. Neither did his finance lead. That […] The post Southeast Asia solved distribution: Now fintech has to scale on the balance sheet appeared fi…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc02776be02d1f813ef5"
+      },
+      {
+        "title": "米30年債19年ぶり5.3%台、日本の金利上昇が波及 財政・AIも懸念 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-17T22:42:32+00:00",
+        "fetched_at": "2026-08-18T01:44:26+00:00",
+        "summary": "【ニューヨーク=今堀祥和】17日の米国債市場で償還までの期間が最も長い30年物の利回りが一時5.3%台に上昇し、19年ぶりの高水準を付けた。金利上昇は債券価格の下落を意味する。米超長期債は投資家が買いを手控える「3つの懸念」にさらされている。米10年物金利も上昇LSEGによると30年債は前週終値から一時0.05%高い5.31...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e4bc818d207ee9d20457"
       },
       {
         "title": "Linuxがついに「TSC必須」へ。Windowsに続く大きな転換点を迎える | ソフトアンテナ",
@@ -77,6 +178,28 @@
   },
   "findings": [
     {
+      "title": "Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia",
+      "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-18T01:22:15+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fireside chat and UAE Minister Omar Sultan Al Olama’s candid conversation with […] The post Four lessons from GITEX Global 2025: What Dubai’s AI playbook means fo…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f425d24b146c0d266772"
+    },
+    {
       "title": "Your AI isn’t producing bad creative, your brief is",
       "url": "https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -97,6 +220,85 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "412806269afbd67eb55e"
+    },
+    {
+      "title": "M 4.8 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-18T01:26:57.040+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "dc8b422129c6602ae438"
+    },
+    {
+      "title": "Southeast Asia solved distribution: Now fintech has to scale on the balance sheet",
+      "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-18T01:30:11+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets. Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did not have an answer. Neither did his finance lead. That […] The post Southeast Asia solved distribution: Now fintech has to scale on the balance sheet appeared fi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc02776be02d1f813ef5"
+    },
+    {
+      "title": "米30年債19年ぶり5.3%台、日本の金利上昇が波及 財政・AIも懸念 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T22:42:32+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "【ニューヨーク=今堀祥和】17日の米国債市場で償還までの期間が最も長い30年物の利回りが一時5.3%台に上昇し、19年ぶりの高水準を付けた。金利上昇は債券価格の下落を意味する。米超長期債は投資家が買いを手控える「3つの懸念」にさらされている。米10年物金利も上昇LSEGによると30年債は前週終値から一時0.05%高い5.31...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4bc818d207ee9d20457"
     },
     {
       "title": "Linuxがついに「TSC必須」へ。Windowsに続く大きな転換点を迎える | ソフトアンテナ",
@@ -122,26 +324,105 @@
   ],
   "new_findings": [
     {
-      "title": "Your AI isn’t producing bad creative, your brief is",
-      "url": "https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/",
+      "title": "Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia",
+      "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-18T01:00:11+00:00",
-      "fetched_at": "2026-08-18T01:07:27+00:00",
-      "summary": "Volume went up. Quality didn’t. The bottleneck moved somewhere nobody is looking. Every marketing team I speak to in Southeast Asia has the same story about generative AI: we make ten times more creative than we did eighteen months ago, and we’re not convinced any of it is better. That instinct is now measurable. New […] The post Your AI isn’t producing bad creative, your brief is appeared first on e27 .",
+      "published_at": "2026-08-18T01:22:15+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fireside chat and UAE Minister Omar Sultan Al Olama’s candid conversation with […] The post Four lessons from GITEX Global 2025: What Dubai’s AI playbook means fo…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
         "Southeast Asia"
       ],
       "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "412806269afbd67eb55e"
+      "id": "f425d24b146c0d266772"
+    },
+    {
+      "title": "M 4.8 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-18T01:26:57.040+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "dc8b422129c6602ae438"
+    },
+    {
+      "title": "Southeast Asia solved distribution: Now fintech has to scale on the balance sheet",
+      "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-18T01:30:11+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets. Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did not have an answer. Neither did his finance lead. That […] The post Southeast Asia solved distribution: Now fintech has to scale on the balance sheet appeared fi…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc02776be02d1f813ef5"
+    },
+    {
+      "title": "米30年債19年ぶり5.3%台、日本の金利上昇が波及 財政・AIも懸念 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-17T22:42:32+00:00",
+      "fetched_at": "2026-08-18T01:44:26+00:00",
+      "summary": "【ニューヨーク=今堀祥和】17日の米国債市場で償還までの期間が最も長い30年物の利回りが一時5.3%台に上昇し、19年ぶりの高水準を付けた。金利上昇は債券価格の下落を意味する。米超長期債は投資家が買いを手控える「3つの懸念」にさらされている。米10年物金利も上昇LSEGによると30年債は前週終値から一時0.05%高い5.31...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e4bc818d207ee9d20457"
     }
   ],
   "source_errors": [],

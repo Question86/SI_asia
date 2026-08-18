@@ -1,25 +1,39 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T01:07:59+00:00_
+_Generated: 2026-08-18T01:44:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `6`
 
 ## Top Signals
 
-### 1. Your AI isn’t producing bad creative, your brief is
+### 1. Four lessons from GITEX Global 2025: What Dubai’s AI playbook means for Southeast Asia
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-18T01:22:15+00:00`
+- url: https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/
+- summary: Every year, GITEX Global promises to be the place where the future of technology gets unpacked. Last October, walking the halls of the Dubai World Trade Centre, it was clear the event delivered on more than the usual buzzwords. Between Sam Altman’s virtual fi…
+
+### 2. Your AI isn’t producing bad creative, your brief is
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-18T01:00:11+00:00`
 - url: https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/
 - summary: Volume went up. Quality didn’t. The bottleneck moved somewhere nobody is looking. Every marketing team I speak to in Southeast Asia has the same story about generative AI: we make ten times more creative than we did eighteen months ago, and we’re not convince…
 
-### 2. Linuxがついに「TSC必須」へ。Windowsに続く大きな転換点を迎える | ソフトアンテナ
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-17T03:27:49+00:00`
-- url: https://softantenna.com/blog/linux-tsc-requirement/
-- summary: Linuxカーネルにx86環境でTime Stamp Counter(TSC)を必須要件にするという大きな変更が加えられたことがわかりました。 一見コードのクリーンアップのための小規模な変更に思えますが、実際には「超古いCPUへの長年の互換性維持をついに終了した」という象徴的な出来事で、Windowsが10年以上前から進めていた流れに、Lin...
+### 3. M 4.8 - south of the Fiji Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-18T01:26:57.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs
+- summary: Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)
+
+### 4. Southeast Asia solved distribution: Now fintech has to scale on the balance sheet
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-08-18T01:30:11+00:00`
+- url: https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/
+- summary: A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets. Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did n…
 
 END OF DOCUMENT
