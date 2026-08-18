@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:29:00+00:00",
+  "generated_at": "2026-08-18T05:43:03+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-8037"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 320 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 320 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559720",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
