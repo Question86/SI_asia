@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-18T05:25:50Z",
+  "generated_at": "2026-08-18T05:40:30Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 27,
     "bands": {
-      "strong": 4,
+      "strong": 5,
       "watch": 3,
-      "quiet": 18
+      "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 3,
-      "quiet": 18
+      "quiet": 19
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.14,
+      "age_days": 60.15,
       "topics": [
         "ai"
       ],
@@ -89,17 +89,42 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 60.1d old signal",
+        "aging penalty -8.0 for 60.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 5.7 - 95 km SW of Puerto Madero, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-18T05:26:36.520+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -125,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T03:19:14.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -149,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -174,7 +199,7 @@
       "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:30:11+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -198,7 +223,7 @@
       "url": "https://japan.cnet.com/article/35251626/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T01:19:38+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -222,7 +247,7 @@
       "url": "https://softantenna.com/blog/linux-tsc-requirement/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:27:49+00:00",
-      "age_days": 1.08,
+      "age_days": 1.09,
       "topics": [
         "general"
       ],
@@ -246,7 +271,7 @@
       "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -270,7 +295,7 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -293,11 +318,35 @@
       "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模…"
     },
     {
+      "title": "若者の【キモい】の使い方がおかしい",
+      "url": "https://anond.hatelabo.jp/20260818123722",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-18T03:37:32+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "2020年ごろから、「キモい」の用法に私が使わない用法が出てきたなと感じている。 認知したきっかけは「私のかわいいところ」の有名な替え歌。 おそらく上司と部下で一緒にカラオケに行って上司が歌った場面 ―プレゼン資料が昨日までなの分かってる？それを忘れてる君きもいきもいよキモすぎる～ そしてそれで怒られるの..."
+    },
+    {
       "title": "米30年債19年ぶり5.3%台、日本の金利上昇が波及 財政・AIも懸念 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T22:42:32+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -323,7 +372,7 @@
       "url": "https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T05:10:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -348,7 +397,7 @@
       "url": "https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T04:43:33+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -374,7 +423,7 @@
       "url": "https://e27.co/four-lessons-from-gitex-global-2025-what-dubais-ai-playbook-means-for-southeast-asia-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:22:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -399,7 +448,7 @@
       "url": "https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:00:11+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -425,7 +474,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 59.11,
+      "age_days": 59.12,
       "topics": [
         "general"
       ],
@@ -450,7 +499,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 59.11,
+      "age_days": 59.12,
       "topics": [
         "general"
       ],
@@ -475,7 +524,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 59.11,
+      "age_days": 59.12,
       "topics": [
         "ai"
       ],
@@ -502,7 +551,7 @@
       "url": "https://e27.co/ai-will-not-just-automate-tasks-it-will-repackage-responsibilities-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T02:30:49+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -527,7 +576,7 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -552,7 +601,7 @@
       "url": "https://note.com/lifeisbeautiful/n/n890f00a6136a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T00:13:59+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -577,7 +626,7 @@
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T23:27:10+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -602,7 +651,7 @@
       "url": "https://github.com/AlexsJones/llmfit",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -628,7 +677,7 @@
       "url": "https://e27.co/despite-the-rally-the-cmc-fear-and-greed-index-remains-at-39-indicating-underlying-market-caution-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T03:05:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
