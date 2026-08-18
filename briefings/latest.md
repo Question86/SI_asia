@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T05:03:45+00:00_
+_Generiert: 2026-08-18T05:15:58+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+21 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **From paddy fields to small shops, Malaysia maps an inclusive AI future** — Score 10, observation — [Quelle](https://e27.co/from-paddy-fields-to-small-shops-malaysia-maps-an-inclusive-ai-future-20260818/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-18T05:10:05+00:00`, fetched `2026-08-18T05:15:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: For years, artificial intelligence was framed as a technology for companies with deep pockets: banks with large data teams, manufacturers with automated lines, or global platforms sitting on oceans of customer information. Malaysia’s latest AI agenda is trying to challenge that assumption. Under the National AI Action Plan 2026-2030, also known as AI Nation 2030, […] The post From paddy fields to small shops, Malays…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge** — Score 10, observation — [Quelle](https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-18T04:43:33+00:00`, fetched `2026-08-18T04:48:56+00:00`
@@ -130,15 +139,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米Amazonが利用規約を改定し、米国の顧客が同社に対して集団訴訟を起こすことを禁じる条項を盛り込んだ。今後、同社との間で紛争が生じた場合、顧客は裁判ではなく、第三者の仲裁人による個別の仲裁で解決することになる。8月14日以降もAmazonのサービスを使い続けた顧客は、新たな集団訴訟を起こす権利を放棄したものと...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Your AI isn’t producing bad creative, your brief is** — Score 10, observation — [Quelle](https://e27.co/your-ai-isnt-producing-bad-creative-your-brief-is-20260816/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-18T01:00:11+00:00`, fetched `2026-08-18T01:07:27+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Volume went up. Quality didn’t. The bottleneck moved somewhere nobody is looking. Every marketing team I speak to in Southeast Asia has the same story about generative AI: we make ten times more creative than we did eighteen months ago, and we’re not convinced any of it is better. That instinct is now measurable. New […] The post Your AI isn’t producing bad creative, your brief is appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
