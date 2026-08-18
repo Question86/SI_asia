@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:52:21+00:00",
+  "generated_at": "2026-08-18T22:00:13+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.9 - 269 km SSE of Dunhuang, China",
+        "summary": "M5.9 - 269 km SSE of Dunhuang, China. PAGER alert: yellow. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj",
+        "published_at": "2026-08-18T21:36:29+00:00",
+        "metrics": {
+          "mag": 5.9,
+          "alert": "yellow",
+          "sig": 650.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
