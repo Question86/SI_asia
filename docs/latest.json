@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T05:55:15+00:00",
-  "run_id": "2026-08-18T05:55:15+00:00",
+  "generated_at": "2026-08-18T06:04:30+00:00",
+  "run_id": "2026-08-18T06:04:30+00:00",
   "date": "2026-08-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,62 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 2,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 4,
-    "observe": 20,
+    "medium": 5,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
+        "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-18T06:00:05+00:00",
+        "fetched_at": "2026-08-18T06:04:00+00:00",
+        "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardrooms today. From market opportunity to boardroom decision According to […] The post It’s not just tarif…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Southeast Asia",
+          "Supply Chain Security",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "Supply Chain Security (+8.0); Macro/Policy (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "a1f9d379dad0aad19dfb"
+      },
       {
         "title": "akitaonrails/ai-memory",
         "url": "https://github.com/akitaonrails/ai-memory",
@@ -473,6 +518,26 @@
         "id": "e4bc818d207ee9d20457"
       },
       {
+        "title": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+        "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-18T06:00:00+00:00",
+        "fetched_at": "2026-08-18T06:04:00+00:00",
+        "summary": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8a5c2ec8897e158e12ad"
+      },
+      {
         "title": "若者の【キモい】の使い方がおかしい",
         "url": "https://anond.hatelabo.jp/20260818123722",
         "source": "Hatena Bookmark Hotentry IT",
@@ -621,6 +686,51 @@
     ]
   },
   "findings": [
+    {
+      "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
+      "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-18T06:00:05+00:00",
+      "fetched_at": "2026-08-18T06:04:00+00:00",
+      "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardrooms today. From market opportunity to boardroom decision According to […] The post It’s not just tarif…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Southeast Asia",
+        "Supply Chain Security",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "Supply Chain Security (+8.0); Macro/Policy (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "a1f9d379dad0aad19dfb"
+    },
     {
       "title": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
@@ -1063,6 +1173,26 @@
       "id": "e4bc818d207ee9d20457"
     },
     {
+      "title": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T06:00:00+00:00",
+      "fetched_at": "2026-08-18T06:04:00+00:00",
+      "summary": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8a5c2ec8897e158e12ad"
+    },
+    {
       "title": "若者の【キモい】の使い方がおかしい",
       "url": "https://anond.hatelabo.jp/20260818123722",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1211,25 +1341,69 @@
   ],
   "new_findings": [
     {
-      "title": "月1800万円売るキッチンカー「むら川」に学ぶ、キッチンカービジネスで勝ち続ける技術 - おなじみ丨近くの店から、なじみの店へ。",
-      "url": "https://onaji.me/entry/2026/08/18",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
+      "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-18T02:00:12+00:00",
-      "fetched_at": "2026-08-18T05:54:44+00:00",
-      "summary": "月商1800万円を誇るキッチンカー・むら川に、「売れるキッチンカー」をつくるための極意を学びます。 コロナ禍を機に一気に広まったキッチンカー。 「丼もの」にメニューが集中して差別化が難しくなる中、品数が多く仕込みも大変な「海苔弁」を主力に据え、売り上げを伸ばしてきたのが「むら川」です。 7台のキッチンカ...",
+      "published_at": "2026-08-18T06:00:05+00:00",
+      "fetched_at": "2026-08-18T06:04:00+00:00",
+      "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardrooms today. From market opportunity to boardroom decision According to […] The post It’s not just tarif…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Southeast Asia",
+        "Supply Chain Security",
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "Supply Chain Security (+8.0); Macro/Policy (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "a1f9d379dad0aad19dfb"
+    },
+    {
+      "title": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+      "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-18T06:00:00+00:00",
+      "fetched_at": "2026-08-18T06:04:00+00:00",
+      "summary": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f98b56aa3c8f7c8b6567"
+      "id": "8a5c2ec8897e158e12ad"
     }
   ],
   "source_errors": [],

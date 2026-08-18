@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T05:55:15+00:00_
+_Generiert: 2026-08-18T06:04:30+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „akitaonrails/ai-memory“ aus GitHub Trending RSS All Languages Daily (Score 23, observation).
+26 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-08-18T05:55:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.1M, Depth:188.148km) in Vanuatu 16/08/2026 03:20 UTC, 5 thousand in MMI IV.
-- **USGS earthquake M5.7 - 95 km SW of Puerto Madero, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl)
-  - Quelle: USGS
-  - Zeit: `2026-08-18T05:02:32+00:00`
-  - Kurz: M5.7 - 95 km SW of Puerto Madero, Mexico. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -73,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN** — Score 23, risk — [Quelle](https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-18T06:00:05+00:00`, fetched `2026-08-18T06:04:00+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Southeast Asia, Supply Chain Security, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Supply Chain Security (+8.0); Macro/Policy (+6.2); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuinely driving capital allocation decisions in Chinese boardrooms today. From market opportunity to boardroom decision According to […] The post It’s not just tarif…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **akitaonrails/ai-memory** — Score 23, observation — [Quelle](https://github.com/akitaonrails/ai-memory)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-18T03:03:15+00:00`
@@ -193,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ニューヨーク=今堀祥和】17日の米国債市場で償還までの期間が最も長い30年物の利回りが一時5.3%台に上昇し、19年ぶりの高水準を付けた。金利上昇は債券価格の下落を意味する。米超長期債は投資家が買いを手控える「3つの懸念」にさらされている。米10年物金利も上昇LSEGによると30年債は前週終値から一時0.05%高い5.31...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/local_governments/character-specification)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-18T06:00:00+00:00`, fetched `2026-08-18T06:04:00+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **若者の【キモい】の使い方がおかしい** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260818123722)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-18T03:37:32+00:00`, fetched `2026-08-18T05:28:29+00:00`
@@ -214,8 +228,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

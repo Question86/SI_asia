@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T05:55:15+00:00",
+  "generated_at": "2026-08-18T06:04:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 2,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 4,
-    "observe": 20
+    "medium": 5,
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-18T06:00:05+00:00",
+      "relevance_score": 23,
+      "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
+      "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuine…",
+      "section": "medium"
+    },
     {
       "title": "akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://jvn.jp/jp/JVN06609828/",
       "summary": "The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-18T04:36:06+00:00",
-      "relevance_score": 14,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in nmap ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {

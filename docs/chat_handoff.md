@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T05:55:15+00:00_
+_Generated: 2026-08-18T06:04:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `26`
 
 ## Top Signals
 
-### 1. akitaonrails/ai-memory
+### 1. It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN
+- source: e27 Asia Startup and Tech Feed
+- score: `23`
+- published: `2026-08-18T06:00:05+00:00`
+- url: https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/
+- summary: Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuine…
+
+### 2. akitaonrails/ai-memory
 - source: GitHub Trending RSS All Languages Daily
 - score: `23`
 - published: `None`
 - url: https://github.com/akitaonrails/ai-memory
 - summary: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the archit…
 
-### 2. M 4.8 - 46 km NNW of Ruteng, Indonesia
+### 3. M 4.8 - 46 km NNW of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-18T03:19:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5
 - summary: Time 2026-08-18 02:42:38 UTC 2026-08-18 02:42:38 UTC at epicenter Location 8.243°S 120.257°E Depth 34.06 km (21.17 mi)
 
-### 3. Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性
+### 4. Apache Alluraにおけるサーバサイドリクエストフォージェリの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-08-18T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN06609828/
 - summary: The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。
-
-### 4. [UPDATE] [mittel] nmap: Schwachstelle ermöglicht Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `14`
-- published: `2026-08-18T04:36:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in nmap ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. M 5.7 - 95 km SW of Puerto Madero, Mexico
 - source: USGS M4.5+ Earthquakes Past Hour
