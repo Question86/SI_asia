@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-18T11:08:20+00:00_
+_Generated: 2026-08-18T11:19:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `58`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-18T11:08:20+00:00_
 - url: https://openai.com/index/introducing-chatgpt-for-teens
 - summary: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
 
-### 8. Chinese carmakers now sell one EV abroad for every two at home
-- source: Rest of World Global Tech Feed
-- score: `10`
-- published: `2026-08-18T10:00:00+00:00`
-- url: https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.
+### 8. Introducing ChatGPT for Teens: Built for learning, backed by protections
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-08-18T11:00:00+00:00`
+- url: https://openai.com/index/chatgpt-for-teens
+- summary: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
 
 END OF DOCUMENT

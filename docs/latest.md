@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-18T11:08:20+00:00_
+_Generiert: 2026-08-18T11:19:06+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+58 neue relevante Treffer. Stärkstes Signal: „It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -84,23 +84,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [hoch] Wazuh: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883)
+- **[NEU] [mittel] Icinga: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2885)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-18T10:31:06+00:00`, fetched `2026-08-18T10:46:17+00:00`
+  - Zeit: published `2026-08-18T11:11:05+00:00`, fetched `2026-08-18T11:18:35+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Wazuh ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen, und um beliebigen Programmcode auszuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Icinga ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881)
+- **[NEU] [hoch] Citrix Systems ShareFile StorageZones Controller: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2884)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-18T10:31:05+00:00`, fetched `2026-08-18T10:46:17+00:00`
+  - Zeit: published `2026-08-18T11:11:05+00:00`, fetched `2026-08-18T11:18:35+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in RabbitMQ ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, beliebigen Code auszuführen oder Denial-of-Service-Zustände herbeizuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Citrix Systems ShareFile StorageZones Controller ausnutzen, um beliebigen Programmcode auszuführen und Daten zu manipulieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -126,6 +126,15 @@ Keine neuen Hochprioritäts-Treffer.
 - **Introducing ChatGPT for Teens: Built for learning, backed by protections** — Score 12, observation — [Quelle](https://openai.com/index/introducing-chatgpt-for-teens)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-18T11:00:00+00:00`, fetched `2026-08-18T11:07:49+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing ChatGPT for Teens: Built for learning, backed by protections** — Score 12, observation — [Quelle](https://openai.com/index/chatgpt-for-teens)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-18T11:00:00+00:00`, fetched `2026-08-18T11:18:35+00:00`
   - Treffer: AI/KI, OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Der Webmailer Roundcube ist in aktualisierten Fassungen verfügbar. Sie schließen etwa Lücken, die Einschleusen von Schadcode erlauben.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **米30年債19年ぶり5.3%台、日本の金利上昇が波及 財政・AIも懸念 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN179HZ0X10C26A8000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T22:42:32+00:00`, fetched `2026-08-18T01:44:26+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【ニューヨーク=今堀祥和】17日の米国債市場で償還までの期間が最も長い30年物の利回りが一時5.3%台に上昇し、19年ぶりの高水準を付けた。金利上昇は債券価格の下落を意味する。米超長期債は投資家が買いを手控える「3つの懸念」にさらされている。米10年物金利も上昇LSEGによると30年債は前週終値から一時0.05%高い5.31...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

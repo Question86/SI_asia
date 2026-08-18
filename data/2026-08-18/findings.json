@@ -273,6 +273,52 @@
     "id": "5213c40b61db4ea94039"
   },
   {
+    "title": "[NEU] [mittel] Icinga: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2885",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-18T11:11:05+00:00",
+    "fetched_at": "2026-08-18T11:18:35+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Icinga ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1923ac336de290f261f4"
+  },
+  {
+    "title": "[NEU] [hoch] Citrix Systems ShareFile StorageZones Controller: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2884",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-18T11:11:05+00:00",
+    "fetched_at": "2026-08-18T11:18:35+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems ShareFile StorageZones Controller ausnutzen, um beliebigen Programmcode auszuführen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fe86a2906043b1921ff5"
+  },
+  {
     "title": "[NEU] [hoch] Wazuh: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883",
     "source": "BSI CERT-Bund Security Advisories",
@@ -742,6 +788,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cfa395e1ee5e5fba0549"
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-18T11:00:00+00:00",
+    "fetched_at": "2026-08-18T11:18:35+00:00",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "91a7cb435385e7d795c8"
   },
   {
     "title": "Chinese carmakers now sell one EV abroad for every two at home",
