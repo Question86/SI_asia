@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-18T11:22:26Z",
+  "generated_at": "2026-08-18T11:38:04Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 16,
+      "krass": 17,
       "strong": 14,
       "watch": 5,
-      "quiet": 5
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
-      "krass": 5,
+      "krass": 6,
       "strong": 25,
       "watch": 5,
-      "quiet": 5
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -45,11 +45,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen."
     },
     {
+      "title": "[NEU] [kritisch] GeoServer: Schwachstelle ermöglicht SQL-Injection und potenziell Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2886",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T11:16:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GeoServer ausnutzen, um einen SQL-Injection Angriff durchzuführen, und potenziell um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[NEU] [hoch] Citrix Systems ShareFile StorageZones Controller: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2884",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T11:11:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -74,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -99,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -125,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:06+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -150,7 +175,7 @@
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -174,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2885",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T11:11:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -198,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2882",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -222,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -246,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -270,7 +295,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -294,7 +319,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -318,7 +343,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T06:30:00.508+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -343,7 +368,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -369,7 +394,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:46:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -396,7 +421,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -423,7 +448,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -449,7 +474,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -475,7 +500,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:01:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -501,7 +526,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:01:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -527,7 +552,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:06+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -553,7 +578,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:06:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -579,7 +604,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T06:09:00.000+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -605,7 +630,7 @@
       "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-18T10:00:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -632,7 +657,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.39,
+      "age_days": 60.4,
       "topics": [
         "ai"
       ],
@@ -661,7 +686,7 @@
       "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T06:00:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security",
@@ -691,7 +716,7 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T08:29:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -717,7 +742,7 @@
       "url": "https://www.heise.de/news/Webmailer-Roundcube-Updates-stopfen-zahlreiche-Sicherheitslecks-11416887.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T07:06:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -743,7 +768,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T05:26:36.520+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -768,7 +793,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -794,7 +819,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlm3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T09:39:24.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -818,7 +843,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T03:19:14.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -842,7 +867,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -867,7 +892,7 @@
       "url": "https://openai.com/index/partnering-with-codeai",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-18T11:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -893,7 +918,7 @@
       "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:30:11+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "macro"
       ],
@@ -917,7 +942,7 @@
       "url": "https://japan.cnet.com/article/35251626/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T01:19:38+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -941,7 +966,7 @@
       "url": "https://softantenna.com/blog/linux-tsc-requirement/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:27:49+00:00",
-      "age_days": 1.33,
+      "age_days": 1.34,
       "topics": [
         "general"
       ],
@@ -965,7 +990,7 @@
       "url": "https://openai.com/index/introducing-chatgpt-for-teens",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-18T11:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -991,7 +1016,7 @@
       "url": "https://openai.com/index/chatgpt-for-teens",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-18T11:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -1011,34 +1036,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-    },
-    {
-      "title": "M 4.6 - 5 km ENE of Escúzar, Spain",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-18T10:12:21.378+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "DYFI? - II Time 2026-08-18 09:34:37 UTC 2026-08-18 09:34:37 UTC at epicenter Location 37.088°N 3.708°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
