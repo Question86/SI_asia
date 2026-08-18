@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-18T11:05:23Z",
+  "generated_at": "2026-08-18T11:22:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 15,
-      "strong": 13,
-      "watch": 4,
-      "quiet": 8
+      "krass": 16,
+      "strong": 14,
+      "watch": 5,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 24,
-      "watch": 4,
-      "quiet": 8
+      "krass": 5,
+      "strong": 25,
+      "watch": 5,
+      "quiet": 5
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:09+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -45,11 +45,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen."
     },
     {
+      "title": "[NEU] [hoch] Citrix Systems ShareFile StorageZones Controller: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2884",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T11:11:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, controller, citrix",
+        "security high-signal: code, controller, citrix"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems ShareFile StorageZones Controller ausnutzen, um beliebigen Programmcode auszuführen und Daten zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] RabbitMQ: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2881",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -74,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2878",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -100,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2869",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -125,7 +150,7 @@
       "url": "https://jvn.jp/jp/JVN06609828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-18T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -145,11 +170,35 @@
       "summary": "The Apache Software Foundationが提供するApache Alluraには、サーバサイドリクエストフォージェリの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] Icinga: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2885",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-18T11:11:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Icinga ausnutzen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen."
+    },
+    {
       "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2882",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -173,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2012",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:26:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -197,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2876",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -221,7 +270,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2871",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -245,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2098",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T04:36:06+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -269,7 +318,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T06:30:00.508+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -294,7 +343,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2883",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T10:31:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -320,7 +369,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2880",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:46:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -347,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2877",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:21:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -374,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2875",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -400,7 +449,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2874",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:06:05+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -426,7 +475,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2873",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:01:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -452,7 +501,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2872",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T09:01:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -478,7 +527,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2870",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:56:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -504,7 +553,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2441",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-18T08:06:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -530,7 +579,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T06:09:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -556,7 +605,7 @@
       "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-18T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -583,7 +632,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 60.38,
+      "age_days": 60.39,
       "topics": [
         "ai"
       ],
@@ -612,7 +661,7 @@
       "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T06:00:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security",
@@ -642,7 +691,7 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-GitLab-Angreifer-koennen-Projekte-loeschen-11417037.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T08:29:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -668,7 +717,7 @@
       "url": "https://www.heise.de/news/Webmailer-Roundcube-Updates-stopfen-zahlreiche-Sicherheitslecks-11416887.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-18T07:06:00.000+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -694,7 +743,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T05:26:36.520+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -719,7 +768,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -745,7 +794,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlm3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T09:39:24.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -769,7 +818,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlk5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T03:19:14.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -793,7 +842,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tljs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T01:26:57.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -814,11 +863,37 @@
       "summary": "Time 2026-08-18 01:10:03 UTC 2026-08-18 01:10:03 UTC at epicenter Location 22.041°S 179.079°W Depth 576.36 km (358.13 mi)"
     },
     {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: critical, code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+    },
+    {
       "title": "Southeast Asia solved distribution: Now fintech has to scale on the balance sheet",
       "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-18T01:30:11+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -842,7 +917,7 @@
       "url": "https://japan.cnet.com/article/35251626/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T01:19:38+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -866,7 +941,7 @@
       "url": "https://softantenna.com/blog/linux-tsc-requirement/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T03:27:49+00:00",
-      "age_days": 1.32,
+      "age_days": 1.33,
       "topics": [
         "general"
       ],
@@ -886,11 +961,63 @@
       "summary": "Linuxカーネルにx86環境でTime Stamp Counter(TSC)を必須要件にするという大きな変更が加えられたことがわかりました。 一見コードのクリーンアップのための小規模な変更に思えますが、実際には「超古いCPUへの長年の互換性維持をついに終了した」という象徴的な出来事で、Windowsが10年以上前から進めていた流れに、Lin..."
     },
     {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: critical",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: critical",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+    },
+    {
       "title": "M 4.6 - 5 km ENE of Escúzar, Spain",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlmc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-18T10:12:21.378+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "disaster"
@@ -912,133 +1039,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "DYFI? - II Time 2026-08-18 09:34:37 UTC 2026-08-18 09:34:37 UTC at epicenter Location 37.088°N 3.708°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.9 - 2 km WSW of Granada, Spain",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tllu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-18T08:57:11.436+00:00",
-      "age_days": 0.09,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "DYFI? - III Time 2026-08-18 08:37:44 UTC 2026-08-18 08:37:44 UTC at epicenter Location 37.179°N 3.631°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Social intrapreneurs can change the world too",
-      "url": "https://e27.co/social-intrapreneurs-can-change-the-world-too-20260815/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-18T02:00:12+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "You’ve probably already spotted the gap. The onboarding flow that assumes everyone has a smartphone. The interview process that filters out neurodivergent candidates because it rewards fast small talk over actual competence. The product line priced for people who already have money, built by people who’ve never had to…"
-    },
-    {
-      "title": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました",
-      "url": "https://www.digital.go.jp/policies/local_governments/character-specification",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-08-18T06:00:00+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local"
-      ],
-      "summary": "地方公共団体情報システムにおける文字の標準化に係る「追加文字行政事務標準明朝フォント」を更新しました"
-    },
-    {
-      "title": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-18T03:03:15+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别感谢 ❤️ 感谢 Kimi 赞助本项目！ Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模…"
-    },
-    {
-      "title": "通販生活が楽天市場から撤退 迎撃ドローン関連の報道受け「企業理念に反する」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/18/2000000596/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-18T08:05:27+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "通信販売カタログ「通販生活」を手掛けるカタログハウスは8月18日、同サービスを巡り、楽天グループのECモール「楽天市場」への出店を取りやめたと発表した。楽天グループが迎撃用ドローンを手掛ける独Helsingと提携するとの報道を受け、企業理念に抵触するとして撤退に至ったという。カタログハウスがITmedia NEWSの取..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
