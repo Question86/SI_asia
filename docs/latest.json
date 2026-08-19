@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T22:25:58+00:00",
-  "run_id": "2026-08-19T22:25:58+00:00",
+  "generated_at": "2026-08-19T22:49:46+00:00",
+  "run_id": "2026-08-19T22:49:46+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 2,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 0,
-    "medium": 45,
-    "observe": 48,
+    "medium": 46,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -341,6 +341,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "045c73b86eb2c7d82d0c"
+      },
+      {
+        "title": "M 5.2 - 31 km N of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-19T22:47:41.040+00:00",
+        "fetched_at": "2026-08-19T22:49:14+00:00",
+        "summary": "Time 2026-08-19 22:28:08 UTC 2026-08-19 22:28:08 UTC at epicenter Location 8.326°S 120.456°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "39dca86157384eaf65b3"
       },
       {
         "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
@@ -1381,6 +1418,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2f5293106cc580494a7d"
+      },
+      {
+        "title": "Claude Codeの週次利用制限、50%増量を8月31日まで再延長",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2133754.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-19T03:01:41+00:00",
+        "fetched_at": "2026-08-19T22:49:14+00:00",
+        "summary": "Claude Codeの週次利用制限、50%増量を8月31日まで再延長",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a575e1baa044fa7bb2a1"
       },
       {
         "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
@@ -2617,6 +2676,43 @@
       "id": "045c73b86eb2c7d82d0c"
     },
     {
+      "title": "M 5.2 - 31 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T22:47:41.040+00:00",
+      "fetched_at": "2026-08-19T22:49:14+00:00",
+      "summary": "Time 2026-08-19 22:28:08 UTC 2026-08-19 22:28:08 UTC at epicenter Location 8.326°S 120.456°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "39dca86157384eaf65b3"
+    },
+    {
       "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
       "url": "https://cert.europa.eu/publications/security-advisories/2026-010/",
       "source": "CERT-EU Security Advisories",
@@ -3655,6 +3751,28 @@
       "id": "2f5293106cc580494a7d"
     },
     {
+      "title": "Claude Codeの週次利用制限、50%増量を8月31日まで再延長",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2133754.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T03:01:41+00:00",
+      "fetched_at": "2026-08-19T22:49:14+00:00",
+      "summary": "Claude Codeの週次利用制限、50%増量を8月31日まで再延長",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a575e1baa044fa7bb2a1"
+    },
+    {
       "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4575,25 +4693,63 @@
   ],
   "new_findings": [
     {
-      "title": "React でアクセシブルな Tree View を実装する",
-      "url": "https://azukiazusa.dev/blog/react-accessible-tree-view/",
+      "title": "M 5.2 - 31 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T22:47:41.040+00:00",
+      "fetched_at": "2026-08-19T22:49:14+00:00",
+      "summary": "Time 2026-08-19 22:28:08 UTC 2026-08-19 22:28:08 UTC at epicenter Location 8.326°S 120.456°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "39dca86157384eaf65b3"
+    },
+    {
+      "title": "Claude Codeの週次利用制限、50%増量を8月31日まで再延長",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2133754.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-19T03:42:26+00:00",
-      "fetched_at": "2026-08-19T22:25:27+00:00",
-      "summary": "Tree View は階層構造を効率よく操作できる一方、ARIA ロールを付けるだけではアクセシブルになりません。WAI-ARIA APG を参考に、roving tabindex、矢印キー、選択、文字検索を備えた単一選択の Tree View を React で実装する方法を紹介します Tree View は、ファイルシステムや商品カテゴリのような階層構造を表示す...",
+      "published_at": "2026-08-19T03:01:41+00:00",
+      "fetched_at": "2026-08-19T22:49:14+00:00",
+      "summary": "Claude Codeの週次利用制限、50%増量を8月31日まで再延長",
       "matched_keywords": [
+        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2ae7fabcf39a7834b9f6"
+      "id": "a575e1baa044fa7bb2a1"
     }
   ],
   "source_errors": [],

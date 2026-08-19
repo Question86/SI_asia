@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T22:25:58+00:00_
+_Generiert: 2026-08-19T22:49:46+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+95 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -102,6 +102,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 31 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-19T22:47:41.040+00:00`, fetched `2026-08-19T22:49:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-19 22:28:08 UTC 2026-08-19 22:28:08 UTC at epicenter Location 8.326°S 120.456°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway** — Score 15, observation — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-010/)
   - Quelle: CERT-EU Security Advisories / `rss`
   - Zeit: published `2026-08-19T18:13:47+00:00`, fetched `2026-08-19T16:18:52+00:00`
@@ -119,15 +128,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-19 11:01:37 UTC 2026-08-19 11:01:37 UTC at epicenter Location 5.428°N 125.271°E Depth 84.48 km (52.50 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 80 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-19T11:08:15.040+00:00`, fetched `2026-08-19T11:10:14+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-19 10:44:59 UTC 2026-08-19 10:44:59 UTC at epicenter Location 7.886°S 120.444°E Depth 10.18 km (6.32 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **acmailerにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN47716829/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: サンフランシスコにあるJavaScriptランタイム企業のオフィスの入口に、ピカチュウが立っている。 2025年8月、そのオフィスに数日間滞在した日本人エンジニアが、自分のブログに写真を上げている。キャプションはたった一行だ。 Bunのオフィスの入り口、ピカチュウもいる 同じ日、社員のひとりがXに投稿している。「オフ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Codeの週次利用制限、50%増量を8月31日まで再延長** — Score 11, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2133754.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-19T03:01:41+00:00`, fetched `2026-08-19T22:49:14+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Claude Codeの週次利用制限、50%増量を8月31日まで再延長
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録** — Score 11, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-18T22:38:37+00:00`, fetched `2026-08-19T00:38:54+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **深センに行かなくても「ディープなガジェット」を試せる空間、渋谷に誕生--完全予約制** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251628/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T22:50:59+00:00`, fetched `2026-08-19T05:15:20+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Fastlane Japanは8月17日、世界のガジェットを実際に手に取って試せる体験空間「＆count（エンカウント）」を東京・渋谷に8月20日にオープンすると発表した。約40社、約100点の製品を展示し、利用は無料の完全予約制。製品は販売しないショールーム形式で、場所は渋谷駅・表参道駅から徒歩圏の「VORT渋谷 east II」3階だ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - 134 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
