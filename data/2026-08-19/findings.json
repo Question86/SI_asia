@@ -61,6 +61,30 @@
     "id": "5ed630aced4c829b2848"
   },
   {
+    "title": "[NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2922",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-19T11:16:05+00:00",
+    "fetched_at": "2026-08-19T11:21:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Nvidia Cumulus Linux ausnutzen, um seine Privilegien zu erhöhen und um Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0774bd52e24f9d2ee9a6"
+  },
+  {
     "title": "[NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920",
     "source": "BSI CERT-Bund Security Advisories",
@@ -130,6 +154,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "045c73b86eb2c7d82d0c"
+  },
+  {
+    "title": "M 4.8 - 18 km SSW of Balangonan, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlun",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-19T11:18:56.040+00:00",
+    "fetched_at": "2026-08-19T11:21:29+00:00",
+    "summary": "Time 2026-08-19 11:01:37 UTC 2026-08-19 11:01:37 UTC at epicenter Location 5.428°N 125.271°E Depth 84.48 km (52.50 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cf7d195b67ced0bfa2cc"
   },
   {
     "title": "M 4.7 - 80 km N of Ruteng, Indonesia",
@@ -263,6 +324,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c6dc5121805321a8c480"
+  },
+  {
+    "title": "[NEU] [mittel] RabbitMQ Java Client: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2921",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-19T11:11:05+00:00",
+    "fetched_at": "2026-08-19T11:21:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im RabbitMQ Java Client ausnutzen, um Code auszuführen, um Sicherheitsmechanismen zu umgehen und um einen Denial of Service herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "63fb39f2e94e36975e35"
   },
   {
     "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
