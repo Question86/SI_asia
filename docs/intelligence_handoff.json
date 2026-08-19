@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-19T05:55:29Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “acmailerにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-19T06:23:48Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-19T06:04:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, sharepoint",
+        "security high-signal: angriffe, sharepoint"
+      ],
+      "summary": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS."
+    },
+    {
       "title": "acmailerにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN47716829/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T12:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -40,7 +65,7 @@
       "url": "https://github.com/volcengine/OpenViking",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -68,7 +93,7 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -97,7 +122,7 @@
       "url": "https://jvn.jp/vu/JVNVU90536447/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T09:00:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -122,7 +147,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 61.16,
+      "age_days": 61.18,
       "topics": [
         "ai"
       ],
@@ -151,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T04:40:46.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -176,7 +201,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T05:40:20.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -201,7 +226,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T03:29:51.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -225,7 +250,7 @@
       "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:45:57+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -252,7 +277,7 @@
       "url": "https://japan.cnet.com/article/35251628/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T22:50:59+00:00",
-      "age_days": 1.29,
+      "age_days": 1.31,
       "topics": [
         "general"
       ],
@@ -276,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T02:37:46.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -294,30 +319,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-08-19 02:20:00 UTC 2026-08-19 02:20:00 UTC at epicenter Location 15.324°S 174.866°W Depth 236.64 km (147.04 mi)"
-    },
-    {
-      "title": "M 4.5 - 74 km ENE of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-19T00:21:51.040+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)"
     }
   ],
   "read_order": [
@@ -329,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 7,
+      "watch": 5
     }
   }
 }
