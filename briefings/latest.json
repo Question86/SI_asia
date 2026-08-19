@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T05:15:50+00:00",
-  "run_id": "2026-08-19T05:15:50+00:00",
+  "generated_at": "2026-08-19T05:29:03+00:00",
+  "run_id": "2026-08-19T05:29:03+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1277,50 +1277,7 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "深センに行かなくても「ディープなガジェット」を試せる空間、渋谷に誕生--完全予約制",
-      "url": "https://japan.cnet.com/article/35251628/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-17T22:50:59+00:00",
-      "fetched_at": "2026-08-19T05:15:20+00:00",
-      "summary": "Fastlane Japanは8月17日、世界のガジェットを実際に手に取って試せる体験空間「＆count（エンカウント）」を東京・渋谷に8月20日にオープンすると発表した。約40社、約100点の製品を展示し、利用は無料の完全予約制。製品は販売しないショールーム形式で、場所は渋谷駅・表参道駅から徒歩圏の「VORT渋谷 east II」3階だ...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c34525b803724a9876fd"
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-18T22:00:00+00:00",
-      "fetched_at": "2026-08-19T05:15:20+00:00",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e0bfbb19774e9598995"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
