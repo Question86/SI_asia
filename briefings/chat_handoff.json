@@ -1,98 +1,28 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-18T23:59:37+00:00",
+  "generated_at": "2026-08-19T00:21:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 36,
-    "observe": 49
+    "medium": 1,
+    "observe": 0
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "It’s not just tariffs: The real reason Chinese capital is flowing into ASEAN",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-08-18T06:00:05+00:00",
-      "relevance_score": 23,
-      "url": "https://e27.co/its-not-just-tariffs-the-real-reason-chinese-capital-is-flowing-into-asean-20260818/",
-      "summary": "Chinese enterprises are increasingly setting their sights on Southeast Asia, and the reasons go well beyond the familiar “supply chain diversification” narrative. e27 speaks to Lisa Li, China Lead Partner, KPMG Global China Practice, to unpack what is genuine…",
+      "published_at": "2026-08-19T09:00:00+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU90536447/",
+      "summary": "2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
-    },
-    {
-      "title": "akitaonrails/ai-memory",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 23,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors Long-term memory for AI coding agents. Quit Claude Code mid-task, start OpenAI Codex in the same directory, continue without re-explaining the archit…",
-      "section": "medium"
-    },
-    {
-      "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-18T23:33:07+00:00",
-      "relevance_score": 17,
-      "url": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-      "summary": "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s… The post Enterprise manage…",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.6 - 154 km SSE of Teluk Dalam, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-18T06:30:00.508+00:00",
-      "relevance_score": 17,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt",
-      "summary": "ShakeMap - V Time 2026-08-18 06:02:20 UTC 2026-08-18 06:02:20 UTC at epicenter Location 0.686°S 98.416°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "WordPress-Plug-in Forminator Forms: Kritische Lücke erlaubt Codeschmuggel",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-18T06:09:00.000+00:00",
-      "relevance_score": 13,
-      "url": "https://www.heise.de/news/WordPress-Plug-in-Forminator-Forms-Kritische-Luecke-erlaubt-Codeschmuggel-11416793.html",
-      "summary": "Das WordPress-Plug-in Forminator Forms enthält eine kritische Schadcode-Lücke. Zudem sind Royal Elementor Addons löchrig.",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.7 - 95 km SW of Puerto Madero, Mexico",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-18T05:26:36.520+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkl",
-      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-18 05:02:32 UTC 2026-08-18 05:02:32 UTC at epicenter Location 14.230°N 93.148°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://openai.com/index/introducing-chatgpt-for-teens",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "section": "observe"
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "relevance_score": 12,
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Credential revocation and deauthorization by token type” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=36.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Credential revocation and deauthorization by token type",
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-18T21:57:30+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 36.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives… The post Credential revocation and deauthorization by token type appeared first on The GitHub Bl…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2799",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T11:41:08+00:00",
-        "age_days": 0.52,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände."
-      },
-      {
-        "title": "Pacing model development in an era of cyber-critical capabilities",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-18T11:00:00+00:00",
-        "age_days": 0.54,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: critical",
-          "security high-signal: critical"
-        ],
-        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (librest, pipewire): Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2553",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T09:26:09+00:00",
-        "age_days": 0.61,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und beliebigen Code auszuführen."
-      },
-      {
-        "title": "[NEU] [kritisch] GeoServer: Schwachstelle ermöglicht SQL-Injection und potenziell Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2886",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-18T11:16:05+00:00",
-        "age_days": 0.53,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, code",
-          "security high-signal: kritisch, code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GeoServer ausnutzen, um einen SQL-Injection Angriff durchzuführen, und potenziell um beliebigen Programmcode auszuführen."
-      }
-    ]
-  }
+  ]
 }
