@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T05:03:35+00:00_
+_Generiert: 2026-08-19T05:15:50+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+25 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -152,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **深センに行かなくても「ディープなガジェット」を試せる空間、渋谷に誕生--完全予約制** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35251628/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-17T22:50:59+00:00`, fetched `2026-08-19T05:15:20+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Fastlane Japanは8月17日、世界のガジェットを実際に手に取って試せる体験空間「＆count（エンカウント）」を東京・渋谷に8月20日にオープンすると発表した。約40社、約100点の製品を展示し、利用は無料の完全予約制。製品は販売しないショールーム形式で、場所は渋谷駅・表参道駅から徒歩圏の「VORT渋谷 east II」3階だ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 134 km WNW of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-19T02:37:46.040+00:00`, fetched `2026-08-19T03:00:26+00:00`
@@ -188,14 +197,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 いきなりですが、皆様は AI を使っていますか。 私はあまり AI を使いこなせておらず、設計の壁打ちや実装、セルフレビュー程度の利用にとどまっています。 それでも、AI を使う以前よりは開発速度が上がったと感じています...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/series/ishino/2133301.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-19T01:12:36+00:00`, fetched `2026-08-19T04:31:44+00:00`
-  - Treffer: Hatena, hotentry
+- **ChatGPT Ads expands across Europe** — Score 8, observation — [Quelle](https://openai.com/index/chatgpt-ads-expands-across-europe)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-18T22:00:00+00:00`, fetched `2026-08-19T05:15:20+00:00`
+  - Treffer: OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **chaitanyagiri/munder-difflin** — Score 4, opportunity — [Quelle](https://github.com/chaitanyagiri/munder-difflin)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
