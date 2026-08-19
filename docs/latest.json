@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T19:55:14+00:00",
-  "run_id": "2026-08-19T19:55:14+00:00",
+  "generated_at": "2026-08-19T20:03:34+00:00",
+  "run_id": "2026-08-19T20:03:34+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4359,31 +4359,7 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-19T19:00:00+00:00",
-      "fetched_at": "2026-08-19T19:54:39+00:00",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "matched_keywords": [
-        "AI/KI",
-        "Datenschutz",
-        "OpenAI",
-        "safety"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); Datenschutz (+6.0); safety (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d5353a6b44377b13a9de"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
