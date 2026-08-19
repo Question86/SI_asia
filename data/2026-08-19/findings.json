@@ -1227,6 +1227,42 @@
     "id": "c34525b803724a9876fd"
   },
   {
+    "title": "M 4.9 - Banda Sea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlvn",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-19T14:47:38.040+00:00",
+    "fetched_at": "2026-08-19T14:50:34+00:00",
+    "summary": "Time 2026-08-19 14:32:22 UTC 2026-08-19 14:32:22 UTC at epicenter Location 5.170°S 125.536°E Depth 538.07 km (334.34 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "24baaad8201d397bbc82"
+  },
+  {
     "title": "M 4.7 - 114 km E of Hihifo, Tonga",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tluh",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1649,6 +1685,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f982ca1aa2ff0b1a74f5"
+  },
+  {
+    "title": "CRE だけど「SREの知識地図」を読んだ - えいのうにっき",
+    "url": "https://blog.a-know.me/entry/2026/08/19/174450",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-19T09:22:59+00:00",
+    "fetched_at": "2026-08-19T14:50:34+00:00",
+    "summary": "発売されて間もなくくらいに買うだけ買っておいて積ん読状態になっていた「SREの知識地図」を、今更ながらに読みました。 SREの知識地図——基礎知識から現場での実践まで 作者:北野 勝久,近藤 健司,小林 良太郎,渡部 龍一,齊藤 拓朗,柘植 翔太,横山 達男技術評論社Amazon 僕は普段は CRE（SRE ではなく）をやっていて、自...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c6df759142d45d408776"
   },
   {
     "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
