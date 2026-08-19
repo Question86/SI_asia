@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T04:17:28+00:00_
+_Generiert: 2026-08-19T04:32:13+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+22 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -179,14 +179,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 いきなりですが、皆様は AI を使っていますか。 私はあまり AI を使いこなせておらず、設計の壁打ちや実装、セルフレビュー程度の利用にとどまっています。 それでも、AI を使う以前よりは開発速度が上がったと感じています...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/19/2000000583/)
+- **KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/series/ishino/2133301.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-18T23:38:57+00:00`, fetched `2026-08-19T03:58:54+00:00`
+  - Zeit: published `2026-08-19T01:12:36+00:00`, fetched `2026-08-19T04:31:44+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「対応が面倒だし、AIで営業電話をかけてくる相手と仕事したくない。手抜きをされているように感じる。印象がとても悪い」──関東圏内のアパレル事業者で働くCさん（仮名）は、勤め先にかかってくる“AI営業電話”とみられる架電にこうぼやく。 Cさんの勤め先には週に数回、人材派遣サービスやAI画像生成サービスの利用を勧...
+  - Kurz: KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **chaitanyagiri/munder-difflin** — Score 4, opportunity — [Quelle](https://github.com/chaitanyagiri/munder-difflin)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
