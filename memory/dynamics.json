@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-19T09:45:45Z",
+  "generated_at": "2026-08-19T10:05:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "extreme": 1,
       "krass": 14,
       "strong": 9,
-      "watch": 9,
-      "quiet": 7
+      "watch": 10,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 24,
-      "watch": 9,
-      "quiet": 7
+      "watch": 10,
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-19T06:04:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -49,7 +49,7 @@
       "url": "https://jvn.jp/jp/JVN47716829/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T12:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2901",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -99,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2892",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://github.com/volcengine/OpenViking",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -180,7 +180,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2889",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T09:06:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -206,7 +206,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2887",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T09:06:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -232,7 +232,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2888",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T09:06:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -258,7 +258,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2903",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:07+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -284,7 +284,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2900",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -310,7 +310,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2902",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:06+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -336,7 +336,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2898",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -362,7 +362,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2894",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -388,7 +388,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2895",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -414,7 +414,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2893",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -440,7 +440,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2890",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -466,7 +466,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -492,7 +492,7 @@
       "url": "https://jvn.jp/vu/JVNVU90536447/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T09:00:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -517,7 +517,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 61.32,
+      "age_days": 61.34,
       "topics": [
         "ai"
       ],
@@ -546,7 +546,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -576,7 +576,7 @@
       "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T08:00:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -604,7 +604,7 @@
       "url": "https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-19T08:00:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -629,7 +629,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T04:40:46.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -654,7 +654,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T05:40:20.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -679,7 +679,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T03:29:51.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -699,11 +699,36 @@
       "summary": "Time 2026-08-19 03:13:29 UTC 2026-08-19 03:13:29 UTC at epicenter Location 8.284°S 121.439°E Depth 30.37 km (18.87 mi)"
     },
     {
+      "title": "M 4.7 - 114 km E of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tluh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-19T09:32:47.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-19 09:07:19 UTC 2026-08-19 09:07:19 UTC at epicenter Location 15.917°S 172.731°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Can AI really improve collaboration and productivity",
       "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:45:57+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -730,7 +755,7 @@
       "url": "https://japan.cnet.com/article/35251628/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T22:50:59+00:00",
-      "age_days": 1.45,
+      "age_days": 1.47,
       "topics": [
         "general"
       ],
@@ -754,7 +779,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
       "source": "ECB Statistical Press Releases",
       "published_at": "2026-08-19T08:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -778,7 +803,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-08-19T08:15:21+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -802,7 +827,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T02:37:46.040+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -826,7 +851,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T00:21:51.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -850,7 +875,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00529/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T04:27:38+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -874,7 +899,7 @@
       "url": "https://e27.co/confidence-is-culturally-coded-what-working-across-countries-taught-me-about-who-gets-heard-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:00:15+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -900,7 +925,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-08-19T07:10:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -924,7 +949,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T22:38:37+00:00",
-      "age_days": 0.46,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -950,7 +975,7 @@
       "url": "https://e27.co/timah-partners-secures-us46-5m-facility-to-buy-singapore-smes-facing-succession-crunch-20260819/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T05:30:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -975,7 +1000,7 @@
       "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T06:43:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -999,7 +1024,7 @@
       "url": "https://www.watch.impress.co.jp/docs/series/ishino/2133301.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T01:12:36+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -1017,30 +1042,6 @@
         "no strong comparative reason"
       ],
       "summary": "KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】"
-    },
-    {
-      "title": "CI 23分 → 11分。8.6万行のテストコードを消すまでにやったこと - 出前館 Tech Blog",
-      "url": "https://techblog.demae-can.co.jp/entry/ci-23-to-11",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-18T15:46:17+00:00",
-      "age_days": 0.75,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "1. はじめに — 「テストは全部 結合テスト」だったプロジェクト 出前館で商品ドメインを扱うマイクロサービスの開発を担当している左官です。 今回は、そのマイクロサービスのチームで取り組んだ「結合テストに偏りきったテストコードを、単体テストへ移し替える」という改善についてお話しします。 CI は23分から11分に..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0."
