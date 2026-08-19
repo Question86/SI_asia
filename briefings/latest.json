@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T16:19:22+00:00",
-  "run_id": "2026-08-19T16:19:22+00:00",
+  "generated_at": "2026-08-19T16:34:05+00:00",
+  "run_id": "2026-08-19T16:34:05+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 0,
@@ -3915,30 +3915,7 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-010/",
-      "source": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-19T18:13:47+00:00",
-      "fetched_at": "2026-08-19T16:18:52+00:00",
-      "summary": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway). CERT-EU recommends updating affected devices as soon as possible.",
-      "matched_keywords": [
-        "CERT-EU",
-        "CodeQL/Dependabot",
-        "Security"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); CERT-EU (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0b142679ad990fe9f447"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
