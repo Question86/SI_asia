@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T03:59:26+00:00_
+_Generiert: 2026-08-19T04:17:28+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-08-19T03:59:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in China 18/08/2026 21:36 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in China 18/08/2026 21:36 UTC, Few people affected (in MMI&gt;=VII).
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.
 - **GDACS: Green notification for tropical cyclone SEVENTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001305)
   - Quelle: GDACS
   - Zeit: ``
