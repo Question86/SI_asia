@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T03:41:22+00:00_
+_Generiert: 2026-08-19T03:59:26+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+20 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,10 @@ _Generiert: 2026-08-19T03:41:22+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:15.522km) in Indonesia 17/08/2026 00:46 UTC, 1.1 million in 100km.
-- **USGS earthquake M5.9 - 269 km SSE of Dunhuang, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj)
+- **USGS earthquake M5.9 - 270 km WSW of Yanglong, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj)
   - Quelle: USGS
-  - Zeit: `2026-08-18T21:36:29+00:00`
-  - Kurz: M5.9 - 269 km SSE of Dunhuang, China. PAGER alert: yellow. Tsunami flag: 0.
+  - Zeit: `2026-08-18T21:36:28+00:00`
+  - Kurz: M5.9 - 270 km WSW of Yanglong, China. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -179,14 +179,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 いきなりですが、皆様は AI を使っていますか。 私はあまり AI を使いこなせておらず、設計の壁打ちや実装、セルフレビュー程度の利用にとどまっています。 それでも、AI を使う以前よりは開発速度が上がったと感じています...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIセキュリティ何から勉強すりゃええの？ - Qiita** — Score 5, observation — [Quelle](https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6)
+- **「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/19/2000000583/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-18T20:32:46+00:00`, fetched `2026-08-19T01:04:41+00:00`
+  - Zeit: published `2026-08-18T23:38:57+00:00`, fetched `2026-08-19T03:58:54+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? AIセキュリティ何から勉強すりゃええの？ 目次 はじめに 軽く自己紹介 調べたソース・用語 直近の学習計画 1. 論文の読み込み（一次ソースの収集） 2. 検証環境の構築 3. ブログ・...
+  - Kurz: 「対応が面倒だし、AIで営業電話をかけてくる相手と仕事したくない。手抜きをされているように感じる。印象がとても悪い」──関東圏内のアパレル事業者で働くCさん（仮名）は、勤め先にかかってくる“AI営業電話”とみられる架電にこうぼやく。 Cさんの勤め先には週に数回、人材派遣サービスやAI画像生成サービスの利用を勧...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **chaitanyagiri/munder-difflin** — Score 4, opportunity — [Quelle](https://github.com/chaitanyagiri/munder-difflin)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

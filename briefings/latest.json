@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T03:41:22+00:00",
-  "run_id": "2026-08-19T03:41:22+00:00",
+  "generated_at": "2026-08-19T03:59:26+00:00",
+  "run_id": "2026-08-19T03:59:26+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 2,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 3,
-    "observe": 15,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -177,6 +177,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "67ab04531ff2a97cd7c1"
+      },
+      {
+        "title": "Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out",
+        "url": "https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-19T03:51:40+00:00",
+        "fetched_at": "2026-08-19T03:58:54+00:00",
+        "summary": "On August 19, 2026, Bitcoin trades at US$64,656.83, up 0.538 per cent in the past 24 hours. This modest gain slightly outperforms a flat broader market. The primary catalyst behind this movement stems from fading expectations for a Federal Reserve interest rate hike. What fascinates me most is the strong negative correlation Bitcoin now exhibits […] The post Bitcoin short squeeze explains today’s gain: US$54.74 mill…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2f5293106cc580494a7d"
       },
       {
         "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
@@ -404,6 +425,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1b92f577d19c2fe8cb1a"
+      },
+      {
+        "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+        "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-18T23:38:57+00:00",
+        "fetched_at": "2026-08-19T03:58:54+00:00",
+        "summary": "「対応が面倒だし、AIで営業電話をかけてくる相手と仕事したくない。手抜きをされているように感じる。印象がとても悪い」──関東圏内のアパレル事業者で働くCさん（仮名）は、勤め先にかかってくる“AI営業電話”とみられる架電にこうぼやく。 Cさんの勤め先には週に数回、人材派遣サービスやAI画像生成サービスの利用を勧...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "60e4106feed453126d8e"
       },
       {
         "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
@@ -641,6 +683,27 @@
       "id": "67ab04531ff2a97cd7c1"
     },
     {
+      "title": "Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out",
+      "url": "https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-19T03:51:40+00:00",
+      "fetched_at": "2026-08-19T03:58:54+00:00",
+      "summary": "On August 19, 2026, Bitcoin trades at US$64,656.83, up 0.538 per cent in the past 24 hours. This modest gain slightly outperforms a flat broader market. The primary catalyst behind this movement stems from fading expectations for a Federal Reserve interest rate hike. What fascinates me most is the strong negative correlation Bitcoin now exhibits […] The post Bitcoin short squeeze explains today’s gain: US$54.74 mill…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f5293106cc580494a7d"
+    },
+    {
       "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -868,6 +931,27 @@
       "id": "1b92f577d19c2fe8cb1a"
     },
     {
+      "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-18T23:38:57+00:00",
+      "fetched_at": "2026-08-19T03:58:54+00:00",
+      "summary": "「対応が面倒だし、AIで営業電話をかけてくる相手と仕事したくない。手抜きをされているように感じる。印象がとても悪い」──関東圏内のアパレル事業者で働くCさん（仮名）は、勤め先にかかってくる“AI営業電話”とみられる架電にこうぼやく。 Cさんの勤め先には週に数回、人材派遣サービスやAI画像生成サービスの利用を勧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60e4106feed453126d8e"
+    },
+    {
       "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
       "url": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
       "source": "Hatena Bookmark Hotentry IT",
@@ -955,41 +1039,46 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 66 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out",
+      "url": "https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-19T03:29:51.040+00:00",
-      "fetched_at": "2026-08-19T03:40:47+00:00",
-      "summary": "Time 2026-08-19 03:13:29 UTC 2026-08-19 03:13:29 UTC at epicenter Location 8.284°S 121.439°E Depth 30.37 km (18.87 mi)",
+      "published_at": "2026-08-19T03:51:40+00:00",
+      "fetched_at": "2026-08-19T03:58:54+00:00",
+      "summary": "On August 19, 2026, Bitcoin trades at US$64,656.83, up 0.538 per cent in the past 24 hours. This modest gain slightly outperforms a flat broader market. The primary catalyst behind this movement stems from fading expectations for a Federal Reserve interest rate hike. What fascinates me most is the strong negative correlation Bitcoin now exhibits […] The post Bitcoin short squeeze explains today’s gain: US$54.74 mill…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Macro/Policy"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 11,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2f5293106cc580494a7d"
+    },
+    {
+      "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+      "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-18T23:38:57+00:00",
+      "fetched_at": "2026-08-19T03:58:54+00:00",
+      "summary": "「対応が面倒だし、AIで営業電話をかけてくる相手と仕事したくない。手抜きをされているように感じる。印象がとても悪い」──関東圏内のアパレル事業者で働くCさん（仮名）は、勤め先にかかってくる“AI営業電話”とみられる架電にこうぼやく。 Cさんの勤め先には週に数回、人材派遣サービスやAI画像生成サービスの利用を勧...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "bc7ad42534d41bbd69b0"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "60e4106feed453126d8e"
     }
   ],
   "source_errors": [],

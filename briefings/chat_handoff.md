@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T03:41:22+00:00_
+_Generated: 2026-08-19T03:59:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-08-19T03:41:22+00:00_
 - url: https://e27.co/confidence-is-culturally-coded-what-working-across-countries-taught-me-about-who-gets-heard-20260815/
 - summary: A Taiwanese senior leader I work with had spent more than a decade in an American organisation when his wife overheard him on a Teams call with colleagues in the United States. Afterwards, she said he sounded far more excited and energetic with them than she…
 
-### 7. 【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録
-- source: Hatena Bookmark Hotentry IT
+### 7. Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out
+- source: e27 Asia Startup and Tech Feed
 - score: `11`
-- published: `2026-08-18T22:38:37+00:00`
-- url: https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html
-- summary: 【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録
+- published: `2026-08-19T03:51:40+00:00`
+- url: https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/
+- summary: On August 19, 2026, Bitcoin trades at US$64,656.83, up 0.538 per cent in the past 24 hours. This modest gain slightly outperforms a flat broader market. The primary catalyst behind this movement stems from fading expectations for a Federal Reserve interest ra…
 
 END OF DOCUMENT
