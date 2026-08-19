@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:59:00+00:00",
+  "generated_at": "2026-08-19T23:08:39+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,26 +64,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Mexico",
-        "summary": "Green flood alert in Mexico",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104099",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Poland",
-        "summary": "Green flood alert in Poland",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104102",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.",
@@ -141,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559459",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.8 - 25 km NNE of Ruteng, Indonesia",
+        "summary": "M5.8 - 25 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u",
+        "published_at": "2026-08-19T22:45:17+00:00",
+        "metrics": {
+          "mag": 5.8,
+          "alert": "green",
+          "sig": 519.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
