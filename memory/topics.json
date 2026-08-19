@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T11:21:59+00:00",
+  "generated_at": "2026-08-19T11:35:01+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
       },
       {
+        "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye, und Jira): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:26:05+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2923"
+      },
+      {
         "title": "[NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-19T11:16:05+00:00",
@@ -119,6 +126,13 @@
         "url": "https://jvn.jp/jp/JVN47716829/"
       },
       {
+        "title": "[NEU] [mittel] CPython: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2924"
+      },
+      {
         "title": "[NEU] [mittel] RabbitMQ Java Client: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-19T11:11:05+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-08-19T10:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T10:51:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1708"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T10:36:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2198"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,13 @@
         "published_at": "2026-08-19T07:01:05+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
+      },
+      {
+        "title": "[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye, und Jira): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:26:05+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2923"
       },
       {
         "title": "[NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen",
@@ -168,6 +175,13 @@
         "published_at": "2026-08-19T11:01:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920"
+      },
+      {
+        "title": "[NEU] [mittel] CPython: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2924"
       },
       {
         "title": "[NEU] [mittel] RabbitMQ Java Client: Mehrere Schwachstellen",
@@ -203,20 +217,6 @@
         "published_at": "2026-08-19T09:06:10+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2888"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle MySQL: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T07:01:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2903"
-      },
-      {
-        "title": "[NEU] [mittel] Oracle Retail Applications: Schwachstelle gefährdet Integrität",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T07:01:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2901"
       }
     ],
     "economy": [

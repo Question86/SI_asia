@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T11:21:59+00:00_
+_Generated: 2026-08-19T11:35:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `69`
+- findings: `71`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-19T11:21:59+00:00_
 - url: https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/
 - summary: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it…
 
-### 3. [NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen
+### 3. [NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye, und Jira): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-08-19T11:26:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2923
+- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzufüh…
+
+### 4. [NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-19T11:16:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2922
 - summary: Ein Angreifer kann mehrere Schwachstellen in Nvidia Cumulus Linux ausnutzen, um seine Privilegien zu erhöhen und um Code auszuführen.
-
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-19T11:01:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (attr) ausnutzen, um seine Privilegien zu erhöhen.
 
 ### 5. Euro area monthly balance of payments: June 2026
 - source: ECB Statistical Press Releases
