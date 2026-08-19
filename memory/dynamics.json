@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-19T05:13:33Z",
+  "generated_at": "2026-08-19T05:26:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 29,
     "bands": {
       "extreme": 1,
       "krass": 2,
       "strong": 3,
-      "watch": 4,
-      "quiet": 17
+      "watch": 5,
+      "quiet": 18
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 4,
-      "quiet": 17
+      "watch": 5,
+      "quiet": 18
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN47716829/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -49,7 +49,7 @@
       "url": "https://github.com/volcengine/OpenViking",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -106,7 +106,7 @@
       "url": "https://jvn.jp/vu/JVNVU90536447/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T09:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -160,7 +160,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T04:40:46.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -185,7 +185,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T03:29:51.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -209,7 +209,7 @@
       "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:45:57+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -232,11 +232,35 @@
       "summary": "We are told that there’s always room for some efficiency. Which roughly means you have a fair chance of boosting your productivity and getting more done. With AI, the productivity expectations are higher, and collaboration has become leaner. But with too much in place, the outcome depends on how deliberately you use A…"
     },
     {
+      "title": "深センに行かなくても「ディープなガジェット」を試せる空間、渋谷に誕生--完全予約制",
+      "url": "https://japan.cnet.com/article/35251628/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-17T22:50:59+00:00",
+      "age_days": 1.28,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "Fastlane Japanは8月17日、世界のガジェットを実際に手に取って試せる体験空間「＆count（エンカウント）」を東京・渋谷に8月20日にオープンすると発表した。約40社、約100点の製品を展示し、利用は無料の完全予約制。製品は販売しないショールーム形式で、場所は渋谷駅・表参道駅から徒歩圏の「VORT渋谷 east II」3階だ..."
+    },
+    {
       "title": "M 4.5 - 134 km WNW of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T02:37:46.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -260,7 +284,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T00:21:51.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -284,7 +308,7 @@
       "url": "https://e27.co/confidence-is-culturally-coded-what-working-across-countries-taught-me-about-who-gets-heard-20260815/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:00:15+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -310,7 +334,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T22:38:37+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -336,7 +360,7 @@
       "url": "https://www.watch.impress.co.jp/docs/series/ishino/2133301.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T01:12:36+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -360,7 +384,7 @@
       "url": "https://techblog.demae-can.co.jp/entry/ci-23-to-11",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T15:46:17+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -409,7 +433,7 @@
       "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:15:52+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -434,7 +458,7 @@
       "url": "https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T03:51:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -460,7 +484,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 60.1,
+      "age_days": 60.11,
       "topics": [
         "general"
       ],
@@ -485,7 +509,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 60.1,
+      "age_days": 60.11,
       "topics": [
         "general"
       ],
@@ -510,7 +534,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 60.1,
+      "age_days": 60.11,
       "topics": [
         "ai"
       ],
@@ -537,7 +561,7 @@
       "url": "https://e27.co/the-builders-of-ai-are-selling-a-future-their-own-technology-destroys-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:15:22+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -587,7 +611,7 @@
       "url": "https://creators.bengo4.com/entry/2026/08/19/080000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T23:25:56+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -608,11 +632,37 @@
       "summary": "こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 いきなりですが、皆様は AI を使っていますか。 私はあまり AI を使いこなせておらず、設計の壁打ちや実装、セルフレビュー程度の利用にとどまっています。 それでも、AI を使う以前よりは開発速度が上がったと感じています..."
     },
     {
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-08-18T22:00:00+00:00",
+      "age_days": 0.31,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+    },
+    {
       "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
       "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T23:38:57+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -637,7 +687,7 @@
       "url": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-18T20:32:46+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -662,7 +712,7 @@
       "url": "https://e27.co/neocrete-raises-us3-5m-to-make-low-carbon-concrete-cheaper-for-builders-20260819/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T04:30:44+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -687,7 +737,7 @@
       "url": "https://e27.co/why-the-smartest-founders-are-interviewing-investors-before-investors-interview-them-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T02:00:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
