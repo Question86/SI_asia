@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T04:32:13+00:00",
-  "run_id": "2026-08-19T04:32:13+00:00",
+  "generated_at": "2026-08-19T04:49:06+00:00",
+  "run_id": "2026-08-19T04:49:06+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 19,
     "source_errors": 0
   },
@@ -51,6 +51,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "045c73b86eb2c7d82d0c"
+      },
+      {
+        "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-19T04:40:46.040+00:00",
+        "fetched_at": "2026-08-19T04:48:36+00:00",
+        "summary": "Time 2026-08-19 04:22:54 UTC 2026-08-19 04:22:54 UTC at epicenter Location 19.151°N 121.324°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4b7750185e13d2c2dadd"
       },
       {
         "title": "M 5.2 - 66 km NNW of Ende, Indonesia",
@@ -600,6 +637,43 @@
       "id": "045c73b86eb2c7d82d0c"
     },
     {
+      "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T04:40:46.040+00:00",
+      "fetched_at": "2026-08-19T04:48:36+00:00",
+      "summary": "Time 2026-08-19 04:22:54 UTC 2026-08-19 04:22:54 UTC at epicenter Location 19.151°N 121.324°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4b7750185e13d2c2dadd"
+    },
+    {
       "title": "M 5.2 - 66 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1121,45 +1195,41 @@
   ],
   "new_findings": [
     {
-      "title": "KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】",
-      "url": "https://www.watch.impress.co.jp/docs/series/ishino/2133301.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-19T01:12:36+00:00",
-      "fetched_at": "2026-08-19T04:31:44+00:00",
-      "summary": "KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】",
+      "published_at": "2026-08-19T04:40:46.040+00:00",
+      "fetched_at": "2026-08-19T04:48:36+00:00",
+      "summary": "Time 2026-08-19 04:22:54 UTC 2026-08-19 04:22:54 UTC at epicenter Location 19.151°N 121.324°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "03a6e7aa4d19ce4a9c63"
-    },
-    {
-      "title": "Neocrete raises US$3.5M to make low-carbon concrete cheaper for builders",
-      "url": "https://e27.co/neocrete-raises-us3-5m-to-make-low-carbon-concrete-cheaper-for-builders-20260819/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-19T04:30:44+00:00",
-      "fetched_at": "2026-08-19T04:31:44+00:00",
-      "summary": "The problem with decarbonising concrete has rarely been a lack of chemistry. The harder question is whether a lower-carbon mix can survive the economics of a construction site, where margins are tight, specifications are strict, and builders are rarely willing to pay more simply because a material is greener. Neocrete, a New Zealand-based materials startup, […] The post Neocrete raises US$3.5M to make low-carbon con…",
-      "matched_keywords": [
-        "APAC Trend Radar"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e9381ef5da3ae12dd0c2"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4b7750185e13d2c2dadd"
     }
   ],
   "source_errors": [],
