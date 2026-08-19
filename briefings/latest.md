@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T12:50:23+00:00_
+_Generiert: 2026-08-19T13:11:56+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+74 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -300,14 +300,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Oracle-Patchday: Updates für weniger als tausend Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-19T08:00:00.000+00:00`, fetched `2026-08-19T08:16:25+00:00`
-  - Treffer: Security
+- **Track organization code quality trends** — Score 7, observation — [Quelle](https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-19T12:56:57+00:00`, fetched `2026-08-19T13:11:25+00:00`
+  - Treffer: APAC Trend Radar, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Oracle fixt zum „Critical Security Patch Update“ knapp 1000 Lücken – weniger als zum letzten regulären „CPU“ genannten Patchday.
+  - Warum relevant: APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see… The post Track organization code quality trends appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
