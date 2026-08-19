@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-19T02:37:22+00:00",
+  "generated_at": "2026-08-19T03:00:58+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 1,
-    "observe": 11
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.5 - 74 km ENE of Petropavlovsk-Kamchatsky, Russia",
+      "title": "M 4.5 - 134 km WNW of Hihifo, Tonga",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-19T00:21:51.040+00:00",
+      "published_at": "2026-08-19T02:37:46.040+00:00",
       "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
-      "summary": "Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
+      "summary": "Time 2026-08-19 02:20:00 UTC 2026-08-19 02:20:00 UTC at epicenter Location 15.324°S 174.866°W Depth 236.64 km (147.04 mi)",
       "section": "observe"
     }
   ],

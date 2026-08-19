@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T02:37:22+00:00",
-  "run_id": "2026-08-19T02:37:22+00:00",
+  "generated_at": "2026-08-19T03:00:58+00:00",
+  "run_id": "2026-08-19T03:00:58+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 1,
-    "observe": 11,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -120,6 +120,42 @@
         "id": "b55d09289d804b8bd367"
       },
       {
+        "title": "M 4.5 - 134 km WNW of Hihifo, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-19T02:37:46.040+00:00",
+        "fetched_at": "2026-08-19T03:00:26+00:00",
+        "summary": "Time 2026-08-19 02:20:00 UTC 2026-08-19 02:20:00 UTC at epicenter Location 15.324°S 174.866°W Depth 236.64 km (147.04 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "9d7b2d45f96a34e4c3f4"
+      },
+      {
         "title": "M 4.5 - 74 km ENE of Petropavlovsk-Kamchatsky, Russia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -202,6 +238,27 @@
           "PINS"
         ],
         "id": "7848a519c56c9a0bc614"
+      },
+      {
+        "title": "Can AI really improve collaboration and productivity",
+        "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-19T02:45:57+00:00",
+        "fetched_at": "2026-08-19T03:00:26+00:00",
+        "summary": "We are told that there’s always room for some efficiency. Which roughly means you have a fair chance of boosting your productivity and getting more done. With AI, the productivity expectations are higher, and collaboration has become leaner. But with too much in place, the outcome depends on how deliberately you use AI. Volume alone […] The post Can AI really improve collaboration and productivity appeared first on…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fe22a6419b5af74c056d"
       },
       {
         "title": "The builders of AI are selling a future their own technology destroys",
@@ -423,6 +480,42 @@
       "id": "b55d09289d804b8bd367"
     },
     {
+      "title": "M 4.5 - 134 km WNW of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T02:37:46.040+00:00",
+      "fetched_at": "2026-08-19T03:00:26+00:00",
+      "summary": "Time 2026-08-19 02:20:00 UTC 2026-08-19 02:20:00 UTC at epicenter Location 15.324°S 174.866°W Depth 236.64 km (147.04 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "9d7b2d45f96a34e4c3f4"
+    },
+    {
       "title": "M 4.5 - 74 km ENE of Petropavlovsk-Kamchatsky, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -505,6 +598,27 @@
         "PINS"
       ],
       "id": "7848a519c56c9a0bc614"
+    },
+    {
+      "title": "Can AI really improve collaboration and productivity",
+      "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-19T02:45:57+00:00",
+      "fetched_at": "2026-08-19T03:00:26+00:00",
+      "summary": "We are told that there’s always room for some efficiency. Which roughly means you have a fair chance of boosting your productivity and getting more done. With AI, the productivity expectations are higher, and collaboration has become leaner. But with too much in place, the outcome depends on how deliberately you use AI. Volume alone […] The post Can AI really improve collaboration and productivity appeared first on…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fe22a6419b5af74c056d"
     },
     {
       "title": "The builders of AI are selling a future their own technology destroys",
@@ -637,117 +751,61 @@
   ],
   "new_findings": [
     {
-      "title": "Southeast Asia is counting what it automated, it is not counting what came back",
-      "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.5 - 134 km WNW of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-19T02:15:52+00:00",
-      "fetched_at": "2026-08-19T02:36:50+00:00",
-      "summary": "Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in Asia. The report found 46 per cent of firms in […] The post Southeast Asia is counting what it automated, it is not counting what came back appeared first on e2…",
+      "published_at": "2026-08-19T02:37:46.040+00:00",
+      "fetched_at": "2026-08-19T03:00:26+00:00",
+      "summary": "Time 2026-08-19 02:20:00 UTC 2026-08-19 02:20:00 UTC at epicenter Location 15.324°S 174.866°W Depth 236.64 km (147.04 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0da70ac84e8556575fda"
-    },
-    {
-      "title": "volcengine/OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-08-19T02:36:50+00:00",
-      "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Watchgraph:ai_agents_workflow",
-        "Webentwicklung"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "ai_agents_workflow"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "7848a519c56c9a0bc614"
+      "id": "9d7b2d45f96a34e4c3f4"
     },
     {
-      "title": "The builders of AI are selling a future their own technology destroys",
-      "url": "https://e27.co/the-builders-of-ai-are-selling-a-future-their-own-technology-destroys-20260816/",
+      "title": "Can AI really improve collaboration and productivity",
+      "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-19T02:15:22+00:00",
-      "fetched_at": "2026-08-19T02:36:50+00:00",
-      "summary": "Every salary is a bet that something about its holder stays valuable. AI is changing the terms of that bet. The companies building the AI future are selling that future in two different ways. To employers, they promise agents that work around the clock at falling cost. To workers, they promise a promotion: the age […] The post The builders of AI are selling a future their own technology destroys appeared first on e2…",
+      "published_at": "2026-08-19T02:45:57+00:00",
+      "fetched_at": "2026-08-19T03:00:26+00:00",
+      "summary": "We are told that there’s always room for some efficiency. Which roughly means you have a fair chance of boosting your productivity and getting more done. With AI, the productivity expectations are higher, and collaboration has become leaner. But with too much in place, the outcome depends on how deliberately you use AI. Volume alone […] The post Can AI really improve collaboration and productivity appeared first on…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
       "relevance_score": 8,
       "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e806b8e1cf825b927f07"
-    },
-    {
-      "title": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-08-19T02:36:50+00:00",
-      "summary": "local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one that keeps working while you're away and coordinates a whole office of agents on your own machine.…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Open Source"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone (x0.45)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "248c5a92b59cd94fcb8e"
+      "id": "fe22a6419b5af74c056d"
     }
   ],
   "source_errors": [],

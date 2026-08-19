@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T02:37:22+00:00_
+_Generated: 2026-08-19T03:00:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `14`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-08-19T02:37:22+00:00_
 - url: https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html
 - summary: 【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録
 
-### 5. M 4.5 - 74 km ENE of Petropavlovsk-Kamchatsky, Russia
+### 5. M 4.5 - 134 km WNW of Hihifo, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-08-19T00:21:51.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8
-- summary: Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)
+- published: `2026-08-19T02:37:46.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt1
+- summary: Time 2026-08-19 02:20:00 UTC 2026-08-19 02:20:00 UTC at epicenter Location 15.324°S 174.866°W Depth 236.64 km (147.04 mi)
 
 END OF DOCUMENT
