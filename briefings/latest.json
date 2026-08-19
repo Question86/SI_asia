@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T18:03:46+00:00",
-  "run_id": "2026-08-19T18:03:46+00:00",
+  "generated_at": "2026-08-19T18:13:37+00:00",
+  "run_id": "2026-08-19T18:13:37+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 85,
     "displayed_findings": 85,
     "high": 0,
@@ -4165,28 +4165,7 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-      "source": "Federal Reserve Monetary Policy Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-08-19T18:00:00+00:00",
-      "fetched_at": "2026-08-19T18:03:15+00:00",
-      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "afc71188fc5bddf188d1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
