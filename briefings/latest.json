@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T23:18:55+00:00",
-  "run_id": "2026-08-19T23:18:55+00:00",
+  "generated_at": "2026-08-19T23:31:33+00:00",
+  "run_id": "2026-08-19T23:31:33+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 101
+      "configured_public_sources_only": 102
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 101,
-    "displayed_findings": 101,
+    "today_file_total": 102,
+    "displayed_findings": 102,
     "high": 0,
     "medium": 47,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -2208,6 +2208,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "01d1c46cbfec14f53269"
+      },
+      {
+        "title": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2133706.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-19T08:54:53+00:00",
+        "fetched_at": "2026-08-19T23:30:59+00:00",
+        "summary": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ef21f867de39ffa379b6"
       },
       {
         "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
@@ -4685,6 +4706,27 @@
       "id": "01d1c46cbfec14f53269"
     },
     {
+      "title": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2133706.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T08:54:53+00:00",
+      "fetched_at": "2026-08-19T23:30:59+00:00",
+      "summary": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ef21f867de39ffa379b6"
+    },
+    {
       "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
       "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4981,13 +5023,13 @@
   ],
   "new_findings": [
     {
-      "title": "日本交通、7月に発生した不正アクセスで一部保有ファイルの流出を確認",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2133999.html",
+      "title": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2133706.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-19T11:05:28+00:00",
-      "fetched_at": "2026-08-19T23:18:23+00:00",
-      "summary": "日本交通、7月に発生した不正アクセスで一部保有ファイルの流出を確認",
+      "published_at": "2026-08-19T08:54:53+00:00",
+      "fetched_at": "2026-08-19T23:30:59+00:00",
+      "summary": "「Firefox 154」が正式公開 ～Windowsで「GeForce NOW」に対応、アプリアイコンの変更も／ローカルネットワークアクセスなどでセキュリティ強化、58件の脆弱性修正",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4999,7 +5041,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a5bb982438227efd28a2"
+      "id": "ef21f867de39ffa379b6"
     }
   ],
   "source_errors": [],
