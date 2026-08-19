@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T17:21:51+00:00_
+_Generiert: 2026-08-19T17:35:12+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-08-19T17:21:51+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-64849 MLflow MLflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-19`
+  - Kurz: Known exploited vulnerability. Added 2026-08-19. Due 2026-09-02. MLflow Server-Side Request Forgery Vulnerability
 - **CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
@@ -25,10 +29,6 @@ _Generiert: 2026-08-19T17:21:51+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability
-- **CISA KEV: CVE-2025-62593 Ray-Project Ray** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-17`
-  - Kurz: Known exploited vulnerability. Added 2026-08-17. Due 2026-08-20. Ray-Project Ray Code Injection Vulnerability
 - **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104099)
   - Quelle: GDACS
   - Zeit: ``
