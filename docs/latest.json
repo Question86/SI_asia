@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T13:31:09+00:00",
-  "run_id": "2026-08-19T13:31:09+00:00",
+  "generated_at": "2026-08-19T14:06:22+00:00",
+  "run_id": "2026-08-19T14:06:22+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 40,
-    "observe": 36,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -1433,6 +1433,26 @@
           "PINS"
         ],
         "id": "7848a519c56c9a0bc614"
+      },
+      {
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-19T07:00:00+00:00",
+        "fetched_at": "2026-08-19T14:05:48+00:00",
+        "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6efbc723b4bcc5c914ac"
       },
       {
         "title": "Can AI really improve collaboration and productivity",
@@ -3279,6 +3299,26 @@
       "id": "7848a519c56c9a0bc614"
     },
     {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "fetched_at": "2026-08-19T14:05:48+00:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6efbc723b4bcc5c914ac"
+    },
+    {
       "title": "Can AI really improve collaboration and productivity",
       "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3719,50 +3759,24 @@
   ],
   "new_findings": [
     {
-      "title": "Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "fetched_at": "2026-08-19T13:30:36+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "fetched_at": "2026-08-19T14:05:48+00:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Climate/Disaster Infrastructure",
-        "Security",
-        "sécurité",
-        "vulnérabilité"
+        "OpenAI"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "840acad2842f71e57c9d"
-    },
-    {
-      "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
-      "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-19T08:47:25+00:00",
-      "fetched_at": "2026-08-19T13:30:36+00:00",
-      "summary": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "05dc864e2ae440ceadd1"
+      "id": "6efbc723b4bcc5c914ac"
     }
   ],
   "source_errors": [],

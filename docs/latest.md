@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T13:31:09+00:00_
+_Generiert: 2026-08-19T14:06:22+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+77 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
   - Kurz: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Replit expands access to software creation with GPT-5.6 Luna** — Score 8, observation — [Quelle](https://openai.com/index/replit)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-19T07:00:00+00:00`, fetched `2026-08-19T14:05:48+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPT Ads expands across Europe** — Score 8, observation — [Quelle](https://openai.com/index/chatgpt-ads-expands-across-europe)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-18T22:00:00+00:00`, fetched `2026-08-19T05:15:20+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Track organization code quality trends** — Score 7, observation — [Quelle](https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-19T12:56:57+00:00`, fetched `2026-08-19T13:11:25+00:00`
-  - Treffer: APAC Trend Radar, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)
-  - Kurz: The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see… The post Track organization code quality trends appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
