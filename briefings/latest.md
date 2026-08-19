@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T08:03:22+00:00_
+_Generiert: 2026-08-19T08:16:59+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+49 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -37,14 +37,14 @@ _Generiert: 2026-08-19T08:03:22+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.
-- **GDACS: Green notification for tropical cyclone SEVENTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001305)
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.
+- **GDACS: Green notification for tropical cyclone SAUDEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001305)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone SEVENTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone SAUDEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559738)
   - Quelle: GDACS
   - Zeit: ``
@@ -291,14 +291,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html)
+- **Oracle-Patchday: Updates für weniger als tausend Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-19T06:04:00.000+00:00`, fetched `2026-08-19T06:18:12+00:00`
+  - Zeit: published `2026-08-19T08:00:00.000+00:00`, fetched `2026-08-19T08:16:25+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.
+  - Kurz: Oracle fixt zum „Critical Security Patch Update“ knapp 1000 Lücken – weniger als zum letzten regulären „CPU“ genannten Patchday.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
