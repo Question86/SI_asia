@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T18:26:47+00:00",
-  "run_id": "2026-08-19T18:26:47+00:00",
+  "generated_at": "2026-08-19T18:44:25+00:00",
+  "run_id": "2026-08-19T18:44:25+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 0,
@@ -4237,44 +4237,7 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.4 - 134 km S of Severo-Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-19T18:24:57.040+00:00",
-      "fetched_at": "2026-08-19T18:26:18+00:00",
-      "summary": "Time 2026-08-19 18:07:17 UTC 2026-08-19 18:07:17 UTC at epicenter Location 49.480°N 155.863°E Depth 41.18 km (25.59 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "14da4d54f6c1c374e35b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
