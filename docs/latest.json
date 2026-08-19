@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T08:16:59+00:00",
-  "run_id": "2026-08-19T08:16:59+00:00",
+  "generated_at": "2026-08-19T08:31:48+00:00",
+  "run_id": "2026-08-19T08:31:48+00:00",
   "date": "2026-08-19",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
     "medium": 18,
-    "observe": 31,
-    "source_errors": 0
+    "observe": 32,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -960,6 +960,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bf5ab8f116bc39f19488"
+      },
+      {
+        "title": "道徳問う「トロッコ問題」、AIの反論で3割が判断覆す 神戸大が実験 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-19T06:47:32+00:00",
+        "fetched_at": "2026-08-19T08:31:08+00:00",
+        "summary": "神戸大学の研究グループは明確な正解がない道徳問題に生成AI（人工知能）がどの程度人間の心理に影響するか調べる実験をした。回答した後に生成AIが反論すると3割以上の人が判断を覆していた。研究を実施した神戸大の増本康平教授は「生成AIの反論が人の道徳的判断に無視できない影響を及ぼしうることが示された」と解説...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6538669e6c7c5871e817"
       },
       {
         "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
@@ -2145,6 +2166,27 @@
       "id": "bf5ab8f116bc39f19488"
     },
     {
+      "title": "道徳問う「トロッコ問題」、AIの反論で3割が判断覆す 神戸大が実験 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T06:47:32+00:00",
+      "fetched_at": "2026-08-19T08:31:08+00:00",
+      "summary": "神戸大学の研究グループは明確な正解がない道徳問題に生成AI（人工知能）がどの程度人間の心理に影響するか調べる実験をした。回答した後に生成AIが反論すると3割以上の人が判断を覆していた。研究を実施した神戸大の増本康平教授は「生成AIの反論が人の道徳的判断に無視できない影響を及ぼしうることが示された」と解説...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6538669e6c7c5871e817"
+    },
+    {
       "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
       "source": "heise Security Alerts",
@@ -2397,27 +2439,35 @@
   ],
   "new_findings": [
     {
-      "title": "Oracle-Patchday: Updates für weniger als tausend Schwachstellen",
-      "url": "https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html",
-      "source": "heise Security Alerts",
+      "title": "道徳問う「トロッコ問題」、AIの反論で3割が判断覆す 神戸大が実験 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-19T08:00:00.000+00:00",
-      "fetched_at": "2026-08-19T08:16:25+00:00",
-      "summary": "Oracle fixt zum „Critical Security Patch Update“ knapp 1000 Lücken – weniger als zum letzten regulären „CPU“ genannten Patchday.",
+      "published_at": "2026-08-19T06:47:32+00:00",
+      "fetched_at": "2026-08-19T08:31:08+00:00",
+      "summary": "神戸大学の研究グループは明確な正解がない道徳問題に生成AI（人工知能）がどの程度人間の心理に影響するか調べる実験をした。回答した後に生成AIが反論すると3割以上の人が判断を覆していた。研究を実施した神戸大の増本康平教授は「生成AIの反論が人の道徳的判断に無視できない影響を及ぼしうることが示された」と解説...",
       "matched_keywords": [
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
       "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bf5ab8f116bc39f19488"
+      "id": "6538669e6c7c5871e817"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
