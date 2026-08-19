@@ -180,6 +180,29 @@
     "id": "c6dc5121805321a8c480"
   },
   {
+    "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2198",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-19T10:36:14+00:00",
+    "fetched_at": "2026-08-19T10:38:14+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder erweiterte Berechtigungen zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7e3f4b83bb52c31b463d"
+  },
+  {
     "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2533",
     "source": "BSI CERT-Bund Security Advisories",
