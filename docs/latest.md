@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T17:55:37+00:00_
+_Generiert: 2026-08-19T18:03:46+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+85 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -258,14 +258,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
   - Kurz: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Replit expands access to software creation with GPT-5.6 Luna** — Score 8, observation — [Quelle](https://openai.com/index/replit)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-19T07:00:00+00:00`, fetched `2026-08-19T14:05:48+00:00`
-  - Treffer: OpenAI
+- **Minutes of the Federal Open Market Committee, July 28–29, 2026** — Score 8, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm)
+  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
+  - Zeit: published `2026-08-19T18:00:00+00:00`, fetched `2026-08-19T18:03:15+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Minutes of the Federal Open Market Committee, July 28–29, 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

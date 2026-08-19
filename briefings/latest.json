@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T17:55:37+00:00",
-  "run_id": "2026-08-19T17:55:37+00:00",
+  "generated_at": "2026-08-19T18:03:46+00:00",
+  "run_id": "2026-08-19T18:03:46+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 1,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 43,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1575,6 +1575,26 @@
           "PINS"
         ],
         "id": "7848a519c56c9a0bc614"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+        "source": "Federal Reserve Monetary Policy Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-08-19T18:00:00+00:00",
+        "fetched_at": "2026-08-19T18:03:15+00:00",
+        "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afc71188fc5bddf188d1"
       },
       {
         "title": "Replit expands access to software creation with GPT-5.6 Luna",
@@ -3625,6 +3645,26 @@
       "id": "7848a519c56c9a0bc614"
     },
     {
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-08-19T18:00:00+00:00",
+      "fetched_at": "2026-08-19T18:03:15+00:00",
+      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afc71188fc5bddf188d1"
+    },
+    {
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit",
       "source": "OpenAI News RSS",
@@ -4127,47 +4167,24 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
-      "source": "GitHub Blog Atom",
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "source": "Federal Reserve Monetary Policy Press Releases",
       "source_type": "rss",
-      "published_at": "2026-08-19T17:50:23+00:00",
-      "fetched_at": "2026-08-19T17:55:05+00:00",
-      "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
+      "published_at": "2026-08-19T18:00:00+00:00",
+      "fetched_at": "2026-08-19T18:03:15+00:00",
+      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
       "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
+        "Macro/Policy"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fb4393118a7682d82ff3"
-    },
-    {
-      "title": "第923回 DockgeでDocker Composeをブラウザから手軽に管理しよう | gihyo.jp",
-      "url": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0923",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-19T08:29:08+00:00",
-      "fetched_at": "2026-08-19T17:55:05+00:00",
-      "summary": "Dockerでアプリケーションを動かすのであれば、コンテナやネットワークなどの構成をYAMLファイルにまとめられる、Docker Composeを使うのがお勧めです。しかし複数のアプリを動かしていると、Composeファイルも徐々に増えていきます。SSHでサーバーへログインし、各ディレクトリで「docker compose up」や「docker compo...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "09ee7b8bba1fff50458e"
+      "id": "afc71188fc5bddf188d1"
     }
   ],
   "source_errors": [],
