@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-19T07:04:56Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
+  "generated_at": "2026-08-19T07:26:36Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “volcengine/OpenViking” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,85 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-08-19T06:04:00.000+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, sharepoint",
-        "security high-signal: angriffe, sharepoint"
-      ],
-      "summary": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS."
-    },
-    {
-      "title": "acmailerにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN47716829/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-19T12:00:00+09:00",
-      "age_days": 0.17,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "エクストライノベーション株式会社が提供するacmailerには、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "[NEU] [hoch] Oracle Construction and Engineering: Schwachstelle gefährdet Vertraulichkeit und Integrität",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2892",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-19T06:46:06+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Oracle Construction and Engineering ausnutzen, um die Vertraulichkeit und Integrität zu gefährden."
-    },
-    {
       "title": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -117,7 +43,7 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-19T02:36:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -142,11 +68,115 @@
       "summary": "local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one…"
     },
     {
+      "title": "[NEU] [hoch] Oracle MySQL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2903",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-19T07:01:07+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle MySQL ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2900",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-19T07:01:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle PeopleSoft: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2902",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-19T07:01:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle PeopleSoft ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
+      "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2898",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-19T07:01:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle VM VirtualBox ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
+    },
+    {
       "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2894",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -172,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2895",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -198,7 +228,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2893",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -224,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2890",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -250,7 +280,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -276,7 +306,7 @@
       "url": "https://jvn.jp/vu/JVNVU90536447/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T09:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -295,35 +325,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 61.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -8.0 for 61.2d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
