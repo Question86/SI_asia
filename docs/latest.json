@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T07:47:49+00:00",
-  "run_id": "2026-08-19T07:47:49+00:00",
+  "generated_at": "2026-08-19T08:03:22+00:00",
+  "run_id": "2026-08-19T08:03:22+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 3,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 17,
-    "observe": 28,
+    "medium": 18,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -52,6 +52,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f0f8af90e122f7c78915"
+      },
+      {
+        "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
+        "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-19T08:00:25+00:00",
+        "fetched_at": "2026-08-19T08:02:45+00:00",
+        "summary": "Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it: visas, eSIMs, hourly hotel bookings, corporate travel expense trails, and the local guides who make […] The post The unsexy side of SEA traveltech: eSIMs, vis…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance",
+          "founder",
+          "Public Health",
+          "Southeast Asia",
+          "Watchgraph:public_health_biosecurity"
+        ],
+        "relevance_score": 21,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules public_health_biosecurity (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "public_health_biosecurity"
+        ],
+        "watchgraph_reasons": [
+          "public_health_biosecurity: pandemic"
+        ],
+        "market_context": [
+          "PFE",
+          "MRNA",
+          "BNTX",
+          "GSK",
+          "AZN",
+          "TMO",
+          "DHR"
+        ],
+        "id": "5ed630aced4c829b2848"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
@@ -449,6 +486,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "Euro area monthly balance of payments: June 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-08-19T08:00:00+00:00",
+        "fetched_at": "2026-08-19T08:02:45+00:00",
+        "summary": "Euro area monthly balance of payments: June 2026",
+        "matched_keywords": [
+          "balance of payments",
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f47c1da12860d5a9f7f0"
+      },
       {
         "title": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html",
@@ -944,6 +1003,27 @@
         "id": "f982ca1aa2ff0b1a74f5"
       },
       {
+        "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-19T06:43:19+00:00",
+        "fetched_at": "2026-08-19T08:02:45+00:00",
+        "summary": "2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」に関して、調査を継続しておりましたところ、新たに判明した事項がありますのでお知らせいたします。 このたびは、お客さま、お取引先、パートナー企業その他関係者の皆さまに、多大なるご心配とご迷惑をおかけしてお...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0971974d147be02327ac"
+      },
+      {
         "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
         "url": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1137,6 +1217,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f0f8af90e122f7c78915"
+    },
+    {
+      "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
+      "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-19T08:00:25+00:00",
+      "fetched_at": "2026-08-19T08:02:45+00:00",
+      "summary": "Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it: visas, eSIMs, hourly hotel bookings, corporate travel expense trails, and the local guides who make […] The post The unsexy side of SEA traveltech: eSIMs, vis…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder",
+        "Public Health",
+        "Southeast Asia",
+        "Watchgraph:public_health_biosecurity"
+      ],
+      "relevance_score": 21,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules public_health_biosecurity (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "public_health_biosecurity"
+      ],
+      "watchgraph_reasons": [
+        "public_health_biosecurity: pandemic"
+      ],
+      "market_context": [
+        "PFE",
+        "MRNA",
+        "BNTX",
+        "GSK",
+        "AZN",
+        "TMO",
+        "DHR"
+      ],
+      "id": "5ed630aced4c829b2848"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
@@ -1531,6 +1648,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "83fe898dcfe82d58f941"
+    },
+    {
+      "title": "Euro area monthly balance of payments: June 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-08-19T08:00:00+00:00",
+      "fetched_at": "2026-08-19T08:02:45+00:00",
+      "summary": "Euro area monthly balance of payments: June 2026",
+      "matched_keywords": [
+        "balance of payments",
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f47c1da12860d5a9f7f0"
     },
     {
       "title": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -2027,6 +2166,27 @@
       "id": "f982ca1aa2ff0b1a74f5"
     },
     {
+      "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
+      "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T06:43:19+00:00",
+      "fetched_at": "2026-08-19T08:02:45+00:00",
+      "summary": "2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」に関して、調査を継続しておりましたところ、新たに判明した事項がありますのでお知らせいたします。 このたびは、お客さま、お取引先、パートナー企業その他関係者の皆さまに、多大なるご心配とご迷惑をおかけしてお...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0971974d147be02327ac"
+    },
+    {
       "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
       "url": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2197,24 +2357,84 @@
   ],
   "new_findings": [
     {
-      "title": "Hong Kong Electronics Fairs (Autumn Edition) and electronicAsia: Cutting-Edge Technologies on Display This October, Shaping the Future of Industries",
-      "url": "https://e27.co/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries-20260819/",
+      "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
+      "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-19T07:46:27+00:00",
-      "fetched_at": "2026-08-19T07:47:21+00:00",
-      "summary": "The Hong Kong Trade Development Council (HKTDC) will host two prominent exhibitions from 13-16 October in Hong Kong — the Hong Kong Electronics Fair (Autumn Edition) and electronicAsia , jointly organized by HKTDC and MMI Asia Pte Ltd. The fairs will be held at the Hong Kong Convention and Exhibition Centre (HKCEC), showcasing the latest consumer electronics, smart products, electronic […] The post Hong Kong Electro…",
+      "published_at": "2026-08-19T08:00:25+00:00",
+      "fetched_at": "2026-08-19T08:02:45+00:00",
+      "summary": "Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it: visas, eSIMs, hourly hotel bookings, corporate travel expense trails, and the local guides who make […] The post The unsexy side of SEA traveltech: eSIMs, vis…",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder",
+        "Public Health",
+        "Southeast Asia",
+        "Watchgraph:public_health_biosecurity"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "relevance_score": 21,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules public_health_biosecurity (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "public_health_biosecurity"
+      ],
+      "watchgraph_reasons": [
+        "public_health_biosecurity: pandemic"
+      ],
+      "market_context": [
+        "PFE",
+        "MRNA",
+        "BNTX",
+        "GSK",
+        "AZN",
+        "TMO",
+        "DHR"
+      ],
+      "id": "5ed630aced4c829b2848"
+    },
+    {
+      "title": "Euro area monthly balance of payments: June 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-08-19T08:00:00+00:00",
+      "fetched_at": "2026-08-19T08:02:45+00:00",
+      "summary": "Euro area monthly balance of payments: June 2026",
+      "matched_keywords": [
+        "balance of payments",
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f982ca1aa2ff0b1a74f5"
+      "id": "f47c1da12860d5a9f7f0"
+    },
+    {
+      "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
+      "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T06:43:19+00:00",
+      "fetched_at": "2026-08-19T08:02:45+00:00",
+      "summary": "2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」に関して、調査を継続しておりましたところ、新たに判明した事項がありますのでお知らせいたします。 このたびは、お客さま、お取引先、パートナー企業その他関係者の皆さまに、多大なるご心配とご迷惑をおかけしてお...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0971974d147be02327ac"
     }
   ],
   "source_errors": [],

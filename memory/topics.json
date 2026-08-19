@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T07:47:49+00:00",
+  "generated_at": "2026-08-19T08:03:22+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-08-19T07:01:05+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
+      },
+      {
+        "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-19T08:00:25+00:00",
+        "relevance_score": 21,
+        "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/"
       },
       {
         "title": "acmailerにおける複数の脆弱性",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/volcengine/OpenViking"
-      },
-      {
-        "title": "Can AI really improve collaboration and productivity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-19T02:45:57+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/"
       }
     ],
     "security": [
@@ -219,6 +219,57 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2892"
       }
     ],
+    "economy": [
+      {
+        "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-19T08:00:25+00:00",
+        "relevance_score": 21,
+        "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/"
+      },
+      {
+        "title": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
+        "source": "ECB Open Market Operations and Communication",
+        "published_at": "2026-08-19T08:15:21+00:00",
+        "relevance_score": 12,
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html"
+      },
+      {
+        "title": "Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-19T03:51:40+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/"
+      },
+      {
+        "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-08-19T07:10:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html"
+      },
+      {
+        "title": "Can AI really improve collaboration and productivity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-19T02:45:57+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/"
+      },
+      {
+        "title": "ChatGPT Ads expands across Europe",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-18T22:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+      },
+      {
+        "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-19T06:43:19+00:00",
+        "relevance_score": 5,
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
@@ -289,43 +340,6 @@
         "published_at": "2026-08-18T15:46:17+00:00",
         "relevance_score": 5,
         "url": "https://techblog.demae-can.co.jp/entry/ci-23-to-11"
-      }
-    ],
-    "economy": [
-      {
-        "title": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-08-19T08:15:21+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html"
-      },
-      {
-        "title": "Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-19T03:51:40+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/"
-      },
-      {
-        "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-19T07:10:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html"
-      },
-      {
-        "title": "Can AI really improve collaboration and productivity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-19T02:45:57+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/"
-      },
-      {
-        "title": "ChatGPT Ads expands across Europe",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-18T22:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
       }
     ],
     "github": [

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T07:47:49+00:00_
+_Generiert: 2026-08-19T08:03:22+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+48 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big** — Score 21, risk — [Quelle](https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-19T08:00:25+00:00`, fetched `2026-08-19T08:02:45+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, founder, Public Health, Southeast Asia, Watchgraph:public_health_biosecurity
+  - Watchgraph: public_health_biosecurity
+  - Markt-/Kontextkorb: PFE, MRNA, BNTX, GSK, AZN, TMO, DHR
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules public_health_biosecurity (+3.0)
+  - Kurz: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it: visas, eSIMs, hourly hotel bookings, corporate travel expense trails, and the local guides who make […] The post The unsexy side of SEA traveltech: eSIMs, vis…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90536447/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -87,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Euro area monthly balance of payments: June 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-08-19T08:00:00+00:00`, fetched `2026-08-19T08:02:45+00:00`
+  - Treffer: balance of payments, euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area monthly balance of payments: June 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-08-19T08:15:21+00:00`, fetched `2026-08-19T07:29:09+00:00`
@@ -213,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **chaitanyagiri/munder-difflin** — Score 4, opportunity — [Quelle](https://github.com/chaitanyagiri/munder-difflin)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-19T02:36:50+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone (x0.45)
-  - Kurz: local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one that keeps working while you're away and coordinates a whole office of agents on your own machine.…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
