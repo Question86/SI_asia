@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T18:13:37+00:00_
+_Generiert: 2026-08-19T18:26:47+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+86 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Fastlane Japanは8月17日、世界のガジェットを実際に手に取って試せる体験空間「＆count（エンカウント）」を東京・渋谷に8月20日にオープンすると発表した。約40社、約100点の製品を展示し、利用は無料の完全予約制。製品は販売しないショールーム形式で、場所は渋谷駅・表参道駅から徒歩圏の「VORT渋谷 east II」3階だ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.4 - 134 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-19T18:24:57.040+00:00`, fetched `2026-08-19T18:26:18+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-19 18:07:17 UTC 2026-08-19 18:07:17 UTC at epicenter Location 49.480°N 155.863°E Depth 41.18 km (25.59 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **GitHub Copilot app for Beginners: Managing your work** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-08-19T17:50:23+00:00`, fetched `2026-08-19T17:55:05+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-19 14:32:22 UTC 2026-08-19 14:32:22 UTC at epicenter Location 5.170°S 125.536°E Depth 538.07 km (334.34 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 114 km E of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tluh)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-19T09:32:47.040+00:00`, fetched `2026-08-19T09:47:30+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-19 09:07:19 UTC 2026-08-19 09:07:19 UTC at epicenter Location 15.917°S 172.731°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
