@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T21:23:02+00:00",
+  "generated_at": "2026-08-19T21:36:04+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-08-14T00:00:00+00:00",
         "relevance_score": 22,
         "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/"
+      },
+      {
+        "title": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-19T21:09:30+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling"
       },
       {
         "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-19T03:10:25+00:00",
         "relevance_score": 12,
         "url": "https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/"
-      },
-      {
-        "title": "Southeast Asia is counting what it automated, it is not counting what came back",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-19T02:15:52+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/"
       }
     ],
     "security": [
@@ -219,6 +219,57 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919"
       }
     ],
+    "github": [
+      {
+        "title": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-19T21:09:30+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling"
+      },
+      {
+        "title": "Southeast Asia is counting what it automated, it is not counting what came back",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-19T02:15:52+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/"
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: Managing your work",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-19T17:50:23+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
+      },
+      {
+        "title": "volcengine/OpenViking",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 9,
+        "url": "https://github.com/volcengine/OpenViking"
+      },
+      {
+        "title": "Track organization code quality trends",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-19T12:56:57+00:00",
+        "relevance_score": 7,
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends"
+      },
+      {
+        "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-19T06:04:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html"
+      },
+      {
+        "title": "chaitanyagiri/munder-difflin",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 4,
+        "url": "https://github.com/chaitanyagiri/munder-difflin"
+      }
+    ],
     "economy": [
       {
         "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
@@ -347,50 +398,6 @@
         "published_at": "2026-08-17T22:50:59+00:00",
         "relevance_score": 10,
         "url": "https://japan.cnet.com/article/35251628/"
-      }
-    ],
-    "github": [
-      {
-        "title": "Southeast Asia is counting what it automated, it is not counting what came back",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-19T02:15:52+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/"
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Managing your work",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-19T17:50:23+00:00",
-        "relevance_score": 9,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/"
-      },
-      {
-        "title": "volcengine/OpenViking",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 9,
-        "url": "https://github.com/volcengine/OpenViking"
-      },
-      {
-        "title": "Track organization code quality trends",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-19T12:56:57+00:00",
-        "relevance_score": 7,
-        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends"
-      },
-      {
-        "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-19T06:04:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html"
-      },
-      {
-        "title": "chaitanyagiri/munder-difflin",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 4,
-        "url": "https://github.com/chaitanyagiri/munder-difflin"
       }
     ]
   }

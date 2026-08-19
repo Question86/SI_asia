@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T21:23:02+00:00_
+_Generated: 2026-08-19T21:36:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `90`
+- findings: `92`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-19T21:23:02+00:00_
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/
 - summary: De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité d…
 
-### 3. The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big
+### 3. CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling
+- source: GitHub Changelog Atom
+- score: `21`
+- published: `2026-08-19T21:09:30+00:00`
+- url: https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling
+- summary: CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps… The post CodeQL 2.26.3 improves GitHub Actions queri…
+
+### 4. The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big
 - source: e27 Asia Startup and Tech Feed
 - score: `21`
 - published: `2026-08-19T08:00:25+00:00`
 - url: https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/
 - summary: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it…
-
-### 4. M 5.5 - 52 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `19`
-- published: `2026-08-19T16:46:04.060+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq
-- summary: PAGER - GREEN ShakeMap - VI Time 2026-08-19 16:17:38 UTC 2026-08-19 16:17:38 UTC at epicenter Location 8.177°S 120.664°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 5.4 - 215 km E of Levuka, Fiji
 - source: USGS M4.5+ Earthquakes Past Hour
