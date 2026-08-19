@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T06:55:43+00:00_
+_Generated: 2026-08-19T07:14:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `35`
+- findings: `43`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）
+### 1. [NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `23`
+- published: `2026-08-19T07:01:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899
+- summary: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-19T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU90536447/
 - summary: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.8 - 62 km NNE of Namuac, Philippines
+### 3. M 4.8 - 62 km NNE of Namuac, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-19T04:40:46.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta
 - summary: Time 2026-08-19 04:22:54 UTC 2026-08-19 04:22:54 UTC at epicenter Location 19.151°N 121.324°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.2 - 66 km NNW of Ende, Indonesia
+### 4. M 5.2 - 66 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-19T03:29:51.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlt9
 - summary: Time 2026-08-19 03:13:29 UTC 2026-08-19 03:13:29 UTC at epicenter Location 8.284°S 121.439°E Depth 30.37 km (18.87 mi)
-
-### 4. acmailerにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-19T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN47716829/
-- summary: エクストライノベーション株式会社が提供するacmailerには、複数の脆弱性が存在します。
 
 ### 5. Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there
 - source: e27 Asia Startup and Tech Feed
