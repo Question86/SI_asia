@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T06:06:20+00:00_
+_Generiert: 2026-08-19T06:18:44+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+29 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -227,6 +227,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-19T06:04:00.000+00:00`, fetched `2026-08-19T06:18:12+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **chaitanyagiri/munder-difflin** — Score 4, opportunity — [Quelle](https://github.com/chaitanyagiri/munder-difflin)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

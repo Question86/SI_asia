@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T06:06:20+00:00",
-  "run_id": "2026-08-19T06:06:20+00:00",
+  "generated_at": "2026-08-19T06:18:44+00:00",
+  "run_id": "2026-08-19T06:18:44+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 5,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -562,6 +562,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9e0bfbb19774e9598995"
+      },
+      {
+        "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-19T06:04:00.000+00:00",
+        "fetched_at": "2026-08-19T06:18:12+00:00",
+        "summary": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1918bf8296c0956997ef"
       },
       {
         "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
@@ -1267,6 +1287,26 @@
       "id": "9e0bfbb19774e9598995"
     },
     {
+      "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-19T06:04:00.000+00:00",
+      "fetched_at": "2026-08-19T06:18:12+00:00",
+      "summary": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1918bf8296c0956997ef"
+    },
+    {
       "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
       "url": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1437,25 +1477,24 @@
   ],
   "new_findings": [
     {
-      "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
-      "url": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-08-19T04:08:09+00:00",
-      "fetched_at": "2026-08-19T06:05:48+00:00",
-      "summary": "KDDI株式会社 KDDIは、子会社であるmenu株式会社（以下 menu）が提供するフードデリバリーサービス「menu」の提供を終了し、menuを解散および清算することを決定しました。 サービス終了に伴う関係の皆さまへの対応や各種手続につきましては、影響を十分に考慮しながら順次進めていきます。 KDDIは、これまで株式会社レ...",
+      "published_at": "2026-08-19T06:04:00.000+00:00",
+      "fetched_at": "2026-08-19T06:18:12+00:00",
+      "summary": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b6acb95bbfa87b97f708"
+      "id": "1918bf8296c0956997ef"
     }
   ],
   "source_errors": [],
