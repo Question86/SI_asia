@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T11:00:38+00:00",
-  "run_id": "2026-08-19T11:00:38+00:00",
+  "generated_at": "2026-08-19T11:10:44+00:00",
+  "run_id": "2026-08-19T11:10:44+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 64
+      "configured_public_sources_only": 66
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 64,
-    "displayed_findings": 64,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 0,
-    "medium": 30,
+    "medium": 32,
     "observe": 34,
     "source_errors": 0
   },
@@ -91,6 +91,30 @@
         "id": "5ed630aced4c829b2848"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-19T11:01:05+00:00",
+        "fetched_at": "2026-08-19T11:10:14+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (attr) ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34fa3edb0fc945cb1258"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756",
         "source": "BSI CERT-Bund Security Advisories",
@@ -136,6 +160,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "045c73b86eb2c7d82d0c"
+      },
+      {
+        "title": "M 4.7 - 80 km N of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-19T11:08:15.040+00:00",
+        "fetched_at": "2026-08-19T11:10:14+00:00",
+        "summary": "Time 2026-08-19 10:44:59 UTC 2026-08-19 10:44:59 UTC at epicenter Location 7.886°S 120.444°E Depth 10.18 km (6.32 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ff5804663375de4a520a"
       },
       {
         "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
@@ -1632,6 +1693,30 @@
       "id": "5ed630aced4c829b2848"
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-19T11:01:05+00:00",
+      "fetched_at": "2026-08-19T11:10:14+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (attr) ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34fa3edb0fc945cb1258"
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1677,6 +1762,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "045c73b86eb2c7d82d0c"
+    },
+    {
+      "title": "M 4.7 - 80 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T11:08:15.040+00:00",
+      "fetched_at": "2026-08-19T11:10:14+00:00",
+      "summary": "Time 2026-08-19 10:44:59 UTC 2026-08-19 10:44:59 UTC at epicenter Location 7.886°S 120.444°E Depth 10.18 km (6.32 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ff5804663375de4a520a"
     },
     {
       "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
@@ -3109,50 +3231,65 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-19T10:56:06+00:00",
-      "fetched_at": "2026-08-19T11:00:05+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-08-19T11:01:05+00:00",
+      "fetched_at": "2026-08-19T11:10:14+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (attr) ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Linux",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8a0f51172f959145e18d"
+      "id": "34fa3edb0fc945cb1258"
     },
     {
-      "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1708",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "M 4.7 - 80 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-19T10:51:09+00:00",
-      "fetched_at": "2026-08-19T11:00:05+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen und um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-08-19T11:08:15.040+00:00",
+      "fetched_at": "2026-08-19T11:10:14+00:00",
+      "summary": "Time 2026-08-19 10:44:59 UTC 2026-08-19 10:44:59 UTC at epicenter Location 7.886°S 120.444°E Depth 10.18 km (6.32 mi)",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aaf80d995807c327e3c0"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ff5804663375de4a520a"
     }
   ],
   "source_errors": [],

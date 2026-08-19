@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T11:00:38+00:00_
+_Generated: 2026-08-19T11:10:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `66`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-19T11:00:38+00:00_
 - url: https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/
 - summary: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it…
 
-### 3. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service
+### 3. [NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-19T11:01:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (attr) ausnutzen, um seine Privilegien zu erhöhen.
+
+### 4. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-19T10:41:12+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756
 - summary: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel für eine Privilegieneskalation ausnutzen, sowie um einen Denial of Service Zustand oder andere, nicht spezifizierte Auswirkungen herbeizuführen.
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-08-19T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU90536447/
-- summary: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Euro area monthly balance of payments: June 2026
 - source: ECB Statistical Press Releases

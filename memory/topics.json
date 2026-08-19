@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T11:00:38+00:00",
+  "generated_at": "2026-08-19T11:10:44+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:01:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-19T10:41:12+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-19T10:01:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1719"
-      },
-      {
-        "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T10:01:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2194"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,13 @@
         "published_at": "2026-08-19T07:01:05+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (attr): Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:01:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920"
       },
       {
         "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
@@ -210,13 +217,6 @@
         "published_at": "2026-08-19T07:01:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2902"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle VM VirtualBox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T07:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2898"
       }
     ],
     "economy": [
@@ -271,6 +271,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.7 - 80 km N of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-19T11:08:15.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum"
+      },
       {
         "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -333,13 +340,6 @@
         "published_at": "2026-08-19T00:21:51.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8"
-      },
-      {
-        "title": "東京・環七地下の巨大河川、ポンプ使わずサイホン方式で東京湾へ放流",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-19T04:27:38+00:00",
-        "relevance_score": 7,
-        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00529/"
       }
     ],
     "github": [
