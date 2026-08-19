@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T07:29:39+00:00",
-  "run_id": "2026-08-19T07:29:39+00:00",
+  "generated_at": "2026-08-19T07:47:49+00:00",
+  "run_id": "2026-08-19T07:47:49+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 17,
-    "observe": 27,
+    "observe": 28,
     "source_errors": 0
   },
   "sections": {
@@ -922,6 +922,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2387ac8764865a2db520"
+      },
+      {
+        "title": "Hong Kong Electronics Fairs (Autumn Edition) and electronicAsia: Cutting-Edge Technologies on Display This October, Shaping the Future of Industries",
+        "url": "https://e27.co/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries-20260819/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-19T07:46:27+00:00",
+        "fetched_at": "2026-08-19T07:47:21+00:00",
+        "summary": "The Hong Kong Trade Development Council (HKTDC) will host two prominent exhibitions from 13-16 October in Hong Kong — the Hong Kong Electronics Fair (Autumn Edition) and electronicAsia , jointly organized by HKTDC and MMI Asia Pte Ltd. The fairs will be held at the Hong Kong Convention and Exhibition Centre (HKCEC), showcasing the latest consumer electronics, smart products, electronic […] The post Hong Kong Electro…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f982ca1aa2ff0b1a74f5"
       },
       {
         "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
@@ -1987,6 +2007,26 @@
       "id": "2387ac8764865a2db520"
     },
     {
+      "title": "Hong Kong Electronics Fairs (Autumn Edition) and electronicAsia: Cutting-Edge Technologies on Display This October, Shaping the Future of Industries",
+      "url": "https://e27.co/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries-20260819/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-19T07:46:27+00:00",
+      "fetched_at": "2026-08-19T07:47:21+00:00",
+      "summary": "The Hong Kong Trade Development Council (HKTDC) will host two prominent exhibitions from 13-16 October in Hong Kong — the Hong Kong Electronics Fair (Autumn Edition) and electronicAsia , jointly organized by HKTDC and MMI Asia Pte Ltd. The fairs will be held at the Hong Kong Convention and Exhibition Centre (HKCEC), showcasing the latest consumer electronics, smart products, electronic […] The post Hong Kong Electro…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f982ca1aa2ff0b1a74f5"
+    },
+    {
       "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
       "url": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2157,26 +2197,24 @@
   ],
   "new_findings": [
     {
-      "title": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html",
-      "source": "ECB Open Market Operations and Communication",
+      "title": "Hong Kong Electronics Fairs (Autumn Edition) and electronicAsia: Cutting-Edge Technologies on Display This October, Shaping the Future of Industries",
+      "url": "https://e27.co/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries-20260819/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-19T08:15:21+00:00",
-      "fetched_at": "2026-08-19T07:29:09+00:00",
-      "summary": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
+      "published_at": "2026-08-19T07:46:27+00:00",
+      "fetched_at": "2026-08-19T07:47:21+00:00",
+      "summary": "The Hong Kong Trade Development Council (HKTDC) will host two prominent exhibitions from 13-16 October in Hong Kong — the Hong Kong Electronics Fair (Autumn Edition) and electronicAsia , jointly organized by HKTDC and MMI Asia Pte Ltd. The fairs will be held at the Hong Kong Convention and Exhibition Centre (HKCEC), showcasing the latest consumer electronics, smart products, electronic […] The post Hong Kong Electro…",
       "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5ac012ed80e6e144ad97"
+      "id": "f982ca1aa2ff0b1a74f5"
     }
   ],
   "source_errors": [],
