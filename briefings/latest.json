@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T09:18:01+00:00",
-  "run_id": "2026-08-19T09:18:01+00:00",
+  "generated_at": "2026-08-19T09:32:45+00:00",
+  "run_id": "2026-08-19T09:32:45+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 53,
     "displayed_findings": 53,
     "high": 0,
@@ -2575,77 +2575,7 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2889",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-19T09:06:10+00:00",
-      "fetched_at": "2026-08-19T09:17:29+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Database Server ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8495c00e135e588d16e3"
-    },
-    {
-      "title": "[NEU] [hoch] Oracle Commerce: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2888",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-19T09:06:10+00:00",
-      "fetched_at": "2026-08-19T09:17:29+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Commerce ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1fad4bce0699bdfb51d2"
-    },
-    {
-      "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2887",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-19T09:06:10+00:00",
-      "fetched_at": "2026-08-19T09:17:29+00:00",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2e4ad3a8306593685e81"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
