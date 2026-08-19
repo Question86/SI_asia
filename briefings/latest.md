@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T23:31:33+00:00_
+_Generiert: 2026-08-19T23:41:58+00:00_
 
 ## Kurzlage
 
-102 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+103 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -265,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: A Taiwanese senior leader I work with had spent more than a decade in an American organisation when his wife overheard him on a Teams call with colleagues in the United States. Afterwards, she said he sounded far more excited and energetic with them than she was used to. He had never consciously noticed the […] The post Confidence is culturally coded: What working across countries taught me about who gets heard appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説** — Score 11, observation — [Quelle](https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-19T22:02:13+00:00`, fetched `2026-08-19T23:41:25+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Watchgraph:narrative_social_reputation
+  - Watchgraph: narrative_social_reputation
+  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0)
+  - Kurz: 生成AIの発達によって、これまでより大幅に少ない労力と時間で、本物と見間違うほど精巧な動画や画像、音声を生成できるようになりました。こうしたAI生成のディープフェイクがミステリー小説にも影響を与えていると、『＃ニーナに何があったのか？』などのミステリー小説で知られるオーストラリア人作家のダーヴラ・マ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 265 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-19T05:40:20.040+00:00`, fetched `2026-08-19T05:43:17+00:00`
@@ -291,15 +300,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Codeの週次利用制限、50%増量を8月31日まで再延長
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録** — Score 11, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-18T22:38:37+00:00`, fetched `2026-08-19T00:38:54+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.4 - 134 km S of Severo-Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlyv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
