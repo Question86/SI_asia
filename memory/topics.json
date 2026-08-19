@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T16:08:14+00:00",
+  "generated_at": "2026-08-19T16:19:22+00:00",
   "topics": {
     "ai": [
       {
@@ -126,6 +126,13 @@
         "url": "https://jvn.jp/vu/JVNVU90536447/"
       },
       {
+        "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-08-19T18:13:47+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-010/"
+      },
+      {
         "title": "acmailerにおける複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-19T12:00:00+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-19T11:36:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2926"
-      },
-      {
-        "title": "[NEU] [mittel] Axis Axis OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T11:36:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2925"
       }
     ],
     "geopolitics": [
@@ -175,6 +175,13 @@
         "published_at": "2026-08-19T11:01:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2920"
+      },
+      {
+        "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+        "source": "CERT-EU Security Advisories",
+        "published_at": "2026-08-19T18:13:47+00:00",
+        "relevance_score": 15,
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-010/"
       },
       {
         "title": "[NEU] [hoch] Joomla: Mehrere Schwachstellen",
@@ -210,13 +217,6 @@
         "published_at": "2026-08-19T10:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T09:06:10+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2889"
       }
     ],
     "economy": [

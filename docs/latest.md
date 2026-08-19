@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T16:08:14+00:00_
+_Generiert: 2026-08-19T16:19:22+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+80 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway** — Score 15, observation — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-010/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-08-19T18:13:47+00:00`, fetched `2026-08-19T16:18:52+00:00`
+  - Treffer: CERT-EU, CodeQL/Dependabot, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+6.0); CERT-EU (+2.0)
+  - Kurz: On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway). CERT-EU recommends updating affected devices as soon as possible.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 18 km SSW of Balangonan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlun)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-19T11:18:56.040+00:00`, fetched `2026-08-19T11:21:29+00:00`

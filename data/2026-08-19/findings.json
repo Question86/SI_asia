@@ -205,6 +205,28 @@
     "id": "045c73b86eb2c7d82d0c"
   },
   {
+    "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+    "url": "https://cert.europa.eu/publications/security-advisories/2026-010/",
+    "source": "CERT-EU Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-19T18:13:47+00:00",
+    "fetched_at": "2026-08-19T16:18:52+00:00",
+    "summary": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway). CERT-EU recommends updating affected devices as soon as possible.",
+    "matched_keywords": [
+      "CERT-EU",
+      "CodeQL/Dependabot",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); CERT-EU (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0b142679ad990fe9f447"
+  },
+  {
     "title": "M 4.8 - 18 km SSW of Balangonan, Philippines",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlun",
     "source": "USGS M4.5+ Earthquakes Past Hour",
