@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T05:29:03+00:00_
+_Generiert: 2026-08-19T05:43:48+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+27 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-08-19T05:29:03+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green flood alert in Poland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104102)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Poland
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
   - Quelle: GDACS
   - Zeit: ``
@@ -113,6 +117,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: エクストライノベーション株式会社が提供するacmailerには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Timah Partners secures US$46.5M facility to buy Singapore SMEs facing succession crunch** — Score 14, observation — [Quelle](https://e27.co/timah-partners-secures-us46-5m-facility-to-buy-singapore-smes-facing-succession-crunch-20260819/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-19T05:30:22+00:00`, fetched `2026-08-19T05:43:17+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+5.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For many founders of Singapore’s small and medium-sized enterprises, the hardest decision may not be how to grow, but how to let go. A large cohort of business owners across the city-state is approaching retirement age, often after spending decades building profitable, specialised companies in areas such as business services, logistics, maintenance, healthcare support, compliance, […] The post Timah Partners secures…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -143,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: A Taiwanese senior leader I work with had spent more than a decade in an American organisation when his wife overheard him on a Teams call with colleagues in the United States. Afterwards, she said he sounded far more excited and energetic with them than she was used to. He had never consciously noticed the […] The post Confidence is culturally coded: What working across countries taught me about who gets heard appe…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 265 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-19T05:40:20.040+00:00`, fetched `2026-08-19T05:43:17+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-19 05:22:24 UTC 2026-08-19 05:22:24 UTC at epicenter Location 37.862°N 95.510°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録** — Score 11, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-18T22:38:37+00:00`, fetched `2026-08-19T00:38:54+00:00`
@@ -219,6 +241,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

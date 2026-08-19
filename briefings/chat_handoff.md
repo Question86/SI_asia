@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T05:29:03+00:00_
+_Generated: 2026-08-19T05:43:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-19T05:29:03+00:00_
 - url: https://e27.co/confidence-is-culturally-coded-what-working-across-countries-taught-me-about-who-gets-heard-20260815/
 - summary: A Taiwanese senior leader I work with had spent more than a decade in an American organisation when his wife overheard him on a Teams call with colleagues in the United States. Afterwards, she said he sounded far more excited and energetic with them than she…
 
-### 8. Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out
-- source: e27 Asia Startup and Tech Feed
+### 8. M 4.7 - 265 km SSE of Dunhuang, China
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-08-19T03:51:40+00:00`
-- url: https://e27.co/bitcoin-short-squeeze-explains-todays-gain-us54-74-million-in-shorts-wiped-out-20260819/
-- summary: On August 19, 2026, Bitcoin trades at US$64,656.83, up 0.538 per cent in the past 24 hours. This modest gain slightly outperforms a flat broader market. The primary catalyst behind this movement stems from fading expectations for a Federal Reserve interest ra…
+- published: `2026-08-19T05:40:20.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq
+- summary: Time 2026-08-19 05:22:24 UTC 2026-08-19 05:22:24 UTC at epicenter Location 37.862°N 95.510°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
