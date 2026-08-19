@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T13:11:56+00:00",
-  "run_id": "2026-08-19T13:11:56+00:00",
+  "generated_at": "2026-08-19T13:31:09+00:00",
+  "run_id": "2026-08-19T13:31:09+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 2,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
-    "medium": 39,
-    "observe": 35,
+    "medium": 40,
+    "observe": 36,
     "source_errors": 0
   },
   "sections": {
@@ -52,6 +52,31 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f0f8af90e122f7c78915"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/",
+        "source": "CERT-FR Avis de sécurité",
+        "source_type": "rss",
+        "published_at": "2026-08-14T00:00:00+00:00",
+        "fetched_at": "2026-08-19T13:30:36+00:00",
+        "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+        "matched_keywords": [
+          "avis",
+          "CERT-FR",
+          "Climate/Disaster Infrastructure",
+          "Security",
+          "sécurité",
+          "vulnérabilité"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "840acad2842f71e57c9d"
       },
       {
         "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
@@ -1638,6 +1663,27 @@
         "id": "f982ca1aa2ff0b1a74f5"
       },
       {
+        "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+        "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-19T08:47:25+00:00",
+        "fetched_at": "2026-08-19T13:30:36+00:00",
+        "summary": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "05dc864e2ae440ceadd1"
+      },
+      {
         "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
         "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1852,6 +1898,31 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "f0f8af90e122f7c78915"
+    },
+    {
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "fetched_at": "2026-08-19T13:30:36+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "matched_keywords": [
+        "avis",
+        "CERT-FR",
+        "Climate/Disaster Infrastructure",
+        "Security",
+        "sécurité",
+        "vulnérabilité"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "840acad2842f71e57c9d"
     },
     {
       "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
@@ -3436,6 +3507,27 @@
       "id": "f982ca1aa2ff0b1a74f5"
     },
     {
+      "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T08:47:25+00:00",
+      "fetched_at": "2026-08-19T13:30:36+00:00",
+      "summary": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05dc864e2ae440ceadd1"
+    },
+    {
       "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
       "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3627,25 +3719,50 @@
   ],
   "new_findings": [
     {
-      "title": "Track organization code quality trends",
-      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-      "source": "GitHub Changelog Atom",
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/",
+      "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
-      "published_at": "2026-08-19T12:56:57+00:00",
-      "fetched_at": "2026-08-19T13:11:25+00:00",
-      "summary": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see… The post Track organization code quality trends appeared first on The GitHub Blog .",
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "fetched_at": "2026-08-19T13:30:36+00:00",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub"
+        "avis",
+        "CERT-FR",
+        "Climate/Disaster Infrastructure",
+        "Security",
+        "sécurité",
+        "vulnérabilité"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 22,
+      "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6bcf0881ec95bc388984"
+      "id": "840acad2842f71e57c9d"
+    },
+    {
+      "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-19T08:47:25+00:00",
+      "fetched_at": "2026-08-19T13:30:36+00:00",
+      "summary": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "05dc864e2ae440ceadd1"
     }
   ],
   "source_errors": [],

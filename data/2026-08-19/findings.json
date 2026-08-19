@@ -24,6 +24,31 @@
     "id": "f0f8af90e122f7c78915"
   },
   {
+    "title": "Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-19T13:30:36+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Climate/Disaster Infrastructure",
+      "Security",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 22,
+    "relevance_reason": "Security (+7.5); Climate/Disaster Infrastructure (+6.2); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "840acad2842f71e57c9d"
+  },
+  {
     "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
     "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1604,6 +1629,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f982ca1aa2ff0b1a74f5"
+  },
+  {
+    "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+    "url": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-19T08:47:25+00:00",
+    "fetched_at": "2026-08-19T13:30:36+00:00",
+    "summary": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "05dc864e2ae440ceadd1"
   },
   {
     "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",

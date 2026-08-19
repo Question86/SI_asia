@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T13:11:56+00:00_
+_Generated: 2026-08-19T13:31:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `76`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-19T13:11:56+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899
 - summary: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
 
-### 2. The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big
+### 2. Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)
+- source: CERT-FR Avis de sécurité
+- score: `22`
+- published: `2026-08-14T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/
+- summary: De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité d…
+
+### 3. The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big
 - source: e27 Asia Startup and Tech Feed
 - score: `21`
 - published: `2026-08-19T08:00:25+00:00`
 - url: https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/
 - summary: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it…
 
-### 3. [NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye, und Jira): Mehrere Schwachstellen
+### 4. [NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye, und Jira): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-08-19T11:26:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2923
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Atlassian Bitbucket, Atlassian Confluence, Atlassian Crucible, Atlassian Fisheye und Atlassian Jira ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzufüh…
-
-### 4. [NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-19T11:16:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2922
-- summary: Ein Angreifer kann mehrere Schwachstellen in Nvidia Cumulus Linux ausnutzen, um seine Privilegien zu erhöhen und um Code auszuführen.
 
 ### 5. Euro area monthly balance of payments: June 2026
 - source: ECB Statistical Press Releases
