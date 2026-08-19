@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T17:10:20+00:00_
+_Generiert: 2026-08-19T17:21:51+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-08-19 16:17:38 UTC 2026-08-19 16:17:38 UTC at epicenter Location 8.177°S 120.664°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Offering Zero Data Retention for frontier models** — Score 17, observation — [Quelle](https://openai.com/index/our-commitment-to-zero-data-retention)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-19T19:00:00+00:00`, fetched `2026-08-19T17:21:19+00:00`
+  - Treffer: AI/KI, Datenschutz, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Datenschutz (+6.0); safety (+2.0)
+  - Kurz: OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Atlassian Produkte (Bamboo, Bitbucket, Confluence, Crucible, Fisheye, und Jira): Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2923)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-19T11:26:05+00:00`, fetched `2026-08-19T11:34:28+00:00`
