@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T01:42:02+00:00_
+_Generiert: 2026-08-19T02:10:47+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Confidence is culturally coded: What working across countries taught me about who gets heard** — Score 12, observation — [Quelle](https://e27.co/confidence-is-culturally-coded-what-working-across-countries-taught-me-about-who-gets-heard-20260815/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-19T02:00:15+00:00`, fetched `2026-08-19T02:10:05+00:00`
+  - Treffer: APAC Trend Radar, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0); watchgraph region usa: United States (+2.0)
+  - Kurz: A Taiwanese senior leader I work with had spent more than a decade in an American organisation when his wife overheard him on a Teams call with colleagues in the United States. Afterwards, she said he sounded far more excited and energetic with them than she was used to. He had never consciously noticed the […] The post Confidence is culturally coded: What working across countries taught me about who gets heard appe…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録** — Score 11, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-18T22:38:37+00:00`, fetched `2026-08-19T00:38:54+00:00`
@@ -69,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? AIセキュリティ何から勉強すりゃええの？ 目次 はじめに 軽く自己紹介 調べたソース・用語 直近の学習計画 1. 論文の読み込み（一次ソースの収集） 2. 検証環境の構築 3. ブログ・...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why the smartest founders are interviewing investors before investors interview them** — Score 3, observation — [Quelle](https://e27.co/why-the-smartest-founders-are-interviewing-investors-before-investors-interview-them-20260816/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-19T02:00:01+00:00`, fetched `2026-08-19T02:10:05+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph demote portfolio (x0.45)
+  - Kurz: Picture two founders taking a meeting with the same investor next Tuesday. The first founder spends the weekend polishing his deck. He researches the investor’s portfolio, memorises the latest fund announcement, and rehearses his pitch with a friend. On Tuesday morning he walks in nervous, polite, and ready to answer every question. The second founder […] The post Why the smartest founders are interviewing investors…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -77,3 +95,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_taiwan_hot` (rss): HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)

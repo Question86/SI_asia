@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-08-19T01:42:02+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-19T02:10:47+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 5,
-    "source_errors": 0
+    "observe": 7,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
