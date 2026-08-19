@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T07:14:51+00:00_
+_Generiert: 2026-08-19T07:29:39+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+44 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -156,6 +156,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-08-19T08:15:21+00:00`, fetched `2026-08-19T07:29:09+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there** — Score 12, observation — [Quelle](https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-19T03:10:25+00:00`, fetched `2026-08-19T03:22:55+00:00`
