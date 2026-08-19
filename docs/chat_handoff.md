@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T10:38:50+00:00_
+_Generated: 2026-08-19T10:51:08+00:00_
 
 ## Status
-- status: `normal`
-- findings: `60`
+- status: `warning`
+- findings: `62`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-19T10:38:50+00:00_
 - url: https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/
 - summary: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）
+### 3. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-19T10:41:12+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756
+- summary: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel für eine Privilegieneskalation ausnutzen, sowie um einen Denial of Service Zustand oder andere, nicht spezifizierte Auswirkungen herbeizuführen.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-19T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU90536447/
 - summary: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. M 4.8 - 62 km NNE of Namuac, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-19T04:40:46.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta
-- summary: Time 2026-08-19 04:22:54 UTC 2026-08-19 04:22:54 UTC at epicenter Location 19.151°N 121.324°E Depth 10.00 km (6.21 mi)
 
 ### 5. Euro area monthly balance of payments: June 2026
 - source: ECB Statistical Press Releases

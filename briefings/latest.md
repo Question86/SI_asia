@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T10:38:50+00:00_
+_Generiert: 2026-08-19T10:51:08+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+62 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -99,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); Content-Chance (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules public_health_biosecurity (+3.0)
   - Kurz: Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it: visas, eSIMs, hourly hotel bookings, corporate travel expense trails, and the local guides who make […] The post The unsexy side of SEA traveltech: eSIMs, vis…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-19T10:41:12+00:00`, fetched `2026-08-19T10:50:35+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel für eine Privilegieneskalation ausnutzen, sowie um einen Denial of Service Zustand oder andere, nicht spezifizierte Auswirkungen herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90536447/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-19T09:00:00+09:00`, fetched `2026-08-19T00:20:57+00:00`
@@ -143,15 +152,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder erweiterte Berechtigungen zu erlangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2533)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-19T10:01:07+00:00`, fetched `2026-08-19T10:11:29+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen sowie Daten zu manipulieren oder offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Timah Partners secures US$46.5M facility to buy Singapore SMEs facing succession crunch** — Score 14, observation — [Quelle](https://e27.co/timah-partners-secures-us46-5m-facility-to-buy-singapore-smes-facing-succession-crunch-20260819/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -219,6 +219,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-19 05:22:24 UTC 2026-08-19 05:22:24 UTC at epicenter Location 37.862°N 95.510°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Codeを作る会社に入った男は、筑波大を2留していた｜Zun-Beho** — Score 11, observation — [Quelle](https://note.com/akikito/n/n11c101e30968)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-19T04:02:32+00:00`, fetched `2026-08-19T10:50:35+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: サンフランシスコにあるJavaScriptランタイム企業のオフィスの入口に、ピカチュウが立っている。 2025年8月、そのオフィスに数日間滞在した日本人エンジニアが、自分のブログに写真を上げている。キャプションはたった一行だ。 Bunのオフィスの入り口、ピカチュウもいる 同じ日、社員のひとりがXに投稿している。「オフ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録** — Score 11, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-18T22:38:37+00:00`, fetched `2026-08-19T00:38:54+00:00`
@@ -273,15 +282,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
   - Kurz: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog** — Score 8, observation — [Quelle](https://creators.bengo4.com/entry/2026/08/19/080000)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-18T23:25:56+00:00`, fetched `2026-08-19T00:38:54+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 いきなりですが、皆様は AI を使っていますか。 私はあまり AI を使いこなせておらず、設計の壁打ちや実装、セルフレビュー程度の利用にとどまっています。 それでも、AI を使う以前よりは開発速度が上がったと感じています...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ChatGPT Ads expands across Europe** — Score 8, observation — [Quelle](https://openai.com/index/chatgpt-ads-expands-across-europe)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-18T22:00:00+00:00`, fetched `2026-08-19T05:15:20+00:00`
@@ -309,3 +309,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T10:38:50+00:00",
+  "generated_at": "2026-08-19T10:51:08+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
       },
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T10:41:12+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-19T09:00:00+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-19T10:01:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0998"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T09:06:10+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2889"
       }
     ],
     "geopolitics": [
@@ -293,6 +293,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq"
       },
       {
+        "title": "Claude Codeを作る会社に入った男は、筑波大を2留していた｜Zun-Beho",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-19T04:02:32+00:00",
+        "relevance_score": 11,
+        "url": "https://note.com/akikito/n/n11c101e30968"
+      },
+      {
         "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-18T22:38:37+00:00",
@@ -333,13 +340,6 @@
         "published_at": "2026-08-19T04:27:38+00:00",
         "relevance_score": 7,
         "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00529/"
-      },
-      {
-        "title": "KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-19T01:12:36+00:00",
-        "relevance_score": 5,
-        "url": "https://www.watch.impress.co.jp/docs/series/ishino/2133301.html"
       }
     ],
     "github": [

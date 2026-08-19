@@ -61,6 +61,30 @@
     "id": "5ed630aced4c829b2848"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation und Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-19T10:41:12+00:00",
+    "fetched_at": "2026-08-19T10:50:35+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel für eine Privilegieneskalation ausnutzen, sowie um einen Denial of Service Zustand oder andere, nicht spezifizierte Auswirkungen herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "087264a1d137e59162c6"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
     "url": "https://jvn.jp/vu/JVNVU90536447/",
     "source": "JVN Japan Vulnerability Notes",
@@ -805,6 +829,28 @@
       "LOW"
     ],
     "id": "37e0e44179032885f91d"
+  },
+  {
+    "title": "Claude Codeを作る会社に入った男は、筑波大を2留していた｜Zun-Beho",
+    "url": "https://note.com/akikito/n/n11c101e30968",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-19T04:02:32+00:00",
+    "fetched_at": "2026-08-19T10:50:35+00:00",
+    "summary": "サンフランシスコにあるJavaScriptランタイム企業のオフィスの入口に、ピカチュウが立っている。 2025年8月、そのオフィスに数日間滞在した日本人エンジニアが、自分のブログに写真を上げている。キャプションはたった一行だ。 Bunのオフィスの入り口、ピカチュウもいる 同じ日、社員のひとりがXに投稿している。「オフ...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7058f713565c2f76ea8a"
   },
   {
     "title": "Bitcoin short squeeze explains today’s gain: US$54.74 million in shorts wiped out",
