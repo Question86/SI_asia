@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-19T11:37:43Z",
+  "generated_at": "2026-08-19T11:51:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 20,
-      "strong": 18,
-      "watch": 1
+      "krass": 21,
+      "strong": 18
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 38,
-      "watch": 1
+      "strong": 39
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2533",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:01:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-19T06:04:00.000+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://jvn.jp/jp/JVN47716829/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -94,11 +92,35 @@
       "summary": "エクストライノベーション株式会社が提供するacmailerには、複数の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] Axis Axis OS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2925",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-19T11:36:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Axis Axis OS ausnutzen, um Sicherheitsmechanismen zu umgehen und Berechtigungen zu eskalieren."
+    },
+    {
       "title": "[NEU] [mittel] CPython: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2924",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T11:31:05+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -122,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1708",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:51:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -146,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2198",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:36:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -170,7 +192,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1719",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:01:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -194,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2194",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:01:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -218,7 +240,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1887",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:01:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -242,7 +264,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0998",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:01:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -266,7 +288,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2901",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -291,7 +313,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2892",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -395,11 +417,37 @@
       "summary": "local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one…"
     },
     {
+      "title": "[NEU] [hoch] Joomla: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2926",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-19T11:36:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[NEU] [mittel] RabbitMQ Java Client: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2921",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T11:11:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -425,7 +473,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:56:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -529,7 +577,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2903",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:07+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -555,7 +603,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2900",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -581,7 +629,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2902",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:06+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -607,7 +655,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2898",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -633,7 +681,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2894",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -659,7 +707,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2895",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -685,7 +733,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2893",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:51:05+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -711,7 +759,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2890",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:05+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -737,7 +785,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2891",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T06:46:05+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -788,7 +836,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1756",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T10:41:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -813,7 +861,7 @@
       "url": "https://jvn.jp/vu/JVNVU90536447/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-19T09:00:00+09:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -838,7 +886,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 61.4,
+      "age_days": 61.41,
       "topics": [
         "ai"
       ],
@@ -867,7 +915,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T07:01:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security",
@@ -897,7 +945,7 @@
       "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-19T08:00:25+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security",
@@ -925,7 +973,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2923",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-19T11:26:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -951,7 +999,7 @@
       "url": "https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-19T08:00:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -976,7 +1024,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlum",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-19T11:08:15.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -995,56 +1043,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-19 10:44:59 UTC 2026-08-19 10:44:59 UTC at epicenter Location 7.886°S 120.444°E Depth 10.18 km (6.32 mi)"
-    },
-    {
-      "title": "M 4.8 - 62 km NNE of Namuac, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlta",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-19T04:40:46.040+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-19 04:22:54 UTC 2026-08-19 04:22:54 UTC at epicenter Location 19.151°N 121.324°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.7 - 265 km SSE of Dunhuang, China",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tltq",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-19T05:40:20.040+00:00",
-      "age_days": 0.25,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-19 05:22:24 UTC 2026-08-19 05:22:24 UTC at epicenter Location 37.862°N 95.510°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."

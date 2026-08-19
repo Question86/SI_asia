@@ -100,5 +100,145 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “volcengine/OpenViking” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=34.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "volcengine/OpenViking",
+        "url": "https://github.com/volcengine/OpenViking",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-08-19T02:36:50+00:00",
+        "age_days": 0.38,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 34.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an…"
+      },
+      {
+        "title": "[NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2922",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:16:05+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Nvidia Cumulus Linux ausnutzen, um seine Privilegien zu erhöhen und um Code auszuführen."
+      },
+      {
+        "title": "chaitanyagiri/munder-difflin",
+        "url": "https://github.com/chaitanyagiri/munder-difflin",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-08-19T02:36:50+00:00",
+        "age_days": 0.38,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce",
+          "security high-signal: rce",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one…"
+      },
+      {
+        "title": "[NEU] [hoch] Joomla: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2926",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:36:06+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
+      },
+      {
+        "title": "[NEU] [mittel] RabbitMQ Java Client: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2921",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T11:11:05+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen im RabbitMQ Java Client ausnutzen, um Code auszuführen, um Sicherheitsmechanismen zu umgehen und um einen Denial of Service herbeizuführen."
+      }
+    ]
+  }
 }
