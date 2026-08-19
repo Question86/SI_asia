@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T23:41:58+00:00_
+_Generiert: 2026-08-19T23:51:09+00:00_
 
 ## Kurzlage
 
-103 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+104 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-08-19T23:41:58+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 310 thousand in MMI IV.
-- **USGS earthquake M5.8 - 25 km NNE of Ruteng, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0u)
-  - Quelle: USGS
-  - Zeit: `2026-08-19T22:45:17+00:00`
-  - Kurz: M5.8 - 25 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -172,14 +168,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 31 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s)
+- **M 4.5 - 46 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm10)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-19T22:47:41.040+00:00`, fetched `2026-08-19T22:49:14+00:00`
+  - Zeit: published `2026-08-19T23:46:53.040+00:00`, fetched `2026-08-19T23:50:37+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-19 22:28:08 UTC 2026-08-19 22:28:08 UTC at epicenter Location 8.326°S 120.456°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-08-19 23:20:14 UTC 2026-08-19 23:20:14 UTC at epicenter Location 8.273°S 120.721°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway** — Score 15, observation — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-010/)
   - Quelle: CERT-EU Security Advisories / `rss`

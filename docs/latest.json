@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T23:41:58+00:00",
-  "run_id": "2026-08-19T23:41:58+00:00",
+  "generated_at": "2026-08-19T23:51:09+00:00",
+  "run_id": "2026-08-19T23:51:09+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 103
+      "configured_public_sources_only": 104
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 103,
-    "displayed_findings": 103,
+    "today_file_total": 104,
+    "displayed_findings": 104,
     "high": 0,
-    "medium": 47,
+    "medium": 48,
     "observe": 56,
     "source_errors": 0
   },
@@ -380,6 +380,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "045c73b86eb2c7d82d0c"
+      },
+      {
+        "title": "M 4.5 - 46 km NE of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm10",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-19T23:46:53.040+00:00",
+        "fetched_at": "2026-08-19T23:50:37+00:00",
+        "summary": "Time 2026-08-19 23:20:14 UTC 2026-08-19 23:20:14 UTC at epicenter Location 8.273°S 120.721°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8fafb42c37157fb1ea33"
       },
       {
         "title": "M 5.2 - 31 km N of Ruteng, Indonesia",
@@ -2914,6 +2951,43 @@
       "id": "045c73b86eb2c7d82d0c"
     },
     {
+      "title": "M 4.5 - 46 km NE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm10",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T23:46:53.040+00:00",
+      "fetched_at": "2026-08-19T23:50:37+00:00",
+      "summary": "Time 2026-08-19 23:20:14 UTC 2026-08-19 23:20:14 UTC at epicenter Location 8.273°S 120.721°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8fafb42c37157fb1ea33"
+    },
+    {
       "title": "M 5.2 - 31 km N of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm0s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -5091,38 +5165,41 @@
   ],
   "new_findings": [
     {
-      "title": "AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説",
-      "url": "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - 46 km NE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm10",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-19T22:02:13+00:00",
-      "fetched_at": "2026-08-19T23:41:25+00:00",
-      "summary": "生成AIの発達によって、これまでより大幅に少ない労力と時間で、本物と見間違うほど精巧な動画や画像、音声を生成できるようになりました。こうしたAI生成のディープフェイクがミステリー小説にも影響を与えていると、『＃ニーナに何があったのか？』などのミステリー小説で知られるオーストラリア人作家のダーヴラ・マ...",
+      "published_at": "2026-08-19T23:46:53.040+00:00",
+      "fetched_at": "2026-08-19T23:50:37+00:00",
+      "summary": "Time 2026-08-19 23:20:14 UTC 2026-08-19 23:20:14 UTC at epicenter Location 8.273°S 120.721°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:narrative_social_reputation"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "narrative_social_reputation"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "narrative_social_reputation: deepfake"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "360d956782336fbf5990"
+      "id": "8fafb42c37157fb1ea33"
     }
   ],
   "source_errors": [],
