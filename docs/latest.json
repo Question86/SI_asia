@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T18:44:25+00:00",
-  "run_id": "2026-08-19T18:44:25+00:00",
+  "generated_at": "2026-08-19T19:23:10+00:00",
+  "run_id": "2026-08-19T19:23:10+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 1,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 43,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1110,6 +1110,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.4 - 215 km E of Levuka, Fiji",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-19T19:12:06.328+00:00",
+        "fetched_at": "2026-08-19T19:22:38+00:00",
+        "summary": "PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d235eb5f6a0864e37981"
+      },
       {
         "title": "Euro area monthly balance of payments: June 2026",
         "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
@@ -3215,6 +3253,44 @@
       "id": "83fe898dcfe82d58f941"
     },
     {
+      "title": "M 5.4 - 215 km E of Levuka, Fiji",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T19:12:06.328+00:00",
+      "fetched_at": "2026-08-19T19:22:38+00:00",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d235eb5f6a0864e37981"
+    },
+    {
       "title": "Euro area monthly balance of payments: June 2026",
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
       "source": "ECB Statistical Press Releases",
@@ -4237,7 +4313,46 @@
       "id": "8b70c24410b871034e3f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.4 - 215 km E of Levuka, Fiji",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T19:12:06.328+00:00",
+      "fetched_at": "2026-08-19T19:22:38+00:00",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d235eb5f6a0864e37981"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

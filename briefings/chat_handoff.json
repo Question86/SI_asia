@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-19T18:44:25+00:00",
+  "generated_at": "2026-08-19T19:23:10+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 1,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 43,
-    "observe": 43
+    "observe": 44
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.4 - 215 km E of Levuka, Fiji",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-19T19:12:06.328+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8",
+      "summary": "PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)",
+      "section": "observe"
+    },
+    {
       "title": "Euro area monthly balance of payments: June 2026",
       "source": "ECB Statistical Press Releases",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/",
       "summary": "Southeast Asia’s artificial intelligence race is often framed as a contest over data centres, chips and cloud infrastructure. That is only half the story. The harder asset to build — and the easier one to lose — is talent. Malaysia’s National AI Action Plan 2…",
       "section": "observe"
-    },
-    {
-      "title": "Southeast Asia is counting what it automated, it is not counting what came back",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-19T02:15:52+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/",
-      "summary": "Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,145 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “volcengine/OpenViking” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=34.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "volcengine/OpenViking",
-        "url": "https://github.com/volcengine/OpenViking",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-19T02:36:50+00:00",
-        "age_days": 0.69,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 34.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an…"
-      },
-      {
-        "title": "[NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2922",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T11:16:05+00:00",
-        "age_days": 0.33,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Nvidia Cumulus Linux ausnutzen, um seine Privilegien zu erhöhen und um Code auszuführen."
-      },
-      {
-        "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-010/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-08-19T18:13:47+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: critical, code, 10",
-          "security high-signal: critical, code, 10, citrix"
-        ],
-        "summary": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway). CERT-EU recommends updating affected devices as soon as possible."
-      },
-      {
-        "title": "chaitanyagiri/munder-difflin",
-        "url": "https://github.com/chaitanyagiri/munder-difflin",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-19T02:36:50+00:00",
-        "age_days": 0.69,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: local",
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one…"
-      },
-      {
-        "title": "[NEU] [hoch] Joomla: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2926",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T11:36:06+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
-      }
-    ]
-  }
+  ]
 }

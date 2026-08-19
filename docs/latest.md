@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T18:44:25+00:00_
+_Generiert: 2026-08-19T19:23:10+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+87 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -132,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - 215 km E of Levuka, Fiji** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-19T19:12:06.328+00:00`, fetched `2026-08-19T19:22:38+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Euro area monthly balance of payments: June 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html)
   - Quelle: ECB Statistical Press Releases / `rss`
   - Zeit: published `2026-08-19T08:00:00+00:00`, fetched `2026-08-19T08:02:45+00:00`
@@ -231,15 +240,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - Banda Sea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlvn)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-19T14:47:38.040+00:00`, fetched `2026-08-19T14:50:34+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-19 14:32:22 UTC 2026-08-19 14:32:22 UTC at epicenter Location 5.170°S 125.536°E Depth 538.07 km (334.34 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-08-19T07:10:00+00:00`, fetched `2026-08-19T07:14:22+00:00`

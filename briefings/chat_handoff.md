@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T18:44:25+00:00_
+_Generated: 2026-08-19T19:23:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `86`
+- findings: `87`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-19T18:44:25+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq
 - summary: PAGER - GREEN ShakeMap - VI Time 2026-08-19 16:17:38 UTC 2026-08-19 16:17:38 UTC at epicenter Location 8.177°S 120.664°E Depth 10.00 km (6.21 mi)
 
-### 5. Euro area monthly balance of payments: June 2026
+### 5. M 5.4 - 215 km E of Levuka, Fiji
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-19T19:12:06.328+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8
+- summary: PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)
+
+### 6. Euro area monthly balance of payments: June 2026
 - source: ECB Statistical Press Releases
 - score: `13`
 - published: `2026-08-19T08:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html
 - summary: Euro area monthly balance of payments: June 2026
 
-### 6. Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-08-19T08:15:21+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html
 - summary: Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there
+### 8. Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-19T03:10:25+00:00`
 - url: https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/
 - summary: Southeast Asia’s artificial intelligence race is often framed as a contest over data centres, chips and cloud infrastructure. That is only half the story. The harder asset to build — and the easier one to lose — is talent. Malaysia’s National AI Action Plan 2…
-
-### 8. Southeast Asia is counting what it automated, it is not counting what came back
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-08-19T02:15:52+00:00`
-- url: https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/
-- summary: Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in…
 
 END OF DOCUMENT
