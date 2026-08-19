@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T02:10:47+00:00_
+_Generiert: 2026-08-19T02:37:22+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+12 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -89,6 +89,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia is counting what it automated, it is not counting what came back** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-19T02:15:52+00:00`, fetched `2026-08-19T02:36:50+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in Asia. The report found 46 per cent of firms in […] The post Southeast Asia is counting what it automated, it is not counting what came back appeared first on e2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Confidence is culturally coded: What working across countries taught me about who gets heard** — Score 12, observation — [Quelle](https://e27.co/confidence-is-culturally-coded-what-working-across-countries-taught-me-about-who-gets-heard-20260815/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-19T02:00:15+00:00`, fetched `2026-08-19T02:10:05+00:00`
@@ -116,14 +125,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI won’t replace leaders, but it will expose weak leadership** — Score 8, observation — [Quelle](https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/)
+- **volcengine/OpenViking** — Score 9, opportunity — [Quelle](https://github.com/volcengine/OpenViking)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-19T02:36:50+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
+  - Kurz: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **The builders of AI are selling a future their own technology destroys** — Score 8, observation — [Quelle](https://e27.co/the-builders-of-ai-are-selling-a-future-their-own-technology-destroys-20260816/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-19T01:00:41+00:00`, fetched `2026-08-19T01:04:41+00:00`
+  - Zeit: published `2026-08-19T02:15:22+00:00`, fetched `2026-08-19T02:36:50+00:00`
   - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it’s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending the last few years working alongside CEOs, Managing Directors and executive teams across financial services, technology […] The post AI won’t…
+  - Kurz: Every salary is a bet that something about its holder stays valuable. AI is changing the terms of that bet. The companies building the AI future are selling that future in two different ways. To employers, they promise agents that work around the clock at falling cost. To workers, they promise a promotion: the age […] The post The builders of AI are selling a future their own technology destroys appeared first on e2…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog** — Score 8, observation — [Quelle](https://creators.bengo4.com/entry/2026/08/19/080000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -143,15 +161,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? AIセキュリティ何から勉強すりゃええの？ 目次 はじめに 軽く自己紹介 調べたソース・用語 直近の学習計画 1. 論文の読み込み（一次ソースの収集） 2. 検証環境の構築 3. ブログ・...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why the smartest founders are interviewing investors before investors interview them** — Score 3, observation — [Quelle](https://e27.co/why-the-smartest-founders-are-interviewing-investors-before-investors-interview-them-20260816/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-19T02:00:01+00:00`, fetched `2026-08-19T02:10:05+00:00`
-  - Treffer: APAC Trend Radar, founder
+- **chaitanyagiri/munder-difflin** — Score 4, opportunity — [Quelle](https://github.com/chaitanyagiri/munder-difflin)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-19T02:36:50+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Open Source
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph demote portfolio (x0.45)
-  - Kurz: Picture two founders taking a meeting with the same investor next Tuesday. The first founder spends the weekend polishing his deck. He researches the investor’s portfolio, memorises the latest fund announcement, and rehearses his pitch with a friend. On Tuesday morning he walks in nervous, polite, and ready to answer every question. The second founder […] The post Why the smartest founders are interviewing investors…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote clone (x0.45)
+  - Kurz: local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one that keeps working while you're away and coordinates a whole office of agents on your own machine.…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
@@ -160,7 +178,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): HTTPSConnectionPool(host='trends.google.com.tw', port=443): Read timed out. (read timeout=8)

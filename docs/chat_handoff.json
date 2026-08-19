@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-19T02:10:47+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-08-19T02:37:22+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 4,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 1,
-    "observe": 7
+    "observe": 11
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）",
@@ -23,6 +23,16 @@
       "url": "https://jvn.jp/vu/JVNVU90536447/",
       "summary": "2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
       "section": "medium"
+    },
+    {
+      "title": "Southeast Asia is counting what it automated, it is not counting what came back",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-19T02:15:52+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/",
+      "summary": "Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in…",
+      "section": "observe"
     },
     {
       "title": "Confidence is culturally coded: What working across countries taught me about who gets heard",
@@ -52,16 +62,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
       "summary": "Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "AI won’t replace leaders, but it will expose weak leadership",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-19T01:00:41+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
-      "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it’s the greatest productivity revolution in modern business. I believe both camps are asking the wrong questi…",
       "section": "observe"
     }
   ],
