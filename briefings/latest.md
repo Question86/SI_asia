@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T03:00:58+00:00_
+_Generiert: 2026-08-19T03:23:25+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月18日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,9 +86,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年08月18日（現地時間）、米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **acmailerにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN47716829/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-19T12:00:00+09:00`, fetched `2026-08-19T03:22:55+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: エクストライノベーション株式会社が提供するacmailerには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there** — Score 12, observation — [Quelle](https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-19T03:10:25+00:00`, fetched `2026-08-19T03:22:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Southeast Asia’s artificial intelligence race is often framed as a contest over data centres, chips and cloud infrastructure. That is only half the story. The harder asset to build — and the easier one to lose — is talent. Malaysia’s National AI Action Plan 2026-2030, known as AI Nation 2030, makes that point clearly. The […] The post Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there appear…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Southeast Asia is counting what it automated, it is not counting what came back** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-19T02:15:52+00:00`, fetched `2026-08-19T02:36:50+00:00`
@@ -142,15 +160,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph demote demo (x0.45)
   - Kurz: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Can AI really improve collaboration and productivity** — Score 8, opportunity — [Quelle](https://e27.co/can-ai-really-improve-collaboration-and-productivity-20260818/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-19T02:45:57+00:00`, fetched `2026-08-19T03:00:26+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: We are told that there’s always room for some efficiency. Which roughly means you have a fair chance of boosting your productivity and getting more done. With AI, the productivity expectations are higher, and collaboration has become leaner. But with too much in place, the outcome depends on how deliberately you use AI. Volume alone […] The post Can AI really improve collaboration and productivity appeared first on…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog** — Score 8, observation — [Quelle](https://creators.bengo4.com/entry/2026/08/19/080000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
