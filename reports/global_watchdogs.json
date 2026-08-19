@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:36:08+00:00",
+  "generated_at": "2026-08-19T21:46:41+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,21 +141,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559459",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.9 - 270 km WSW of Yanglong, China",
-        "summary": "M5.9 - 270 km WSW of Yanglong, China. PAGER alert: yellow. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj",
-        "published_at": "2026-08-18T21:36:28+00:00",
-        "metrics": {
-          "mag": 5.9,
-          "alert": "yellow",
-          "sig": 650.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

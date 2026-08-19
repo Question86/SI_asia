@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T21:36:04+00:00_
+_Generiert: 2026-08-19T21:46:38+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-08-19T21:36:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.
-- **USGS earthquake M5.9 - 270 km WSW of Yanglong, China** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj)
-  - Quelle: USGS
-  - Zeit: `2026-08-18T21:36:28+00:00`
-  - Kurz: M5.9 - 270 km WSW of Yanglong, China. PAGER alert: yellow. Tsunami flag: 0.
 
 ## Wirtschaft global
 
