@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T16:59:20+00:00_
+_Generiert: 2026-08-19T17:10:20+00:00_
 
 ## Kurzlage
 
@@ -37,6 +37,10 @@ _Generiert: 2026-08-19T16:59:20+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Poland
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560289)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +61,6 @@ _Generiert: 2026-08-19T16:59:20+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:15.522km) in Indonesia 17/08/2026 00:46 UTC, 1.1 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559203)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:15.522km) in Indonesia 17/08/2026 00:46 UTC, 1.1 million in 100km.
 - **USGS earthquake M5.5 - 52 km NNE of Ruteng, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq)
   - Quelle: USGS
   - Zeit: `2026-08-19T16:17:38+00:00`
