@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-19T10:51:08+00:00",
+  "generated_at": "2026-08-19T11:00:38+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,20 @@
         "url": "https://jvn.jp/jp/JVN47716829/"
       },
       {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T10:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919"
+      },
+      {
+        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T10:51:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1708"
+      },
+      {
         "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-19T10:36:14+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-08-19T10:01:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2194"
-      },
-      {
-        "title": "[UPDATE] [mittel] Erlang/OTP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T10:01:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1887"
-      },
-      {
-        "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T10:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0998"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,13 @@
         "published_at": "2026-08-19T07:01:05+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-19T10:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2919"
       },
       {
         "title": "[NEU] [hoch] Oracle Database Server: Mehrere Schwachstellen",
@@ -210,13 +217,6 @@
         "published_at": "2026-08-19T07:01:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2898"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Fusion Middleware: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T06:51:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2894"
       }
     ],
     "economy": [

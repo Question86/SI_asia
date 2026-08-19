@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-08-19T10:51:08+00:00",
-  "status": "warning",
+  "generated_at": "2026-08-19T11:00:38+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
-    "medium": 28,
+    "medium": 30,
     "observe": 34,
-    "source_errors": 1
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "ecb_open_market_operations",
-      "source_name": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
