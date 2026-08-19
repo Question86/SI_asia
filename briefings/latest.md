@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-19T15:04:51+00:00_
+_Generiert: 2026-08-19T15:16:58+00:00_
 
 ## Kurzlage
 
@@ -29,14 +29,14 @@ _Generiert: 2026-08-19T15:04:51+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-17`
   - Kurz: Known exploited vulnerability. Added 2026-08-17. Due 2026-08-20. Ray-Project Ray Code Injection Vulnerability
-- **GDACS: Green flood alert in Poland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104102)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Poland
 - **GDACS: Green flood alert in Mexico** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104099)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Mexico
+- **GDACS: Green flood alert in Poland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104102)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Poland
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
   - Quelle: GDACS
   - Zeit: ``
