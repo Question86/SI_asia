@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-19T00:39:24+00:00_
+_Generated: 2026-08-19T01:05:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `6`
 
 ## Top Signals
 
@@ -29,7 +29,14 @@ _Generated: 2026-08-19T00:39:24+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8
 - summary: Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)
 
-### 4. 人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog
+### 4. AI won’t replace leaders, but it will expose weak leadership
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-08-19T01:00:41+00:00`
+- url: https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/
+- summary: The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it’s the greatest productivity revolution in modern business. I believe both camps are asking the wrong questi…
+
+### 5. 人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-08-18T23:25:56+00:00`

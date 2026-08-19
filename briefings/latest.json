@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T00:39:24+00:00",
-  "run_id": "2026-08-19T00:39:24+00:00",
+  "generated_at": "2026-08-19T01:05:11+00:00",
+  "run_id": "2026-08-19T01:05:11+00:00",
   "date": "2026-08-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 6
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -113,6 +113,27 @@
         "id": "c90f6787404425a9a1bb"
       },
       {
+        "title": "AI won’t replace leaders, but it will expose weak leadership",
+        "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-19T01:00:41+00:00",
+        "fetched_at": "2026-08-19T01:04:41+00:00",
+        "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it’s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending the last few years working alongside CEOs, Managing Directors and executive teams across financial services, technology […] The post AI won’t…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "594fb8bb46551ac37c70"
+      },
+      {
         "title": "人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog",
         "url": "https://creators.bengo4.com/entry/2026/08/19/080000",
         "source": "Hatena Bookmark Hotentry IT",
@@ -133,6 +154,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1b92f577d19c2fe8cb1a"
+      },
+      {
+        "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
+        "url": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-18T20:32:46+00:00",
+        "fetched_at": "2026-08-19T01:04:41+00:00",
+        "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? AIセキュリティ何から勉強すりゃええの？ 目次 はじめに 軽く自己紹介 調べたソース・用語 直近の学習計画 1. 論文の読み込み（一次ソースの収集） 2. 検証環境の構築 3. ブログ・...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a0b56efce4d6ac76512"
       }
     ]
   },
@@ -219,6 +261,27 @@
       "id": "c90f6787404425a9a1bb"
     },
     {
+      "title": "AI won’t replace leaders, but it will expose weak leadership",
+      "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-19T01:00:41+00:00",
+      "fetched_at": "2026-08-19T01:04:41+00:00",
+      "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it’s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending the last few years working alongside CEOs, Managing Directors and executive teams across financial services, technology […] The post AI won’t…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "594fb8bb46551ac37c70"
+    },
+    {
       "title": "人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog",
       "url": "https://creators.bengo4.com/entry/2026/08/19/080000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -239,88 +302,71 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1b92f577d19c2fe8cb1a"
+    },
+    {
+      "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
+      "url": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-18T20:32:46+00:00",
+      "fetched_at": "2026-08-19T01:04:41+00:00",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? AIセキュリティ何から勉強すりゃええの？ 目次 はじめに 軽く自己紹介 調べたソース・用語 直近の学習計画 1. 論文の読み込み（一次ソースの収集） 2. 検証環境の構築 3. ブログ・...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a0b56efce4d6ac76512"
     }
   ],
   "new_findings": [
     {
-      "title": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2133686.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "AI won’t replace leaders, but it will expose weak leadership",
+      "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-18T22:38:37+00:00",
-      "fetched_at": "2026-08-19T00:38:54+00:00",
-      "summary": "【特集】 sigmarion IIIも甦る！「Claude Code」が凄すぎて2カ月間下僕になったオタクの記録",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b55d09289d804b8bd367"
-    },
-    {
-      "title": "M 4.5 - 74 km ENE of Petropavlovsk-Kamchatsky, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tls8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-19T00:21:51.040+00:00",
-      "fetched_at": "2026-08-19T00:38:54+00:00",
-      "summary": "Time 2026-08-19 00:06:39 UTC 2026-08-19 00:06:39 UTC at epicenter Location 53.215°N 159.713°E Depth 72.81 km (45.24 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "c90f6787404425a9a1bb"
-    },
-    {
-      "title": "人間に向けて文書を書こう - 弁護士ドットコム株式会社 Creators’ blog",
-      "url": "https://creators.bengo4.com/entry/2026/08/19/080000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-18T23:25:56+00:00",
-      "fetched_at": "2026-08-19T00:38:54+00:00",
-      "summary": "こんにちは。弁護士ドットコム クラウドサイン事業本部で SRE をしています、大内と申します。 いきなりですが、皆様は AI を使っていますか。 私はあまり AI を使いこなせておらず、設計の壁打ちや実装、セルフレビュー程度の利用にとどまっています。 それでも、AI を使う以前よりは開発速度が上がったと感じています...",
+      "published_at": "2026-08-19T01:00:41+00:00",
+      "fetched_at": "2026-08-19T01:04:41+00:00",
+      "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it’s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending the last few years working alongside CEOs, Managing Directors and executive teams across financial services, technology […] The post AI won’t…",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
       "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1b92f577d19c2fe8cb1a"
+      "id": "594fb8bb46551ac37c70"
+    },
+    {
+      "title": "AIセキュリティ何から勉強すりゃええの？ - Qiita",
+      "url": "https://qiita.com/mikihitooooo/items/ced6a0aa744379d338b6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-18T20:32:46+00:00",
+      "fetched_at": "2026-08-19T01:04:41+00:00",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? AIセキュリティ何から勉強すりゃええの？ 目次 はじめに 軽く自己紹介 調べたソース・用語 直近の学習計画 1. 論文の読み込み（一次ソースの収集） 2. 検証環境の構築 3. ブログ・...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a0b56efce4d6ac76512"
     }
   ],
   "source_errors": [],
