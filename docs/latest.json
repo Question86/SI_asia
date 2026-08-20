@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T08:18:38+00:00",
-  "run_id": "2026-08-20T08:18:38+00:00",
+  "generated_at": "2026-08-20T08:34:08+00:00",
+  "run_id": "2026-08-20T08:34:08+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 16,
-    "observe": 21,
+    "medium": 17,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -158,6 +158,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "38f97459668b5f84d4c0"
+      },
+      {
+        "title": "M 5.0 - 43 km N of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2k",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-20T08:20:57.040+00:00",
+        "fetched_at": "2026-08-20T08:33:37+00:00",
+        "summary": "Time 2026-08-20 08:01:33 UTC 2026-08-20 08:01:33 UTC at epicenter Location 8.220°S 120.488°E Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f9afaa9acd6af6835fd9"
       },
       {
         "title": "M 5.0 - 37 km NNW of Ruteng, Indonesia",
@@ -1018,6 +1055,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a018ce1352ab9bcf91e0"
+      },
+      {
+        "title": "はてなパークス",
+        "url": "https://p.hatena.ne.jp/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-18T07:43:27+00:00",
+        "fetched_at": "2026-08-20T08:33:37+00:00",
+        "summary": "はてなパークスは只今メンテナンス中です。 ご迷惑をおかけしますが、しばらくお待ちください。 メンテナンス終了は 2026年8月20日 16:00 ごろを予定しています。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9efc97cfe8d95b5ce915"
       }
     ]
   },
@@ -1151,6 +1209,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "38f97459668b5f84d4c0"
+    },
+    {
+      "title": "M 5.0 - 43 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-20T08:20:57.040+00:00",
+      "fetched_at": "2026-08-20T08:33:37+00:00",
+      "summary": "Time 2026-08-20 08:01:33 UTC 2026-08-20 08:01:33 UTC at epicenter Location 8.220°S 120.488°E Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f9afaa9acd6af6835fd9"
     },
     {
       "title": "M 5.0 - 37 km NNW of Ruteng, Indonesia",
@@ -2009,17 +2104,38 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a018ce1352ab9bcf91e0"
+    },
+    {
+      "title": "はてなパークス",
+      "url": "https://p.hatena.ne.jp/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-18T07:43:27+00:00",
+      "fetched_at": "2026-08-20T08:33:37+00:00",
+      "summary": "はてなパークスは只今メンテナンス中です。 ご迷惑をおかけしますが、しばらくお待ちください。 メンテナンス終了は 2026年8月20日 16:00 ごろを予定しています。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9efc97cfe8d95b5ce915"
     }
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - 37 km NNW of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2j",
+      "title": "M 5.0 - 43 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-20T08:13:26.040+00:00",
-      "fetched_at": "2026-08-20T08:18:07+00:00",
-      "summary": "Time 2026-08-20 07:55:03 UTC 2026-08-20 07:55:03 UTC at epicenter Location 8.287°S 120.377°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-20T08:20:57.040+00:00",
+      "fetched_at": "2026-08-20T08:33:37+00:00",
+      "summary": "Time 2026-08-20 08:01:33 UTC 2026-08-20 08:01:33 UTC at epicenter Location 8.220°S 120.488°E Depth 35.00 km (21.75 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
@@ -2047,50 +2163,28 @@
         "HD",
         "LOW"
       ],
-      "id": "9a77ba62402206e33831"
+      "id": "f9afaa9acd6af6835fd9"
     },
     {
-      "title": "Singapore Polytechnic launches CASTLE to help SMEs strengthen cyber defences",
-      "url": "https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-20T08:11:48+00:00",
-      "fetched_at": "2026-08-20T08:18:07+00:00",
-      "summary": "For many small businesses in Southeast Asia, cybersecurity still sits in an uncomfortable place: too important to ignore, but too costly and specialised to manage properly. Singapore Polytechnic wants to narrow that gap with a new initiative that turns student training into practical cyber support for enterprises. Also Read: The demand for SME cybersecurity is […] The post Singapore Polytechnic launches CASTLE to he…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Security",
-        "Southeast Asia"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "435dfcd20e570138e515"
-    },
-    {
-      "title": "はてな、創業25周年を迎えた節目に新サービス「はてなパークス」を正式リリース - プレスリリース - 株式会社はてな",
-      "url": "https://hatena.co.jp/press/release/entry/2026/08/20/163000",
+      "title": "はてなパークス",
+      "url": "https://p.hatena.ne.jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-20T07:33:11+00:00",
-      "fetched_at": "2026-08-20T08:18:07+00:00",
-      "summary": "株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、本日2026年8月20日、ディスカッションフォーラム「はてなパークス」を正式リリースしました。2026年5月26日より事前登録ユーザーを対象に提供していたクローズドベータを経て、本日よりはてなIDをお持ちのすべてのユーザーにご利用いただけま...",
+      "published_at": "2026-08-18T07:43:27+00:00",
+      "fetched_at": "2026-08-20T08:33:37+00:00",
+      "summary": "はてなパークスは只今メンテナンス中です。 ご迷惑をおかけしますが、しばらくお待ちください。 メンテナンス終了は 2026年8月20日 16:00 ごろを予定しています。",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d74dcb5c50cbb39b539f"
+      "id": "9efc97cfe8d95b5ce915"
     }
   ],
   "source_errors": [],
