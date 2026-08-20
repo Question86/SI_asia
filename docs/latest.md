@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T03:18:14+00:00_
+_Generiert: 2026-08-20T03:35:08+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+14 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As venture capital shifts from “growth at all costs” to “sustainable efficiency,” […] The post The silent migration: Why top SEA startups are quietly building core R&D…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 81 km W of San Antonio de los Cobres, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-20T03:24:10.040+00:00`, fetched `2026-08-20T03:34:38+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-20 03:09:06 UTC 2026-08-20 03:09:06 UTC at epicenter Location 24.337°S 67.115°W Depth 166.71 km (103.59 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Investors aren’t ghosting you, they’re reading you** — Score 10, observation — [Quelle](https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T01:30:44+00:00`, fetched `2026-08-20T01:38:03+00:00`
