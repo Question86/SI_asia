@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T05:50:50+00:00",
-  "run_id": "2026-08-20T05:50:50+00:00",
+  "generated_at": "2026-08-20T06:01:26+00:00",
+  "run_id": "2026-08-20T06:01:26+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,65 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 10,
+    "medium": 11,
     "observe": 15,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience",
+        "url": "https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-20T06:00:00+00:00",
+        "fetched_at": "2026-08-20T06:00:54+00:00",
+        "summary": "For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s National AI Action Plan 2026-2030, also known as AI Nation 2030, places these pressures at the heart […] The post Malaysia’s AI Nation 2030 puts cities and far…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Southeast Asia",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: flood"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "299894c592d97376a42b"
+      },
       {
         "title": "M 5.7 - 32 km NNE of Ruteng, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
@@ -723,6 +772,55 @@
   },
   "findings": [
     {
+      "title": "Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience",
+      "url": "https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-20T06:00:00+00:00",
+      "fetched_at": "2026-08-20T06:00:54+00:00",
+      "summary": "For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s National AI Action Plan 2026-2030, also known as AI Nation 2030, places these pressures at the heart […] The post Malaysia’s AI Nation 2030 puts cities and far…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Southeast Asia",
+        "Watchgraph:storms_floods_weather"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "watchgraph_reasons": [
+        "storms_floods_weather: flood"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "299894c592d97376a42b"
+    },
+    {
       "title": "M 5.7 - 32 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1413,25 +1511,53 @@
   ],
   "new_findings": [
     {
-      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす",
-      "url": "https://togetter.com/li/2735209",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience",
+      "url": "https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-20T04:34:02+00:00",
-      "fetched_at": "2026-08-20T05:50:23+00:00",
-      "summary": "松浦勝人 @maxmatsuuratwit 1週間前、AIが僕の指令で、noteのアカウントをAIが自分で作って、最初の記事を自動投稿しました。 冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらい。 そこから1週間で、4本出ました。 第1回は、お金の話。100万円でも100億円でも、なくなる時は一瞬だという...",
+      "published_at": "2026-08-20T06:00:00+00:00",
+      "fetched_at": "2026-08-20T06:00:54+00:00",
+      "summary": "For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s National AI Action Plan 2026-2030, also known as AI Nation 2030, places these pressures at the heart […] The post Malaysia’s AI Nation 2030 puts cities and far…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Southeast Asia",
+        "Watchgraph:storms_floods_weather"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e418c3cd30dc987b38d"
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules storms_floods_weather (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "watchgraph_reasons": [
+        "storms_floods_weather: flood"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "299894c592d97376a42b"
     }
   ],
   "source_errors": [],

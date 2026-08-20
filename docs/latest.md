@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T05:50:50+00:00_
+_Generiert: 2026-08-20T06:01:26+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+26 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience** — Score 20, risk — [Quelle](https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-20T06:00:00+00:00`, fetched `2026-08-20T06:00:54+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, Southeast Asia, Watchgraph:storms_floods_weather
+  - Watchgraph: storms_floods_weather
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, XOM, CVX
+  - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules storms_floods_weather (+3.0)
+  - Kurz: For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s National AI Action Plan 2026-2030, also known as AI Nation 2030, places these pressures at the heart […] The post Malaysia’s AI Nation 2030 puts cities and far…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - 32 km NNE of Ruteng, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T03:12:09.708+00:00`, fetched `2026-08-20T03:17:46+00:00`

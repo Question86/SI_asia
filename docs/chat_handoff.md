@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T05:50:50+00:00_
+_Generated: 2026-08-20T06:01:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
-### 1. M 5.7 - 32 km NNE of Ruteng, Indonesia
+### 1. Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience
+- source: e27 Asia Startup and Tech Feed
+- score: `20`
+- published: `2026-08-20T06:00:00+00:00`
+- url: https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/
+- summary: For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s…
+
+### 2. M 5.7 - 32 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-08-20T03:12:09.708+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j
 - summary: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)
 
-### 2. Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call
+### 3. Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-08-20T04:06:26+00:00`
 - url: https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/
 - summary: Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest…
 
-### 3. Singapore tightens scam rules for messaging, social media and e-commerce platforms
+### 4. Singapore tightens scam rules for messaging, social media and e-commerce platforms
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-20T02:37:02+00:00`
 - url: https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/
 - summary: Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of…
-
-### 4. M 4.6 - 71 km N of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-20T05:18:39.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22
-- summary: Time 2026-08-20 04:33:23 UTC 2026-08-20 04:33:23 UTC at epicenter Location 7.970°S 120.392°E Depth 10.00 km (6.21 mi)
 
 ### 5. The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam
 - source: e27 Asia Startup and Tech Feed
