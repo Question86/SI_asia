@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T12:51:06+00:00_
+_Generiert: 2026-08-20T13:13:06+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+61 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -258,7 +258,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f1f94da28d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
