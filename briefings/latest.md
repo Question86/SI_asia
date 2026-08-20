@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T07:29:04+00:00_
+_Generiert: 2026-08-20T08:03:40+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+34 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -250,6 +250,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Cisco-Sicherheitslücken: Angreifer können Anmeldung von Secure Workload umgehen** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-Sicherheitsluecken-Angreifer-koennen-Anmeldung-von-Secure-Workload-umgehen-11419989.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-20T07:41:00.000+00:00`, fetched `2026-08-20T08:03:10+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Es sind wichtige Sicherheitsupdates für unter anderem Cisco BroadWorks, Crosswork Security und Secure Workload erschienen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **数学をやめたはずが、AIと論文を書いていた。** — Score 7, observation — [Quelle](https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
