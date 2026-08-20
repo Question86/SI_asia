@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T01:38:33+00:00_
+_Generiert: 2026-08-20T02:08:13+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „RDK-BのWebUにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+7 neue relevante Treffer. Stärkstes Signal: „RDK-BのWebUにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
