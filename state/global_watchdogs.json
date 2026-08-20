@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:48:04+00:00",
+  "generated_at": "2026-08-20T19:06:23+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,15 +65,15 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.7 - 38 km NW of Upahuacho, Peru",
-        "summary": "M6.7 - 38 km NW of Upahuacho, Peru. PAGER alert: green. Tsunami flag: 0.",
+        "title": "USGS earthquake M6.7 - 31 km NW of Aniso, Peru",
+        "summary": "M6.7 - 31 km NW of Aniso, Peru. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81",
-        "published_at": "2026-08-20T18:00:15+00:00",
+        "published_at": "2026-08-20T18:00:18+00:00",
         "metrics": {
           "mag": 6.7,
           "alert": "green",
-          "sig": 708.0,
+          "sig": 712.0,
           "tsunami": 0
         }
       },
@@ -90,8 +90,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 6.7M, Depth:66.665km) in Peru 20/08/2026 18:00 UTC, 1 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 6.7M, Depth:66.665km) in Peru 20/08/2026 18:00 UTC, 1 thousand in MMI VI.",
+        "title": "GDACS: Green earthquake (Magnitude 6.7M, Depth:99km) in Peru 20/08/2026 18:00 UTC, 10 thousand in MMI&gt;=V.",
+        "summary": "Green earthquake (Magnitude 6.7M, Depth:99km) in Peru 20/08/2026 18:00 UTC, 10 thousand in MMI&gt;=V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560738",
         "published_at": "",
@@ -134,16 +134,6 @@
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560289",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992",
         "published_at": "",
         "metrics": {}
       },

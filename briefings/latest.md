@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T18:48:02+00:00_
+_Generiert: 2026-08-20T19:06:21+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+79 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,18 +29,18 @@ _Generiert: 2026-08-20T18:48:02+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Broadcom VMware vCenter Path Traversal Vulnerability
-- **USGS earthquake M6.7 - 38 km NW of Upahuacho, Peru** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81)
+- **USGS earthquake M6.7 - 31 km NW of Aniso, Peru** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81)
   - Quelle: USGS
-  - Zeit: `2026-08-20T18:00:15+00:00`
-  - Kurz: M6.7 - 38 km NW of Upahuacho, Peru. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-08-20T18:00:18+00:00`
+  - Kurz: M6.7 - 31 km NW of Aniso, Peru. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 20/08/2026 18:12 UTC, 50 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560739)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 20/08/2026 18:12 UTC, 50 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 6.7M, Depth:66.665km) in Peru 20/08/2026 18:00 UTC, 1 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560738)
+- **GDACS: Green earthquake (Magnitude 6.7M, Depth:99km) in Peru 20/08/2026 18:00 UTC, 10 thousand in MMI&gt;=V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560738)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.7M, Depth:66.665km) in Peru 20/08/2026 18:00 UTC, 1 thousand in MMI VI.
+  - Kurz: Green earthquake (Magnitude 6.7M, Depth:99km) in Peru 20/08/2026 18:00 UTC, 10 thousand in MMI&gt;=V.
 - **GDACS: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001306)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +57,6 @@ _Generiert: 2026-08-20T18:48:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559992)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.
 - **USGS earthquake M5.6 - 67 km NNW of Ende, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h)
   - Quelle: USGS
   - Zeit: `2026-08-20T18:12:51+00:00`
