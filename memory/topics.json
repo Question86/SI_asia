@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T04:56:37+00:00",
+  "generated_at": "2026-08-20T05:10:15+00:00",
   "topics": {
     "general": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-08-20T03:15:43.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l"
+      },
+      {
+        "title": "M 4.7 - 85 km S of Antofagasta, Chile",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-20T05:07:57.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25"
       },
       {
         "title": "M 4.7 - 81 km W of San Antonio de los Cobres, Argentina",
@@ -120,6 +127,13 @@
       }
     ],
     "security": [
+      {
+        "title": "複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-20T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU91609598/"
+      },
       {
         "title": "RDK-BのWebUにおける複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",

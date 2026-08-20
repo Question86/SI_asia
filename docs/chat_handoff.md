@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T04:56:37+00:00_
+_Generated: 2026-08-20T05:10:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-20T04:56:37+00:00_
 - url: https://e27.co/the-silent-migration-why-top-sea-startups-are-quietly-building-core-rd-hubs-in-vietnam-20260817/
 - summary: A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As vent…
 
-### 6. M 4.7 - 81 km W of San Antonio de los Cobres, Argentina
+### 6. M 4.7 - 85 km S of Antofagasta, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-20T05:07:57.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25
+- summary: Time 2026-08-20 04:52:51 UTC 2026-08-20 04:52:51 UTC at epicenter Location 24.419°S 70.464°W Depth 35.28 km (21.92 mi)
+
+### 7. M 4.7 - 81 km W of San Antonio de los Cobres, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-20T03:24:10.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m
 - summary: Time 2026-08-20 03:09:06 UTC 2026-08-20 03:09:06 UTC at epicenter Location 24.337°S 67.115°W Depth 166.71 km (103.59 mi)
 
-### 7. Investors aren’t ghosting you, they’re reading you
+### 8. Investors aren’t ghosting you, they’re reading you
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-20T01:30:44+00:00`
 - url: https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/
 - summary: Every morning, the same message arrives. “Hi David, hope you’re doing well. Can I ask you something quick?” No context. No deck. Sometimes no name. By evening there are three more, each slightly more urgent than the last, culminating in calendar invites for m…
-
-### 8. M 5.0 - 87 km S of Isangel, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-20T00:42:16.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16
-- summary: Time 2026-08-20 00:20:24 UTC 2026-08-20 00:20:24 UTC at epicenter Location 20.324°S 169.151°E Depth 72.95 km (45.33 mi)
 
 END OF DOCUMENT

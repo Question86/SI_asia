@@ -118,6 +118,28 @@
     "id": "c386e099a2c6e80e2730"
   },
   {
+    "title": "複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題",
+    "url": "https://jvn.jp/vu/JVNVU91609598/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-20T14:00:00+09:00",
+    "fetched_at": "2026-08-20T05:09:42+00:00",
+    "summary": "セイコーエプソン株式会社が提供する複数のプリンターおよびスキャナーには、失効したルート証明書が残存しています。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b90313cccac155d1482d"
+  },
+  {
     "title": "RDK-BのWebUにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU91551881/",
     "source": "JVN Japan Vulnerability Notes",
@@ -181,6 +203,42 @@
       "EWZ"
     ],
     "id": "75bbaf75e84c939f7140"
+  },
+  {
+    "title": "M 4.7 - 85 km S of Antofagasta, Chile",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-20T05:07:57.040+00:00",
+    "fetched_at": "2026-08-20T05:09:42+00:00",
+    "summary": "Time 2026-08-20 04:52:51 UTC 2026-08-20 04:52:51 UTC at epicenter Location 24.419°S 70.464°W Depth 35.28 km (21.92 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "12e773c9a0433504107a"
   },
   {
     "title": "M 4.7 - 81 km W of San Antonio de los Cobres, Argentina",
