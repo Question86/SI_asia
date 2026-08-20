@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T14:56:15+00:00",
-  "run_id": "2026-08-20T14:56:15+00:00",
+  "generated_at": "2026-08-20T15:10:09+00:00",
+  "run_id": "2026-08-20T15:10:09+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 2,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
-    "medium": 33,
-    "observe": 36,
+    "medium": 34,
+    "observe": 37,
     "source_errors": 0
   },
   "sections": {
@@ -77,6 +77,29 @@
           "URA"
         ],
         "id": "299894c592d97376a42b"
+      },
+      {
+        "title": "Separate GitHub Actions path for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-20T14:29:27+00:00",
+        "fetched_at": "2026-08-20T15:09:38+00:00",
+        "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart… The post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Actions",
+          "CodeQL/Dependabot",
+          "GitHub",
+          "GitHub Actions"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "GitHub Actions (+6.2); CodeQL/Dependabot (+7.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c951acf2d9214b4b4b5"
       },
       {
         "title": "M 5.7 - 32 km NNE of Ruteng, Indonesia",
@@ -1799,6 +1822,26 @@
         "id": "a018ce1352ab9bcf91e0"
       },
       {
+        "title": "Track GitHub Code Quality enablement changes in the audit log",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-20T14:28:41+00:00",
+        "fetched_at": "2026-08-20T15:09:38+00:00",
+        "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when… The post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "53091fdba5e666212171"
+      },
+      {
         "title": "はてなパークス",
         "url": "https://p.hatena.ne.jp/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1870,6 +1913,29 @@
         "URA"
       ],
       "id": "299894c592d97376a42b"
+    },
+    {
+      "title": "Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-20T14:29:27+00:00",
+      "fetched_at": "2026-08-20T15:09:38+00:00",
+      "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart… The post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "CodeQL/Dependabot",
+        "GitHub",
+        "GitHub Actions"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "GitHub Actions (+6.2); CodeQL/Dependabot (+7.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c951acf2d9214b4b4b5"
     },
     {
       "title": "M 5.7 - 32 km NNE of Ruteng, Indonesia",
@@ -3590,6 +3656,26 @@
       "id": "a018ce1352ab9bcf91e0"
     },
     {
+      "title": "Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-20T14:28:41+00:00",
+      "fetched_at": "2026-08-20T15:09:38+00:00",
+      "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when… The post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53091fdba5e666212171"
+    },
+    {
       "title": "はてなパークス",
       "url": "https://p.hatena.ne.jp/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3611,7 +3697,51 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-20T14:29:27+00:00",
+      "fetched_at": "2026-08-20T15:09:38+00:00",
+      "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart… The post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Actions",
+        "CodeQL/Dependabot",
+        "GitHub",
+        "GitHub Actions"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "GitHub Actions (+6.2); CodeQL/Dependabot (+7.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c951acf2d9214b4b4b5"
+    },
+    {
+      "title": "Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-20T14:28:41+00:00",
+      "fetched_at": "2026-08-20T15:09:38+00:00",
+      "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when… The post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53091fdba5e666212171"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

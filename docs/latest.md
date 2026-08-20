@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T14:56:15+00:00_
+_Generiert: 2026-08-20T15:10:09+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+71 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules storms_floods_weather (+3.0)
   - Kurz: For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s National AI Action Plan 2026-2030, also known as AI Nation 2030, places these pressures at the heart […] The post Malaysia’s AI Nation 2030 puts cities and far…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Separate GitHub Actions path for GitHub Code Quality** — Score 19, observation — [Quelle](https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-20T14:29:27+00:00`, fetched `2026-08-20T15:09:38+00:00`
+  - Treffer: Actions, CodeQL/Dependabot, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); CodeQL/Dependabot (+7.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart… The post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.7 - 32 km NNE of Ruteng, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T03:12:09.708+00:00`, fetched `2026-08-20T03:17:46+00:00`

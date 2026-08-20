@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T14:56:15+00:00",
+  "generated_at": "2026-08-20T15:10:09+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-08-20T06:00:00+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/"
+      },
+      {
+        "title": "Separate GitHub Actions path for GitHub Code Quality",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:29:27+00:00",
+        "relevance_score": 19,
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
       },
       {
         "title": "Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-19T13:47:18+00:00",
         "relevance_score": 8,
         "url": "https://gigazine.net/news/20260819-cerebras-cs-4/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans les produits Netgate (14 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-14T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1022/"
       }
     ],
     "geopolitics": [
@@ -145,6 +145,59 @@
         "published_at": "2026-08-20T10:16:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
+      }
+    ],
+    "github": [
+      {
+        "title": "Separate GitHub Actions path for GitHub Code Quality",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:29:27+00:00",
+        "relevance_score": 19,
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
+      },
+      {
+        "title": "数学をやめたはずが、AIと論文を書いていた。",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-19T23:53:51+00:00",
+        "relevance_score": 7,
+        "url": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html"
+      },
+      {
+        "title": "Track GitHub Code Quality enablement changes in the audit log",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:28:41+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Separate GitHub Actions path for GitHub Code Quality",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:29:27+00:00",
+        "relevance_score": 19,
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
+      },
+      {
+        "title": "The hidden cost of treating AI as software instead of organisation capability",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T06:49:02+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/"
+      },
+      {
+        "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T05:34:46+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/"
+      },
+      {
+        "title": "Buddy Bites nets US$4.2M Series A to expand beyond dog food",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T11:53:50+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/buddy-bites-nets-us4-2m-series-a-to-expand-beyond-dog-food-20260820/"
       }
     ],
     "general": [
@@ -289,38 +342,6 @@
         "published_at": "2026-08-20T10:36:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897"
-      }
-    ],
-    "economy": [
-      {
-        "title": "The hidden cost of treating AI as software instead of organisation capability",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T06:49:02+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/"
-      },
-      {
-        "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T05:34:46+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/"
-      },
-      {
-        "title": "Buddy Bites nets US$4.2M Series A to expand beyond dog food",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T11:53:50+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/buddy-bites-nets-us4-2m-series-a-to-expand-beyond-dog-food-20260820/"
-      }
-    ],
-    "github": [
-      {
-        "title": "数学をやめたはずが、AIと論文を書いていた。",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-19T23:53:51+00:00",
-        "relevance_score": 7,
-        "url": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html"
       }
     ]
   }
