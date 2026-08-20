@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-20T01:28:35Z",
+  "generated_at": "2026-08-20T02:03:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “RDK-BのWebUにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T10:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 61.98,
+      "age_days": 62.0,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T00:42:16.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -88,11 +88,35 @@
       "summary": "Time 2026-08-20 00:20:24 UTC 2026-08-20 00:20:24 UTC at epicenter Location 20.324°S 169.151°E Depth 72.95 km (45.33 mi)"
     },
     {
+      "title": "Investors aren’t ghosting you, they’re reading you",
+      "url": "https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-20T01:30:44+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Every morning, the same message arrives. “Hi David, hope you’re doing well. Can I ask you something quick?” No context. No deck. Sometimes no name. By evening there are three more, each slightly more urgent than the last, culminating in calendar invites for meetings nobody agreed to. The answer is always the same: I’m…"
+    },
+    {
       "title": "さくらインターネットへの不正アクセスについてまとめてみた - piyolog",
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T21:37:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -116,7 +140,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 60.94,
+      "age_days": 60.97,
       "topics": [
         "general"
       ],
@@ -132,7 +156,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 60.9d old signal"
+        "aging penalty -16.0 for 61.0d old signal"
       ],
       "summary": ""
     },
@@ -141,7 +165,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 60.94,
+      "age_days": 60.97,
       "topics": [
         "general"
       ],
@@ -157,7 +181,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 60.9d old signal"
+        "aging penalty -16.0 for 61.0d old signal"
       ],
       "summary": ""
     },
@@ -166,7 +190,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 60.94,
+      "age_days": 60.97,
       "topics": [
         "ai"
       ],
@@ -183,17 +207,42 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 60.9d old signal",
+        "aging penalty -16.0 for 61.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで",
+      "url": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-19T13:53:08+00:00",
+      "age_days": 0.51,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Nous Researchが開発する「Hermes Agent」は、実際にAIモデルを作成する中で具体的にどういう機能がAIエージェントに求められているのか？という視点から、単なるチャットではなく「ターミナルでの操作」を前提に開発されており、ウェブ検索・ブラウザ操作・ファイル操作など複数のツールを組み合わせながらタスクを進め..."
     },
     {
       "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
       "url": "https://gigazine.net/news/20260819-cerebras-cs-4/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T13:47:18+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -225,7 +274,7 @@
     "bands_after_gate_recheck": {
       "strong": 2,
       "watch": 1,
-      "quiet": 5
+      "quiet": 7
     }
   }
 }
