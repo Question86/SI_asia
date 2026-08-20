@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T23:35:07+00:00",
-  "run_id": "2026-08-20T23:35:07+00:00",
+  "generated_at": "2026-08-20T23:45:44+00:00",
+  "run_id": "2026-08-20T23:45:44+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4721,30 +4721,7 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [
-    {
-      "title": "グーグル、大学生に向け「AI Plus」を1年間無料提供",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134153.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-20T08:20:10+00:00",
-      "fetched_at": "2026-08-20T23:34:37+00:00",
-      "summary": "グーグル、大学生に向け「AI Plus」を1年間無料提供",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "251fa4de8dd0e96a7875"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
