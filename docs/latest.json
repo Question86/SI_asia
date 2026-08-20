@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T14:39:09+00:00",
-  "run_id": "2026-08-20T14:39:09+00:00",
+  "generated_at": "2026-08-20T14:56:15+00:00",
+  "run_id": "2026-08-20T14:56:15+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3611,29 +3611,7 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [
-    {
-      "title": "アマゾンに新機能「購入して配送に追加」 購入手続きが不要に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2134299.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-20T09:25:23+00:00",
-      "fetched_at": "2026-08-20T14:38:38+00:00",
-      "summary": "アマゾンに新機能「購入して配送に追加」 購入手続きが不要に",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ab687966163c6b3258a0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
