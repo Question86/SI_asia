@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T21:38:58+00:00_
+_Generiert: 2026-08-20T21:50:58+00:00_
 
 ## Kurzlage
 
@@ -41,6 +41,10 @@ _Generiert: 2026-08-20T21:38:58+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.7M, Depth:99km) in Peru 20/08/2026 18:00 UTC, 10 thousand in MMI&gt;=V.
+- **GDACS: Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001307)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001306)
   - Quelle: GDACS
   - Zeit: ``
