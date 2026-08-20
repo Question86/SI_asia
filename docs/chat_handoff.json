@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-19T23:59:21+00:00",
+  "generated_at": "2026-08-20T00:20:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 104,
-    "displayed_findings": 104,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 48,
-    "observe": 56
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "さくらインターネットへの不正アクセスについてまとめてみた - piyolog",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-19T07:01:05+00:00",
-      "relevance_score": 23,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2899",
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
-      "section": "medium"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Stormshield Network Security (14 août 2026)",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "relevance_score": 22,
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1021/",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité d…",
-      "section": "medium"
-    },
-    {
-      "title": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-19T21:09:30+00:00",
-      "relevance_score": 21,
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "summary": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps… The post CodeQL 2.26.3 improves GitHub Actions queri…",
-      "section": "medium"
-    },
-    {
-      "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-19T08:00:25+00:00",
-      "relevance_score": 21,
-      "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
-      "summary": "Southeast Asia’s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region’s next big travel wins won’t come from another flight-and-hotel search engine, but from the unglamorous plumbing around it…",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.4 - 215 km E of Levuka, Fiji",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-19T19:12:06.328+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlz8",
-      "summary": "PAGER - GREEN ShakeMap - II Time 2026-08-19 18:45:29 UTC 2026-08-19 18:45:29 UTC at epicenter Location 17.805°S 178.664°W Depth 556.75 km (345.95 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Euro area monthly balance of payments: June 2026",
-      "source": "ECB Statistical Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-08-19T08:00:00+00:00",
-      "relevance_score": 13,
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260819~df1712eb4a.en.html",
-      "summary": "Euro area monthly balance of payments: June 2026",
-      "section": "observe"
-    },
-    {
-      "title": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-08-19T08:15:21+00:00",
-      "relevance_score": 12,
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260073.en.html",
-      "summary": "Announcing 20260073 (OT,liquidity providing), for 7 days deadline 09:45",
-      "section": "observe"
-    },
-    {
-      "title": "Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-19T03:10:25+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/",
-      "summary": "Southeast Asia’s artificial intelligence race is often framed as a contest over data centres, chips and cloud infrastructure. That is only half the story. The harder asset to build — and the easier one to lose — is talent. Malaysia’s National AI Action Plan 2…",
+      "published_at": "2026-08-19T21:37:29+00:00",
+      "relevance_score": 5,
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
+      "summary": "2026年8月17日、さくらインターネット株式会社は、同社が提供する「さくらのレンタルサーバ」の一部が不正アクセスの被害にあったことを公表しました。その後、2026年8月19日には、顧客の契約情報等を管理する別のシステムでも不正アクセスの可能性が判明し、影響が会員登録している顧客に及ぶ可能性があることも明らか...",
       "section": "observe"
     }
   ],
@@ -100,145 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “volcengine/OpenViking” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=34.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "volcengine/OpenViking",
-        "url": "https://github.com/volcengine/OpenViking",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-19T02:36:50+00:00",
-        "age_days": 0.89,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 34.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. https://openviking.ai/ OpenViking: The Context Database for AI Agents English / 中文 / 日本語 Website · Live Demo · GitHub · Issues · Docs 👋 Join our Community 📱 Lark Group · WeChat · Discord · X What is OpenViking OpenViking is an…"
-      },
-      {
-        "title": "[NEU] [mittel] Nvidia Cumulus Linux: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2922",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T11:16:05+00:00",
-        "age_days": 0.53,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Nvidia Cumulus Linux ausnutzen, um seine Privilegien zu erhöhen und um Code auszuführen."
-      },
-      {
-        "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
-        "url": "https://cert.europa.eu/publications/security-advisories/2026-010/",
-        "source": "CERT-EU Security Advisories",
-        "published_at": "2026-08-19T18:13:47+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: critical, code, 10",
-          "security high-signal: critical, code, 10, citrix"
-        ],
-        "summary": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway). CERT-EU recommends updating affected devices as soon as possible."
-      },
-      {
-        "title": "chaitanyagiri/munder-difflin",
-        "url": "https://github.com/chaitanyagiri/munder-difflin",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-19T02:36:50+00:00",
-        "age_days": 0.89,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: local",
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "local multi-agent harness https://munderdiffl.in Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one…"
-      },
-      {
-        "title": "[NEU] [hoch] Joomla: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2926",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-19T11:36:06+00:00",
-        "age_days": 0.52,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Joomla ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen."
-      }
-    ]
-  }
+  ]
 }
