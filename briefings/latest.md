@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T02:34:35+00:00_
+_Generiert: 2026-08-20T02:57:03+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „RDK-BのWebUにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+11 neue relevante Treffer. Stärkstes Signal: „Singapore tightens scam rules for messaging, social media and e-commerce platforms“ aus e27 Asia Startup and Tech Feed (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Singapore tightens scam rules for messaging, social media and e-commerce platforms** — Score 16, risk — [Quelle](https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-20T02:37:02+00:00`, fetched `2026-08-20T02:56:34+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms to take stronger steps […] The post Singapore tightens scam rules for messaging, social media and e…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **RDK-BのWebUにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91551881/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-20T10:00:00+09:00`, fetched `2026-08-20T01:02:27+00:00`
