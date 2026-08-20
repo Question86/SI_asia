@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T03:35:08+00:00_
+_Generiert: 2026-08-20T03:54:39+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-08-20T03:35:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 310 thousand in MMI IV.
-- **USGS earthquake M5.7 - 32 km NNE of Ruteng, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j)
-  - Quelle: USGS
-  - Zeit: `2026-08-20T02:46:59+00:00`
-  - Kurz: M5.7 - 32 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -170,6 +166,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **数学をやめたはずが、AIと論文を書いていた。** — Score 7, observation — [Quelle](https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-19T23:53:51+00:00`, fetched `2026-08-20T03:54:08+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 榎本悠久English version ポスドクの期限が切れた2024年3月に数学のアカデミアを離れてから、だいたい2年半ぐらい経つ。もう数学の論文を書くことはないと思っていたが、結局なぜか先日、論文をarXivへ投稿した。 この論文はいま流行りのAIと私との共同研究（？）であり、論文の本文もほぼAIが書いた文だ。だが、これは...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your founder brand could add or subtract US$500K to US$1M before you walk into a room: Here’s how** — Score 6, observation — [Quelle](https://e27.co/your-founder-brand-could-add-or-subtract-us500k-to-us1m-before-you-walk-into-a-room-heres-how-20260816/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T02:30:05+00:00`, fetched `2026-08-20T02:34:04+00:00`
@@ -178,15 +183,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: Most founders I speak to are surprised by this: your founder brand could add – or subtract – up to US$1M from your valuation before you walk into the room. Not because investors are tracking your follower count or how often you post. But because at the earliest stages of fundraising, they don’t have much […] The post Your founder brand could add or subtract US$500K to US$1M before you walk into a room: Here’s how ap…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませてそのまんま出力してるのがヤバい「それ、各店舗長向けの資料だからｗ」** — Score 5, observation — [Quelle](https://togetter.com/li/2735168)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-20T00:57:13+00:00`, fetched `2026-08-20T02:34:04+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませてそのまんま出力してるのがヤバい「それ、各店舗長向けの資料だからｗ」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

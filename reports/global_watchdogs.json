@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:35:11+00:00",
+  "generated_at": "2026-08-20T03:54:42+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559720",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 32 km NNE of Ruteng, Indonesia",
-        "summary": "M5.7 - 32 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
-        "published_at": "2026-08-20T02:46:59+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
