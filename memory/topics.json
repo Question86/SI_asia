@@ -1,15 +1,40 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T00:38:06+00:00",
+  "generated_at": "2026-08-20T01:03:00+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "RDK-BのWebUにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-20T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU91551881/"
+      }
+    ],
     "general": [
+      {
+        "title": "M 5.0 - 87 km S of Isangel, Vanuatu",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-20T00:42:16.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16"
+      },
       {
         "title": "さくらインターネットへの不正アクセスについてまとめてみた - piyolog",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-19T21:37:29+00:00",
         "relevance_score": 5,
         "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850"
+      }
+    ],
+    "ai": [
+      {
+        "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-19T13:47:18+00:00",
+        "relevance_score": 8,
+        "url": "https://gigazine.net/news/20260819-cerebras-cs-4/"
       }
     ]
   }
