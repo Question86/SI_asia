@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T09:50:38+00:00_
+_Generiert: 2026-08-20T10:03:33+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+46 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -84,6 +84,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] bluez: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2905)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-20T09:59:01+00:00`, fetched `2026-08-20T10:03:04+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer in Bluetooth-Reichweite kann eine Schwachstelle in bluez ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2911)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-20T09:59:01+00:00`, fetched `2026-08-20T10:03:04+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Firefox ESR und Thunderbird ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Spoofing- oder Clickjacking-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-20T06:16:06+00:00`, fetched `2026-08-20T06:31:22+00:00`
@@ -92,24 +110,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] docker: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2111)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-20T06:16:05+00:00`, fetched `2026-08-20T06:31:22+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in docker ausnutzen, um einen Denial of Service Angriff durchzuführen oder Sicherheitsmaßnahmen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Snipe-IT: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-20T06:16:05+00:00`, fetched `2026-08-20T06:31:22+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Snipe-IT ausnutzen, um Dateien zu manipulieren, um Sicherheitsvorkehrungen zu umgehen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Citrix stopft kritische Anmeldungsumgehung in Netscaler ADC und Gateway** — Score 7, observation — [Quelle](https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-20T09:53:00.000+00:00`, fetched `2026-08-20T10:03:04+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In Netscaler ADC und Gateway von Citrix können Angreifer mehrere Lücken missbrauchen. Sie können etwa unbefugt Zugriff erlangen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Angriffsversuche auf GitLab-Lücke beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-20T09:41:00.000+00:00`, fetched `2026-08-20T09:50:06+00:00`
@@ -230,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 法制事務デジタル化・法令等データ利活用促進について調査・実証／技術検証における令和7年度資料を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”** — Score 5, observation — [Quelle](https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-20T10:00:00+00:00`, fetched `2026-08-20T10:03:04+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); recent (+1.0)
+  - Kurz: Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
