@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T21:25:36+00:00",
-  "run_id": "2026-08-20T21:25:36+00:00",
+  "generated_at": "2026-08-20T21:38:58+00:00",
+  "run_id": "2026-08-20T21:38:58+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 40,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -2058,6 +2058,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ab687966163c6b3258a0"
+      },
+      {
+        "title": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2134059.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-20T08:36:10+00:00",
+        "fetched_at": "2026-08-20T21:38:28+00:00",
+        "summary": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "42b64252def664178dbc"
       },
       {
         "title": "はてな、創業25周年を迎えた節目に新サービス「はてなパークス」を正式リリース - プレスリリース - 株式会社はてな",
@@ -4300,6 +4321,27 @@
       "id": "ab687966163c6b3258a0"
     },
     {
+      "title": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2134059.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T08:36:10+00:00",
+      "fetched_at": "2026-08-20T21:38:28+00:00",
+      "summary": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "42b64252def664178dbc"
+    },
+    {
       "title": "はてな、創業25周年を迎えた節目に新サービス「はてなパークス」を正式リリース - プレスリリース - 株式会社はてな",
       "url": "https://hatena.co.jp/press/release/entry/2026/08/20/163000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4511,13 +4553,13 @@
   ],
   "new_findings": [
     {
-      "title": "現実的なセキュリティ体制の構築 限られたリソースの中で成果を最大化する「選択と集中」",
-      "url": "https://speakerdeck.com/demaecan/app-architecture-transformation",
+      "title": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2134059.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-20T16:33:11+00:00",
-      "fetched_at": "2026-08-20T21:25:02+00:00",
-      "summary": "Practical Tips for Bootstrapping Information Extraction Pipelines",
+      "published_at": "2026-08-20T08:36:10+00:00",
+      "fetched_at": "2026-08-20T21:38:28+00:00",
+      "summary": "「FastCopy」のシェル統合が強化、D&D・コピペで「エクスプローラー」の代わりに高速ファイル処理／「CET」「CFG」の有効化などによるセキュリティ強化も図られたv5.12.0が公開",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4529,7 +4571,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2aeded46d573cf00a84d"
+      "id": "42b64252def664178dbc"
     }
   ],
   "source_errors": [],
