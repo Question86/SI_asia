@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T20:10:42+00:00",
-  "run_id": "2026-08-20T20:10:42+00:00",
+  "generated_at": "2026-08-20T20:22:08+00:00",
+  "run_id": "2026-08-20T20:22:08+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 1,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 39,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1916,6 +1916,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2dc3984575d22c5ce8f7"
+      },
+      {
+        "title": "Bun 1.4",
+        "url": "https://bun.com/blog/bun-v1.4",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-20T14:17:24+00:00",
+        "fetched_at": "2026-08-20T20:21:37+00:00",
+        "summary": "Per-module pass counts from Bun’s vendored copy of Node’s test/parallel suite, Bun 1.3 → 1.4. The tick marks the 1.3 baseline.Bun is not 100% compatible with Node.js yet. In practice, much of the existing JavaScript ecosystem just works. You can more closely track Bun's Node.js test suite progres...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b2cb538b1e5a4a2d9d55"
       },
       {
         "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
@@ -4057,6 +4078,27 @@
       "id": "2dc3984575d22c5ce8f7"
     },
     {
+      "title": "Bun 1.4",
+      "url": "https://bun.com/blog/bun-v1.4",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T14:17:24+00:00",
+      "fetched_at": "2026-08-20T20:21:37+00:00",
+      "summary": "Per-module pass counts from Bun’s vendored copy of Node’s test/parallel suite, Bun 1.3 → 1.4. The tick marks the 1.3 baseline.Bun is not 100% compatible with Node.js yet. In practice, much of the existing JavaScript ecosystem just works. You can more closely track Bun's Node.js test suite progres...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b2cb538b1e5a4a2d9d55"
+    },
+    {
       "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
       "url": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -4307,7 +4349,29 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Bun 1.4",
+      "url": "https://bun.com/blog/bun-v1.4",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T14:17:24+00:00",
+      "fetched_at": "2026-08-20T20:21:37+00:00",
+      "summary": "Per-module pass counts from Bun’s vendored copy of Node’s test/parallel suite, Bun 1.3 → 1.4. The tick marks the 1.3 baseline.Bun is not 100% compatible with Node.js yet. In practice, much of the existing JavaScript ecosystem just works. You can more closely track Bun's Node.js test suite progres...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b2cb538b1e5a4a2d9d55"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
