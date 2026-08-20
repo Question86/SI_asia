@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T15:22:47+00:00_
+_Generated: 2026-08-20T15:38:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `72`
 
 ## Top Signals
 
-### 1. Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience
+### 1. Code scanning adds a mitigated alert dismissal reason
+- source: GitHub Changelog Atom
+- score: `21`
+- published: `2026-08-20T15:14:31+00:00`
+- url: https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason
+- summary: You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network… The post Code scanning adds a mitigated alert dismissal reason appeared first on…
+
+### 2. Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience
 - source: e27 Asia Startup and Tech Feed
 - score: `20`
 - published: `2026-08-20T06:00:00+00:00`
 - url: https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/
 - summary: For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s…
 
-### 2. Separate GitHub Actions path for GitHub Code Quality
+### 3. Separate GitHub Actions path for GitHub Code Quality
 - source: GitHub Changelog Atom
 - score: `19`
 - published: `2026-08-20T14:29:27+00:00`
 - url: https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality
 - summary: A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart… The post Separate GitHub Actions path for GitHub Code Quality app…
 
-### 3. M 5.7 - 32 km NNE of Ruteng, Indonesia
+### 4. M 5.7 - 32 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-08-20T03:12:09.708+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j
 - summary: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)
-
-### 4. Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-08-20T04:06:26+00:00`
-- url: https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/
-- summary: Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest…
 
 ### 5. The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam
 - source: e27 Asia Startup and Tech Feed

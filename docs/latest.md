@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T15:22:47+00:00_
+_Generiert: 2026-08-20T15:38:49+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Code scanning adds a mitigated alert dismissal reason** — Score 21, risk — [Quelle](https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-20T15:14:31+00:00`, fetched `2026-08-20T15:38:17+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); Webentwicklung (+3.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network… The post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience** — Score 20, risk — [Quelle](https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T06:00:00+00:00`, fetched `2026-08-20T06:00:54+00:00`

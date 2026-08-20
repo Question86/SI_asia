@@ -1,9 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T15:22:47+00:00",
+  "generated_at": "2026-08-20T15:38:49+00:00",
   "topics": {
     "ai": [
+      {
+        "title": "Code scanning adds a mitigated alert dismissal reason",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T15:14:31+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason"
+      },
       {
         "title": "Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience",
         "source": "e27 Asia Startup and Tech Feed",
@@ -66,13 +73,108 @@
         "published_at": "2026-08-19T13:53:08+00:00",
         "relevance_score": 8,
         "url": "https://gigazine.net/news/20260819-hermes-agent-first-use/"
+      }
+    ],
+    "security": [
+      {
+        "title": "Code scanning adds a mitigated alert dismissal reason",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T15:14:31+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason"
       },
       {
-        "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
+        "title": "[NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943"
+      },
+      {
+        "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Tenable Security Center (14 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-14T00:00:00+00:00",
+        "relevance_score": 16,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1023/"
+      },
+      {
+        "title": "Singapore Polytechnic launches CASTLE to help SMEs strengthen cyber defences",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T08:11:48+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/"
+      },
+      {
+        "title": "複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-20T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU91609598/"
+      },
+      {
+        "title": "[NEU] [hoch] MLflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:41:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2946"
+      },
+      {
+        "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:26:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945"
+      },
+      {
+        "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:06:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269"
+      },
+      {
+        "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:51:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2944"
+      }
+    ],
+    "github": [
+      {
+        "title": "Code scanning adds a mitigated alert dismissal reason",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T15:14:31+00:00",
+        "relevance_score": 21,
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason"
+      },
+      {
+        "title": "Separate GitHub Actions path for GitHub Code Quality",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:29:27+00:00",
+        "relevance_score": 19,
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
+      },
+      {
+        "title": "数学をやめたはずが、AIと論文を書いていた。",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-19T13:47:18+00:00",
-        "relevance_score": 8,
-        "url": "https://gigazine.net/news/20260819-cerebras-cs-4/"
+        "published_at": "2026-08-19T23:53:51+00:00",
+        "relevance_score": 7,
+        "url": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html"
+      },
+      {
+        "title": "Track GitHub Code Quality enablement changes in the audit log",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:28:41+00:00",
+        "relevance_score": 4,
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log"
       }
     ],
     "geopolitics": [
@@ -145,29 +247,6 @@
         "published_at": "2026-08-20T10:16:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
-      }
-    ],
-    "github": [
-      {
-        "title": "Separate GitHub Actions path for GitHub Code Quality",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-20T14:29:27+00:00",
-        "relevance_score": 19,
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
-      },
-      {
-        "title": "数学をやめたはずが、AIと論文を書いていた。",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-19T23:53:51+00:00",
-        "relevance_score": 7,
-        "url": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html"
-      },
-      {
-        "title": "Track GitHub Code Quality enablement changes in the audit log",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-20T14:28:41+00:00",
-        "relevance_score": 4,
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log"
       }
     ],
     "economy": [
@@ -270,78 +349,6 @@
         "published_at": "2026-08-20T05:07:57.040+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25"
-      }
-    ],
-    "security": [
-      {
-        "title": "[NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:36:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943"
-      },
-      {
-        "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:16:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938"
-      },
-      {
-        "title": "Multiples vulnérabilités dans Tenable Security Center (14 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-14T00:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1023/"
-      },
-      {
-        "title": "Singapore Polytechnic launches CASTLE to help SMEs strengthen cyber defences",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T08:11:48+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/"
-      },
-      {
-        "title": "複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-20T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU91609598/"
-      },
-      {
-        "title": "[NEU] [hoch] MLflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T11:41:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2946"
-      },
-      {
-        "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T11:26:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945"
-      },
-      {
-        "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T11:06:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269"
-      },
-      {
-        "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:51:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2944"
-      },
-      {
-        "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:36:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897"
       }
     ]
   }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T15:22:47+00:00_
+_Generiert: 2026-08-20T15:38:49+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-20T15:22:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability
+- **GDACS: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001306)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 20/08/2026 02:46 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560491)
   - Quelle: GDACS
   - Zeit: ``
@@ -53,10 +57,6 @@ _Generiert: 2026-08-20T15:22:47+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 310 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1559720)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/08/2026 05:02 UTC, 310 thousand in MMI IV.
 
 ## Wirtschaft global
 
@@ -73,6 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Code scanning adds a mitigated alert dismissal reason** — Score 21, risk — [Quelle](https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-20T15:14:31+00:00`, fetched `2026-08-20T15:38:17+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); Webentwicklung (+3.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network… The post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience** — Score 20, risk — [Quelle](https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T06:00:00+00:00`, fetched `2026-08-20T06:00:54+00:00`
