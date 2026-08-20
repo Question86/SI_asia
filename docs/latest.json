@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T22:49:13+00:00",
-  "run_id": "2026-08-20T22:49:13+00:00",
+  "generated_at": "2026-08-20T22:59:58+00:00",
+  "run_id": "2026-08-20T22:59:58+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4635,29 +4635,7 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ユーザーアカウント不要で「Logi Options+」と同じように各種設定ができるようになる「OpenLogi」",
-      "url": "https://gigazine.net/news/20260820-openlogi/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-20T11:27:16+00:00",
-      "fetched_at": "2026-08-20T22:48:43+00:00",
-      "summary": "ロジクールのマウスやキーボードは、「Logi Options+」という専用ソフトウェアと連携することでボタンに機能を割り当てたりショートカットを設定できたりします。そんなLogi Options+の代わりに、アカウント不要でマウスのボタン割り当てなどの設定をするための「ローカルファーストな代替案」として作成されたのが「Ope...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "70fc07e78c3e1d6e1862"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
