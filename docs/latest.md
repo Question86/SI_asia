@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T15:38:49+00:00_
+_Generiert: 2026-08-20T15:53:20+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+73 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As venture capital shifts from “growth at all costs” to “sustainable efficiency,” […] The post The silent migration: Why top SEA startups are quietly building core R&D…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How ChatGPT Work helps Stampli move ideas to market** — Score 12, observation — [Quelle](https://openai.com/index/stampli)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-20T00:00:00+00:00`, fetched `2026-08-20T15:52:48+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 270 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T10:07:09.040+00:00`, fetched `2026-08-20T10:14:11+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Es sind wichtige Sicherheitsupdates für unter anderem Cisco BroadWorks, Crosswork Security und Secure Workload erschienen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **数学をやめたはずが、AIと論文を書いていた。** — Score 7, observation — [Quelle](https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-19T23:53:51+00:00`, fetched `2026-08-20T03:54:08+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 榎本悠久English version ポスドクの期限が切れた2024年3月に数学のアカデミアを離れてから、だいたい2年半ぐらい経つ。もう数学の論文を書くことはないと思っていたが、結局なぜか先日、論文をarXivへ投稿した。 この論文はいま流行りのAIと私との共同研究（？）であり、論文の本文もほぼAIが書いた文だ。だが、これは...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
