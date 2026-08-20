@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T05:37:26+00:00",
-  "run_id": "2026-08-20T05:37:26+00:00",
+  "generated_at": "2026-08-20T05:50:50+00:00",
+  "run_id": "2026-08-20T05:50:50+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 24
+      "configured_public_sources_only": 25
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 1,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
     "medium": 10,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -613,6 +613,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2dc3984575d22c5ce8f7"
+      },
+      {
+        "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす",
+        "url": "https://togetter.com/li/2735209",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-20T04:34:02+00:00",
+        "fetched_at": "2026-08-20T05:50:23+00:00",
+        "summary": "松浦勝人 @maxmatsuuratwit 1週間前、AIが僕の指令で、noteのアカウントをAIが自分で作って、最初の記事を自動投稿しました。 冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらい。 そこから1週間で、4本出ました。 第1回は、お金の話。100万円でも100億円でも、なくなる時は一瞬だという...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7e418c3cd30dc987b38d"
       },
       {
         "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - レバテックLAB",
@@ -1285,6 +1306,27 @@
       "id": "2dc3984575d22c5ce8f7"
     },
     {
+      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす",
+      "url": "https://togetter.com/li/2735209",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T04:34:02+00:00",
+      "fetched_at": "2026-08-20T05:50:23+00:00",
+      "summary": "松浦勝人 @maxmatsuuratwit 1週間前、AIが僕の指令で、noteのアカウントをAIが自分で作って、最初の記事を自動投稿しました。 冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらい。 そこから1週間で、4本出ました。 第1回は、お金の話。100万円でも100億円でも、なくなる時は一瞬だという...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7e418c3cd30dc987b38d"
+    },
+    {
       "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - レバテックLAB",
       "url": "https://levtech.jp/media/detail_910/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1371,92 +1413,25 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす",
+      "url": "https://togetter.com/li/2735209",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-20T05:26:07+00:00",
-      "fetched_at": "2026-08-20T05:36:55+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+      "published_at": "2026-08-20T04:34:02+00:00",
+      "fetched_at": "2026-08-20T05:50:23+00:00",
+      "summary": "松浦勝人 @maxmatsuuratwit 1週間前、AIが僕の指令で、noteのアカウントをAIが自分で作って、最初の記事を自動投稿しました。 冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらい。 そこから1週間で、4本出ました。 第1回は、お金の話。100万円でも100億円でも、なくなる時は一瞬だという...",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bae5f95fde19b36e73e0"
-    },
-    {
-      "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-20T05:26:07+00:00",
-      "fetched_at": "2026-08-20T05:36:55+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen,um nicht näher spezifizierte Auswirkungen zu verursachen, potenziell beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4e3909b5b4836ad2e33c"
-    },
-    {
-      "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
-      "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-20T05:34:46+00:00",
-      "fetched_at": "2026-08-20T05:36:55+00:00",
-      "summary": "Cryptocurrency market capitalisation expanded 7.22 per cent to reach an impressive US$2.36T. This aggressive upward trajectory stems from a rare convergence of political validation and macroeconomic liquidity injections. I view this specific rally as a definitive structural transition for digital assets. We no longer observe a speculative niche asset class reacting solely to internal industry […] The post Bitcoin ga…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "7f12fece1aded0a4c46b"
+      "id": "7e418c3cd30dc987b38d"
     }
   ],
   "source_errors": [],
