@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-20T02:08:13+00:00",
+  "generated_at": "2026-08-20T02:34:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 3,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 1,
-    "observe": 6
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,16 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
+    },
+    {
+      "title": "The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-20T02:30:54+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/the-silent-migration-why-top-sea-startups-are-quietly-building-core-rd-hubs-in-vietnam-20260817/",
+      "summary": "A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As vent…",
+      "section": "observe"
     },
     {
       "title": "Investors aren’t ghosting you, they’re reading you",
@@ -52,16 +62,6 @@
       "relevance_score": 8,
       "url": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
       "summary": "Nous Researchが開発する「Hermes Agent」は、実際にAIモデルを作成する中で具体的にどういう機能がAIエージェントに求められているのか？という視点から、単なるチャットではなく「ターミナルでの操作」を前提に開発されており、ウェブ検索・ブラウザ操作・ファイル操作など複数のツールを組み合わせながらタスクを進め...",
-      "section": "observe"
-    },
-    {
-      "title": "GPUと比較して最大30倍高速にAIを動かすCerebrasの「CS-4」ラックスケールソリューションが登場",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-19T13:47:18+00:00",
-      "relevance_score": 8,
-      "url": "https://gigazine.net/news/20260819-cerebras-cs-4/",
-      "summary": "AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...",
       "section": "observe"
     }
   ],

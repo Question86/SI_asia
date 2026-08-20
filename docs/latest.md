@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T02:08:13+00:00_
+_Generiert: 2026-08-20T02:34:35+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „RDK-BのWebUにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+10 neue relevante Treffer. Stärkstes Signal: „RDK-BのWebUにおける複数の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam** — Score 12, observation — [Quelle](https://e27.co/the-silent-migration-why-top-sea-startups-are-quietly-building-core-rd-hubs-in-vietnam-20260817/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-20T02:30:54+00:00`, fetched `2026-08-20T02:34:04+00:00`
+  - Treffer: APAC Trend Radar, founder, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As venture capital shifts from “growth at all costs” to “sustainable efficiency,” […] The post The silent migration: Why top SEA startups are quietly building core R&D…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Investors aren’t ghosting you, they’re reading you** — Score 10, observation — [Quelle](https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T01:30:44+00:00`, fetched `2026-08-20T01:38:03+00:00`
@@ -60,14 +69,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **さくらインターネットへの不正アクセスについてまとめてみた - piyolog** — Score 5, observation — [Quelle](https://piyolog.hatenadiary.jp/entry/2026/08/20/023850)
+- **Your founder brand could add or subtract US$500K to US$1M before you walk into a room: Here’s how** — Score 6, observation — [Quelle](https://e27.co/your-founder-brand-could-add-or-subtract-us500k-to-us1m-before-you-walk-into-a-room-heres-how-20260816/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-20T02:30:05+00:00`, fetched `2026-08-20T02:34:04+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
+  - Kurz: Most founders I speak to are surprised by this: your founder brand could add – or subtract – up to US$1M from your valuation before you walk into the room. Not because investors are tracking your follower count or how often you post. But because at the earliest stages of fundraising, they don’t have much […] The post Your founder brand could add or subtract US$500K to US$1M before you walk into a room: Here’s how ap…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませてそのまんま出力してるのがヤバい「それ、各店舗長向けの資料だからｗ」** — Score 5, observation — [Quelle](https://togetter.com/li/2735168)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-19T21:37:29+00:00`, fetched `2026-08-20T00:20:03+00:00`
+  - Zeit: published `2026-08-20T00:57:13+00:00`, fetched `2026-08-20T02:34:04+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年8月17日、さくらインターネット株式会社は、同社が提供する「さくらのレンタルサーバ」の一部が不正アクセスの被害にあったことを公表しました。その後、2026年8月19日には、顧客の契約情報等を管理する別のシステムでも不正アクセスの可能性が判明し、影響が会員登録している顧客に及ぶ可能性があることも明らか...
+  - Kurz: セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませてそのまんま出力してるのがヤバい「それ、各店舗長向けの資料だからｗ」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
