@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T10:56:13+00:00",
+  "generated_at": "2026-08-20T11:16:19+00:00",
   "topics": {
     "ai": [
       {
@@ -249,6 +249,13 @@
         "url": "https://jvn.jp/vu/JVNVU91609598/"
       },
       {
+        "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:06:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269"
+      },
+      {
         "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-20T10:51:05+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-08-20T10:31:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940"
-      },
-      {
-        "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
       }
     ],
     "economy": [

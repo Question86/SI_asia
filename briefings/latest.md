@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T10:56:13+00:00_
+_Generiert: 2026-08-20T11:16:19+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+57 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-08-20T10:56:13+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability
-- **GDACS: Green flood alert in Brazil** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104106)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Brazil
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 20/08/2026 02:46 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560491)
   - Quelle: GDACS
   - Zeit: ``
@@ -158,14 +154,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: セイコーエプソン株式会社が提供する複数のプリンターおよびスキャナーには、失効したルート証明書が残存しています。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2944)
+- **[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-20T10:51:05+00:00`, fetched `2026-08-20T10:55:40+00:00`
+  - Zeit: published `2026-08-20T11:06:05+00:00`, fetched `2026-08-20T11:15:50+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen. Die Kombination der beiden Schwachstellen kann zur Ausführung von beliebigem Code führen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **RDK-BのWebUにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91551881/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
