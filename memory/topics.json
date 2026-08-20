@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T11:29:29+00:00",
+  "generated_at": "2026-08-20T11:42:16+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938"
       },
       {
+        "title": "[NEU] [hoch] MLflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:41:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2946"
+      },
+      {
+        "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:26:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945"
+      },
+      {
         "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-20T10:51:05+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-08-20T10:16:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
-      },
-      {
-        "title": "The hidden cost of treating AI as software instead of organisation capability",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T06:49:02+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/"
-      },
-      {
-        "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T05:34:46+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/"
       }
     ],
     "general": [
@@ -249,6 +249,20 @@
         "url": "https://jvn.jp/vu/JVNVU91609598/"
       },
       {
+        "title": "[NEU] [hoch] MLflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:41:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2946"
+      },
+      {
+        "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T11:26:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945"
+      },
+      {
         "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-20T11:06:05+00:00",
@@ -275,20 +289,6 @@
         "published_at": "2026-08-20T10:36:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942"
-      },
-      {
-        "title": "[NEU] [mittel] Arista EOS und WiFi Access Point: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:36:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2941"
-      },
-      {
-        "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T10:31:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940"
       }
     ],
     "economy": [
