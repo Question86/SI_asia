@@ -285,6 +285,75 @@
     "id": "2814c68044d0a63398ff"
   },
   {
+    "title": "[UPDATE] [mittel] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T06:16:06+00:00",
+    "fetched_at": "2026-08-20T06:31:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4be6acf083bda7412dfe"
+  },
+  {
+    "title": "[UPDATE] [mittel] docker: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2111",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T06:16:05+00:00",
+    "fetched_at": "2026-08-20T06:31:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in docker ausnutzen, um einen Denial of Service Angriff durchzuführen oder Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1953b54faf7c87c5cf2c"
+  },
+  {
+    "title": "[UPDATE] [mittel] Snipe-IT: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T06:16:05+00:00",
+    "fetched_at": "2026-08-20T06:31:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Snipe-IT ausnutzen, um Dateien zu manipulieren, um Sicherheitsvorkehrungen zu umgehen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "739a9d71462ccbaf489f"
+  },
+  {
     "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
     "source": "BSI CERT-Bund Security Advisories",
@@ -691,6 +760,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7e418c3cd30dc987b38d"
+  },
+  {
+    "title": "2026夏にアツかった日本個別株10選",
+    "url": "https://anond.hatelabo.jp/20260820124400",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-20T03:46:44+00:00",
+    "fetched_at": "2026-08-20T06:31:22+00:00",
+    "summary": "映画とかわからないけど増田は個別株トレードを嗜むから、2026の年初から夏までに話題を集めたり注目された銘柄を選んでみるわ。 セクター偏ってるかも知れんが勘弁な。当たり前だけど投資は自己責任で頼むぞ。 10選銘柄 社名と銘柄コードと年初来パフォーマンスを併記しておくわ。 1. キオクシア（285A：+362%） やはり...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "234a27cd280acc726a44"
   },
   {
     "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - レバテックLAB",
