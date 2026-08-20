@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T20:22:08+00:00_
+_Generiert: 2026-08-20T20:37:26+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+83 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **東京都が「Tokyo Map」公開 防災・暑さ対策・Wi-Fiマップを重ねて表示** — Score 11, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2134323.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-20T12:17:27+00:00`, fetched `2026-08-20T20:36:57+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: 東京都が「Tokyo Map」公開 防災・暑さ対策・Wi-Fiマップを重ねて表示
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - 270 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T10:07:09.040+00:00`, fetched `2026-08-20T10:14:11+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Netgate. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The August 17 outage, and the work ahead** — Score 7, observation — [Quelle](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-08-20T18:36:11+00:00`, fetched `2026-08-20T18:47:30+00:00`
-  - Treffer: APAC Trend Radar, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)
-  - Kurz: An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

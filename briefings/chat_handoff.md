@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T20:22:08+00:00_
+_Generated: 2026-08-20T20:37:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `83`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-20T20:22:08+00:00_
 - url: https://openai.com/index/stampli
 - summary: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.
 
-### 7. M 5.2 - 270 km SSE of Dunhuang, China
+### 7. 東京都が「Tokyo Map」公開 防災・暑さ対策・Wi-Fiマップを重ねて表示
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-20T12:17:27+00:00`
+- url: https://www.watch.impress.co.jp/docs/news/2134323.html
+- summary: 東京都が「Tokyo Map」公開 防災・暑さ対策・Wi-Fiマップを重ねて表示
+
+### 8. M 5.2 - 270 km SSE of Dunhuang, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-20T10:07:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y
 - summary: Time 2026-08-20 09:49:47 UTC 2026-08-20 09:49:47 UTC at epicenter Location 37.806°N 95.445°E Depth 10.00 km (6.21 mi)
-
-### 8. Introducing AI Futures
-- source: OpenAI News RSS
-- score: `11`
-- published: `2026-08-20T07:00:00+00:00`
-- url: https://openai.com/index/introducing-ai-futures
-- summary: Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
 
 END OF DOCUMENT

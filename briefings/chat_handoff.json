@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-20T20:22:08+00:00",
+  "generated_at": "2026-08-20T20:37:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 39,
-    "observe": 43
+    "observe": 44
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "東京都が「Tokyo Map」公開 防災・暑さ対策・Wi-Fiマップを重ねて表示",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T12:17:27+00:00",
+      "relevance_score": 11,
+      "url": "https://www.watch.impress.co.jp/docs/news/2134323.html",
+      "summary": "東京都が「Tokyo Map」公開 防災・暑さ対策・Wi-Fiマップを重ねて表示",
+      "section": "observe"
+    },
+    {
       "title": "M 5.2 - 270 km SSE of Dunhuang, China",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y",
       "summary": "Time 2026-08-20 09:49:47 UTC 2026-08-20 09:49:47 UTC at epicenter Location 37.806°N 95.445°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-20T07:00:00+00:00",
-      "relevance_score": 11,
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "section": "observe"
     }
   ],
