@@ -178,6 +178,30 @@
     "id": "38f97459668b5f84d4c0"
   },
   {
+    "title": "Multiples vulnérabilités dans Tenable Security Center (14 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1023/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-20T14:22:14+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi).",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Security",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "89c2d62d9c7d8363be6f"
+  },
+  {
     "title": "M 5.3 - 48 km NNE of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1022,6 +1046,30 @@
     "id": "fb4941e79bd0aa8050f8"
   },
   {
+    "title": "Vulnérabilité dans OpenSSL (14 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1026/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-20T14:22:14+00:00",
+    "summary": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "OpenSSL",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); OpenSSL (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ef7c58dfbad837f7bbc5"
+  },
+  {
     "title": "Investors aren’t ghosting you, they’re reading you",
     "url": "https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1041,6 +1089,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "053012ac798f1ba30b4c"
+  },
+  {
+    "title": "M 4.9 - 170 km NE of Lorengau, Papua New Guinea",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm42",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-20T14:14:06.040+00:00",
+    "fetched_at": "2026-08-20T14:22:14+00:00",
+    "summary": "Time 2026-08-20 13:55:00 UTC 2026-08-20 13:55:00 UTC at epicenter Location 1.166°S 148.536°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "fc152573f8bde2b933ed"
   },
   {
     "title": "M 4.8 - 217 km E of Levuka, Fiji",
@@ -1178,6 +1262,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6730c0a5d886ffe43abd"
+  },
+  {
+    "title": "Vulnérabilité dans les produits Sophos (14 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1025/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-20T14:22:14+00:00",
+    "summary": "Une vulnérabilité a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3bf34695e8d3b30a806e"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Netgate (14 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1022/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-20T14:22:14+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Netgate. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "691cfc7cae8d85f19fef"
+  },
+  {
+    "title": "Multiples vulnérabilités dans PostgreSQL (14 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1024/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-20T14:22:14+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3219c5d32834d9c6c0b9"
   },
   {
     "title": "Citrix stopft kritische Anmeldungsumgehung in Netscaler ADC und Gateway",
