@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T05:10:15+00:00_
+_Generated: 2026-08-20T05:22:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-20T05:10:15+00:00_
 - url: https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/
 - summary: Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of…
 
-### 4. M 4.7 - 45 km NNE of Ruteng, Indonesia
+### 4. M 4.6 - 71 km N of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-20T03:15:43.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l
-- summary: Time 2026-08-20 03:00:57 UTC 2026-08-20 03:00:57 UTC at epicenter Location 8.255°S 120.662°E Depth 10.00 km (6.21 mi)
+- published: `2026-08-20T05:18:39.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22
+- summary: Time 2026-08-20 04:33:23 UTC 2026-08-20 04:33:23 UTC at epicenter Location 7.970°S 120.392°E Depth 10.00 km (6.21 mi)
 
 ### 5. The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam
 - source: e27 Asia Startup and Tech Feed
