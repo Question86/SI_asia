@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T06:01:26+00:00_
+_Generiert: 2026-08-20T06:16:45+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -185,6 +185,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 榎本悠久English version ポスドクの期限が切れた2024年3月に数学のアカデミアを離れてから、だいたい2年半ぐらい経つ。もう数学の論文を書くことはないと思っていたが、結局なぜか先日、論文をarXivへ投稿した。 この論文はいま流行りのAIと私との共同研究（？）であり、論文の本文もほぼAIが書いた文だ。だが、これは...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **第5回各府省庁DX推進連絡会議・第22回デジタル社会推進会議幹事会 合同会議の会議資料に係る資料3を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion-executive/ae866c14-3ed0-4b12-bdf8-db16c4fdc858)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-20T06:00:00+00:00`, fetched `2026-08-20T06:16:13+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 第5回各府省庁DX推進連絡会議・第22回デジタル社会推進会議幹事会 合同会議の会議資料に係る資料3を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **法制事務デジタル化・法令等データ利活用促進について調査・実証／技術検証における令和7年度資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/legal-practice)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-20T06:00:00+00:00`, fetched `2026-08-20T06:16:13+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 法制事務デジタル化・法令等データ利活用促進について調査・実証／技術検証における令和7年度資料を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
