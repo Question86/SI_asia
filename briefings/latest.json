@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-20T13:13:06+00:00",
-  "run_id": "2026-08-20T13:13:06+00:00",
+  "generated_at": "2026-08-20T13:33:03+00:00",
+  "run_id": "2026-08-20T13:33:03+00:00",
   "date": "2026-08-20",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 32,
-    "observe": 29,
-    "source_errors": 0
+    "observe": 30,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1497,6 +1497,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "7e418c3cd30dc987b38d"
+      },
+      {
+        "title": "社会問題に声を上げると「他責思考だ」と非難される現象について - にげにげ日記",
+        "url": "https://nigenige110.hatenablog.jp/entry/2026/08/20/122011",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-20T04:29:38+00:00",
+        "fetched_at": "2026-08-20T13:32:35+00:00",
+        "summary": "LINEマンガのコメント欄のスクリーンショット。「あなたの言動は他責思考です。自分は優しくされるべきで、寝ているだけでお金をたくさんもらうべきで、差別する社会が悪いのです。働かずども生きていける日本社会に感謝してみたら、体調良くなるのでは？」と書かれている。 精神障害やLGBTQなどをテーマに描いている四...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b00072dad59413dd102"
       },
       {
         "title": "2026夏にアツかった日本個別株10選",
@@ -3095,6 +3116,27 @@
       "id": "7e418c3cd30dc987b38d"
     },
     {
+      "title": "社会問題に声を上げると「他責思考だ」と非難される現象について - にげにげ日記",
+      "url": "https://nigenige110.hatenablog.jp/entry/2026/08/20/122011",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T04:29:38+00:00",
+      "fetched_at": "2026-08-20T13:32:35+00:00",
+      "summary": "LINEマンガのコメント欄のスクリーンショット。「あなたの言動は他責思考です。自分は優しくされるべきで、寝ているだけでお金をたくさんもらうべきで、差別する社会が悪いのです。働かずども生きていける日本社会に感謝してみたら、体調良くなるのでは？」と書かれている。 精神障害やLGBTQなどをテーマに描いている四...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b00072dad59413dd102"
+    },
+    {
       "title": "2026夏にアツかった日本個別株10選",
       "url": "https://anond.hatelabo.jp/20260820124400",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3221,8 +3263,37 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "社会問題に声を上げると「他責思考だ」と非難される現象について - にげにげ日記",
+      "url": "https://nigenige110.hatenablog.jp/entry/2026/08/20/122011",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T04:29:38+00:00",
+      "fetched_at": "2026-08-20T13:32:35+00:00",
+      "summary": "LINEマンガのコメント欄のスクリーンショット。「あなたの言動は他責思考です。自分は優しくされるべきで、寝ているだけでお金をたくさんもらうべきで、差別する社会が悪いのです。働かずども生きていける日本社会に感謝してみたら、体調良くなるのでは？」と書かれている。 精神障害やLGBTQなどをテーマに描いている四...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b00072dad59413dd102"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
