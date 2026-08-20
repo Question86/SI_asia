@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-20T12:30:22+00:00",
-  "run_id": "2026-08-20T12:30:22+00:00",
+  "generated_at": "2026-08-20T12:51:06+00:00",
+  "run_id": "2026-08-20T12:51:06+00:00",
   "date": "2026-08-20",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 60
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "new_relevant_findings": 1,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
     "medium": 32,
-    "observe": 28,
-    "source_errors": 0
+    "observe": 29,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1073,6 +1073,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "053012ac798f1ba30b4c"
+      },
+      {
+        "title": "M 4.8 - 217 km E of Levuka, Fiji",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm3t",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-20T12:46:54.040+00:00",
+        "fetched_at": "2026-08-20T12:50:26+00:00",
+        "summary": "Time 2026-08-20 12:27:36 UTC 2026-08-20 12:27:36 UTC at epicenter Location 17.797°S 178.652°W Depth 564.28 km (350.63 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b684bb522408b027b438"
       },
       {
         "title": "M 5.0 - 87 km S of Isangel, Vanuatu",
@@ -2635,6 +2671,42 @@
       "id": "053012ac798f1ba30b4c"
     },
     {
+      "title": "M 4.8 - 217 km E of Levuka, Fiji",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm3t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-20T12:46:54.040+00:00",
+      "fetched_at": "2026-08-20T12:50:26+00:00",
+      "summary": "Time 2026-08-20 12:27:36 UTC 2026-08-20 12:27:36 UTC at epicenter Location 17.797°S 178.652°W Depth 564.28 km (350.63 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b684bb522408b027b438"
+    },
+    {
       "title": "M 5.0 - 87 km S of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3149,8 +3221,52 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [],
-  "source_errors": [],
+  "new_findings": [
+    {
+      "title": "M 4.8 - 217 km E of Levuka, Fiji",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm3t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-20T12:46:54.040+00:00",
+      "fetched_at": "2026-08-20T12:50:26+00:00",
+      "summary": "Time 2026-08-20 12:27:36 UTC 2026-08-20 12:27:36 UTC at epicenter Location 17.797°S 178.652°W Depth 564.28 km (350.63 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b684bb522408b027b438"
+    }
+  ],
+  "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f1f94da28d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
