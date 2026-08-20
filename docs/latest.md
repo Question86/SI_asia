@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T09:35:35+00:00_
+_Generiert: 2026-08-20T09:50:38+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+42 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms to take stronger steps […] The post Singapore tightens scam rules for messaging, social media and e…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.3 - 48 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-20T09:48:42.292+00:00`, fetched `2026-08-20T09:50:06+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-08-20 09:30:52 UTC 2026-08-20 09:30:52 UTC at epicenter Location 8.222°S 120.670°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 63 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2t)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T09:11:06.040+00:00`, fetched `2026-08-20T09:19:47+00:00`
@@ -56,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-20 08:53:58 UTC 2026-08-20 08:53:58 UTC at epicenter Location 8.066°S 120.656°E Depth 38.01 km (23.62 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 43 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2k)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T08:20:57.040+00:00`, fetched `2026-08-20T08:33:37+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-20 08:01:33 UTC 2026-08-20 08:01:33 UTC at epicenter Location 8.220°S 120.488°E Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91609598/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -185,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angriffsversuche auf GitLab-Lücke beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-20T09:41:00.000+00:00`, fetched `2026-08-20T09:50:06+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Attacken auf eine jüngst außerplanmäßig geschlossene Lücke in GitLab wurden beobachtet. Angreifer können etwa Projekte löschen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cisco-Sicherheitslücken: Angreifer können Anmeldung von Secure Workload umgehen** — Score 7, observation — [Quelle](https://www.heise.de/news/Cisco-Sicherheitsluecken-Angreifer-koennen-Anmeldung-von-Secure-Workload-umgehen-11419989.html)
   - Quelle: heise Security Alerts / `rss`
