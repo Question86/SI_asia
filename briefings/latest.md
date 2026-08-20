@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T17:25:42+00:00_
+_Generiert: 2026-08-20T17:40:00+00:00_
 
 ## Kurzlage
 
@@ -9,14 +9,6 @@ _Generiert: 2026-08-20T17:25:42+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-72530 TrueConf Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-20`
-  - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-09-03. TrueConf Server Code Injection Vulnerability
-- **CISA KEV: CVE-2026-72529 TrueConf Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-20`
-  - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability
 - **CISA KEV: CVE-2026-64849 MLflow MLflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-19`
@@ -29,6 +21,14 @@ _Generiert: 2026-08-20T17:25:42+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Broadcom VMware vCenter Path Traversal Vulnerability
+- **CISA KEV: CVE-2026-55040 Microsoft SharePoint** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft SharePoint Weak Authentication Vulnerability
+- **CISA KEV: CVE-2026-65400 Apple macOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-18`
+  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability
 - **GDACS: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001306)
   - Quelle: GDACS
   - Zeit: ``
