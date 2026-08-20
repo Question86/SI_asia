@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-20T11:38:39Z",
+  "generated_at": "2026-08-20T11:52:32Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -89,11 +89,37 @@
       "summary": "Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms…"
     },
     {
+      "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-20T11:26:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Hashicorp Vault Secrets Operator ausnutzen, um seine Privilegien zu erhöhen und Daten offenzulegen oder zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T11:06:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -119,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -145,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2911",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T09:59:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -172,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -198,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -224,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -250,7 +276,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -275,7 +301,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:16:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -294,32 +320,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in util-linux ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "Singapore Polytechnic launches CASTLE to help SMEs strengthen cyber defences",
-      "url": "https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-20T08:11:48+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "For many small businesses in Southeast Asia, cybersecurity still sits in an uncomfortable place: too important to ignore, but too costly and specialised to manage properly. Singapore Polytechnic wants to narrow that gap with a new initiative that turns student training into practical cyber support for enterprises. Als…"
     }
   ],
   "read_order": [

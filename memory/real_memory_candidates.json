@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-20T11:38:39Z",
+  "generated_at": "2026-08-20T11:52:32Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -26,6 +26,11 @@
       "title": "Singapore tightens scam rules for messaging, social media and e-commerce platforms",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
+      "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
       "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
@@ -54,11 +59,6 @@
     },
     {
       "title": "[UPDATE] [mittel] Snipe-IT: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }

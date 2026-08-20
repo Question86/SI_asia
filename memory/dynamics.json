@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-20T11:38:39Z",
+  "generated_at": "2026-08-20T11:52:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 11,
-      "strong": 18,
-      "watch": 9,
-      "quiet": 1
+      "krass": 12,
+      "strong": 19,
+      "watch": 8
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 28,
-      "watch": 9,
-      "quiet": 1
+      "strong": 30,
+      "watch": 8
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -75,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU91609598/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T14:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -95,11 +93,35 @@
       "summary": "セイコーエプソン株式会社が提供する複数のプリンターおよびスキャナーには、失効したルート証明書が残存しています。"
     },
     {
+      "title": "[NEU] [hoch] MLflow: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2946",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-20T11:41:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MLflow ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten offenzulegen oder zu manipulieren."
+    },
+    {
       "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2944",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:51:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -123,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2941",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:05+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -147,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:31:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -172,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:16:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -196,7 +218,7 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T10:00:00+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -220,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2905",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T09:59:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -244,7 +266,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -268,7 +290,7 @@
       "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -292,11 +314,37 @@
       "summary": "Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms…"
     },
     {
+      "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-20T11:26:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Hashicorp Vault Secrets Operator ausnutzen, um seine Privilegien zu erhöhen und Daten offenzulegen oder zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T11:06:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -322,7 +370,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -348,7 +396,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2911",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T09:59:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -375,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -401,7 +449,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -427,7 +475,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -453,7 +501,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -478,7 +526,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:16:06+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -503,7 +551,7 @@
       "url": "https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T08:11:48+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -529,7 +577,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.4,
+      "age_days": 62.41,
       "topics": [
         "ai"
       ],
@@ -558,7 +606,7 @@
       "url": "https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T04:06:26+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -584,7 +632,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:12:09.708+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -610,7 +658,7 @@
       "url": "https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-20T09:53:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -635,7 +683,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T09:48:42.292+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -660,7 +708,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T08:13:26.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -685,7 +733,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:18:39.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -710,7 +758,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:10:34.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -735,7 +783,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:15:43.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -760,7 +808,7 @@
       "url": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-20T10:00:00+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -785,7 +833,7 @@
       "url": "https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-20T09:41:00.000+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -833,7 +881,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T10:07:09.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -858,7 +906,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:24:10.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -883,7 +931,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2t",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T09:11:06.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -907,7 +955,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T08:20:57.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -958,7 +1006,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:07:57.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -976,54 +1024,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-08-20 04:52:51 UTC 2026-08-20 04:52:51 UTC at epicenter Location 24.419°S 70.464°W Depth 35.28 km (21.92 mi)"
-    },
-    {
-      "title": "M 5.0 - 87 km S of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-20T00:42:16.040+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-20 00:20:24 UTC 2026-08-20 00:20:24 UTC at epicenter Location 20.324°S 169.151°E Depth 72.95 km (45.33 mi)"
-    },
-    {
-      "title": "Investors aren’t ghosting you, they’re reading you",
-      "url": "https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-20T01:30:44+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Every morning, the same message arrives. “Hi David, hope you’re doing well. Can I ask you something quick?” No context. No deck. Sometimes no name. By evening there are three more, each slightly more urgent than the last, culminating in calendar invites for meetings nobody agreed to. The answer is always the same: I’m…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."

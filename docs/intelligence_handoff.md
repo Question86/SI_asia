@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-20T11:38:39Z_
+_Generated: 2026-08-20T11:52:32Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-20T10:36:05+00:00` / age_days `0.04`
+- Published: `2026-08-20T10:36:05+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-20T05:26:07+00:00` / age_days `0.26`
+- Published: `2026-08-20T05:26:07+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T02:37:02+00:00` / age_days `0.38`
+- Published: `2026-08-20T02:37:02+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/
 
+### [NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-20T11:26:05+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945
+
 ### [UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T11:06:05+00:00` / age_days `0.02`
+- Published: `2026-08-20T11:06:05+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T10:36:06+00:00` / age_days `0.04`
+- Published: `2026-08-20T10:36:06+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T09:59:01+00:00` / age_days `0.07`
+- Published: `2026-08-20T09:59:01+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T06:16:06+00:00` / age_days `0.22`
+- Published: `2026-08-20T06:16:06+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T06:16:05+00:00` / age_days `0.22`
+- Published: `2026-08-20T06:16:05+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T05:26:07+00:00` / age_days `0.26`
+- Published: `2026-08-20T05:26:07+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T10:36:06+00:00` / age_days `0.04`
+- Published: `2026-08-20T10:36:06+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-20T10:16:06+00:00` / age_days `0.06`
+- Published: `2026-08-20T10:16:06+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938
-
-### Singapore Polytechnic launches CASTLE to help SMEs strengthen cyber defences
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-20T08:11:48+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/
 
 END OF DOCUMENT
