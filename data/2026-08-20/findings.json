@@ -72,6 +72,45 @@
     "id": "299894c592d97376a42b"
   },
   {
+    "title": "M 5.6 - 67 km NNW of Ende, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-20T18:39:27.461+00:00",
+    "fetched_at": "2026-08-20T18:47:30+00:00",
+    "summary": "PAGER - GREEN ShakeMap - V Time 2026-08-20 18:12:51 UTC 2026-08-20 18:12:51 UTC at epicenter Location 8.288°S 121.398°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "577490af4130a3c24b5c"
+  },
+  {
     "title": "Separate GitHub Actions path for GitHub Code Quality",
     "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
     "source": "GitHub Changelog Atom",
@@ -132,6 +171,30 @@
       "LOW"
     ],
     "id": "3daddb40d5311833ebe1"
+  },
+  {
+    "title": "AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計",
+    "url": "https://zenn.dev/mkj/articles/aad5698672aef3",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-20T08:23:02+00:00",
+    "fetched_at": "2026-08-20T18:47:30+00:00",
+    "summary": "こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。 最近のAI Agentは、一般的な調査や実装であればかなり高い水準でこなせるようになってきました。一方で、実際の社内業務に必要な社内固有の知識は持っておらず、非常に優秀だが、まだオンボーディングを受けていない新入社員に近い状態です。 ...",
+    "matched_keywords": [
+      "agent",
+      "AI Agents",
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7c21d3402de24be9bfa2"
   },
   {
     "title": "Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call",
@@ -1481,6 +1544,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3219c5d32834d9c6c0b9"
+  },
+  {
+    "title": "The August 17 outage, and the work ahead",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-20T18:36:11+00:00",
+    "fetched_at": "2026-08-20T18:47:30+00:00",
+    "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c5b1efd342f6b9643678"
   },
   {
     "title": "Citrix stopft kritische Anmeldungsumgehung in Netscaler ADC und Gateway",

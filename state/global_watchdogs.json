@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:29:04+00:00",
+  "generated_at": "2026-08-20T18:48:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -73,9 +73,19 @@
         "metrics": {
           "mag": 6.7,
           "alert": "green",
-          "sig": 692.0,
+          "sig": 708.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 20/08/2026 18:12 UTC, 50 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 20/08/2026 18:12 UTC, 50 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560739",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -139,13 +149,18 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone SAUDEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone SAUDEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001305",
-        "published_at": "",
-        "metrics": {}
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 67 km NNW of Ende, Indonesia",
+        "summary": "M5.6 - 67 km NNW of Ende, Indonesia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h",
+        "published_at": "2026-08-20T18:12:51+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

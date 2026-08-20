@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T18:28:59+00:00",
+  "generated_at": "2026-08-20T18:48:02+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-08-20T14:29:27+00:00",
         "relevance_score": 19,
         "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
+      },
+      {
+        "title": "AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-20T08:23:02+00:00",
+        "relevance_score": 18,
+        "url": "https://zenn.dev/mkj/articles/aad5698672aef3"
       },
       {
         "title": "Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-20T00:00:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/index/stampli"
-      },
-      {
-        "title": "Windows 11 arm64 VS2026 image generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-20T17:52:38+00:00",
-        "relevance_score": 10,
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available"
       }
     ],
     "security": [
@@ -170,6 +170,13 @@
         "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available"
       },
       {
+        "title": "The August 17 outage, and the work ahead",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-08-20T18:36:11+00:00",
+        "relevance_score": 7,
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+      },
+      {
         "title": "数学をやめたはずが、AIと論文を書いていた。",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-19T23:53:51+00:00",
@@ -256,44 +263,14 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
       }
     ],
-    "economy": [
-      {
-        "title": "Separate GitHub Actions path for GitHub Code Quality",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-20T14:29:27+00:00",
-        "relevance_score": 19,
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
-      },
-      {
-        "title": "How ChatGPT Work helps Stampli move ideas to market",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-20T00:00:00+00:00",
-        "relevance_score": 12,
-        "url": "https://openai.com/index/stampli"
-      },
-      {
-        "title": "The hidden cost of treating AI as software instead of organisation capability",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T06:49:02+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/"
-      },
-      {
-        "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T05:34:46+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/"
-      },
-      {
-        "title": "Buddy Bites nets US$4.2M Series A to expand beyond dog food",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-20T11:53:50+00:00",
-        "relevance_score": 6,
-        "url": "https://e27.co/buddy-bites-nets-us4-2m-series-a-to-expand-beyond-dog-food-20260820/"
-      }
-    ],
     "general": [
+      {
+        "title": "M 5.6 - 67 km NNW of Ende, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-20T18:39:27.461+00:00",
+        "relevance_score": 19,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h"
+      },
       {
         "title": "M 5.7 - 32 km NNE of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -356,13 +333,43 @@
         "published_at": "2026-08-20T03:15:43.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l"
+      }
+    ],
+    "economy": [
+      {
+        "title": "Separate GitHub Actions path for GitHub Code Quality",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T14:29:27+00:00",
+        "relevance_score": 19,
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality"
       },
       {
-        "title": "M 5.2 - 270 km SSE of Dunhuang, China",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-20T10:07:09.040+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y"
+        "title": "How ChatGPT Work helps Stampli move ideas to market",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-20T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://openai.com/index/stampli"
+      },
+      {
+        "title": "The hidden cost of treating AI as software instead of organisation capability",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T06:49:02+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/"
+      },
+      {
+        "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T05:34:46+00:00",
+        "relevance_score": 7,
+        "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/"
+      },
+      {
+        "title": "Buddy Bites nets US$4.2M Series A to expand beyond dog food",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-20T11:53:50+00:00",
+        "relevance_score": 6,
+        "url": "https://e27.co/buddy-bites-nets-us4-2m-series-a-to-expand-beyond-dog-food-20260820/"
       }
     ]
   }

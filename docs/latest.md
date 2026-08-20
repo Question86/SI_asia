@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T18:28:59+00:00_
+_Generiert: 2026-08-20T18:48:02+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+78 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules storms_floods_weather (+3.0)
   - Kurz: For Southeast Asia, resilience is no longer an abstract policy goal. It is visible in flooded streets, longer commutes, volatile food prices, stressed grids, and farmers trying to make planting decisions as weather patterns become less predictable. Malaysia’s National AI Action Plan 2026-2030, also known as AI Nation 2030, places these pressures at the heart […] The post Malaysia’s AI Nation 2030 puts cities and far…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.6 - 67 km NNW of Ende, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-20T18:39:27.461+00:00`, fetched `2026-08-20T18:47:30+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - V Time 2026-08-20 18:12:51 UTC 2026-08-20 18:12:51 UTC at epicenter Location 8.288°S 121.398°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Separate GitHub Actions path for GitHub Code Quality** — Score 19, observation — [Quelle](https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-08-20T14:29:27+00:00`, fetched `2026-08-20T15:09:38+00:00`
@@ -48,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI Agentに社内知識をオンボーディングする：SkillsとEvalの設計** — Score 18, observation — [Quelle](https://zenn.dev/mkj/articles/aad5698672aef3)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-20T08:23:02+00:00`, fetched `2026-08-20T18:47:30+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: こんにちは、松尾研究所 データサイエンスチームのマネージャーの浮田です。 最近のAI Agentは、一般的な調査や実装であればかなり高い水準でこなせるようになってきました。一方で、実際の社内業務に必要な社内固有の知識は持っておらず、非常に優秀だが、まだオンボーディングを受けていない新入社員に近い状態です。 ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call** — Score 18, risk — [Quelle](https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T04:06:26+00:00`, fetched `2026-08-20T04:10:16+00:00`
@@ -101,15 +119,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - V Time 2026-08-20 18:00:15 UTC 2026-08-20 18:00:15 UTC at epicenter Location 14.626°S 73.616°W Depth 66.67 km (41.42 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 48 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T09:48:42.292+00:00`, fetched `2026-08-20T09:50:06+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-08-20 09:30:52 UTC 2026-08-20 09:30:52 UTC at epicenter Location 8.222°S 120.670°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91609598/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -258,6 +267,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Netgate. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The August 17 outage, and the work ahead** — Score 7, observation — [Quelle](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-20T18:36:11+00:00`, fetched `2026-08-20T18:47:30+00:00`
+  - Treffer: APAC Trend Radar, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Citrix stopft kritische Anmeldungsumgehung in Netscaler ADC und Gateway** — Score 7, observation — [Quelle](https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-20T09:53:00.000+00:00`, fetched `2026-08-20T10:03:04+00:00`
@@ -266,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: In Netscaler ADC und Gateway von Citrix können Angreifer mehrere Lücken missbrauchen. Sie können etwa unbefugt Zugriff erlangen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Angriffsversuche auf GitLab-Lücke beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-20T09:41:00.000+00:00`, fetched `2026-08-20T09:50:06+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Attacken auf eine jüngst außerplanmäßig geschlossene Lücke in GitLab wurden beobachtet. Angreifer können etwa Projekte löschen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
