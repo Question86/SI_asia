@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T06:31:55+00:00_
+_Generiert: 2026-08-20T06:52:22+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+33 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-20 00:20:24 UTC 2026-08-20 00:20:24 UTC at epicenter Location 20.324°S 169.151°E Depth 72.95 km (45.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The hidden cost of treating AI as software instead of organisation capability** — Score 8, observation — [Quelle](https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-20T06:49:02+00:00`, fetched `2026-08-20T06:51:50+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AI does not, by itself, create competitive advantage. It amplifies the organisational capability that surrounds it. For leaders, the strategic question is therefore shifting from “Where should we deploy AI?” to “What kind of organisation can turn AI into differentiated performance?” For much of the digital era, the management problem was adoption. Companies moved from […] The post The hidden cost of treating AI as s…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで** — Score 8, observation — [Quelle](https://gigazine.net/news/20260819-hermes-agent-first-use/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-19T13:53:08+00:00`, fetched `2026-08-20T01:38:03+00:00`
@@ -176,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの推論を高速化するシステムを開発しているCerebrasが、ラックスケールソリューションの「CS-4」を公開しました。単純なGPUシステムと比較して最大30倍高速な推論処理が可能とうたわれています。 Product - System - Cerebras https://www.cerebras.ai/cs4 Introducing Cerebras CS-4: The Fastest AI Gets Faster htt...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier** — Score 7, observation — [Quelle](https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-20T05:34:46+00:00`, fetched `2026-08-20T05:36:55+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Cryptocurrency market capitalisation expanded 7.22 per cent to reach an impressive US$2.36T. This aggressive upward trajectory stems from a rare convergence of political validation and macroeconomic liquidity injections. I view this specific rally as a definitive structural transition for digital assets. We no longer observe a speculative niche asset class reacting solely to internal industry […] The post Bitcoin ga…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **数学をやめたはずが、AIと論文を書いていた。** — Score 7, observation — [Quelle](https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
