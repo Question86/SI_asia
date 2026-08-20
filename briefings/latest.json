@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T19:49:02+00:00",
-  "run_id": "2026-08-20T19:49:02+00:00",
+  "generated_at": "2026-08-20T19:59:27+00:00",
+  "run_id": "2026-08-20T19:59:27+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
@@ -4307,66 +4307,7 @@
       "id": "9efc97cfe8d95b5ce915"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.0 - 63 km NW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm93",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-20T19:40:26.040+00:00",
-      "fetched_at": "2026-08-20T19:48:34+00:00",
-      "summary": "Time 2026-08-20 19:24:03 UTC 2026-08-20 19:24:03 UTC at epicenter Location 8.423°S 121.271°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "fff39ca2bfc77daba447"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-08-20T19:48:34+00:00",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8526ffe0dc40ab8c288e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
