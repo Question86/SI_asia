@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-20T05:14:27Z",
+  "generated_at": "2026-08-20T05:28:16Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91609598/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T14:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T10:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -91,7 +91,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.14,
+      "age_days": 62.15,
       "topics": [
         "ai"
       ],
@@ -120,7 +120,7 @@
       "url": "https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T04:06:26+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:12:09.708+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -168,11 +168,61 @@
       "summary": "PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 71 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-20T05:18:39.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-20 04:33:23 UTC 2026-08-20 04:33:23 UTC at epicenter Location 7.970°S 120.392°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.6 - 26 km NNW of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-20T05:10:34.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-20 04:23:57 UTC 2026-08-20 04:23:57 UTC at epicenter Location 8.386°S 120.395°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - 45 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:15:43.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -197,7 +247,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:24:10.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -222,7 +272,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:07:57.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -246,7 +296,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T00:42:16.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -264,56 +314,6 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-08-20 00:20:24 UTC 2026-08-20 00:20:24 UTC at epicenter Location 20.324°S 169.151°E Depth 72.95 km (45.33 mi)"
-    },
-    {
-      "title": "Investors aren’t ghosting you, they’re reading you",
-      "url": "https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-20T01:30:44+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Every morning, the same message arrives. “Hi David, hope you’re doing well. Can I ask you something quick?” No context. No deck. Sometimes no name. By evening there are three more, each slightly more urgent than the last, culminating in calendar invites for meetings nobody agreed to. The answer is always the same: I’m…"
-    },
-    {
-      "title": "The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam",
-      "url": "https://e27.co/the-silent-migration-why-top-sea-startups-are-quietly-building-core-rd-hubs-in-vietnam-20260817/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-20T02:30:54+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As venture capital shifts from “growth at all costs” to “sustainabl…"
     }
   ],
   "read_order": [
@@ -325,9 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 3,
-      "quiet": 2
+      "strong": 9,
+      "watch": 3
     }
   }
 }

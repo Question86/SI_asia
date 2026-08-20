@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-20T05:14:27Z",
+  "generated_at": "2026-08-20T05:28:16Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 23,
+    "dynamics": 25,
     "bands": {
       "extreme": 1,
-      "strong": 6,
+      "strong": 8,
       "watch": 3,
       "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
+      "strong": 9,
       "watch": 3,
       "quiet": 13
     }
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU91609598/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T14:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T10:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -99,7 +99,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.14,
+      "age_days": 62.15,
       "topics": [
         "ai"
       ],
@@ -128,7 +128,7 @@
       "url": "https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T04:06:26+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -154,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:12:09.708+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -176,11 +176,61 @@
       "summary": "PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 71 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-20T05:18:39.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-20 04:33:23 UTC 2026-08-20 04:33:23 UTC at epicenter Location 7.970°S 120.392°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.6 - 26 km NNW of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-20T05:10:34.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-20 04:23:57 UTC 2026-08-20 04:23:57 UTC at epicenter Location 8.386°S 120.395°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.7 - 45 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:15:43.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -205,7 +255,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:24:10.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -230,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:07:57.040+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "disaster"
       ],
@@ -254,7 +304,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T00:42:16.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -302,7 +352,7 @@
       "url": "https://e27.co/the-silent-migration-why-top-sea-startups-are-quietly-building-core-rd-hubs-in-vietnam-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:30:54+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -328,7 +378,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T21:37:29+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -352,7 +402,7 @@
       "url": "https://www.lifehacker.jp/article/2608-i-turned-off-3-ipad-settings-and-my-8-year-old-ipad-pro-finally-stopped-lagging/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T20:35:25+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -376,7 +426,7 @@
       "url": "https://levtech.jp/media/detail_910/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T01:35:33+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -402,7 +452,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.1,
+      "age_days": 61.11,
       "topics": [
         "general"
       ],
@@ -427,7 +477,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.1,
+      "age_days": 61.11,
       "topics": [
         "general"
       ],
@@ -452,7 +502,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.1,
+      "age_days": 61.11,
       "topics": [
         "ai"
       ],
@@ -479,7 +529,7 @@
       "url": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T13:53:08+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -504,7 +554,7 @@
       "url": "https://gigazine.net/news/20260819-cerebras-cs-4/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T13:47:18+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -529,7 +579,7 @@
       "url": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T23:53:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -554,7 +604,7 @@
       "url": "https://e27.co/your-founder-brand-could-add-or-subtract-us500k-to-us1m-before-you-walk-into-a-room-heres-how-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:30:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -579,7 +629,7 @@
       "url": "https://togetter.com/li/2735168",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T00:57:13+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
