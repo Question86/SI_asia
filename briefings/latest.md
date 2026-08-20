@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T20:37:26+00:00_
+_Generiert: 2026-08-20T20:51:14+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+84 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -172,14 +172,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi).
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 63 km NW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm93)
+- **M 5.0 - 78 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm9h)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T19:40:26.040+00:00`, fetched `2026-08-20T19:48:34+00:00`
+  - Zeit: published `2026-08-20T20:37:45.040+00:00`, fetched `2026-08-20T20:50:42+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-20 19:24:03 UTC 2026-08-20 19:24:03 UTC at epicenter Location 8.423°S 121.271°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-08-20 19:53:51 UTC 2026-08-20 19:53:51 UTC at epicenter Location 8.214°S 121.330°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91609598/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
