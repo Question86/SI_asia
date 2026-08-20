@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T06:52:22+00:00",
-  "run_id": "2026-08-20T06:52:22+00:00",
+  "generated_at": "2026-08-20T07:12:20+00:00",
+  "run_id": "2026-08-20T07:12:20+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 33,
     "displayed_findings": 33,
     "high": 0,
@@ -1811,29 +1811,7 @@
       "id": "a018ce1352ab9bcf91e0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The hidden cost of treating AI as software instead of organisation capability",
-      "url": "https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-20T06:49:02+00:00",
-      "fetched_at": "2026-08-20T06:51:50+00:00",
-      "summary": "AI does not, by itself, create competitive advantage. It amplifies the organisational capability that surrounds it. For leaders, the strategic question is therefore shifting from “Where should we deploy AI?” to “What kind of organisation can turn AI into differentiated performance?” For much of the digital era, the management problem was adoption. Companies moved from […] The post The hidden cost of treating AI as s…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0325e83849d69d3c533c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

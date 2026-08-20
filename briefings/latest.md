@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T06:52:22+00:00_
+_Generiert: 2026-08-20T07:12:20+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-08-20T06:52:22+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Apple macOS Improper Authentication Vulnerability
+- **GDACS: Green flood alert in Brazil** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104106)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Brazil
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 20/08/2026 02:46 UTC, Few people affected (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560491)
   - Quelle: GDACS
   - Zeit: ``
