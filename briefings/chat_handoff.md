@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T19:34:52+00:00_
+_Generated: 2026-08-20T19:49:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `81`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-20T19:34:52+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y
 - summary: Time 2026-08-20 09:49:47 UTC 2026-08-20 09:49:47 UTC at epicenter Location 37.806°N 95.445°E Depth 10.00 km (6.21 mi)
 
-### 8. M 4.7 - 85 km S of Antofagasta, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. Introducing AI Futures
+- source: OpenAI News RSS
 - score: `11`
-- published: `2026-08-20T05:07:57.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25
-- summary: Time 2026-08-20 04:52:51 UTC 2026-08-20 04:52:51 UTC at epicenter Location 24.419°S 70.464°W Depth 35.28 km (21.92 mi)
+- published: `2026-08-20T07:00:00+00:00`
+- url: https://openai.com/index/introducing-ai-futures
+- summary: Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
 
 END OF DOCUMENT

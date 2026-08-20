@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T19:34:52+00:00_
+_Generiert: 2026-08-20T19:49:02+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 ## Priorität Hoch
 
@@ -111,14 +111,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi).
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 6.7 - 38 km NW of Upahuacho, Peru** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81)
+- **M 5.0 - 63 km NW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm93)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T18:26:53.900+00:00`, fetched `2026-08-20T18:28:28+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Zeit: published `2026-08-20T19:40:26.040+00:00`, fetched `2026-08-20T19:48:34+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - V Time 2026-08-20 18:00:15 UTC 2026-08-20 18:00:15 UTC at epicenter Location 14.626°S 73.616°W Depth 66.67 km (41.42 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-20 19:24:03 UTC 2026-08-20 19:24:03 UTC at epicenter Location 8.423°S 121.271°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91609598/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-20 09:49:47 UTC 2026-08-20 09:49:47 UTC at epicenter Location 37.806°N 95.445°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing AI Futures** — Score 11, observation — [Quelle](https://openai.com/index/introducing-ai-futures)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-20T07:00:00+00:00`, fetched `2026-08-20T19:48:34+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 85 km S of Antofagasta, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T05:07:57.040+00:00`, fetched `2026-08-20T05:09:42+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)
   - Kurz: An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Citrix stopft kritische Anmeldungsumgehung in Netscaler ADC und Gateway** — Score 7, observation — [Quelle](https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-20T09:53:00.000+00:00`, fetched `2026-08-20T10:03:04+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: In Netscaler ADC und Gateway von Citrix können Angreifer mehrere Lücken missbrauchen. Sie können etwa unbefugt Zugriff erlangen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

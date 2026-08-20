@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T19:34:52+00:00",
+  "generated_at": "2026-08-20T19:49:02+00:00",
   "topics": {
     "ai": [
       {
@@ -279,6 +279,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j"
       },
       {
+        "title": "M 5.0 - 63 km NW of Ende, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-20T19:40:26.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm93"
+      },
+      {
         "title": "M 6.7 - 38 km NW of Upahuacho, Peru",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-20T18:26:53.900+00:00",
@@ -326,13 +333,6 @@
         "published_at": "2026-08-20T05:10:34.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y"
-      },
-      {
-        "title": "M 4.7 - 45 km NNE of Ruteng, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-20T03:15:43.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l"
       }
     ],
     "economy": [
@@ -349,6 +349,13 @@
         "published_at": "2026-08-20T00:00:00+00:00",
         "relevance_score": 12,
         "url": "https://openai.com/index/stampli"
+      },
+      {
+        "title": "Introducing AI Futures",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-20T07:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://openai.com/index/introducing-ai-futures"
       },
       {
         "title": "The hidden cost of treating AI as software instead of organisation capability",
