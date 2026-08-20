@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T03:54:39+00:00_
+_Generated: 2026-08-20T04:10:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `17`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-20T03:54:39+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j
 - summary: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)
 
-### 2. Singapore tightens scam rules for messaging, social media and e-commerce platforms
+### 2. Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-08-20T04:06:26+00:00`
+- url: https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/
+- summary: Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest…
+
+### 3. Singapore tightens scam rules for messaging, social media and e-commerce platforms
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-20T02:37:02+00:00`
 - url: https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/
 - summary: Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of…
 
-### 3. M 4.7 - 45 km NNE of Ruteng, Indonesia
+### 4. M 4.7 - 45 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-20T03:15:43.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l
 - summary: Time 2026-08-20 03:00:57 UTC 2026-08-20 03:00:57 UTC at epicenter Location 8.255°S 120.662°E Depth 10.00 km (6.21 mi)
-
-### 4. RDK-BのWebUにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-20T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91551881/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam
 - source: e27 Asia Startup and Tech Feed

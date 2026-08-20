@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T03:54:39+00:00_
+_Generiert: 2026-08-20T04:10:44+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+17 neue relevante Treffer. Stärkstes Signal: „M 5.7 - 32 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VII DYFI? - II Time 2026-08-20 02:46:59 UTC 2026-08-20 02:46:59 UTC at epicenter Location 8.358°S 120.610°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call** — Score 18, risk — [Quelle](https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-20T04:06:26+00:00`, fetched `2026-08-20T04:10:16+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest by a high-ranking officer of the “Mumbai Police.” I […] The post Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call ap…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Singapore tightens scam rules for messaging, social media and e-commerce platforms** — Score 16, risk — [Quelle](https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
