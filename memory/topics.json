@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T10:14:39+00:00",
+  "generated_at": "2026-08-20T10:27:53+00:00",
   "topics": {
     "ai": [
       {
@@ -82,6 +82,20 @@
         "published_at": "2026-08-20T06:00:00+00:00",
         "relevance_score": 20,
         "url": "https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/"
+      },
+      {
+        "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938"
+      },
+      {
+        "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
       },
       {
         "title": "The hidden cost of treating AI as software instead of organisation capability",
@@ -172,6 +186,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938"
+      },
+      {
         "title": "Singapore Polytechnic launches CASTLE to help SMEs strengthen cyber defences",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-20T08:11:48+00:00",
@@ -184,6 +205,13 @@
         "published_at": "2026-08-20T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91609598/"
+      },
+      {
+        "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937"
       },
       {
         "title": "RDK-BのWebUにおける複数の脆弱性",
@@ -226,20 +254,6 @@
         "published_at": "2026-08-20T06:16:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073"
-      },
-      {
-        "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T05:26:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209"
-      },
-      {
-        "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T05:26:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933"
       }
     ],
     "economy": [
