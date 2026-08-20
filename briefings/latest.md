@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T19:06:21+00:00_
+_Generiert: 2026-08-20T19:20:06+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,6 @@ _Generiert: 2026-08-20T19:06:21+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.
-- **USGS earthquake M5.6 - 67 km NNW of Ende, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h)
-  - Quelle: USGS
-  - Zeit: `2026-08-20T18:12:51+00:00`
-  - Kurz: M5.6 - 67 km NNW of Ende, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
