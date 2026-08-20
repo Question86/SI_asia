@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T08:03:40+00:00_
+_Generiert: 2026-08-20T08:18:38+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+37 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms to take stronger steps […] The post Singapore tightens scam rules for messaging, social media and e…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.0 - 37 km NNW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2j)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-20T08:13:26.040+00:00`, fetched `2026-08-20T08:18:07+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-20 07:55:03 UTC 2026-08-20 07:55:03 UTC at epicenter Location 8.287°S 120.377°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 71 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T05:18:39.040+00:00`, fetched `2026-08-20T05:21:47+00:00`
@@ -56,15 +65,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-20 04:33:23 UTC 2026-08-20 04:33:23 UTC at epicenter Location 7.970°S 120.392°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 26 km NNW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T05:10:34.040+00:00`, fetched `2026-08-20T05:21:47+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-20 04:23:57 UTC 2026-08-20 04:23:57 UTC at epicenter Location 8.386°S 120.395°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91609598/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
