@@ -1,29 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-20T05:28:16Z",
+  "generated_at": "2026-08-20T05:43:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 28,
     "bands": {
       "extreme": 1,
+      "krass": 2,
       "strong": 8,
       "watch": 3,
-      "quiet": 13
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
+      "krass": 1,
+      "strong": 10,
       "watch": 3,
-      "quiet": 13
+      "quiet": 14
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-20T05:26:07+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen,um nicht näher spezifizierte Auswirkungen zu verursachen, potenziell beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
     {
       "title": "複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題",
       "url": "https://jvn.jp/vu/JVNVU91609598/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -47,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T10:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -71,7 +98,7 @@
       "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -95,11 +122,37 @@
       "summary": "Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms…"
     },
     {
+      "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-20T05:26:07+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.15,
+      "age_days": 62.16,
       "topics": [
         "ai"
       ],
@@ -118,7 +171,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 62.1d old signal",
+        "aging penalty -8.0 for 62.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -128,7 +181,7 @@
       "url": "https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T04:06:26+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -154,7 +207,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:12:09.708+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -180,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:18:39.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -205,7 +258,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:10:34.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -230,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:15:43.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -255,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:24:10.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -280,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:07:57.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -304,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T00:42:16.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -328,7 +381,7 @@
       "url": "https://e27.co/investors-arent-ghosting-you-theyre-reading-you-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T01:30:44+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -352,7 +405,7 @@
       "url": "https://e27.co/the-silent-migration-why-top-sea-startups-are-quietly-building-core-rd-hubs-in-vietnam-20260817/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:30:54+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -378,7 +431,7 @@
       "url": "https://piyolog.hatenadiary.jp/entry/2026/08/20/023850",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T21:37:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -402,7 +455,7 @@
       "url": "https://www.lifehacker.jp/article/2608-i-turned-off-3-ipad-settings-and-my-8-year-old-ipad-pro-finally-stopped-lagging/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T20:35:25+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -422,11 +475,38 @@
       "summary": "なぜ今、この設定変更が重要なのか2018年リリースのiPad Proは最新OSにもサポートし、非常に優秀な端末です。 しかし、新しいOSはより新しいGPUや大容量のRAMに最適化されている可能性が高く、A12Xチップにはそこまでの余力が残されていません。実際、マルチタスクで作業しようとしているときに、ウィンドウの最大化に丸..."
     },
     {
+      "title": "Bitcoin gained 7.26% to reach exactly US$69,350.36 and now faces a critical test at the US$70,000 psychological barrier",
+      "url": "https://e27.co/bitcoin-gained-7-26-to-reach-exactly-us69350-36-and-now-faces-a-critical-test-at-the-us70000-psychological-barrier-20260820/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-20T05:34:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: critical",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Cryptocurrency market capitalisation expanded 7.22 per cent to reach an impressive US$2.36T. This aggressive upward trajectory stems from a rare convergence of political validation and macroeconomic liquidity injections. I view this specific rally as a definitive structural transition for digital assets. We no longer…"
+    },
+    {
       "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - レバテックLAB",
       "url": "https://levtech.jp/media/detail_910/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T01:35:33+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -452,7 +532,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.11,
+      "age_days": 61.12,
       "topics": [
         "general"
       ],
@@ -477,7 +557,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.11,
+      "age_days": 61.12,
       "topics": [
         "general"
       ],
@@ -502,7 +582,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.11,
+      "age_days": 61.12,
       "topics": [
         "ai"
       ],
@@ -529,7 +609,7 @@
       "url": "https://gigazine.net/news/20260819-hermes-agent-first-use/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T13:53:08+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -554,7 +634,7 @@
       "url": "https://gigazine.net/news/20260819-cerebras-cs-4/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T13:47:18+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -579,7 +659,7 @@
       "url": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T23:53:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -604,7 +684,7 @@
       "url": "https://e27.co/your-founder-brand-could-add-or-subtract-us500k-to-us1m-before-you-walk-into-a-room-heres-how-20260816/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:30:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -629,7 +709,7 @@
       "url": "https://togetter.com/li/2735168",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T00:57:13+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -650,5 +730,5 @@
       "summary": "セブンイレブンのアイスのPOPがAI生成だったけど、内部資料をAIに読み込ませてそのまんま出力してるのがヤバい「それ、各店舗長向けの資料だからｗ」"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “複数のセイコーエプソン製プリンターおよびスキャナーにおける失効したルート証明書が残存している問題” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
