@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T10:03:33+00:00_
+_Generiert: 2026-08-20T10:14:39+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+47 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: A US$5M Series A used to buy a startup a full local engineering team. Today, in Singapore or the US, it might cover three senior full-stack hires, even before the product roadmap gets ambitious. This is the reality most growth-stage founders now face. As venture capital shifts from “growth at all costs” to “sustainable efficiency,” […] The post The silent migration: Why top SEA startups are quietly building core R&D…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 270 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-20T10:07:09.040+00:00`, fetched `2026-08-20T10:14:11+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-20 09:49:47 UTC 2026-08-20 09:49:47 UTC at epicenter Location 37.806°N 95.445°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 85 km S of Antofagasta, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm25)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T05:07:57.040+00:00`, fetched `2026-08-20T05:09:42+00:00`
@@ -150,15 +159,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: Every morning, the same message arrives. “Hi David, hope you’re doing well. Can I ask you something quick?” No context. No deck. Sometimes no name. By evening there are three more, each slightly more urgent than the last, culminating in calendar invites for meetings nobody agreed to. The answer is always the same: I’m not […] The post Investors aren’t ghosting you, they’re reading you appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 87 km S of Isangel, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm16)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T00:42:16.040+00:00`, fetched `2026-08-20T01:02:27+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-20 00:20:24 UTC 2026-08-20 00:20:24 UTC at epicenter Location 20.324°S 169.151°E Depth 72.95 km (45.33 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The hidden cost of treating AI as software instead of organisation capability** — Score 8, observation — [Quelle](https://e27.co/the-hidden-cost-of-treating-ai-as-software-instead-of-organisation-capability-20260820/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-20T06:49:02+00:00`, fetched `2026-08-20T06:51:50+00:00`
