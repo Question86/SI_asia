@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T10:27:53+00:00_
+_Generiert: 2026-08-20T10:43:08+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+55 neue relevante Treffer. Stärkstes Signal: „Malaysia’s AI Nation 2030 puts cities and farms at the heart of climate resilience“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest by a high-ranking officer of the “Mumbai Police.” I […] The post Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call ap…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-20T10:36:06+00:00`, fetched `2026-08-20T10:42:37+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Drupal Erweiterungen ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] util-linux: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-20T10:16:06+00:00`, fetched `2026-08-20T10:27:21+00:00`
@@ -149,14 +158,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: セイコーエプソン株式会社が提供する複数のプリンターおよびスキャナーには、失効したルート証明書が残存しています。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937)
+- **[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-20T10:16:06+00:00`, fetched `2026-08-20T10:27:21+00:00`
+  - Zeit: published `2026-08-20T10:36:06+00:00`, fetched `2026-08-20T10:42:37+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann eine Schwachstelle in Perl ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **RDK-BのWebUにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91551881/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -167,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] bluez: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2905)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-20T09:59:01+00:00`, fetched `2026-08-20T10:03:04+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer in Bluetooth-Reichweite kann eine Schwachstelle in bluez ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -287,6 +287,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 榎本悠久English version ポスドクの期限が切れた2024年3月に数学のアカデミアを離れてから、だいたい2年半ぐらい経つ。もう数学の論文を書くことはないと思っていたが、結局なぜか先日、論文をarXivへ投稿した。 この論文はいま流行りのAIと私との共同研究（？）であり、論文の本文もほぼAIが書いた文だ。だが、これは...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年熊本地震に関する対応状況について（8月20日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/9d9d57f1-7af7-4592-ae6f-6d0f855f6025)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-20T10:40:01+00:00`, fetched `2026-08-20T10:42:37+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年熊本地震に関する対応状況について（8月20日）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **第5回各府省庁DX推進連絡会議・第22回デジタル社会推進会議幹事会 合同会議の会議資料に係る資料3を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/councils/social-promotion-executive/ae866c14-3ed0-4b12-bdf8-db16c4fdc858)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-20T06:00:00+00:00`, fetched `2026-08-20T06:16:13+00:00`
@@ -304,15 +313,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 法制事務デジタル化・法令等データ利活用促進について調査・実証／技術検証における令和7年度資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”** — Score 5, observation — [Quelle](https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-08-20T10:00:00+00:00`, fetched `2026-08-20T10:03:04+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0)
-  - Kurz: Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

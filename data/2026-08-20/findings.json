@@ -109,6 +109,30 @@
     "id": "f4e0c27f3b07f6ddd422"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T10:36:06+00:00",
+    "fetched_at": "2026-08-20T10:42:37+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Drupal Erweiterungen ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "241652fe3646b5647605"
+  },
+  {
     "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938",
     "source": "BSI CERT-Bund Security Advisories",
@@ -455,6 +479,98 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b90313cccac155d1482d"
+  },
+  {
+    "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T10:36:06+00:00",
+    "fetched_at": "2026-08-20T10:42:37+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0478db26668acf312144"
+  },
+  {
+    "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T10:36:05+00:00",
+    "fetched_at": "2026-08-20T10:42:37+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a56c5495db01edd15c39"
+  },
+  {
+    "title": "[NEU] [mittel] Arista EOS und WiFi Access Point: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2941",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T10:36:05+00:00",
+    "fetched_at": "2026-08-20T10:42:37+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Arista EOS und Arista WiFi Access Point ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "113a1dbdad69e9f9cff6"
+  },
+  {
+    "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-20T10:31:05+00:00",
+    "fetched_at": "2026-08-20T10:42:37+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in WebKitGTK ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "64601f936093e6442053"
   },
   {
     "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
@@ -1058,6 +1174,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cb996b8fc68c5bb01a25"
+  },
+  {
+    "title": "令和8年熊本地震に関する対応状況について（8月20日）",
+    "url": "https://www.digital.go.jp/news/9d9d57f1-7af7-4592-ae6f-6d0f855f6025",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-20T10:40:01+00:00",
+    "fetched_at": "2026-08-20T10:42:37+00:00",
+    "summary": "令和8年熊本地震に関する対応状況について（8月20日）",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ba33d6ff89ba71ae3da8"
   },
   {
     "title": "第5回各府省庁DX推進連絡会議・第22回デジタル社会推進会議幹事会 合同会議の会議資料に係る資料3を掲載しました",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-20T10:27:53+00:00_
+_Generated: 2026-08-20T10:43:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `49`
+- findings: `55`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-20T10:27:53+00:00_
 - url: https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/
 - summary: Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest…
 
-### 4. [NEU] [hoch] util-linux: Mehrere Schwachstellen
+### 4. [NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-20T10:16:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in util-linux ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.
+- published: `2026-08-20T10:36:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943
+- summary: Ein Angreifer kann mehrere Schwachstellen in verschiedenen Drupal Erweiterungen ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
 
 ### 5. The silent migration: Why top SEA startups are quietly building core R&D hubs in Vietnam
 - source: e27 Asia Startup and Tech Feed

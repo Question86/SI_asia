@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-20T10:27:53+00:00",
+  "generated_at": "2026-08-20T10:43:08+00:00",
   "topics": {
     "ai": [
       {
@@ -84,11 +84,39 @@
         "url": "https://e27.co/malaysias-ai-nation-2030-puts-cities-and-farms-at-the-heart-of-climate-resilience-20260820/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943"
+      },
+      {
         "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-20T10:16:06+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938"
+      },
+      {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942"
+      },
+      {
+        "title": "[NEU] [mittel] Arista EOS und WiFi Access Point: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2941"
+      },
+      {
+        "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940"
       },
       {
         "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
@@ -186,6 +214,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] Drupal Module: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943"
+      },
+      {
         "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-20T10:16:06+00:00",
@@ -207,6 +242,34 @@
         "url": "https://jvn.jp/vu/JVNVU91609598/"
       },
       {
+        "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897"
+      },
+      {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942"
+      },
+      {
+        "title": "[NEU] [mittel] Arista EOS und WiFi Access Point: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2941"
+      },
+      {
+        "title": "[NEU] [hoch] WebKitGTK: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-20T10:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940"
+      },
+      {
         "title": "[NEU] [mittel] Perl: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-20T10:16:06+00:00",
@@ -219,41 +282,6 @@
         "published_at": "2026-08-20T10:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU91551881/"
-      },
-      {
-        "title": "[UPDATE] [mittel] bluez: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T09:59:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2905"
-      },
-      {
-        "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T09:59:01+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2911"
-      },
-      {
-        "title": "[UPDATE] [mittel] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T06:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165"
-      },
-      {
-        "title": "[UPDATE] [mittel] docker: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T06:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2111"
-      },
-      {
-        "title": "[UPDATE] [mittel] Snipe-IT: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-20T06:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073"
       }
     ],
     "economy": [
