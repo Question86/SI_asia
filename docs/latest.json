@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T04:10:44+00:00",
-  "run_id": "2026-08-20T04:10:44+00:00",
+  "generated_at": "2026-08-20T04:24:09+00:00",
+  "run_id": "2026-08-20T04:24:09+00:00",
   "date": "2026-08-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -929,50 +929,7 @@
       "id": "a018ce1352ab9bcf91e0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call",
-      "url": "https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-20T04:06:26+00:00",
-      "fetched_at": "2026-08-20T04:10:16+00:00",
-      "summary": "Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest by a high-ranking officer of the “Mumbai Police.” I […] The post Almost got “digitally arrested.” India needs Singapore’s playbook before the next scam call ap…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Reputationsrisiko"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region india: India, Mumbai (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f4e0c27f3b07f6ddd422"
-    },
-    {
-      "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_910/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-20T01:35:33+00:00",
-      "fetched_at": "2026-08-20T04:10:16+00:00",
-      "summary": "株式会社Preferred Networks LLM開発事業本部 本部長 田中大輔 2015年、株式会社Preferred Networks入社。自社IoT製品の研究開発や企業導入支援、深層学習 コンパイラ開発に従事。エンジニアリングマネージャーを経て、2022年に機械学習基盤担当 VPに就任（当時）。現在は基盤モデル開発を担当する事業部の本部長として...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1404924d6530d796f7f5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
