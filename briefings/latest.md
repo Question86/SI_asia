@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-20T23:10:35+00:00_
+_Generiert: 2026-08-20T23:22:04+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
+89 neue relevante Treffer. Stärkstes Signal: „Code scanning adds a mitigated alert dismissal reason“ aus GitHub Changelog Atom (Score 21, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
