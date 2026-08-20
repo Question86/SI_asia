@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-20T18:44:05Z",
+  "generated_at": "2026-08-20T19:02:49Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 14,
-      "strong": 20,
-      "watch": 5
+      "strong": 21,
+      "watch": 4
     },
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 33,
-      "watch": 5
+      "strong": 34,
+      "watch": 4
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:05+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU91609598/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T14:00:00+09:00",
-      "age_days": 0.57,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2946",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T11:41:05+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2944",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:51:05+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2941",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:05+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2940",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:31:05+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security"
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2937",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:16:06+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -218,7 +218,7 @@
       "url": "https://jvn.jp/vu/JVNVU91551881/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-20T10:00:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -242,7 +242,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2905",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T09:59:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -266,7 +266,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2111",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:05+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -290,7 +290,7 @@
       "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai"
       ],
@@ -318,7 +318,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1023/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-14T00:00:00+00:00",
-      "age_days": 6.78,
+      "age_days": 6.79,
       "topics": [
         "ai",
         "security"
@@ -345,7 +345,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T11:26:05+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -371,7 +371,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T11:06:05+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -397,7 +397,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -423,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2911",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T09:59:01+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security"
@@ -450,7 +450,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:06+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -476,7 +476,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T06:16:05+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -502,7 +502,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -528,7 +528,7 @@
       "url": "https://openai.com/index/stampli",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-20T00:00:00+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai",
         "macro"
@@ -555,7 +555,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2943",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -580,7 +580,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-20T10:16:06+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -605,7 +605,7 @@
       "url": "https://e27.co/singapore-polytechnic-launches-castle-to-help-smes-strengthen-cyber-defences-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T08:11:48+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security"
@@ -631,7 +631,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.7,
+      "age_days": 62.71,
       "topics": [
         "ai"
       ],
@@ -660,7 +660,7 @@
       "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-20T15:14:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security",
@@ -688,7 +688,7 @@
       "url": "https://e27.co/almost-got-digitally-arrested-india-needs-singapores-playbook-before-the-next-scam-call-20260820/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-20T04:06:26+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "ai"
       ],
@@ -710,11 +710,37 @@
       "summary": "Over a year ago, I received a call from someone claiming that an illegal parcel containing drugs was intercepted in my name. The call sounded so genuine that he managed to trap me on a continuous video call. Within minutes, I found myself under virtual arrest by a high-ranking officer of the “Mumbai Police.” I […] The…"
     },
     {
+      "title": "M 5.6 - 67 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm8h",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-20T18:39:27.461+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - V Time 2026-08-20 18:12:51 UTC 2026-08-20 18:12:51 UTC at epicenter Location 8.288°S 121.398°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.7 - 32 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:12:09.708+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -740,7 +766,7 @@
       "url": "https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-20T09:53:00.000+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -765,7 +791,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T09:48:42.292+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -790,7 +816,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T08:13:26.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -815,7 +841,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm22",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:18:39.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -840,7 +866,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T05:10:34.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "disaster"
       ],
@@ -865,7 +891,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:15:43.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -890,7 +916,7 @@
       "url": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-20T10:00:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -915,7 +941,7 @@
       "url": "https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-20T09:41:00.000+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -939,7 +965,7 @@
       "url": "https://www.heise.de/news/Cisco-Sicherheitsluecken-Angreifer-koennen-Anmeldung-von-Secure-Workload-umgehen-11419989.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-20T07:41:00.000+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -963,7 +989,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T10:07:09.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -988,7 +1014,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm1m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T03:24:10.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "disaster"
       ],
@@ -1007,30 +1033,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-20 03:09:06 UTC 2026-08-20 03:09:06 UTC at epicenter Location 24.337°S 67.115°W Depth 166.71 km (103.59 mi)"
-    },
-    {
-      "title": "M 6.7 - 38 km NW of Upahuacho, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-20T18:26:53.900+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - VII DYFI? - V Time 2026-08-20 18:00:15 UTC 2026-08-20 18:00:15 UTC at epicenter Location 14.626°S 73.616°W Depth 66.67 km (41.42 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
