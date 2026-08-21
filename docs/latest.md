@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T17:09:44+00:00_
+_Generiert: 2026-08-21T17:21:22+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+83 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -204,6 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 130 km W of Pangai, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlh)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T17:12:22.040+00:00`, fetched `2026-08-21T17:20:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 16:45:36 UTC 2026-08-21 16:45:36 UTC at epicenter Location 19.688°S 175.596°W Depth 271.07 km (168.43 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **A dumpling shop becomes a poster child of AI adoption in China** — Score 9, observation — [Quelle](https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-21T13:00:00+00:00`, fetched `2026-08-21T13:13:25+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-21 12:19:02 UTC 2026-08-21 12:19:02 UTC at epicenter Location 31.938°S 178.712°W Depth 69.84 km (43.40 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 237 km NNW of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf2)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T11:15:46.040+00:00`, fetched `2026-08-21T11:18:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 10:38:57 UTC 2026-08-21 10:38:57 UTC at epicenter Location 47.219°N 146.783°E Depth 350.50 km (217.79 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – July 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
@@ -267,7 +267,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_japan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP
