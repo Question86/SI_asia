@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T00:24:48+00:00",
-  "run_id": "2026-08-21T00:24:48+00:00",
+  "generated_at": "2026-08-21T00:44:06+00:00",
+  "run_id": "2026-08-21T00:44:06+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 3,
     "displayed_findings": 3,
     "high": 0,
@@ -195,29 +195,7 @@
       "id": "ea4f8b8b95561642ccc0"
     }
   ],
-  "new_findings": [
-    {
-      "title": "悪名高きスワイプ広告を解析する - Qiita",
-      "url": "https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-01-14T12:15:23+00:00",
-      "fetched_at": "2026-08-21T00:24:18+00:00",
-      "summary": "この記事の概要 ユーザーから嫌われている広告の1つに「スワイプ広告」というものがある。 誤タップをしやすいことが理由だが、あまりにもこの広告だけ誤タップするため調べたところ 実は誤タップしたように見せかけて意図的に広告先に遷移させる広告であるということがわかった。 スワイプ広告とは、左右にスワイプする...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ea4f8b8b95561642ccc0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
