@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T19:27:25+00:00_
+_Generiert: 2026-08-21T19:38:29+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+87 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
