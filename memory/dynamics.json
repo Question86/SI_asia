@@ -1,28 +1,53 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-21T11:38:28Z",
+  "generated_at": "2026-08-21T11:51:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 17,
-      "strong": 15,
-      "watch": 8
+      "krass": 19,
+      "strong": 17,
+      "watch": 4
     },
     "bands_after_gate_recheck": {
-      "krass": 3,
-      "strong": 29,
-      "watch": 8
+      "krass": 4,
+      "strong": 32,
+      "watch": 4
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-21T11:31:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen."
+    },
     {
       "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2957",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T10:36:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -47,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2953",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T09:56:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -72,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2950",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T09:01:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -97,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T09:01:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security",
         "infra"
@@ -124,7 +149,7 @@
       "url": "https://jvn.jp/jp/JVN81414813/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T14:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -148,7 +173,7 @@
       "url": "https://jvn.jp/jp/JVN09266484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T12:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -168,11 +193,35 @@
       "summary": "国立研究開発法人科学技術振興機構が提供するスマートフォンアプリ「日本科学未来館アシストアプリ」には、クロスサイトスクリプティングの脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2960",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-21T11:31:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in expat ausnutzen, um eine Speicherbeschädigung und einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
       "title": "[NEU] [hoch] libvirt: Schwachstelle ermöglicht Privilegieneskalation und DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2954",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T10:01:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -220,7 +269,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2949",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T08:56:05+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -245,7 +294,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2948",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T08:51:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -269,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T06:31:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -294,7 +343,7 @@
       "url": "https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:30:22+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -320,7 +369,7 @@
       "url": "https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T09:18:20+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -348,7 +397,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2947",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T08:41:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -374,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T04:56:06+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -400,7 +449,7 @@
       "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T03:00:25+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security"
@@ -451,11 +500,37 @@
       "summary": "Das polnische CERT warnt vor Angriffen auf eine Befehlsschmuggel-Lücke in der Zimbra Collaboration Suite. Ein Update ist verfügbar."
     },
     {
+      "title": "[NEU] [hoch] Apache CloudStack: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2962",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-21T11:36:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache CloudStack ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen und um beliebigen Programmcode…"
+    },
+    {
       "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T10:30:00+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -481,7 +556,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2415",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T09:51:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -507,7 +582,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2711",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T09:51:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -584,7 +659,7 @@
       "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-21T10:24:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -610,7 +685,7 @@
       "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-21T08:00:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -636,7 +711,7 @@
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -662,7 +737,7 @@
       "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:05:41+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "macro",
         "disaster"
@@ -689,7 +764,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 63.4,
+      "age_days": 63.41,
       "topics": [
         "ai"
       ],
@@ -718,7 +793,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -742,11 +817,36 @@
       "summary": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to ge…"
     },
     {
+      "title": "M 4.6 - 44 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-21T11:32:53.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 9.9"
+      ],
+      "summary": "Time 2026-08-21 11:03:03 UTC 2026-08-21 11:03:03 UTC at epicenter Location 8.213°S 120.540°E Depth 9.98 km (6.20 mi)"
+    },
+    {
       "title": "M 5.1 - 1 km N of Alegria, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T09:42:41.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -771,7 +871,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T09:37:34.041+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -821,7 +921,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T01:37:11.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -846,7 +946,7 @@
       "url": "https://www.heise.de/news/Dell-ObjectScale-Hoehere-Nutzerrechte-erschleichbar-11421714.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-21T09:28:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -870,7 +970,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmej",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T08:39:28.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -894,7 +994,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T11:15:46.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -919,7 +1019,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T08:30:39.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -938,110 +1038,7 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-21 08:12:34 UTC 2026-08-21 08:12:34 UTC at epicenter Location 24.712°S 175.307°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 4.6 - south of Africa",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-21T06:33:40.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-21 05:56:46 UTC 2026-08-21 05:56:46 UTC at epicenter Location 53.142°S 23.569°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - Pacific-Antarctic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-20T23:58:06.040+00:00",
-      "age_days": 0.49,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot",
-      "url": "https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-21T05:23:19+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai",
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Singapore’s Cyber Command has disrupted more than 30,000 Apple iMessage accounts tied to a fraud campaign that has cost victims roughly SGD2.2 million (US$1.7 million) since June, a figure that jumped nearly US$800,000 in the weeks since police last updated the tally on August 5. The scam itself was mundane: spoofed m…"
-    },
-    {
-      "title": "When everyone looks the same: Strategy after feature parity",
-      "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-21T01:00:00+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
