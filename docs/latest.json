@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T14:21:19+00:00",
-  "run_id": "2026-08-21T14:21:19+00:00",
+  "generated_at": "2026-08-21T14:37:05+00:00",
+  "run_id": "2026-08-21T14:37:05+00:00",
   "date": "2026-08-21",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 77
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
     "medium": 36,
     "observe": 41,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -3909,30 +3909,15 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2134400.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "ecb_yield_curve",
+      "source_name": "ECB Euro Area Yield Curve",
       "source_type": "rss",
-      "published_at": "2026-08-21T04:48:04+00:00",
-      "fetched_at": "2026-08-21T14:20:45+00:00",
-      "summary": "Anthropic、「Claude」の学習サイト「Claude Academy」を無償開設／AIの基礎から「Code」「Cowork」まで。興味や学習状況に応じてさまざまなコースを提案",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "326d2773585b334cb463"
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
