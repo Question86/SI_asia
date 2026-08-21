@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T02:48:49+00:00_
+_Generiert: 2026-08-21T03:13:47+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M** — Score 16, risk — [Quelle](https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-21T03:00:25+00:00`, fetched `2026-08-21T03:13:17+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecting and disabling accounts tied to […] The post Singapore disrupts 30,000 iMessage accounts as scam l…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 75 km NW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -38,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-21 01:18:05 UTC 2026-08-21 01:18:05 UTC at epicenter Location 8.218°S 120.596°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **スマートフォンアプリ「日本科学未来館アシストアプリ」におけるクロスサイトスクリプティングの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN09266484/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-21T12:00:00+09:00`, fetched `2026-08-21T03:13:17+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 国立研究開発法人科学技術振興機構が提供するスマートフォンアプリ「日本科学未来館アシストアプリ」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ヤマハ製VOCALOID6 Editorにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90210212/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

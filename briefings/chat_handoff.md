@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T02:48:49+00:00_
+_Generated: 2026-08-21T03:13:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `16`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-21T02:48:49+00:00_
 - url: https://jvn.jp/vu/JVNVU97889580/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.6 - 75 km NW of Ende, Indonesia
+### 2. Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-08-21T03:00:25+00:00`
+- url: https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/
+- summary: Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Si…
+
+### 3. M 4.6 - 75 km NW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-21T02:09:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn
 - summary: Time 2026-08-21 01:38:42 UTC 2026-08-21 01:38:42 UTC at epicenter Location 8.284°S 121.273°E Depth 10.00 km (6.21 mi)
 
-### 3. M 4.6 - 45 km NNE of Ruteng, Indonesia
+### 4. M 4.6 - 45 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-21T01:37:11.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj
 - summary: Time 2026-08-21 01:18:05 UTC 2026-08-21 01:18:05 UTC at epicenter Location 8.218°S 120.596°E Depth 10.00 km (6.21 mi)
-
-### 4. ヤマハ製VOCALOID6 Editorにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-21T10:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU90210212/
-- summary: ヤマハ株式会社が提供するVOCALOID6 Editorには、複数の脆弱性が存在します。
 
 ### 5. modular/modular
 - source: GitHub Trending RSS All Languages Daily
