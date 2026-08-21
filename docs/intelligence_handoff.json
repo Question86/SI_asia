@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-21T08:10:56Z",
+  "generated_at": "2026-08-21T08:24:54Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN81414813/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T14:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN09266484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T06:31:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -84,37 +84,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in MailPit ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "J&T Express leans on Southeast Asia as China parcel growth cools",
-      "url": "https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-21T04:30:22+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "J&T Global Express has delivered the kind of first-half numbers that usually make public-market investors sit up. The Hong Kong-listed logistics company reported revenue of US$7.67 billion for the first half of 2026, up 39.5 per cent year-on-year, while express delivery revenue rose 39.6 per cent to US$7.46 billion. A…"
-    },
-    {
       "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T04:56:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -140,7 +114,7 @@
       "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T03:00:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -167,7 +141,7 @@
       "url": "https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-21T07:12:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -195,7 +169,7 @@
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T10:30:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -221,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1916",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T07:26:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -247,7 +221,7 @@
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -268,11 +242,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
+      "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-21T08:00:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen."
+    },
+    {
       "title": "modular/modular",
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -298,7 +298,7 @@
       "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:05:41+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "macro",
         "disaster"

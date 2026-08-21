@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-21T08:10:56Z",
+  "generated_at": "2026-08-21T08:24:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
-      "krass": 8,
+      "krass": 9,
       "strong": 8,
       "watch": 4,
       "quiet": 19
     },
     "bands_after_gate_recheck": {
-      "strong": 16,
+      "strong": 17,
       "watch": 4,
       "quiet": 19
     }
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN81414813/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T14:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN09266484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T06:31:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -96,7 +96,7 @@
       "url": "https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:30:22+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T04:56:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T03:00:25+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -175,7 +175,7 @@
       "url": "https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-21T07:12:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -203,7 +203,7 @@
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T10:30:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -229,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1916",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T07:26:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -255,7 +255,7 @@
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -276,11 +276,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
+      "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-21T08:00:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code",
+        "security high-signal: kritisch, code",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen."
+    },
+    {
       "title": "modular/modular",
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -306,7 +332,7 @@
       "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:05:41+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "macro",
         "disaster"
@@ -333,7 +359,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 63.26,
+      "age_days": 63.27,
       "topics": [
         "ai"
       ],
@@ -362,7 +388,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -390,7 +416,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T02:09:06.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -415,7 +441,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T01:37:11.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -440,7 +466,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T06:33:40.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -465,7 +491,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T23:58:06.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -490,7 +516,7 @@
       "url": "https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T05:23:19+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -516,7 +542,7 @@
       "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T01:00:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -543,7 +569,7 @@
       "url": "https://e27.co/southeast-asias-oldest-savings-product-still-has-no-price-for-going-first-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T05:53:23+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -590,11 +616,35 @@
       "summary": "For years, Southeast Asia’s startup economy has rewarded speed. Founders were expected to launch quickly, localise faster than global rivals, and chase market share across a region where digital adoption often outpaced regulation. That instinct still matters. But as artificial intelligence moves from pilot projects in…"
     },
     {
+      "title": "ECB Consumer Expectations Survey results – July 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-08-21T08:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "ECB Consumer Expectations Survey results – July 2026"
+    },
+    {
       "title": "共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました",
       "url": "https://www.digital.go.jp/news/aadabdb6-0193-4ea3-b197-cfb1648c1c30",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-21T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -618,7 +668,7 @@
       "url": "https://www.digital.go.jp/news/a6336356-3dc3-4c32-b6e5-fbfcd9d56698",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-21T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -642,7 +692,7 @@
       "url": "https://www.digital.go.jp/news/afd1b34c-7689-4a61-b3ed-b4e98029c3c1",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-21T06:00:00+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -666,7 +716,7 @@
       "url": "https://note.com/saamon_note/n/nf2624bde20d6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T04:57:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -690,7 +740,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2134411.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T03:22:35+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -714,7 +764,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2134248.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T21:50:31+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "general"
       ],
@@ -738,7 +788,7 @@
       "url": "https://mofmof-investor.com/kioxia-optical-ssd",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T00:35:27+00:00",
-      "age_days": 4.32,
+      "age_days": 4.33,
       "topics": [
         "ai"
       ],
@@ -764,7 +814,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 62.22,
+      "age_days": 62.23,
       "topics": [
         "general"
       ],
@@ -789,7 +839,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 62.22,
+      "age_days": 62.23,
       "topics": [
         "general"
       ],
@@ -814,7 +864,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 62.22,
+      "age_days": 62.23,
       "topics": [
         "ai"
       ],
@@ -841,7 +891,7 @@
       "url": "https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:50:20+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -892,7 +942,7 @@
       "url": "https://togetter.com/li/2735638",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T02:42:50+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -917,7 +967,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T23:57:58+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -938,11 +988,36 @@
       "summary": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る"
     },
     {
+      "title": "成人向けAIコンテンツ創作プラットフォーム「FANZAスタジオ」の先行体験を開始創作したAIコンテンツを公開しファンとつながれる新サービス",
+      "url": "https://www.value-press.com/pressrelease/379051",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-20T15:22:58+00:00",
+      "age_days": 0.71,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "成人向けAIコンテンツ創作プラットフォーム「FANZAスタジオ」の先行体験を開始創作したAIコンテンツを公開しファンとつながれる新サービス ネットサービス 株式会社デジタルコマース（東京都港区、代表取締役社長 島崎 啓之、以下デジタルコマース）は、成人向けエンタメプラットフォーム「FANZA」上で、デジタル・リン..."
+    },
+    {
       "title": "The eSIM awareness gap is the market’s biggest opportunity",
       "url": "https://e27.co/the-esim-awareness-gap-is-the-markets-biggest-opportunity-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T05:15:38+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "macro"
@@ -962,55 +1037,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Millions of travellers already have phones that can help them stay connected abroad. They book flights with apps, keep boarding passes in digital wallets, use maps to plan, rely on ride-hailing after landing, and message throughout their trips. But many travellers still do not know if their phone supports eSIM. This i…"
-    },
-    {
-      "title": "悪名高きスワイプ広告を解析する - Qiita",
-      "url": "https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-01-14T12:15:23+00:00",
-      "age_days": 218.83,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 218.8d old signal"
-      ],
-      "summary": "この記事の概要 ユーザーから嫌われている広告の1つに「スワイプ広告」というものがある。 誤タップをしやすいことが理由だが、あまりにもこの広告だけ誤タップするため調べたところ 実は誤タップしたように見せかけて意図的に広告先に遷移させる広告であるということがわかった。 スワイプ広告とは、左右にスワイプする..."
-    },
-    {
-      "title": "Pinning saved views to the repository issues sidebar is generally available and more",
-      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
-      "source": "GitHub Changelog Atom",
-      "published_at": "2026-08-20T23:29:34+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even… The post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog ."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
