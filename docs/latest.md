@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T09:09:24+00:00_
+_Generiert: 2026-08-21T09:22:37+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+46 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz** — Score 18, risk — [Quelle](https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-21T09:18:20+00:00`, fetched `2026-08-21T09:22:03+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: From warehouse floor to boardroom Daniel Yun’s route into supply chain technology did not begin in a lab or a spreadsheet. It began in a logistics warehouse. Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments broke down and why customers lost faith in their carriers. One problem kept recurring: […] The post Sensors, predictions, premiums: How Willog turned shipment da…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-21T09:01:05+00:00`, fetched `2026-08-21T09:08:55+00:00`
@@ -111,15 +120,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国立研究開発法人科学技術振興機構が提供するスマートフォンアプリ「日本科学未来館アシストアプリ」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Why Malaysia’s AI Nation 2030 plan matters for B2B startups** — Score 14, observation — [Quelle](https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-21T02:03:26+00:00`, fetched `2026-08-21T02:21:46+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: For years, Southeast Asia’s startup economy has rewarded speed. Founders were expected to launch quickly, localise faster than global rivals, and chase market share across a region where digital adoption often outpaced regulation. That instinct still matters. But as artificial intelligence moves from pilot projects into banking, healthcare, government services, logistics and public infrastructure, speed […] The post…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -261,8 +261,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T09:09:24+00:00_
+_Generated: 2026-08-21T09:22:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `46`
 
 ## Top Signals
 
-### 1. [NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen
+### 1. Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-08-21T09:18:20+00:00`
+- url: https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/
+- summary: From warehouse floor to boardroom Daniel Yun’s route into supply chain technology did not begin in a lab or a spreadsheet. It began in a logistics warehouse. Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments b…
+
+### 2. [NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-08-21T09:01:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-21T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU97889580/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. [NEU] [mittel] Microsoft Windows Dienste: Mehrere Schwachstellen
+### 4. [NEU] [mittel] Microsoft Windows Dienste: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-21T08:41:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2947
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012 R2, Windows Server 2012, Windows Server 2016, Windows 10, Windows 11, Windows Server 2025, Windows Server 2022, Windows Server 2019, Microsoft Windows Remote Help und Windows App für M…
-
-### 4. Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-08-21T05:23:19+00:00`
-- url: https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/
-- summary: Singapore’s Cyber Command has disrupted more than 30,000 Apple iMessage accounts tied to a fraud campaign that has cost victims roughly SGD2.2 million (US$1.7 million) since June, a figure that jumped nearly US$800,000 in the weeks since police last updated t…
 
 ### 5. Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.
 - source: heise Security Alerts
