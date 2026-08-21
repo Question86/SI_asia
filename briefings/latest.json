@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T05:28:41+00:00",
-  "run_id": "2026-08-21T05:28:41+00:00",
+  "generated_at": "2026-08-21T05:44:20+00:00",
+  "run_id": "2026-08-21T05:44:20+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1249,116 +1249,7 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot",
-      "url": "https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-21T05:23:19+00:00",
-      "fetched_at": "2026-08-21T05:28:04+00:00",
-      "summary": "Singapore’s Cyber Command has disrupted more than 30,000 Apple iMessage accounts tied to a fraud campaign that has cost victims roughly SGD2.2 million (US$1.7 million) since June, a figure that jumped nearly US$800,000 in the weeks since police last updated the tally on August 5. The scam itself was mundane: spoofed messages impersonating Ninja Van, J&T Express and government […] The post Ecosystem Roundup: Singapor…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Reputationsrisiko"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "154ce90d999137882ab5"
-    },
-    {
-      "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-21T04:56:06+00:00",
-      "fetched_at": "2026-08-21T05:28:04+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f97dc0f9541279d70a16"
-    },
-    {
-      "title": "UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性",
-      "url": "https://jvn.jp/jp/JVN81414813/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-21T14:00:00+09:00",
-      "fetched_at": "2026-08-21T05:28:04+00:00",
-      "summary": "日本電気株式会社が提供するUNIVERGE IX-R/IX-Vシリーズルータには、重要な機能に対する認証の欠如の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "290561add473db430898"
-    },
-    {
-      "title": "The transformation ecology crisis: How AI is exposing the hidden fragility of high-performing teams",
-      "url": "https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-21T04:50:20+00:00",
-      "fetched_at": "2026-08-21T05:28:04+00:00",
-      "summary": "I was recently invited to evaluate the performance of a leadership team inside a growing organisation. The company had already gone through multiple rounds of evaluations before I arrived. Capability gaps had been mapped. Consultants had been brought in. AI adoption initiatives had been launched. Leadership workshops had been conducted. Internal reviews had been repeated. […] The post The transformation ecology cris…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "22a52e3d07ab712b2966"
-    },
-    {
-      "title": "The eSIM awareness gap is the market’s biggest opportunity",
-      "url": "https://e27.co/the-esim-awareness-gap-is-the-markets-biggest-opportunity-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-21T05:15:38+00:00",
-      "fetched_at": "2026-08-21T05:28:04+00:00",
-      "summary": "Millions of travellers already have phones that can help them stay connected abroad. They book flights with apps, keep boarding passes in digital wallets, use maps to plan, rely on ride-hailing after landing, and message throughout their trips. But many travellers still do not know if their phone supports eSIM. This is the main contradiction […] The post The eSIM awareness gap is the market’s biggest opportunity app…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "45345c2db61fce8da1f9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
