@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T05:57:30+00:00_
+_Generiert: 2026-08-21T06:11:10+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+31 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -215,6 +215,42 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/aadabdb6-0193-4ea3-b197-cfb1648c1c30)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/a6336356-3dc3-4c32-b6e5-fbfcd9d56698)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/afd1b34c-7689-4a61-b3ed-b4e98029c3c1)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん** — Score 5, observation — [Quelle](https://note.com/saamon_note/n/nf2624bde20d6)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T04:57:19+00:00`, fetched `2026-08-21T06:10:39+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめにゲームしながらサブモニタでYouTube、やってる人多いと思います。 私もFF14をやりながら攻略動画や作業用BGMを流してるんですが、あるときからゲーム中だけYouTubeの再生がカクついてしまうようになりました。 調べてみると「ブラウザのハードウェア アクセラレーションをオフにする」という方法が見つかって、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Qwen3.8 27Bが驚異の6.2GBに!? Unslothが新量子化技術で実現** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2134411.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-21T03:22:35+00:00`, fetched `2026-08-21T05:56:59+00:00`
@@ -232,15 +268,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-20T23:57:58+00:00`, fetched `2026-08-21T03:34:21+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Pinning saved views to the repository issues sidebar is generally available and more** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -260,3 +287,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_yield_curve` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
