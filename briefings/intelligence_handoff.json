@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-21T03:59:32Z",
+  "generated_at": "2026-08-21T04:18:29Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「日本科学未来館アシストアプリ」におけるクロスサイトスクリプティングの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN09266484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T03:00:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -66,7 +66,7 @@
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T10:30:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -92,7 +92,7 @@
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -117,7 +117,7 @@
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -139,11 +139,38 @@
       "summary": "The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the MAX Framework 🧑‍🚀 and the Mojo Language 🔥. Get st…"
     },
     {
+      "title": "US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?",
+      "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-21T04:05:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] Th…"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 63.08,
+      "age_days": 63.1,
       "topics": [
         "ai"
       ],
@@ -172,7 +199,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -200,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T02:09:06.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -225,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T01:37:11.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -250,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T23:58:06.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -275,7 +302,7 @@
       "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T01:00:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -296,33 +323,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin…"
-    },
-    {
-      "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
-      "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-21T02:03:26+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For years, Southeast Asia’s startup economy has rewarded speed. Founders were expected to launch quickly, localise faster than global rivals, and chase market share across a region where digital adoption often outpaced regulation. That instinct still matters. But as artificial intelligence moves from pilot projects in…"
     }
   ],
   "read_order": [
@@ -334,9 +334,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 2,
-      "quiet": 1
+      "strong": 10,
+      "watch": 2
     }
   }
 }
