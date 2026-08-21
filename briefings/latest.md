@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T08:53:14+00:00_
+_Generiert: 2026-08-21T09:09:24+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+45 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **[NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-21T09:01:05+00:00`, fetched `2026-08-21T09:08:55+00:00`
+  - Treffer: BSI, CERT-Bund, Exchange, Microsoft, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU97889580/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-21T09:00:00+09:00`, fetched `2026-08-21T00:02:53+00:00`
@@ -167,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国立研究開発法人科学技術振興機構が提供するスマートフォンアプリ「日本科学未来館アシストアプリ」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] HCL BigFix AEX: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2948)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-21T08:51:05+00:00`, fetched `2026-08-21T08:52:44+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in HCL BigFix AEX ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Malaysia’s AI Nation 2030 plan matters for B2B startups** — Score 14, observation — [Quelle](https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-21T02:03:26+00:00`, fetched `2026-08-21T02:21:46+00:00`
@@ -326,8 +326,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

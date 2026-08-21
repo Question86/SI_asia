@@ -1,5 +1,30 @@
 [
   {
+    "title": "[NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T09:01:05+00:00",
+    "fetched_at": "2026-08-21T09:08:55+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Exchange",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1ffdc7fbaebd59587f7a"
+  },
+  {
     "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）",
     "url": "https://jvn.jp/vu/JVNVU97889580/",
     "source": "JVN Japan Vulnerability Notes",
@@ -288,6 +313,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b88402411fb51e95a19b"
+  },
+  {
+    "title": "[NEU] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2950",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T09:01:05+00:00",
+    "fetched_at": "2026-08-21T09:08:55+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in NoMachine ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5162141f1aad66198bec"
+  },
+  {
+    "title": "[NEU] [mittel] MailPit: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2949",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T08:56:05+00:00",
+    "fetched_at": "2026-08-21T09:08:55+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in MailPit ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7fe8c1b91a5ca16bfe17"
   },
   {
     "title": "[NEU] [mittel] HCL BigFix AEX: Schwachstelle ermöglicht Denial of Service",
