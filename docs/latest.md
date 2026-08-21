@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T09:22:37+00:00_
+_Generiert: 2026-08-21T09:38:46+00:00_
 
 ## Kurzlage
 
-46 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+49 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecting and disabling accounts tied to […] The post Singapore disrupts 30,000 iMessage accounts as scam l…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.2 - 19 km W of Jabonga, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T09:37:34.041+00:00`, fetched `2026-08-21T09:38:16+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-08-21 09:12:20 UTC 2026-08-21 09:12:20 UTC at epicenter Location 9.338°N 125.342°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 88 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmej)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-21T08:39:28.040+00:00`, fetched `2026-08-21T08:52:44+00:00`
@@ -92,15 +101,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-21 01:38:42 UTC 2026-08-21 01:38:42 UTC at epicenter Location 8.284°S 121.273°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 45 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T01:37:11.040+00:00`, fetched `2026-08-21T01:50:23+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 01:18:05 UTC 2026-08-21 01:18:05 UTC at epicenter Location 8.218°S 120.596°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN81414813/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Dell ObjectScale: Höhere Nutzerrechte erschleichbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Dell-ObjectScale-Hoehere-Nutzerrechte-erschleichbar-11421714.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-21T09:28:00.000+00:00`, fetched `2026-08-21T09:38:16+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Sicherheitsupdates schließen mehrere Lücken in Dells Object-Storage-Plattform ObjectScale.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Zimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke** — Score 7, opportunity — [Quelle](https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-21T07:12:00.000+00:00`, fetched `2026-08-21T07:25:00+00:00`
@@ -248,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん** — Score 5, observation — [Quelle](https://note.com/saamon_note/n/nf2624bde20d6)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-21T04:57:19+00:00`, fetched `2026-08-21T06:10:39+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめにゲームしながらサブモニタでYouTube、やってる人多いと思います。 私もFF14をやりながら攻略動画や作業用BGMを流してるんですが、あるときからゲーム中だけYouTubeの再生がカクついてしまうようになりました。 調べてみると「ブラウザのハードウェア アクセラレーションをオフにする」という方法が見つかって、...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

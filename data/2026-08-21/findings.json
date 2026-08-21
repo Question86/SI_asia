@@ -160,6 +160,43 @@
     "id": "f94d679692e4df77ca7d"
   },
   {
+    "title": "M 5.2 - 19 km W of Jabonga, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-21T09:37:34.041+00:00",
+    "fetched_at": "2026-08-21T09:38:16+00:00",
+    "summary": "DYFI? - III Time 2026-08-21 09:12:20 UTC 2026-08-21 09:12:20 UTC at epicenter Location 9.338°N 125.342°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "47a08449e2b167cbc585"
+  },
+  {
     "title": "M 4.9 - 88 km N of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmej",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -335,6 +372,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "b88402411fb51e95a19b"
+  },
+  {
+    "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2952",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T09:21:05+00:00",
+    "fetched_at": "2026-08-21T09:38:16+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Cloud ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fa3b05347986c1f0a386"
   },
   {
     "title": "[NEU] [hoch] NoMachine: Schwachstelle ermöglicht Codeausführung",
@@ -798,6 +858,26 @@
       "PINS"
     ],
     "id": "c129a64428481339c6df"
+  },
+  {
+    "title": "Dell ObjectScale: Höhere Nutzerrechte erschleichbar",
+    "url": "https://www.heise.de/news/Dell-ObjectScale-Hoehere-Nutzerrechte-erschleichbar-11421714.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-21T09:28:00.000+00:00",
+    "fetched_at": "2026-08-21T09:38:16+00:00",
+    "summary": "Sicherheitsupdates schließen mehrere Lücken in Dells Object-Storage-Plattform ObjectScale.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "efd05ef26d8dc0658727"
   },
   {
     "title": "Zimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke",
