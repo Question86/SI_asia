@@ -450,6 +450,29 @@
     "id": "eff1cdff4460f893e1d1"
   },
   {
+    "title": "[NEU] [hoch] PTC Windchill und FlexPLM: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2963",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T11:51:06+00:00",
+    "fetched_at": "2026-08-21T11:55:03+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PTC Windchill und PTC FlexPLM ausnutzen, um Sicherheitsvorkehrungen zu umgehen, beliebigen Code auszuführen und vertrauliche Daten offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "54dbbf70435ebf4b70b0"
+  },
+  {
     "title": "[NEU] [hoch] Apache CloudStack: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2962",
     "source": "BSI CERT-Bund Security Advisories",

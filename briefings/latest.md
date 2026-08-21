@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T11:44:50+00:00_
+_Generiert: 2026-08-21T11:55:36+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+64 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -332,7 +332,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
