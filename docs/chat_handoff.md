@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T06:24:27+00:00_
+_Generated: 2026-08-21T06:42:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `33`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-21T06:24:27+00:00_
 - url: https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/
 - summary: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matte…
 
-### 8. M 5.0 - Pacific-Antarctic Ridge
+### 8. M 4.6 - south of Africa
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
-- published: `2026-08-20T23:58:06.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw
-- summary: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
+- published: `2026-08-21T06:33:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0
+- summary: Time 2026-08-21 05:56:46 UTC 2026-08-21 05:56:46 UTC at epicenter Location 53.142°S 23.569°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

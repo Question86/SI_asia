@@ -229,6 +229,29 @@
     "id": "b88402411fb51e95a19b"
   },
   {
+    "title": "[UPDATE] [mittel] MailPit: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T06:31:06+00:00",
+    "fetched_at": "2026-08-21T06:41:56+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in MailPit ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c3b3023703083425be29"
+  },
+  {
     "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
     "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -316,6 +339,42 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0a16cf237fe1a3294c00"
+  },
+  {
+    "title": "M 4.6 - south of Africa",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-21T06:33:40.040+00:00",
+    "fetched_at": "2026-08-21T06:41:56+00:00",
+    "summary": "Time 2026-08-21 05:56:46 UTC 2026-08-21 05:56:46 UTC at epicenter Location 53.142°S 23.569°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0aa4245e2b5f79229a3f"
   },
   {
     "title": "M 5.0 - Pacific-Antarctic Ridge",

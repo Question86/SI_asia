@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T06:24:27+00:00_
+_Generiert: 2026-08-21T06:42:29+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+33 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -84,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 国立研究開発法人科学技術振興機構が提供するスマートフォンアプリ「日本科学未来館アシストアプリ」には、クロスサイトスクリプティングの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] MailPit: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-21T06:31:06+00:00`, fetched `2026-08-21T06:41:56+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in MailPit ausnutzen, um einen Denial of Service Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Malaysia’s AI Nation 2030 plan matters for B2B startups** — Score 14, observation — [Quelle](https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-21T02:03:26+00:00`, fetched `2026-08-21T02:21:46+00:00`
@@ -123,6 +132,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - south of Africa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T06:33:40.040+00:00`, fetched `2026-08-21T06:41:56+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 05:56:46 UTC 2026-08-21 05:56:46 UTC at epicenter Location 53.142°S 23.569°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - Pacific-Antarctic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-20T23:58:06.040+00:00`, fetched `2026-08-21T00:02:53+00:00`
