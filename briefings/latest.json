@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T15:07:01+00:00",
-  "run_id": "2026-08-21T15:07:01+00:00",
+  "generated_at": "2026-08-21T15:18:59+00:00",
+  "run_id": "2026-08-21T15:18:59+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 77
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 77,
-    "displayed_findings": 77,
+    "new_relevant_findings": 1,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
     "medium": 36,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1696,6 +1696,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "54e02a12c3d8a119157e"
+      },
+      {
+        "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
+        "url": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T10:19:28+00:00",
+        "fetched_at": "2026-08-21T15:18:29+00:00",
+        "summary": "microSDカードはゲーム機やカメラなどの重要なデータを保存するために使われているため、どれほどの耐久性があるのかは購入を決める大きなポイントです。テクノロジー愛好家のマット・コール氏が、3年にわたって続けているmicroSDカードの耐久性テストの結果を報告しました。 I've been doing endurance testing on micr...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a36af3eb333be33d2a47"
       },
       {
         "title": "社内アプリ開発したら『ダークモード実装してくれませんか？』の声がめちゃくちゃ多くてビビった「もうダークモードのないアプリは使いたくない」",
@@ -3638,6 +3659,27 @@
       "id": "54e02a12c3d8a119157e"
     },
     {
+      "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
+      "url": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T10:19:28+00:00",
+      "fetched_at": "2026-08-21T15:18:29+00:00",
+      "summary": "microSDカードはゲーム機やカメラなどの重要なデータを保存するために使われているため、どれほどの耐久性があるのかは購入を決める大きなポイントです。テクノロジー愛好家のマット・コール氏が、3年にわたって続けているmicroSDカードの耐久性テストの結果を報告しました。 I've been doing endurance testing on micr...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a36af3eb333be33d2a47"
+    },
+    {
       "title": "社内アプリ開発したら『ダークモード実装してくれませんか？』の声がめちゃくちゃ多くてビビった「もうダークモードのないアプリは使いたくない」",
       "url": "https://togetter.com/li/2735756",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3909,7 +3951,29 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
+      "url": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T10:19:28+00:00",
+      "fetched_at": "2026-08-21T15:18:29+00:00",
+      "summary": "microSDカードはゲーム機やカメラなどの重要なデータを保存するために使われているため、どれほどの耐久性があるのかは購入を決める大きなポイントです。テクノロジー愛好家のマット・コール氏が、3年にわたって続けているmicroSDカードの耐久性テストの結果を報告しました。 I've been doing endurance testing on micr...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a36af3eb333be33d2a47"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
