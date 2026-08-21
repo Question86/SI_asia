@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-21T04:44:54+00:00",
+  "generated_at": "2026-08-21T05:28:41+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-08-21T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU97889580/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T04:56:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908"
+      },
+      {
+        "title": "UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-21T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN81414813/"
       },
       {
         "title": "スマートフォンアプリ「日本科学未来館アシストアプリ」におけるクロスサイトスクリプティングの脆弱性",
@@ -27,6 +41,13 @@
       }
     ],
     "ai": [
+      {
+        "title": "Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T05:23:19+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/"
+      },
       {
         "title": "Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M",
         "source": "e27 Asia Startup and Tech Feed",
@@ -47,6 +68,13 @@
         "published_at": null,
         "relevance_score": 11,
         "url": "https://github.com/modular/modular"
+      },
+      {
+        "title": "The transformation ecology crisis: How AI is exposing the hidden fragility of high-performing teams",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T04:50:20+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/"
       },
       {
         "title": "When everyone looks the same: Strategy after feature parity",
@@ -82,13 +110,36 @@
         "published_at": "2026-08-20T23:57:58+00:00",
         "relevance_score": 5,
         "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T05:23:19+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/"
       },
       {
-        "title": "Pinning saved views to the repository issues sidebar is generally available and more",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-20T23:29:34+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar"
+        "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T02:03:26+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/"
+      },
+      {
+        "title": "AprilNEA/OpenLogi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/AprilNEA/OpenLogi"
+      },
+      {
+        "title": "The eSIM awareness gap is the market’s biggest opportunity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T05:15:38+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-esim-awareness-gap-is-the-markets-biggest-opportunity-20260821/"
       }
     ],
     "general": [
@@ -170,22 +221,13 @@
         "published_at": "2026-08-21T02:32:07+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/climate-risks-invisible-threat-what-asean-banks-arent-accounting-for-20260809/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-21T02:03:26+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/"
       },
       {
-        "title": "AprilNEA/OpenLogi",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/AprilNEA/OpenLogi"
+        "title": "The eSIM awareness gap is the market’s biggest opportunity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T05:15:38+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/the-esim-awareness-gap-is-the-markets-biggest-opportunity-20260821/"
       }
     ],
     "github": [
