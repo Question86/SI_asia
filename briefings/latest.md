@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T20:48:14+00:00_
+_Generiert: 2026-08-21T20:57:30+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+89 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -229,6 +229,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI-Native な開発の実践に向けて | メルカリエンジニアリング** — Score 11, observation — [Quelle](https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-30T08:09:53+00:00`, fetched `2026-08-21T20:56:59+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: こんにちは becosuke です。メルカリ NFT と、その上で立ち上げている新規サービスの Backend を担当しています。この記事は「Merpay & Mercoin Tech Openness Month 2026」の 20日目の記事です。 この記事では、私たちメルカリ NFT チームがこの4ヶ月ほどで取り組んできた AI-Native な開発について書きます。1月末から...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **modular/modular** — Score 11, observation — [Quelle](https://github.com/modular/modular)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-21T02:48:22+00:00`
@@ -309,15 +318,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: I was recently invited to evaluate the performance of a leadership team inside a growing organisation. The company had already gone through multiple rounds of evaluations before I arrived. Capability gaps had been mapped. Consultants had been brought in. AI adoption initiatives had been launched. Leadership workshops had been conducted. Internal reviews had been repeated. […] The post The transformation ecology cris…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Apple (18 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1038/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-18T00:00:00+00:00`, fetched `2026-08-21T13:51:53+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

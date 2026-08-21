@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T20:48:14+00:00",
-  "run_id": "2026-08-21T20:48:14+00:00",
+  "generated_at": "2026-08-21T20:57:30+00:00",
+  "run_id": "2026-08-21T20:57:30+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 89
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 1,
+    "today_file_total": 89,
+    "displayed_findings": 89,
     "high": 0,
     "medium": 39,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1218,6 +1218,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "adbf9f4a5ac168a6c802"
+      },
+      {
+        "title": "AI-Native な開発の実践に向けて | メルカリエンジニアリング",
+        "url": "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-06-30T08:09:53+00:00",
+        "fetched_at": "2026-08-21T20:56:59+00:00",
+        "summary": "こんにちは becosuke です。メルカリ NFT と、その上で立ち上げている新規サービスの Backend を担当しています。この記事は「Merpay & Mercoin Tech Openness Month 2026」の 20日目の記事です。 この記事では、私たちメルカリ NFT チームがこの4ヶ月ほどで取り組んできた AI-Native な開発について書きます。1月末から...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d0b4519be12c56f3ad4"
       },
       {
         "title": "modular/modular",
@@ -3455,6 +3478,29 @@
       "id": "adbf9f4a5ac168a6c802"
     },
     {
+      "title": "AI-Native な開発の実践に向けて | メルカリエンジニアリング",
+      "url": "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-30T08:09:53+00:00",
+      "fetched_at": "2026-08-21T20:56:59+00:00",
+      "summary": "こんにちは becosuke です。メルカリ NFT と、その上で立ち上げている新規サービスの Backend を担当しています。この記事は「Merpay & Mercoin Tech Openness Month 2026」の 20日目の記事です。 この記事では、私たちメルカリ NFT チームがこの4ヶ月ほどで取り組んできた AI-Native な開発について書きます。1月末から...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d0b4519be12c56f3ad4"
+    },
+    {
       "title": "modular/modular",
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -4499,7 +4545,31 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AI-Native な開発の実践に向けて | メルカリエンジニアリング",
+      "url": "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-06-30T08:09:53+00:00",
+      "fetched_at": "2026-08-21T20:56:59+00:00",
+      "summary": "こんにちは becosuke です。メルカリ NFT と、その上で立ち上げている新規サービスの Backend を担当しています。この記事は「Merpay & Mercoin Tech Openness Month 2026」の 20日目の記事です。 この記事では、私たちメルカリ NFT チームがこの4ヶ月ほどで取り組んできた AI-Native な開発について書きます。1月末から...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d0b4519be12c56f3ad4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
