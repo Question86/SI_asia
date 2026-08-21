@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T08:00:43+00:00_
+_Generiert: 2026-08-21T08:18:18+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+38 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -179,6 +179,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.** — Score 11, observation — [Quelle](https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-21T08:00:00.000+00:00`, fetched `2026-08-21T08:17:48+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **modular/modular** — Score 11, observation — [Quelle](https://github.com/modular/modular)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-21T02:48:22+00:00`
@@ -205,6 +214,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB Consumer Expectations Survey results – July 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-08-21T08:00:00+00:00`, fetched `2026-08-21T08:17:48+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB Consumer Expectations Survey results – July 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - south of Africa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -295,24 +313,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Qwen3.8 27Bが驚異の6.2GBに!? Unslothが新量子化技術で実現
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる** — Score 5, observation — [Quelle](https://togetter.com/li/2735638)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-21T02:42:50+00:00`, fetched `2026-08-21T04:44:25+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Pinning saved views to the repository issues sidebar is generally available and more** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-20T23:29:34+00:00`, fetched `2026-08-21T01:50:23+00:00`
-  - Treffer: GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); recent (+1.0)
-  - Kurz: Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even… The post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
