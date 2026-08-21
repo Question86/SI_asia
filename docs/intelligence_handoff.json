@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-21T07:06:02Z",
+  "generated_at": "2026-08-21T07:28:56Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN81414813/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T14:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN09266484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T12:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T06:31:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -88,7 +88,7 @@
       "url": "https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:30:22+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -114,7 +114,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-21T04:56:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -140,7 +140,7 @@
       "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T03:00:25+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -163,11 +163,39 @@
       "summary": "Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecti…"
     },
     {
+      "title": "Zimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke",
+      "url": "https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-08-21T07:12:00.000+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Das polnische CERT warnt vor Angriffen auf eine Befehlsschmuggel-Lücke in der Zimbra Collaboration Suite. Ein Update ist verfügbar."
+    },
+    {
       "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T10:30:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -193,7 +221,7 @@
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -218,7 +246,7 @@
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -244,7 +272,7 @@
       "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T04:05:41+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro",
         "disaster"
@@ -271,7 +299,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 63.21,
+      "age_days": 63.23,
       "topics": [
         "ai"
       ],
@@ -294,34 +322,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "AprilNEA/OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: active",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to ge…"
     }
   ],
   "read_order": [
