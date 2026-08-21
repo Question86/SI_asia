@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T07:04:11+00:00_
+_Generiert: 2026-08-21T07:25:36+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+34 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -232,6 +232,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Zimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke** — Score 7, opportunity — [Quelle](https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-21T07:12:00.000+00:00`, fetched `2026-08-21T07:25:00+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Das polnische CERT warnt vor Angriffen auf eine Befehlsschmuggel-Lücke in der Zimbra Collaboration Suite. Ein Update ist verfügbar.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/aadabdb6-0193-4ea3-b197-cfb1648c1c30)
   - Quelle: Japan Digital Agency News RSS / `rss`
