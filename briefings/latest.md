@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T18:00:43+00:00_
+_Generiert: 2026-08-21T18:13:18+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-08-21T18:00:43+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-19`
   - Kurz: Known exploited vulnerability. Added 2026-08-19. Due 2026-09-02. MLflow Server-Side Request Forgery Vulnerability
-- **USGS earthquake M6.7 - 31 km NW of Aniso, Peru** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81)
-  - Quelle: USGS
-  - Zeit: `2026-08-20T18:00:18+00:00`
-  - Kurz: M6.7 - 31 km NW of Aniso, Peru. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561010)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 20/08/2026 18:12 UTC, 50 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560739)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,14 +57,10 @@ _Generiert: 2026-08-21T18:00:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 19/08/2026 22:45 UTC, 60 thousand in MMI VI.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560289)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.
 - **USGS earthquake M5.7 - 194 km SW of Labuan, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu)
   - Quelle: USGS
   - Zeit: `2026-08-21T17:41:44+00:00`
-  - Kurz: M5.7 - 194 km SW of Labuan, Indonesia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.7 - 194 km SW of Labuan, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

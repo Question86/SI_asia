@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:00:47+00:00",
+  "generated_at": "2026-08-21T18:13:21+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,17 +65,12 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.7 - 31 km NW of Aniso, Peru",
-        "summary": "M6.7 - 31 km NW of Aniso, Peru. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81",
-        "published_at": "2026-08-20T18:00:18+00:00",
-        "metrics": {
-          "mag": 6.7,
-          "alert": "green",
-          "sig": 729.0,
-          "tsunami": 0
-        }
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561010",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -139,25 +134,15 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560289",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.7 - 194 km SW of Labuan, Indonesia",
-        "summary": "M5.7 - 194 km SW of Labuan, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.7 - 194 km SW of Labuan, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu",
         "published_at": "2026-08-21T17:41:44+00:00",
         "metrics": {
           "mag": 5.7,
-          "alert": "",
+          "alert": "green",
           "sig": 500.0,
           "tsunami": 0
         }
