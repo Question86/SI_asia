@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-21T01:29:10Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-21T02:06:21Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヤマハ製VOCALOID6 Editorにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,37 @@
   ],
   "top_dynamics": [
     {
+      "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU90210212/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-21T10:30:00+09:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、複数の脆弱性が存在します。"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）",
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -40,7 +66,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.98,
+      "age_days": 63.01,
       "topics": [
         "ai"
       ],
@@ -65,11 +91,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-21T01:37:11.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-21 01:18:05 UTC 2026-08-21 01:18:05 UTC at epicenter Location 8.218°S 120.596°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - Pacific-Antarctic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T23:58:06.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -94,7 +145,7 @@
       "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T01:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -117,11 +168,37 @@
       "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin…"
     },
     {
+      "title": "キオクシアの光SSDとは?PCIeをそのまま光に変える技術のすごさを元キオクシア研究開発者がわかりやすく解説",
+      "url": "https://mofmof-investor.com/kioxia-optical-ssd",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-17T00:35:27+00:00",
+      "age_days": 4.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "この記事を書いた人 もふ (もふもふ不動産) ソニー・キオクシア(旧東芝メモリ)で16年、先端半導体の研究開発に従事。世界初のシステムディスプレイ「ACX343」と世界初の48層3次元フラッシュメモリ「BiCS FLASH™」の量産立ち上げに参画し、発明者として特許出願も行う。現在は株式投資20年・不動産投資10年の投資家・経営..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.94,
+      "age_days": 61.97,
       "topics": [
         "general"
       ],
@@ -137,7 +214,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 61.9d old signal"
+        "aging penalty -16.0 for 62.0d old signal"
       ],
       "summary": ""
     },
@@ -146,7 +223,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.94,
+      "age_days": 61.97,
       "topics": [
         "general"
       ],
@@ -162,7 +239,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 61.9d old signal"
+        "aging penalty -16.0 for 62.0d old signal"
       ],
       "summary": ""
     },
@@ -171,7 +248,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.94,
+      "age_days": 61.97,
       "topics": [
         "ai"
       ],
@@ -188,7 +265,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 61.9d old signal",
+        "aging penalty -16.0 for 62.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -198,7 +275,7 @@
       "url": "https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-01-14T12:15:23+00:00",
-      "age_days": 218.55,
+      "age_days": 218.58,
       "topics": [
         "general"
       ],
@@ -216,6 +293,31 @@
         "aging penalty -16.0 for 218.6d old signal"
       ],
       "summary": "この記事の概要 ユーザーから嫌われている広告の1つに「スワイプ広告」というものがある。 誤タップをしやすいことが理由だが、あまりにもこの広告だけ誤タップするため調べたところ 実は誤タップしたように見せかけて意図的に広告先に遷移させる広告であるということがわかった。 スワイプ広告とは、左右にスワイプする..."
+    },
+    {
+      "title": "Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-08-20T23:29:34+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even… The post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog ."
     }
   ],
   "read_order": [
@@ -227,9 +329,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2,
+      "strong": 4,
       "watch": 2,
-      "quiet": 4
+      "quiet": 6
     }
   }
 }
