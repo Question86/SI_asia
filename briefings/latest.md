@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T13:13:58+00:00_
+_Generiert: 2026-08-21T13:32:56+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+71 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -188,6 +188,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.4 - South Sandwich Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T13:31:38.493+00:00`, fetched `2026-08-21T13:32:22+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-08-21 13:06:40 UTC 2026-08-21 13:06:40 UTC at epicenter Location 58.851°S 26.557°W Depth 158.99 km (98.79 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet** — Score 11, observation — [Quelle](https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-21T10:24:00.000+00:00`, fetched `2026-08-21T10:44:04+00:00`
@@ -259,15 +268,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-21 10:38:57 UTC 2026-08-21 10:38:57 UTC at epicenter Location 47.219°N 146.783°E Depth 350.50 km (217.79 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T08:30:39.040+00:00`, fetched `2026-08-21T08:33:32+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 08:12:34 UTC 2026-08-21 08:12:34 UTC at epicenter Location 24.712°S 175.307°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – July 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`

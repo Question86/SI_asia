@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T13:13:58+00:00",
-  "run_id": "2026-08-21T13:13:58+00:00",
+  "generated_at": "2026-08-21T13:32:56+00:00",
+  "run_id": "2026-08-21T13:32:56+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 70
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 36,
-    "observe": 34,
+    "observe": 35,
     "source_errors": 0
   },
   "sections": {
@@ -984,6 +984,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.4 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-21T13:31:38.493+00:00",
+        "fetched_at": "2026-08-21T13:32:22+00:00",
+        "summary": "PAGER - GREEN ShakeMap - III Time 2026-08-21 13:06:40 UTC 2026-08-21 13:06:40 UTC at epicenter Location 58.851°S 26.557°W Depth 158.99 km (98.79 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "1d06f5a9f67651de6f07"
+      },
       {
         "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
         "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
@@ -2750,6 +2788,44 @@
       "id": "1c69721bcc78646a7184"
     },
     {
+      "title": "M 5.4 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-21T13:31:38.493+00:00",
+      "fetched_at": "2026-08-21T13:32:22+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-08-21 13:06:40 UTC 2026-08-21 13:06:40 UTC at epicenter Location 58.851°S 26.557°W Depth 158.99 km (98.79 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1d06f5a9f67651de6f07"
+    },
+    {
       "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
       "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
       "source": "heise Security Alerts",
@@ -3561,25 +3637,42 @@
   ],
   "new_findings": [
     {
-      "title": "A dumpling shop becomes a poster child of AI adoption in China",
-      "url": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "M 5.4 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-21T13:00:00+00:00",
-      "fetched_at": "2026-08-21T13:13:25+00:00",
-      "summary": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
+      "published_at": "2026-08-21T13:31:38.493+00:00",
+      "fetched_at": "2026-08-21T13:32:22+00:00",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-08-21 13:06:40 UTC 2026-08-21 13:06:40 UTC at epicenter Location 58.851°S 26.557°W Depth 158.99 km (98.79 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "technology"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e5098d1c72db6464c79c"
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "1d06f5a9f67651de6f07"
     }
   ],
   "source_errors": [],
