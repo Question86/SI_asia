@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T22:55:07+00:00_
+_Generiert: 2026-08-21T23:03:33+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+97 neue relevante Treffer. Stärkstes Signal: „「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 147 km NE of Diego de Almagro, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmnz)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T22:56:24.040+00:00`, fetched `2026-08-21T23:03:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 22:26:03 UTC 2026-08-21 22:26:03 UTC at epicenter Location 25.568°S 68.882°W Depth 102.43 km (63.64 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The new GitHub Copilot experience in Slack** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-08-21T16:07:15+00:00`, fetched `2026-08-21T16:25:58+00:00`
@@ -258,15 +267,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfi)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T12:35:41.040+00:00`, fetched `2026-08-21T12:51:34+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 12:19:02 UTC 2026-08-21 12:19:02 UTC at epicenter Location 31.938°S 178.712°W Depth 69.84 km (43.40 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ECB Consumer Expectations Survey results – July 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-08-21T08:00:00+00:00`, fetched `2026-08-21T08:17:48+00:00`

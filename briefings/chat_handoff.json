@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-21T22:55:07+00:00",
+  "generated_at": "2026-08-21T23:03:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 0,
     "medium": 41,
-    "observe": 54
+    "observe": 56
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "The new GitHub Copilot experience in Slack",
-      "source": "GitHub Changelog Atom",
+      "title": "M 4.7 - 147 km NE of Diego de Almagro, Chile",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-21T16:07:15+00:00",
+      "published_at": "2026-08-21T22:56:24.040+00:00",
       "relevance_score": 11,
-      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub B…",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmnz",
+      "summary": "Time 2026-08-21 22:26:03 UTC 2026-08-21 22:26:03 UTC at epicenter Location 25.568°S 68.882°W Depth 102.43 km (63.64 mi)",
       "section": "observe"
     }
   ],

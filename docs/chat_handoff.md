@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T22:55:07+00:00_
+_Generated: 2026-08-21T23:03:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `95`
+- findings: `97`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-21T22:55:07+00:00_
 - url: https://www.nicovideo.jp/watch/sm46695159
 - summary: このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...
 
-### 8. The new GitHub Copilot experience in Slack
-- source: GitHub Changelog Atom
+### 8. M 4.7 - 147 km NE of Diego de Almagro, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-08-21T16:07:15+00:00`
-- url: https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack
-- summary: The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub B…
+- published: `2026-08-21T22:56:24.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmnz
+- summary: Time 2026-08-21 22:26:03 UTC 2026-08-21 22:26:03 UTC at epicenter Location 25.568°S 68.882°W Depth 102.43 km (63.64 mi)
 
 END OF DOCUMENT
