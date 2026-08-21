@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:49:58+00:00",
+  "generated_at": "2026-08-21T18:00:47+00:00",
   "sections": {
     "global_security": [
       {
@@ -146,6 +146,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560289",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.7 - 194 km SW of Labuan, Indonesia",
+        "summary": "M5.7 - 194 km SW of Labuan, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmlu",
+        "published_at": "2026-08-21T17:41:44+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "",
+          "sig": 500.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
