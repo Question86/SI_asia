@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T11:08:04+00:00_
+_Generiert: 2026-08-21T11:18:48+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+59 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 237 km NNW of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T11:15:46.040+00:00`, fetched `2026-08-21T11:18:13+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 10:38:57 UTC 2026-08-21 10:38:57 UTC at epicenter Location 47.219°N 146.783°E Depth 350.50 km (217.79 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - south of Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-21T08:30:39.040+00:00`, fetched `2026-08-21T08:33:32+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-21 05:56:46 UTC 2026-08-21 05:56:46 UTC at epicenter Location 53.142°S 23.569°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - Pacific-Antarctic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-20T23:58:06.040+00:00`, fetched `2026-08-21T00:02:53+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The transformation ecology crisis: How AI is exposing the hidden fragility of high-performing teams** — Score 8, observation — [Quelle](https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
