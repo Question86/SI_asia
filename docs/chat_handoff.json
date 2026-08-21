@@ -100,5 +100,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz",
+        "url": "https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T09:18:20+00:00",
+        "age_days": 0.61,
+        "topics": [
+          "ai",
+          "security",
+          "infra"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: supply, chain",
+          "security high-signal: security"
+        ],
+        "summary": "From warehouse floor to boardroom Daniel Yun’s route into supply chain technology did not begin in a lab or a spreadsheet. It began in a logistics warehouse. Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments broke down and why customers lost faith in their carriers. On…"
+      },
+      {
+        "title": "認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs",
+        "url": "https://blog.cloudnative.co.jp/articles/id-security-acronyms-01-auth-basics/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-21T15:14:05+00:00",
+        "age_days": 0.36,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "はじめに こんにちは！kenkenです。 入社したばかりの頃、認証基盤関連の打ち合わせに同席すると、こんな会話が当たり前のように飛び交っていました。 「IdPをどうするか」「SSOはSAMLで？それともOIDC？」「OAuthのフローが…」 ……正直、最初は一つひとつの言葉が何を指すのか分からず、会話についていけませんでした。..."
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T11:31:06+00:00",
+        "age_days": 0.51,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen."
+      },
+      {
+        "title": "[NEU] [mittel] Microsoft Windows Dienste: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2947",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T08:41:05+00:00",
+        "age_days": 0.63,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, remote, 10",
+          "security high-signal: angriffe, remote, 10"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012 R2, Windows Server 2012, Windows Server 2016, Windows 10, Windows 11, Windows Server 2025, Windows Server 2022, Windows Server 2019, Microsoft Windows Remote Help und Windows App für Mac ausnutzen, um Administratorrechte zu erlangen, Spoofing-A…"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T04:56:06+00:00",
+        "age_days": 0.79,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen."
+      }
+    ]
+  }
 }
