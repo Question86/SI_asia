@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-21T16:26:30+00:00",
+  "generated_at": "2026-08-21T17:09:47+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-69836 Microsoft Entra ID",
+        "summary": "Known exploited vulnerability. Added 2026-08-21. Due 2026-08-24. Microsoft Entra ID Deserialization of Untrusted Data Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-21",
+        "metrics": {
+          "cve": "CVE-2026-69836"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-73570 Synacor Zimbra Collaboration Suite (ZCS)",
+        "summary": "Known exploited vulnerability. Added 2026-08-21. Due 2026-08-24. Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-21",
+        "metrics": {
+          "cve": "CVE-2026-73570"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-08-19",
         "metrics": {
           "cve": "CVE-2026-64849"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions",
-        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-18",
-        "metrics": {
-          "cve": "CVE-2026-33824"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-59310 Broadcom VMware vCenter",
-        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Broadcom VMware vCenter Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-18",
-        "metrics": {
-          "cve": "CVE-2026-59310"
         }
       },
       {

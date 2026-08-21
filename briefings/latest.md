@@ -1,14 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T16:26:27+00:00_
+_Generiert: 2026-08-21T17:09:44+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+82 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-69836 Microsoft Entra ID** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-21`
+  - Kurz: Known exploited vulnerability. Added 2026-08-21. Due 2026-08-24. Microsoft Entra ID Deserialization of Untrusted Data Vulnerability
+- **CISA KEV: CVE-2026-73570 Synacor Zimbra Collaboration Suite (ZCS)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-21`
+  - Kurz: Known exploited vulnerability. Added 2026-08-21. Due 2026-08-24. Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability
 - **CISA KEV: CVE-2026-72530 TrueConf Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-20`
@@ -21,14 +29,6 @@ _Generiert: 2026-08-21T16:26:27+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-19`
   - Kurz: Known exploited vulnerability. Added 2026-08-19. Due 2026-09-02. MLflow Server-Side Request Forgery Vulnerability
-- **CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-18`
-  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability
-- **CISA KEV: CVE-2026-59310 Broadcom VMware vCenter** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-18`
-  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Broadcom VMware vCenter Path Traversal Vulnerability
 - **USGS earthquake M6.7 - 31 km NW of Aniso, Peru** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm81)
   - Quelle: USGS
   - Zeit: `2026-08-20T18:00:18+00:00`
@@ -332,3 +332,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_japan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP
