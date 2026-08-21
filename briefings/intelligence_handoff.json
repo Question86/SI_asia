@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-20T23:50:59Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-08-21T00:06:03Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,61 +11,36 @@
   ],
   "top_dynamics": [
     {
-      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2942",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T10:36:05+00:00",
-      "age_days": 0.55,
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）",
+      "url": "https://jvn.jp/vu/JVNVU97889580/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-21T09:00:00+09:00",
+      "age_days": 0.0,
       "topics": [
         "security"
       ],
-      "dynamics_score": 31.0,
+      "dynamics_score": 24.9,
       "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
-      "security_high_signal": true,
+      "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth"
+        "security high-signal: cisa, jvn, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um beliebigen Programmcode auszuführen."
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
-      "title": "[UPDATE] [hoch] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1933",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen,um nicht näher spezifizierte Auswirkungen zu verursachen, potenziell beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen."
-    },
-    {
-      "title": "Singapore tightens scam rules for messaging, social media and e-commerce platforms",
-      "url": "https://e27.co/singapore-tightens-scam-rules-for-messaging-social-media-and-e-commerce-platforms-20260820/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-20T02:37:02+00:00",
-      "age_days": 0.88,
+      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 62.92,
       "topics": [
         "ai"
       ],
@@ -75,255 +50,121 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.95,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
+        "aging penalty -8.0 for 62.9d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
-      "summary": "Singapore is putting its biggest messaging, social media and e-commerce platforms on notice: stopping scams is no longer just a matter of taking down bad actors after users have been hit. The Singapore Police Force said it has issued new and updated Codes of Practice for designated online services, requiring platforms…"
+      "summary": ""
     },
     {
-      "title": "Multiples vulnérabilités dans Tenable Security Center (14 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1023/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "age_days": 6.99,
+      "title": "M 5.0 - Pacific-Antarctic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-20T23:58:06.040+00:00",
+      "age_days": 0.01,
       "topics": [
-        "ai",
-        "security"
+        "disaster"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code, 10",
-        "security high-signal: code, 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+        "early terms: earthquake",
+        "high terms: 10"
       ],
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi)."
+      "summary": "Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "[NEU] [hoch] Hashicorp Vault Secrets Operator: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2945",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T11:26:05+00:00",
-      "age_days": 0.52,
+      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
+      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 61.89,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1",
+        "aging penalty -16.0 for 61.9d old signal"
       ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Hashicorp Vault Secrets Operator ausnutzen, um seine Privilegien zu erhöhen und Daten offenzulegen oder zu manipulieren."
+      "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] CyberPanel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1269",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T11:06:05+00:00",
-      "age_days": 0.53,
+      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 61.89,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1",
+        "aging penalty -16.0 for 61.9d old signal"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in CyberPanel ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, und um Sicherheitsvorkehrungen zu umgehen. Die Kombination der beiden Schwachstellen kann zur Ausführung von beliebigem Code führen."
+      "summary": ""
     },
     {
-      "title": "[UPDATE] [mittel] Oracle Java SE: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2897",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T10:36:06+00:00",
-      "age_days": 0.55,
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "url": "https://toyokeizai.net/articles/-/948348?display=b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-20T02:49:51+00:00",
+      "age_days": 61.89,
       "topics": [
-        "security"
+        "ai"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "aging penalty -16.0 for 61.9d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Java SE ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-    },
-    {
-      "title": "[UPDATE] [hoch] Mozilla Firefox, Firefox ESR und Thunderbird: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2911",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T09:59:01+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Firefox ESR und Thunderbird ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Spoofing- oder Clickjacking-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2165",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T06:16:06+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeBSD Project FreeBSD OS ausnutzen, um seine Privilegien zu erhöhen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Snipe-IT: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2073",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T06:16:05+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Snipe-IT ausnutzen, um Dateien zu manipulieren, um Sicherheitsvorkehrungen zu umgehen, um einen Cross-Site Scripting Angriff durchzuführen und um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2209",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-20T05:26:07+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in FreeRDP ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
-    },
-    {
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-08-20T00:00:00+00:00",
-      "age_days": 0.99,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      "summary": ""
     }
   ],
   "read_order": [
@@ -335,8 +176,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "strong": 2,
+      "watch": 1,
+      "quiet": 3
     }
   }
 }
