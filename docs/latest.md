@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T13:32:56+00:00_
+_Generiert: 2026-08-21T13:52:26+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+76 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Mattermost Desktop App (18 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1040/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-18T00:00:00+00:00`, fetched `2026-08-21T13:51:53+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Desktop App. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **A dumpling shop becomes a poster child of AI adoption in China** — Score 9, observation — [Quelle](https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-21T13:00:00+00:00`, fetched `2026-08-21T13:13:25+00:00`
@@ -222,6 +231,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: I was recently invited to evaluate the performance of a leadership team inside a growing organisation. The company had already gone through multiple rounds of evaluations before I arrived. Capability gaps had been mapped. Consultants had been brought in. AI adoption initiatives had been launched. Leadership workshops had been conducted. Internal reviews had been repeated. […] The post The transformation ecology cris…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits Apple (18 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1038/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-18T00:00:00+00:00`, fetched `2026-08-21T13:51:53+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Zabbix (18 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1039/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-18T00:00:00+00:00`, fetched `2026-08-21T13:51:53+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AprilNEA/OpenLogi** — Score 8, opportunity — [Quelle](https://github.com/AprilNEA/OpenLogi)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-21T02:48:22+00:00`
@@ -231,33 +258,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Dell ObjectScale: Höhere Nutzerrechte erschleichbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Dell-ObjectScale-Hoehere-Nutzerrechte-erschleichbar-11421714.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-21T09:28:00.000+00:00`, fetched `2026-08-21T09:38:16+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Sicherheitsupdates schließen mehrere Lücken in Dells Object-Storage-Plattform ObjectScale.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/aadabdb6-0193-4ea3-b197-cfb1648c1c30)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/a6336356-3dc3-4c32-b6e5-fbfcd9d56698)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
