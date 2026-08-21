@@ -184,6 +184,43 @@
     "id": "f94d679692e4df77ca7d"
   },
   {
+    "title": "M 4.5 - 47 km N of Ruteng, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf7",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-21T11:56:23.040+00:00",
+    "fetched_at": "2026-08-21T12:03:59+00:00",
+    "summary": "Time 2026-08-21 11:16:52 UTC 2026-08-21 11:16:52 UTC at epicenter Location 8.190°S 120.533°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "564d52c099d9507d40e5"
+  },
+  {
     "title": "M 4.6 - 44 km N of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf5",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -448,6 +485,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "eff1cdff4460f893e1d1"
+  },
+  {
+    "title": "[NEU] [hoch] TP-Link Omada Gateway: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2964",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T11:56:05+00:00",
+    "fetched_at": "2026-08-21T12:03:59+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in TP-Link Omada Gateway ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cc738af621425ece41f5"
   },
   {
     "title": "[NEU] [hoch] PTC Windchill und FlexPLM: Mehrere Schwachstellen",
