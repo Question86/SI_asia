@@ -100,5 +100,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T04:56:06+00:00",
+        "age_days": 0.16,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen."
+      },
+      {
+        "title": "Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M",
+        "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T03:00:25+00:00",
+        "age_days": 0.24,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecti…"
+      },
+      {
+        "title": "Zimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke",
+        "url": "https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-21T07:12:00.000+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "axiom",
+          "security"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Das polnische CERT warnt vor Angriffen auf eine Befehlsschmuggel-Lücke in der Zimbra Collaboration Suite. Ein Update ist verfügbar."
+      },
+      {
+        "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU90210212/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-21T10:30:00+09:00",
+        "age_days": 0.3,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、複数の脆弱性が存在します。"
+      },
+      {
+        "title": "[UPDATE] [mittel] BigBlueButton: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1916",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T07:26:06+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in BigBlueButton ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren."
+      }
+    ]
+  }
 }
