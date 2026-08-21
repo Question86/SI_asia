@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-21T01:50:51+00:00",
+  "generated_at": "2026-08-21T02:22:18+00:00",
   "topics": {
     "security": [
       {
@@ -20,6 +20,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.6 - 75 km NW of Ende, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-21T02:09:06.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn"
+      },
       {
         "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -51,21 +58,12 @@
     ],
     "ai": [
       {
-        "title": "When everyone looks the same: Strategy after feature parity",
+        "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-21T01:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/"
+        "published_at": "2026-08-21T02:03:26+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/"
       },
-      {
-        "title": "Pinning saved views to the repository issues sidebar is generally available and more",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-20T23:29:34+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar"
-      }
-    ],
-    "github": [
       {
         "title": "When everyone looks the same: Strategy after feature parity",
         "source": "e27 Asia Startup and Tech Feed",
@@ -83,11 +81,43 @@
     ],
     "economy": [
       {
+        "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T02:03:26+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/"
+      },
+      {
         "title": "When everyone looks the same: Strategy after feature parity",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-21T01:00:00+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T02:03:26+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/"
+      }
+    ],
+    "github": [
+      {
+        "title": "When everyone looks the same: Strategy after feature parity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-21T01:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/"
+      },
+      {
+        "title": "Pinning saved views to the repository issues sidebar is generally available and more",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-20T23:29:34+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar"
       }
     ]
   }

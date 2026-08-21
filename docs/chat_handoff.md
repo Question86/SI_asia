@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T01:50:51+00:00_
+_Generated: 2026-08-21T02:22:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -15,42 +15,49 @@ _Generated: 2026-08-21T01:50:51+00:00_
 - url: https://jvn.jp/vu/JVNVU97889580/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.6 - 45 km NNE of Ruteng, Indonesia
+### 2. M 4.6 - 75 km NW of Ende, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-21T02:09:06.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn
+- summary: Time 2026-08-21 01:38:42 UTC 2026-08-21 01:38:42 UTC at epicenter Location 8.284°S 121.273°E Depth 10.00 km (6.21 mi)
+
+### 3. M 4.6 - 45 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-21T01:37:11.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj
 - summary: Time 2026-08-21 01:18:05 UTC 2026-08-21 01:18:05 UTC at epicenter Location 8.218°S 120.596°E Depth 10.00 km (6.21 mi)
 
-### 3. ヤマハ製VOCALOID6 Editorにおける複数の脆弱性
+### 4. ヤマハ製VOCALOID6 Editorにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-08-21T10:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU90210212/
 - summary: ヤマハ株式会社が提供するVOCALOID6 Editorには、複数の脆弱性が存在します。
 
-### 4. M 5.0 - Pacific-Antarctic Ridge
+### 5. M 5.0 - Pacific-Antarctic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-20T23:58:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw
 - summary: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
 
-### 5. When everyone looks the same: Strategy after feature parity
+### 6. When everyone looks the same: Strategy after feature parity
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-08-21T01:00:00+00:00`
 - url: https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/
 - summary: There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language…
 
-### 6. キオクシアの光SSDとは?PCIeをそのまま光に変える技術のすごさを元キオクシア研究開発者がわかりやすく解説
+### 7. キオクシアの光SSDとは?PCIeをそのまま光に変える技術のすごさを元キオクシア研究開発者がわかりやすく解説
 - source: Hatena Bookmark Hotentry IT
 - score: `4`
 - published: `2026-08-17T00:35:27+00:00`
 - url: https://mofmof-investor.com/kioxia-optical-ssd
 - summary: この記事を書いた人 もふ (もふもふ不動産) ソニー・キオクシア(旧東芝メモリ)で16年、先端半導体の研究開発に従事。世界初のシステムディスプレイ「ACX343」と世界初の48層3次元フラッシュメモリ「BiCS FLASH™」の量産立ち上げに参画し、発明者として特許出願も行う。現在は株式投資20年・不動産投資10年の投資家・経営...
 
-### 7. 悪名高きスワイプ広告を解析する - Qiita
+### 8. 悪名高きスワイプ広告を解析する - Qiita
 - source: Hatena Bookmark Hotentry IT
 - score: `4`
 - published: `2026-01-14T12:15:23+00:00`
