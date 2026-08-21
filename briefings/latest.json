@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T00:44:06+00:00",
-  "run_id": "2026-08-21T00:44:06+00:00",
+  "generated_at": "2026-08-21T01:12:02+00:00",
+  "run_id": "2026-08-21T01:12:02+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 1,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 1,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -89,6 +89,29 @@
           "LOW"
         ],
         "id": "86e2783758886ba51fbd"
+      },
+      {
+        "title": "When everyone looks the same: Strategy after feature parity",
+        "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-21T01:00:00+00:00",
+        "fetched_at": "2026-08-21T01:11:27+00:00",
+        "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin to sound interchangeable. At that point, leadership teams […] The post When everyone looks the same…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Automatisierung",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph demote demo (x0.45)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dcaaa7f3f17622954ada"
       },
       {
         "title": "悪名高きスワイプ広告を解析する - Qiita",
@@ -174,6 +197,29 @@
       "id": "86e2783758886ba51fbd"
     },
     {
+      "title": "When everyone looks the same: Strategy after feature parity",
+      "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-21T01:00:00+00:00",
+      "fetched_at": "2026-08-21T01:11:27+00:00",
+      "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin to sound interchangeable. At that point, leadership teams […] The post When everyone looks the same…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dcaaa7f3f17622954ada"
+    },
+    {
       "title": "悪名高きスワイプ広告を解析する - Qiita",
       "url": "https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca",
       "source": "Hatena Bookmark Hotentry IT",
@@ -195,7 +241,31 @@
       "id": "ea4f8b8b95561642ccc0"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "When everyone looks the same: Strategy after feature parity",
+      "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-21T01:00:00+00:00",
+      "fetched_at": "2026-08-21T01:11:27+00:00",
+      "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin to sound interchangeable. At that point, leadership teams […] The post When everyone looks the same…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph demote demo (x0.45)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dcaaa7f3f17622954ada"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

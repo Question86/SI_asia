@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T00:44:06+00:00_
+_Generated: 2026-08-21T01:12:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -22,7 +22,14 @@ _Generated: 2026-08-21T00:44:06+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw
 - summary: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
 
-### 3. 悪名高きスワイプ広告を解析する - Qiita
+### 3. When everyone looks the same: Strategy after feature parity
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-08-21T01:00:00+00:00`
+- url: https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/
+- summary: There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language…
+
+### 4. 悪名高きスワイプ広告を解析する - Qiita
 - source: Hatena Bookmark Hotentry IT
 - score: `4`
 - published: `2026-01-14T12:15:23+00:00`
