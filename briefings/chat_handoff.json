@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-21T04:26:56+00:00",
+  "generated_at": "2026-08-21T04:44:54+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 2,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 7,
-    "observe": 11
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "When everyone looks the same: Strategy after feature parity",
+      "title": "J&T Express leans on Southeast Asia as China parcel growth cools",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-21T01:00:00+00:00",
+      "published_at": "2026-08-21T04:30:22+00:00",
       "relevance_score": 8,
-      "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
-      "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language…",
+      "url": "https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/",
+      "summary": "J&T Global Express has delivered the kind of first-half numbers that usually make public-market investors sit up. The Hong Kong-listed logistics company reported revenue of US$7.67 billion for the first half of 2026, up 39.5 per cent year-on-year, while expre…",
       "section": "observe"
     }
   ],
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M",
-        "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-21T03:00:25+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecti…"
-      },
-      {
-        "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU90210212/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-21T10:30:00+09:00",
-        "age_days": 0.13,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "ヤマハ株式会社が提供するVOCALOID6 Editorには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）",
-        "url": "https://jvn.jp/vu/JVNVU97889580/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-21T09:00:00+09:00",
-        "age_days": 0.2,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "modular/modular",
-        "url": "https://github.com/modular/modular",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-21T02:48:22+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the MAX Framework 🧑‍🚀 and the Mojo Language 🔥. Get st…"
-      },
-      {
-        "title": "US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?",
-        "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-21T04:05:41+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "macro",
-          "disaster"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] Th…"
-      }
-    ]
-  }
+  ]
 }

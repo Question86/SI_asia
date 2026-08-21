@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T04:26:56+00:00_
+_Generiert: 2026-08-21T04:44:54+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+20 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **J&T Express leans on Southeast Asia as China parcel growth cools** — Score 8, observation — [Quelle](https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-21T04:30:22+00:00`, fetched `2026-08-21T04:44:25+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Hong Kong (+2.0)
+  - Kurz: J&T Global Express has delivered the kind of first-half numbers that usually make public-market investors sit up. The Hong Kong-listed logistics company reported revenue of US$7.67 billion for the first half of 2026, up 39.5 per cent year-on-year, while express delivery revenue rose 39.6 per cent to US$7.46 billion. Adjusted net profit more than doubled […] The post J&T Express leans on Southeast Asia as China parce…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When everyone looks the same: Strategy after feature parity** — Score 8, opportunity — [Quelle](https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-21T01:00:00+00:00`, fetched `2026-08-21T01:11:27+00:00`
@@ -123,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Climate risk’s invisible threat: What ASEAN banks aren’t accounting for** — Score 6, observation — [Quelle](https://e27.co/climate-risks-invisible-threat-what-asean-banks-arent-accounting-for-20260809/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-21T02:32:07+00:00`, fetched `2026-08-21T02:48:22+00:00`
-  - Treffer: APAC Trend Radar
+- **「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる** — Score 5, observation — [Quelle](https://togetter.com/li/2735638)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T02:42:50+00:00`, fetched `2026-08-21T04:44:25+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)
-  - Kurz: Three months ago, I sat in a quarterly risk committee meeting at an Indonesian bank, watching a climate risk update presented in twelve slides over fifteen minutes. The presentation covered taxonomy alignment, sustainable finance commitments, and progress against the bank’s net-zero pathway. It was professional, well-researched, and accurate. It also did not mention the bank’s […] The post Climate risk’s invisible t…
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **キオクシアの光SSDとは?PCIeをそのまま光に変える技術のすごさを元キオクシア研究開発者がわかりやすく解説** — Score 4, observation — [Quelle](https://mofmof-investor.com/kioxia-optical-ssd)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-17T00:35:27+00:00`, fetched `2026-08-21T01:50:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
-  - Kurz: この記事を書いた人 もふ (もふもふ不動産) ソニー・キオクシア(旧東芝メモリ)で16年、先端半導体の研究開発に従事。世界初のシステムディスプレイ「ACX343」と世界初の48層3次元フラッシュメモリ「BiCS FLASH™」の量産立ち上げに参画し、発明者として特許出願も行う。現在は株式投資20年・不動産投資10年の投資家・経営...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Pinning saved views to the repository issues sidebar is generally available and more** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar)
   - Quelle: GitHub Changelog Atom / `rss`
