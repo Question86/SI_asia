@@ -229,6 +229,29 @@
     "id": "b88402411fb51e95a19b"
   },
   {
+    "title": "[UPDATE] [mittel] BigBlueButton: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1916",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T07:26:06+00:00",
+    "fetched_at": "2026-08-21T07:42:48+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in BigBlueButton ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83467b918377d5c39e94"
+  },
+  {
     "title": "[UPDATE] [mittel] MailPit: Mehrere Schwachstellen ermöglichen Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2256",
     "source": "BSI CERT-Bund Security Advisories",

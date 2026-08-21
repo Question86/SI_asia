@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-21T07:25:36+00:00",
+  "generated_at": "2026-08-21T07:43:19+00:00",
   "topics": {
     "security": [
       {
@@ -38,6 +38,13 @@
         "published_at": "2026-08-21T10:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU90210212/"
+      },
+      {
+        "title": "[UPDATE] [mittel] BigBlueButton: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T07:26:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1916"
       },
       {
         "title": "[UPDATE] [mittel] MailPit: Mehrere Schwachstellen ermöglichen Denial of Service",
