@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T02:22:18+00:00",
-  "run_id": "2026-08-21T02:22:18+00:00",
+  "generated_at": "2026-08-21T02:48:49+00:00",
+  "run_id": "2026-08-21T02:48:49+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 4,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 5,
-    "observe": 5,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -174,6 +174,29 @@
     ],
     "observe": [
       {
+        "title": "modular/modular",
+        "url": "https://github.com/modular/modular",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-21T02:48:22+00:00",
+        "summary": "The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the MAX Framework 🧑‍🚀 and the Mojo Language 🔥. Get started To get started with the Modular Platform and serve a model using the MAX framework, see the MA…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1e170216c689e98511d3"
+      },
+      {
         "title": "M 5.0 - Pacific-Antarctic Ridge",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -231,6 +254,92 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "dcaaa7f3f17622954ada"
+      },
+      {
+        "title": "AprilNEA/OpenLogi",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-21T02:48:22+00:00",
+        "summary": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: local-first"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "c129a64428481339c6df"
+      },
+      {
+        "title": "Climate risk’s invisible threat: What ASEAN banks aren’t accounting for",
+        "url": "https://e27.co/climate-risks-invisible-threat-what-asean-banks-arent-accounting-for-20260809/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-21T02:32:07+00:00",
+        "fetched_at": "2026-08-21T02:48:22+00:00",
+        "summary": "Three months ago, I sat in a quarterly risk committee meeting at an Indonesian bank, watching a climate risk update presented in twelve slides over fifteen minutes. The presentation covered taxonomy alignment, sustainable finance commitments, and progress against the bank’s net-zero pathway. It was professional, well-researched, and accurate. It also did not mention the bank’s […] The post Climate risk’s invisible t…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54e02a12c3d8a119157e"
+      },
+      {
+        "title": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2134248.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-20T21:50:31+00:00",
+        "fetched_at": "2026-08-21T02:48:22+00:00",
+        "summary": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "48459e8f1f8815d9bb71"
       },
       {
         "title": "キオクシアの光SSDとは?PCIeをそのまま光に変える技術のすごさを元キオクシア研究開発者がわかりやすく解説",
@@ -440,6 +549,29 @@
       "id": "1c69721bcc78646a7184"
     },
     {
+      "title": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the MAX Framework 🧑‍🚀 and the Mojo Language 🔥. Get started To get started with the Modular Platform and serve a model using the MAX framework, see the MA…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1e170216c689e98511d3"
+    },
+    {
       "title": "M 5.0 - Pacific-Antarctic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -497,6 +629,92 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "dcaaa7f3f17622954ada"
+    },
+    {
+      "title": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: local-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "c129a64428481339c6df"
+    },
+    {
+      "title": "Climate risk’s invisible threat: What ASEAN banks aren’t accounting for",
+      "url": "https://e27.co/climate-risks-invisible-threat-what-asean-banks-arent-accounting-for-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-21T02:32:07+00:00",
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "Three months ago, I sat in a quarterly risk committee meeting at an Indonesian bank, watching a climate risk update presented in twelve slides over fifteen minutes. The presentation covered taxonomy alignment, sustainable finance commitments, and progress against the bank’s net-zero pathway. It was professional, well-researched, and accurate. It also did not mention the bank’s […] The post Climate risk’s invisible t…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54e02a12c3d8a119157e"
+    },
+    {
+      "title": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2134248.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T21:50:31+00:00",
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "48459e8f1f8815d9bb71"
     },
     {
       "title": "キオクシアの光SSDとは?PCIeをそのまま光に変える技術のすごさを元キオクシア研究開発者がわかりやすく解説",
@@ -563,64 +781,113 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.6 - 75 km NW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-08-21T02:09:06.040+00:00",
-      "fetched_at": "2026-08-21T02:21:46+00:00",
-      "summary": "Time 2026-08-21 01:38:42 UTC 2026-08-21 01:38:42 UTC at epicenter Location 8.284°S 121.273°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a08d737f79c9ec389df8"
-    },
-    {
-      "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
-      "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-21T02:03:26+00:00",
-      "fetched_at": "2026-08-21T02:21:46+00:00",
-      "summary": "For years, Southeast Asia’s startup economy has rewarded speed. Founders were expected to launch quickly, localise faster than global rivals, and chase market share across a region where digital adoption often outpaced regulation. That instinct still matters. But as artificial intelligence moves from pilot projects into banking, healthcare, government services, logistics and public infrastructure, speed […] The post…",
+      "published_at": null,
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the MAX Framework 🧑‍🚀 and the Mojo Language 🔥. Get started To get started with the Modular Platform and serve a model using the MAX framework, see the MA…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "founder",
-        "Southeast Asia"
+        "GitHub Trending",
+        "Webentwicklung"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1c69721bcc78646a7184"
+      "id": "1e170216c689e98511d3"
+    },
+    {
+      "title": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: local-first"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "c129a64428481339c6df"
+    },
+    {
+      "title": "Climate risk’s invisible threat: What ASEAN banks aren’t accounting for",
+      "url": "https://e27.co/climate-risks-invisible-threat-what-asean-banks-arent-accounting-for-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-21T02:32:07+00:00",
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "Three months ago, I sat in a quarterly risk committee meeting at an Indonesian bank, watching a climate risk update presented in twelve slides over fifteen minutes. The presentation covered taxonomy alignment, sustainable finance commitments, and progress against the bank’s net-zero pathway. It was professional, well-researched, and accurate. It also did not mention the bank’s […] The post Climate risk’s invisible t…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54e02a12c3d8a119157e"
+    },
+    {
+      "title": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2134248.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T21:50:31+00:00",
+      "fetched_at": "2026-08-21T02:48:22+00:00",
+      "summary": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "48459e8f1f8815d9bb71"
     }
   ],
   "source_errors": [],
