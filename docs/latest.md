@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T03:13:47+00:00_
+_Generiert: 2026-08-21T03:34:50+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+17 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, ASEAN (+2.0)
   - Kurz: Three months ago, I sat in a quarterly risk committee meeting at an Indonesian bank, watching a climate risk update presented in twelve slides over fifteen minutes. The presentation covered taxonomy alignment, sustainable finance commitments, and progress against the bank’s net-zero pathway. It was professional, well-researched, and accurate. It also did not mention the bank’s […] The post Climate risk’s invisible t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-20T23:57:58+00:00`, fetched `2026-08-21T03:34:21+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2134248.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-20T21:50:31+00:00`, fetched `2026-08-21T02:48:22+00:00`
@@ -140,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0)
   - Kurz: この記事を書いた人 もふ (もふもふ不動産) ソニー・キオクシア(旧東芝メモリ)で16年、先端半導体の研究開発に従事。世界初のシステムディスプレイ「ACX343」と世界初の48層3次元フラッシュメモリ「BiCS FLASH™」の量産立ち上げに参画し、発明者として特許出願も行う。現在は株式投資20年・不動産投資10年の投資家・経営...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **悪名高きスワイプ広告を解析する - Qiita** — Score 4, observation — [Quelle](https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-01-14T12:15:23+00:00`, fetched `2026-08-21T00:24:18+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
-  - Kurz: この記事の概要 ユーザーから嫌われている広告の1つに「スワイプ広告」というものがある。 誤タップをしやすいことが理由だが、あまりにもこの広告だけ誤タップするため調べたところ 実は誤タップしたように見せかけて意図的に広告先に遷移させる広告であるということがわかった。 スワイプ広告とは、左右にスワイプする...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Pinning saved views to the repository issues sidebar is generally available and more** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar)
   - Quelle: GitHub Changelog Atom / `rss`

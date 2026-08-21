@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T03:13:47+00:00",
-  "run_id": "2026-08-21T03:13:47+00:00",
+  "generated_at": "2026-08-21T03:34:50+00:00",
+  "run_id": "2026-08-21T03:34:50+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 7,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -362,6 +362,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "54e02a12c3d8a119157e"
+      },
+      {
+        "title": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
+        "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-20T23:57:58+00:00",
+        "fetched_at": "2026-08-21T03:34:21+00:00",
+        "summary": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "177d0118dfc931528662"
       },
       {
         "title": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
@@ -782,6 +803,27 @@
       "id": "54e02a12c3d8a119157e"
     },
     {
+      "title": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-20T23:57:58+00:00",
+      "fetched_at": "2026-08-21T03:34:21+00:00",
+      "summary": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "177d0118dfc931528662"
+    },
+    {
       "title": "「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上",
       "url": "https://forest.watch.impress.co.jp/docs/news/2134248.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -867,47 +909,25 @@
   ],
   "new_findings": [
     {
-      "title": "Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M",
-      "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-21T03:00:25+00:00",
-      "fetched_at": "2026-08-21T03:13:17+00:00",
-      "summary": "Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecting and disabling accounts tied to […] The post Singapore disrupts 30,000 iMessage accounts as scam l…",
+      "published_at": "2026-08-20T23:57:58+00:00",
+      "fetched_at": "2026-08-21T03:34:21+00:00",
+      "summary": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Reputationsrisiko"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f94d679692e4df77ca7d"
-    },
-    {
-      "title": "スマートフォンアプリ「日本科学未来館アシストアプリ」におけるクロスサイトスクリプティングの脆弱性",
-      "url": "https://jvn.jp/jp/JVN09266484/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-21T12:00:00+09:00",
-      "fetched_at": "2026-08-21T03:13:17+00:00",
-      "summary": "国立研究開発法人科学技術振興機構が提供するスマートフォンアプリ「日本科学未来館アシストアプリ」には、クロスサイトスクリプティングの脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eff1cdff4460f893e1d1"
+      "id": "177d0118dfc931528662"
     }
   ],
   "source_errors": [],
