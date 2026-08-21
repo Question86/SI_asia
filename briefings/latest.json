@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T08:18:18+00:00",
-  "run_id": "2026-08-21T08:18:18+00:00",
+  "generated_at": "2026-08-21T08:34:04+00:00",
+  "run_id": "2026-08-21T08:34:04+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 12,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -415,6 +415,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0a16cf237fe1a3294c00"
+      },
+      {
+        "title": "M 5.1 - south of Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-21T08:30:39.040+00:00",
+        "fetched_at": "2026-08-21T08:33:32+00:00",
+        "summary": "Time 2026-08-21 08:12:34 UTC 2026-08-21 08:12:34 UTC at epicenter Location 24.712°S 175.307°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a40c47efc53122281713"
       },
       {
         "title": "ECB Consumer Expectations Survey results – July 2026",
@@ -1315,6 +1351,42 @@
       "id": "0a16cf237fe1a3294c00"
     },
     {
+      "title": "M 5.1 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-21T08:30:39.040+00:00",
+      "fetched_at": "2026-08-21T08:33:32+00:00",
+      "summary": "Time 2026-08-21 08:12:34 UTC 2026-08-21 08:12:34 UTC at epicenter Location 24.712°S 175.307°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a40c47efc53122281713"
+    },
+    {
       "title": "ECB Consumer Expectations Survey results – July 2026",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -1827,66 +1899,40 @@
   ],
   "new_findings": [
     {
-      "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
-      "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
-      "source": "heise Security Alerts",
+      "title": "M 5.1 - south of Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-21T08:00:00.000+00:00",
-      "fetched_at": "2026-08-21T08:17:48+00:00",
-      "summary": "Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen.",
+      "published_at": "2026-08-21T08:30:39.040+00:00",
+      "fetched_at": "2026-08-21T08:33:32+00:00",
+      "summary": "Time 2026-08-21 08:12:34 UTC 2026-08-21 08:12:34 UTC at epicenter Location 24.712°S 175.307°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "adbf9f4a5ac168a6c802"
-    },
-    {
-      "title": "ECB Consumer Expectations Survey results – July 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-08-21T08:00:00+00:00",
-      "fetched_at": "2026-08-21T08:17:48+00:00",
-      "summary": "ECB Consumer Expectations Survey results – July 2026",
-      "matched_keywords": [
-        "Macro/Policy"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2ce1a0f99e7b3e995f63"
-    },
-    {
-      "title": "成人向けAIコンテンツ創作プラットフォーム「FANZAスタジオ」の先行体験を開始創作したAIコンテンツを公開しファンとつながれる新サービス",
-      "url": "https://www.value-press.com/pressrelease/379051",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-20T15:22:58+00:00",
-      "fetched_at": "2026-08-21T08:17:48+00:00",
-      "summary": "成人向けAIコンテンツ創作プラットフォーム「FANZAスタジオ」の先行体験を開始創作したAIコンテンツを公開しファンとつながれる新サービス ネットサービス 株式会社デジタルコマース（東京都港区、代表取締役社長 島崎 啓之、以下デジタルコマース）は、成人向けエンタメプラットフォーム「FANZA」上で、デジタル・リン...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2180a936ae6b2d709d48"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a40c47efc53122281713"
     }
   ],
   "source_errors": [],
