@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T03:56:01+00:00_
+_Generated: 2026-08-21T04:13:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-21T03:56:01+00:00_
 - url: https://github.com/modular/modular
 - summary: The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, inc…
 
-### 6. M 5.0 - Pacific-Antarctic Ridge
+### 6. US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-21T04:05:41+00:00`
+- url: https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/
+- summary: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matte…
+
+### 7. M 5.0 - Pacific-Antarctic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-20T23:58:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw
 - summary: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
 
-### 7. When everyone looks the same: Strategy after feature parity
+### 8. When everyone looks the same: Strategy after feature parity
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-08-21T01:00:00+00:00`
 - url: https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/
 - summary: There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language…
-
-### 8. AprilNEA/OpenLogi
-- source: GitHub Trending RSS All Languages Daily
-- score: `8`
-- published: `None`
-- url: https://github.com/AprilNEA/OpenLogi
-- summary: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config m…
 
 END OF DOCUMENT
