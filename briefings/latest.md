@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T12:52:05+00:00_
+_Generiert: 2026-08-21T13:13:58+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+70 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -233,6 +233,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **A dumpling shop becomes a poster child of AI adoption in China** — Score 9, observation — [Quelle](https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-21T13:00:00+00:00`, fetched `2026-08-21T13:13:25+00:00`
+  - Treffer: AI/KI, technology
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-21T12:35:41.040+00:00`, fetched `2026-08-21T12:51:34+00:00`
@@ -313,15 +322,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/afd1b34c-7689-4a61-b3ed-b4e98029c3c1)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
