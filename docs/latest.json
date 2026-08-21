@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T06:11:10+00:00",
-  "run_id": "2026-08-21T06:11:10+00:00",
+  "generated_at": "2026-08-21T06:24:27+00:00",
+  "run_id": "2026-08-21T06:24:27+00:00",
   "date": "2026-08-21",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 31
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
     "medium": 10,
     "observe": 21,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1497,97 +1497,8 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました",
-      "url": "https://www.digital.go.jp/news/afd1b34c-7689-4a61-b3ed-b4e98029c3c1",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-21T06:00:00+00:00",
-      "fetched_at": "2026-08-21T06:10:39+00:00",
-      "summary": "令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8348074975682ed639ad"
-    },
-    {
-      "title": "共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました",
-      "url": "https://www.digital.go.jp/news/a6336356-3dc3-4c32-b6e5-fbfcd9d56698",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-21T06:00:00+00:00",
-      "fetched_at": "2026-08-21T06:10:39+00:00",
-      "summary": "共創PFキャンプinデジタル庁～疲れないDX推進を考える編～を開催しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5c28f25c96914ec234d3"
-    },
-    {
-      "title": "共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました",
-      "url": "https://www.digital.go.jp/news/aadabdb6-0193-4ea3-b197-cfb1648c1c30",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-21T06:00:00+00:00",
-      "fetched_at": "2026-08-21T06:10:39+00:00",
-      "summary": "共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b8ccb12f0fd9c5bbbe98"
-    },
-    {
-      "title": "ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん",
-      "url": "https://note.com/saamon_note/n/nf2624bde20d6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-21T04:57:19+00:00",
-      "fetched_at": "2026-08-21T06:10:39+00:00",
-      "summary": "はじめにゲームしながらサブモニタでYouTube、やってる人多いと思います。 私もFF14をやりながら攻略動画や作業用BGMを流してるんですが、あるときからゲーム中だけYouTubeの再生がカクついてしまうようになりました。 調べてみると「ブラウザのハードウェア アクセラレーションをオフにする」という方法が見つかって、...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8e6f02000b79efcd3ffa"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "ecb_yield_curve",
-      "source_name": "ECB Euro Area Yield Curve",
-      "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
