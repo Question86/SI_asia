@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T10:29:51+00:00",
-  "run_id": "2026-08-21T10:29:51+00:00",
+  "generated_at": "2026-08-21T10:44:36+00:00",
+  "run_id": "2026-08-21T10:44:36+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 2,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
-    "medium": 26,
-    "observe": 30,
+    "medium": 27,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -419,6 +419,29 @@
         "id": "eff1cdff4460f893e1d1"
       },
       {
+        "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2957",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-21T10:36:06+00:00",
+        "fetched_at": "2026-08-21T10:44:04+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7eded1849ea729c4e882"
+      },
+      {
         "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU90210212/",
         "source": "JVN Japan Vulnerability Notes",
@@ -695,6 +718,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
+        "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-21T10:24:00.000+00:00",
+        "fetched_at": "2026-08-21T10:44:04+00:00",
+        "summary": "Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.",
+        "matched_keywords": [
+          "Security",
+          "Webentwicklung"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7718d954cc99e8327365"
+      },
       {
         "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
         "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
@@ -1783,6 +1827,29 @@
       "id": "eff1cdff4460f893e1d1"
     },
     {
+      "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2957",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-21T10:36:06+00:00",
+      "fetched_at": "2026-08-21T10:44:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7eded1849ea729c4e882"
+    },
+    {
       "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2056,6 +2123,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1c69721bcc78646a7184"
+    },
+    {
+      "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
+      "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-21T10:24:00.000+00:00",
+      "fetched_at": "2026-08-21T10:44:04+00:00",
+      "summary": "Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.",
+      "matched_keywords": [
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7718d954cc99e8327365"
     },
     {
       "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
@@ -2755,25 +2843,48 @@
   ],
   "new_findings": [
     {
-      "title": "社内アプリ開発したら『ダークモード実装してくれませんか？』の声がめちゃくちゃ多くてビビった「もうダークモードのないアプリは使いたくない」",
-      "url": "https://togetter.com/li/2735756",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2957",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-21T08:13:23+00:00",
-      "fetched_at": "2026-08-21T10:29:18+00:00",
-      "summary": "社内アプリ開発したら『ダークモード実装してくれませんか？』の声がめちゃくちゃ多くてビビった「もうダークモードのないアプリは使いたくない」",
+      "published_at": "2026-08-21T10:36:06+00:00",
+      "fetched_at": "2026-08-21T10:44:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fbcc849d8b8477fee2c4"
+      "id": "7eded1849ea729c4e882"
+    },
+    {
+      "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
+      "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-21T10:24:00.000+00:00",
+      "fetched_at": "2026-08-21T10:44:04+00:00",
+      "summary": "Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.",
+      "matched_keywords": [
+        "Security",
+        "Webentwicklung"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7718d954cc99e8327365"
     }
   ],
   "source_errors": [],

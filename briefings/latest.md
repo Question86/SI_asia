@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T10:29:51+00:00_
+_Generiert: 2026-08-21T10:44:36+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+58 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -188,6 +188,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet** — Score 11, observation — [Quelle](https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-21T10:24:00.000+00:00`, fetched `2026-08-21T10:44:04+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.** — Score 11, observation — [Quelle](https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-21T08:00:00.000+00:00`, fetched `2026-08-21T08:17:48+00:00`
@@ -287,15 +296,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Sicherheitsupdates schließen mehrere Lücken in Dells Object-Storage-Plattform ObjectScale.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Zimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke** — Score 7, opportunity — [Quelle](https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-21T07:12:00.000+00:00`, fetched `2026-08-21T07:25:00+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Das polnische CERT warnt vor Angriffen auf eine Befehlsschmuggel-Lücke in der Zimbra Collaboration Suite. Ein Update ist verfügbar.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **共創PFキャンプin道東～窓口DXのいまを知る編～を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/aadabdb6-0193-4ea3-b197-cfb1648c1c30)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-21T06:00:00+00:00`, fetched `2026-08-21T06:10:39+00:00`

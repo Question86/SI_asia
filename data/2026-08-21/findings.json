@@ -389,6 +389,29 @@
     "id": "eff1cdff4460f893e1d1"
   },
   {
+    "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2957",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T10:36:06+00:00",
+    "fetched_at": "2026-08-21T10:44:04+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7eded1849ea729c4e882"
+  },
+  {
     "title": "ヤマハ製VOCALOID6 Editorにおける複数の脆弱性",
     "url": "https://jvn.jp/vu/JVNVU90210212/",
     "source": "JVN Japan Vulnerability Notes",
@@ -662,6 +685,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1c69721bcc78646a7184"
+  },
+  {
+    "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
+    "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-21T10:24:00.000+00:00",
+    "fetched_at": "2026-08-21T10:44:04+00:00",
+    "summary": "Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.",
+    "matched_keywords": [
+      "Security",
+      "Webentwicklung"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7718d954cc99e8327365"
   },
   {
     "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
