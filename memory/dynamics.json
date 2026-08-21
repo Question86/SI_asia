@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-21T03:32:21Z",
+  "generated_at": "2026-08-21T03:59:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 21,
     "bands": {
       "krass": 4,
       "strong": 5,
       "watch": 2,
-      "quiet": 9
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 9,
       "watch": 2,
-      "quiet": 9
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN09266484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T12:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T03:00:25+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -74,7 +74,7 @@
       "url": "https://jvn.jp/vu/JVNVU90210212/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T10:30:00+09:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -100,7 +100,7 @@
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://github.com/modular/modular",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -151,7 +151,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 63.07,
+      "age_days": 63.08,
       "topics": [
         "ai"
       ],
@@ -180,7 +180,7 @@
       "url": "https://github.com/AprilNEA/OpenLogi",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-21T02:48:22+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -208,7 +208,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T02:09:06.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -233,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmcj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-21T01:37:11.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -258,7 +258,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T23:58:06.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -283,7 +283,7 @@
       "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T01:00:00+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -310,7 +310,7 @@
       "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T02:03:26+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -337,7 +337,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2134248.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-20T21:50:31+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -361,7 +361,7 @@
       "url": "https://mofmof-investor.com/kioxia-optical-ssd",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-17T00:35:27+00:00",
-      "age_days": 4.12,
+      "age_days": 4.14,
       "topics": [
         "ai"
       ],
@@ -387,7 +387,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 62.03,
+      "age_days": 62.05,
       "topics": [
         "general"
       ],
@@ -412,7 +412,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 62.03,
+      "age_days": 62.05,
       "topics": [
         "general"
       ],
@@ -437,7 +437,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 62.03,
+      "age_days": 62.05,
       "topics": [
         "ai"
       ],
@@ -464,7 +464,7 @@
       "url": "https://e27.co/climate-risks-invisible-threat-what-asean-banks-arent-accounting-for-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-21T02:32:07+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -486,11 +486,36 @@
       "summary": "Three months ago, I sat in a quarterly risk committee meeting at an Indonesian bank, watching a climate risk update presented in twelve slides over fifteen minutes. The presentation covered taxonomy alignment, sustainable finance commitments, and progress against the bank’s net-zero pathway. It was professional, well-…"
     },
     {
+      "title": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
+      "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-20T23:57:58+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る"
+    },
+    {
       "title": "悪名高きスワイプ広告を解析する - Qiita",
       "url": "https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-01-14T12:15:23+00:00",
-      "age_days": 218.64,
+      "age_days": 218.66,
       "topics": [
         "general"
       ],
@@ -505,7 +530,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 218.6d old signal"
+        "aging penalty -16.0 for 218.7d old signal"
       ],
       "summary": "この記事の概要 ユーザーから嫌われている広告の1つに「スワイプ広告」というものがある。 誤タップをしやすいことが理由だが、あまりにもこの広告だけ誤タップするため調べたところ 実は誤タップしたように見せかけて意図的に広告先に遷移させる広告であるということがわかった。 スワイプ広告とは、左右にスワイプする..."
     },
@@ -514,7 +539,7 @@
       "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-20T23:29:34+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
