@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T20:57:30+00:00_
+_Generated: 2026-08-21T21:06:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `89`
+- findings: `90`
 
 ## Top Signals
 
-### 1. M 5.4 - 148 km SSE of Tateyama, Japan
+### 1. 「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ
+- source: Hatena Bookmark Hotentry IT
+- score: `19`
+- published: `2026-08-21T14:12:46+00:00`
+- url: https://www.sbbit.jp/article/cont1/186558
+- summary: 「バイブコーディング」の次に来るAI開発の形が、早くも見え始めている。いま筆者の開発作業では、直したい点や作りたい機能を短い文章で伝え、自作の自動運転コマンドを起動するだけだ。その後は放っておけば、設計書の作成から実装、テスト、本番への反映まで自動で進み、筆者は途中で上がってくる報告に目を通すだけ...
+
+### 2. M 5.4 - 148 km SSE of Tateyama, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-08-21T12:27:51.784+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-08-21 12:02:07 UTC 2026-08-21 12:02:07 UTC at epicenter Location 33.717°N 140.380°E Depth 61.67 km (38.32 mi)
 
-### 2. Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz
+### 3. Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-08-21T09:18:20+00:00`
 - url: https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/
 - summary: From warehouse floor to boardroom Daniel Yun’s route into supply chain technology did not begin in a lab or a spreadsheet. It began in a logistics warehouse. Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments b…
 
-### 3. [NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen
+### 4. [NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-08-21T09:01:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
-
-### 4. [NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-21T11:31:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.
 
 ### 5. M 5.4 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
