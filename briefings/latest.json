@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T22:33:19+00:00",
-  "run_id": "2026-08-21T22:33:19+00:00",
+  "generated_at": "2026-08-21T22:45:23+00:00",
+  "run_id": "2026-08-21T22:45:23+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 93,
     "displayed_findings": 93,
     "high": 0,
@@ -4719,29 +4719,7 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "claude のメモリを棚卸しする",
-      "url": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-21T07:25:52+00:00",
-      "fetched_at": "2026-08-21T22:32:45+00:00",
-      "summary": "このツイート見て「やべ、なんも意識してなかった」となったのがきっかけ よしなにやってくれてるんだろうくらいだったので、この際ちゃんと調べて棚卸しした そもそも claude のメモリとは 理解しているつもりだったけどちゃんと調べてなかったので調べた プロジェクトごとに保存（~/.claude/projects/<プロジェクト名>...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3f5cc697cfb0e1c29cd6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
