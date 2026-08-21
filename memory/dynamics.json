@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-21T00:46:57Z",
+  "generated_at": "2026-08-21T01:29:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 7,
+    "dynamics": 8,
     "bands": {
       "krass": 1,
       "strong": 1,
-      "watch": 1,
+      "watch": 2,
       "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 1,
+      "watch": 2,
       "quiet": 4
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU97889580/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-21T09:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 62.95,
+      "age_days": 62.98,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-20T23:58:06.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -98,11 +98,38 @@
       "summary": "Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "When everyone looks the same: Strategy after feature parity",
+      "url": "https://e27.co/when-everyone-looks-the-same-strategy-after-feature-parity-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-21T01:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "There comes a point in many markets when the demo stops being useful. Every serious competitor has the expected features. Everyone has dashboards, automation, integrations, reporting, AI claims, controls, and a roadmap full of familiar promises. The language converges. The screens converge. Even the case studies begin…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.91,
+      "age_days": 61.94,
       "topics": [
         "general"
       ],
@@ -127,7 +154,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.91,
+      "age_days": 61.94,
       "topics": [
         "general"
       ],
@@ -152,7 +179,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 61.91,
+      "age_days": 61.94,
       "topics": [
         "ai"
       ],
@@ -179,7 +206,7 @@
       "url": "https://qiita.com/PhotobyU/items/cdc63b4bf9d2ded5b5ca",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-01-14T12:15:23+00:00",
-      "age_days": 218.52,
+      "age_days": 218.55,
       "topics": [
         "general"
       ],
@@ -194,7 +221,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -16.0 for 218.5d old signal"
+        "aging penalty -16.0 for 218.6d old signal"
       ],
       "summary": "この記事の概要 ユーザーから嫌われている広告の1つに「スワイプ広告」というものがある。 誤タップをしやすいことが理由だが、あまりにもこの広告だけ誤タップするため調べたところ 実は誤タップしたように見せかけて意図的に広告先に遷移させる広告であるということがわかった。 スワイプ広告とは、左右にスワイプする..."
     }
