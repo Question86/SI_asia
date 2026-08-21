@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T04:13:04+00:00",
-  "run_id": "2026-08-21T04:13:04+00:00",
+  "generated_at": "2026-08-21T04:26:56+00:00",
+  "run_id": "2026-08-21T04:26:56+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -949,29 +949,7 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?",
-      "url": "https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-21T04:05:41+00:00",
-      "fetched_at": "2026-08-21T04:12:27+00:00",
-      "summary": "Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0a16cf237fe1a3294c00"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
