@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T22:45:23+00:00",
-  "run_id": "2026-08-21T22:45:23+00:00",
+  "generated_at": "2026-08-21T22:55:07+00:00",
+  "run_id": "2026-08-21T22:55:07+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 2,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 0,
-    "medium": 40,
-    "observe": 53,
+    "medium": 41,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -137,6 +137,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1ffdc7fbaebd59587f7a"
+      },
+      {
+        "title": "認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs",
+        "url": "https://blog.cloudnative.co.jp/articles/id-security-acronyms-01-auth-basics/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T15:14:05+00:00",
+        "fetched_at": "2026-08-21T22:54:36+00:00",
+        "summary": "はじめに こんにちは！kenkenです。 入社したばかりの頃、認証基盤関連の打ち合わせに同席すると、こんな会話が当たり前のように飛び交っていました。 「IdPをどうするか」「SSOはSAMLで？それともOIDC？」「OAuthのフローが…」 ……正直、最初は一つひとつの言葉が何を指すのか分からず、会話についていけませんでした。...",
+        "matched_keywords": [
+          "GitHub Actions",
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c1ec7607eae9040069e9"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen",
@@ -1177,6 +1200,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d2b93165d3eb2c020f7e"
+      },
+      {
+        "title": "【悪用厳禁】YouTube見れる。ChatGPT使える。伝説の「Android OS搭載電卓」を再検証で「衝撃の真実」が判明…【”GHLBD”検証-Part1】",
+        "url": "https://www.nicovideo.jp/watch/sm46695159",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T14:10:45+00:00",
+        "fetched_at": "2026-08-21T22:54:36+00:00",
+        "summary": "このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "52f9dc147592a7a3b78e"
       },
       {
         "title": "The new GitHub Copilot experience in Slack",
@@ -2486,6 +2531,29 @@
       "id": "1ffdc7fbaebd59587f7a"
     },
     {
+      "title": "認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs",
+      "url": "https://blog.cloudnative.co.jp/articles/id-security-acronyms-01-auth-basics/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T15:14:05+00:00",
+      "fetched_at": "2026-08-21T22:54:36+00:00",
+      "summary": "はじめに こんにちは！kenkenです。 入社したばかりの頃、認証基盤関連の打ち合わせに同席すると、こんな会話が当たり前のように飛び交っていました。 「IdPをどうするか」「SSOはSAMLで？それともOIDC？」「OAuthのフローが…」 ……正直、最初は一つひとつの言葉が何を指すのか分からず、会話についていけませんでした。...",
+      "matched_keywords": [
+        "GitHub Actions",
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1ec7607eae9040069e9"
+    },
+    {
       "title": "[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3522,6 +3590,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d2b93165d3eb2c020f7e"
+    },
+    {
+      "title": "【悪用厳禁】YouTube見れる。ChatGPT使える。伝説の「Android OS搭載電卓」を再検証で「衝撃の真実」が判明…【”GHLBD”検証-Part1】",
+      "url": "https://www.nicovideo.jp/watch/sm46695159",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T14:10:45+00:00",
+      "fetched_at": "2026-08-21T22:54:36+00:00",
+      "summary": "このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52f9dc147592a7a3b78e"
     },
     {
       "title": "The new GitHub Copilot experience in Slack",
@@ -4719,7 +4809,53 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs",
+      "url": "https://blog.cloudnative.co.jp/articles/id-security-acronyms-01-auth-basics/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T15:14:05+00:00",
+      "fetched_at": "2026-08-21T22:54:36+00:00",
+      "summary": "はじめに こんにちは！kenkenです。 入社したばかりの頃、認証基盤関連の打ち合わせに同席すると、こんな会話が当たり前のように飛び交っていました。 「IdPをどうするか」「SSOはSAMLで？それともOIDC？」「OAuthのフローが…」 ……正直、最初は一つひとつの言葉が何を指すのか分からず、会話についていけませんでした。...",
+      "matched_keywords": [
+        "GitHub Actions",
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "GitHub Actions (+5.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c1ec7607eae9040069e9"
+    },
+    {
+      "title": "【悪用厳禁】YouTube見れる。ChatGPT使える。伝説の「Android OS搭載電卓」を再検証で「衝撃の真実」が判明…【”GHLBD”検証-Part1】",
+      "url": "https://www.nicovideo.jp/watch/sm46695159",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T14:10:45+00:00",
+      "fetched_at": "2026-08-21T22:54:36+00:00",
+      "summary": "このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52f9dc147592a7a3b78e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

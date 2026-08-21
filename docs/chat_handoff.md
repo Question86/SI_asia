@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T22:45:23+00:00_
+_Generated: 2026-08-21T22:55:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `93`
+- findings: `95`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-21T22:45:23+00:00_
 - url: https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams
 - summary: Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post Shared agentic work with GitHub Copilot in Microsoft Teams appea…
 
-### 7. The new GitHub Copilot experience in Slack
+### 7. 【悪用厳禁】YouTube見れる。ChatGPT使える。伝説の「Android OS搭載電卓」を再検証で「衝撃の真実」が判明…【”GHLBD”検証-Part1】
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-08-21T14:10:45+00:00`
+- url: https://www.nicovideo.jp/watch/sm46695159
+- summary: このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...
+
+### 8. The new GitHub Copilot experience in Slack
 - source: GitHub Changelog Atom
 - score: `11`
 - published: `2026-08-21T16:07:15+00:00`
 - url: https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack
 - summary: The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub B…
-
-### 8. Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet
-- source: heise Security Alerts
-- score: `11`
-- published: `2026-08-21T10:24:00.000+00:00`
-- url: https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html
-- summary: Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.
 
 END OF DOCUMENT

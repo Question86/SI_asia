@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T22:45:23+00:00_
+_Generiert: 2026-08-21T22:55:07+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
+95 neue relevante Treffer. Stärkstes Signal: „「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ“ aus Hatena Bookmark Hotentry IT (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -47,6 +47,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **認証まわりの略語入門｜IdP・SSO・MFA・OAuth・OIDC・SAML【2026】 | CloudNative BLOGs** — Score 16, observation — [Quelle](https://blog.cloudnative.co.jp/articles/id-security-acronyms-01-auth-basics/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T15:14:05+00:00`, fetched `2026-08-21T22:54:36+00:00`
+  - Treffer: GitHub Actions, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに こんにちは！kenkenです。 入社したばかりの頃、認証基盤関連の打ち合わせに同席すると、こんな会話が当たり前のように飛び交っていました。 「IdPをどうするか」「SSOはSAMLで？それともOIDC？」「OAuthのフローが…」 ……正直、最初は一つひとつの言葉が何を指すのか分からず、会話についていけませんでした。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -149,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post Shared agentic work with GitHub Copilot in Microsoft Teams appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **【悪用厳禁】YouTube見れる。ChatGPT使える。伝説の「Android OS搭載電卓」を再検証で「衝撃の真実」が判明…【”GHLBD”検証-Part1】** — Score 12, observation — [Quelle](https://www.nicovideo.jp/watch/sm46695159)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T14:10:45+00:00`, fetched `2026-08-21T22:54:36+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: このシリーズでは、2023年に発掘され話題になった”Android OS搭載電卓”「GHLBD」を再検証、2026年の最新技術と組み合わせて遊んでいくとともに、様々な面から綿密な調査と分析を行い、「無駄にAndroid OSと持て余す性能を積んだわけのわからない電卓」というこれまでの定説を覆していきます。〇音声読み上げ・VOICEROID2...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The new GitHub Copilot experience in Slack** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack)
   - Quelle: GitHub Changelog Atom / `rss`
@@ -257,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB Consumer Expectations Survey results – July 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIで生産性が3倍になった私たちが、チームを置き去りにした話** — Score 8, observation — [Quelle](https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-21T04:55:59+00:00`, fetched `2026-08-21T22:19:18+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「すぐには理解できないが、正しいことを言っているのだと思う」 週次の報告会で、上司がそう言った。 私はAIで作ったスライドとHTMLレポートを画面に映していた。上司は内容を否定しなかった。むしろ、正しいと言ってくれた。理解はできないけれど、正しいのだと思う、と。 そのときの私は、それを好意的な反応として受...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
