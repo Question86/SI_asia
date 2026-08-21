@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T12:16:22+00:00_
+_Generated: 2026-08-21T12:31:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `66`
+- findings: `67`
 
 ## Top Signals
 
-### 1. Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz
+### 1. M 5.4 - 148 km SSE of Tateyama, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-08-21T12:27:51.784+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfe
+- summary: PAGER - GREEN ShakeMap - IV DYFI? - III Time 2026-08-21 12:02:07 UTC 2026-08-21 12:02:07 UTC at epicenter Location 33.717°N 140.380°E Depth 61.67 km (38.32 mi)
+
+### 2. Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-08-21T09:18:20+00:00`
 - url: https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/
 - summary: From warehouse floor to boardroom Daniel Yun’s route into supply chain technology did not begin in a lab or a spreadsheet. It began in a logistics warehouse. Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments b…
 
-### 2. [NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen
+### 3. [NEU] [hoch] Microsoft Azure, Entra ID und Exchange: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-08-21T09:01:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
 
-### 3. [NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen
+### 4. [NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-21T11:31:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-08-21T09:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU97889580/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet
 - source: heise Security Alerts
