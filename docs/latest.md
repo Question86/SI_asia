@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T12:31:23+00:00_
+_Generiert: 2026-08-21T12:52:05+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+69 neue relevante Treffer. Stärkstes Signal: „M 5.4 - 148 km SSE of Tateyama, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -84,6 +84,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecting and disabling accounts tied to […] The post Singapore disrupts 30,000 iMessage accounts as scam l…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.9 - 149 km WSW of Fakfak, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T12:50:18.040+00:00`, fetched `2026-08-21T12:51:34+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 12:32:50 UTC 2026-08-21 12:32:50 UTC at epicenter Location 3.408°S 131.040°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 47 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-21T11:56:23.040+00:00`, fetched `2026-08-21T12:03:59+00:00`
@@ -92,15 +101,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-21 11:16:52 UTC 2026-08-21 11:16:52 UTC at epicenter Location 8.190°S 120.533°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 44 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf5)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T11:32:53.040+00:00`, fetched `2026-08-21T11:44:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 11:03:03 UTC 2026-08-21 11:03:03 UTC at epicenter Location 8.213°S 120.540°E Depth 9.98 km (6.20 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN81414813/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matters because it combines three powerful forces at once: […] The post US$73,000 and still climbing: How long can Bitcoin ignore the macro storm? appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmfi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T12:35:41.040+00:00`, fetched `2026-08-21T12:51:34+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 12:19:02 UTC 2026-08-21 12:19:02 UTC at epicenter Location 31.938°S 178.712°W Depth 69.84 km (43.40 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 237 km NNW of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-21T11:15:46.040+00:00`, fetched `2026-08-21T11:18:13+00:00`
@@ -195,15 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB Consumer Expectations Survey results – July 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - south of Africa** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tme0)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T06:33:40.040+00:00`, fetched `2026-08-21T06:41:56+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 05:56:46 UTC 2026-08-21 05:56:46 UTC at epicenter Location 53.142°S 23.569°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The transformation ecology crisis: How AI is exposing the hidden fragility of high-performing teams** — Score 8, observation — [Quelle](https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-21T04:50:20+00:00`, fetched `2026-08-21T05:28:04+00:00`
