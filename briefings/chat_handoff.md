@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T16:13:36+00:00_
+_Generated: 2026-08-21T16:26:27+00:00_
 
 ## Status
-- status: `warning`
-- findings: `80`
+- status: `normal`
+- findings: `82`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-21T16:13:36+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmft
 - summary: PAGER - GREEN ShakeMap - III Time 2026-08-21 13:06:40 UTC 2026-08-21 13:06:40 UTC at epicenter Location 58.851°S 26.557°W Depth 158.99 km (98.79 mi)
 
-### 6. Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet
+### 6. Shared agentic work with GitHub Copilot in Microsoft Teams
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-08-21T16:03:36+00:00`
+- url: https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams
+- summary: Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post Shared agentic work with GitHub Copilot in Microsoft Teams appea…
+
+### 7. The new GitHub Copilot experience in Slack
+- source: GitHub Changelog Atom
+- score: `11`
+- published: `2026-08-21T16:07:15+00:00`
+- url: https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack
+- summary: The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub B…
+
+### 8. Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet
 - source: heise Security Alerts
 - score: `11`
 - published: `2026-08-21T10:24:00.000+00:00`
 - url: https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html
 - summary: Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.
-
-### 7. Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.
-- source: heise Security Alerts
-- score: `11`
-- published: `2026-08-21T08:00:00.000+00:00`
-- url: https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html
-- summary: Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen.
-
-### 8. modular/modular
-- source: GitHub Trending RSS All Languages Daily
-- score: `11`
-- published: `None`
-- url: https://github.com/modular/modular
-- summary: The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, inc…
 
 END OF DOCUMENT

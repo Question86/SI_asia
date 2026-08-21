@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-21T16:13:36+00:00",
-  "run_id": "2026-08-21T16:13:36+00:00",
+  "generated_at": "2026-08-21T16:26:27+00:00",
+  "run_id": "2026-08-21T16:26:27+00:00",
   "date": "2026-08-21",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 2,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 37,
-    "observe": 43,
-    "source_errors": 1
+    "observe": 45,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1058,6 +1058,50 @@
           "LOW"
         ],
         "id": "1d06f5a9f67651de6f07"
+      },
+      {
+        "title": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-21T16:03:36+00:00",
+        "fetched_at": "2026-08-21T16:25:58+00:00",
+        "summary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post Shared agentic work with GitHub Copilot in Microsoft Teams appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d2b93165d3eb2c020f7e"
+      },
+      {
+        "title": "The new GitHub Copilot experience in Slack",
+        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-21T16:07:15+00:00",
+        "fetched_at": "2026-08-21T16:25:58+00:00",
+        "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e2c08981b772edeaace"
       },
       {
         "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
@@ -3079,6 +3123,50 @@
       "id": "1d06f5a9f67651de6f07"
     },
     {
+      "title": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-21T16:03:36+00:00",
+      "fetched_at": "2026-08-21T16:25:58+00:00",
+      "summary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post Shared agentic work with GitHub Copilot in Microsoft Teams appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d2b93165d3eb2c020f7e"
+    },
+    {
+      "title": "The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-21T16:07:15+00:00",
+      "fetched_at": "2026-08-21T16:25:58+00:00",
+      "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e2c08981b772edeaace"
+    },
+    {
       "title": "Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet",
       "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
       "source": "heise Security Alerts",
@@ -4067,15 +4155,53 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-08-21T16:03:36+00:00",
+      "fetched_at": "2026-08-21T16:25:58+00:00",
+      "summary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot… The post Shared agentic work with GitHub Copilot in Microsoft Teams appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI Agents (+6.2); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d2b93165d3eb2c020f7e"
+    },
+    {
+      "title": "The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-21T16:07:15+00:00",
+      "fetched_at": "2026-08-21T16:25:58+00:00",
+      "summary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to… The post The new GitHub Copilot experience in Slack appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e2c08981b772edeaace"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
