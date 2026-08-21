@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T08:34:04+00:00_
+_Generated: 2026-08-21T08:53:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `42`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-21T08:34:04+00:00_
 - url: https://jvn.jp/vu/JVNVU97889580/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot
+### 2. [NEU] [mittel] Microsoft Windows Dienste: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-21T08:41:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2947
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012 R2, Windows Server 2012, Windows Server 2016, Windows 10, Windows 11, Windows Server 2025, Windows Server 2022, Windows Server 2019, Microsoft Windows Remote Help und Windows App für M…
+
+### 3. Ecosystem Roundup: Singapore’s iMessage scam bust exposes a regulatory blind spot
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-08-21T05:23:19+00:00`
 - url: https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/
 - summary: Singapore’s Cyber Command has disrupted more than 30,000 Apple iMessage accounts tied to a fraud campaign that has cost victims roughly SGD2.2 million (US$1.7 million) since June, a figure that jumped nearly US$800,000 in the weeks since police last updated t…
 
-### 3. [UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-21T04:56:06+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908
 - summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.
-
-### 4. Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-08-21T03:00:25+00:00`
-- url: https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/
-- summary: Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Si…
 
 ### 5. Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.
 - source: heise Security Alerts
