@@ -411,6 +411,52 @@
     "id": "b88402411fb51e95a19b"
   },
   {
+    "title": "[NEU] [hoch] libvirt: Schwachstelle ermöglicht Privilegieneskalation und DoS",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2954",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T10:01:05+00:00",
+    "fetched_at": "2026-08-21T10:04:53+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder Berechtigungen zu erweitern.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "215d2ef0728cd1b0277c"
+  },
+  {
+    "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2953",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-21T09:56:05+00:00",
+    "fetched_at": "2026-08-21T10:04:53+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, möglicherweise beliebigen Code auszuführen oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2772f159d5846bf08d48"
+  },
+  {
     "title": "[UPDATE] [mittel] IBM DB2: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2415",
     "source": "BSI CERT-Bund Security Advisories",

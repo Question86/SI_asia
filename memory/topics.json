@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-21T09:54:16+00:00",
+  "generated_at": "2026-08-21T10:05:21+00:00",
   "topics": {
     "ai": [
       {
@@ -105,6 +105,20 @@
         "url": "https://e27.co/ecosystem-roundup-singapores-imessage-scam-bust-exposes-a-regulatory-blind-spot-20260821/"
       },
       {
+        "title": "[NEU] [hoch] libvirt: Schwachstelle ermöglicht Privilegieneskalation und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T10:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2954"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T09:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2953"
+      },
+      {
         "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-21T09:21:05+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-08-21T08:51:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2948"
-      },
-      {
-        "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-21T02:03:26+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/"
-      },
-      {
-        "title": "Atlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-21T08:00:00.000+00:00",
-        "relevance_score": 11,
-        "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html"
       }
     ],
     "security": [
@@ -198,25 +198,25 @@
         "url": "https://jvn.jp/vu/JVNVU90210212/"
       },
       {
+        "title": "[NEU] [hoch] libvirt: Schwachstelle ermöglicht Privilegieneskalation und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T10:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2954"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-21T09:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2953"
+      },
+      {
         "title": "[UPDATE] [mittel] IBM DB2: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-21T09:51:07+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2415"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-21T09:51:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2711"
-      },
-      {
-        "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-21T09:21:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2952"
       }
     ],
     "general": [
