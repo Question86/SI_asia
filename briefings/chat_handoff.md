@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T05:44:20+00:00_
+_Generated: 2026-08-21T05:57:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-21T05:44:20+00:00_
 - url: https://github.com/modular/modular
 - summary: The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, inc…
 
-### 6. US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?
+### 6. Southeast Asia’s oldest savings product still has no price for going first
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-21T05:53:23+00:00`
+- url: https://e27.co/southeast-asias-oldest-savings-product-still-has-no-price-for-going-first-20260821/
+- summary: Every fintech founder in this region has drawn the same slide at some point: the underbanked adult, the missing credit file, the product that will finally reach them. Fewer have noticed that the person on the slide already owns a savings product, and has for…
+
+### 7. US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-21T04:05:41+00:00`
 - url: https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/
 - summary: Bitcoin trades at US$73,000.12 at the time of writing and continues to climb. The wider crypto market has risen 4.88 per cent to US$2.48T in 24h, and the move looks less like a random speculative spike and more like a broad repricing of risk. This rally matte…
 
-### 7. M 5.0 - Pacific-Antarctic Ridge
+### 8. M 5.0 - Pacific-Antarctic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-20T23:58:06.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw
 - summary: Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)
-
-### 8. The transformation ecology crisis: How AI is exposing the hidden fragility of high-performing teams
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-21T04:50:20+00:00`
-- url: https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/
-- summary: I was recently invited to evaluate the performance of a leadership team inside a growing organisation. The company had already gone through multiple rounds of evaluations before I arrived. Capability gaps had been mapped. Consultants had been brought in. AI a…
 
 END OF DOCUMENT

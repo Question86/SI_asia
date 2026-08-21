@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T05:44:19+00:00_
+_Generiert: 2026-08-21T05:57:30+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+27 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -170,6 +170,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: The Modular Platform (includes MAX & Mojo) https://docs.modular.com/ About Modular | MAX docs | Mojo docs | Contributing Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the MAX Framework 🧑‍🚀 and the Mojo Language 🔥. Get started To get started with the Modular Platform and serve a model using the MAX framework, see the MA…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Southeast Asia’s oldest savings product still has no price for going first** — Score 10, observation — [Quelle](https://e27.co/southeast-asias-oldest-savings-product-still-has-no-price-for-going-first-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-21T05:53:23+00:00`, fetched `2026-08-21T05:56:59+00:00`
+  - Treffer: APAC Trend Radar, founder, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: Every fintech founder in this region has drawn the same slide at some point: the underbanked adult, the missing credit file, the product that will finally reach them. Fewer have noticed that the person on the slide already owns a savings product, and has for centuries. It is called arisan in Indonesia, paluwagan in the […] The post Southeast Asia’s oldest savings product still has no price for going first appeared f…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?** — Score 10, observation — [Quelle](https://e27.co/us73000-and-still-climbing-how-long-can-bitcoin-ignore-the-macro-storm-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-21T04:05:41+00:00`, fetched `2026-08-21T04:12:27+00:00`
@@ -197,15 +206,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: I was recently invited to evaluate the performance of a leadership team inside a growing organisation. The company had already gone through multiple rounds of evaluations before I arrived. Capability gaps had been mapped. Consultants had been brought in. AI adoption initiatives had been launched. Leadership workshops had been conducted. Internal reviews had been repeated. […] The post The transformation ecology cris…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **J&T Express leans on Southeast Asia as China parcel growth cools** — Score 8, observation — [Quelle](https://e27.co/jt-express-leans-on-southeast-asia-as-china-parcel-growth-cools-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-21T04:30:22+00:00`, fetched `2026-08-21T04:44:25+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China, Hong Kong (+2.0)
-  - Kurz: J&T Global Express has delivered the kind of first-half numbers that usually make public-market investors sit up. The Hong Kong-listed logistics company reported revenue of US$7.67 billion for the first half of 2026, up 39.5 per cent year-on-year, while express delivery revenue rose 39.6 per cent to US$7.46 billion. Adjusted net profit more than doubled […] The post J&T Express leans on Southeast Asia as China parce…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AprilNEA/OpenLogi** — Score 8, opportunity — [Quelle](https://github.com/AprilNEA/OpenLogi)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-21T02:48:22+00:00`
@@ -215,6 +215,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. https://openlogi.org Warning OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. English | 简体中文 | 日本語 | Deutsch | Français | 한국어 OpenLogi ⚡️ A n…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Qwen3.8 27Bが驚異の6.2GBに!? Unslothが新量子化技術で実現** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2134411.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T03:22:35+00:00`, fetched `2026-08-21T05:56:59+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Qwen3.8 27Bが驚異の6.2GBに!? Unslothが新量子化技術で実現
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「食い入るように読み切ってしまいました」大学教授による期末レポート講評が、昨今のAIの話を完璧に捉えていて面白い、最後はしっかり落ちてる** — Score 5, observation — [Quelle](https://togetter.com/li/2735638)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-21T02:42:50+00:00`, fetched `2026-08-21T04:44:25+00:00`
@@ -232,15 +241,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2134248.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-20T21:50:31+00:00`, fetched `2026-08-21T02:48:22+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「X Pro」代替X（旧称Twitter）アプリ「XTimelineViewer」がメジャーバージョンアップ／マルチプロファイルに対応など多岐にわたり機能が充実、使い勝手も向上
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Pinning saved views to the repository issues sidebar is generally available and more** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar)
   - Quelle: GitHub Changelog Atom / `rss`

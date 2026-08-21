@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-21T05:44:20+00:00",
+  "generated_at": "2026-08-21T05:57:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 2,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 10,
-    "observe": 15
+    "observe": 17
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Southeast Asia’s oldest savings product still has no price for going first",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-21T05:53:23+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/southeast-asias-oldest-savings-product-still-has-no-price-for-going-first-20260821/",
+      "summary": "Every fintech founder in this region has drawn the same slide at some point: the underbanked adult, the missing credit file, the product that will finally reach them. Fewer have noticed that the person on the slide already owns a savings product, and has for…",
+      "section": "observe"
+    },
+    {
       "title": "US$73,000 and still climbing: How long can Bitcoin ignore the macro storm?",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmbw",
       "summary": "Time 2026-08-20 23:36:41 UTC 2026-08-20 23:36:41 UTC at epicenter Location 56.592°S 141.454°W Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "The transformation ecology crisis: How AI is exposing the hidden fragility of high-performing teams",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-21T04:50:20+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/the-transformation-ecology-crisis-how-ai-is-exposing-the-hidden-fragility-of-high-performing-teams-20260821/",
-      "summary": "I was recently invited to evaluate the performance of a leadership team inside a growing organisation. The company had already gone through multiple rounds of evaluations before I arrived. Capability gaps had been mapped. Consultants had been brought in. AI a…",
       "section": "observe"
     }
   ],
