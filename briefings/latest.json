@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T22:19:46+00:00",
-  "run_id": "2026-08-21T22:19:46+00:00",
+  "generated_at": "2026-08-21T22:33:19+00:00",
+  "run_id": "2026-08-21T22:33:19+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 40,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -2060,6 +2060,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fbcc849d8b8477fee2c4"
+      },
+      {
+        "title": "claude のメモリを棚卸しする",
+        "url": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T07:25:52+00:00",
+        "fetched_at": "2026-08-21T22:32:45+00:00",
+        "summary": "このツイート見て「やべ、なんも意識してなかった」となったのがきっかけ よしなにやってくれてるんだろうくらいだったので、この際ちゃんと調べて棚卸しした そもそも claude のメモリとは 理解しているつもりだったけどちゃんと調べてなかったので調べた プロジェクトごとに保存（~/.claude/projects/<プロジェクト名>...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f5cc697cfb0e1c29cd6"
       },
       {
         "title": "HTML Can Do That",
@@ -4386,6 +4407,27 @@
       "id": "fbcc849d8b8477fee2c4"
     },
     {
+      "title": "claude のメモリを棚卸しする",
+      "url": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T07:25:52+00:00",
+      "fetched_at": "2026-08-21T22:32:45+00:00",
+      "summary": "このツイート見て「やべ、なんも意識してなかった」となったのがきっかけ よしなにやってくれてるんだろうくらいだったので、この際ちゃんと調べて棚卸しした そもそも claude のメモリとは 理解しているつもりだったけどちゃんと調べてなかったので調べた プロジェクトごとに保存（~/.claude/projects/<プロジェクト名>...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f5cc697cfb0e1c29cd6"
+    },
+    {
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4679,26 +4721,25 @@
   ],
   "new_findings": [
     {
-      "title": "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
-      "url": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
+      "title": "claude のメモリを棚卸しする",
+      "url": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-21T04:55:59+00:00",
-      "fetched_at": "2026-08-21T22:19:18+00:00",
-      "summary": "「すぐには理解できないが、正しいことを言っているのだと思う」 週次の報告会で、上司がそう言った。 私はAIで作ったスライドとHTMLレポートを画面に映していた。上司は内容を否定しなかった。むしろ、正しいと言ってくれた。理解はできないけれど、正しいのだと思う、と。 そのときの私は、それを好意的な反応として受...",
+      "published_at": "2026-08-21T07:25:52+00:00",
+      "fetched_at": "2026-08-21T22:32:45+00:00",
+      "summary": "このツイート見て「やべ、なんも意識してなかった」となったのがきっかけ よしなにやってくれてるんだろうくらいだったので、この際ちゃんと調べて棚卸しした そもそも claude のメモリとは 理解しているつもりだったけどちゃんと調べてなかったので調べた プロジェクトごとに保存（~/.claude/projects/<プロジェクト名>...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a5d44384fafbb218aa73"
+      "id": "3f5cc697cfb0e1c29cd6"
     }
   ],
   "source_errors": [],
