@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T21:06:39+00:00",
-  "run_id": "2026-08-21T21:06:39+00:00",
+  "generated_at": "2026-08-21T21:16:54+00:00",
+  "run_id": "2026-08-21T21:16:54+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4591,31 +4591,7 @@
       "id": "f04a8278f9c77350143b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ",
-      "url": "https://www.sbbit.jp/article/cont1/186558",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-21T14:12:46+00:00",
-      "fetched_at": "2026-08-21T21:06:10+00:00",
-      "summary": "「バイブコーディング」の次に来るAI開発の形が、早くも見え始めている。いま筆者の開発作業では、直したい点や作りたい機能を短い文章で伝え、自作の自動運転コマンドを起動するだけだ。その後は放っておけば、設計書の作成から実装、テスト、本番への反映まで自動で進み、筆者は途中で上がってくる報告に目を通すだけ...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2fe1d8469b2c563d21c5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
