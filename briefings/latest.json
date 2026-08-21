@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T09:38:46+00:00",
-  "run_id": "2026-08-21T09:38:46+00:00",
+  "generated_at": "2026-08-21T09:54:16+00:00",
+  "run_id": "2026-08-21T09:54:16+00:00",
   "date": "2026-08-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 4,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 21,
-    "observe": 28,
+    "medium": 24,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -188,6 +188,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f94d679692e4df77ca7d"
+      },
+      {
+        "title": "M 5.1 - 1 km N of Alegria, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-21T09:42:41.040+00:00",
+        "fetched_at": "2026-08-21T09:53:46+00:00",
+        "summary": "Time 2026-08-21 09:22:36 UTC 2026-08-21 09:22:36 UTC at epicenter Location 9.483°N 125.578°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a801c72182487eff8576"
       },
       {
         "title": "M 5.2 - 19 km W of Jabonga, Philippines",
@@ -402,6 +439,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b88402411fb51e95a19b"
+      },
+      {
+        "title": "[UPDATE] [mittel] IBM DB2: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2415",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-21T09:51:07+00:00",
+        "fetched_at": "2026-08-21T09:53:46+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3b31e334dfa80e4f2d6e"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2711",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-21T09:51:07+00:00",
+        "fetched_at": "2026-08-21T09:53:46+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7de280f16b9be7f4483a"
       },
       {
         "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
@@ -1075,6 +1158,27 @@
         "id": "753ccc7cbd0a7a4e36ec"
       },
       {
+        "title": "はてなパークスはどうすべきだったか？",
+        "url": "https://anond.hatelabo.jp/20260821110703",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T02:16:18+00:00",
+        "fetched_at": "2026-08-21T09:53:46+00:00",
+        "summary": "はてなは創業以来ずっと「顕名ほのぼの情報共有コミュニティ」を作ろうとしている。 何故かユーザーがレスバ大好き暴言上等のモヒカン族ばかりだから失敗しているだけで。 はてなパークスのコンセプトも「顕名ほのぼの情報共有コミュニティ」だろう。 だから改善策を考えるとしても、大前提としてコンセプトに沿わなけれ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fbf6facd6a8c31b2f475"
+      },
+      {
         "title": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
         "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1383,6 +1487,43 @@
       "id": "f94d679692e4df77ca7d"
     },
     {
+      "title": "M 5.1 - 1 km N of Alegria, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-21T09:42:41.040+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "Time 2026-08-21 09:22:36 UTC 2026-08-21 09:22:36 UTC at epicenter Location 9.483°N 125.578°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a801c72182487eff8576"
+    },
+    {
       "title": "M 5.2 - 19 km W of Jabonga, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1595,6 +1736,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b88402411fb51e95a19b"
+    },
+    {
+      "title": "[UPDATE] [mittel] IBM DB2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2415",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-21T09:51:07+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3b31e334dfa80e4f2d6e"
+    },
+    {
+      "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2711",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-21T09:51:07+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7de280f16b9be7f4483a"
     },
     {
       "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
@@ -2266,6 +2453,27 @@
       "id": "753ccc7cbd0a7a4e36ec"
     },
     {
+      "title": "はてなパークスはどうすべきだったか？",
+      "url": "https://anond.hatelabo.jp/20260821110703",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T02:16:18+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "はてなは創業以来ずっと「顕名ほのぼの情報共有コミュニティ」を作ろうとしている。 何故かユーザーがレスバ大好き暴言上等のモヒカン族ばかりだから失敗しているだけで。 はてなパークスのコンセプトも「顕名ほのぼの情報共有コミュニティ」だろう。 だから改善策を考えるとしても、大前提としてコンセプトに沿わなけれ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fbf6facd6a8c31b2f475"
+    },
+    {
       "title": "NPUで数十種類のチャットAIを動かし放題の「Lemonade Server」。ただしAMD Ryzen AIに限る",
       "url": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2132902.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2413,13 +2621,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 19 km W of Jabonga, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer",
+      "title": "M 5.1 - 1 km N of Alegria, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-21T09:37:34.041+00:00",
-      "fetched_at": "2026-08-21T09:38:16+00:00",
-      "summary": "DYFI? - III Time 2026-08-21 09:12:20 UTC 2026-08-21 09:12:20 UTC at epicenter Location 9.338°N 125.342°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-21T09:42:41.040+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "Time 2026-08-21 09:22:36 UTC 2026-08-21 09:22:36 UTC at epicenter Location 9.483°N 125.578°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
         "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
@@ -2447,16 +2655,16 @@
         "HD",
         "LOW"
       ],
-      "id": "47a08449e2b167cbc585"
+      "id": "a801c72182487eff8576"
     },
     {
-      "title": "[NEU] [mittel] VMware Tanzu Spring Cloud: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2952",
+      "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2711",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-21T09:21:05+00:00",
-      "fetched_at": "2026-08-21T09:38:16+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Cloud ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-08-21T09:51:07+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um beliebigen Programmcode auszuführen, um seine Privilegien zu erhöhen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2470,27 +2678,51 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "fa3b05347986c1f0a386"
+      "id": "7de280f16b9be7f4483a"
     },
     {
-      "title": "Dell ObjectScale: Höhere Nutzerrechte erschleichbar",
-      "url": "https://www.heise.de/news/Dell-ObjectScale-Hoehere-Nutzerrechte-erschleichbar-11421714.html",
-      "source": "heise Security Alerts",
+      "title": "[UPDATE] [mittel] IBM DB2: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2415",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-21T09:28:00.000+00:00",
-      "fetched_at": "2026-08-21T09:38:16+00:00",
-      "summary": "Sicherheitsupdates schließen mehrere Lücken in Dells Object-Storage-Plattform ObjectScale.",
+      "published_at": "2026-08-21T09:51:07+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um einen Denial of Service Angriff durchzuführen, und um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "efd05ef26d8dc0658727"
+      "id": "3b31e334dfa80e4f2d6e"
+    },
+    {
+      "title": "はてなパークスはどうすべきだったか？",
+      "url": "https://anond.hatelabo.jp/20260821110703",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T02:16:18+00:00",
+      "fetched_at": "2026-08-21T09:53:46+00:00",
+      "summary": "はてなは創業以来ずっと「顕名ほのぼの情報共有コミュニティ」を作ろうとしている。 何故かユーザーがレスバ大好き暴言上等のモヒカン族ばかりだから失敗しているだけで。 はてなパークスのコンセプトも「顕名ほのぼの情報共有コミュニティ」だろう。 だから改善策を考えるとしても、大前提としてコンセプトに沿わなけれ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fbf6facd6a8c31b2f475"
     }
   ],
   "source_errors": [],
