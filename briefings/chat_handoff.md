@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-21T11:32:27+00:00_
+_Generated: 2026-08-21T11:44:50+00:00_
 
 ## Status
-- status: `normal`
-- findings: `59`
+- status: `warning`
+- findings: `63`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-21T11:32:27+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2951
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）
+### 3. [NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-21T11:31:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-21T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU97889580/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [NEU] [mittel] Microsoft Windows Dienste: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-21T08:41:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2947
-- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Windows Server 2012 R2, Windows Server 2012, Windows Server 2016, Windows 10, Windows 11, Windows Server 2025, Windows Server 2022, Windows Server 2019, Microsoft Windows Remote Help und Windows App für M…
 
 ### 5. Lücke in WordPress-Plug-in Elementor Pro: 6 Millionen Webseiten gefährdet
 - source: heise Security Alerts

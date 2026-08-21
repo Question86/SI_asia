@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-21T11:32:27+00:00_
+_Generiert: 2026-08-21T11:44:50+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+63 neue relevante Treffer. Stärkstes Signal: „Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); Exchange (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Microsoft Azure, Microsoft Entra ID und Microsoft Exchange Online ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Red Hat Enterprise Linux (mrtg, kbd, urwid): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2961)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-21T11:31:06+00:00`, fetched `2026-08-21T11:44:22+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月20日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU97889580/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -57,15 +66,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s Cyber Command has disrupted more than 30,000 Apple iMessage accounts tied to a fraud campaign that has cost victims roughly SGD2.2 million (US$1.7 million) since June, a figure that jumped nearly US$800,000 in the weeks since police last updated the tally on August 5. The scam itself was mundane: spoofed messages impersonating Ninja Van, J&T Express and government […] The post Ecosystem Roundup: Singapor…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2908)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-21T04:56:06+00:00`, fetched `2026-08-21T05:28:04+00:00`
-  - Treffer: BSI, CERT-Bund, Microsoft, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore disrupts 30,000 iMessage accounts as scam losses hit US$1.7M** — Score 16, risk — [Quelle](https://e27.co/singapore-disrupts-30000-imessage-accounts-as-scam-losses-hit-us1-7m-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-21T03:00:25+00:00`, fetched `2026-08-21T03:13:17+00:00`
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s fight against scams is moving deeper into the messaging apps people use every day, after police disrupted more than 30,000 Apple iMessage accounts linked to a campaign that has already caused about SGD2.2 million (US$1.7 million) in losses. The Singapore Police Force said its Cyber Command has been detecting and disabling accounts tied to […] The post Singapore disrupts 30,000 iMessage accounts as scam l…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - 44 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmf5)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-21T11:32:53.040+00:00`, fetched `2026-08-21T11:44:22+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-21 11:03:03 UTC 2026-08-21 11:03:03 UTC at epicenter Location 8.213°S 120.540°E Depth 9.98 km (6.20 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 1 km N of Alegria, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -92,15 +101,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-08-21 09:12:20 UTC 2026-08-21 09:12:20 UTC at epicenter Location 9.338°N 125.342°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 88 km N of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmej)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-21T08:39:28.040+00:00`, fetched `2026-08-21T08:52:44+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-21 08:14:00 UTC 2026-08-21 08:14:00 UTC at epicenter Location 7.816°S 120.516°E Depth 36.55 km (22.71 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **UNIVERGE IX-R/IX-Vシリーズルータにおける重要な機能に対する認証の欠如の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN81414813/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -267,3 +267,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
