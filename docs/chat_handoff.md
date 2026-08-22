@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T14:02:00+00:00_
+_Generated: 2026-08-22T14:10:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-22T14:02:00+00:00_
 - url: https://www.itmedia.co.jp/news/article/2608/21/2000000680/
 - summary: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
 
-### 8. M 4.6 - 76 km SSW of San Jose Village, Northern Mariana Islands
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-22T08:11:31.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrq
-- summary: Time 2026-08-22 07:43:51 UTC 2026-08-22 07:43:51 UTC at epicenter Location 14.337°N 145.330°E Depth 115.92 km (72.03 mi)
+### 8. 古い「Android」端末を「Raspberry Pi」の代わりにする方法
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-08-22T06:28:06+00:00`
+- url: https://japan.zdnet.com/article/35251631/
+- summary: AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しており、「Raspberry Pi」の購入者もその影響を強く受けている。シングルボードコンピューターの価格は跳ね上がり、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどだ。 こうした状況下で、使わなくなった古い「An...
 
 END OF DOCUMENT

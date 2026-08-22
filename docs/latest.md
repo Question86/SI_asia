@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T14:02:00+00:00_
+_Generiert: 2026-08-22T14:10:28+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+25 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **古い「Android」端末を「Raspberry Pi」の代わりにする方法** — Score 10, observation — [Quelle](https://japan.zdnet.com/article/35251631/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-22T06:28:06+00:00`, fetched `2026-08-22T14:09:56+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しており、「Raspberry Pi」の購入者もその影響を強く受けている。シングルボードコンピューターの価格は跳ね上がり、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどだ。 こうした状況下で、使わなくなった古い「An...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 76 km SSW of San Jose Village, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrq)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-22T08:11:31.040+00:00`, fetched `2026-08-22T08:17:40+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 中国のECサイト「淘宝（タオバオ）」で、手のひらに収まる「2.9インチ墨水屏読書器」を見つけ、思わず購入してしまった。価格は12元（300円弱）。名目は超小型の電子書籍リーダーだが、実際には時計、カレンダー、天気、温度湿度、画像表示までこなす小さな電子ペーパー端末である。 画面は296×128ピクセルの2.9型モノク...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **アフリカへの農業支援のために「イモの栽培を教えたら種イモを食べてしまった」というのは、ウルルン滞在記におけるニューギニアの話が変異したのでは - 電脳塵芥** — Score 5, observation — [Quelle](https://nou-yunyun.hatenablog.com/entry/2026/08/22/140000)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-22T05:57:57+00:00`, fetched `2026-08-22T08:06:54+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: https://www.threads.com/@kkkkk39kk/post/DcN4kz8lDw3 スレッズで上記の様な話が拡散しており、これをパクった「たろうまる@taroinagaki025」というネット右派系の拡散者の投稿でXでも拡散していた。さらに言うならば3月の時点でこの話が拡散していたので、直近の拡散は下記の「キャメル @4Ud1CCuftl19105」によるもの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/TypeScript** — Score 5, observation — [Quelle](https://github.com/microsoft/TypeScript)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
