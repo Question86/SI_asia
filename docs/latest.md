@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T10:37:49+00:00_
+_Generiert: 2026-08-22T10:47:58+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+22 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -105,14 +105,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: https://www.threads.com/@kkkkk39kk/post/DcN4kz8lDw3 スレッズで上記の様な話が拡散しており、これをパクった「たろうまる@taroinagaki025」というネット右派系の拡散者の投稿でXでも拡散していた。さらに言うならば3月の時点でこの話が拡散していたので、直近の拡散は下記の「キャメル @4Ud1CCuftl19105」によるもの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **塩原温泉の足湯「湯っ歩」のポスターで桶に入った足が切断されているように見えるイラストがあり、AIらしい不自然さが話題に→「まるでホラー」AIを使うなら確認してから** — Score 5, observation — [Quelle](https://togetter.com/li/2736038)
+- **「救急の日」ポスターがAI生成で作られて気持ち悪さを感じたポスト主…背景や配置を考えていてAIには見えないという意見が多数集まり、議論となる→視点次第で感じ方が違う** — Score 5, observation — [Quelle](https://togetter.com/li/2736062)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-22T03:28:16+00:00`, fetched `2026-08-22T10:37:20+00:00`
+  - Zeit: published `2026-08-22T04:02:49+00:00`, fetched `2026-08-22T10:47:29+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 松田 扇 @ohgi_RE 生成AIが良くも悪くも話題になっている今、塩原温泉足湯施設 湯っ歩のAIポスターを載せたいと思います… pic.x.com/B8weq6w8f3 2026-08-17 21:02:37 松田 扇 @ohgi_RE NHKの塩原温泉特集？で湯っ歩の里が出たこともあって随分インプレッションがあるみたいです… 因みに利用した平日は入館受付、電話...
+  - Kurz: 「救急の日」ポスターがAI生成で作られて気持ち悪さを感じたポスト主…背景や配置を考えていてAIには見えないという意見が多数集まり、議論となる→視点次第で感じ方が違う
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/TypeScript** — Score 5, observation — [Quelle](https://github.com/microsoft/TypeScript)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
