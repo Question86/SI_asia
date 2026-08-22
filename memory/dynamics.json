@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-22T08:04:13Z",
+  "generated_at": "2026-08-22T08:22:48Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 18,
+    "dynamics": 22,
     "bands": {
       "strong": 5,
-      "watch": 5,
-      "quiet": 8
+      "watch": 8,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 5,
-      "quiet": 8
+      "watch": 8,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 64.25,
+      "age_days": 64.27,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:16:00.101+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:19:47.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T02:20:44.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:46:08.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -147,11 +147,62 @@
       "summary": "Time 2026-08-22 01:30:59 UTC 2026-08-22 01:30:59 UTC at epicenter Location 8.275°S 120.561°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
+      "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-22T01:46:47+00:00",
+      "age_days": 0.28,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "概要 Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。 小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。 一方、数十〜数百件のタスクを含む開発では、同じ進め方は通用..."
+    },
+    {
+      "title": "M 5.7 - Scotia Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-22T08:04:32.195+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "ShakeMap - IV Time 2026-08-22 07:40:12 UTC 2026-08-22 07:40:12 UTC at epicenter Location 60.265°S 47.259°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - northern Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:40:44.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -176,7 +227,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:09:14.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -201,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:51:45.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -226,7 +277,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T08:28:59+00:00",
-      "age_days": 0.98,
+      "age_days": 1.0,
       "topics": [
         "general"
       ],
@@ -250,7 +301,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T05:07:01.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "disaster"
@@ -274,11 +325,61 @@
       "summary": "Time 2026-08-22 04:44:08 UTC 2026-08-22 04:44:08 UTC at epicenter Location 9.398°N 125.581°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 76 km SSW of San Jose Village, Northern Mariana Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrq",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-22T08:11:31.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-22 07:43:51 UTC 2026-08-22 07:43:51 UTC at epicenter Location 14.337°N 145.330°E Depth 115.92 km (72.03 mi)"
+    },
+    {
+      "title": "アフリカへの農業支援のために「イモの栽培を教えたら種イモを食べてしまった」というのは、ウルルン滞在記におけるニューギニアの話が変異したのでは - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/08/22/140000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-22T05:57:57+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "https://www.threads.com/@kkkkk39kk/post/DcN4kz8lDw3 スレッズで上記の様な話が拡散しており、これをパクった「たろうまる@taroinagaki025」というネット右派系の拡散者の投稿でXでも拡散していた。さらに言うならば3月の時点でこの話が拡散していたので、直近の拡散は下記の「キャメル @4Ud1CCuftl19105」によるもの..."
+    },
+    {
       "title": "AI時代のPR管理画面 gh pr-graph を激推ししている - ともにかける",
       "url": "https://paper2.hatenablog.com/entry/2026/08/22/103649",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T02:37:55+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -304,7 +405,7 @@
       "url": "https://faithandbrave.hateblo.jp/entry/2026/08/21/102716",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T02:41:00+00:00",
-      "age_days": 1.22,
+      "age_days": 1.24,
       "topics": [
         "ai"
       ],
@@ -330,7 +431,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.22,
+      "age_days": 63.23,
       "topics": [
         "general"
       ],
@@ -355,7 +456,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.22,
+      "age_days": 63.23,
       "topics": [
         "general"
       ],
@@ -380,7 +481,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.22,
+      "age_days": 63.23,
       "topics": [
         "ai"
       ],
@@ -407,7 +508,7 @@
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-22T03:01:54+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -432,7 +533,7 @@
       "url": "https://anond.hatelabo.jp/20260822070809",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T22:21:51+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -457,7 +558,7 @@
       "url": "https://github.com/microsoft/TypeScript",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-22T03:01:54+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
