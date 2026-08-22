@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-22T08:46:42+00:00",
+  "generated_at": "2026-08-22T08:59:12+00:00",
   "topics": {
     "ai": [
       {
@@ -48,6 +48,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 4.8 - 83 km NNE of Ruteng, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-22T08:55:44.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrx"
+      },
       {
         "title": "M 5.0 - 45 km SE of Lukatan, Philippines",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -110,13 +117,6 @@
         "published_at": "2026-08-22T08:11:31.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrq"
-      },
-      {
-        "title": "M 4.9 - northern Mid-Atlantic Ridge",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-22T07:40:44.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri"
       }
     ],
     "github": [

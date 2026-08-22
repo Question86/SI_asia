@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:46:46+00:00",
+  "generated_at": "2026-08-22T08:59:15+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-33824"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561143",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
