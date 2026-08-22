@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T17:38:55+00:00_
+_Generiert: 2026-08-22T17:48:00+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,10 @@ _Generiert: 2026-08-22T17:38:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone NARRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.8 - 4 km NNW of Toride, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta)
+- **USGS earthquake M5.8 - 4 km N of Toride, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta)
   - Quelle: USGS
-  - Zeit: `2026-08-22T17:00:41+00:00`
-  - Kurz: M5.8 - 4 km NNW of Toride, Japan. PAGER alert: green. Tsunami flag: 0.
+  - Zeit: `2026-08-22T17:00:39+00:00`
+  - Kurz: M5.8 - 4 km N of Toride, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
