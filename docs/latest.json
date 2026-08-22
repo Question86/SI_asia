@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T12:11:20+00:00",
-  "run_id": "2026-08-22T12:11:20+00:00",
+  "generated_at": "2026-08-22T12:40:20+00:00",
+  "run_id": "2026-08-22T12:40:20+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 7,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -562,6 +562,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0002d83ae7ebe181bee2"
+      },
+      {
+        "title": "スマホ依存からの脱却で中国でE Ink端末が一大ブームに 知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)",
+        "url": "https://ascii.jp/elem/000/004/428/4428609/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-22T06:40:39+00:00",
+        "fetched_at": "2026-08-22T12:39:48+00:00",
+        "summary": "中国のECサイト「淘宝（タオバオ）」で、手のひらに収まる「2.9インチ墨水屏読書器」を見つけ、思わず購入してしまった。価格は12元（300円弱）。名目は超小型の電子書籍リーダーだが、実際には時計、カレンダー、天気、温度湿度、画像表示までこなす小さな電子ペーパー端末である。 画面は296×128ピクセルの2.9型モノク...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b3e4da97a20c2074077d"
       },
       {
         "title": "アフリカへの農業支援のために「イモの栽培を教えたら種イモを食べてしまった」というのは、ウルルン滞在記におけるニューギニアの話が変異したのでは - 電脳塵芥",
@@ -1267,6 +1288,27 @@
       "id": "0002d83ae7ebe181bee2"
     },
     {
+      "title": "スマホ依存からの脱却で中国でE Ink端末が一大ブームに 知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)",
+      "url": "https://ascii.jp/elem/000/004/428/4428609/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-22T06:40:39+00:00",
+      "fetched_at": "2026-08-22T12:39:48+00:00",
+      "summary": "中国のECサイト「淘宝（タオバオ）」で、手のひらに収まる「2.9インチ墨水屏読書器」を見つけ、思わず購入してしまった。価格は12元（300円弱）。名目は超小型の電子書籍リーダーだが、実際には時計、カレンダー、天気、温度湿度、画像表示までこなす小さな電子ペーパー端末である。 画面は296×128ピクセルの2.9型モノク...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3e4da97a20c2074077d"
+    },
+    {
       "title": "アフリカへの農業支援のために「イモの栽培を教えたら種イモを食べてしまった」というのは、ウルルン滞在記におけるニューギニアの話が変異したのでは - 電脳塵芥",
       "url": "https://nou-yunyun.hatenablog.com/entry/2026/08/22/140000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1437,13 +1479,13 @@
   ],
   "new_findings": [
     {
-      "title": "Microsoft Entra ID アプリケーション開発入門",
-      "url": "https://zenn.dev/karamem0/books/505df6779ec89a",
+      "title": "スマホ依存からの脱却で中国でE Ink端末が一大ブームに 知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)",
+      "url": "https://ascii.jp/elem/000/004/428/4428609/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-21T15:39:57+00:00",
-      "fetched_at": "2026-08-22T12:10:46+00:00",
-      "summary": "Microsoft Entra ID はクラウド ベースの ID 管理プラットフォームです。Microsoft Azure 上でアプリケーションを構築する場合、Microsoft Entra ID を使用して認証と承認を管理することが一般的です。本書では、Microsoft Entra ID アプリケーションの基本的な概念、設定方法、および開発手法について解説します。",
+      "published_at": "2026-08-22T06:40:39+00:00",
+      "fetched_at": "2026-08-22T12:39:48+00:00",
+      "summary": "中国のECサイト「淘宝（タオバオ）」で、手のひらに収まる「2.9インチ墨水屏読書器」を見つけ、思わず購入してしまった。価格は12元（300円弱）。名目は超小型の電子書籍リーダーだが、実際には時計、カレンダー、天気、温度湿度、画像表示までこなす小さな電子ペーパー端末である。 画面は296×128ピクセルの2.9型モノク...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1455,7 +1497,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e19221b10081da70e758"
+      "id": "b3e4da97a20c2074077d"
     }
   ],
   "source_errors": [],
