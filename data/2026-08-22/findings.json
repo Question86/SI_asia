@@ -175,6 +175,27 @@
     "id": "80d71c0d1be226f62403"
   },
   {
+    "title": "3命令のCPU処理で済む高速なうるう年判定アルゴリズム - Faith and Brave - C++で遊ぼう",
+    "url": "https://faithandbrave.hateblo.jp/entry/2026/08/21/102716",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-21T02:41:00+00:00",
+    "fetched_at": "2026-08-22T04:40:29+00:00",
+    "summary": "要約 この短いコードで、西暦102499年までのうるう年を判定できます。このマジックナンバーはz3というSMTソルバーで見つけ出されました。 bool is_leap_year_fast(uint32_t y) { return ((y * 1073750999) & 3221352463) <= 126976; } はじめに GCC (libstdc++) のうるう年判定のアルゴリズムが、以下のように変更になり...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "691163033698e248a8b7"
+  },
+  {
     "title": "microsoft/TypeScript",
     "url": "https://github.com/microsoft/TypeScript",
     "source": "GitHub Trending RSS All Languages Daily",

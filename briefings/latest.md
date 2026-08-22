@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T04:12:04+00:00_
+_Generiert: 2026-08-22T04:40:59+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 42 km NE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 42 km NE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -125,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: https://chromewebstore.google.com/detail/fkafbemfhebnchlckkionocpkmeggehj ユーザーアイコンが全員 羊なのは、サービスの匿名性を高めるために「あえてそうなってる」仕様だと思うので、この拡張を公開するか迷ったのですが⋯。 実際、これを使うと、知ってるユーザーを視認しやすくなって便利になってしまった。 こ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **3命令のCPU処理で済む高速なうるう年判定アルゴリズム - Faith and Brave - C++で遊ぼう** — Score 5, observation — [Quelle](https://faithandbrave.hateblo.jp/entry/2026/08/21/102716)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T02:41:00+00:00`, fetched `2026-08-22T04:40:29+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 要約 この短いコードで、西暦102499年までのうるう年を判定できます。このマジックナンバーはz3というSMTソルバーで見つけ出されました。 bool is_leap_year_fast(uint32_t y) { return ((y * 1073750999) & 3221352463) <= 126976; } はじめに GCC (libstdc++) のうるう年判定のアルゴリズムが、以下のように変更になり...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/TypeScript** — Score 5, observation — [Quelle](https://github.com/microsoft/TypeScript)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
