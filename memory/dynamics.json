@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-22T06:23:27Z",
+  "generated_at": "2026-08-22T06:43:33Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 16,
     "bands": {
-      "strong": 3,
+      "strong": 4,
       "watch": 4,
       "quiet": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 4,
       "quiet": 8
     }
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 64.18,
+      "age_days": 64.2,
       "topics": [
         "ai"
       ],
@@ -47,11 +47,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 71 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-22T06:19:47.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-22 05:45:11 UTC 2026-08-22 05:45:11 UTC at epicenter Location 8.230°S 121.458°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.6 - 42 km NE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T02:20:44.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -76,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:46:08.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -101,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:09:14.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -126,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:51:45.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -151,7 +176,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T08:28:59+00:00",
-      "age_days": 0.91,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -175,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T05:07:01.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "disaster"
@@ -203,7 +228,7 @@
       "url": "https://paper2.hatenablog.com/entry/2026/08/22/103649",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T02:37:55+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -229,7 +254,7 @@
       "url": "https://faithandbrave.hateblo.jp/entry/2026/08/21/102716",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T02:41:00+00:00",
-      "age_days": 1.15,
+      "age_days": 1.17,
       "topics": [
         "ai"
       ],
@@ -255,7 +280,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.15,
+      "age_days": 63.16,
       "topics": [
         "general"
       ],
@@ -271,7 +296,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 63.1d old signal"
+        "aging penalty -16.0 for 63.2d old signal"
       ],
       "summary": ""
     },
@@ -280,7 +305,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.15,
+      "age_days": 63.16,
       "topics": [
         "general"
       ],
@@ -296,7 +321,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 63.1d old signal"
+        "aging penalty -16.0 for 63.2d old signal"
       ],
       "summary": ""
     },
@@ -305,7 +330,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.15,
+      "age_days": 63.16,
       "topics": [
         "ai"
       ],
@@ -322,7 +347,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 63.1d old signal",
+        "aging penalty -16.0 for 63.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -332,7 +357,7 @@
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-22T03:01:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -357,7 +382,7 @@
       "url": "https://anond.hatelabo.jp/20260822070809",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T22:21:51+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -382,7 +407,7 @@
       "url": "https://github.com/microsoft/TypeScript",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-22T03:01:54+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
