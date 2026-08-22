@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T07:18:32+00:00",
-  "run_id": "2026-08-22T07:18:32+00:00",
+  "generated_at": "2026-08-22T07:33:00+00:00",
+  "run_id": "2026-08-22T07:33:00+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -805,45 +805,7 @@
       "id": "d640515d1731fdf6b9a2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.0 - 45 km SE of Lukatan, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-22T07:16:00.101+00:00",
-      "fetched_at": "2026-08-22T07:18:01+00:00",
-      "summary": "DYFI? - II Time 2026-08-22 06:43:39 UTC 2026-08-22 06:43:39 UTC at epicenter Location 6.740°N 126.736°E Depth 107.80 km (66.99 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5d6745ab8e23c615d6d9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
