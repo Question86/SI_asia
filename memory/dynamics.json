@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-22T04:24:06Z",
+  "generated_at": "2026-08-22T04:55:59Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 11,
+    "dynamics": 12,
     "bands": {
       "strong": 3,
       "watch": 2,
-      "quiet": 6
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 3,
       "watch": 2,
-      "quiet": 6
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 64.1,
+      "age_days": 64.12,
       "topics": [
         "ai"
       ],
@@ -51,7 +51,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T02:20:44.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -76,7 +76,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:46:08.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -101,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:51:45.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -126,7 +126,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T08:28:59+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -146,11 +146,37 @@
       "summary": "東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ..."
     },
     {
+      "title": "3命令のCPU処理で済む高速なうるう年判定アルゴリズム - Faith and Brave - C++で遊ぼう",
+      "url": "https://faithandbrave.hateblo.jp/entry/2026/08/21/102716",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-21T02:41:00+00:00",
+      "age_days": 1.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "要約 この短いコードで、西暦102499年までのうるう年を判定できます。このマジックナンバーはz3というSMTソルバーで見つけ出されました。 bool is_leap_year_fast(uint32_t y) { return ((y * 1073750999) & 3221352463) <= 126976; } はじめに GCC (libstdc++) のうるう年判定のアルゴリズムが、以下のように変更になり..."
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.07,
+      "age_days": 63.09,
       "topics": [
         "general"
       ],
@@ -175,7 +201,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.07,
+      "age_days": 63.09,
       "topics": [
         "general"
       ],
@@ -200,7 +226,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.07,
+      "age_days": 63.09,
       "topics": [
         "ai"
       ],
@@ -227,7 +253,7 @@
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-22T03:01:54+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -252,7 +278,7 @@
       "url": "https://anond.hatelabo.jp/20260822070809",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T22:21:51+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -277,7 +303,7 @@
       "url": "https://github.com/microsoft/TypeScript",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-22T03:01:54+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
