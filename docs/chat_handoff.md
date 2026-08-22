@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T06:01:27+00:00_
+_Generated: 2026-08-22T06:13:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `11`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-08-22T06:01:27+00:00_
 - url: https://www.itmedia.co.jp/news/article/2608/21/2000000680/
 - summary: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
 
-### 5. M 5.3 - southern Mid-Atlantic Ridge
+### 5. M 4.9 - 167 km SE of San Jose Village, Northern Mariana Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-22T06:09:14.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra
+- summary: Time 2026-08-22 05:47:07 UTC 2026-08-22 05:47:07 UTC at epicenter Location 13.895°N 146.719°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.3 - southern Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-22T01:51:45.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6
 - summary: Time 2026-08-22 01:34:57 UTC 2026-08-22 01:34:57 UTC at epicenter Location 12.771°S 14.882°W Depth 10.00 km (6.21 mi)
 
-### 6. mahlernim/google-timeline-visualizer
+### 7. mahlernim/google-timeline-visualizer
 - source: GitHub Trending RSS All Languages Daily
 - score: `8`
 - published: `None`
 - url: https://github.com/mahlernim/google-timeline-visualizer
 - summary: Visualize your year in travel using your Google Location History (Timeline) data Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to…
-
-### 7. AI時代のPR管理画面 gh pr-graph を激推ししている - ともにかける
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-22T02:37:55+00:00`
-- url: https://paper2.hatenablog.com/entry/2026/08/22/103649
-- summary: PR同士の関係を可視化するgh pr-graphコマンドがとてつもなく良かったので、利用者目線でのユースケースを紹介したいと思います。 本家の紹介ブログは以下です。 orangain.hatenablog.com 顧客が欲しかったもの AIでたくさんのPRが作られ、我々は皆レビュアーになりました。PRの依存関係がわからなくなって混乱するとい...
 
 END OF DOCUMENT
