@@ -1,5 +1,42 @@
 [
   {
+    "title": "M 5.0 - 6 km S of Kitcharao, Philippines",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr2",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-22T05:07:01.040+00:00",
+    "fetched_at": "2026-08-22T05:15:07+00:00",
+    "summary": "Time 2026-08-22 04:44:08 UTC 2026-08-22 04:44:08 UTC at epicenter Location 9.398°N 125.581°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "1cadc4a8c29ebe133d59"
+  },
+  {
     "title": "M 4.6 - 42 km NE of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -152,6 +189,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0002d83ae7ebe181bee2"
+  },
+  {
+    "title": "AI時代のPR管理画面 gh pr-graph を激推ししている - ともにかける",
+    "url": "https://paper2.hatenablog.com/entry/2026/08/22/103649",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-22T02:37:55+00:00",
+    "fetched_at": "2026-08-22T05:15:07+00:00",
+    "summary": "PR同士の関係を可視化するgh pr-graphコマンドがとてつもなく良かったので、利用者目線でのユースケースを紹介したいと思います。 本家の紹介ブログは以下です。 orangain.hatenablog.com 顧客が欲しかったもの AIでたくさんのPRが作られ、我々は皆レビュアーになりました。PRの依存関係がわからなくなって混乱するとい...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d1edf62b38af291b45e1"
   },
   {
     "title": "はてなパークスで、ユーザーアイコンを羊から はてなのアイコンに戻すChrome拡張を作った",
