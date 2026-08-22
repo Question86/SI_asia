@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T22:56:32+00:00_
+_Generiert: 2026-08-22T23:12:44+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+36 neue relevante Treffer. Stärkstes Signal: „Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -206,7 +206,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fef18406690>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
