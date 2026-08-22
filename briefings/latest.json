@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T22:38:13+00:00",
-  "run_id": "2026-08-22T22:38:13+00:00",
+  "generated_at": "2026-08-22T22:47:46+00:00",
+  "run_id": "2026-08-22T22:47:46+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -2155,77 +2155,7 @@
       "id": "d640515d1731fdf6b9a2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void",
-      "url": "https://blog.starry.blue/entry/2026/08/21/110000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-21T02:47:08+00:00",
-      "fetched_at": "2026-08-22T22:37:40+00:00",
-      "summary": "コーディングエージェントのおかげで、大規模なシステムを構築することが容易になっています。 私も趣味で Claude Code や Codex を使い、多数のサブシステムを持つバックエンドとフロントエンドからなるアプリケーションを開発しています。一方で、出来上がったシステムは一人で目を配れる規模を超えつつあり、変更のた...",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "2d9dabd4efe2e1130b89"
-    },
-    {
-      "title": "AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」",
-      "url": "https://gigazine.net/news/20260822-modelmap/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-22T09:43:48+00:00",
-      "fetched_at": "2026-08-22T22:37:40+00:00",
-      "summary": "Hugging Faceは多数のAIモデルを共有していますが、AIモデルを選定する際にはどのAIモデルが内部的にどのような動きをしているのか、モデルの違いによって何が変わるのかが気になるところです。「modelmap」はAIモデルがどのような構造をしていて動作中にどのような処理フローをおこなっているのかを視覚的に確認するこ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4cd63b395ab3d95a046f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
