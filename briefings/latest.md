@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T10:25:28+00:00_
+_Generiert: 2026-08-22T10:37:49+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+21 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -170,14 +170,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: https://www.threads.com/@kkkkk39kk/post/DcN4kz8lDw3 スレッズで上記の様な話が拡散しており、これをパクった「たろうまる@taroinagaki025」というネット右派系の拡散者の投稿でXでも拡散していた。さらに言うならば3月の時点でこの話が拡散していたので、直近の拡散は下記の「キャメル @4Ud1CCuftl19105」によるもの...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI時代のPR管理画面 gh pr-graph を激推ししている - ともにかける** — Score 5, observation — [Quelle](https://paper2.hatenablog.com/entry/2026/08/22/103649)
+- **塩原温泉の足湯「湯っ歩」のポスターで桶に入った足が切断されているように見えるイラストがあり、AIらしい不自然さが話題に→「まるでホラー」AIを使うなら確認してから** — Score 5, observation — [Quelle](https://togetter.com/li/2736038)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-22T02:37:55+00:00`, fetched `2026-08-22T05:15:07+00:00`
+  - Zeit: published `2026-08-22T03:28:16+00:00`, fetched `2026-08-22T10:37:20+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: PR同士の関係を可視化するgh pr-graphコマンドがとてつもなく良かったので、利用者目線でのユースケースを紹介したいと思います。 本家の紹介ブログは以下です。 orangain.hatenablog.com 顧客が欲しかったもの AIでたくさんのPRが作られ、我々は皆レビュアーになりました。PRの依存関係がわからなくなって混乱するとい...
+  - Kurz: 松田 扇 @ohgi_RE 生成AIが良くも悪くも話題になっている今、塩原温泉足湯施設 湯っ歩のAIポスターを載せたいと思います… pic.x.com/B8weq6w8f3 2026-08-17 21:02:37 松田 扇 @ohgi_RE NHKの塩原温泉特集？で湯っ歩の里が出たこともあって随分インプレッションがあるみたいです… 因みに利用した平日は入館受付、電話...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/TypeScript** — Score 5, observation — [Quelle](https://github.com/microsoft/TypeScript)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
