@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T21:08:47+00:00_
+_Generiert: 2026-08-22T21:19:00+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+32 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しており、「Raspberry Pi」の購入者もその影響を強く受けている。シングルボードコンピューターの価格は跳ね上がり、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどだ。 こうした状況下で、使わなくなった古い「An...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI に技術ブログを書かせてみてわかったこと** — Score 9, observation — [Quelle](https://azukiazusa.dev/blog/what-i-learned-writing-technical-blog-posts-with-ai/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-22T11:17:24+00:00`, fetched `2026-08-22T21:18:24+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI が書いた記事は一般論に寄りすぎ、冗長になりやすいと考えていたため、これまでは誤字脱字の確認にだけ AI を使っていました。AI に任せる執筆フローを試したところ、生成稿を批判的に読み、自分の体験を加えて推敲すれば、学習効果は大きく失われないと感じました。この記事では、実際に試した方法について紹介しま...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **mahlernim/google-timeline-visualizer** — Score 8, observation — [Quelle](https://github.com/mahlernim/google-timeline-visualizer)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-22T03:01:54+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Visualize your year in travel using your Google Location History (Timeline) data Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to watch or share. Use on iPhone Open the iPhone web app in Safari. There is no app to install and no Timeline file is uploaded. In Google Maps, open profile pictu…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **三人寄ればチューリング完全** — Score 5, observation — [Quelle](https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-22T07:14:54+00:00`, fetched `2026-08-22T15:57:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Kernel/VM探検隊@東京 No. 19 2026/08/22
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/TypeScript** — Score 5, observation — [Quelle](https://github.com/microsoft/TypeScript)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
