@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T22:47:46+00:00_
+_Generated: 2026-08-22T22:56:32+00:00_
 
 ## Status
-- status: `normal`
-- findings: `35`
+- status: `warning`
+- findings: `36`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-22T22:47:46+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta
 - summary: ShakeMap - V DYFI? - IV Time 2026-08-22 17:00:41 UTC 2026-08-22 17:00:41 UTC at epicenter Location 35.934°N 140.063°E Depth 77.58 km (48.21 mi)
 
-### 4. M 4.9 - 78 km S of Gorontalo, Indonesia
+### 4. M 4.5 - 62 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-08-22T20:24:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu
-- summary: Time 2026-08-22 19:54:07 UTC 2026-08-22 19:54:07 UTC at epicenter Location 0.171°S 123.010°E Depth 116.29 km (72.26 mi)
+- published: `2026-08-22T22:53:44.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmut
+- summary: Time 2026-08-22 22:01:02 UTC 2026-08-22 22:01:02 UTC at epicenter Location 8.121°S 120.741°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 6.2 - Scotia Sea
 - source: USGS M4.5+ Earthquakes Past Hour
