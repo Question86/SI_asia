@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T15:57:58+00:00",
-  "run_id": "2026-08-22T15:57:58+00:00",
+  "generated_at": "2026-08-22T16:05:30+00:00",
+  "run_id": "2026-08-22T16:05:30+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1563,29 +1563,7 @@
       "id": "d640515d1731fdf6b9a2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "三人寄ればチューリング完全",
-      "url": "https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-22T07:14:54+00:00",
-      "fetched_at": "2026-08-22T15:57:24+00:00",
-      "summary": "Kernel/VM探検隊@東京 No. 19 2026/08/22",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aeb8e46175f8a51bbf2a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
