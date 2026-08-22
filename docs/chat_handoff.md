@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T17:56:17+00:00_
+_Generated: 2026-08-22T18:12:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-22T17:56:17+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta
 - summary: ShakeMap - V DYFI? - IV Time 2026-08-22 17:00:41 UTC 2026-08-22 17:00:41 UTC at epicenter Location 35.934°N 140.063°E Depth 77.58 km (48.21 mi)
 
-### 3. M 4.8 - 83 km NNE of Ruteng, Indonesia
+### 3. M 4.5 - 122 km SSW of Sungai Penuh, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-22T17:57:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte
+- summary: Time 2026-08-22 17:40:08 UTC 2026-08-22 17:40:08 UTC at epicenter Location 3.030°S 100.874°E Depth 43.19 km (26.84 mi)
+
+### 4. M 4.8 - 83 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T08:55:44.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrx
 - summary: Time 2026-08-22 08:29:00 UTC 2026-08-22 08:29:00 UTC at epicenter Location 7.894°S 120.700°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.0 - 45 km SE of Lukatan, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-22T07:16:00.101+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf
-- summary: DYFI? - II Time 2026-08-22 06:43:39 UTC 2026-08-22 06:43:39 UTC at epicenter Location 6.740°N 126.736°E Depth 107.80 km (66.99 mi)
 
 ### 5. M 6.2 - Scotia Sea
 - source: USGS M4.5+ Earthquakes Past Hour

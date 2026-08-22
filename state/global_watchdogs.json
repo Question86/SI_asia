@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:56:20+00:00",
+  "generated_at": "2026-08-22T18:12:22+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,21 +141,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001307",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.8 - 4 km N of Toride, Japan",
-        "summary": "M5.8 - 4 km N of Toride, Japan. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta",
-        "published_at": "2026-08-22T17:00:39+00:00",
-        "metrics": {
-          "mag": 5.8,
-          "alert": "green",
-          "sig": 551.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
