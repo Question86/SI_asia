@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T17:16:25+00:00_
+_Generiert: 2026-08-22T17:28:16+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+28 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,10 @@ _Generiert: 2026-08-22T17:16:25+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.8 - 4 km NNW of Toride, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta)
+  - Quelle: USGS
+  - Zeit: `2026-08-22T17:00:41+00:00`
+  - Kurz: M5.8 - 4 km NNW of Toride, Japan. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -86,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: 概要 Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。 小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。 一方、数十〜数百件のタスクを含む開発では、同じ進め方は通用...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.8 - 4 km NNW of Toride, Japan** — Score 17, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-22T17:27:49.989+00:00`, fetched `2026-08-22T17:27:45+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - V DYFI? - IV Time 2026-08-22 17:00:41 UTC 2026-08-22 17:00:41 UTC at epicenter Location 35.934°N 140.063°E Depth 77.58 km (48.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 83 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrx)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-22T08:55:44.040+00:00`, fetched `2026-08-22T08:58:39+00:00`
@@ -103,15 +116,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - II Time 2026-08-22 06:43:39 UTC 2026-08-22 06:43:39 UTC at epicenter Location 6.740°N 126.736°E Depth 107.80 km (66.99 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 71 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-22T06:19:47.040+00:00`, fetched `2026-08-22T06:26:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-22 05:45:11 UTC 2026-08-22 05:45:11 UTC at epicenter Location 8.230°S 121.458°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten

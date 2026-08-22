@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T17:16:25+00:00_
+_Generated: 2026-08-22T17:28:16+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `28`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-22T17:16:25+00:00_
 - url: https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=
 - summary: 概要 Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。 小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。 一方、数十〜数百件のタスクを含む開発では、同じ進め方は通用...
 
-### 2. M 4.8 - 83 km NNE of Ruteng, Indonesia
+### 2. M 5.8 - 4 km NNW of Toride, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-08-22T17:27:49.989+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta
+- summary: ShakeMap - V DYFI? - IV Time 2026-08-22 17:00:41 UTC 2026-08-22 17:00:41 UTC at epicenter Location 35.934°N 140.063°E Depth 77.58 km (48.21 mi)
+
+### 3. M 4.8 - 83 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T08:55:44.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrx
 - summary: Time 2026-08-22 08:29:00 UTC 2026-08-22 08:29:00 UTC at epicenter Location 7.894°S 120.700°E Depth 10.00 km (6.21 mi)
 
-### 3. M 5.0 - 45 km SE of Lukatan, Philippines
+### 4. M 5.0 - 45 km SE of Lukatan, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T07:16:00.101+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf
 - summary: DYFI? - II Time 2026-08-22 06:43:39 UTC 2026-08-22 06:43:39 UTC at epicenter Location 6.740°N 126.736°E Depth 107.80 km (66.99 mi)
-
-### 4. M 4.7 - 71 km NNW of Ende, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-22T06:19:47.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7
-- summary: Time 2026-08-22 05:45:11 UTC 2026-08-22 05:45:11 UTC at epicenter Location 8.230°S 121.458°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 6.2 - Scotia Sea
 - source: USGS M4.5+ Earthquakes Past Hour
