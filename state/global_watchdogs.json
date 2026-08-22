@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:57:50+00:00",
+  "generated_at": "2026-08-22T08:07:29+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560491",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.7 - Scotia Sea",
+        "summary": "M5.7 - Scotia Sea. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn",
+        "published_at": "2026-08-22T07:40:12+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "",
+          "sig": 500.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

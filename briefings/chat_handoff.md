@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T07:57:47+00:00_
+_Generated: 2026-08-22T08:07:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `16`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-22T07:57:47+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8
 - summary: Time 2026-08-22 01:59:28 UTC 2026-08-22 01:59:28 UTC at epicenter Location 8.307°S 120.693°E Depth 10.00 km (6.21 mi)
 
-### 5. Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに 「Tokyo Map」正式公開
+### 5. M 5.7 - Scotia Sea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-22T08:04:32.195+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn
+- summary: ShakeMap - IV Time 2026-08-22 07:40:12 UTC 2026-08-22 07:40:12 UTC at epicenter Location 60.265°S 47.259°W Depth 10.00 km (6.21 mi)
+
+### 6. Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに 「Tokyo Map」正式公開
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-21T08:28:59+00:00`
 - url: https://www.itmedia.co.jp/news/article/2608/21/2000000680/
 - summary: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
 
-### 6. M 4.9 - northern Mid-Atlantic Ridge
+### 7. M 4.9 - northern Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-22T07:40:44.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri
 - summary: Time 2026-08-22 07:21:25 UTC 2026-08-22 07:21:25 UTC at epicenter Location 12.521°N 44.633°W Depth 10.00 km (6.21 mi)
 
-### 7. M 4.9 - 167 km SE of San Jose Village, Northern Mariana Islands
+### 8. M 4.9 - 167 km SE of San Jose Village, Northern Mariana Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-22T06:09:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra
 - summary: Time 2026-08-22 05:47:07 UTC 2026-08-22 05:47:07 UTC at epicenter Location 13.895°N 146.719°E Depth 10.00 km (6.21 mi)
-
-### 8. M 5.3 - southern Mid-Atlantic Ridge
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-22T01:51:45.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6
-- summary: Time 2026-08-22 01:34:57 UTC 2026-08-22 01:34:57 UTC at epicenter Location 12.771°S 14.882°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
