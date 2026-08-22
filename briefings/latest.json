@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T16:26:53+00:00",
-  "run_id": "2026-08-22T16:26:53+00:00",
+  "generated_at": "2026-08-22T16:39:12+00:00",
+  "run_id": "2026-08-22T16:39:12+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 7,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -710,6 +710,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d1edf62b38af291b45e1"
+      },
+      {
+        "title": "目指すは、日本発IPで海外売上20兆円 経産省が新戦略を発表 「ものがたり大国5カ年計画」",
+        "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000696/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T23:14:11+00:00",
+        "fetched_at": "2026-08-22T16:38:41+00:00",
+        "summary": "経済産業省は8月20日、2033年に日本発コンテンツの海外売上20兆円を目指す「エンタメ・クリエイティブ産業戦略2026」を取りまとめたと発表した。副題は「ものがたり大国5か年計画」。ゲーム・アニメ・マンガ・音楽・実写の5分野で、海外売上を24年の6兆1000億円から約3倍に、民間投資額も約3倍の24兆5000億円に拡大する...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "96c8bc35c2c4aa53ceec"
       },
       {
         "title": "はてなパークスで、ユーザーアイコンを羊から はてなのアイコンに戻すChrome拡張を作った",
@@ -1479,6 +1500,27 @@
       "id": "d1edf62b38af291b45e1"
     },
     {
+      "title": "目指すは、日本発IPで海外売上20兆円 経産省が新戦略を発表 「ものがたり大国5カ年計画」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000696/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T23:14:11+00:00",
+      "fetched_at": "2026-08-22T16:38:41+00:00",
+      "summary": "経済産業省は8月20日、2033年に日本発コンテンツの海外売上20兆円を目指す「エンタメ・クリエイティブ産業戦略2026」を取りまとめたと発表した。副題は「ものがたり大国5か年計画」。ゲーム・アニメ・マンガ・音楽・実写の5分野で、海外売上を24年の6兆1000億円から約3倍に、民間投資額も約3倍の24兆5000億円に拡大する...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96c8bc35c2c4aa53ceec"
+    },
+    {
       "title": "はてなパークスで、ユーザーアイコンを羊から はてなのアイコンに戻すChrome拡張を作った",
       "url": "https://anond.hatelabo.jp/20260822070809",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1563,7 +1605,29 @@
       "id": "d640515d1731fdf6b9a2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "目指すは、日本発IPで海外売上20兆円 経産省が新戦略を発表 「ものがたり大国5カ年計画」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000696/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T23:14:11+00:00",
+      "fetched_at": "2026-08-22T16:38:41+00:00",
+      "summary": "経済産業省は8月20日、2033年に日本発コンテンツの海外売上20兆円を目指す「エンタメ・クリエイティブ産業戦略2026」を取りまとめたと発表した。副題は「ものがたり大国5か年計画」。ゲーム・アニメ・マンガ・音楽・実写の5分野で、海外売上を24年の6兆1000億円から約3倍に、民間投資額も約3倍の24兆5000億円に拡大する...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "96c8bc35c2c4aa53ceec"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
