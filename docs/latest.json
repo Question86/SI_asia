@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T14:10:28+00:00",
-  "run_id": "2026-08-22T14:10:28+00:00",
+  "generated_at": "2026-08-22T14:21:05+00:00",
+  "run_id": "2026-08-22T14:21:05+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1521,30 +1521,7 @@
       "id": "d640515d1731fdf6b9a2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "古い「Android」端末を「Raspberry Pi」の代わりにする方法",
-      "url": "https://japan.zdnet.com/article/35251631/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-22T06:28:06+00:00",
-      "fetched_at": "2026-08-22T14:09:56+00:00",
-      "summary": "AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しており、「Raspberry Pi」の購入者もその影響を強く受けている。シングルボードコンピューターの価格は跳ね上がり、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどだ。 こうした状況下で、使わなくなった古い「An...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0900d528006ead774b18"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
