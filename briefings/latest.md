@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T23:34:03+00:00_
+_Generiert: 2026-08-22T23:42:52+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+37 neue relevante Treffer. Stärkstes Signal: „Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -194,7 +194,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
