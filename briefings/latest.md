@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T19:13:47+00:00_
+_Generiert: 2026-08-22T19:25:06+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+30 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-08-22T19:13:47+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 11.9 million in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 5.6 million in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 11.9 million in MMI V.
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 5.6 million in MMI V.
 - **GDACS: Green notification for tropical cyclone NINETEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001308)
   - Quelle: GDACS
   - Zeit: ``
@@ -125,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-08-22 08:22:37 UTC 2026-08-22 08:22:37 UTC at epicenter Location 60.379°S 47.605°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - 32 km NNE of Calama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-22T19:20:00.040+00:00`, fetched `2026-08-22T19:24:35+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-22 18:46:27 UTC 2026-08-22 18:46:27 UTC at epicenter Location 22.193°S 68.793°W Depth 105.49 km (65.55 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - Scotia Sea** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-22T08:04:32.195+00:00`, fetched `2026-08-22T08:06:54+00:00`
@@ -152,15 +161,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しており、「Raspberry Pi」の購入者もその影響を強く受けている。シングルボードコンピューターの価格は跳ね上がり、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどだ。 こうした状況下で、使わなくなった古い「An...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 76 km SSW of San Jose Village, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrq)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-22T08:11:31.040+00:00`, fetched `2026-08-22T08:17:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-22 07:43:51 UTC 2026-08-22 07:43:51 UTC at epicenter Location 14.337°N 145.330°E Depth 115.92 km (72.03 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **mahlernim/google-timeline-visualizer** — Score 8, observation — [Quelle](https://github.com/mahlernim/google-timeline-visualizer)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-22T03:01:54+00:00`

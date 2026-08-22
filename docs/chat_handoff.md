@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T19:13:47+00:00_
+_Generated: 2026-08-22T19:25:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-22T19:13:47+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-08-22 08:22:37 UTC 2026-08-22 08:22:37 UTC at epicenter Location 60.379°S 47.605°W Depth 10.00 km (6.21 mi)
 
-### 6. M 5.7 - Scotia Sea
+### 6. M 4.6 - 32 km NNE of Calama, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-22T19:20:00.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtm
+- summary: Time 2026-08-22 18:46:27 UTC 2026-08-22 18:46:27 UTC at epicenter Location 22.193°S 68.793°W Depth 105.49 km (65.55 mi)
+
+### 7. M 5.7 - Scotia Sea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-22T08:04:32.195+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn
 - summary: ShakeMap - IV Time 2026-08-22 07:40:12 UTC 2026-08-22 07:40:12 UTC at epicenter Location 60.265°S 47.259°W Depth 10.00 km (6.21 mi)
 
-### 7. Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに 「Tokyo Map」正式公開
+### 8. Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに 「Tokyo Map」正式公開
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-21T08:28:59+00:00`
 - url: https://www.itmedia.co.jp/news/article/2608/21/2000000680/
 - summary: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
-
-### 8. 古い「Android」端末を「Raspberry Pi」の代わりにする方法
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-08-22T06:28:06+00:00`
-- url: https://japan.zdnet.com/article/35251631/
-- summary: AIデータセンター需要の急増に伴い、RAMやストレージの価格が高騰しており、「Raspberry Pi」の購入者もその影響を強く受けている。シングルボードコンピューターの価格は跳ね上がり、16GBモデルの「Raspberry Pi 5」ボード2枚で「MacBook Neo」1台分の価格に匹敵するほどだ。 こうした状況下で、使わなくなった古い「An...
 
 END OF DOCUMENT
