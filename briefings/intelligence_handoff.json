@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-22T08:41:13Z",
+  "generated_at": "2026-08-22T08:54:53Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 64.28,
+      "age_days": 64.29,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:16:00.101+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:19:47.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T02:20:44.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:46:08.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -140,11 +140,36 @@
       "summary": "Time 2026-08-22 01:30:59 UTC 2026-08-22 01:30:59 UTC at epicenter Location 8.275°S 120.561°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 6.2 - Scotia Sea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-22T08:44:45.992+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-22 08:22:37 UTC 2026-08-22 08:22:37 UTC at epicenter Location 60.379°S 47.605°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
       "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T01:46:47+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -195,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:40:44.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -220,7 +245,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:09:14.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -245,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:51:45.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -270,7 +295,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T08:28:59+00:00",
-      "age_days": 1.01,
+      "age_days": 1.02,
       "topics": [
         "general"
       ],
@@ -288,34 +313,6 @@
         "high terms: 10"
       ],
       "summary": "東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ..."
-    },
-    {
-      "title": "M 5.0 - 6 km S of Kitcharao, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-22T05:07:01.040+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Time 2026-08-22 04:44:08 UTC 2026-08-22 04:44:08 UTC at epicenter Location 9.398°N 125.581°E Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -327,8 +324,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 6,
+      "watch": 6
     }
   }
 }
