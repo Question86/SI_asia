@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T20:17:51+00:00_
+_Generated: 2026-08-22T20:30:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-22T20:17:51+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta
 - summary: ShakeMap - V DYFI? - IV Time 2026-08-22 17:00:41 UTC 2026-08-22 17:00:41 UTC at epicenter Location 35.934°N 140.063°E Depth 77.58 km (48.21 mi)
 
-### 3. M 4.5 - 122 km SSW of Sungai Penuh, Indonesia
+### 3. M 4.9 - 78 km S of Gorontalo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-22T20:24:30.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmtu
+- summary: Time 2026-08-22 19:54:07 UTC 2026-08-22 19:54:07 UTC at epicenter Location 0.171°S 123.010°E Depth 116.29 km (72.26 mi)
+
+### 4. M 4.5 - 122 km SSW of Sungai Penuh, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T17:57:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmte
 - summary: Time 2026-08-22 17:40:08 UTC 2026-08-22 17:40:08 UTC at epicenter Location 3.030°S 100.874°E Depth 43.19 km (26.84 mi)
-
-### 4. M 4.8 - 83 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-22T08:55:44.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrx
-- summary: Time 2026-08-22 08:29:00 UTC 2026-08-22 08:29:00 UTC at epicenter Location 7.894°S 120.700°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 6.2 - Scotia Sea
 - source: USGS M4.5+ Earthquakes Past Hour
