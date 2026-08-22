@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-22T17:21:16Z",
+  "generated_at": "2026-08-22T17:36:09Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 64.64,
+      "age_days": 64.65,
       "topics": [
         "ai"
       ],
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 64.6d old signal",
+        "aging penalty -8.0 for 64.7d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -44,7 +44,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T08:55:44.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:16:00.101+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:19:47.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T02:20:44.040+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "disaster"
       ],
@@ -144,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:46:08.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -169,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T08:44:45.992+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -190,11 +190,35 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-22 08:22:37 UTC 2026-08-22 08:22:37 UTC at epicenter Location 60.379°S 47.605°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.8 - 4 km NNW of Toride, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-22T17:27:49.989+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "ShakeMap - V DYFI? - IV Time 2026-08-22 17:00:41 UTC 2026-08-22 17:00:41 UTC at epicenter Location 35.934°N 140.063°E Depth 77.58 km (48.21 mi)"
+    },
+    {
       "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
       "url": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T01:46:47+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -220,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T08:04:32.195+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -245,7 +269,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:40:44.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -270,7 +294,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:09:14.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -289,31 +313,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-22 05:47:07 UTC 2026-08-22 05:47:07 UTC at epicenter Location 13.895°N 146.719°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.3 - southern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-22T01:51:45.040+00:00",
-      "age_days": 0.65,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-22 01:34:57 UTC 2026-08-22 01:34:57 UTC at epicenter Location 12.771°S 14.882°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
@@ -325,8 +324,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 5
+      "strong": 8,
+      "watch": 4
     }
   }
 }
