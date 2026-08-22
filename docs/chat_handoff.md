@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T07:33:00+00:00_
+_Generated: 2026-08-22T07:46:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-22T07:33:00+00:00_
 - url: https://www.itmedia.co.jp/news/article/2608/21/2000000680/
 - summary: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
 
-### 6. M 4.9 - 167 km SE of San Jose Village, Northern Mariana Islands
+### 6. M 4.9 - northern Mid-Atlantic Ridge
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-22T07:40:44.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri
+- summary: Time 2026-08-22 07:21:25 UTC 2026-08-22 07:21:25 UTC at epicenter Location 12.521°N 44.633°W Depth 10.00 km (6.21 mi)
+
+### 7. M 4.9 - 167 km SE of San Jose Village, Northern Mariana Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-22T06:09:14.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra
 - summary: Time 2026-08-22 05:47:07 UTC 2026-08-22 05:47:07 UTC at epicenter Location 13.895°N 146.719°E Depth 10.00 km (6.21 mi)
 
-### 7. M 5.3 - southern Mid-Atlantic Ridge
+### 8. M 5.3 - southern Mid-Atlantic Ridge
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-22T01:51:45.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6
 - summary: Time 2026-08-22 01:34:57 UTC 2026-08-22 01:34:57 UTC at epicenter Location 12.771°S 14.882°W Depth 10.00 km (6.21 mi)
-
-### 8. mahlernim/google-timeline-visualizer
-- source: GitHub Trending RSS All Languages Daily
-- score: `8`
-- published: `None`
-- url: https://github.com/mahlernim/google-timeline-visualizer
-- summary: Visualize your year in travel using your Google Location History (Timeline) data Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to…
 
 END OF DOCUMENT

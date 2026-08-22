@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T07:33:00+00:00_
+_Generiert: 2026-08-22T07:46:51+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 45 km SE of Lukatan, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+14 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 45 km SE of Lukatan, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: 東京都とGovTech東京（東京都新宿区）は8月20日、都の各局などが提供するさまざまな地図サービスを1つにまとめたWebサイト「Tokyo Map」の正式版を公開した。浸水想定区域や無料Wi-Fi、給水スポット、暑さ指数など、異なる地図を自由に組み合わせ、1つの画面に重ねて表示できる。誰でも無料で利用でき、PCやスマートフォ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-22T07:40:44.040+00:00`, fetched `2026-08-22T07:46:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-22 07:21:25 UTC 2026-08-22 07:21:25 UTC at epicenter Location 12.521°N 44.633°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 167 km SE of San Jose Village, Northern Mariana Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-22T06:09:14.040+00:00`, fetched `2026-08-22T06:13:06+00:00`
