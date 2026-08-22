@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:48:02+00:00",
+  "generated_at": "2026-08-22T17:56:20+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,8 +75,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 11.9 million in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 11.9 million in MMI V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190",
         "published_at": "",
@@ -153,7 +153,7 @@
         "metrics": {
           "mag": 5.8,
           "alert": "green",
-          "sig": 546.0,
+          "sig": 551.0,
           "tsunami": 0
         }
       }

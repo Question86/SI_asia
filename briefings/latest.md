@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T17:48:00+00:00_
+_Generiert: 2026-08-22T17:56:17+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-08-22T17:48:00+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190)
+- **GDACS: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 11.9 million in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.
+  - Kurz: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 11.9 million in MMI V.
 - **GDACS: Green notification for tropical cyclone NINETEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001308)
   - Quelle: GDACS
   - Zeit: ``
