@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:07:29+00:00",
+  "generated_at": "2026-08-22T08:18:14+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561138",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.",
         "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.",
         "source": "GDACS",
@@ -126,13 +136,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.7 - Scotia Sea",
-        "summary": "M5.7 - Scotia Sea. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.7 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn",
         "published_at": "2026-08-22T07:40:12+00:00",
         "metrics": {
           "mag": 5.7,
-          "alert": "",
+          "alert": "green",
           "sig": 500.0,
           "tsunami": 0
         }
