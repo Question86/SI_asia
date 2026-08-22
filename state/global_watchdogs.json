@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:28:20+00:00",
+  "generated_at": "2026-08-22T17:39:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone NINETEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone NINETEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -134,26 +144,16 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001306",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.8 - 4 km NNW of Toride, Japan",
-        "summary": "M5.8 - 4 km NNW of Toride, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.8 - 4 km NNW of Toride, Japan. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta",
         "published_at": "2026-08-22T17:00:41+00:00",
         "metrics": {
           "mag": 5.8,
-          "alert": "",
-          "sig": 522.0,
+          "alert": "green",
+          "sig": 540.0,
           "tsunami": 0
         }
       }
