@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:21:57+00:00",
+  "generated_at": "2026-08-22T09:35:51+00:00",
   "sections": {
     "global_security": [
       {
@@ -71,21 +71,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561143",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.2 - Scotia Sea",
-        "summary": "M6.2 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw",
-        "published_at": "2026-08-22T08:22:37+00:00",
-        "metrics": {
-          "mag": 6.2,
-          "alert": "green",
-          "sig": 591.0,
-          "tsunami": 0
-        }
       },
       {
         "domain": "security",

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T09:21:54+00:00_
+_Generiert: 2026-08-22T09:35:47+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,6 @@ _Generiert: 2026-08-22T09:21:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].
-- **USGS earthquake M6.2 - Scotia Sea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw)
-  - Quelle: USGS
-  - Zeit: `2026-08-22T08:22:37+00:00`
-  - Kurz: M6.2 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561138)
   - Quelle: GDACS
   - Zeit: ``
