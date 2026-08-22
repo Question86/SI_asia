@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:32:10+00:00",
+  "generated_at": "2026-08-22T08:46:46+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,21 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "USGS earthquake M6.2 - Scotia Sea",
+        "summary": "M6.2 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw",
+        "published_at": "2026-08-22T08:22:37+00:00",
+        "metrics": {
+          "mag": 6.2,
+          "alert": "green",
+          "sig": 591.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].",
         "source": "GDACS",
@@ -105,8 +120,8 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "title": "GDACS: Green notification for tropical cyclone NARRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone NARRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001307",
         "published_at": "",
@@ -131,21 +146,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1560491",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - Scotia Sea",
-        "summary": "M5.7 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn",
-        "published_at": "2026-08-22T07:40:12+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

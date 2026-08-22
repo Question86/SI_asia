@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T08:32:06+00:00_
+_Generiert: 2026-08-22T08:46:42+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+19 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.2 - Scotia Sea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-22T08:44:45.992+00:00`, fetched `2026-08-22T08:46:11+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-08-22 08:22:37 UTC 2026-08-22 08:22:37 UTC at epicenter Location 60.379°S 47.605°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - Scotia Sea** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-22T08:04:32.195+00:00`, fetched `2026-08-22T08:06:54+00:00`
@@ -77,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-22 07:43:51 UTC 2026-08-22 07:43:51 UTC at epicenter Location 14.337°N 145.330°E Depth 115.92 km (72.03 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-22T07:40:44.040+00:00`, fetched `2026-08-22T07:46:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-22 07:21:25 UTC 2026-08-22 07:21:25 UTC at epicenter Location 12.521°N 44.633°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **mahlernim/google-timeline-visualizer** — Score 8, observation — [Quelle](https://github.com/mahlernim/google-timeline-visualizer)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

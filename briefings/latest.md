@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T08:32:06+00:00_
+_Generiert: 2026-08-22T08:46:42+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+19 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-22T08:32:06+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-18`
   - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability
+- **USGS earthquake M6.2 - Scotia Sea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw)
+  - Quelle: USGS
+  - Zeit: `2026-08-22T08:22:37+00:00`
+  - Kurz: M6.2 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561138)
   - Quelle: GDACS
   - Zeit: ``
@@ -45,10 +49,10 @@ _Generiert: 2026-08-22T08:32:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.7M, Depth:99km) in Peru 20/08/2026 18:00 UTC, 10 thousand in MMI&gt;=V.
-- **GDACS: Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001307)
+- **GDACS: Green notification for tropical cyclone NARRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001307)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone NARRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone TWO-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001306)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +61,6 @@ _Generiert: 2026-08-22T08:32:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 20/08/2026 02:46 UTC, Few people affected (in MMI&gt;=VII).
-- **USGS earthquake M5.7 - Scotia Sea** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn)
-  - Quelle: USGS
-  - Zeit: `2026-08-22T07:40:12+00:00`
-  - Kurz: M5.7 - Scotia Sea. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -116,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.2 - Scotia Sea** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-22T08:44:45.992+00:00`, fetched `2026-08-22T08:46:11+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-08-22 08:22:37 UTC 2026-08-22 08:22:37 UTC at epicenter Location 60.379°S 47.605°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.7 - Scotia Sea** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-22T08:04:32.195+00:00`, fetched `2026-08-22T08:06:54+00:00`
@@ -142,15 +151,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-22 07:43:51 UTC 2026-08-22 07:43:51 UTC at epicenter Location 14.337°N 145.330°E Depth 115.92 km (72.03 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-22T07:40:44.040+00:00`, fetched `2026-08-22T07:46:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-22 07:21:25 UTC 2026-08-22 07:21:25 UTC at epicenter Location 12.521°N 44.633°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **mahlernim/google-timeline-visualizer** — Score 8, observation — [Quelle](https://github.com/mahlernim/google-timeline-visualizer)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
