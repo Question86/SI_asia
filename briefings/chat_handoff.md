@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-22T06:44:57+00:00_
+_Generated: 2026-08-22T07:18:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
-### 1. M 4.7 - 71 km NNW of Ende, Indonesia
+### 1. M 5.0 - 45 km SE of Lukatan, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-22T07:16:00.101+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrf
+- summary: DYFI? - II Time 2026-08-22 06:43:39 UTC 2026-08-22 06:43:39 UTC at epicenter Location 6.740°N 126.736°E Depth 107.80 km (66.99 mi)
+
+### 2. M 4.7 - 71 km NNW of Ende, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T06:19:47.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7
 - summary: Time 2026-08-22 05:45:11 UTC 2026-08-22 05:45:11 UTC at epicenter Location 8.230°S 121.458°E Depth 10.00 km (6.21 mi)
 
-### 2. M 5.0 - 6 km S of Kitcharao, Philippines
+### 3. M 5.0 - 6 km S of Kitcharao, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T05:07:01.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr2
 - summary: Time 2026-08-22 04:44:08 UTC 2026-08-22 04:44:08 UTC at epicenter Location 9.398°N 125.581°E Depth 10.00 km (6.21 mi)
 
-### 3. M 4.6 - 42 km NE of Ruteng, Indonesia
+### 4. M 4.6 - 42 km NE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-22T02:20:44.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8
 - summary: Time 2026-08-22 01:59:28 UTC 2026-08-22 01:59:28 UTC at epicenter Location 8.307°S 120.693°E Depth 10.00 km (6.21 mi)
-
-### 4. M 5.2 - 38 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-22T01:46:08.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5
-- summary: Time 2026-08-22 01:30:59 UTC 2026-08-22 01:30:59 UTC at epicenter Location 8.275°S 120.561°E Depth 10.00 km (6.21 mi)
 
 ### 5. Wi-Fi・防災・暑さ・クマ出没――10の都民向け情報を1枚のマップに 「Tokyo Map」正式公開
 - source: Hatena Bookmark Hotentry IT
