@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-22T07:52:46Z",
+  "generated_at": "2026-08-22T08:04:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -34,7 +34,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 64.2d old signal",
+        "aging penalty -8.0 for 64.3d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -69,7 +69,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmr7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:19:47.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T02:20:44.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:46:08.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -144,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmri",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T07:40:44.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -169,7 +169,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmra",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T06:09:14.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -194,7 +194,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmq6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-22T01:51:45.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -219,7 +219,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000680/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T08:28:59+00:00",
-      "age_days": 0.97,
+      "age_days": 0.98,
       "topics": [
         "general"
       ],
@@ -271,7 +271,7 @@
       "url": "https://paper2.hatenablog.com/entry/2026/08/22/103649",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T02:37:55+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
