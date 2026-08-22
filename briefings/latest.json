@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T15:41:12+00:00",
-  "run_id": "2026-08-22T15:41:12+00:00",
+  "generated_at": "2026-08-22T15:57:58+00:00",
+  "run_id": "2026-08-22T15:57:58+00:00",
   "date": "2026-08-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 7,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -584,6 +584,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0002d83ae7ebe181bee2"
+      },
+      {
+        "title": "三人寄ればチューリング完全",
+        "url": "https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-22T07:14:54+00:00",
+        "fetched_at": "2026-08-22T15:57:24+00:00",
+        "summary": "Kernel/VM探検隊@東京 No. 19 2026/08/22",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aeb8e46175f8a51bbf2a"
       },
       {
         "title": "スマホ依存からの脱却で中国でE Ink端末が一大ブームに 知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)",
@@ -1332,6 +1353,27 @@
       "id": "0002d83ae7ebe181bee2"
     },
     {
+      "title": "三人寄ればチューリング完全",
+      "url": "https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-22T07:14:54+00:00",
+      "fetched_at": "2026-08-22T15:57:24+00:00",
+      "summary": "Kernel/VM探検隊@東京 No. 19 2026/08/22",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aeb8e46175f8a51bbf2a"
+    },
+    {
       "title": "スマホ依存からの脱却で中国でE Ink端末が一大ブームに 知恵と工夫で生まれつつあるE Ink搭載ガジェットの新文化 (1/2)",
       "url": "https://ascii.jp/elem/000/004/428/4428609/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1521,7 +1563,29 @@
       "id": "d640515d1731fdf6b9a2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "三人寄ればチューリング完全",
+      "url": "https://speakerdeck.com/puhitaku/sannin-yore-ba-churingu-kanzen",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-22T07:14:54+00:00",
+      "fetched_at": "2026-08-22T15:57:24+00:00",
+      "summary": "Kernel/VM探検隊@東京 No. 19 2026/08/22",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aeb8e46175f8a51bbf2a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
