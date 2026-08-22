@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-08-22T03:40:01+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-22T03:57:10+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 2,
-    "observe": 4,
-    "source_errors": 0
+    "observe": 5,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "jvn_vulnerability_notes",
+      "source_name": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
