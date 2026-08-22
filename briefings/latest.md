@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-22T22:26:38+00:00_
+_Generiert: 2026-08-22T22:38:13+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita“ aus Hatena Bookmark Hotentry IT (Score 22, observation).
+35 neue relevante Treffer. Stärkstes Signal: „Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void** — Score 23, observation — [Quelle](https://blog.starry.blue/entry/2026/08/21/110000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-21T02:47:08+00:00`, fetched `2026-08-22T22:37:40+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: コーディングエージェントのおかげで、大規模なシステムを構築することが容易になっています。 私も趣味で Claude Code や Codex を使い、多数のサブシステムを持つバックエンドとフロントエンドからなるアプリケーションを開発しています。一方で、出来上がったシステムは一人で目を配れる規模を超えつつあり、変更のた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita** — Score 22, observation — [Quelle](https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384?__readwiseLocation=)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-22T01:46:47+00:00`, fetched `2026-08-22T08:17:40+00:00`
