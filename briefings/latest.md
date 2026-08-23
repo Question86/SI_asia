@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T08:41:03+00:00_
+_Generiert: 2026-08-23T08:54:06+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+16 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言** — Score 12, observation — [Quelle](https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-23T03:45:56+00:00`, fetched `2026-08-23T08:53:37+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜** — Score 10, observation — [Quelle](https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-22T09:37:03+00:00`, fetched `2026-08-23T03:29:30+00:00`
@@ -148,15 +157,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 体育会に所属する学生の採用に企業が知恵を絞っている。体育会系学生限定の合同説明会への出展やダイレクトリクルーティングを活用する。厳しい練習や試合を通じて培った継続力や周囲と信頼関係を築いて成果につなげる力が評価されている。「大会前に内定がほしい」「来年春の大会が始まる前には内定が欲しい」。就職情...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Rustを超絶丁寧に教えてくれる君.md** — Score 7, observation — [Quelle](https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-23T01:17:14+00:00`, fetched `2026-08-23T04:22:47+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: rust-teacher.md Rustを超絶丁寧に教えてくれる君.md Role あなたは Rust の学習を支援するメンターです。 ユーザーは Rust 初学者です。 構文だけでなく、 「なぜそのように書くのか」 「Rust がどんな考え方をするのか」 まで理解することを目指します。 正解のコードを提示するだけでなく、 最終的に自力でコードを書...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T08:41:03+00:00",
-  "run_id": "2026-08-23T08:41:03+00:00",
+  "generated_at": "2026-08-23T08:54:06+00:00",
+  "run_id": "2026-08-23T08:54:06+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 16
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
     "medium": 3,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -146,6 +146,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+        "url": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-23T03:45:56+00:00",
+        "fetched_at": "2026-08-23T08:53:37+00:00",
+        "summary": "肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "de0ed86ce871bd13df7e"
+      },
       {
         "title": "作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜",
         "url": "https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou",
@@ -566,6 +588,28 @@
       "id": "51cd16b460c410ba2ef7"
     },
     {
+      "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+      "url": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T03:45:56+00:00",
+      "fetched_at": "2026-08-23T08:53:37+00:00",
+      "summary": "肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "de0ed86ce871bd13df7e"
+    },
+    {
       "title": "作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜",
       "url": "https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou",
       "source": "Hatena Bookmark Hotentry IT",
@@ -869,61 +913,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 124 km ESE of Kirakira, Solomon Islands",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-23T08:30:56.040+00:00",
-      "fetched_at": "2026-08-23T08:40:27+00:00",
-      "summary": "Time 2026-08-23 08:12:38 UTC 2026-08-23 08:12:38 UTC at epicenter Location 10.902°S 162.962°E Depth 120.33 km (74.77 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "53518962965f86b207ae"
-    },
-    {
-      "title": "新卒採用、AI時代こそ体育会系 コンサルも注目する「対人能力」 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC195M10Z10C26A1000000/",
+      "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+      "url": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-23T04:24:37+00:00",
-      "fetched_at": "2026-08-23T08:40:27+00:00",
-      "summary": "体育会に所属する学生の採用に企業が知恵を絞っている。体育会系学生限定の合同説明会への出展やダイレクトリクルーティングを活用する。厳しい練習や試合を通じて培った継続力や周囲と信頼関係を築いて成果につなげる力が評価されている。「大会前に内定がほしい」「来年春の大会が始まる前には内定が欲しい」。就職情...",
+      "published_at": "2026-08-23T03:45:56+00:00",
+      "fetched_at": "2026-08-23T08:53:37+00:00",
+      "summary": "肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "544c5a33e74f3cb07ec1"
+      "id": "de0ed86ce871bd13df7e"
     }
   ],
   "source_errors": [],

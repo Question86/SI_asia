@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-23T08:41:03+00:00_
+_Generated: 2026-08-23T08:54:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-08-23T08:41:03+00:00_
 - url: https://github.com/Wei-Shaw/sub2api
 - summary: Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully before using this project: 🚨 Terms of…
 
-### 4. 作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜
+### 4. ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-08-23T03:45:56+00:00`
+- url: https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/
+- summary: 肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...
+
+### 5. 作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-08-22T09:37:03+00:00`
 - url: https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou
 - summary: PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026
 
-### 5. M 5.2 - 124 km ESE of Kirakira, Solomon Islands
+### 6. M 5.2 - 124 km ESE of Kirakira, Solomon Islands
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-23T08:30:56.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn
 - summary: Time 2026-08-23 08:12:38 UTC 2026-08-23 08:12:38 UTC at epicenter Location 10.902°S 162.962°E Depth 120.33 km (74.77 mi)
 
-### 6. M 4.6 - 273 km E of Levuka, Fiji
+### 7. M 4.6 - 273 km E of Levuka, Fiji
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-23T05:55:00.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmww
 - summary: Time 2026-08-23 05:39:21 UTC 2026-08-23 05:39:21 UTC at epicenter Location 18.351°S 178.118°W Depth 571.28 km (354.98 mi)
-
-### 7. M 4.6 - 26 km E of Letpandan, Burma (Myanmar)
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-23T04:10:28.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk
-- summary: Time 2026-08-23 03:44:57 UTC 2026-08-23 03:44:57 UTC at epicenter Location 17.785°N 96.003°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
