@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-23T08:25:08+00:00",
+  "generated_at": "2026-08-23T08:41:03+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 2,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 3,
-    "observe": 10
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.2 - 124 km ESE of Kirakira, Solomon Islands",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-23T08:30:56.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn",
+      "summary": "Time 2026-08-23 08:12:38 UTC 2026-08-23 08:12:38 UTC at epicenter Location 10.902°S 162.962°E Depth 120.33 km (74.77 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.6 - 273 km E of Levuka, Fiji",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk",
       "summary": "Time 2026-08-23 03:44:57 UTC 2026-08-23 03:44:57 UTC at epicenter Location 17.785°N 96.003°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "makeplane/plane",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 8,
-      "url": "https://github.com/makeplane/plane",
-      "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. http://plane.so Modern project management for all teams Website • Forum • X • Documentation Meet Plane , a…",
       "section": "observe"
     }
   ],

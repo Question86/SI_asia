@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-23T08:25:08+00:00_
+_Generated: 2026-08-23T08:41:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-08-23T08:25:08+00:00_
 - url: https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou
 - summary: PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026
 
-### 5. M 4.6 - 273 km E of Levuka, Fiji
+### 5. M 5.2 - 124 km ESE of Kirakira, Solomon Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-23T08:30:56.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn
+- summary: Time 2026-08-23 08:12:38 UTC 2026-08-23 08:12:38 UTC at epicenter Location 10.902°S 162.962°E Depth 120.33 km (74.77 mi)
+
+### 6. M 4.6 - 273 km E of Levuka, Fiji
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-23T05:55:00.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmww
 - summary: Time 2026-08-23 05:39:21 UTC 2026-08-23 05:39:21 UTC at epicenter Location 18.351°S 178.118°W Depth 571.28 km (354.98 mi)
 
-### 6. M 4.6 - 26 km E of Letpandan, Burma (Myanmar)
+### 7. M 4.6 - 26 km E of Letpandan, Burma (Myanmar)
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-23T04:10:28.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk
 - summary: Time 2026-08-23 03:44:57 UTC 2026-08-23 03:44:57 UTC at epicenter Location 17.785°N 96.003°E Depth 10.00 km (6.21 mi)
-
-### 7. makeplane/plane
-- source: GitHub Trending RSS All Languages Daily
-- score: `8`
-- published: `None`
-- url: https://github.com/makeplane/plane
-- summary: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. http://plane.so Modern project management for all teams Website • Forum • X • Documentation Meet Plane , a…
 
 END OF DOCUMENT
