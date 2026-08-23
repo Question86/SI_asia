@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-23T14:03:57Z",
+  "generated_at": "2026-08-23T14:21:39Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/makeplane/plane",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-23T03:29:30+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 65.5,
+      "age_days": 65.52,
       "topics": [
         "ai"
       ],
@@ -65,11 +65,35 @@
       "summary": ""
     },
     {
+      "title": "M 6.0 - 33 km SSW of Honchō, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-23T14:10:29.114+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-23 13:44:53 UTC 2026-08-23 13:44:53 UTC at epicenter Location 41.834°N 142.826°E Depth 42.87 km (26.64 mi)"
+    },
+    {
       "title": "Wei-Shaw/sub2api",
       "url": "https://github.com/Wei-Shaw/sub2api",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-23T03:29:30+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -95,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmyk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-23T11:39:47.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -120,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-23T04:10:28.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -145,7 +169,7 @@
       "url": "https://github.com/openai/codex",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-23T03:29:30+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -172,7 +196,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2134782.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T05:20:12+00:00",
-      "age_days": 1.36,
+      "age_days": 1.38,
       "topics": [
         "ai"
       ],
@@ -198,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmww",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-23T05:55:00.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -222,7 +246,7 @@
       "url": "https://togetter.com/li/2736568",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T11:01:59+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -246,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-23T10:31:14.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "disaster"
@@ -274,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-23T08:30:56.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "disaster"
@@ -296,32 +320,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Time 2026-08-23 08:12:38 UTC 2026-08-23 08:12:38 UTC at epicenter Location 10.902°S 162.962°E Depth 120.33 km (74.77 mi)"
-    },
-    {
-      "title": "作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜",
-      "url": "https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-22T09:37:03+00:00",
-      "age_days": 1.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026"
     }
   ],
   "read_order": [
@@ -333,9 +331,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 4,
       "watch": 5,
-      "quiet": 4
+      "quiet": 3
     }
   }
 }
