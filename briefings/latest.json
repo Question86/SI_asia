@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T06:54:44+00:00",
-  "run_id": "2026-08-23T06:54:44+00:00",
+  "generated_at": "2026-08-23T07:11:46+00:00",
+  "run_id": "2026-08-23T07:11:46+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 3,
-    "observe": 9,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -305,6 +305,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "54da20954a4905b03d93"
+      },
+      {
+        "title": "gRPC / Connect / HTTP/2 を完全に理解したい",
+        "url": "https://zenn.dev/loglass/articles/grpc-connect-http2-for-rest-devs",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-22T16:41:59+00:00",
+        "fetched_at": "2026-08-23T07:11:14+00:00",
+        "summary": "この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の157週目の記事です。 3年間連続達成まで残り2週となりました！ こんにちは、ログラスの小林です。 直近 RESTではなく、protoベースのスキーマ駆動開発を行ってします。 proto を書いて buf gen するとクラサバにコードが生成される gRPC は HTTP/2...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6f7060b1eb034f41f13a"
       },
       {
         "title": "8bit CPU 2026",
@@ -648,6 +669,27 @@
       "id": "54da20954a4905b03d93"
     },
     {
+      "title": "gRPC / Connect / HTTP/2 を完全に理解したい",
+      "url": "https://zenn.dev/loglass/articles/grpc-connect-http2-for-rest-devs",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-22T16:41:59+00:00",
+      "fetched_at": "2026-08-23T07:11:14+00:00",
+      "summary": "この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の157週目の記事です。 3年間連続達成まで残り2週となりました！ こんにちは、ログラスの小林です。 直近 RESTではなく、protoベースのスキーマ駆動開発を行ってします。 proto を書いて buf gen するとクラサバにコードが生成される gRPC は HTTP/2...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6f7060b1eb034f41f13a"
+    },
+    {
       "title": "8bit CPU 2026",
       "url": "https://speakerdeck.com/koba789/8bit-cpu-2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -713,13 +755,13 @@
   ],
   "new_findings": [
     {
-      "title": "Pythonの実行はどこまで賢くなったのか？ CPythonとPyPyから見る最適化のしくみ",
-      "url": "https://speakerdeck.com/curekoshimizu/python-no-jikkou-ha-doko-made-kashikoku-nata-no-ka-cpython-to-pypy-kara-miru-saitekika-no-shikumi",
+      "title": "gRPC / Connect / HTTP/2 を完全に理解したい",
+      "url": "https://zenn.dev/loglass/articles/grpc-connect-http2-for-rest-devs",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-22T18:53:05+00:00",
-      "fetched_at": "2026-08-23T06:54:15+00:00",
-      "summary": "Biz全員が Claude CLI を使い 可視化できるAI作業環境を共有する ~ BizTeamへ Ghostty・Herdr・共有AI基盤 の導入 ~",
+      "published_at": "2026-08-22T16:41:59+00:00",
+      "fetched_at": "2026-08-23T07:11:14+00:00",
+      "summary": "この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の157週目の記事です。 3年間連続達成まで残り2週となりました！ こんにちは、ログラスの小林です。 直近 RESTではなく、protoベースのスキーマ駆動開発を行ってします。 proto を書いて buf gen するとクラサバにコードが生成される gRPC は HTTP/2...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -731,7 +773,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "54da20954a4905b03d93"
+      "id": "6f7060b1eb034f41f13a"
     }
   ],
   "source_errors": [],
