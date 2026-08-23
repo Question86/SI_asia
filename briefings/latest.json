@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T07:11:46+00:00",
-  "run_id": "2026-08-23T07:11:46+00:00",
+  "generated_at": "2026-08-23T07:24:56+00:00",
+  "run_id": "2026-08-23T07:24:56+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -753,29 +753,7 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [
-    {
-      "title": "gRPC / Connect / HTTP/2 を完全に理解したい",
-      "url": "https://zenn.dev/loglass/articles/grpc-connect-http2-for-rest-devs",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-22T16:41:59+00:00",
-      "fetched_at": "2026-08-23T07:11:14+00:00",
-      "summary": "この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の157週目の記事です。 3年間連続達成まで残り2週となりました！ こんにちは、ログラスの小林です。 直近 RESTではなく、protoベースのスキーマ駆動開発を行ってします。 proto を書いて buf gen するとクラサバにコードが生成される gRPC は HTTP/2...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f7060b1eb034f41f13a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
