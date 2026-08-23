@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-23T19:10:32+00:00_
+_Generated: 2026-08-23T19:21:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-23T19:10:32+00:00_
 - url: https://github.com/openai/codex
 - summary: Lightweight coding agent that runs in your terminal Codex CLI is a coding agent from OpenAI that runs locally on your computer. If you want Codex in your code editor (VS Code, Cursor, Windsurf), install in your IDE. If you want the desktop app experience, run…
 
-### 4. Wei-Shaw/sub2api
-- source: GitHub Trending RSS All Languages Daily
-- score: `14`
-- published: `None`
-- url: https://github.com/Wei-Shaw/sub2api
-- summary: Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully before using this project: 🚨 Terms of…
+### 4. M 4.7 - 61 km ESE of Mangili, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-23T19:15:52.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0a
+- summary: Time 2026-08-23 18:57:38 UTC 2026-08-23 18:57:38 UTC at epicenter Location 5.789°N 126.194°E Depth 9.99 km (6.21 mi)
 
 ### 5. ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言
 - source: Hatena Bookmark Hotentry IT
