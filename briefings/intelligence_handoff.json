@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-23T01:28:55Z",
+  "generated_at": "2026-08-23T02:07:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 64.98,
+      "age_days": 65.01,
       "topics": [
         "ai"
       ],
@@ -40,11 +40,35 @@
       "summary": ""
     },
     {
+      "title": "【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
+      "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-19T16:06:15+00:00",
+      "age_days": 3.42,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.94,
+      "age_days": 63.97,
       "topics": [
         "general"
       ],
@@ -60,7 +84,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 63.9d old signal"
+        "aging penalty -16.0 for 64.0d old signal"
       ],
       "summary": ""
     },
@@ -69,7 +93,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.94,
+      "age_days": 63.97,
       "topics": [
         "general"
       ],
@@ -85,7 +109,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 63.9d old signal"
+        "aging penalty -16.0 for 64.0d old signal"
       ],
       "summary": ""
     },
@@ -94,7 +118,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 63.94,
+      "age_days": 63.97,
       "topics": [
         "ai"
       ],
@@ -111,7 +135,7 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 63.9d old signal",
+        "aging penalty -16.0 for 64.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -127,7 +151,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 3
+      "quiet": 4
     }
   }
 }
