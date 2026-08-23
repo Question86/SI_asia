@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T16:00:42+00:00",
-  "run_id": "2026-08-23T16:00:42+00:00",
+  "generated_at": "2026-08-23T16:08:47+00:00",
+  "run_id": "2026-08-23T16:08:47+00:00",
   "date": "2026-08-23",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 26
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 4,
     "observe": 22,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -1428,7 +1428,14 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
