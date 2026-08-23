@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T11:21:02+00:00_
+_Generiert: 2026-08-23T11:32:27+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+18 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T11:21:02+00:00",
-  "run_id": "2026-08-23T11:21:02+00:00",
+  "generated_at": "2026-08-23T11:32:27+00:00",
+  "run_id": "2026-08-23T11:32:27+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 3,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -483,6 +483,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f7889d397fda14f366d8"
+      },
+      {
+        "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
+        "url": "https://finance.biggo.jp/news/a1cc91818da11d06",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-21T22:01:30+00:00",
+        "fetched_at": "2026-08-23T11:31:55+00:00",
+        "summary": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 ソフトウェア開発者のテオ氏は、自身のポッドキャストのソロ回で、ベンチマークに基づきアップルのAPFSファイルシステムを徹底批判した。現代のAIコーディングエージェントが生み出す小容量ファイル中心の...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "753134505ac777fef29c"
       },
       {
         "title": "【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
@@ -962,6 +983,27 @@
       "id": "f7889d397fda14f366d8"
     },
     {
+      "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/a1cc91818da11d06",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T22:01:30+00:00",
+      "fetched_at": "2026-08-23T11:31:55+00:00",
+      "summary": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 ソフトウェア開発者のテオ氏は、自身のポッドキャストのソロ回で、ベンチマークに基づきアップルのAPFSファイルシステムを徹底批判した。現代のAIコーディングエージェントが生み出す小容量ファイル中心の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "753134505ac777fef29c"
+    },
+    {
       "title": "【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
       "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -983,7 +1025,29 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/a1cc91818da11d06",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-21T22:01:30+00:00",
+      "fetched_at": "2026-08-23T11:31:55+00:00",
+      "summary": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 ソフトウェア開発者のテオ氏は、自身のポッドキャストのソロ回で、ベンチマークに基づきアップルのAPFSファイルシステムを徹底批判した。現代のAIコーディングエージェントが生み出す小容量ファイル中心の...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "753134505ac777fef29c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
