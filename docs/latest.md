@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T16:08:47+00:00_
+_Generiert: 2026-08-23T16:19:22+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+26 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -123,7 +123,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
