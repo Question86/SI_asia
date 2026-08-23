@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T21:35:15+00:00_
+_Generiert: 2026-08-23T21:44:28+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+34 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Lightweight coding agent that runs in your terminal Codex CLI is a coding agent from OpenAI that runs locally on your computer. If you want Codex in your code editor (VS Code, Cursor, Windsurf), install in your IDE. If you want the desktop app experience, run codex app or visit the Codex App page . If you are looking for the cloud-based agent from OpenAI, Codex Web , go to chatgpt.com/codex . Quickstart Installing a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 48 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0s)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-23T21:37:34.827+00:00`, fetched `2026-08-23T21:43:56+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-08-23 21:20:16 UTC 2026-08-23 21:20:16 UTC at epicenter Location 8.273°S 120.742°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 61 km ESE of Mangili, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0a)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-23T19:15:52.040+00:00`, fetched `2026-08-23T19:20:40+00:00`
