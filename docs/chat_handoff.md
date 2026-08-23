@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-23T02:41:27+00:00_
+_Generated: 2026-08-23T03:29:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `6`
 
 ## Top Signals
 
@@ -15,7 +15,35 @@ _Generated: 2026-08-23T02:41:27+00:00_
 - url: https://pc.watch.impress.co.jp/docs/news/2134782.html
 - summary: ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念
 
-### 2. 【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？
+### 2. openai/codex
+- source: GitHub Trending RSS All Languages Daily
+- score: `16`
+- published: `None`
+- url: https://github.com/openai/codex
+- summary: Lightweight coding agent that runs in your terminal Codex CLI is a coding agent from OpenAI that runs locally on your computer. If you want Codex in your code editor (VS Code, Cursor, Windsurf), install in your IDE. If you want the desktop app experience, run…
+
+### 3. Wei-Shaw/sub2api
+- source: GitHub Trending RSS All Languages Daily
+- score: `14`
+- published: `None`
+- url: https://github.com/Wei-Shaw/sub2api
+- summary: Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully before using this project: 🚨 Terms of…
+
+### 4. 作って理解するCoding Agent 〜フレームワークに頼らないピュア Python での実装〜
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-08-22T09:37:03+00:00`
+- url: https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou
+- summary: PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026
+
+### 5. makeplane/plane
+- source: GitHub Trending RSS All Languages Daily
+- score: `8`
+- published: `None`
+- url: https://github.com/makeplane/plane
+- summary: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. http://plane.so Modern project management for all teams Website • Forum • X • Documentation Meet Plane , a…
+
+### 6. 【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？
 - source: Hatena Bookmark Hotentry IT
 - score: `4`
 - published: `2026-08-19T16:06:15+00:00`
