@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T14:10:44+00:00_
+_Generiert: 2026-08-23T14:34:23+00:00_
 
 ## Kurzlage
 
@@ -36,7 +36,11 @@ _Generiert: 2026-08-23T14:10:44+00:00_
 - **USGS earthquake M6.0 - 33 km SSW of Honchō, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6)
   - Quelle: USGS
   - Zeit: `2026-08-23T13:44:53+00:00`
-  - Kurz: M6.0 - 33 km SSW of Honchō, Japan. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.0 - 33 km SSW of Honchō, Japan. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 1.9 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561344)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 1.9 million in MMI&gt;=IV.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:61km) in Japan 22/08/2026 17:00 UTC, 5.6 million in MMI V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561190)
   - Quelle: GDACS
   - Zeit: ``

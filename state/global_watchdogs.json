@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:10:48+00:00",
+  "generated_at": "2026-08-23T14:34:27+00:00",
   "sections": {
     "global_security": [
       {
@@ -76,16 +76,26 @@
         "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.0 - 33 km SSW of Honchō, Japan",
-        "summary": "M6.0 - 33 km SSW of Honchō, Japan. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.0 - 33 km SSW of Honchō, Japan. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6",
         "published_at": "2026-08-23T13:44:53+00:00",
         "metrics": {
           "mag": 6.0,
-          "alert": "",
-          "sig": 554.0,
+          "alert": "green",
+          "sig": 556.0,
           "tsunami": 0
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 1.9 million in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 1.9 million in MMI&gt;=IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561344",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
