@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-23T23:29:32+00:00_
+_Generated: 2026-08-23T23:39:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `40`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-23T23:29:32+00:00_
 - url: https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/
 - summary: 肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...
 
-### 6. M 5.1 - 208 km ESE of Attu Station, Alaska
+### 6. M 5.0 - 239 km ESE of Attu Station, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-23T23:36:02.626+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn19
+- summary: ShakeMap - IV DYFI? - III Time 2026-08-23 23:20:35 UTC 2026-08-23 23:20:35 UTC at epicenter Location 52.078°N 176.480°E Depth 7.96 km (4.94 mi)
+
+### 7. M 5.1 - 208 km ESE of Attu Station, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-23T23:29:12.277+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/attk8wu7
 - summary: ShakeMap - IV DYFI? - III Time 2026-08-23 23:20:31 UTC 2026-08-23 23:20:31 UTC at epicenter Location 51.914°N 175.834°E Depth 12.00 km (7.46 mi)
 
-### 7. M 4.5 - 23 km ESE of Coihueco, Chile
+### 8. M 4.5 - 23 km ESE of Coihueco, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-23T21:01:36.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0n
 - summary: Time 2026-08-23 20:38:14 UTC 2026-08-23 20:38:14 UTC at epicenter Location 36.736°S 71.609°W Depth 102.49 km (63.68 mi)
-
-### 8. M 4.5 - 80 km W of El Aguilar, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-23T18:15:24.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmzy
-- summary: Time 2026-08-23 17:56:30 UTC 2026-08-23 17:56:30 UTC at epicenter Location 23.129°S 66.457°W Depth 224.79 km (139.68 mi)
 
 END OF DOCUMENT
