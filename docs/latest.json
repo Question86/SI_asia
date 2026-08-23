@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T16:45:46+00:00",
-  "run_id": "2026-08-23T16:45:46+00:00",
+  "generated_at": "2026-08-23T16:56:09+00:00",
+  "run_id": "2026-08-23T16:56:09+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 4,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -684,6 +684,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f7889d397fda14f366d8"
+      },
+      {
+        "title": "人月で稼ぐSIerは、あと数年で詰む",
+        "url": "https://zenn.dev/jnch/articles/18cf3f1893ee5b",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-22T05:14:09+00:00",
+        "fetched_at": "2026-08-23T16:55:33+00:00",
+        "summary": "はじめに 本記事では、自律型AIエージェントの普及によってSIerのビジネスモデルがどう変わるのか、そして生き残るために何を獲得し、何を捨てるべきなのかを考える。 結論としては、SIerの価値は「ソフトウェアを作ること」から、「AIを活用して顧客企業を変革し、その成果とリスクに責任を持つこと」へ移っていく。 「...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "41f0c3a48859752eb203"
       },
       {
         "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
@@ -1385,6 +1406,27 @@
       "id": "f7889d397fda14f366d8"
     },
     {
+      "title": "人月で稼ぐSIerは、あと数年で詰む",
+      "url": "https://zenn.dev/jnch/articles/18cf3f1893ee5b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-22T05:14:09+00:00",
+      "fetched_at": "2026-08-23T16:55:33+00:00",
+      "summary": "はじめに 本記事では、自律型AIエージェントの普及によってSIerのビジネスモデルがどう変わるのか、そして生き残るために何を獲得し、何を捨てるべきなのかを考える。 結論としては、SIerの価値は「ソフトウェアを作ること」から、「AIを活用して顧客企業を変革し、その成果とリスクに責任を持つこと」へ移っていく。 「...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41f0c3a48859752eb203"
+    },
+    {
       "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
       "url": "https://finance.biggo.jp/news/a1cc91818da11d06",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1427,7 +1469,29 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "人月で稼ぐSIerは、あと数年で詰む",
+      "url": "https://zenn.dev/jnch/articles/18cf3f1893ee5b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-22T05:14:09+00:00",
+      "fetched_at": "2026-08-23T16:55:33+00:00",
+      "summary": "はじめに 本記事では、自律型AIエージェントの普及によってSIerのビジネスモデルがどう変わるのか、そして生き残るために何を獲得し、何を捨てるべきなのかを考える。 結論としては、SIerの価値は「ソフトウェアを作ること」から、「AIを活用して顧客企業を変革し、その成果とリスクに責任を持つこと」へ移っていく。 「...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "41f0c3a48859752eb203"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
