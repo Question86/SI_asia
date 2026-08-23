@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T09:26:38+00:00",
-  "run_id": "2026-08-23T09:26:38+00:00",
+  "generated_at": "2026-08-23T09:40:33+00:00",
+  "run_id": "2026-08-23T09:40:33+00:00",
   "date": "2026-08-23",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 16
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 3,
     "observe": 13,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -912,7 +912,14 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
