@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T21:44:28+00:00_
+_Generiert: 2026-08-23T21:53:08+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+35 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -166,14 +166,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmzw)
+- **M 5.3 - 127 km W of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0t)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-23T17:38:53.040+00:00`, fetched `2026-08-23T17:43:09+00:00`
+  - Zeit: published `2026-08-23T21:46:44.040+00:00`, fetched `2026-08-23T21:52:41+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-23 17:23:29 UTC 2026-08-23 17:23:29 UTC at epicenter Location 58.748°S 25.264°W Depth 35.00 km (21.75 mi)
+  - Kurz: Time 2026-08-23 21:32:21 UTC 2026-08-23 21:32:21 UTC at epicenter Location 10.735°S 164.633°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **makeplane/plane** — Score 8, observation — [Quelle](https://github.com/makeplane/plane)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
