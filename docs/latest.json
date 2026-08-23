@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:06:35+00:00",
-  "run_id": "2026-08-23T05:06:35+00:00",
+  "generated_at": "2026-08-23T05:17:55+00:00",
+  "run_id": "2026-08-23T05:17:55+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -597,29 +597,7 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [
-    {
-      "title": "8bit CPU 2026",
-      "url": "https://speakerdeck.com/koba789/8bit-cpu-2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-22T16:02:17+00:00",
-      "fetched_at": "2026-08-23T05:06:03+00:00",
-      "summary": "Kernel/VM探検隊@東京 No19 で発表した内容です。 https://kernelvm.connpass.com/event/395390/",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5b38e5a0fea0103ff5b7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
