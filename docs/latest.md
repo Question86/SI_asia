@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T23:17:32+00:00_
+_Generiert: 2026-08-23T23:29:32+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+39 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。 Pastor Seeks Accountability After ChatGPT Allegedly Discouraged Him From Seeking Medical Care During Life-Th...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 208 km ESE of Attu Station, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/attk8wu7)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-23T23:29:12.277+00:00`, fetched `2026-08-23T23:29:00+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV DYFI? - III Time 2026-08-23 23:20:31 UTC 2026-08-23 23:20:31 UTC at epicenter Location 51.914°N 175.834°E Depth 12.00 km (7.46 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 23 km ESE of Coihueco, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0n)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-23T21:01:36.040+00:00`, fetched `2026-08-23T21:12:37+00:00`
@@ -105,15 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.3 - 127 km W of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn0t)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-23T21:46:44.040+00:00`, fetched `2026-08-23T21:52:41+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-23 21:32:21 UTC 2026-08-23 21:32:21 UTC at epicenter Location 10.735°S 164.633°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AIが書いたものをコピペしないでください。** — Score 10, observation — [Quelle](https://dontpastetheai.com/ja.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-19T00:41:08+00:00`, fetched `2026-08-23T23:29:00+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: 恐れ入りますが、 AIが書いたものをコピペしないでください。 誰かがあなたに質問をするとき、その人はあなたの考えを聞きたがっています。未編集のChatGPTの出力結果ではありません。 あなたの自分の言葉による短い回答は、AIが出力した長々とした回答よりも優れています。どんな場合でもそうです。 いま、何があったの...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **makeplane/plane** — Score 8, observation — [Quelle](https://github.com/makeplane/plane)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-23T03:29:30+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. http://plane.so Modern project management for all teams Website • Forum • X • Documentation Meet Plane , an open-source project management tool to track issues, run ~sprints~ cycles, and manage product roadmaps without the chaos of managing the tool itself. 🧘‍♀️ Pla…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **新卒採用、AI時代こそ体育会系 コンサルも注目する「対人能力」 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC195M10Z10C26A1000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-23T04:24:37+00:00`, fetched `2026-08-23T08:40:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 体育会に所属する学生の採用に企業が知恵を絞っている。体育会系学生限定の合同説明会への出展やダイレクトリクルーティングを活用する。厳しい練習や試合を通じて培った継続力や周囲と信頼関係を築いて成果につなげる力が評価されている。「大会前に内定がほしい」「来年春の大会が始まる前には内定が欲しい」。就職情...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
