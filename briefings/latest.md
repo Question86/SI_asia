@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T14:45:05+00:00_
+_Generiert: 2026-08-23T14:54:46+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+25 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,6 @@ _Generiert: 2026-08-23T14:45:05+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].
-- **USGS earthquake M6.0 - 33 km SSW of Honchō, Japan** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6)
-  - Quelle: USGS
-  - Zeit: `2026-08-23T13:44:53+00:00`
-  - Kurz: M6.0 - 33 km SSW of Honchō, Japan. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 1.9 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561344)
   - Quelle: GDACS
   - Zeit: ``
@@ -184,7 +180,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW

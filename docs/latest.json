@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T14:45:05+00:00",
-  "run_id": "2026-08-23T14:45:05+00:00",
+  "generated_at": "2026-08-23T14:54:46+00:00",
+  "run_id": "2026-08-23T14:54:46+00:00",
   "date": "2026-08-23",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 25
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
     "medium": 4,
     "observe": 21,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1385,37 +1385,8 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [
-    {
-      "title": "テスラ車のナンバープレートが封印ミスされた状態で納車されている？→どんなずさんな管理がされているんだ？という意見が集まる",
-      "url": "https://togetter.com/li/2736543",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-23T09:57:52+00:00",
-      "fetched_at": "2026-08-23T14:44:34+00:00",
-      "summary": "自動車生活ジャーナリスト加藤久美子（4WD加藤）独自取材で年間300本の車関連記事を書いてます♪ @alfaspider1998 テスラジャパン最強だな。全然反省してないし、改善しようとも思わないんだな。逆に面白すぎる‼️ バリバリ法令違反やってるのになんでこんなに強気でいられるのか😅 労基や国交省、関東運輸局からの指導も入...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0890ba930a94c10647f8"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_taiwan_hot",
-      "source_name": "Google Trends Taiwan Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
