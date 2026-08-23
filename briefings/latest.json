@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T10:33:01+00:00",
-  "run_id": "2026-08-23T10:33:01+00:00",
+  "generated_at": "2026-08-23T10:44:50+00:00",
+  "run_id": "2026-08-23T10:44:50+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -983,44 +983,7 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.6 - 52 km NNW of Barishal, Pakistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmy3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-23T10:31:14.040+00:00",
-      "fetched_at": "2026-08-23T10:32:32+00:00",
-      "summary": "Time 2026-08-23 10:04:42 UTC 2026-08-23 10:04:42 UTC at epicenter Location 36.760°N 74.477°E Depth 45.46 km (28.25 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "e6e36a4227e2c63a533b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
