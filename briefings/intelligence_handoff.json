@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-23T04:18:09Z",
+  "generated_at": "2026-08-23T04:43:24Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/makeplane/plane",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-23T03:29:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -40,7 +40,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 65.1,
+      "age_days": 65.11,
       "topics": [
         "ai"
       ],
@@ -69,7 +69,7 @@
       "url": "https://github.com/Wei-Shaw/sub2api",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-23T03:29:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -91,11 +91,36 @@
       "summary": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully before using this project: 🚨 Terms of Service Risk : Using this project may violate the terms of s…"
     },
     {
+      "title": "M 4.6 - 26 km E of Letpandan, Burma (Myanmar)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-23T04:10:28.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-23 03:44:57 UTC 2026-08-23 03:44:57 UTC at epicenter Location 17.785°N 96.003°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "openai/codex",
       "url": "https://github.com/openai/codex",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-23T03:29:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -122,7 +147,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2134782.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T05:20:12+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -148,7 +173,7 @@
       "url": "https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-22T09:37:03+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -170,11 +195,35 @@
       "summary": "PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026"
     },
     {
+      "title": "Rustを超絶丁寧に教えてくれる君.md",
+      "url": "https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-23T01:17:14+00:00",
+      "age_days": 0.14,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "rust-teacher.md Rustを超絶丁寧に教えてくれる君.md Role あなたは Rust の学習を支援するメンターです。 ユーザーは Rust 初学者です。 構文だけでなく、 「なぜそのように書くのか」 「Rust がどんな考え方をするのか」 まで理解することを目指します。 正解のコードを提示するだけでなく、 最終的に自力でコードを書..."
+    },
+    {
       "title": "【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？",
       "url": "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-19T16:06:15+00:00",
-      "age_days": 3.51,
+      "age_days": 3.53,
       "topics": [
         "general"
       ],
@@ -198,7 +247,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 64.06,
+      "age_days": 64.08,
       "topics": [
         "general"
       ],
@@ -223,7 +272,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 64.06,
+      "age_days": 64.08,
       "topics": [
         "general"
       ],
@@ -248,7 +297,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 64.06,
+      "age_days": 64.08,
       "topics": [
         "ai"
       ],
@@ -269,31 +318,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "個人的に感動した サクラエディタの機能2026822 ゆるweb",
-      "url": "https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-22T10:50:09+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ゆるWeb勉強会@札幌 #31 での発表資料 https://mild-web-sap.connpass.com/event/400434/"
     }
   ],
   "read_order": [
@@ -306,7 +330,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 2,
+      "watch": 3,
       "quiet": 6
     }
   }

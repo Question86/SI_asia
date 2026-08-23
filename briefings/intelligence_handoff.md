@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-23T04:18:09Z_
+_Generated: 2026-08-23T04:43:24Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-08-23T03:29:30+00:00` / age_days `0.03`
+- Published: `2026-08-23T03:29:30+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `65.1`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `65.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 65.1d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-08-23T03:29:30+00:00` / age_days `0.03`
+- Published: `2026-08-23T03:29:30+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.com/Wei-Shaw/sub2api
 
+### M 4.6 - 26 km E of Letpandan, Burma (Myanmar)
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-08-23T04:10:28.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk
+
 ### openai/codex
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-23T03:29:30+00:00` / age_days `0.03`
+- Published: `2026-08-23T03:29:30+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-08-22T05:20:12+00:00` / age_days `0.96`
+- Published: `2026-08-22T05:20:12+00:00` / age_days `0.97`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-22T09:37:03+00:00` / age_days `0.78`
+- Published: `2026-08-22T09:37:03+00:00` / age_days `0.8`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou
 
+### Rustを超絶丁寧に教えてくれる君.md
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `7.0`
+- Published: `2026-08-23T01:17:14+00:00` / age_days `0.14`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: no strong comparative reason
+- Quelle: https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112
+
 ### 【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `4.0`
-- Published: `2026-08-19T16:06:15+00:00` / age_days `3.51`
+- Published: `2026-08-19T16:06:15+00:00` / age_days `3.53`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `64.06`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `64.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 64.1d old signal
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `64.06`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `64.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, aging penalty -16.0 for 64.1d old signal
@@ -102,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “makeplane/plane” — Die Dynamik liegt
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-20T02:49:51+00:00` / age_days `64.06`
+- Published: `2026-06-20T02:49:51+00:00` / age_days `64.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +1, single-source AI hype brake -8.0, aging penalty -16.0 for 64.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://toyokeizai.net/articles/-/948348?display=b
-
-### 個人的に感動した サクラエディタの機能2026822 ゆるweb
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-08-22T10:50:09+00:00` / age_days `0.73`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web
 
 END OF DOCUMENT
