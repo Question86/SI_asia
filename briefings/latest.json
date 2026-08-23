@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T23:07:49+00:00",
-  "run_id": "2026-08-23T23:07:49+00:00",
+  "generated_at": "2026-08-23T23:17:32+00:00",
+  "run_id": "2026-08-23T23:17:32+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 6,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -692,6 +692,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c48c66435d77ffe0bd3a"
+      },
+      {
+        "title": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所 | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260823de45895",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-23T21:29:26+00:00",
+        "fetched_at": "2026-08-23T23:17:02+00:00",
+        "summary": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。 量子コンピューターは電子や原子な…",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab0aea1033a62ddbaa1b"
       },
       {
         "title": "【詳報】中国ロボットスポーツ大会2日目 技術進化アピール",
@@ -1695,6 +1716,27 @@
       "id": "c48c66435d77ffe0bd3a"
     },
     {
+      "title": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45895",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T21:29:26+00:00",
+      "fetched_at": "2026-08-23T23:17:02+00:00",
+      "summary": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。 量子コンピューターは電子や原子な…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab0aea1033a62ddbaa1b"
+    },
+    {
       "title": "【詳報】中国ロボットスポーツ大会2日目 技術進化アピール",
       "url": "https://www.youtube.com/watch?v=E2empqOEkwk",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2031,7 +2073,29 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45895",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T21:29:26+00:00",
+      "fetched_at": "2026-08-23T23:17:02+00:00",
+      "summary": "開発競争が進む量子コンピューターをめぐり、「中性原子」と呼ばれる国産としては初めての方式を採用した量子コンピューターが、愛知県内で稼働を始めたことがわかりました。 量子コンピューターは電子や原子な…",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab0aea1033a62ddbaa1b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

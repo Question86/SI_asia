@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T23:07:49+00:00_
+_Generiert: 2026-08-23T23:17:32+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+37 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
