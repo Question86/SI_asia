@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T04:54:53+00:00_
+_Generiert: 2026-08-23T05:06:35+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+10 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: rust-teacher.md Rustを超絶丁寧に教えてくれる君.md Role あなたは Rust の学習を支援するメンターです。 ユーザーは Rust 初学者です。 構文だけでなく、 「なぜそのように書くのか」 「Rust がどんな考え方をするのか」 まで理解することを目指します。 正解のコードを提示するだけでなく、 最終的に自力でコードを書...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **個人的に感動した サクラエディタの機能2026822 ゆるweb** — Score 5, observation — [Quelle](https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web)
+- **8bit CPU 2026** — Score 5, observation — [Quelle](https://speakerdeck.com/koba789/8bit-cpu-2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-22T10:50:09+00:00`, fetched `2026-08-23T03:49:53+00:00`
+  - Zeit: published `2026-08-22T16:02:17+00:00`, fetched `2026-08-23T05:06:03+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ゆるWeb勉強会@札幌 #31 での発表資料 https://mild-web-sap.connpass.com/event/400434/
+  - Kurz: Kernel/VM探検隊@東京 No19 で発表した内容です。 https://kernelvm.connpass.com/event/395390/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
