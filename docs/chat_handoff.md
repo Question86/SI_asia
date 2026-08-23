@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-23T04:07:28+00:00_
+_Generated: 2026-08-23T04:23:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `9`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-08-23T04:07:28+00:00_
 - url: https://speakerdeck.com/takapy/tsuku-te-rikai-suru-coding-agent-furemu-waku-ni-tayoranai-pyua-python-deno-jissou
 - summary: PyConJP 2026のDAY2の発表資料です。 https://2026.pycon.jp/ja/talks/CPFGDA 発表で利用したコードのリンク：https://github.com/takapy0210/takapy-code-pyconjp2026
 
-### 5. makeplane/plane
+### 5. M 4.6 - 26 km E of Letpandan, Burma (Myanmar)
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-23T04:10:28.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmwk
+- summary: Time 2026-08-23 03:44:57 UTC 2026-08-23 03:44:57 UTC at epicenter Location 17.785°N 96.003°E Depth 10.00 km (6.21 mi)
+
+### 6. makeplane/plane
 - source: GitHub Trending RSS All Languages Daily
 - score: `8`
 - published: `None`
 - url: https://github.com/makeplane/plane
 - summary: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. http://plane.so Modern project management for all teams Website • Forum • X • Documentation Meet Plane , a…
 
-### 6. 個人的に感動した サクラエディタの機能2026822 ゆるweb
+### 7. Rustを超絶丁寧に教えてくれる君.md
 - source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-22T10:50:09+00:00`
-- url: https://speakerdeck.com/mikikosaka/kojinteki-ni-kandou-shita-sakura-edita-no-kinou-2026822-yuru-web
-- summary: ゆるWeb勉強会@札幌 #31 での発表資料 https://mild-web-sap.connpass.com/event/400434/
-
-### 7. 【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？
-- source: Hatena Bookmark Hotentry IT
-- score: `4`
-- published: `2026-08-19T16:06:15+00:00`
-- url: https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html
-- summary: 【Hothotレビュー】 Pixel 11を試して分かったカメラの進化。全機種3眼、Proの120倍ズームは買いか？
+- score: `7`
+- published: `2026-08-23T01:17:14+00:00`
+- url: https://gist.github.com/koutyuke/e2a68888bd9db30fa25c05f1bd030112
+- summary: rust-teacher.md Rustを超絶丁寧に教えてくれる君.md Role あなたは Rust の学習を支援するメンターです。 ユーザーは Rust 初学者です。 構文だけでなく、 「なぜそのように書くのか」 「Rust がどんな考え方をするのか」 まで理解することを目指します。 正解のコードを提示するだけでなく、 最終的に自力でコードを書...
 
 END OF DOCUMENT
