@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T14:54:46+00:00_
+_Generiert: 2026-08-23T15:02:52+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+25 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -180,3 +180,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `hn_release_security_burst` (hackernews): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
