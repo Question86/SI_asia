@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-23T14:01:39+00:00_
+_Generiert: 2026-08-23T14:10:44+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念“ aus Hatena Bookmark Hotentry IT (Score 16, observation).
+24 neue relevante Treffer. Stärkstes Signal: „M 6.0 - 33 km SSW of Honchō, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 6.0 - 33 km SSW of Honchō, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmz6)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-23T14:10:29.114+00:00`, fetched `2026-08-23T14:10:11+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - II Time 2026-08-23 13:44:53 UTC 2026-08-23 13:44:53 UTC at epicenter Location 41.834°N 142.826°E Depth 42.87 km (26.64 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念** — Score 16, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2134782.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-22T05:20:12+00:00`, fetched `2026-08-23T02:12:31+00:00`
@@ -108,6 +117,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
