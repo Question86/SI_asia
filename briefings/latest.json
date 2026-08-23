@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T22:18:32+00:00",
-  "run_id": "2026-08-23T22:18:32+00:00",
+  "generated_at": "2026-08-23T22:31:30+00:00",
+  "run_id": "2026-08-23T22:31:30+00:00",
   "date": "2026-08-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 35
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 6,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -692,6 +692,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c48c66435d77ffe0bd3a"
+      },
+      {
+        "title": "【詳報】中国ロボットスポーツ大会2日目 技術進化アピール",
+        "url": "https://www.youtube.com/watch?v=E2empqOEkwk",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-23T20:23:52+00:00",
+        "fetched_at": "2026-08-23T22:30:54+00:00",
+        "summary": "北京で開催中の「世界人型ロボットスポーツ大会」で、中国製ロボットが相次いで人類の世界記録を破った。大会2日目の23日には陸上400メートル決勝が行われ、人類最速を大幅に上回る38秒15(速報値)の記録が飛び出した。初開催だった昨年からタイムを大幅に縮め、中国企業の技術力の急速な進化を内外にアピールした。 #共...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "748f77c7b2ac6727a41e"
       },
       {
         "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
@@ -1674,6 +1695,27 @@
       "id": "c48c66435d77ffe0bd3a"
     },
     {
+      "title": "【詳報】中国ロボットスポーツ大会2日目 技術進化アピール",
+      "url": "https://www.youtube.com/watch?v=E2empqOEkwk",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T20:23:52+00:00",
+      "fetched_at": "2026-08-23T22:30:54+00:00",
+      "summary": "北京で開催中の「世界人型ロボットスポーツ大会」で、中国製ロボットが相次いで人類の世界記録を破った。大会2日目の23日には陸上400メートル決勝が行われ、人類最速を大幅に上回る38秒15(速報値)の記録が飛び出した。初開催だった昨年からタイムを大幅に縮め、中国企業の技術力の急速な進化を内外にアピールした。 #共...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "748f77c7b2ac6727a41e"
+    },
+    {
       "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
       "url": "https://note.com/maxmatsuura/n/ne59969fd6e71",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1989,7 +2031,29 @@
       "id": "07e470e5e6783e8a8632"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "【詳報】中国ロボットスポーツ大会2日目 技術進化アピール",
+      "url": "https://www.youtube.com/watch?v=E2empqOEkwk",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T20:23:52+00:00",
+      "fetched_at": "2026-08-23T22:30:54+00:00",
+      "summary": "北京で開催中の「世界人型ロボットスポーツ大会」で、中国製ロボットが相次いで人類の世界記録を破った。大会2日目の23日には陸上400メートル決勝が行われ、人類最速を大幅に上回る38秒15(速報値)の記録が飛び出した。初開催だった昨年からタイムを大幅に縮め、中国企業の技術力の急速な進化を内外にアピールした。 #共...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "748f77c7b2ac6727a41e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
