@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T01:51:49+00:00",
-  "run_id": "2026-08-24T01:51:49+00:00",
+  "generated_at": "2026-08-24T02:23:10+00:00",
+  "run_id": "2026-08-24T02:23:10+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 9
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 2,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 1,
-    "observe": 6,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -134,6 +134,27 @@
         "id": "5386e6e99dfe325c10f2"
       },
       {
+        "title": "How AI helps sales teams stop losing context between calls and follow-ups",
+        "url": "https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-24T02:00:15+00:00",
+        "fetched_at": "2026-08-24T02:22:36+00:00",
+        "summary": "A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s head, a CRM field, or a half-written document that nobody cleans up properly. […] The post How AI helps sales teams stop losing context between calls and follo…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "473edff71d42f5c1e5aa"
+      },
+      {
         "title": "Here’s why a global company cannot be a copy-and-paste company",
         "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -174,6 +195,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "af0438c8aa3db4a4baa5"
+      },
+      {
+        "title": "会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた",
+        "url": "https://togetter.com/li/2736773",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-23T23:03:13+00:00",
+        "fetched_at": "2026-08-24T02:22:36+00:00",
+        "summary": "ʏᴀᴍᴀʙᴜᴋɪ @0111uni こないだ会社の飲み会で行った店がスマホ注文タイプだったんだけど、そこのテナント電波なくて誰も注文できなくて店員呼んでドリンクとか頼んでたらキレ気味に「スマホ注文してください」って言われて「電波がなくて注文ができないので」と伝えたら明らかに 2026-08-23 23:11:22 ʏᴀᴍᴀʙᴜᴋɪ @0111uni バ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ee6d53016b0e0403eb92"
       },
       {
         "title": "税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee",
@@ -302,6 +344,27 @@
       "id": "5386e6e99dfe325c10f2"
     },
     {
+      "title": "How AI helps sales teams stop losing context between calls and follow-ups",
+      "url": "https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-24T02:00:15+00:00",
+      "fetched_at": "2026-08-24T02:22:36+00:00",
+      "summary": "A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s head, a CRM field, or a half-written document that nobody cleans up properly. […] The post How AI helps sales teams stop losing context between calls and follo…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "473edff71d42f5c1e5aa"
+    },
+    {
       "title": "Here’s why a global company cannot be a copy-and-paste company",
       "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -342,6 +405,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "af0438c8aa3db4a4baa5"
+    },
+    {
+      "title": "会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた",
+      "url": "https://togetter.com/li/2736773",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T23:03:13+00:00",
+      "fetched_at": "2026-08-24T02:22:36+00:00",
+      "summary": "ʏᴀᴍᴀʙᴜᴋɪ @0111uni こないだ会社の飲み会で行った店がスマホ注文タイプだったんだけど、そこのテナント電波なくて誰も注文できなくて店員呼んでドリンクとか頼んでたらキレ気味に「スマホ注文してください」って言われて「電波がなくて注文ができないので」と伝えたら明らかに 2026-08-23 23:11:22 ʏᴀᴍᴀʙᴜᴋɪ @0111uni バ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ee6d53016b0e0403eb92"
     },
     {
       "title": "税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee",
@@ -367,78 +451,34 @@
   ],
   "new_findings": [
     {
-      "title": "The rise of climate tech and sustainability startups in Southeast Asia",
-      "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
+      "title": "How AI helps sales teams stop losing context between calls and follow-ups",
+      "url": "https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-24T01:45:52+00:00",
-      "fetched_at": "2026-08-24T01:51:16+00:00",
-      "summary": "Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures are creating one of the region’s most important business opportunities. Across Southeast Asia, a new generation of climate technology […] The post The rise of cli…",
+      "published_at": "2026-08-24T02:00:15+00:00",
+      "fetched_at": "2026-08-24T02:22:36+00:00",
+      "summary": "A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s head, a CRM field, or a half-written document that nobody cleans up properly. […] The post How AI helps sales teams stop losing context between calls and follo…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Southeast Asia",
-        "Supply Chain Security"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "14ab9a2d5288c8e784f9"
-    },
-    {
-      "title": "Here’s why a global company cannot be a copy-and-paste company",
-      "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-24T01:30:25+00:00",
-      "fetched_at": "2026-08-24T01:51:16+00:00",
-      "summary": "A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website. Announce the expansion. Start selling. Today, that same decision begins with a very different set of questions. Where will the company’s data sit? Which technology providers […] The post Here’s why a global company cannot be a copy-and-past…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Webentwicklung"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "facd280cb1d58df58696"
+      "id": "473edff71d42f5c1e5aa"
     },
     {
-      "title": "SEA has the ideas; it needs the follow-through",
-      "url": "https://e27.co/sea-has-the-ideas-it-needs-the-follow-through-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-24T01:15:46+00:00",
-      "fetched_at": "2026-08-24T01:51:16+00:00",
-      "summary": "We want more startups. More research. More patents. More home-grown companies that sell to the world. We want to be the place where the next useful thing is built, not just where it is assembled, shipped, or supported. That ambition is right. But it can distract us from a simpler problem. Southeast Asia does not […] The post SEA has the ideas; it needs the follow-through appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "af0438c8aa3db4a4baa5"
-    },
-    {
-      "title": "税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee",
-      "url": "https://note.com/shuma_sajimoto/n/n3824385dbdf2",
+      "title": "会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた",
+      "url": "https://togetter.com/li/2736773",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-23T22:49:55+00:00",
-      "fetched_at": "2026-08-24T01:51:16+00:00",
-      "summary": "こんにちは！「Zeimee」という税理士事務所向けのAI記帳サービスを作っている、佐次本（さじもと）といいます。 タイトルの通りなんですが、7月から広島県の税理士事務所に住み込んで開発をしています。この記事を書いている時点で、ちょうど1ヶ月ほどです。広島県に拠点があり、顧問先は2,000件を超える、けっこう大き...",
+      "published_at": "2026-08-23T23:03:13+00:00",
+      "fetched_at": "2026-08-24T02:22:36+00:00",
+      "summary": "ʏᴀᴍᴀʙᴜᴋɪ @0111uni こないだ会社の飲み会で行った店がスマホ注文タイプだったんだけど、そこのテナント電波なくて誰も注文できなくて店員呼んでドリンクとか頼んでたらキレ気味に「スマホ注文してください」って言われて「電波がなくて注文ができないので」と伝えたら明らかに 2026-08-23 23:11:22 ʏᴀᴍᴀʙᴜᴋɪ @0111uni バ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -450,7 +490,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "384c728461655bbffc41"
+      "id": "ee6d53016b0e0403eb92"
     }
   ],
   "source_errors": [],

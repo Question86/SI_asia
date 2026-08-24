@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T01:51:49+00:00_
+_Generated: 2026-08-24T02:23:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `9`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-08-24T01:51:49+00:00_
 - url: https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/
 - summary: One of the easiest ways to misunderstand strategy is to imagine that switching costs are simply a defensive moat. They are not. Switching costs are better understood as borrowed power. They give a company time, tolerance, and revenue continuity that pure prod…
 
-### 5. Here’s why a global company cannot be a copy-and-paste company
+### 5. How AI helps sales teams stop losing context between calls and follow-ups
 - source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-08-24T01:30:25+00:00`
-- url: https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/
-- summary: A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website. Announce the expansion. Start selling. Today, that same decision begins with a v…
+- score: `8`
+- published: `2026-08-24T02:00:15+00:00`
+- url: https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/
+- summary: A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s…
 
 END OF DOCUMENT

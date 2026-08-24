@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T01:51:49+00:00_
+_Generiert: 2026-08-24T02:23:10+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+9 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -51,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the easiest ways to misunderstand strategy is to imagine that switching costs are simply a defensive moat. They are not. Switching costs are better understood as borrowed power. They give a company time, tolerance, and revenue continuity that pure product preference alone may not provide. They can come from contracts, implementation effort, data […] The post Competing on switching costs without becoming hosta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How AI helps sales teams stop losing context between calls and follow-ups** — Score 8, observation — [Quelle](https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-24T02:00:15+00:00`, fetched `2026-08-24T02:22:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s head, a CRM field, or a half-written document that nobody cleans up properly. […] The post How AI helps sales teams stop losing context between calls and follo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Here’s why a global company cannot be a copy-and-paste company** — Score 7, observation — [Quelle](https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-24T01:30:25+00:00`, fetched `2026-08-24T01:51:16+00:00`
@@ -60,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website. Announce the expansion. Start selling. Today, that same decision begins with a very different set of questions. Where will the company’s data sit? Which technology providers […] The post Here’s why a global company cannot be a copy-and-past…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SEA has the ideas; it needs the follow-through** — Score 6, observation — [Quelle](https://e27.co/sea-has-the-ideas-it-needs-the-follow-through-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-24T01:15:46+00:00`, fetched `2026-08-24T01:51:16+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+- **会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた** — Score 5, observation — [Quelle](https://togetter.com/li/2736773)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-23T23:03:13+00:00`, fetched `2026-08-24T02:22:36+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: We want more startups. More research. More patents. More home-grown companies that sell to the world. We want to be the place where the next useful thing is built, not just where it is assembled, shipped, or supported. That ambition is right. But it can distract us from a simpler problem. Southeast Asia does not […] The post SEA has the ideas; it needs the follow-through appeared first on e27 .
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ʏᴀᴍᴀʙᴜᴋɪ @0111uni こないだ会社の飲み会で行った店がスマホ注文タイプだったんだけど、そこのテナント電波なくて誰も注文できなくて店員呼んでドリンクとか頼んでたらキレ気味に「スマホ注文してください」って言われて「電波がなくて注文ができないので」と伝えたら明らかに 2026-08-23 23:11:22 ʏᴀᴍᴀʙᴜᴋɪ @0111uni バ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee** — Score 5, observation — [Quelle](https://note.com/shuma_sajimoto/n/n3824385dbdf2)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
