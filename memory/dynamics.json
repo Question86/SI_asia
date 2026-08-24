@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-24T11:07:21Z",
+  "generated_at": "2026-08-24T11:22:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 9,
+      "krass": 11,
       "strong": 9,
       "watch": 9,
-      "quiet": 13
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "krass": 3,
-      "strong": 15,
+      "krass": 4,
+      "strong": 16,
       "watch": 9,
-      "quiet": 13
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:02:09+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -45,11 +45,36 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere nicht näher spezifizierte Angriffe durchzuführen, möglicherweise um beliebigen Code auszuführen oder eine Speicherbeschädigung zu verursachen."
     },
     {
+      "title": "[NEU] [hoch] Notepad++: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2968",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-24T11:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, auth",
+        "security high-signal: code, auth"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Notepad++ ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Windows-Authentifizierungsdaten offenzulegen, Dateien zu löschen oder zu manipulieren, beliebigen Code auszuführen oder Denial-of-Service-Zustände herbeizuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] QEMU: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:11:10+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -74,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2181",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:02:10+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -99,7 +124,7 @@
       "url": "https://jvn.jp/jp/JVN33423625/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T14:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -123,7 +148,7 @@
       "url": "https://jvn.jp/jp/JVN74538868/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -147,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:02:07+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -173,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T06:06:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -195,11 +220,36 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
     },
     {
+      "title": "[UPDATE] [mittel] util-linux: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2121",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-24T11:11:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0680",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:11:06+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -224,7 +274,7 @@
       "url": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-24T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -251,7 +301,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11117-4f503-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T01:57:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -277,7 +327,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T02:49:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -302,7 +352,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 66.38,
+      "age_days": 66.39,
       "topics": [
         "ai"
       ],
@@ -331,7 +381,7 @@
       "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:45:52+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security",
@@ -360,7 +410,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11119-25dfc-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T02:06:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -384,7 +434,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11118-dfee4-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T01:59:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -408,7 +458,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11116-2c1d8-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T01:52:00+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -432,7 +482,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:01:59.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -457,7 +507,7 @@
       "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-VMware-Tanzu-Spring-Software-11423459.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-24T10:14:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -482,7 +532,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T00:41:15.040+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -507,7 +557,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T04:12:23.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -531,7 +581,7 @@
       "url": "https://jvn.jp/jp/JVN84326763/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-07-29T14:00:00+09:00",
-      "age_days": 756.26,
+      "age_days": 756.27,
       "topics": [
         "security"
       ],
@@ -556,7 +606,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T10:46:12.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -581,7 +631,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2j",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T08:28:21.720+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -606,7 +656,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T06:08:51.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -631,7 +681,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:11:06.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -656,7 +706,7 @@
       "url": "https://36kr.jp/500515/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T22:09:22+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -680,7 +730,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T10:22:19.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "disaster"
@@ -708,7 +758,7 @@
       "url": "https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T03:06:54+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "macro"
       ],
@@ -732,7 +782,7 @@
       "url": "https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:00:26+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "macro"
       ],
@@ -756,7 +806,7 @@
       "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:30:25+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "macro"
       ],
@@ -780,7 +830,7 @@
       "url": "https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T06:23:35+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -807,7 +857,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-08-24T06:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "macro"
       ],
@@ -831,7 +881,7 @@
       "url": "https://e27.co/where-ai-money-is-made-and-where-sea-founders-should-actually-compete-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T02:30:53+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -857,7 +907,7 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-24T02:49:13+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -883,7 +933,7 @@
       "url": "https://www.digital.go.jp/about",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-24T06:00:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -907,7 +957,7 @@
       "url": "https://e27.co/sea-has-the-ideas-it-needs-the-follow-through-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:15:46+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -931,7 +981,7 @@
       "url": "https://anond.hatelabo.jp/20260824115156",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-24T03:15:37+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -955,7 +1005,7 @@
       "url": "https://news.denfaminicogamer.jp/news/260824f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-24T01:20:59+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -973,54 +1023,6 @@
         "no strong comparative reason"
       ],
       "summary": "SteamにてSQLで事件の真相に迫るゲーム『Ghost in the SQL Data』のストアページが公開されている。日本語にも対応予定のタイトルだ。 本作において、事件の捜査はデータベースを操作するためのプログラミング言語「SQL」を操ることで行う。検索機能や銀行の明細、表計算ソフトなど、日常的に触れる仕組みの裏側で使われ..."
-    },
-    {
-      "title": "会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた",
-      "url": "https://togetter.com/li/2736773",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-23T23:03:13+00:00",
-      "age_days": 0.5,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ʏᴀᴍᴀʙᴜᴋɪ @0111uni こないだ会社の飲み会で行った店がスマホ注文タイプだったんだけど、そこのテナント電波なくて誰も注文できなくて店員呼んでドリンクとか頼んでたらキレ気味に「スマホ注文してください」って言われて「電波がなくて注文ができないので」と伝えたら明らかに 2026-08-23 23:11:22 ʏᴀᴍᴀʙᴜᴋɪ @0111uni バ..."
-    },
-    {
-      "title": "「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ",
-      "url": "https://note.com/u5u/n/nd24ab042eac8",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-23T13:52:08+00:00",
-      "age_days": 0.89,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "【※ご注意】 8月16日の朝以降、Twitterのアカウント（@u5u）に不正アクセスのためログインすることができなくなっています。 当該アカウントから不審なDM等ありましたら、申し訳ありませんが無視してください。 現在は緊急避難用のアカウント（@u5u119）を更新しておりますので、そちらをフォローしていただけるとありが..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
