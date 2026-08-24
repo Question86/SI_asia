@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-24T11:52:35Z",
+  "generated_at": "2026-08-24T12:05:31Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:02:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2968",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T11:11:06+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1908",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:11:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2181",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:02:10+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T10:02:07+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -141,7 +141,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2975",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T11:36:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -168,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2974",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T11:31:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2971",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T11:21:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -220,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T06:06:06+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -242,11 +242,36 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (NetworkManager): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2977",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-24T11:41:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (NetworkManager) ausnutzen, um seine Privilegien zu erhöhen."
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T11:26:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -271,31 +296,6 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2970",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T11:21:05+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offenzulegen."
-    },
-    {
-      "title": "[UPDATE] [mittel] util-linux: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2121",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-24T11:11:08+00:00",
       "age_days": 0.03,
       "topics": [
         "security"
@@ -314,7 +314,7 @@
         "security high-signal: cert-bund, bsi, security, advisory",
         "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offenzulegen."
     }
   ],
   "read_order": [
