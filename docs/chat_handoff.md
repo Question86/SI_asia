@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T13:39:02+00:00_
+_Generated: 2026-08-24T13:59:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `67`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-08-24T13:39:02+00:00_
 - url: https://jvn.jp/jp/JVN84326763/
 - summary: Sky株式会社が提供するSKYSEA Client Viewには、複数の脆弱性が存在します。
 
-### 6. The UAE is fighting AI hackers with AI of its own
+### 6. Announcing 20260075 (LTRO,liquidity providing), for 91 days deadline 10:00
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-24T14:55:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260075.en.html
+- summary: Announcing 20260075 (LTRO,liquidity providing), for 91 days deadline 10:00
+
+### 7. Announcing 20260074 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-24T14:55:22+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260074.en.html
+- summary: Announcing 20260074 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 8. The UAE is fighting AI hackers with AI of its own
 - source: Rest of World Global Tech Feed
 - score: `11`
 - published: `2026-08-24T10:00:00+00:00`
 - url: https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.
-
-### 7. Expanding into China? Move in phases, says KPMG’s Leo Yang
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-08-24T03:06:54+00:00`
-- url: https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/
-- summary: Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury…
-
-### 8. 美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-08-24T02:06:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11119-25dfc-1.html
-- summary: 美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read
 
 END OF DOCUMENT
