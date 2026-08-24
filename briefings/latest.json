@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T22:33:31+00:00",
-  "run_id": "2026-08-24T22:33:31+00:00",
+  "generated_at": "2026-08-24T22:46:52+00:00",
+  "run_id": "2026-08-24T22:46:52+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
@@ -4081,54 +4081,7 @@
       "id": "6eca0583e7b5ecdfaa1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった (1/5)",
-      "url": "https://ascii.jp/elem/000/004/428/4428658/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:17:16+00:00",
-      "fetched_at": "2026-08-24T22:32:57+00:00",
-      "summary": "6月にリリースされたEpic Gamesのゲームエンジン「Unreal Engine 5.8（UE5）」で、AIを通じてアプリケーションの操作を可能にするMCP（モデル・コンテキスト・プロトコル）を実験的機能として使えるようになりました。なかなかとっつきにくく、まだ使用事例が多く出てきていないこともあり、どこまで使えるのか測りかね...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "fe6339bfac850b243062"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
