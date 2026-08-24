@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T19:17:13+00:00",
-  "run_id": "2026-08-24T19:17:13+00:00",
+  "generated_at": "2026-08-24T19:31:15+00:00",
+  "run_id": "2026-08-24T19:31:15+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3693,30 +3693,7 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [
-    {
-      "title": "【全文無料公開】「できるChatGPT」や動画生成AIの入門書など30冊が全文無料公開、1週間限定／「世界一やさしいCanva」「できる はじめてのマインクラフト建築」なども【Book Watch/ニュース】",
-      "url": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2134897.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:21:39+00:00",
-      "fetched_at": "2026-08-24T19:16:42+00:00",
-      "summary": "【全文無料公開】「できるChatGPT」や動画生成AIの入門書など30冊が全文無料公開、1週間限定／「世界一やさしいCanva」「できる はじめてのマインクラフト建築」なども【Book Watch/ニュース】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ff141fad5e3c37c17fab"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
