@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T11:31:03+00:00_
+_Generated: 2026-08-24T11:44:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `50`
+- findings: `55`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-24T11:31:03+00:00_
 - url: https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/
 - summary: Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures ar…
 
-### 2. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
+### 2. [NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-24T11:26:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (assertj) ausnutzen, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.
+
+### 3. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-24T11:21:05+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2970
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, möglicherweise Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen oder vertrauliche Informationen offe…
 
-### 3. [UPDATE] [mittel] util-linux: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen
+### 4. [UPDATE] [mittel] util-linux: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-24T11:11:08+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2121
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.
-
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-24T10:11:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0680
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.
 
 ### 5. SKYSEA Client Viewにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes

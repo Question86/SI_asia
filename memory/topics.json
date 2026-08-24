@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-24T11:31:03+00:00",
+  "generated_at": "2026-08-24T11:44:20+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-08-24T10:22:19.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2975"
       },
       {
         "title": "[NEU] [mittel] IBM SPSS Modeler: Schwachstelle ermöglicht Manipulation von Dateien",
@@ -66,16 +73,16 @@
         "published_at": null,
         "relevance_score": 9,
         "url": "https://github.com/freestylefly/awesome-gpt-image-2"
-      },
-      {
-        "title": "How AI helps sales teams stop losing context between calls and follow-ups",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-24T02:00:15+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:26:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972"
+      },
       {
         "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
@@ -133,21 +140,21 @@
         "url": "https://jvn.jp/jp/JVN74538868/"
       },
       {
-        "title": "[NEU] [mittel] Apache CloudStack: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-24T11:21:05+00:00",
+        "published_at": "2026-08-24T11:36:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2971"
-      },
-      {
-        "title": "[NEU] [mittel] IBM SPSS Modeler: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-24T11:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2969"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2975"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:26:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972"
+      },
       {
         "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
@@ -161,6 +168,34 @@
         "published_at": "2026-08-24T10:02:07+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2975"
+      },
+      {
+        "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2976"
+      },
+      {
+        "title": "[NEU] [mittel] git: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2973"
+      },
+      {
+        "title": "[NEU] [hoch] Rapid7 Velociraptor: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2974"
       },
       {
         "title": "[NEU] [mittel] Apache CloudStack: Schwachstelle ermöglicht Denial of Service",
@@ -182,41 +217,6 @@
         "published_at": "2026-08-24T11:11:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2968"
-      },
-      {
-        "title": "The UAE is fighting AI hackers with AI of its own",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-08-24T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Zahlreiche Sicherheitslücken bedrohen VMware-Tanzu-Spring-Software",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-24T10:14:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-VMware-Tanzu-Spring-Software-11423459.html"
-      },
-      {
-        "title": "Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-24T03:00:51+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/singapores-biggest-startup-opportunity-isnt-ai-its-building-aseans-operating-system-20260821/"
-      },
-      {
-        "title": "Piero Cipollone: Interview with ilsussidiario.net",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-24T06:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html"
-      },
-      {
-        "title": "Southeast Asia’s EV startups draw US$622M as clean mobility shifts from pitch to pilot",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-24T08:05:18+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/southeast-asias-ev-startups-draw-us622m-as-clean-mobility-shifts-from-pitch-to-pilot-20260824/"
       }
     ],
     "general": [
