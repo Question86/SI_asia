@@ -23,6 +23,54 @@
     "id": "14ab9a2d5288c8e784f9"
   },
   {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2170",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-24T10:02:09+00:00",
+    "fetched_at": "2026-08-24T10:07:12+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere nicht näher spezifizierte Angriffe durchzuführen, möglicherweise um beliebigen Code auszuführen oder eine Speicherbeschädigung zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "623fefb430b8580cb584"
+  },
+  {
+    "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service und Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-24T10:02:07+00:00",
+    "fetched_at": "2026-08-24T10:07:12+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen, um seine Privilegien zu erhöhen oder andere nicht spezifizierte Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f1b8f0003bd04ad35f39"
+  },
+  {
     "title": "M 4.8 - 27 km WSW of Sarangani, Philippines",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -164,6 +212,29 @@
     "id": "1559442c48af0d18d10d"
   },
   {
+    "title": "[UPDATE] [mittel] Logback: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2181",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-24T10:02:10+00:00",
+    "fetched_at": "2026-08-24T10:07:12+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Logback ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fff0f8d3ddfc0446390b"
+  },
+  {
     "title": "Why Indonesia’s agritech winners will be phygital, not purely digital",
     "url": "https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -251,6 +322,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e1b3f66ddf9369cd7bb7"
+  },
+  {
+    "title": "The UAE is fighting AI hackers with AI of its own",
+    "url": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-24T10:00:00+00:00",
+    "fetched_at": "2026-08-24T10:07:12+00:00",
+    "summary": "Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.",
+    "matched_keywords": [
+      "AI/KI",
+      "Security"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "AI/KI (+3.8); Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "670175e19a9b0787da0e"
   },
   {
     "title": "Expanding into China? Move in phases, says KPMG’s Leo Yang",

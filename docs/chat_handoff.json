@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-24T09:48:31+00:00",
+  "generated_at": "2026-08-24T10:07:44+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 4,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 8,
-    "observe": 24
+    "medium": 11,
+    "observe": 25
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,26 @@
       "section": "medium"
     },
     {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-24T10:02:09+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2170",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere nicht näher spezifizierte Angriffe durchzuführen, möglicherweise um beliebigen Code auszuführen oder eine Speicherbeschädigung zu…",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service und Privilegieneskalation",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-24T10:02:07+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen, um seine Privilegien zu erhöhen oder andere nicht spezifizierte Angriffe durchzuführen.",
+      "section": "medium"
+    },
+    {
       "title": "M 4.8 - 27 km WSW of Sarangani, Philippines",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -35,26 +55,6 @@
       "section": "medium"
     },
     {
-      "title": "M 4.7 - 71 km N of Ruteng, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:01:59.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
-      "summary": "Time 2026-08-24 02:19:39 UTC 2026-08-24 02:19:39 UTC at epicenter Location 7.964°S 120.468°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T02:49:00+00:00",
-      "relevance_score": 15,
-      "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
-      "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
-      "section": "medium"
-    },
-    {
       "title": "SKYSEA Client Viewにおける複数の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -62,6 +62,16 @@
       "relevance_score": 13,
       "url": "https://jvn.jp/jp/JVN84326763/",
       "summary": "Sky株式会社が提供するSKYSEA Client Viewには、複数の脆弱性が存在します。",
+      "section": "observe"
+    },
+    {
+      "title": "The UAE is fighting AI hackers with AI of its own",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-24T10:00:00+00:00",
+      "relevance_score": 11,
+      "url": "https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "summary": "Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.",
       "section": "observe"
     },
     {
@@ -83,16 +93,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "summary": "Time 2026-08-24 00:26:26 UTC 2026-08-24 00:26:26 UTC at epicenter Location 28.414°N 105.034°E Depth 42.47 km (26.39 mi)",
       "section": "observe"
-    },
-    {
-      "title": "世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-23T22:09:22+00:00",
-      "relevance_score": 11,
-      "url": "https://36kr.jp/500515/",
-      "summary": "世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,140 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-24T06:06:06+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
-      },
-      {
-        "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
-        "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-24T02:49:00+00:00",
-        "age_days": 0.29,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting"
-      },
-      {
-        "title": "SKYSEA Client ViewおよびSKYMEC IT Managerにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN33423625/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-24T14:00:00+09:00",
-        "age_days": 0.2,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "Ｓｋｙ株式会社が提供するSKYSEA Client ViewおよびSKYMEC IT Managerには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "サクラエディタにおけるOSコマンドインジェクションの脆弱性",
-        "url": "https://jvn.jp/jp/JVN74538868/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-24T12:00:00+09:00",
-        "age_days": 0.28,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。"
-      },
-      {
-        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 66.33,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.95,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.95",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "aging penalty -8.0 for 66.3d old signal",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
