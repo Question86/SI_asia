@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:30:25+00:00",
-  "run_id": "2026-08-24T20:30:25+00:00",
+  "generated_at": "2026-08-24T20:46:28+00:00",
+  "run_id": "2026-08-24T20:46:28+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 28,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -1714,6 +1714,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4d834b55f734916cbae"
+      },
+      {
+        "title": "お前らが毎日必ず見るサイトってなに？",
+        "url": "https://anond.hatelabo.jp/20260824185046",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-24T09:51:19+00:00",
+        "fetched_at": "2026-08-24T20:45:53+00:00",
+        "summary": "ワイ ・はてブ ・キニ速 ・ザイーガ 終わってる？",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a817da1811edc9a97b99"
       },
       {
         "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
@@ -3590,6 +3611,27 @@
       "id": "b4d834b55f734916cbae"
     },
     {
+      "title": "お前らが毎日必ず見るサイトってなに？",
+      "url": "https://anond.hatelabo.jp/20260824185046",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T09:51:19+00:00",
+      "fetched_at": "2026-08-24T20:45:53+00:00",
+      "summary": "ワイ ・はてブ ・キニ速 ・ザイーガ 終わってる？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a817da1811edc9a97b99"
+    },
+    {
       "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3777,7 +3819,29 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "お前らが毎日必ず見るサイトってなに？",
+      "url": "https://anond.hatelabo.jp/20260824185046",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T09:51:19+00:00",
+      "fetched_at": "2026-08-24T20:45:53+00:00",
+      "summary": "ワイ ・はてブ ・キニ速 ・ザイーガ 終わってる？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a817da1811edc9a97b99"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
