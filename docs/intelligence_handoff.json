@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-24T08:13:08Z",
+  "generated_at": "2026-08-24T09:01:12Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Managerにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN33423625/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T14:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN74538868/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-24T06:06:06+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -89,7 +89,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T02:49:00+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -114,7 +114,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 66.26,
+      "age_days": 66.29,
       "topics": [
         "ai"
       ],
@@ -143,7 +143,7 @@
       "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:45:52+00:00",
-      "age_days": 0.27,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "security",
@@ -172,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:01:59.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -197,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T00:41:15.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -222,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T04:12:23.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -246,7 +246,7 @@
       "url": "https://jvn.jp/jp/JVN84326763/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-07-29T14:00:00+09:00",
-      "age_days": 756.13,
+      "age_days": 756.17,
       "topics": [
         "security"
       ],
@@ -262,16 +262,41 @@
       "single_source_ai_capped": false,
       "why": [
         "security high-signal: jvn, security",
-        "aging penalty -8.0 for 756.1d old signal"
+        "aging penalty -8.0 for 756.2d old signal"
       ],
       "summary": "Sky株式会社が提供するSKYSEA Client Viewには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "M 4.9 - 10 km NNW of Cot, Costa Rica",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2j",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-24T08:28:21.720+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.9"
+      ],
+      "summary": "DYFI? - VII Time 2026-08-24 07:37:17 UTC 2026-08-24 07:37:17 UTC at epicenter Location 9.985°N 83.913°W Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "M 4.5 - 104 km WNW of Houma, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T06:08:51.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -290,31 +315,6 @@
         "high terms: 10, 9.9"
       ],
       "summary": "Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)"
-    },
-    {
-      "title": "M 4.9 - southern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-24T03:11:06.040+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-24 02:45:08 UTC 2026-08-24 02:45:08 UTC at epicenter Location 12.636°S 14.921°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [

@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-24T08:13:08Z_
+_Generated: 2026-08-24T09:01:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-24T14:00:00+09:00` / age_days `0.13`
+- Published: `2026-08-24T14:00:00+09:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-24T12:00:00+09:00` / age_days `0.22`
+- Published: `2026-08-24T12:00:00+09:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-24T06:06:06+00:00` / age_days `0.09`
+- Published: `2026-08-24T06:06:06+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-24T02:49:00+00:00` / age_days `0.23`
+- Published: `2026-08-24T02:49:00+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `66.26`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `66.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 66.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-24T01:45:52+00:00` / age_days `0.27`
+- Published: `2026-08-24T01:45:52+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, security high-signal: security, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-24T03:01:59.040+00:00` / age_days `0.22`
+- Published: `2026-08-24T03:01:59.040+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-24T00:41:15.040+00:00` / age_days `0.31`
+- Published: `2026-08-24T00:41:15.040+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-24T04:12:23.040+00:00` / age_days `0.17`
+- Published: `2026-08-24T04:12:23.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,30 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Man
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2024-07-29T14:00:00+09:00` / age_days `756.13`
+- Published: `2024-07-29T14:00:00+09:00` / age_days `756.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: security high-signal: jvn, security, aging penalty -8.0 for 756.1d old signal
+- Warum: security high-signal: jvn, security, aging penalty -8.0 for 756.2d old signal
 - Quelle: https://jvn.jp/jp/JVN84326763/
+
+### M 4.9 - 10 km NNW of Cot, Costa Rica
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.0`
+- Published: `2026-08-24T08:28:21.720+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10, 9.9
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2j
 
 ### M 4.5 - 104 km WNW of Houma, Tonga
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-24T06:08:51.040+00:00` / age_days `0.09`
+- Published: `2026-08-24T06:08:51.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.9
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d
-
-### M 4.9 - southern Mid-Atlantic Ridge
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-08-24T03:11:06.040+00:00` / age_days `0.21`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z
 
 END OF DOCUMENT
