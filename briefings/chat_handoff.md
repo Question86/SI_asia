@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T14:19:02+00:00_
+_Generated: 2026-08-24T14:35:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `67`
+- findings: `68`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-24T14:19:02+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260074.en.html
 - summary: Announcing 20260074 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 8. The UAE is fighting AI hackers with AI of its own
-- source: Rest of World Global Tech Feed
+### 8. M 6.0 - 215 km NNE of Lospalos, Timor Leste
+- source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-08-24T10:00:00+00:00`
-- url: https://restofworld.org/2026/uae-ai-cyberattacks-cyber-factory-defenses/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
-- summary: Attacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.
+- published: `2026-08-24T14:32:51.801+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41
+- summary: ShakeMap - IV Time 2026-08-24 14:10:17 UTC 2026-08-24 14:10:17 UTC at epicenter Location 6.626°S 127.460°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
