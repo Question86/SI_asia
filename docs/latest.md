@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T11:56:02+00:00_
+_Generiert: 2026-08-24T12:17:53+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+61 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
