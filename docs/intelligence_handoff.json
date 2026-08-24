@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-24T06:09:43Z",
+  "generated_at": "2026-08-24T06:26:16Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SKYSEA Client ViewおよびSKYMEC IT Managerにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN33423625/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T14:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN74538868/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T12:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -59,11 +59,37 @@
       "summary": "サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-24T06:06:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen."
+    },
+    {
       "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
       "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T02:49:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -88,7 +114,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 66.17,
+      "age_days": 66.19,
       "topics": [
         "ai"
       ],
@@ -117,7 +143,7 @@
       "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:45:52+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security",
@@ -146,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:01:59.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -171,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T00:41:15.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -196,7 +222,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T04:12:23.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -220,7 +246,7 @@
       "url": "https://jvn.jp/jp/JVN84326763/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-07-29T14:00:00+09:00",
-      "age_days": 756.05,
+      "age_days": 756.06,
       "topics": [
         "security"
       ],
@@ -236,16 +262,41 @@
       "single_source_ai_capped": false,
       "why": [
         "security high-signal: jvn, security",
-        "aging penalty -8.0 for 756.0d old signal"
+        "aging penalty -8.0 for 756.1d old signal"
       ],
       "summary": "Sky株式会社が提供するSKYSEA Client Viewには、複数の脆弱性が存在します。"
+    },
+    {
+      "title": "M 4.5 - 104 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-24T06:08:51.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10, 9.9"
+      ],
+      "summary": "Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)"
     },
     {
       "title": "M 4.9 - southern Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:11:06.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -264,54 +315,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-08-24 02:45:08 UTC 2026-08-24 02:45:08 UTC at epicenter Location 12.636°S 14.921°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-      "url": "https://36kr.jp/500515/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-23T22:09:22+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: 10"
-      ],
-      "summary": "世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世..."
-    },
-    {
-      "title": "Expanding into China? Move in phases, says KPMG’s Leo Yang",
-      "url": "https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-24T03:06:54+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury structures with little real activity behind it? Leo Yang, P…"
     }
   ],
   "read_order": [
@@ -323,9 +326,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 5,
-      "quiet": 1
+      "strong": 7,
+      "watch": 5
     }
   }
 }
