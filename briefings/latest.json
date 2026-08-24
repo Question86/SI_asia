@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:59:13+00:00",
-  "run_id": "2026-08-24T20:59:13+00:00",
+  "generated_at": "2026-08-24T21:10:52+00:00",
+  "run_id": "2026-08-24T21:10:52+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 77,
     "displayed_findings": 77,
     "high": 0,
@@ -3859,28 +3859,7 @@
       "id": "6eca0583e7b5ecdfaa1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-24T20:56:32+00:00",
-      "fetched_at": "2026-08-24T20:58:37+00:00",
-      "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6eca0583e7b5ecdfaa1f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
