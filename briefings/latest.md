@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T03:14:38+00:00_
+_Generiert: 2026-08-24T03:36:38+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+19 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-24 02:19:39 UTC 2026-08-24 02:19:39 UTC at epicenter Location 7.964°S 120.468°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Hepta Platforms｜Heptabase - Stored Cross-Site Scripting** — Score 15, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-24T02:49:00+00:00`, fetched `2026-08-24T03:36:07+00:00`
+  - Treffer: APAC Trend Radar, Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: Hepta Platforms｜Heptabase - Stored Cross-Site Scripting
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **サクラエディタにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN74538868/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

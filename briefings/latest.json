@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:14:38+00:00",
-  "run_id": "2026-08-24T03:14:38+00:00",
+  "generated_at": "2026-08-24T03:36:38+00:00",
+  "run_id": "2026-08-24T03:36:38+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 2,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
-    "medium": 3,
-    "observe": 14,
+    "medium": 4,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -88,6 +88,29 @@
           "LOW"
         ],
         "id": "bd64759f3db313f7c99a"
+      },
+      {
+        "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-24T02:49:00+00:00",
+        "fetched_at": "2026-08-24T03:36:07+00:00",
+        "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "84dc527e8ad9eec9d50a"
       },
       {
         "title": "サクラエディタにおけるOSコマンドインジェクションの脆弱性",
@@ -462,6 +485,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "384c728461655bbffc41"
+      },
+      {
+        "title": "「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ",
+        "url": "https://note.com/u5u/n/nd24ab042eac8",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-23T13:52:08+00:00",
+        "fetched_at": "2026-08-24T03:36:07+00:00",
+        "summary": "【※ご注意】 8月16日の朝以降、Twitterのアカウント（@u5u）に不正アクセスのためログインすることができなくなっています。 当該アカウントから不審なDM等ありましたら、申し訳ありませんが無視してください。 現在は緊急避難用のアカウント（@u5u119）を更新しておりますので、そちらをフォローしていただけるとありが...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "85f3c30a1f42f6ebcb90"
       }
     ]
   },
@@ -525,6 +569,29 @@
         "LOW"
       ],
       "id": "bd64759f3db313f7c99a"
+    },
+    {
+      "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-24T02:49:00+00:00",
+      "fetched_at": "2026-08-24T03:36:07+00:00",
+      "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "84dc527e8ad9eec9d50a"
     },
     {
       "title": "サクラエディタにおけるOSコマンドインジェクションの脆弱性",
@@ -897,175 +964,15 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "384c728461655bbffc41"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "M 4.7 - 71 km N of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:01:59.040+00:00",
-      "fetched_at": "2026-08-24T03:14:05+00:00",
-      "summary": "Time 2026-08-24 02:19:39 UTC 2026-08-24 02:19:39 UTC at epicenter Location 7.964°S 120.468°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "bd64759f3db313f7c99a"
     },
     {
-      "title": "サクラエディタにおけるOSコマンドインジェクションの脆弱性",
-      "url": "https://jvn.jp/jp/JVN74538868/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-24T12:00:00+09:00",
-      "fetched_at": "2026-08-24T03:14:05+00:00",
-      "summary": "サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1559442c48af0d18d10d"
-    },
-    {
-      "title": "Expanding into China? Move in phases, says KPMG’s Leo Yang",
-      "url": "https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:06:54+00:00",
-      "fetched_at": "2026-08-24T03:14:05+00:00",
-      "summary": "Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury structures with little real activity behind it? Leo Yang, Partner (Singapore and China […] The post Expanding into China? Move in phases, says KPMG’s Leo Yang…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "87e1b579e00181f50a51"
-    },
-    {
-      "title": "Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system",
-      "url": "https://e27.co/singapores-biggest-startup-opportunity-isnt-ai-its-building-aseans-operating-system-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:00:51+00:00",
-      "fetched_at": "2026-08-24T03:14:05+00:00",
-      "summary": "“Complacency is our greatest threat.” That was Defense Minister Chan Chun Sing’s warning during Singapore’s National Day Rally season. Around the same time, Acting Manpower Minister Jeffrey Siow argued that younger Singaporeans will change jobs more often than previous generations and that lifelong retraining will become a permanent feature of the economy. Taken together, those […] The post Singapore’s biggest start…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "20f02f8cff107ed68ec1"
-    },
-    {
-      "title": "M 4.9 - southern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-24T03:11:06.040+00:00",
-      "fetched_at": "2026-08-24T03:14:05+00:00",
-      "summary": "Time 2026-08-24 02:45:08 UTC 2026-08-24 02:45:08 UTC at epicenter Location 12.636°S 14.921°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "b881a8f2318d418cfcd0"
-    },
-    {
-      "title": "“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する",
-      "url": "https://news.denfaminicogamer.jp/news/260824f",
+      "title": "「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ",
+      "url": "https://note.com/u5u/n/nd24ab042eac8",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-24T01:20:59+00:00",
-      "fetched_at": "2026-08-24T03:14:05+00:00",
-      "summary": "SteamにてSQLで事件の真相に迫るゲーム『Ghost in the SQL Data』のストアページが公開されている。日本語にも対応予定のタイトルだ。 本作において、事件の捜査はデータベースを操作するためのプログラミング言語「SQL」を操ることで行う。検索機能や銀行の明細、表計算ソフトなど、日常的に触れる仕組みの裏側で使われ...",
+      "published_at": "2026-08-23T13:52:08+00:00",
+      "fetched_at": "2026-08-24T03:36:07+00:00",
+      "summary": "【※ご注意】 8月16日の朝以降、Twitterのアカウント（@u5u）に不正アクセスのためログインすることができなくなっています。 当該アカウントから不審なDM等ありましたら、申し訳ありませんが無視してください。 現在は緊急避難用のアカウント（@u5u119）を更新しておりますので、そちらをフォローしていただけるとありが...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1077,7 +984,53 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2a04da175c2e652f30ce"
+      "id": "85f3c30a1f42f6ebcb90"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-24T02:49:00+00:00",
+      "fetched_at": "2026-08-24T03:36:07+00:00",
+      "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "84dc527e8ad9eec9d50a"
+    },
+    {
+      "title": "「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ",
+      "url": "https://note.com/u5u/n/nd24ab042eac8",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-23T13:52:08+00:00",
+      "fetched_at": "2026-08-24T03:36:07+00:00",
+      "summary": "【※ご注意】 8月16日の朝以降、Twitterのアカウント（@u5u）に不正アクセスのためログインすることができなくなっています。 当該アカウントから不審なDM等ありましたら、申し訳ありませんが無視してください。 現在は緊急避難用のアカウント（@u5u119）を更新しておりますので、そちらをフォローしていただけるとありが...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "85f3c30a1f42f6ebcb90"
     }
   ],
   "source_errors": [],

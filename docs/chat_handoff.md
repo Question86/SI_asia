@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T03:14:38+00:00_
+_Generated: 2026-08-24T03:36:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -22,35 +22,42 @@ _Generated: 2026-08-24T03:14:38+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v
 - summary: Time 2026-08-24 02:19:39 UTC 2026-08-24 02:19:39 UTC at epicenter Location 7.964°S 120.468°E Depth 10.00 km (6.21 mi)
 
-### 3. サクラエディタにおけるOSコマンドインジェクションの脆弱性
+### 3. Hepta Platforms｜Heptabase - Stored Cross-Site Scripting
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `15`
+- published: `2026-08-24T02:49:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html
+- summary: Hepta Platforms｜Heptabase - Stored Cross-Site Scripting
+
+### 4. サクラエディタにおけるOSコマンドインジェクションの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-08-24T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN74538868/
 - summary: サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。
 
-### 4. Expanding into China? Move in phases, says KPMG’s Leo Yang
+### 5. Expanding into China? Move in phases, says KPMG’s Leo Yang
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-24T03:06:54+00:00`
 - url: https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/
 - summary: Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury…
 
-### 5. M 4.9 - 11 km N of Bowangshan, China
+### 6. M 4.9 - 11 km N of Bowangshan, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-24T00:41:15.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h
 - summary: Time 2026-08-24 00:26:26 UTC 2026-08-24 00:26:26 UTC at epicenter Location 28.414°N 105.034°E Depth 42.47 km (26.39 mi)
 
-### 6. 世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア
+### 7. 世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-23T22:09:22+00:00`
 - url: https://36kr.jp/500515/
 - summary: 世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世...
 
-### 7. Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system
+### 8. Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-24T03:00:51+00:00`
