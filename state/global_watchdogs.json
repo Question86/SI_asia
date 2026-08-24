@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:35:17+00:00",
+  "generated_at": "2026-08-24T14:54:40+00:00",
   "sections": {
     "global_security": [
       {
@@ -76,13 +76,13 @@
         "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.0 - 215 km NNE of Lospalos, Timor Leste",
-        "summary": "M6.0 - 215 km NNE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.0 - 215 km NNE of Lospalos, Timor Leste. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41",
         "published_at": "2026-08-24T14:10:17+00:00",
         "metrics": {
           "mag": 6.0,
-          "alert": "",
+          "alert": "green",
           "sig": 554.0,
           "tsunami": 0
         }

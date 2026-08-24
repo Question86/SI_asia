@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T14:35:12+00:00_
+_Generiert: 2026-08-24T14:54:38+00:00_
 
 ## Kurzlage
 
@@ -36,7 +36,7 @@ _Generiert: 2026-08-24T14:35:12+00:00_
 - **USGS earthquake M6.0 - 215 km NNE of Lospalos, Timor Leste** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41)
   - Quelle: USGS
   - Zeit: `2026-08-24T14:10:17+00:00`
-  - Kurz: M6.0 - 215 km NNE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M6.0 - 215 km NNE of Lospalos, Timor Leste. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561504)
   - Quelle: GDACS
   - Zeit: ``
