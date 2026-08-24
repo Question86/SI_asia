@@ -23,6 +23,30 @@
     "id": "14ab9a2d5288c8e784f9"
   },
   {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (NetworkManager): Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2977",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-24T11:41:05+00:00",
+    "fetched_at": "2026-08-24T11:55:31+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (NetworkManager) ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1c035353bd9bb68edfa3"
+  },
+  {
     "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972",
     "source": "BSI CERT-Bund Security Advisories",
@@ -343,6 +367,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1559442c48af0d18d10d"
+  },
+  {
+    "title": "[NEU] [mittel] Hashicorp Terraform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2978",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-24T11:46:05+00:00",
+    "fetched_at": "2026-08-24T11:55:31+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Hashicorp Terraform ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "98a45b27a149283f2761"
   },
   {
     "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T11:44:20+00:00",
-  "run_id": "2026-08-24T11:44:20+00:00",
+  "generated_at": "2026-08-24T11:56:02+00:00",
+  "run_id": "2026-08-24T11:56:02+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 2,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
-    "medium": 24,
+    "medium": 26,
     "observe": 31,
     "source_errors": 0
   },
@@ -51,6 +51,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "14ab9a2d5288c8e784f9"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (NetworkManager): Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2977",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-24T11:41:05+00:00",
+        "fetched_at": "2026-08-24T11:55:31+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (NetworkManager) ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1c035353bd9bb68edfa3"
       },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
@@ -373,6 +397,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1559442c48af0d18d10d"
+      },
+      {
+        "title": "[NEU] [mittel] Hashicorp Terraform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2978",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-24T11:46:05+00:00",
+        "fetched_at": "2026-08-24T11:55:31+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Hashicorp Terraform ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98a45b27a149283f2761"
       },
       {
         "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
@@ -1430,6 +1477,30 @@
       "id": "14ab9a2d5288c8e784f9"
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (NetworkManager): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2977",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-24T11:41:05+00:00",
+      "fetched_at": "2026-08-24T11:55:31+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (NetworkManager) ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1c035353bd9bb68edfa3"
+    },
+    {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1750,6 +1821,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1559442c48af0d18d10d"
+    },
+    {
+      "title": "[NEU] [mittel] Hashicorp Terraform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2978",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-24T11:46:05+00:00",
+      "fetched_at": "2026-08-24T11:55:31+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Hashicorp Terraform ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98a45b27a149283f2761"
     },
     {
       "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
@@ -2781,13 +2875,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Red Hat Enterprise Linux (assertj): Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2972",
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (NetworkManager): Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2977",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-24T11:26:05+00:00",
-      "fetched_at": "2026-08-24T11:43:49+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (assertj) ausnutzen, um Informationen offenzulegen, und um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-08-24T11:41:05+00:00",
+      "fetched_at": "2026-08-24T11:55:31+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux (NetworkManager) ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2802,16 +2896,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ae4706c93051d3ad3cac"
+      "id": "1c035353bd9bb68edfa3"
     },
     {
-      "title": "[NEU] [mittel] GNU Emacs: Schwachstelle ermöglicht Offenlegung von Informationen und DoS",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2976",
+      "title": "[NEU] [mittel] Hashicorp Terraform: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen und Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2978",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-24T11:36:05+00:00",
-      "fetched_at": "2026-08-24T11:43:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um Informationen offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-08-24T11:46:05+00:00",
+      "fetched_at": "2026-08-24T11:55:31+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Hashicorp Terraform ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2825,76 +2919,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d3d4dc6b337fd166c0be"
-    },
-    {
-      "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2975",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-24T11:36:05+00:00",
-      "fetched_at": "2026-08-24T11:43:49+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7362a7cc569a91bedad2"
-    },
-    {
-      "title": "[NEU] [hoch] Rapid7 Velociraptor: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2974",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-24T11:31:05+00:00",
-      "fetched_at": "2026-08-24T11:43:49+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Rapid7 Velociraptor ausnutzen, um Dateien zu manipulieren, Sicherheitsmaßnahmen zu umgehen, Code auszuführen oder Berechtigungen zu erweitern.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0a56818fd9e56bd959c3"
-    },
-    {
-      "title": "[NEU] [mittel] git: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2973",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-24T11:31:05+00:00",
-      "fetched_at": "2026-08-24T11:43:49+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in git ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "79ae874cc8dc5d768e23"
+      "id": "98a45b27a149283f2761"
     }
   ],
   "source_errors": [],
