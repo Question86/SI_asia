@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T01:12:43+00:00_
+_Generiert: 2026-08-24T01:51:49+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 11 km N of Bowangshan, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+7 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,7 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **The rise of climate tech and sustainability startups in Southeast Asia** — Score 20, risk — [Quelle](https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-24T01:45:52+00:00`, fetched `2026-08-24T01:51:16+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Southeast Asia, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures are creating one of the region’s most important business opportunities. Across Southeast Asia, a new generation of climate technology […] The post The rise of cli…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -104,10 +112,37 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the easiest ways to misunderstand strategy is to imagine that switching costs are simply a defensive moat. They are not. Switching costs are better understood as borrowed power. They give a company time, tolerance, and revenue continuity that pure product preference alone may not provide. They can come from contracts, implementation effort, data […] The post Competing on switching costs without becoming hosta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Here’s why a global company cannot be a copy-and-paste company** — Score 7, observation — [Quelle](https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-24T01:30:25+00:00`, fetched `2026-08-24T01:51:16+00:00`
+  - Treffer: APAC Trend Radar, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website. Announce the expansion. Start selling. Today, that same decision begins with a very different set of questions. Where will the company’s data sit? Which technology providers […] The post Here’s why a global company cannot be a copy-and-past…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **SEA has the ideas; it needs the follow-through** — Score 6, observation — [Quelle](https://e27.co/sea-has-the-ideas-it-needs-the-follow-through-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-24T01:15:46+00:00`, fetched `2026-08-24T01:51:16+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
+  - Kurz: We want more startups. More research. More patents. More home-grown companies that sell to the world. We want to be the place where the next useful thing is built, not just where it is assembled, shipped, or supported. That ambition is right. But it can distract us from a simpler problem. Southeast Asia does not […] The post SEA has the ideas; it needs the follow-through appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **税理士事務所に1ヶ月住み込んで、会計AIを作ってきた話｜佐次本脩真 | Zeimee** — Score 5, observation — [Quelle](https://note.com/shuma_sajimoto/n/n3824385dbdf2)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-23T22:49:55+00:00`, fetched `2026-08-24T01:51:16+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: こんにちは！「Zeimee」という税理士事務所向けのAI記帳サービスを作っている、佐次本（さじもと）といいます。 タイトルの通りなんですが、7月から広島県の税理士事務所に住み込んで開発をしています。この記事を書いている時点で、ちょうど1ヶ月ほどです。広島県に拠点があり、顧問先は2,000件を超える、けっこう大き...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
