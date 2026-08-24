@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:36:38+00:00",
-  "run_id": "2026-08-24T03:36:38+00:00",
+  "generated_at": "2026-08-24T03:59:15+00:00",
+  "run_id": "2026-08-24T03:59:15+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -987,52 +987,7 @@
       "id": "85f3c30a1f42f6ebcb90"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T02:49:00+00:00",
-      "fetched_at": "2026-08-24T03:36:07+00:00",
-      "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "84dc527e8ad9eec9d50a"
-    },
-    {
-      "title": "「日本のテレビドラマは薄っぺらい」と嘆く人たちに見て欲しい2020年代の連ドラ20本｜てれびのスキマ",
-      "url": "https://note.com/u5u/n/nd24ab042eac8",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-23T13:52:08+00:00",
-      "fetched_at": "2026-08-24T03:36:07+00:00",
-      "summary": "【※ご注意】 8月16日の朝以降、Twitterのアカウント（@u5u）に不正アクセスのためログインすることができなくなっています。 当該アカウントから不審なDM等ありましたら、申し訳ありませんが無視してください。 現在は緊急避難用のアカウント（@u5u119）を更新しておりますので、そちらをフォローしていただけるとありが...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85f3c30a1f42f6ebcb90"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
