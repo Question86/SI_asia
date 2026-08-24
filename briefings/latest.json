@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T06:22:55+00:00",
-  "run_id": "2026-08-24T06:22:55+00:00",
+  "generated_at": "2026-08-24T06:40:59+00:00",
+  "run_id": "2026-08-24T06:40:59+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
-    "medium": 7,
-    "observe": 21,
+    "medium": 8,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -192,6 +192,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1559442c48af0d18d10d"
+      },
+      {
+        "title": "Why Indonesia’s agritech winners will be phygital, not purely digital",
+        "url": "https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-24T06:23:35+00:00",
+        "fetched_at": "2026-08-24T06:40:28+00:00",
+        "summary": "For a few years, Indonesian agritech was sold a seductive story: that enough venture capital could compress years of supply-chain building into a few funding cycles. Startups raised money to digitise farmers, connect harvests to buyers, extend credit, sell inputs and organise fragmented rural markets at speed. The pitch was familiar across Southeast Asia’s boom […] The post Why Indonesia’s agritech winners will be p…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "b262bc6e68682364151f"
       },
       {
         "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
@@ -604,6 +648,27 @@
         "id": "af0438c8aa3db4a4baa5"
       },
       {
+        "title": "こんな増田にマジになっちゃってどうするの",
+        "url": "https://anond.hatelabo.jp/20260824115156",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-24T03:15:37+00:00",
+        "fetched_at": "2026-08-24T06:40:28+00:00",
+        "summary": "はい、釣り宣言です。 「死ぬまでに観るべき映画」を語り合いたい気持ちは本気だった。 でも、ただのおすすめ記事じゃ誰も見向きもしない。 だから意図的にツッコミどころを残し、傲慢で鼻につく書き方で燃料を投下した。 タネを明かすと、元ネタはこれ。 --- はてな匿名ダイアリーに投稿するための、記事タイトルと本文...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e29986026ecf3eb4986c"
+      },
+      {
         "title": "“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する",
         "url": "https://news.denfaminicogamer.jp/news/260824f",
         "source": "Hatena Bookmark Hotentry IT",
@@ -893,6 +958,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "1559442c48af0d18d10d"
+    },
+    {
+      "title": "Why Indonesia’s agritech winners will be phygital, not purely digital",
+      "url": "https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-24T06:23:35+00:00",
+      "fetched_at": "2026-08-24T06:40:28+00:00",
+      "summary": "For a few years, Indonesian agritech was sold a seductive story: that enough venture capital could compress years of supply-chain building into a few funding cycles. Startups raised money to digitise farmers, connect harvests to buyers, extend credit, sell inputs and organise fragmented rural markets at speed. The pitch was familiar across Southeast Asia’s boom […] The post Why Indonesia’s agritech winners will be p…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "b262bc6e68682364151f"
     },
     {
       "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
@@ -1303,6 +1412,27 @@
       "id": "af0438c8aa3db4a4baa5"
     },
     {
+      "title": "こんな増田にマジになっちゃってどうするの",
+      "url": "https://anond.hatelabo.jp/20260824115156",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T03:15:37+00:00",
+      "fetched_at": "2026-08-24T06:40:28+00:00",
+      "summary": "はい、釣り宣言です。 「死ぬまでに観るべき映画」を語り合いたい気持ちは本気だった。 でも、ただのおすすめ記事じゃ誰も見向きもしない。 だから意図的にツッコミどころを残し、傲慢で鼻につく書き方で燃料を投下した。 タネを明かすと、元ネタはこれ。 --- はてな匿名ダイアリーに投稿するための、記事タイトルと本文...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e29986026ecf3eb4986c"
+    },
+    {
       "title": "“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する",
       "url": "https://news.denfaminicogamer.jp/news/260824f",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1429,63 +1559,69 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Why Indonesia’s agritech winners will be phygital, not purely digital",
+      "url": "https://e27.co/why-indonesias-agritech-winners-will-be-phygital-not-purely-digital-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-24T06:06:06+00:00",
-      "fetched_at": "2026-08-24T06:22:23+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.",
+      "published_at": "2026-08-24T06:23:35+00:00",
+      "fetched_at": "2026-08-24T06:40:28+00:00",
+      "summary": "For a few years, Indonesian agritech was sold a seductive story: that enough venture capital could compress years of supply-chain building into a few funding cycles. Startups raised money to digitise farmers, connect harvests to buyers, extend credit, sell inputs and organise fragmented rural markets at speed. The pitch was familiar across Southeast Asia’s boom […] The post Why Indonesia’s agritech winners will be p…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
       ],
       "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "b262bc6e68682364151f"
+    },
+    {
+      "title": "こんな増田にマジになっちゃってどうするの",
+      "url": "https://anond.hatelabo.jp/20260824115156",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T03:15:37+00:00",
+      "fetched_at": "2026-08-24T06:40:28+00:00",
+      "summary": "はい、釣り宣言です。 「死ぬまでに観るべき映画」を語り合いたい気持ちは本気だった。 でも、ただのおすすめ記事じゃ誰も見向きもしない。 だから意図的にツッコミどころを残し、傲慢で鼻につく書き方で燃料を投下した。 タネを明かすと、元ネタはこれ。 --- はてな匿名ダイアリーに投稿するための、記事タイトルと本文...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ca891793cab4a9b761ed"
-    },
-    {
-      "title": "M 4.5 - 104 km WNW of Houma, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-24T06:08:51.040+00:00",
-      "fetched_at": "2026-08-24T06:22:23+00:00",
-      "summary": "Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "0a7f772616a8c49f212e"
+      "id": "e29986026ecf3eb4986c"
     }
   ],
   "source_errors": [],
