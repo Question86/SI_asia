@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T02:23:10+00:00_
+_Generiert: 2026-08-24T02:49:43+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+11 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Where AI money is made, and where SEA founders should actually compete** — Score 10, observation — [Quelle](https://e27.co/where-ai-money-is-made-and-where-sea-founders-should-actually-compete-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-24T02:30:53+00:00`, fetched `2026-08-24T02:49:13+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
+  - Kurz: Over the past two years, the companies assembling AI servers and renting out GPUs grew revenue between 106 and 346 per cent year on year. Those are numbers most founders would kill for. Here is what they kept: Dell runs at roughly 11 per cent operating margin on that business, Supermicro at around 8 per […] The post Where AI money is made, and where SEA founders should actually compete appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Competing on switching costs without becoming hostage to them** — Score 10, observation — [Quelle](https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-24T01:00:26+00:00`, fetched `2026-08-24T01:12:13+00:00`
@@ -51,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
   - Kurz: One of the easiest ways to misunderstand strategy is to imagine that switching costs are simply a defensive moat. They are not. Switching costs are better understood as borrowed power. They give a company time, tolerance, and revenue continuity that pure product preference alone may not provide. They can come from contracts, implementation effort, data […] The post Competing on switching costs without becoming hosta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **freestylefly/awesome-gpt-image-2** — Score 9, observation — [Quelle](https://github.com/freestylefly/awesome-gpt-image-2)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-24T02:49:13+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote awesome, template (x0.45)
+  - Kurz: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 https://gpt-image2.canghe.ai Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates English | 简体中文 | 日本語 Updated irregularly with new workflows. Stars are welcome. This project is sponsored by Ciyuan API , an AI aggregation platform for cost-effective GPT Image 2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How AI helps sales teams stop losing context between calls and follow-ups** — Score 8, observation — [Quelle](https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-24T02:00:15+00:00`, fetched `2026-08-24T02:22:36+00:00`
@@ -59,15 +77,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s head, a CRM field, or a half-written document that nobody cleans up properly. […] The post How AI helps sales teams stop losing context between calls and follo…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Here’s why a global company cannot be a copy-and-paste company** — Score 7, observation — [Quelle](https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-24T01:30:25+00:00`, fetched `2026-08-24T01:51:16+00:00`
-  - Treffer: APAC Trend Radar, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website. Announce the expansion. Start selling. Today, that same decision begins with a very different set of questions. Where will the company’s data sit? Which technology providers […] The post Here’s why a global company cannot be a copy-and-past…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた** — Score 5, observation — [Quelle](https://togetter.com/li/2736773)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

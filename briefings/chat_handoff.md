@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T02:23:10+00:00_
+_Generated: 2026-08-24T02:49:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `11`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-08-24T02:23:10+00:00_
 - url: https://36kr.jp/500515/
 - summary: 世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世...
 
-### 4. Competing on switching costs without becoming hostage to them
+### 4. Where AI money is made, and where SEA founders should actually compete
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-24T02:30:53+00:00`
+- url: https://e27.co/where-ai-money-is-made-and-where-sea-founders-should-actually-compete-20260821/
+- summary: Over the past two years, the companies assembling AI servers and renting out GPUs grew revenue between 106 and 346 per cent year on year. Those are numbers most founders would kill for. Here is what they kept: Dell runs at roughly 11 per cent operating margin…
+
+### 5. Competing on switching costs without becoming hostage to them
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-24T01:00:26+00:00`
 - url: https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/
 - summary: One of the easiest ways to misunderstand strategy is to imagine that switching costs are simply a defensive moat. They are not. Switching costs are better understood as borrowed power. They give a company time, tolerance, and revenue continuity that pure prod…
-
-### 5. How AI helps sales teams stop losing context between calls and follow-ups
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-24T02:00:15+00:00`
-- url: https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/
-- summary: A sales lead rarely arrives in a perfectly organised format. A prospect may send a long email with their problem, budget, timeline, and objections scattered across several paragraphs. A sales call may produce useful notes, but those notes may sit in someone’s…
 
 END OF DOCUMENT
