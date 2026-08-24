@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T18:12:43+00:00_
+_Generiert: 2026-08-24T18:43:39+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+72 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-24`
+  - Kurz: Known exploited vulnerability. Added 2026-08-24. Due 2026-08-27. Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability
 - **CISA KEV: CVE-2026-73570 Synacor Zimbra Collaboration Suite (ZCS)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-21`
@@ -25,10 +29,6 @@ _Generiert: 2026-08-24T18:12:43+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-19`
   - Kurz: Known exploited vulnerability. Added 2026-08-19. Due 2026-09-02. MLflow Server-Side Request Forgery Vulnerability
-- **CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-18`
-  - Kurz: Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561143)
   - Quelle: GDACS
   - Zeit: ``
@@ -323,7 +323,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)

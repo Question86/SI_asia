@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-24T18:12:46+00:00",
+  "generated_at": "2026-08-24T18:43:44+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+        "summary": "Known exploited vulnerability. Added 2026-08-24. Due 2026-08-27. Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-24",
+        "metrics": {
+          "cve": "CVE-2026-21962"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-08-19",
         "metrics": {
           "cve": "CVE-2026-64849"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions",
-        "summary": "Known exploited vulnerability. Added 2026-08-18. Due 2026-08-21. Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-18",
-        "metrics": {
-          "cve": "CVE-2026-33824"
         }
       },
       {
