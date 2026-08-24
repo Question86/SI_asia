@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T03:59:15+00:00_
+_Generated: 2026-08-24T04:20:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-24T03:59:15+00:00_
 - url: https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/
 - summary: Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures ar…
 
-### 2. M 4.7 - 71 km N of Ruteng, Indonesia
+### 2. M 4.8 - 27 km WSW of Sarangani, Philippines
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-24T04:12:23.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25
+- summary: Time 2026-08-24 03:59:33 UTC 2026-08-24 03:59:33 UTC at epicenter Location 5.331°N 125.229°E Depth 68.26 km (42.42 mi)
+
+### 3. M 4.7 - 71 km N of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-24T03:01:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v
 - summary: Time 2026-08-24 02:19:39 UTC 2026-08-24 02:19:39 UTC at epicenter Location 7.964°S 120.468°E Depth 10.00 km (6.21 mi)
 
-### 3. Hepta Platforms｜Heptabase - Stored Cross-Site Scripting
+### 4. Hepta Platforms｜Heptabase - Stored Cross-Site Scripting
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `15`
 - published: `2026-08-24T02:49:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html
 - summary: Hepta Platforms｜Heptabase - Stored Cross-Site Scripting
-
-### 4. サクラエディタにおけるOSコマンドインジェクションの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-24T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN74538868/
-- summary: サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。
 
 ### 5. Expanding into China? Move in phases, says KPMG’s Leo Yang
 - source: e27 Asia Startup and Tech Feed
