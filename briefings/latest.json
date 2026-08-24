@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T10:55:26+00:00",
-  "run_id": "2026-08-24T10:55:26+00:00",
+  "generated_at": "2026-08-24T11:06:38+00:00",
+  "run_id": "2026-08-24T11:06:38+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 0,
@@ -2313,132 +2313,7 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [
-    {
-      "title": "美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11119-25dfc-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T02:06:00+00:00",
-      "fetched_at": "2026-08-24T10:54:53+00:00",
-      "summary": "美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "19b0a5d236f63d815c82"
-    },
-    {
-      "title": "美麗島安全科技｜4MOSAn GCB Doctor - OS Command Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11118-dfee4-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T01:59:00+00:00",
-      "fetched_at": "2026-08-24T10:54:53+00:00",
-      "summary": "美麗島安全科技｜4MOSAn GCB Doctor - OS Command Injection",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a63a88245e6a7046a75d"
-    },
-    {
-      "title": "網韻資訊｜NewSiteServer (NSS) 新式校園網站系統 - Missing Authentication",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11117-4f503-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T01:57:00+00:00",
-      "fetched_at": "2026-08-24T10:54:53+00:00",
-      "summary": "網韻資訊｜NewSiteServer (NSS) 新式校園網站系統 - Missing Authentication",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "da4d6110677936d0b5ff"
-    },
-    {
-      "title": "網韻資訊｜NewSiteServer (NSS)新式校園網站系統 - Arbitrary File Upload",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11116-2c1d8-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T01:52:00+00:00",
-      "fetched_at": "2026-08-24T10:54:53+00:00",
-      "summary": "網韻資訊｜NewSiteServer (NSS)新式校園網站系統 - Arbitrary File Upload",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4fbc068e8b24fabaa4b6"
-    },
-    {
-      "title": "M 4.9 - 218 km ENE of Neiafu, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn37",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-24T10:46:12.040+00:00",
-      "fetched_at": "2026-08-24T10:54:53+00:00",
-      "summary": "Time 2026-08-24 10:19:43 UTC 2026-08-24 10:19:43 UTC at epicenter Location 18.101°S 171.998°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "9f678885b85315a5198d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T10:55:26+00:00_
+_Generiert: 2026-08-24T11:06:38+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-08-24T10:55:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.
-- **USGS earthquake M5.5 - 207 km SSE of Amahai, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33)
-  - Quelle: USGS
-  - Zeit: `2026-08-24T10:02:58+00:00`
-  - Kurz: M5.5 - 207 km SSE of Amahai, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
