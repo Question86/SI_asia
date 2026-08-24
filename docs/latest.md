@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T00:44:30+00:00_
+_Generiert: 2026-08-24T01:12:43+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 11 km N of Bowangshan, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+3 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 11 km N of Bowangshan, China“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 ## Priorität Hoch
 
@@ -33,6 +33,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Competing on switching costs without becoming hostage to them** — Score 10, observation — [Quelle](https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-24T01:00:26+00:00`, fetched `2026-08-24T01:12:13+00:00`
+  - Treffer: APAC Trend Radar, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
+  - Kurz: One of the easiest ways to misunderstand strategy is to imagine that switching costs are simply a defensive moat. They are not. Switching costs are better understood as borrowed power. They give a company time, tolerance, and revenue continuity that pure product preference alone may not provide. They can come from contracts, implementation effort, data […] The post Competing on switching costs without becoming hosta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
