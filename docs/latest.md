@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T15:59:53+00:00_
+_Generiert: 2026-08-24T16:15:30+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+71 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -258,7 +258,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `github_trending_all_daily` (rss): 503 Server Error: backend read error for url: https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml
