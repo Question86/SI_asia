@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T05:30:40+00:00_
+_Generiert: 2026-08-24T06:03:27+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+26 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,6 +201,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote awesome, template (x0.45)
   - Kurz: Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 https://gpt-image2.canghe.ai Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates English | 简体中文 | 日本語 Updated irregularly with new workflows. Stars are welcome. This project is sponsored by Ciyuan API , an AI aggregation platform for cost-effective GPT Image 2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Piero Cipollone: Interview with ilsussidiario.net** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-08-24T06:00:00+00:00`, fetched `2026-08-24T06:02:56+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: Interview with ilsussidiario.net
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **組織体制概要図および担務群体制図を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-24T06:00:00+00:00`, fetched `2026-08-24T06:02:56+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 組織体制概要図および担務群体制図を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する** — Score 5, observation — [Quelle](https://news.denfaminicogamer.jp/news/260824f)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
