@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T06:03:27+00:00_
+_Generiert: 2026-08-24T06:22:55+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+28 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -127,6 +127,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-24T06:06:06+00:00`, fetched `2026-08-24T06:22:23+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -184,6 +193,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: Over the past two years, the companies assembling AI servers and renting out GPUs grew revenue between 106 and 346 per cent year on year. Those are numbers most founders would kill for. Here is what they kept: Dell runs at roughly 11 per cent operating margin on that business, Supermicro at around 8 per […] The post Where AI money is made, and where SEA founders should actually compete appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 104 km WNW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-24T06:08:51.040+00:00`, fetched `2026-08-24T06:22:23+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - southern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-24T03:11:06.040+00:00`, fetched `2026-08-24T03:14:05+00:00`
@@ -242,6 +260,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

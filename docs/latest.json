@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T06:03:27+00:00",
-  "run_id": "2026-08-24T06:03:27+00:00",
+  "generated_at": "2026-08-24T06:22:55+00:00",
+  "run_id": "2026-08-24T06:22:55+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 6,
-    "observe": 20,
+    "medium": 7,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -192,6 +192,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1559442c48af0d18d10d"
+      },
+      {
+        "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-24T06:06:06+00:00",
+        "fetched_at": "2026-08-24T06:22:23+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca891793cab4a9b761ed"
       }
     ],
     "observe": [
@@ -380,6 +403,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5386e6e99dfe325c10f2"
+      },
+      {
+        "title": "M 4.5 - 104 km WNW of Houma, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-24T06:08:51.040+00:00",
+        "fetched_at": "2026-08-24T06:22:23+00:00",
+        "summary": "Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "0a7f772616a8c49f212e"
       },
       {
         "title": "M 4.9 - southern Mid-Atlantic Ridge",
@@ -836,6 +895,29 @@
       "id": "1559442c48af0d18d10d"
     },
     {
+      "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-24T06:06:06+00:00",
+      "fetched_at": "2026-08-24T06:22:23+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca891793cab4a9b761ed"
+    },
+    {
       "title": "SKYSEA Client Viewにおける複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN84326763/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1020,6 +1102,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5386e6e99dfe325c10f2"
+    },
+    {
+      "title": "M 4.5 - 104 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-24T06:08:51.040+00:00",
+      "fetched_at": "2026-08-24T06:22:23+00:00",
+      "summary": "Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0a7f772616a8c49f212e"
     },
     {
       "title": "M 4.9 - southern Mid-Atlantic Ridge",
@@ -1311,44 +1429,63 @@
   ],
   "new_findings": [
     {
-      "title": "Piero Cipollone: Interview with ilsussidiario.net",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-24T06:00:00+00:00",
-      "fetched_at": "2026-08-24T06:02:56+00:00",
-      "summary": "Piero Cipollone: Interview with ilsussidiario.net",
+      "published_at": "2026-08-24T06:06:06+00:00",
+      "fetched_at": "2026-08-24T06:22:23+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Drupal ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen.",
       "matched_keywords": [
-        "Macro/Policy"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "753981517b68c4d346d1"
+      "id": "ca891793cab4a9b761ed"
     },
     {
-      "title": "組織体制概要図および担務群体制図を更新しました",
-      "url": "https://www.digital.go.jp/about",
-      "source": "Japan Digital Agency News RSS",
+      "title": "M 4.5 - 104 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-24T06:00:00+00:00",
-      "fetched_at": "2026-08-24T06:02:56+00:00",
-      "summary": "組織体制概要図および担務群体制図を更新しました",
+      "published_at": "2026-08-24T06:08:51.040+00:00",
+      "fetched_at": "2026-08-24T06:22:23+00:00",
+      "summary": "Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dfe38026c76f6b3a26d2"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0a7f772616a8c49f212e"
     }
   ],
   "source_errors": [],
