@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-24T11:06:38+00:00",
+  "generated_at": "2026-08-24T11:17:23+00:00",
   "topics": {
     "ai": [
       {
@@ -77,6 +77,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] util-linux: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:11:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2121"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-24T10:11:06+00:00",
@@ -119,6 +126,13 @@
         "url": "https://jvn.jp/jp/JVN74538868/"
       },
       {
+        "title": "[NEU] [hoch] Notepad++: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2968"
+      },
+      {
         "title": "[UPDATE] [mittel] QEMU: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-24T10:11:10+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-08-24T10:02:10+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2181"
-      },
-      {
-        "title": "[UPDATE] [hoch] Drupal: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-24T06:06:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1938"
-      },
-      {
-        "title": "SKYSEA Client Viewにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-07-29T14:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN84326763/"
       }
     ],
     "geopolitics": [
@@ -154,6 +154,13 @@
         "published_at": "2026-08-24T10:02:07+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898"
+      },
+      {
+        "title": "[NEU] [hoch] Notepad++: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-24T11:11:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2968"
       },
       {
         "title": "The UAE is fighting AI hackers with AI of its own",

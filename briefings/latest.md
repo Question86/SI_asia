@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T11:06:38+00:00_
+_Generiert: 2026-08-24T11:17:23+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+47 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-08-24T11:06:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561010)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.
 
 ## Wirtschaft global
 
@@ -86,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures are creating one of the region’s most important business opportunities. Across Southeast Asia, a new generation of climate technology […] The post The rise of cli…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] util-linux: Schwachstelle ermöglicht Denial of Service und Offenlegung von Informationen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2121)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-24T11:11:08+00:00`, fetched `2026-08-24T11:16:51+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in util-linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0680)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-24T10:11:06+00:00`, fetched `2026-08-24T10:22:30+00:00`
@@ -103,15 +108,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere nicht näher spezifizierte Angriffe durchzuführen, möglicherweise um beliebigen Code auszuführen oder eine Speicherbeschädigung zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service und Privilegieneskalation** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-24T10:02:07+00:00`, fetched `2026-08-24T10:07:12+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen, um seine Privilegien zu erhöhen oder andere nicht spezifizierte Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.5 - 207 km SSE of Amahai, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
