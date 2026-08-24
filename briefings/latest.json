@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T21:58:58+00:00",
-  "run_id": "2026-08-24T21:58:58+00:00",
+  "generated_at": "2026-08-24T22:09:03+00:00",
+  "run_id": "2026-08-24T22:09:03+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 1,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 28,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1757,6 +1757,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a817da1811edc9a97b99"
+      },
+      {
+        "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
+        "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-24T09:25:51+00:00",
+        "fetched_at": "2026-08-24T22:08:22+00:00",
+        "summary": "消費者庁は8月24日、有識者会議「デジタル取引・特定商取引法等検討会」の第8回会合で、消費者の意思決定をゆがめる表示・UI、いわゆる「ダークパターン」への規律を盛り込んだ中間取りまとめ案を公表した。特定商取引法の改正を視野に入れる。 取りまとめ案では、「お試し」と表示しながら実際は定期購入が条件になって...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c4dc9f108476b996fd55"
       },
       {
         "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
@@ -3696,6 +3717,27 @@
       "id": "a817da1811edc9a97b99"
     },
     {
+      "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T09:25:51+00:00",
+      "fetched_at": "2026-08-24T22:08:22+00:00",
+      "summary": "消費者庁は8月24日、有識者会議「デジタル取引・特定商取引法等検討会」の第8回会合で、消費者の意思決定をゆがめる表示・UI、いわゆる「ダークパターン」への規律を盛り込んだ中間取りまとめ案を公表した。特定商取引法の改正を視野に入れる。 取りまとめ案では、「お試し」と表示しながら実際は定期購入が条件になって...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4dc9f108476b996fd55"
+    },
+    {
       "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
       "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3903,7 +3945,29 @@
       "id": "6eca0583e7b5ecdfaa1f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T09:25:51+00:00",
+      "fetched_at": "2026-08-24T22:08:22+00:00",
+      "summary": "消費者庁は8月24日、有識者会議「デジタル取引・特定商取引法等検討会」の第8回会合で、消費者の意思決定をゆがめる表示・UI、いわゆる「ダークパターン」への規律を盛り込んだ中間取りまとめ案を公表した。特定商取引法の改正を視野に入れる。 取りまとめ案では、「お試し」と表示しながら実際は定期購入が条件になって...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c4dc9f108476b996fd55"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
