@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T16:30:05+00:00",
-  "run_id": "2026-08-24T16:30:05+00:00",
+  "generated_at": "2026-08-24T16:49:11+00:00",
+  "run_id": "2026-08-24T16:49:11+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 1,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
     "medium": 28,
-    "observe": 43,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -1391,6 +1391,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "753981517b68c4d346d1"
+      },
+      {
+        "title": "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
+        "url": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-24T03:05:19+00:00",
+        "fetched_at": "2026-08-24T16:48:37+00:00",
+        "summary": "8月21日、Phoronixが「Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI」と題した記事を公開した。Linuxカーネルの生みの親であるLinus TorvaldsがAIを相棒にしながら、Intel XeグラフィックスドライバのバグをLinuxカーネルに自らパッチとして取り込んだ経緯を詳細に紹介している。 修正...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54706031fd22ff96a33c"
       },
       {
         "title": "How AI helps sales teams stop losing context between calls and follow-ups",
@@ -3181,6 +3203,28 @@
       "id": "753981517b68c4d346d1"
     },
     {
+      "title": "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
+      "url": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T03:05:19+00:00",
+      "fetched_at": "2026-08-24T16:48:37+00:00",
+      "summary": "8月21日、Phoronixが「Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI」と題した記事を公開した。Linuxカーネルの生みの親であるLinus TorvaldsがAIを相棒にしながら、Intel XeグラフィックスドライバのバグをLinuxカーネルに自らパッチとして取り込んだ経緯を詳細に紹介している。 修正...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54706031fd22ff96a33c"
+    },
+    {
       "title": "How AI helps sales teams stop losing context between calls and follow-ups",
       "url": "https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3605,7 +3649,30 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
+      "url": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T03:05:19+00:00",
+      "fetched_at": "2026-08-24T16:48:37+00:00",
+      "summary": "8月21日、Phoronixが「Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI」と題した記事を公開した。Linuxカーネルの生みの親であるLinus TorvaldsがAIを相棒にしながら、Intel XeグラフィックスドライバのバグをLinuxカーネルに自らパッチとして取り込んだ経緯を詳細に紹介している。 修正...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54706031fd22ff96a33c"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
