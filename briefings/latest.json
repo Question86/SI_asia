@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:16:40+00:00",
-  "run_id": "2026-08-24T20:16:40+00:00",
+  "generated_at": "2026-08-24T20:30:25+00:00",
+  "run_id": "2026-08-24T20:30:25+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3777,50 +3777,7 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-24T12:00:00+00:00",
-      "fetched_at": "2026-08-24T20:16:08+00:00",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d1981813626a8143151c"
-    },
-    {
-      "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-24T08:16:03+00:00",
-      "fetched_at": "2026-08-24T20:16:08+00:00",
-      "summary": "米Metaの「Muse Glimmer」、米NVIDIAの「Nemotron 3.5 Lightning」、中国Alibaba Cloudの「Qwen3.8-27B」──8月10日からの9日間で、海外大手3社がパラメータ数30B（300億）クラスのオープンウェイトモデルを相次ぎ公開した。18日には国立情報学研究所（NII）も約332億パラメータの「LLM-jp-4 33B」を投入し「国産モデル」...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0a51b4c886c44b00c16c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
