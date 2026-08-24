@@ -1,28 +1,52 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-24T03:06:02Z",
+  "generated_at": "2026-08-24T03:33:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 21,
     "bands": {
-      "strong": 2,
-      "watch": 2,
-      "quiet": 11
+      "strong": 4,
+      "watch": 3,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 2,
-      "quiet": 11
+      "strong": 4,
+      "watch": 3,
+      "quiet": 14
     }
   },
   "top_dynamics": [
+    {
+      "title": "サクラエディタにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/jp/JVN74538868/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-24T12:00:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。"
+    },
     {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 66.05,
+      "age_days": 66.07,
       "topics": [
         "ai"
       ],
@@ -41,7 +65,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 66.0d old signal",
+        "aging penalty -8.0 for 66.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -51,7 +75,7 @@
       "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:45:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -76,11 +100,36 @@
       "summary": "Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures are creating one of the region’s most important business oppor…"
     },
     {
+      "title": "M 4.7 - 71 km N of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-24T03:01:59.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-24 02:19:39 UTC 2026-08-24 02:19:39 UTC at epicenter Location 7.964°S 120.468°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 11 km N of Bowangshan, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T00:41:15.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -101,11 +150,36 @@
       "summary": "Time 2026-08-24 00:26:26 UTC 2026-08-24 00:26:26 UTC at epicenter Location 28.414°N 105.034°E Depth 42.47 km (26.39 mi)"
     },
     {
+      "title": "M 4.9 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-24T03:11:06.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-24 02:45:08 UTC 2026-08-24 02:45:08 UTC at epicenter Location 12.636°S 14.921°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
       "url": "https://36kr.jp/500515/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T22:09:22+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -125,11 +199,35 @@
       "summary": "世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から3倍以上急増した。うち中国メーカーが世..."
     },
     {
+      "title": "Expanding into China? Move in phases, says KPMG’s Leo Yang",
+      "url": "https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-24T03:06:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury structures with little real activity behind it? Leo Yang, P…"
+    },
+    {
       "title": "Competing on switching costs without becoming hostage to them",
       "url": "https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:00:26+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -153,7 +251,7 @@
       "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:30:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -177,7 +275,7 @@
       "url": "https://e27.co/where-ai-money-is-made-and-where-sea-founders-should-actually-compete-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T02:30:53+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -203,7 +301,7 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-24T02:49:13+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -229,7 +327,7 @@
       "url": "https://e27.co/sea-has-the-ideas-it-needs-the-follow-through-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:15:46+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -249,11 +347,35 @@
       "summary": "We want more startups. More research. More patents. More home-grown companies that sell to the world. We want to be the place where the next useful thing is built, not just where it is assembled, shipped, or supported. That ambition is right. But it can distract us from a simpler problem. Southeast Asia does not […] T…"
     },
     {
+      "title": "“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する",
+      "url": "https://news.denfaminicogamer.jp/news/260824f",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-24T01:20:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "SteamにてSQLで事件の真相に迫るゲーム『Ghost in the SQL Data』のストアページが公開されている。日本語にも対応予定のタイトルだ。 本作において、事件の捜査はデータベースを操作するためのプログラミング言語「SQL」を操ることで行う。検索機能や銀行の明細、表計算ソフトなど、日常的に触れる仕組みの裏側で使われ..."
+    },
+    {
       "title": "会社の飲み会で行った店がスマホ注文するタイプだったが、電波がなく誰も注文できないので店員を呼んでドリンクを頼んでいたらキレ気味に「スマホ注文してください」と言われた",
       "url": "https://togetter.com/li/2736773",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T23:03:13+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -273,11 +395,36 @@
       "summary": "ʏᴀᴍᴀʙᴜᴋɪ @0111uni こないだ会社の飲み会で行った店がスマホ注文タイプだったんだけど、そこのテナント電波なくて誰も注文できなくて店員呼んでドリンクとか頼んでたらキレ気味に「スマホ注文してください」って言われて「電波がなくて注文ができないので」と伝えたら明らかに 2026-08-23 23:11:22 ʏᴀᴍᴀʙᴜᴋɪ @0111uni バ..."
     },
     {
+      "title": "Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system",
+      "url": "https://e27.co/singapores-biggest-startup-opportunity-isnt-ai-its-building-aseans-operating-system-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-24T03:00:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "“Complacency is our greatest threat.” That was Defense Minister Chan Chun Sing’s warning during Singapore’s National Day Rally season. Around the same time, Acting Manpower Minister Jeffrey Siow argued that younger Singaporeans will change jobs more often than previous generations and that lifelong retraining will bec…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 65.01,
+      "age_days": 65.03,
       "topics": [
         "general"
       ],
@@ -302,7 +449,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 65.01,
+      "age_days": 65.03,
       "topics": [
         "general"
       ],
@@ -327,7 +474,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 65.01,
+      "age_days": 65.03,
       "topics": [
         "ai"
       ],
@@ -354,7 +501,7 @@
       "url": "https://e27.co/how-ai-helps-sales-teams-stop-losing-context-between-calls-and-follow-ups-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T02:00:15+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -379,7 +526,7 @@
       "url": "https://note.com/shuma_sajimoto/n/n3824385dbdf2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T22:49:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -400,5 +547,5 @@
       "summary": "こんにちは！「Zeimee」という税理士事務所向けのAI記帳サービスを作っている、佐次本（さじもと）といいます。 タイトルの通りなんですが、7月から広島県の税理士事務所に住み込んで開発をしています。この記事を書いている時点で、ちょうど1ヶ月ほどです。広島県に拠点があり、顧問先は2,000件を超える、けっこう大き..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “サクラエディタにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
