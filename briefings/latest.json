@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T12:33:48+00:00",
-  "run_id": "2026-08-24T12:33:48+00:00",
+  "generated_at": "2026-08-24T12:55:54+00:00",
+  "run_id": "2026-08-24T12:55:54+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 3,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 0,
     "medium": 26,
-    "observe": 35,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -1014,6 +1014,42 @@
         "id": "5386e6e99dfe325c10f2"
       },
       {
+        "title": "M 5.0 - southern Mid-Atlantic Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn3t",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-24T12:48:44.040+00:00",
+        "fetched_at": "2026-08-24T12:55:21+00:00",
+        "summary": "Time 2026-08-24 12:29:31 UTC 2026-08-24 12:29:31 UTC at epicenter Location 17.704°S 13.837°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7f82c7561ab39572bc5d"
+      },
+      {
         "title": "M 4.9 - 218 km ENE of Neiafu, Tonga",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn37",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1315,6 +1351,26 @@
         "id": "37a61a3b449412a8713e"
       },
       {
+        "title": "Notepad++ v8.9.8 stopft 14 Sicherheitslücken",
+        "url": "https://www.heise.de/news/Notepad-v8-9-8-stopft-14-Sicherheitsluecken-11423868.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-24T12:34:00.000+00:00",
+        "fetched_at": "2026-08-24T12:55:21+00:00",
+        "summary": "Am Sonntag hat Don Ho Version 8.9.8 des beliebten Editors Notepad++ herausgegeben. Sie schließt etwa Codeschmuggellücken.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6f39b5e47553ec370844"
+      },
+      {
         "title": "Southeast Asia’s EV startups draw US$622M as clean mobility shifts from pitch to pilot",
         "url": "https://e27.co/southeast-asias-ev-startups-draw-us622m-as-clean-mobility-shifts-from-pitch-to-pilot-20260824/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1396,6 +1452,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "af0438c8aa3db4a4baa5"
+      },
+      {
+        "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
+        "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-24T06:36:56+00:00",
+        "fetched_at": "2026-08-24T12:55:21+00:00",
+        "summary": "1秒単位で世界の標準時を調整する「うるう秒」を事実上廃止する案について、10月13～15日にフランスで開催する国際度量衡総会（CGPM）で審議する。国際度量衡局（BIPM）の決議案では、採択されれば2027年5月20日から、うるう秒による調整を行わない「連続的な協定世界時（continuous UTC）」に移行する。 うるう秒は、原...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d753eb4146d57fbaf929"
       },
       {
         "title": "こんな増田にマジになっちゃってどうするの",
@@ -2528,6 +2605,42 @@
       "id": "5386e6e99dfe325c10f2"
     },
     {
+      "title": "M 5.0 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn3t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-24T12:48:44.040+00:00",
+      "fetched_at": "2026-08-24T12:55:21+00:00",
+      "summary": "Time 2026-08-24 12:29:31 UTC 2026-08-24 12:29:31 UTC at epicenter Location 17.704°S 13.837°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7f82c7561ab39572bc5d"
+    },
+    {
       "title": "M 4.9 - 218 km ENE of Neiafu, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2829,6 +2942,26 @@
       "id": "37a61a3b449412a8713e"
     },
     {
+      "title": "Notepad++ v8.9.8 stopft 14 Sicherheitslücken",
+      "url": "https://www.heise.de/news/Notepad-v8-9-8-stopft-14-Sicherheitsluecken-11423868.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-24T12:34:00.000+00:00",
+      "fetched_at": "2026-08-24T12:55:21+00:00",
+      "summary": "Am Sonntag hat Don Ho Version 8.9.8 des beliebten Editors Notepad++ herausgegeben. Sie schließt etwa Codeschmuggellücken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6f39b5e47553ec370844"
+    },
+    {
       "title": "Southeast Asia’s EV startups draw US$622M as clean mobility shifts from pitch to pilot",
       "url": "https://e27.co/southeast-asias-ev-startups-draw-us622m-as-clean-mobility-shifts-from-pitch-to-pilot-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2910,6 +3043,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "af0438c8aa3db4a4baa5"
+    },
+    {
+      "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T06:36:56+00:00",
+      "fetched_at": "2026-08-24T12:55:21+00:00",
+      "summary": "1秒単位で世界の標準時を調整する「うるう秒」を事実上廃止する案について、10月13～15日にフランスで開催する国際度量衡総会（CGPM）で審議する。国際度量衡局（BIPM）の決議案では、採択されれば2027年5月20日から、うるう秒による調整を行わない「連続的な協定世界時（continuous UTC）」に移行する。 うるう秒は、原...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d753eb4146d57fbaf929"
     },
     {
       "title": "こんな増田にマジになっちゃってどうするの",
@@ -3057,7 +3211,85 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.0 - southern Mid-Atlantic Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn3t",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-24T12:48:44.040+00:00",
+      "fetched_at": "2026-08-24T12:55:21+00:00",
+      "summary": "Time 2026-08-24 12:29:31 UTC 2026-08-24 12:29:31 UTC at epicenter Location 17.704°S 13.837°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7f82c7561ab39572bc5d"
+    },
+    {
+      "title": "Notepad++ v8.9.8 stopft 14 Sicherheitslücken",
+      "url": "https://www.heise.de/news/Notepad-v8-9-8-stopft-14-Sicherheitsluecken-11423868.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-24T12:34:00.000+00:00",
+      "fetched_at": "2026-08-24T12:55:21+00:00",
+      "summary": "Am Sonntag hat Don Ho Version 8.9.8 des beliebten Editors Notepad++ herausgegeben. Sie schließt etwa Codeschmuggellücken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6f39b5e47553ec370844"
+    },
+    {
+      "title": "「うるう秒」27年に事実上廃止へ 自転とのずれ「1時間」まで容認 10月に国際会議で採決",
+      "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000718/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T06:36:56+00:00",
+      "fetched_at": "2026-08-24T12:55:21+00:00",
+      "summary": "1秒単位で世界の標準時を調整する「うるう秒」を事実上廃止する案について、10月13～15日にフランスで開催する国際度量衡総会（CGPM）で審議する。国際度量衡局（BIPM）の決議案では、採択されれば2027年5月20日から、うるう秒による調整を行わない「連続的な協定世界時（continuous UTC）」に移行する。 うるう秒は、原...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d753eb4146d57fbaf929"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
