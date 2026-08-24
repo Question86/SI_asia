@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:54:40+00:00",
+  "generated_at": "2026-08-24T15:11:23+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,17 +75,12 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "USGS earthquake M6.0 - 215 km NNE of Lospalos, Timor Leste",
-        "summary": "M6.0 - 215 km NNE of Lospalos, Timor Leste. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41",
-        "published_at": "2026-08-24T14:10:17+00:00",
-        "metrics": {
-          "mag": 6.0,
-          "alert": "green",
-          "sig": 554.0,
-          "tsunami": 0
-        }
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561542",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
