@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-24T03:33:39Z",
+  "generated_at": "2026-08-24T04:01:57Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “サクラエディタにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN74538868/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T12:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -35,11 +35,36 @@
       "summary": "サクラエディタ開発コミュニティが提供するサクラエディタには、OSコマンドインジェクションの脆弱性が存在します。"
     },
     {
+      "title": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-08-24T02:49:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Hepta Platforms｜Heptabase - Stored Cross-Site Scripting"
+    },
+    {
       "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 66.07,
+      "age_days": 66.09,
       "topics": [
         "ai"
       ],
@@ -68,7 +93,7 @@
       "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:45:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -97,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:01:59.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -122,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T00:41:15.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -147,7 +172,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:11:06.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -172,7 +197,7 @@
       "url": "https://36kr.jp/500515/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T22:09:22+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -196,7 +221,7 @@
       "url": "https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T03:06:54+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -220,7 +245,7 @@
       "url": "https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:00:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -244,7 +269,7 @@
       "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:30:25+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -268,7 +293,7 @@
       "url": "https://e27.co/where-ai-money-is-made-and-where-sea-founders-should-actually-compete-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T02:30:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -288,32 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Over the past two years, the companies assembling AI servers and renting out GPUs grew revenue between 106 and 346 per cent year on year. Those are numbers most founders would kill for. Here is what they kept: Dell runs at roughly 11 per cent operating margin on that business, Supermicro at around 8 per […] The post W…"
-    },
-    {
-      "title": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-24T02:49:13+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 https://gpt-image2.canghe.ai Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates English | 简体中文 | 日本語 Updated irregularly with new workflows. Stars are welcome.…"
     }
   ],
   "read_order": [
@@ -325,9 +324,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
+      "strong": 5,
       "watch": 3,
-      "quiet": 5
+      "quiet": 4
     }
   }
 }
