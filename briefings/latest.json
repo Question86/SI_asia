@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T10:23:04+00:00",
-  "run_id": "2026-08-24T10:23:04+00:00",
+  "generated_at": "2026-08-24T10:39:19+00:00",
+  "run_id": "2026-08-24T10:39:19+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -2065,113 +2065,7 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0680",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-24T10:11:06+00:00",
-      "fetched_at": "2026-08-24T10:22:30+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "70eb9382021db4f1a848"
-    },
-    {
-      "title": "M 5.5 - 207 km SSE of Amahai, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-24T10:22:19.040+00:00",
-      "fetched_at": "2026-08-24T10:22:30+00:00",
-      "summary": "Time 2026-08-24 10:02:58 UTC 2026-08-24 10:02:58 UTC at epicenter Location 5.053°S 129.687°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "0dfacf8838069b5d36b6"
-    },
-    {
-      "title": "[UPDATE] [mittel] QEMU: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1908",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-24T10:11:10+00:00",
-      "fetched_at": "2026-08-24T10:22:30+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in QEMU ausnutzen, um einen Denial-of-Service Zustand herbeizuführen und möglicherweise um beliebigen Code auf dem Host auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8b384e7e4f5f79589fcd"
-    },
-    {
-      "title": "Zahlreiche Sicherheitslücken bedrohen VMware-Tanzu-Spring-Software",
-      "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-VMware-Tanzu-Spring-Software-11423459.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-24T10:14:00.000+00:00",
-      "fetched_at": "2026-08-24T10:22:30+00:00",
-      "summary": "Angreifer können Systeme mit unter anderem VMware Tanzu Spring AI, Integration oder Security attackieren. Sicherheitspatches sind verfügbar.",
-      "matched_keywords": [
-        "AI/KI",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d5145b4df9241d675a5f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

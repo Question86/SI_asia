@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T10:23:04+00:00_
+_Generiert: 2026-08-24T10:39:19+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-08-24T10:23:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561504)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.
 - **GDACS: Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001309)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +61,10 @@ _Generiert: 2026-08-24T10:23:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Indonesia 21/08/2026 17:41 UTC, 420 thousand in MMI III.
+- **USGS earthquake M5.5 - 207 km SSE of Amahai, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn33)
+  - Quelle: USGS
+  - Zeit: `2026-08-24T10:02:58+00:00`
+  - Kurz: M5.5 - 207 km SSE of Amahai, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
