@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-24T10:39:19+00:00_
+_Generiert: 2026-08-24T10:55:26+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
+45 neue relevante Treffer. Stärkstes Signal: „The rise of climate tech and sustainability startups in Southeast Asia“ aus e27 Asia Startup and Tech Feed (Score 20, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury structures with little real activity behind it? Leo Yang, Partner (Singapore and China […] The post Expanding into China? Move in phases, says KPMG’s Leo Yang…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11119-25dfc-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-24T02:06:00+00:00`, fetched `2026-08-24T10:54:53+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **美麗島安全科技｜4MOSAn GCB Doctor - OS Command Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11118-dfee4-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-24T01:59:00+00:00`, fetched `2026-08-24T10:54:53+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 美麗島安全科技｜4MOSAn GCB Doctor - OS Command Injection
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **網韻資訊｜NewSiteServer (NSS) 新式校園網站系統 - Missing Authentication** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11117-4f503-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-24T01:57:00+00:00`, fetched `2026-08-24T10:54:53+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 網韻資訊｜NewSiteServer (NSS) 新式校園網站系統 - Missing Authentication
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 11 km N of Bowangshan, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-24T00:41:15.040+00:00`, fetched `2026-08-24T00:44:03+00:00`
@@ -186,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: Over the past two years, the companies assembling AI servers and renting out GPUs grew revenue between 106 and 346 per cent year on year. Those are numbers most founders would kill for. Here is what they kept: Dell runs at roughly 11 per cent operating margin on that business, Supermicro at around 8 per […] The post Where AI money is made, and where SEA founders should actually compete appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 218 km ENE of Neiafu, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn37)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-24T10:46:12.040+00:00`, fetched `2026-08-24T10:54:53+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-24 10:19:43 UTC 2026-08-24 10:19:43 UTC at epicenter Location 18.101°S 171.998°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 10 km NNW of Cot, Costa Rica** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2j)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-24T08:28:21.720+00:00`, fetched `2026-08-24T08:29:27+00:00`
@@ -194,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - VII Time 2026-08-24 07:37:17 UTC 2026-08-24 07:37:17 UTC at epicenter Location 9.985°N 83.913°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 104 km WNW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn2d)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-24T06:08:51.040+00:00`, fetched `2026-08-24T06:22:23+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-24 05:40:47 UTC 2026-08-24 05:40:47 UTC at epicenter Location 20.987°S 176.289°W Depth 209.20 km (129.99 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **freestylefly/awesome-gpt-image-2** — Score 9, observation — [Quelle](https://github.com/freestylefly/awesome-gpt-image-2)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
@@ -221,33 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Piero Cipollone: Interview with ilsussidiario.net
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **組織体制概要図および担務群体制図を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/about)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-24T06:00:00+00:00`, fetched `2026-08-24T06:02:56+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 組織体制概要図および担務群体制図を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **こんな増田にマジになっちゃってどうするの** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260824115156)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-24T03:15:37+00:00`, fetched `2026-08-24T06:40:28+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はい、釣り宣言です。 「死ぬまでに観るべき映画」を語り合いたい気持ちは本気だった。 でも、ただのおすすめ記事じゃ誰も見向きもしない。 だから意図的にツッコミどころを残し、傲慢で鼻につく書き方で燃料を投下した。 タネを明かすと、元ネタはこれ。 --- はてな匿名ダイアリーに投稿するための、記事タイトルと本文...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **“SQL”で事件の真相に迫るミステリーゲーム『Ghost in the SQL Data』が面白そう。データベースを操作するプログラミング言語を操り、事件の証拠を特定する** — Score 5, observation — [Quelle](https://news.denfaminicogamer.jp/news/260824f)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-24T01:20:59+00:00`, fetched `2026-08-24T03:14:05+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: SteamにてSQLで事件の真相に迫るゲーム『Ghost in the SQL Data』のストアページが公開されている。日本語にも対応予定のタイトルだ。 本作において、事件の捜査はデータベースを操作するためのプログラミング言語「SQL」を操ることで行う。検索機能や銀行の明細、表計算ソフトなど、日常的に触れる仕組みの裏側で使われ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

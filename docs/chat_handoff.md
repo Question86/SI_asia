@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T10:39:19+00:00_
+_Generated: 2026-08-24T10:55:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `45`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-24T10:39:19+00:00_
 - url: https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/
 - summary: Singapore’s status as a magnet for Chinese capital has generated plenty of headlines, but the numbers alone don’t tell the full story. How much of that inflow reflects genuine operational expansion and how much is simply capital parked in holding and treasury…
 
-### 8. M 4.9 - 11 km N of Bowangshan, China
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. 美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read
+- source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
-- published: `2026-08-24T00:41:15.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h
-- summary: Time 2026-08-24 00:26:26 UTC 2026-08-24 00:26:26 UTC at epicenter Location 28.414°N 105.034°E Depth 42.47 km (26.39 mi)
+- published: `2026-08-24T02:06:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11119-25dfc-1.html
+- summary: 美麗島安全科技｜4MOSAn 管理中心 - Arbitrary File Read
 
 END OF DOCUMENT
