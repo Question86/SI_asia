@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-24T04:01:57Z",
+  "generated_at": "2026-08-24T04:28:57Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “サクラエディタにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN74538868/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-24T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11125-9d359-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-24T02:49:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 66.09,
+      "age_days": 66.1,
       "topics": [
         "ai"
       ],
@@ -93,7 +93,7 @@
       "url": "https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:45:52+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -122,7 +122,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:01:59.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -147,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T00:41:15.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -168,11 +168,35 @@
       "summary": "Time 2026-08-24 00:26:26 UTC 2026-08-24 00:26:26 UTC at epicenter Location 28.414°N 105.034°E Depth 42.47 km (26.39 mi)"
     },
     {
+      "title": "M 4.8 - 27 km WSW of Sarangani, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-24T04:12:23.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-24 03:59:33 UTC 2026-08-24 03:59:33 UTC at epicenter Location 5.331°N 125.229°E Depth 68.26 km (42.42 mi)"
+    },
+    {
       "title": "M 4.9 - southern Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn1z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-24T03:11:06.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -197,7 +221,7 @@
       "url": "https://36kr.jp/500515/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-23T22:09:22+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -221,7 +245,7 @@
       "url": "https://e27.co/expanding-into-china-move-in-phases-says-kpmgs-leo-yang-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T03:06:54+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -245,7 +269,7 @@
       "url": "https://e27.co/competing-on-switching-costs-without-becoming-hostage-to-them-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:00:26+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "macro"
       ],
@@ -269,7 +293,7 @@
       "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-24T01:30:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -287,32 +311,6 @@
         "early terms: local"
       ],
       "summary": "A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website. Announce the expansion. Start selling. Today, that same decision begins with a very different set of questions. Where will the company’s dat…"
-    },
-    {
-      "title": "Where AI money is made, and where SEA founders should actually compete",
-      "url": "https://e27.co/where-ai-money-is-made-and-where-sea-founders-should-actually-compete-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-24T02:30:53+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Over the past two years, the companies assembling AI servers and renting out GPUs grew revenue between 106 and 346 per cent year on year. Those are numbers most founders would kill for. Here is what they kept: Dell runs at roughly 11 per cent operating margin on that business, Supermicro at around 8 per […] The post W…"
     }
   ],
   "read_order": [
@@ -325,8 +323,8 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 3,
-      "quiet": 4
+      "watch": 4,
+      "quiet": 3
     }
   }
 }
