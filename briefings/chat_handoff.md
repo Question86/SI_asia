@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T10:07:44+00:00_
+_Generated: 2026-08-24T10:23:04+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `40`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-24T10:07:44+00:00_
 - url: https://e27.co/the-rise-of-climate-tech-and-sustainability-startups-in-southeast-asia-20260821/
 - summary: Southeast Asia is on the front line of climate change. Rising sea levels threaten coastal communities, extreme heat affects workers and agriculture, and increasingly unpredictable storms disrupt cities, businesses, and supply chains. Yet the same pressures ar…
 
-### 2. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 2. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-24T10:11:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0680
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.
+
+### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-24T10:02:09+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2170
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen und andere nicht näher spezifizierte Angriffe durchzuführen, möglicherweise um beliebigen Code auszuführen oder eine Speicherbeschädigung zu…
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service und Privilegieneskalation
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service und Privilegieneskalation
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-24T10:02:07+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1898
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen, um seine Privilegien zu erhöhen oder andere nicht spezifizierte Angriffe durchzuführen.
-
-### 4. M 4.8 - 27 km WSW of Sarangani, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-24T04:12:23.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn25
-- summary: Time 2026-08-24 03:59:33 UTC 2026-08-24 03:59:33 UTC at epicenter Location 5.331°N 125.229°E Depth 68.26 km (42.42 mi)
 
 ### 5. SKYSEA Client Viewにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
