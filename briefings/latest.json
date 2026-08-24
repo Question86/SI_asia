@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T04:37:17+00:00",
-  "run_id": "2026-08-24T04:37:17+00:00",
+  "generated_at": "2026-08-24T04:57:19+00:00",
+  "run_id": "2026-08-24T04:57:19+00:00",
   "date": "2026-08-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1141,28 +1141,7 @@
       "id": "5d09e8a3d2640a567028"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Chocolate Finance targets idle SME cash with new business account",
-      "url": "https://e27.co/chocolate-finance-targets-idle-sme-cash-with-new-business-account-20260824/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-24T04:35:54+00:00",
-      "fetched_at": "2026-08-24T04:36:47+00:00",
-      "summary": "For many small businesses, idle cash is a quiet drag on the balance sheet. Money set aside for payroll, rent, suppliers or tax often sits in a corporate bank account earning little, because owners cannot afford to lock it away for months in search of a better return. Chocolate Finance is now trying to turn […] The post Chocolate Finance targets idle SME cash with new business account appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a6d7ec4d53a0416a1f4f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
