@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-24T19:02:05+00:00_
+_Generated: 2026-08-24T19:17:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `73`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-24T19:02:05+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260074.en.html
 - summary: Announcing 20260074 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 8. M 6.0 - 215 km NNE of Lospalos, Timor Leste
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-24T14:32:51.801+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn41
-- summary: ShakeMap - IV Time 2026-08-24 14:10:17 UTC 2026-08-24 14:10:17 UTC at epicenter Location 6.626°S 127.460°E Depth 10.00 km (6.21 mi)
+### 8. 【全文無料公開】「できるChatGPT」や動画生成AIの入門書など30冊が全文無料公開、1週間限定／「世界一やさしいCanva」「できる はじめてのマインクラフト建築」なども【Book Watch/ニュース】
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-08-24T03:21:39+00:00`
+- url: https://forest.watch.impress.co.jp/docs/bookwatch/news/2134897.html
+- summary: 【全文無料公開】「できるChatGPT」や動画生成AIの入門書など30冊が全文無料公開、1週間限定／「世界一やさしいCanva」「できる はじめてのマインクラフト建築」なども【Book Watch/ニュース】
 
 END OF DOCUMENT
