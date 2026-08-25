@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T02:44:26+00:00_
+_Generiert: 2026-08-25T03:08:52+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Why Granite Asia’s US$500M credit strategy matters for SEA firms“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+23 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **multica-ai/andrej-karpathy-skills** — Score 20, observation — [Quelle](https://github.com/multica-ai/andrej-karpathy-skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-25T03:08:16+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
+  - Kurz: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuan_jy A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's obse…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Alishahryar1/free-claude-code** — Score 19, observation — [Quelle](https://github.com/Alishahryar1/free-claude-code)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-25T03:08:16+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. What You Get 50 ToS-friendly providers. 1.3B+ free tokens every month. Use…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **NousResearch/hermes-agent** — Score 18, observation — [Quelle](https://github.com/NousResearch/hermes-agent)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-25T03:08:16+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
+  - Kurz: The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Granite Asia’s US$500M credit strategy matters for SEA firms** — Score 16, observation — [Quelle](https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-25T01:48:37+00:00`, fetched `2026-08-25T01:50:23+00:00`
@@ -86,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-25 00:05:24 UTC 2026-08-25 00:05:24 UTC at epicenter Location 8.424°S 120.217°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Apache Struts 2におけるリソース枯渇の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN08517956/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-25T12:00:00+09:00`, fetched `2026-08-25T03:08:16+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: The Apache Software Foundationが提供するApache Struts 2には、リソース枯渇の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96980428/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -144,6 +180,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2025年、ソフトウェア開発におけるAI技術の浸透は目覚ましい発展を遂げました。多くの企業でコード生成・レビュー・テスト・設計補助などが日常レベルで活用され始めました。 2026年も半ばに差し掛かった現在、各社が直面しているのは「AI導入が浸透した」その先。“組織自体をどう再設計するか” という、まだ誰も答えを...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Why so many startups are cutting down on the number of tools they use** — Score 8, observation — [Quelle](https://e27.co/why-so-many-startups-are-cutting-down-on-the-number-of-tools-they-use-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-25T03:00:28+00:00`, fetched `2026-08-25T03:08:16+00:00`
+  - Treffer: APAC Trend Radar, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: 63 per cent of organisations point to too many unused or underused SaaS apps, along with license or budget pressure, as what’s driving them to consolidate. Most startups don’t plan their tool stack. It just happens to them. A new tool for every task, every team, every problem. It feels like progress at first. More […] The post Why so many startups are cutting down on the number of tools they use appeared first on e2…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored** — Score 8, observation — [Quelle](https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-25T02:00:52+00:00`, fetched `2026-08-25T02:19:58+00:00`
@@ -152,15 +197,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three months actually were, because the mistake I made is […] The post 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Gen Z and the rise of AI-powered travel** — Score 8, observation — [Quelle](https://e27.co/gen-z-and-the-rise-of-ai-powered-travel-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-25T01:30:35+00:00`, fetched `2026-08-25T01:50:23+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI is increasingly becoming a trusted companion for Gen Z as they plan, explore, and enrich their travel experiences. The shift reflects a broader transformation in how younger generations live, interact with technology, and navigate the world. According to a McKinsey study, generative AI has the potential to unlock US$2 trillion to US$4 trillion in […] The post Gen Z and the rise of AI-powered travel appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ** — Score 7, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
