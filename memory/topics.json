@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T11:48:18+00:00",
+  "generated_at": "2026-08-25T11:59:14+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995"
       },
       {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (Apicurio Registry): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:56:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3000"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T09:36:09+00:00",
@@ -156,6 +163,27 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
+        "title": "[NEU] [mittel] Django: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3001"
+      },
+      {
+        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2999"
+      },
+      {
+        "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:51:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2998"
+      },
+      {
         "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T11:16:06+00:00",
@@ -168,34 +196,6 @@
         "published_at": "2026-08-25T11:01:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2996"
-      },
-      {
-        "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T10:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994"
-      },
-      {
-        "title": "[NEU] [mittel] Hashicorp Vault: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2993"
-      },
-      {
-        "title": "[NEU] [mittel] DrayTek Vigor Switches: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2991"
-      },
-      {
-        "title": "[NEU] [hoch] SEPPmail Secure E-Mail Gateway: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2992"
       }
     ],
     "security": [
@@ -212,6 +212,13 @@
         "published_at": "2026-08-25T10:21:05+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (Apicurio Registry): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:56:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3000"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
@@ -242,32 +249,25 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
-        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "title": "[NEU] [mittel] Django: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T11:16:06+00:00",
+        "published_at": "2026-08-25T11:56:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2985"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3001"
       },
       {
-        "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T11:01:05+00:00",
+        "published_at": "2026-08-25T11:56:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2996"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2999"
       },
       {
-        "title": "[UPDATE] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T10:31:05+00:00",
+        "published_at": "2026-08-25T11:51:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0860"
-      },
-      {
-        "title": "[UPDATE] [mittel] GStreamer: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T10:26:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2259"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2998"
       }
     ],
     "economy": [
