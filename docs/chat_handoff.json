@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-25T09:17:53+00:00",
+  "generated_at": "2026-08-25T09:32:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 4,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 14,
-    "observe": 28
+    "medium": 17,
+    "observe": 29
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “The Philippines doesn’t need more fintech apps; needs rails” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=32.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "The Philippines doesn’t need more fintech apps; needs rails",
-        "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-25T01:45:49+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, rce",
-          "security high-signal: active, rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "The first wave of the Philippine digital economy was easy to see, because everyone lived inside it. Lazada and Shopee made online shopping a daily habit. By 2021, the country’s e-commerce market had grown to US$17 billion in sales, with 73 million active online users. Angkas and Grab turned “how do I get there” into […"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T06:16:06+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, auth",
-          "security high-signal: kritisch, auth"
-        ],
-        "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T05:11:05+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen, einen Denial-of-Service-Zustand auszulösen oder vertrauliche Informationen offenzulegen."
-      },
-      {
-        "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
-        "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-25T01:51:00+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: remote, code, execution",
-          "security high-signal: remote, code, execution"
-        ],
-        "summary": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution"
-      },
-      {
-        "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU95422936/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-25T14:00:00+09:00",
-        "age_days": 0.18,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "古野電気株式会社が提供する簡易型船舶自動識別装置（AIS）FA-50には、ハードコードされた認証情報使用および認証欠如の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }

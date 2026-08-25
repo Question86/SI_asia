@@ -134,6 +134,30 @@
     "id": "f609f7235b695ff479be"
   },
   {
+    "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0809",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T09:31:36+00:00",
+    "fetched_at": "2026-08-25T09:32:06+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einem Denial-of-Service-Zustand, zur Manipulation und Offenlegung von Daten oder zu einer Speicherbeschädigung führen können.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "769c2770d0d05ddcf91e"
+  },
+  {
     "title": "SEA’s stablecoin boom has a dollarisation problem nobody’s pricing in",
     "url": "https://e27.co/seas-stablecoin-boom-has-a-dollarisation-problem-nobodys-pricing-in-20260825/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -199,6 +223,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5da619b6ce6b605c1708"
+  },
+  {
+    "title": "M 5.0 - 31 km S of Nemuro, Japan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-25T09:27:27.040+00:00",
+    "fetched_at": "2026-08-25T09:32:06+00:00",
+    "summary": "Time 2026-08-25 09:07:20 UTC 2026-08-25 09:07:20 UTC at epicenter Location 43.045°N 145.634°E Depth 96.86 km (60.18 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6f98691b26f515f80ff1"
   },
   {
     "title": "M 4.6 - 218 km NNW of Manado, Indonesia",
@@ -339,6 +400,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "321f96ff72c93a029063"
+  },
+  {
+    "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T09:31:39+00:00",
+    "fetched_at": "2026-08-25T09:32:06+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in CPython ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cbf950d0092d4b5e8edc"
   },
   {
     "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
@@ -708,6 +792,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "23735285a28f3eb723d8"
+  },
+  {
+    "title": "TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
+    "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-25T09:15:00.000+00:00",
+    "fetched_at": "2026-08-25T09:32:06+00:00",
+    "summary": "Es sind wichtige Sicherheitsupdates verschiedene Router aus TP-Links Business-Netzwerkplattform Omada erschienen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4d315a973d99e2c1cf3f"
   },
   {
     "title": "Zugriffsverwaltung Keycloak: Kontoübernahme durch Passwort-Rücksetzfunktion",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T09:17:53+00:00",
+  "generated_at": "2026-08-25T09:32:38+00:00",
   "topics": {
     "ai": [
       {
@@ -142,6 +142,78 @@
         "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html"
       }
     ],
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:31:36+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0809"
+      },
+      {
+        "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-25T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95422936/"
+      },
+      {
+        "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-25T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN08517956/"
+      },
+      {
+        "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-25T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96980428/"
+      },
+      {
+        "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:31:39+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T06:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162"
+      },
+      {
+        "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T05:21:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915"
+      },
+      {
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T05:11:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522"
+      },
+      {
+        "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-08-25T01:51:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html"
+      },
+      {
+        "title": "TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-25T09:15:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html"
+      }
+    ],
     "economy": [
       {
         "title": "SEA’s stablecoin boom has a dollarisation problem nobody’s pricing in",
@@ -194,6 +266,13 @@
       }
     ],
     "general": [
+      {
+        "title": "M 5.0 - 31 km S of Nemuro, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-25T09:27:27.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv"
+      },
       {
         "title": "M 4.6 - 218 km NNW of Manado, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -256,78 +335,6 @@
         "published_at": "2026-08-25T03:34:23+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/speech/minister-260825-01"
-      },
-      {
-        "title": "2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-08-25T02:00:27+00:00",
-        "relevance_score": 6,
-        "url": "https://services.digital.go.jp/mynaapp/news/20260825-01/"
-      }
-    ],
-    "security": [
-      {
-        "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-25T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95422936/"
-      },
-      {
-        "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-25T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN08517956/"
-      },
-      {
-        "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-25T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96980428/"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T06:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162"
-      },
-      {
-        "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T05:21:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915"
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T05:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522"
-      },
-      {
-        "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-25T01:51:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html"
-      },
-      {
-        "title": "Zugriffsverwaltung Keycloak: Kontoübernahme durch Passwort-Rücksetzfunktion",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-25T08:39:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html"
-      },
-      {
-        "title": "Attacken auf Oracle Weblogic und HTTP-Server beobachtet",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-25T06:11:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html"
       }
     ]
   }
