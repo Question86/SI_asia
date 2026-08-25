@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T02:20:33+00:00_
+_Generiert: 2026-08-25T02:44:26+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Why Granite Asia’s US$500M credit strategy matters for SEA firms“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Why Granite Asia’s US$500M credit strategy matters for SEA firms“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -99,6 +99,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-08-25T01:51:00+00:00`, fetched `2026-08-25T02:43:49+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **When work gives you oranges: What Malaysian employees really want from technology** — Score 9, observation — [Quelle](https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-25T02:30:51+00:00`, fetched `2026-08-25T02:43:49+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent reporting significant time savings and 76 per cent citing improved work productivity. […] The post When work gives you oranges: What Malaysian employees really wan…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 74 km SSE of Panguna, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-25T01:42:09.040+00:00`, fetched `2026-08-25T01:50:23+00:00`
@@ -143,15 +161,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: AI is increasingly becoming a trusted companion for Gen Z as they plan, explore, and enrich their travel experiences. The shift reflects a broader transformation in how younger generations live, interact with technology, and navigate the world. According to a McKinsey study, generative AI has the potential to unlock US$2 trillion to US$4 trillion in […] The post Gen Z and the rise of AI-powered travel appeared first…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The true cost of AI is beginning to surface** — Score 8, observation — [Quelle](https://e27.co/the-true-cost-of-ai-is-beginning-to-surface-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-25T01:00:39+00:00`, fetched `2026-08-25T01:14:03+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The cost of AI is not only hidden in data centres. It is hidden in the systems we are learning to depend on. Artificial intelligence still feels cheap. A manager pays for a monthly subscription. A developer opens a coding assistant. A student asks a chatbot to summarise a report. The interaction is instant, polished […] The post The true cost of AI is beginning to surface appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ** — Score 7, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

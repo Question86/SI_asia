@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T02:20:33+00:00_
+_Generated: 2026-08-25T02:44:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `18`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-08-25T02:20:33+00:00_
 - url: https://jvn.jp/vu/JVNVU96980428/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 4. M 4.5 - 74 km SSE of Panguna, Papua New Guinea
+### 4. 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-08-25T01:51:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html
+- summary: 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
+
+### 5. When work gives you oranges: What Malaysian employees really want from technology
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-08-25T02:30:51+00:00`
+- url: https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/
+- summary: Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent rep…
+
+### 6. M 4.5 - 74 km SSE of Panguna, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-25T01:42:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa
 - summary: Time 2026-08-25 01:22:25 UTC 2026-08-25 01:22:25 UTC at epicenter Location 6.973°S 155.641°E Depth 109.32 km (67.93 mi)
 
-### 5. M 4.9 - 4 km NNE of Jalālābād, Afghanistan
+### 7. M 4.9 - 4 km NNE of Jalālābād, Afghanistan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-25T01:32:31.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tna9
 - summary: Time 2026-08-25 01:18:46 UTC 2026-08-25 01:18:46 UTC at epicenter Location 34.462°N 70.463°E Depth 10.00 km (6.21 mi)
-
-### 6. AI×開発組織Summit 2026｜2026年10月16日(金) 汐留開催
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-08-25T01:07:04+00:00`
-- url: https://ai-dev-org-summit.findy-tools.io/2026
-- summary: 2025年、ソフトウェア開発におけるAI技術の浸透は目覚ましい発展を遂げました。多くの企業でコード生成・レビュー・テスト・設計補助などが日常レベルで活用され始めました。 2026年も半ばに差し掛かった現在、各社が直面しているのは「AI導入が浸透した」その先。“組織自体をどう再設計するか” という、まだ誰も答えを...
-
-### 7. 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-25T02:00:52+00:00`
-- url: https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/
-- summary: On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three month…
 
 END OF DOCUMENT

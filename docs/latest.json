@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T02:20:33+00:00",
-  "run_id": "2026-08-25T02:20:33+00:00",
+  "generated_at": "2026-08-25T02:44:26+00:00",
+  "run_id": "2026-08-25T02:44:26+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 2,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 3,
-    "observe": 13,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -112,6 +112,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-25T01:51:00+00:00",
+        "fetched_at": "2026-08-25T02:43:49+00:00",
+        "summary": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "19f5ac408c9ef5ff1359"
+      },
+      {
+        "title": "When work gives you oranges: What Malaysian employees really want from technology",
+        "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-25T02:30:51+00:00",
+        "fetched_at": "2026-08-25T02:43:49+00:00",
+        "summary": "Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent reporting significant time savings and 76 per cent citing improved work productivity. […] The post When work gives you oranges: What Malaysian employees really wan…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd18d776c8925cc0d468"
+      },
       {
         "title": "M 4.5 - 74 km SSE of Panguna, Papua New Guinea",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa",
@@ -498,6 +541,49 @@
       "id": "321f96ff72c93a029063"
     },
     {
+      "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-25T01:51:00+00:00",
+      "fetched_at": "2026-08-25T02:43:49+00:00",
+      "summary": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19f5ac408c9ef5ff1359"
+    },
+    {
+      "title": "When work gives you oranges: What Malaysian employees really want from technology",
+      "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-25T02:30:51+00:00",
+      "fetched_at": "2026-08-25T02:43:49+00:00",
+      "summary": "Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent reporting significant time savings and 76 per cent citing improved work productivity. […] The post When work gives you oranges: What Malaysian employees really wan…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd18d776c8925cc0d468"
+    },
+    {
       "title": "M 4.5 - 74 km SSE of Panguna, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -801,65 +887,47 @@
   ],
   "new_findings": [
     {
-      "title": "3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored",
-      "url": "https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/",
+      "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-25T01:51:00+00:00",
+      "fetched_at": "2026-08-25T02:43:49+00:00",
+      "summary": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "19f5ac408c9ef5ff1359"
+    },
+    {
+      "title": "When work gives you oranges: What Malaysian employees really want from technology",
+      "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-25T02:00:52+00:00",
-      "fetched_at": "2026-08-25T02:19:58+00:00",
-      "summary": "On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three months actually were, because the mistake I made is […] The post 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored appeared first on e27 .",
+      "published_at": "2026-08-25T02:30:51+00:00",
+      "fetched_at": "2026-08-25T02:43:49+00:00",
+      "summary": "Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent reporting significant time savings and 76 per cent citing improved work productivity. […] The post When work gives you oranges: What Malaysian employees really wan…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Webentwicklung"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0997d21e83498a430b39"
-    },
-    {
-      "title": "2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）",
-      "url": "https://services.digital.go.jp/mynaapp/news/20260825-01/",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-25T02:00:27+00:00",
-      "fetched_at": "2026-08-25T02:19:58+00:00",
-      "summary": "2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）",
-      "matched_keywords": [
+        "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "df30ca8674ae79391807"
-    },
-    {
-      "title": "パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）",
-      "url": "https://services.digital.go.jp/mynaportal/news/b999adbeb6af46df700c1/",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-25T01:59:08+00:00",
-      "fetched_at": "2026-08-25T02:19:58+00:00",
-      "summary": "パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "842b9db36128f805ca81"
+      "id": "fd18d776c8925cc0d468"
     }
   ],
   "source_errors": [],
