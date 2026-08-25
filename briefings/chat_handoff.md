@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T03:29:18+00:00_
+_Generated: 2026-08-25T03:49:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `27`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-25T03:29:18+00:00_
 - url: https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html
 - summary: 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
 
-### 7. When work gives you oranges: What Malaysian employees really want from technology
+### 7. M 4.7 - 219 km NNE of Lospalos, Timor Leste
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-25T03:39:55.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal
+- summary: Time 2026-08-25 03:06:19 UTC 2026-08-25 03:06:19 UTC at epicenter Location 6.615°S 127.559°E Depth 10.17 km (6.32 mi)
+
+### 8. When work gives you oranges: What Malaysian employees really want from technology
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-08-25T02:30:51+00:00`
 - url: https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/
 - summary: Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent rep…
-
-### 8. M 4.5 - 74 km SSE of Panguna, Papua New Guinea
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-25T01:42:09.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa
-- summary: Time 2026-08-25 01:22:25 UTC 2026-08-25 01:22:25 UTC at epicenter Location 6.973°S 155.641°E Depth 109.32 km (67.93 mi)
 
 END OF DOCUMENT
