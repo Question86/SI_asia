@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T06:54:21+00:00_
+_Generiert: 2026-08-25T07:14:37+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+36 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Granite Asia has exceeded the US$500 million target for Libra Hybrid, its pan-Asia private credit strategy, in a sign that institutional investors are still looking for ways to back Asian growth companies even as equity funding remains selective. The Singapore-headquartered investment firm said the latest commitments came from a leading insurer, DBS Private Bank and […] The post Why Granite Asia’s US$500M credit str…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.6 - 218 km NNW of Manado, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbk)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-25T07:03:32.040+00:00`, fetched `2026-08-25T07:14:09+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-25 06:48:20 UTC 2026-08-25 06:48:20 UTC at epicenter Location 3.418°N 124.453°E Depth 322.86 km (200.62 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 34 km NW of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn9w)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-25T00:23:24.040+00:00`, fetched `2026-08-25T00:25:39+00:00`
