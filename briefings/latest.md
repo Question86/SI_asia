@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T04:55:34+00:00_
+_Generiert: 2026-08-25T05:09:12+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+29 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-25 00:05:24 UTC 2026-08-25 00:05:24 UTC at epicenter Location 8.424°S 120.217°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95422936/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-08-25T14:00:00+09:00`, fetched `2026-08-25T05:08:34+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 古野電気株式会社が提供する簡易型船舶自動識別装置（AIS）FA-50には、ハードコードされた認証情報使用および認証欠如の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apache Struts 2におけるリソース枯渇の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN08517956/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

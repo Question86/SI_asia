@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T04:55:34+00:00",
+  "generated_at": "2026-08-25T05:09:12+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-08-25T01:48:37+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/"
+      },
+      {
+        "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-25T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95422936/"
       },
       {
         "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-25T01:00:39+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/the-true-cost-of-ai-is-beginning-to-surface-20260821/"
-      },
-      {
-        "title": "The Philippines doesn’t need more fintech apps; needs rails",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-25T01:45:49+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/"
       }
     ],
     "github": [
@@ -238,6 +238,13 @@
       }
     ],
     "security": [
+      {
+        "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-25T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95422936/"
+      },
       {
         "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
         "source": "JVN Japan Vulnerability Notes",

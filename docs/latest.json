@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T04:55:34+00:00",
-  "run_id": "2026-08-25T04:55:34+00:00",
+  "generated_at": "2026-08-25T05:09:12+00:00",
+  "run_id": "2026-08-25T05:09:12+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
-    "medium": 7,
+    "medium": 8,
     "observe": 21,
     "source_errors": 0
   },
@@ -182,6 +182,28 @@
           "LOW"
         ],
         "id": "a183126e3e3f0a943554"
+      },
+      {
+        "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU95422936/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-25T14:00:00+09:00",
+        "fetched_at": "2026-08-25T05:08:34+00:00",
+        "summary": "古野電気株式会社が提供する簡易型船舶自動識別装置（AIS）FA-50には、ハードコードされた認証情報使用および認証欠如の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c2e6dbd90dd70f4e3389"
       },
       {
         "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
@@ -871,6 +893,28 @@
       "id": "a183126e3e3f0a943554"
     },
     {
+      "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95422936/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-25T14:00:00+09:00",
+      "fetched_at": "2026-08-25T05:08:34+00:00",
+      "summary": "古野電気株式会社が提供する簡易型船舶自動識別装置（AIS）FA-50には、ハードコードされた認証情報使用および認証欠如の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c2e6dbd90dd70f4e3389"
+    },
+    {
       "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
       "url": "https://jvn.jp/jp/JVN08517956/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1401,25 +1445,26 @@
   ],
   "new_findings": [
     {
-      "title": "最近見てる技術コミュニティについて",
-      "url": "https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95422936/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-08-25T00:54:57+00:00",
-      "fetched_at": "2026-08-25T04:54:54+00:00",
-      "summary": "「みんなAIの話ばかりしてて面白くない」とよく聞くようになった。 実際TwitterでLLMの話を聞かないことはないし、僕自身もよくするようになった。 個人的には面白いおもちゃの末席にLLMが加わった感じがして面白くはあるのだけど、いかんせん技術サイトの話題がAI一色になると胸焼けしてしまう。 そんな感じなので最近...",
+      "published_at": "2026-08-25T14:00:00+09:00",
+      "fetched_at": "2026-08-25T05:08:34+00:00",
+      "summary": "古野電気株式会社が提供する簡易型船舶自動識別装置（AIS）FA-50には、ハードコードされた認証情報使用および認証欠如の脆弱性が存在します。",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "290bc909ff1b8c65d8a7"
+      "id": "c2e6dbd90dd70f4e3389"
     }
   ],
   "source_errors": [],
