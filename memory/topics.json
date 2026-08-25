@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T11:59:14+00:00",
+  "generated_at": "2026-08-25T12:14:08+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2987"
       },
       {
+        "title": "[NEU] [mittel] libTIFF: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T12:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3002"
+      },
+      {
         "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-25T12:00:00+09:00",
@@ -189,13 +196,6 @@
         "published_at": "2026-08-25T11:16:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2985"
-      },
-      {
-        "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T11:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2996"
       }
     ],
     "security": [
@@ -242,6 +242,13 @@
         "url": "https://jvn.jp/vu/JVNVU95422936/"
       },
       {
+        "title": "[NEU] [mittel] libTIFF: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T12:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3002"
+      },
+      {
         "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-25T12:00:00+09:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-08-25T11:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2999"
-      },
-      {
-        "title": "[NEU] [hoch] ZScaler Client Connector: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T11:51:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2998"
       }
     ],
     "economy": [

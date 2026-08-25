@@ -454,6 +454,29 @@
     "id": "c2e6dbd90dd70f4e3389"
   },
   {
+    "title": "[NEU] [mittel] libTIFF: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3002",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T12:01:05+00:00",
+    "fetched_at": "2026-08-25T12:13:29+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in libTIFF ausnutzen, um beliebigen Programmcode auszuführen, und um nicht näher spezifizierte Auswirkungen zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1d90d3d7352a5fc896ed"
+  },
+  {
     "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
     "url": "https://jvn.jp/jp/JVN08517956/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1484,6 +1507,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "842b9db36128f805ca81"
+  },
+  {
+    "title": "「まるでキャバクラ」――「ライザのアトリエ」主人公と話せるAIアプリに「課金圧強すぎ」の声 「10日に会話15回」で月額980円",
+    "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000774/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:27:47+00:00",
+    "fetched_at": "2026-08-25T12:13:29+00:00",
+    "summary": "人気RPG「ライザのアトリエ」の主人公「ライザ」と会話できるAIアプリ「RyzaChat ライザと創るあなただけのひと夏の夢物語」の配信が8月25日に始まった。人気作、しかも生成AIを使ったアプリとあってリリース前から注目を浴びていたが、無料で会話できる回数が少なく、有料プランにも利用枠の上限があることからユーザー...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d62c5ba6787259c2ce7d"
   },
   {
     "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
