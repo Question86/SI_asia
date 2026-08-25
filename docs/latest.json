@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T22:56:42+00:00",
-  "run_id": "2026-08-25T22:56:42+00:00",
+  "generated_at": "2026-08-25T23:06:50+00:00",
+  "run_id": "2026-08-25T23:06:50+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 96,
     "displayed_findings": 96,
     "high": 0,
@@ -4715,51 +4715,7 @@
       "id": "494b9b014421b52b5a11"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIエージェントが24時間体制で本番障害の一次調査を自動化、人間の役割は「判断」のみに",
-      "url": "https://gigazine.net/news/20260825-trust-agent-triage/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-25T03:29:57+00:00",
-      "fetched_at": "2026-08-25T22:56:13+00:00",
-      "summary": "AIエージェントの登場により、深夜のインシデント発生時における人間のエンジニアの役割を劇的に変えつつあります。従来はアラーム発生時のトリアージ(原因および影響範囲の特定)作業はエンジニアが担ってきましたが、トリアージをAIが肩代わりすることにより人間は最終的な意思決定に集中できるようになるというビジョ...",
-      "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c909ccad21cd51af44f7"
-    },
-    {
-      "title": "Apple、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表",
-      "url": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-25T14:42:35+00:00",
-      "fetched_at": "2026-08-25T22:56:13+00:00",
-      "summary": "Apple、オンデバイスAIと極めて負荷の高いプロのワークフローのための究極のデスクトップ、M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表 Appleの最もパワフルなMacは、最大4.3倍高速なパフォーマンスと、さらに進化したグラフィックス、最大512GBのユニファイドメモリ、豊富な接続性を備え、ローカルAIの基準を引...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "afede5618982cba279df"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
