@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T18:00:01+00:00_
+_Generiert: 2026-08-25T18:14:22+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+89 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -258,6 +258,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2025年、ソフトウェア開発におけるAI技術の浸透は目覚ましい発展を遂げました。多くの企業でコード生成・レビュー・テスト・設計補助などが日常レベルで活用され始めました。 2026年も半ばに差し掛かった現在、各社が直面しているのは「AI導入が浸透した」その先。“組織自体をどう再設計するか” という、まだ誰も答えを...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Minutes of the Board's discount rate meetings on July 20 and July 29, 2026** — Score 8, observation — [Quelle](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm)
+  - Quelle: Federal Reserve Monetary Policy Press Releases / `rss`
+  - Zeit: published `2026-08-25T18:00:00+00:00`, fetched `2026-08-25T18:13:51+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Minutes of the Board's discount rate meetings on July 20 and July 29, 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why so many startups are cutting down on the number of tools they use** — Score 8, observation — [Quelle](https://e27.co/why-so-many-startups-are-cutting-down-on-the-number-of-tools-they-use-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-25T03:00:28+00:00`, fetched `2026-08-25T03:08:16+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: 63 per cent of organisations point to too many unused or underused SaaS apps, along with license or budget pressure, as what’s driving them to consolidate. Most startups don’t plan their tool stack. It just happens to them. A new tool for every task, every team, every problem. It feels like progress at first. More […] The post Why so many startups are cutting down on the number of tools they use appeared first on e2…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans Apereo CAS (19 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1043/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-19T00:00:00+00:00`, fetched `2026-08-25T12:46:55+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
