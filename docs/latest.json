@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T00:26:16+00:00",
-  "run_id": "2026-08-25T00:26:16+00:00",
+  "generated_at": "2026-08-25T01:14:39+00:00",
+  "run_id": "2026-08-25T01:14:39+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 3,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 1,
-    "observe": 0,
+    "medium": 2,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -65,9 +65,75 @@
           "LOW"
         ],
         "id": "a183126e3e3f0a943554"
+      },
+      {
+        "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU96980428/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-25T10:00:00+09:00",
+        "fetched_at": "2026-08-25T01:14:03+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "321f96ff72c93a029063"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "The true cost of AI is beginning to surface",
+        "url": "https://e27.co/the-true-cost-of-ai-is-beginning-to-surface-20260821/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-25T01:00:39+00:00",
+        "fetched_at": "2026-08-25T01:14:03+00:00",
+        "summary": "The cost of AI is not only hidden in data centres. It is hidden in the systems we are learning to depend on. Artificial intelligence still feels cheap. A manager pays for a monthly subscription. A developer opens a coding assistant. A student asks a chatbot to summarise a report. The interaction is instant, polished […] The post The true cost of AI is beginning to surface appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "23735285a28f3eb723d8"
+      },
+      {
+        "title": "SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ",
+        "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-24T23:33:51+00:00",
+        "fetched_at": "2026-08-25T01:14:03+00:00",
+        "summary": "はじめに カミナシでSWEをしている osuzu です。 筆者はSaaSと呼ばれる業務ソフトウェア開発を前職含め6年ちょっと経験し、最近ようやく言語化できたことがあります。 それは「SaaSの技術的な難しさは、ホリゾンタルかバーティカルかで種類が異なる」ということ。そしてより重要なのは、この2つの戦いを混ぜてしまうと、...",
+        "matched_keywords": [
+          "developer",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "797790cfce9d7882d2c1"
+      }
+    ]
   },
   "findings": [
     {
@@ -106,45 +172,138 @@
         "LOW"
       ],
       "id": "a183126e3e3f0a943554"
+    },
+    {
+      "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96980428/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-25T10:00:00+09:00",
+      "fetched_at": "2026-08-25T01:14:03+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "321f96ff72c93a029063"
+    },
+    {
+      "title": "The true cost of AI is beginning to surface",
+      "url": "https://e27.co/the-true-cost-of-ai-is-beginning-to-surface-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-25T01:00:39+00:00",
+      "fetched_at": "2026-08-25T01:14:03+00:00",
+      "summary": "The cost of AI is not only hidden in data centres. It is hidden in the systems we are learning to depend on. Artificial intelligence still feels cheap. A manager pays for a monthly subscription. A developer opens a coding assistant. A student asks a chatbot to summarise a report. The interaction is instant, polished […] The post The true cost of AI is beginning to surface appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23735285a28f3eb723d8"
+    },
+    {
+      "title": "SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ",
+      "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T23:33:51+00:00",
+      "fetched_at": "2026-08-25T01:14:03+00:00",
+      "summary": "はじめに カミナシでSWEをしている osuzu です。 筆者はSaaSと呼ばれる業務ソフトウェア開発を前職含め6年ちょっと経験し、最近ようやく言語化できたことがあります。 それは「SaaSの技術的な難しさは、ホリゾンタルかバーティカルかで種類が異なる」ということ。そしてより重要なのは、この2つの戦いを混ぜてしまうと、...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "797790cfce9d7882d2c1"
     }
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 34 km NW of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn9w",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96980428/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-08-25T00:23:24.040+00:00",
-      "fetched_at": "2026-08-25T00:25:39+00:00",
-      "summary": "Time 2026-08-25 00:05:24 UTC 2026-08-25 00:05:24 UTC at epicenter Location 8.424°S 120.217°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-08-25T10:00:00+09:00",
+      "fetched_at": "2026-08-25T01:14:03+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "321f96ff72c93a029063"
+    },
+    {
+      "title": "The true cost of AI is beginning to surface",
+      "url": "https://e27.co/the-true-cost-of-ai-is-beginning-to-surface-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-25T01:00:39+00:00",
+      "fetched_at": "2026-08-25T01:14:03+00:00",
+      "summary": "The cost of AI is not only hidden in data centres. It is hidden in the systems we are learning to depend on. Artificial intelligence still feels cheap. A manager pays for a monthly subscription. A developer opens a coding assistant. A student asks a chatbot to summarise a report. The interaction is instant, polished […] The post The true cost of AI is beginning to surface appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "23735285a28f3eb723d8"
+    },
+    {
+      "title": "SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ",
+      "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-24T23:33:51+00:00",
+      "fetched_at": "2026-08-25T01:14:03+00:00",
+      "summary": "はじめに カミナシでSWEをしている osuzu です。 筆者はSaaSと呼ばれる業務ソフトウェア開発を前職含め6年ちょっと経験し、最近ようやく言語化できたことがあります。 それは「SaaSの技術的な難しさは、ホリゾンタルかバーティカルかで種類が異なる」ということ。そしてより重要なのは、この2つの戦いを混ぜてしまうと、...",
+      "matched_keywords": [
+        "developer",
+        "Hatena",
+        "hotentry"
       ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "a183126e3e3f0a943554"
+      "relevance_score": 7,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "797790cfce9d7882d2c1"
     }
   ],
   "source_errors": [],
