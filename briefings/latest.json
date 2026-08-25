@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T07:51:40+00:00",
-  "run_id": "2026-08-25T07:51:40+00:00",
+  "generated_at": "2026-08-25T08:07:47+00:00",
+  "run_id": "2026-08-25T08:07:47+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 38,
     "displayed_findings": 38,
     "high": 0,
@@ -1897,29 +1897,7 @@
       "id": "5c81dc22b317baf9978e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「マイナアプリ」とはなにか マイナポータル＋デジタル認証の進化とこれから",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2134821.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-25T02:41:05+00:00",
-      "fetched_at": "2026-08-25T07:51:08+00:00",
-      "summary": "「マイナアプリ」とはなにか マイナポータル＋デジタル認証の進化とこれから",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2b6d19461fad7dd3b766"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

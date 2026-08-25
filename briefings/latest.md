@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T07:51:40+00:00_
+_Generiert: 2026-08-25T08:07:47+00:00_
 
 ## Kurzlage
 
@@ -61,10 +61,6 @@ _Generiert: 2026-08-25T07:51:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.
-- **USGS earthquake M5.5 - 108 km NE of Hengchun, Taiwan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm)
-  - Quelle: USGS
-  - Zeit: `2026-08-25T07:00:10+00:00`
-  - Kurz: M5.5 - 108 km NE of Hengchun, Taiwan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
