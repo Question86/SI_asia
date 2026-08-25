@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T07:14:37+00:00_
+_Generated: 2026-08-25T07:32:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-25T07:14:37+00:00_
 - url: https://github.com/NousResearch/hermes-agent
 - summary: The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improv…
 
-### 4. Why Granite Asia’s US$500M credit strategy matters for SEA firms
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-08-25T01:48:37+00:00`
-- url: https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/
-- summary: Granite Asia has exceeded the US$500 million target for Libra Hybrid, its pan-Asia private credit strategy, in a sign that institutional investors are still looking for ways to back Asian growth companies even as equity funding remains selective. The Singapor…
+### 4. M 5.5 - 108 km NE of Hengchun, Taiwan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-08-25T07:29:27.856+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm
+- summary: PAGER - GREEN ShakeMap - VI DYFI? - III Time 2026-08-25 07:00:10 UTC 2026-08-25 07:00:10 UTC at epicenter Location 22.605°N 121.571°E Depth 14.61 km (9.08 mi)
 
 ### 5. 複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG
 - source: Hatena Bookmark Hotentry IT

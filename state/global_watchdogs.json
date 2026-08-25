@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:14:41+00:00",
+  "generated_at": "2026-08-25T07:32:24+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,6 +64,16 @@
       },
       {
         "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Guinea",
+        "summary": "Green flood alert in Guinea",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104117",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
         "severity": "medium",
         "title": "GDACS: Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.",
         "summary": "Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.",
@@ -121,6 +131,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561344",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 108 km NE of Hengchun, Taiwan",
+        "summary": "M5.5 - 108 km NE of Hengchun, Taiwan. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm",
+        "published_at": "2026-08-25T07:00:10+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 466.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
