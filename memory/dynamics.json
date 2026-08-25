@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-25T10:25:48Z",
+  "generated_at": "2026-08-25T10:42:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 13,
-      "strong": 15,
+      "krass": 14,
+      "strong": 16,
       "watch": 8,
-      "quiet": 4
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 24,
+      "krass": 5,
+      "strong": 25,
       "watch": 8,
-      "quiet": 4
+      "quiet": 2
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2987",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:36:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -46,11 +46,36 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WebKitGTK ausnutzen, um eine Speicherbeschädigung herbeizuführen, was möglicherweise die Ausführung von Code oder einen Denial-of-Service-Zustand ermöglicht."
     },
     {
+      "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T10:16:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Autodesk 3ds Max ausnutzen, um beliebigen Code im Kontext des betroffenen Prozesses auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
+    },
+    {
       "title": "[NEU] [mittel] DrayTek Vigor Switches: Mehrere Schwachstellen ermöglichen Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2991",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:56:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -75,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2992",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:56:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -101,7 +126,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2990",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:56:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -126,7 +151,7 @@
       "url": "https://jvn.jp/vu/JVNVU95422936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T14:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -151,7 +176,7 @@
       "url": "https://jvn.jp/jp/JVN08517956/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T12:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -175,7 +200,7 @@
       "url": "https://jvn.jp/vu/JVNVU96980428/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T10:00:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -199,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2988",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:36:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -223,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2159",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:36:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -247,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T05:21:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -271,7 +296,7 @@
       "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-25T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -296,7 +321,7 @@
       "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T02:30:51+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -321,7 +346,7 @@
       "url": "https://e27.co/why-so-many-startups-are-cutting-down-on-the-number-of-tools-they-use-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T03:00:28+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -346,7 +371,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0809",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:31:36+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -372,7 +397,7 @@
       "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T01:45:49+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "macro"
@@ -401,7 +426,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2993",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:56:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -427,7 +452,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:36:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -453,7 +478,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2986",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:36:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -479,7 +504,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:31:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -505,7 +530,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T06:16:06+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -531,7 +556,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T05:11:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -557,7 +582,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-25T01:51:00+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -583,7 +608,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 67.35,
+      "age_days": 67.36,
       "topics": [
         "ai"
       ],
@@ -612,7 +637,7 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -638,7 +663,7 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -660,11 +685,37 @@
       "summary": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are…"
     },
     {
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T10:21:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen."
+    },
+    {
       "title": "TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
       "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-25T09:15:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security",
         "infra"
@@ -690,7 +741,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn9w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T00:23:24.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -715,7 +766,7 @@
       "url": "https://ai-dev-org-summit.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-25T01:07:04+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -742,7 +793,7 @@
       "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-25T08:39:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -766,7 +817,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-25T06:11:00.000+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -790,7 +841,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T09:27:27.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -814,7 +865,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T07:03:32.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -838,7 +889,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T07:29:27.856+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "disaster"
@@ -866,7 +917,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T03:39:55.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -891,7 +942,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T01:42:09.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -916,7 +967,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tna9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T01:32:31.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -941,7 +992,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -962,83 +1013,28 @@
       "summary": "The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, sear…"
     },
     {
-      "title": "SEA’s stablecoin boom has a dollarisation problem nobody’s pricing in",
-      "url": "https://e27.co/seas-stablecoin-boom-has-a-dollarisation-problem-nobodys-pricing-in-20260825/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-25T09:02:17+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Every fortnight brings a fresh headline: another Southeast Asian fintech bolting stablecoin rails onto its payment stack, another central bank issuing a licence, another founder claiming to have solved remittances. The global stablecoin market has crossed roughly US$300 billion in market capitalisation, with transacti…"
-    },
-    {
-      "title": "Why Granite Asia’s US$500M credit strategy matters for SEA firms",
-      "url": "https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-25T01:48:37+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Granite Asia has exceeded the US$500 million target for Libra Hybrid, its pan-Asia private credit strategy, in a sign that institutional investors are still looking for ways to back Asian growth companies even as equity funding remains selective. The Singapore-headquartered investment firm said the latest commitments…"
-    },
-    {
-      "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
-      "url": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
+      "title": "コンテキストエンジニアリングの最新事情— GraphRAGとOKFを実際に動かして整理してみた - Taste of Tech Topics",
+      "url": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-25T02:02:32+00:00",
-      "age_days": 0.35,
+      "published_at": "2026-08-25T04:10:16+00:00",
+      "age_days": 0.27,
       "topics": [
-        "ai",
-        "macro"
+        "general"
       ],
-      "dynamics_score": 8.0,
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: 10"
       ],
-      "summary": "はじめに こんにちは、データシステム部MLOpsブロックの木村と、推薦基盤ブロックの上國料です。 ZOZOでは2025年7月より、Claude Codeをはじめとする各種AI開発ツールを利用できる制度を開始しました。 corp.zozo.com 現在ではこの制度のもと、数百名にのぼる社員がClaude Codeを活用しています。 Claude Codeの活用が進..."
+      "summary": "はじめに こんにちは。最近StackChanを買って自分だけのデスクトップロボ開発にはまっているYAMALEXのSsk1029Takashiです。 今回の記事にはStackchanは関係ありません。 2026年のいま、「セマンティックレイヤー」「オントロジー」「OKF」「GraphRAG」といったキーワードを、エージェント関連の文脈でよく見かけるように..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
