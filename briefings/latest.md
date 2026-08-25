@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T09:00:13+00:00_
+_Generiert: 2026-08-25T09:17:53+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+42 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - VI DYFI? - III Time 2026-08-25 07:00:10 UTC 2026-08-25 07:00:10 UTC at epicenter Location 22.605°N 121.571°E Depth 14.61 km (9.08 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **SEA’s stablecoin boom has a dollarisation problem nobody’s pricing in** — Score 16, observation — [Quelle](https://e27.co/seas-stablecoin-boom-has-a-dollarisation-problem-nobodys-pricing-in-20260825/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-25T09:02:17+00:00`, fetched `2026-08-25T09:17:18+00:00`
+  - Treffer: APAC Trend Radar, founder, Macro/Policy, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Every fortnight brings a fresh headline: another Southeast Asian fintech bolting stablecoin rails onto its payment stack, another central bank issuing a licence, another founder claiming to have solved remittances. The global stablecoin market has crossed roughly US$300 billion in market capitalisation, with transaction volumes running into the tens of trillions of dollars annually, a […] The post SEA’s stablecoin b…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Granite Asia’s US$500M credit strategy matters for SEA firms** — Score 16, observation — [Quelle](https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-25T01:48:37+00:00`, fetched `2026-08-25T01:50:23+00:00`
@@ -215,6 +224,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Disrupting a new covert influence campaign from Russia** — Score 10, observation — [Quelle](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-25T00:00:00+00:00`, fetched `2026-08-25T09:17:18+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 219 km NNE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-25T03:39:55.040+00:00`, fetched `2026-08-25T03:48:34+00:00`
@@ -322,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynaportal/news/b999adbeb6af46df700c1/)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-25T01:59:08+00:00`, fetched `2026-08-25T02:19:58+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

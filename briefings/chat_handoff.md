@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T09:00:13+00:00_
+_Generated: 2026-08-25T09:17:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `42`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-25T09:00:13+00:00_
 - url: https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html
 - summary: 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
 
-### 7. M 4.7 - 219 km NNE of Lospalos, Timor Leste
+### 7. Disrupting a new covert influence campaign from Russia
+- source: OpenAI News RSS
+- score: `10`
+- published: `2026-08-25T00:00:00+00:00`
+- url: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+- summary: OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
+
+### 8. M 4.7 - 219 km NNE of Lospalos, Timor Leste
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-25T03:39:55.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal
 - summary: Time 2026-08-25 03:06:19 UTC 2026-08-25 03:06:19 UTC at epicenter Location 6.615°S 127.559°E Depth 10.17 km (6.32 mi)
-
-### 8. When work gives you oranges: What Malaysian employees really want from technology
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-08-25T02:30:51+00:00`
-- url: https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/
-- summary: Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done. According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent rep…
 
 END OF DOCUMENT
