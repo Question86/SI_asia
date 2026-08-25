@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-25T09:25:59Z",
+  "generated_at": "2026-08-25T09:43:48Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU95422936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T14:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN08517956/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T12:00:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU96980428/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T10:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T05:21:05+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -112,7 +112,7 @@
       "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T02:30:51+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -137,7 +137,7 @@
       "url": "https://e27.co/why-so-many-startups-are-cutting-down-on-the-number-of-tools-they-use-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T03:00:28+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -158,11 +158,37 @@
       "summary": "63 per cent of organisations point to too many unused or underused SaaS apps, along with license or budget pressure, as what’s driving them to consolidate. Most startups don’t plan their tool stack. It just happens to them. A new tool for every task, every team, every problem. It feels like progress at first. More […]…"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0809",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:31:36+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einem Denial-of-Service-Zustand, zur Manipulation und Offenlegung von Daten oder zu einer Speicherbeschädigung führen können."
+    },
+    {
       "title": "The Philippines doesn’t need more fintech apps; needs rails",
       "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T01:45:49+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -187,11 +213,37 @@
       "summary": "The first wave of the Philippine digital economy was easy to see, because everyone lived inside it. Lazada and Shopee made online shopping a daily habit. By 2021, the country’s e-commerce market had grown to US$17 billion in sales, with 73 million active online users. Angkas and Grab turned “how do I get there” into […"
     },
     {
+      "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:31:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in CPython ausnutzen, um Sicherheitsvorkehrungen zu umgehen, und um Daten zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T06:16:06+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -217,7 +269,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T05:11:05+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -243,7 +295,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-25T01:51:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -263,61 +315,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution"
-    },
-    {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 67.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -8.0 for 67.3d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jia…"
     }
   ],
   "read_order": [

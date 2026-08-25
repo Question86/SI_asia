@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-25T09:25:59Z",
+  "generated_at": "2026-08-25T09:43:48Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,7 +23,17 @@
   ],
   "current_dynamic_memory_candidates": [
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
       "title": "The Philippines doesn’t need more fintech apps; needs rails",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -49,16 +59,6 @@
     },
     {
       "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }

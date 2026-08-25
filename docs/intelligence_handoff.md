@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-25T09:25:59Z_
+_Generated: 2026-08-25T09:43:48Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-25T14:00:00+09:00` / age_days `0.18`
+- Published: `2026-08-25T14:00:00+09:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-25T12:00:00+09:00` / age_days `0.27`
+- Published: `2026-08-25T12:00:00+09:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-25T10:00:00+09:00` / age_days `0.35`
+- Published: `2026-08-25T10:00:00+09:00` / age_days `0.36`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-25T05:21:05+00:00` / age_days `0.17`
+- Published: `2026-08-25T05:21:05+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-08-25T02:30:51+00:00` / age_days `0.29`
+- Published: `2026-08-25T02:30:51+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -62,27 +62,47 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-08-25T03:00:28+00:00` / age_days `0.27`
+- Published: `2026-08-25T03:00:28+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
 - Quelle: https://e27.co/why-so-many-startups-are-cutting-down-on-the-number-of-tools-they-use-20260821/
 
+### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-25T09:31:36+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0809
+
 ### The Philippines doesn’t need more fintech apps; needs rails
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-25T01:45:49+00:00` / age_days `0.32`
+- Published: `2026-08-25T01:45:49+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, rce, security high-signal: active, rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/
 
+### [UPDATE] [mittel] CPython: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-25T09:31:39+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064
+
 ### [UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-25T06:16:06+00:00` / age_days `0.13`
+- Published: `2026-08-25T06:16:06+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, auth, security high-signal: kritisch, auth, official security but no high-signal phrase: capped at strong
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-25T05:11:05+00:00` / age_days `0.18`
+- Published: `2026-08-25T05:11:05+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-25T01:51:00+00:00` / age_days `0.32`
+- Published: `2026-08-25T01:51:00+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: remote, code, execution, security high-signal: remote, code, execution, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html
-
-### Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `67.31`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.95, high terms: rce, code, security high-signal: rce, code, aging penalty -8.0 for 67.3d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/
-
-### multica-ai/andrej-karpathy-skills
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-08-25T03:08:16+00:00` / age_days `0.26`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://github.com/multica-ai/andrej-karpathy-skills
 
 END OF DOCUMENT
