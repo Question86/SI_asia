@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T07:32:19+00:00_
+_Generiert: 2026-08-25T07:51:40+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+38 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,6 +33,10 @@ _Generiert: 2026-08-25T07:32:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Guinea
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561682)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI VI.
 - **GDACS: Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561626)
   - Quelle: GDACS
   - Zeit: ``

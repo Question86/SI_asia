@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:32:24+00:00",
+  "generated_at": "2026-08-25T07:51:42+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI VI.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561682",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.",
         "summary": "Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.",
         "source": "GDACS",
@@ -143,7 +153,7 @@
         "metrics": {
           "mag": 5.5,
           "alert": "green",
-          "sig": 466.0,
+          "sig": 468.0,
           "tsunami": 0
         }
       }
