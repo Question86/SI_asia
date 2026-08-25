@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T20:34:13+00:00",
-  "run_id": "2026-08-25T20:34:13+00:00",
+  "generated_at": "2026-08-25T20:48:11+00:00",
+  "run_id": "2026-08-25T20:48:11+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
@@ -4499,54 +4499,7 @@
       "id": "494b9b014421b52b5a11"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot app Customize tab is generally available",
-      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-25T20:05:26+00:00",
-      "fetched_at": "2026-08-25T20:33:38+00:00",
-      "summary": "GitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on. The new Customize tab in the GitHub Copilot app brings MCP… The post GitHub Copilot app Customize tab is generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "f6a25b644ad4d0f852dc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
