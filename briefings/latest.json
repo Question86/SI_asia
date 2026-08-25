@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T13:53:09+00:00",
-  "run_id": "2026-08-25T13:53:09+00:00",
+  "generated_at": "2026-08-25T14:12:06+00:00",
+  "run_id": "2026-08-25T14:12:06+00:00",
   "date": "2026-08-25",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 80
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 39,
     "observe": 41,
-    "source_errors": 0
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -3886,7 +3886,20 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f169eeb4650>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f169f0efa10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
