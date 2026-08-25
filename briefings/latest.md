@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T08:41:18+00:00_
+_Generiert: 2026-08-25T09:00:13+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+40 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -277,6 +277,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three months actually were, because the mistake I made is […] The post 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Zugriffsverwaltung Keycloak: Kontoübernahme durch Passwort-Rücksetzfunktion** — Score 7, observation — [Quelle](https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-25T08:39:00.000+00:00`, fetched `2026-08-25T08:59:25+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In dem Identitäts- und Zugriffssteuerungssystem Keycloak können Angreifer einen Fehler beim Passwort-Rücksetzen missbrauchen, um Konten zu übernehmen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Attacken auf Oracle Weblogic und HTTP-Server beobachtet** — Score 7, observation — [Quelle](https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html)
   - Quelle: heise Security Alerts / `rss`
