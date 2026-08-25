@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T22:44:45+00:00_
+_Generiert: 2026-08-25T22:56:42+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+96 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
