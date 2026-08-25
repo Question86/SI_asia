@@ -220,6 +220,29 @@
     "id": "321f96ff72c93a029063"
   },
   {
+    "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T06:16:06+00:00",
+    "fetched_at": "2026-08-25T06:17:02+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Fusion Middleware ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9f99e534e5303980c7d8"
+  },
+  {
     "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915",
     "source": "BSI CERT-Bund Security Advisories",
@@ -543,6 +566,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "23735285a28f3eb723d8"
+  },
+  {
+    "title": "Attacken auf Oracle Weblogic und HTTP-Server beobachtet",
+    "url": "https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-25T06:11:00.000+00:00",
+    "fetched_at": "2026-08-25T06:17:02+00:00",
+    "summary": "Angreifer missbrauchen eine Sicherheitslücke in Oracle HTTP-Server und Weblogic Server, die komplette Kompromittierung ermöglicht.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c9afd39fa4cc80a9ffd2"
   },
   {
     "title": "The Philippines doesn’t need more fintech apps; needs rails",

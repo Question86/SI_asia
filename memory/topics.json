@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T06:02:20+00:00",
+  "generated_at": "2026-08-25T06:17:41+00:00",
   "topics": {
     "ai": [
       {
@@ -126,6 +126,13 @@
         "published_at": "2026-08-25T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN08517956/"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T06:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162"
       }
     ],
     "economy": [
@@ -267,6 +274,13 @@
         "url": "https://jvn.jp/vu/JVNVU96980428/"
       },
       {
+        "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T06:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162"
+      },
+      {
         "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T05:21:05+00:00",
@@ -286,6 +300,13 @@
         "published_at": "2026-08-25T01:51:00+00:00",
         "relevance_score": 11,
         "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html"
+      },
+      {
+        "title": "Attacken auf Oracle Weblogic und HTTP-Server beobachtet",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-25T06:11:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html"
       }
     ]
   }
