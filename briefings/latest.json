@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-25T08:24:13+00:00",
-  "run_id": "2026-08-25T08:24:13+00:00",
+  "generated_at": "2026-08-25T08:41:18+00:00",
+  "run_id": "2026-08-25T08:41:18+00:00",
   "date": "2026-08-25",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 13,
-    "observe": 25,
-    "source_errors": 2
+    "observe": 26,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -796,6 +796,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "842b9db36128f805ca81"
+      },
+      {
+        "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
+        "url": "https://povo.jp/news/newsrelease/20260825_01/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-25T05:55:57+00:00",
+        "fetched_at": "2026-08-25T08:40:42+00:00",
+        "summary": "KDDI、沖縄セルラー、KDDI Digital Lifeは2026年8月25日から、オンライン専用ブランド「povo2.0」の「通話＋データ」プランをご契約のお客さまを対象に、「5G SA(スタンドアローン)」サービス(以下5G SA)(注1)の提供を開始します。これにより、au/UQ mobile/povo(powered by the KDDI network)のマルチブランドで、5G SA...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "342522780a91b563e21c"
       },
       {
         "title": "「マイナアプリ」とはなにか マイナポータル＋デジタル認証の進化とこれから",
@@ -1732,6 +1753,27 @@
       "id": "842b9db36128f805ca81"
     },
     {
+      "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
+      "url": "https://povo.jp/news/newsrelease/20260825_01/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T05:55:57+00:00",
+      "fetched_at": "2026-08-25T08:40:42+00:00",
+      "summary": "KDDI、沖縄セルラー、KDDI Digital Lifeは2026年8月25日から、オンライン専用ブランド「povo2.0」の「通話＋データ」プランをご契約のお客さまを対象に、「5G SA(スタンドアローン)」サービス(以下5G SA)(注1)の提供を開始します。これにより、au/UQ mobile/povo(powered by the KDDI network)のマルチブランドで、5G SA...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "342522780a91b563e21c"
+    },
+    {
       "title": "「マイナアプリ」とはなにか マイナポータル＋デジタル認証の進化とこれから",
       "url": "https://www.watch.impress.co.jp/docs/topic/2134821.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1897,21 +1939,30 @@
       "id": "5c81dc22b317baf9978e"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "twcert_security_news",
-      "source_name": "TWCERT/CC Security News RSS",
+      "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
+      "url": "https://povo.jp/news/newsrelease/20260825_01/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f9706698dd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
-    },
-    {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f970674cc50>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "published_at": "2026-08-25T05:55:57+00:00",
+      "fetched_at": "2026-08-25T08:40:42+00:00",
+      "summary": "KDDI、沖縄セルラー、KDDI Digital Lifeは2026年8月25日から、オンライン専用ブランド「povo2.0」の「通話＋データ」プランをご契約のお客さまを対象に、「5G SA(スタンドアローン)」サービス(以下5G SA)(注1)の提供を開始します。これにより、au/UQ mobile/povo(powered by the KDDI network)のマルチブランドで、5G SA...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "342522780a91b563e21c"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
