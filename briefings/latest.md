@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T12:14:08+00:00_
+_Generiert: 2026-08-25T12:28:00+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+77 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,10 @@ _Generiert: 2026-08-25T12:14:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.
+- **USGS earthquake M5.5 - south of the Fiji Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci)
+  - Quelle: USGS
+  - Zeit: `2026-08-25T12:12:03+00:00`
+  - Kurz: M5.5 - south of the Fiji Islands. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -242,6 +246,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-25T12:26:29.040+00:00`, fetched `2026-08-25T12:27:25+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-25 12:12:03 UTC 2026-08-25 12:12:03 UTC at epicenter Location 23.350°S 179.821°E Depth 528.28 km (328.26 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **America’s immigration policy is driving away future AI leaders** — Score 9, observation — [Quelle](https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-25T10:00:00+00:00`, fetched `2026-08-25T10:14:31+00:00`
@@ -277,15 +290,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-25 01:22:25 UTC 2026-08-25 01:22:25 UTC at epicenter Location 6.973°S 155.641°E Depth 109.32 km (67.93 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 4 km NNE of Jalālābād, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tna9)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-25T01:32:31.040+00:00`, fetched `2026-08-25T01:50:23+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-25 01:18:46 UTC 2026-08-25 01:18:46 UTC at epicenter Location 34.462°N 70.463°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI×開発組織Summit 2026｜2026年10月16日(金) 汐留開催** — Score 9, opportunity — [Quelle](https://ai-dev-org-summit.findy-tools.io/2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
