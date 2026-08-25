@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T10:02:43+00:00_
+_Generiert: 2026-08-25T10:15:11+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+58 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -206,6 +206,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot** — Score 11, observation — [Quelle](https://e27.co/ecosystem-roundup-seas-ev-startups-pull-in-us622m-as-bets-move-from-pitch-to-pilot-20260825/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-25T10:07:49+00:00`, fetched `2026-08-25T10:14:31+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
+  - Kurz: Southeast Asia’s electric vehicle sector has quietly matured from concept pitches to funded pilots, with the top 16 startups across Singapore, Indonesia, Thailand and Vietnam attracting a combined US$622M in equity, per Tracxn’s August 2026 report. Every company on the list was founded from 2016 onward, and funding sits mostly at Series A/B — past experimentation, short […] The post Ecosystem Roundup: SEA’s EV start…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG** — Score 11, observation — [Quelle](https://techblog.zozo.com/entry/cc-plugin-marketplace)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-25T02:02:32+00:00`, fetched `2026-08-25T03:28:47+00:00`
@@ -232,6 +241,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **America’s immigration policy is driving away future AI leaders** — Score 9, observation — [Quelle](https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-25T10:00:00+00:00`, fetched `2026-08-25T10:14:31+00:00`
+  - Treffer: AI/KI, policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); policy (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Visa restrictions are deterring international AI talent from building companies in the U.S., giving other nations including China an opportunity to catch up.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 219 km NNE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -287,15 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: 63 per cent of organisations point to too many unused or underused SaaS apps, along with license or budget pressure, as what’s driving them to consolidate. Most startups don’t plan their tool stack. It just happens to them. A new tool for every task, every team, every problem. It feels like progress at first. More […] The post Why so many startups are cutting down on the number of tools they use appeared first on e2…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored** — Score 8, observation — [Quelle](https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-25T02:00:52+00:00`, fetched `2026-08-25T02:19:58+00:00`
-  - Treffer: APAC Trend Radar, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
-  - Kurz: On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three months actually were, because the mistake I made is […] The post 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-25T09:15:00.000+00:00`, fetched `2026-08-25T09:32:06+00:00`
@@ -331,15 +340,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: はじめに カミナシでSWEをしている osuzu です。 筆者はSaaSと呼ばれる業務ソフトウェア開発を前職含め6年ちょっと経験し、最近ようやく言語化できたことがあります。 それは「SaaSの技術的な難しさは、ホリゾンタルかバーティカルかで種類が異なる」ということ。そしてより重要なのは、この2つの戦いを混ぜてしまうと、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年8月25日）​動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260825-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-25T03:34:23+00:00`, fetched `2026-08-25T03:48:34+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年8月25日）​動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

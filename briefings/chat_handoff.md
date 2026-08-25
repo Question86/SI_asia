@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T10:02:43+00:00_
+_Generated: 2026-08-25T10:15:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `58`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-25T10:02:43+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm
 - summary: PAGER - GREEN ShakeMap - VI DYFI? - III Time 2026-08-25 07:00:10 UTC 2026-08-25 07:00:10 UTC at epicenter Location 22.605°N 121.571°E Depth 14.61 km (9.08 mi)
 
-### 5. 複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG
+### 5. Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-08-25T10:07:49+00:00`
+- url: https://e27.co/ecosystem-roundup-seas-ev-startups-pull-in-us622m-as-bets-move-from-pitch-to-pilot-20260825/
+- summary: Southeast Asia’s electric vehicle sector has quietly matured from concept pitches to funded pilots, with the top 16 startups across Singapore, Indonesia, Thailand and Vietnam attracting a combined US$622M in equity, per Tracxn’s August 2026 report. Every comp…
+
+### 6. 複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-25T02:02:32+00:00`
 - url: https://techblog.zozo.com/entry/cc-plugin-marketplace
 - summary: はじめに こんにちは、データシステム部MLOpsブロックの木村と、推薦基盤ブロックの上國料です。 ZOZOでは2025年7月より、Claude Codeをはじめとする各種AI開発ツールを利用できる制度を開始しました。 corp.zozo.com 現在ではこの制度のもと、数百名にのぼる社員がClaude Codeを活用しています。 Claude Codeの活用が進...
 
-### 6. 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
+### 7. 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-08-25T01:51:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html
 - summary: 樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution
 
-### 7. Disrupting a new covert influence campaign from Russia
+### 8. Disrupting a new covert influence campaign from Russia
 - source: OpenAI News RSS
 - score: `10`
 - published: `2026-08-25T00:00:00+00:00`
 - url: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 - summary: OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.
-
-### 8. M 4.7 - 219 km NNE of Lospalos, Timor Leste
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-25T03:39:55.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal
-- summary: Time 2026-08-25 03:06:19 UTC 2026-08-25 03:06:19 UTC at epicenter Location 6.615°S 127.559°E Depth 10.17 km (6.32 mi)
 
 END OF DOCUMENT
