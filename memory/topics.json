@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T09:32:38+00:00",
+  "generated_at": "2026-08-25T09:49:08+00:00",
   "topics": {
     "ai": [
       {
@@ -121,11 +121,39 @@
         "url": "https://github.com/multica-ai/andrej-karpathy-skills"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2987"
+      },
+      {
         "title": "Apache Struts 2におけるリソース枯渇の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-25T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN08517956/"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:10+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989"
+      },
+      {
+        "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2986"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2988"
       },
       {
         "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
@@ -143,6 +171,13 @@
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2987"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -172,46 +207,39 @@
         "url": "https://jvn.jp/vu/JVNVU96980428/"
       },
       {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:10+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989"
+      },
+      {
+        "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2986"
+      },
+      {
+        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2988"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T09:36:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2159"
+      },
+      {
         "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T09:31:39+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Oracle Fusion Middleware: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T06:16:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162"
-      },
-      {
-        "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T05:21:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915"
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T05:11:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522"
-      },
-      {
-        "title": "樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-25T01:51:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html"
-      },
-      {
-        "title": "TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-25T09:15:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html"
       }
     ],
     "economy": [
