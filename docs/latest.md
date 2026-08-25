@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T17:34:21+00:00_
+_Generiert: 2026-08-25T17:47:42+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+87 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Introducing the Admin plugin for ChatGPT Work and Codex** — Score 12, observation — [Quelle](https://openai.com/index/introducing-admin-plugin)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-25T00:00:00+00:00`, fetched `2026-08-25T17:47:08+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot** — Score 11, observation — [Quelle](https://e27.co/ecosystem-roundup-seas-ev-startups-pull-in-us622m-as-bets-move-from-pitch-to-pilot-20260825/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-25T10:07:49+00:00`, fetched `2026-08-25T10:14:31+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar** — Score 7, observation — [Quelle](https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-25T09:15:00.000+00:00`, fetched `2026-08-25T09:32:06+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Es sind wichtige Sicherheitsupdates verschiedene Router aus TP-Links Business-Netzwerkplattform Omada erschienen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
