@@ -452,6 +452,29 @@
     "id": "fbd05212a975ade041d7"
   },
   {
+    "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2996",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:01:05+00:00",
+    "fetched_at": "2026-08-25T11:08:44+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Zammad ausnutzen, um Sicherheitsvorkehrungen zu umgehen, sensible Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9516a6e428ec5d934ec1"
+  },
+  {
     "title": "[UPDATE] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0860",
     "source": "BSI CERT-Bund Security Advisories",

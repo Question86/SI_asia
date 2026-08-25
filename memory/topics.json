@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T10:58:29+00:00",
+  "generated_at": "2026-08-25T11:09:21+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
+        "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2996"
+      },
+      {
         "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T10:16:05+00:00",
@@ -189,13 +196,6 @@
         "published_at": "2026-08-25T09:56:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2990"
-      },
-      {
-        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:36:10+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989"
       }
     ],
     "security": [
@@ -242,6 +242,13 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
+        "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2996"
+      },
+      {
         "title": "[UPDATE] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T10:31:05+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-08-25T10:26:12+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2383"
-      },
-      {
-        "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T10:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994"
       }
     ],
     "economy": [
