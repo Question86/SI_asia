@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T19:18:24+00:00",
-  "run_id": "2026-08-25T19:18:24+00:00",
+  "generated_at": "2026-08-25T19:33:43+00:00",
+  "run_id": "2026-08-25T19:33:43+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4407,30 +4407,7 @@
       "id": "494b9b014421b52b5a11"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Block users directly from security advisories",
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-25T18:38:57+00:00",
-      "fetched_at": "2026-08-25T19:17:55+00:00",
-      "summary": "You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience… The post Block users directly from security advisories appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+7.5); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "64252dd9bc87b4d2f9df"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
