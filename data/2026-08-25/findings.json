@@ -220,6 +220,29 @@
     "id": "321f96ff72c93a029063"
   },
   {
+    "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T05:11:05+00:00",
+    "fetched_at": "2026-08-25T05:20:52+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode mit Benutzerrechten auszuführen, einen Denial-of-Service-Zustand auszulösen oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9c8b0702f20de5c88e50"
+  },
+  {
     "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
     "url": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
     "source": "Hatena Bookmark Hotentry IT",
@@ -662,6 +685,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "dbeccc49a3e9d73d0ad3"
+  },
+  {
+    "title": "From Lagos to Jakarta: Why SEA agritech needs Africa’s “boots on the ground” playbook",
+    "url": "https://e27.co/from-lagos-to-jakarta-why-sea-agritech-needs-africas-boots-on-the-ground-playbook-20260825/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-25T05:19:09+00:00",
+    "fetched_at": "2026-08-25T05:20:52+00:00",
+    "summary": "For years, agritech in emerging markets was sold on a seductive premise: agriculture could leapfrog missing infrastructure the same way mobile phones helped consumers bypass fixed-line banking and communications. Build a marketplace, onboard farmers, connect buyers, add a layer of data, and scale would follow. That story is now colliding with the harder reality of […] The post From Lagos to Jakarta: Why SEA agritech…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "64c3201c99efd716bd8c"
   },
   {
     "title": "From US$60,000 to the edge of US$80,000 in 1 week: Decoding the strongest Bitcoin rally since 2023",
