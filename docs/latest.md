@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T16:19:06+00:00_
+_Generiert: 2026-08-25T16:35:11+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+84 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -286,7 +286,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
