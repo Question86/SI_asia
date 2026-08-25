@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T19:04:14+00:00_
+_Generated: 2026-08-25T19:18:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `89`
+- findings: `90`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-08-25T19:04:14+00:00_
 - url: https://github.com/Alishahryar1/free-claude-code
 - summary: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliat…
 
-### 3. NousResearch/hermes-agent
+### 3. Block users directly from security advisories
+- source: GitHub Changelog Atom
+- score: `18`
+- published: `2026-08-25T18:38:57+00:00`
+- url: https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories
+- summary: You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience… The post Block users directly from security advisories appeared fi…
+
+### 4. NousResearch/hermes-agent
 - source: GitHub Trending RSS All Languages Daily
 - score: `18`
 - published: `None`
 - url: https://github.com/NousResearch/hermes-agent
 - summary: The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improv…
-
-### 4. [UPDATE] [hoch] NGINX Open Source und NGINX Plus: Schwachstelle ermöglicht Denial of Service und potenziell Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-08-25T10:31:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1661
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in NGINX und NGINX NGINX Plus ausnutzen, um einen Denial of Service Angriff durchzuführen, und potenziell um beliebigen Programmcode auszuführen.
 
 ### 5. Introducing the Admin plugin for ChatGPT Work and Codex
 - source: OpenAI News RSS

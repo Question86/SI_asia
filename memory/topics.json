@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T19:04:14+00:00",
+  "generated_at": "2026-08-25T19:18:24+00:00",
   "topics": {
     "ai": [
       {
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 19,
         "url": "https://github.com/Alishahryar1/free-claude-code"
+      },
+      {
+        "title": "Block users directly from security advisories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-25T18:38:57+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories"
       },
       {
         "title": "NousResearch/hermes-agent",
@@ -207,6 +214,13 @@
     ],
     "security": [
       {
+        "title": "Block users directly from security advisories",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-25T18:38:57+00:00",
+        "relevance_score": 18,
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories"
+      },
+      {
         "title": "[UPDATE] [hoch] NGINX Open Source und NGINX Plus: Schwachstelle ermöglicht Denial of Service und potenziell Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T10:31:06+00:00",
@@ -268,13 +282,6 @@
         "published_at": "2026-08-25T11:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3001"
-      },
-      {
-        "title": "[NEU] [hoch] Contao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T11:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2999"
       }
     ],
     "economy": [

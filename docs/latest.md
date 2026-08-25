@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T19:04:14+00:00_
+_Generiert: 2026-08-25T19:18:24+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+90 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliated with or endorsed by Anthropic. Claude and Claude Code are trademarks of Anthropic. What You Get 50 ToS-friendly providers. 1.3B+ free tokens every month. Use…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Block users directly from security advisories** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-25T18:38:57+00:00`, fetched `2026-08-25T19:17:55+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience… The post Block users directly from security advisories appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **NousResearch/hermes-agent** — Score 18, observation — [Quelle](https://github.com/NousResearch/hermes-agent)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
