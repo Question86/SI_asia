@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T01:50:59+00:00_
+_Generated: 2026-08-25T02:20:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `16`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-08-25T01:50:59+00:00_
 - url: https://ai-dev-org-summit.findy-tools.io/2026
 - summary: 2025年、ソフトウェア開発におけるAI技術の浸透は目覚ましい発展を遂げました。多くの企業でコード生成・レビュー・テスト・設計補助などが日常レベルで活用され始めました。 2026年も半ばに差し掛かった現在、各社が直面しているのは「AI導入が浸透した」その先。“組織自体をどう再設計するか” という、まだ誰も答えを...
 
-### 7. Gen Z and the rise of AI-powered travel
+### 7. 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-08-25T01:30:35+00:00`
-- url: https://e27.co/gen-z-and-the-rise-of-ai-powered-travel-20260821/
-- summary: AI is increasingly becoming a trusted companion for Gen Z as they plan, explore, and enrich their travel experiences. The shift reflects a broader transformation in how younger generations live, interact with technology, and navigate the world. According to a…
+- published: `2026-08-25T02:00:52+00:00`
+- url: https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/
+- summary: On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three month…
 
 END OF DOCUMENT

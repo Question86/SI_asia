@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T01:50:59+00:00_
+_Generiert: 2026-08-25T02:20:33+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „Why Granite Asia’s US$500M credit strategy matters for SEA firms“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+16 neue relevante Treffer. Stärkstes Signal: „Why Granite Asia’s US$500M credit strategy matters for SEA firms“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2025年、ソフトウェア開発におけるAI技術の浸透は目覚ましい発展を遂げました。多くの企業でコード生成・レビュー・テスト・設計補助などが日常レベルで活用され始めました。 2026年も半ばに差し掛かった現在、各社が直面しているのは「AI導入が浸透した」その先。“組織自体をどう再設計するか” という、まだ誰も答えを...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored** — Score 8, observation — [Quelle](https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-25T02:00:52+00:00`, fetched `2026-08-25T02:19:58+00:00`
+  - Treffer: APAC Trend Radar, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.8); recent (+1.0)
+  - Kurz: On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three months actually were, because the mistake I made is […] The post 3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Gen Z and the rise of AI-powered travel** — Score 8, observation — [Quelle](https://e27.co/gen-z-and-the-rise-of-ai-powered-travel-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-25T01:30:35+00:00`, fetched `2026-08-25T01:50:23+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The cost of AI is not only hidden in data centres. It is hidden in the systems we are learning to depend on. Artificial intelligence still feels cheap. A manager pays for a monthly subscription. A developer opens a coding assistant. A student asks a chatbot to summarise a report. The interaction is instant, polished […] The post The true cost of AI is beginning to surface appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Philippines doesn’t need more fintech apps; needs rails** — Score 7, observation — [Quelle](https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-25T01:45:49+00:00`, fetched `2026-08-25T01:50:23+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)
-  - Kurz: The first wave of the Philippine digital economy was easy to see, because everyone lived inside it. Lazada and Shopee made online shopping a daily habit. By 2021, the country’s e-commerce market had grown to US$17 billion in sales, with 73 million active online users. Angkas and Grab turned “how do I get there” into […] The post The Philippines doesn’t need more fintech apps; needs rails appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ** — Score 7, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-24T23:33:51+00:00`, fetched `2026-08-25T01:14:03+00:00`
@@ -104,6 +104,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: はじめに カミナシでSWEをしている osuzu です。 筆者はSaaSと呼ばれる業務ソフトウェア開発を前職含め6年ちょっと経験し、最近ようやく言語化できたことがあります。 それは「SaaSの技術的な難しさは、ホリゾンタルかバーティカルかで種類が異なる」ということ。そしてより重要なのは、この2つの戦いを混ぜてしまうと、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynaapp/news/20260825-01/)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-25T02:00:27+00:00`, fetched `2026-08-25T02:19:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）** — Score 6, observation — [Quelle](https://services.digital.go.jp/mynaportal/news/b999adbeb6af46df700c1/)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-25T01:59:08+00:00`, fetched `2026-08-25T02:19:58+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **新「マイナアプリ」きょうスタート 「デジタル認証アプリ」統合、水色→ピンクに** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/25/2000000732/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
