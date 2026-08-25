@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-25T02:03:37Z",
+  "generated_at": "2026-08-25T02:37:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU96980428/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T10:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T01:45:49+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -68,7 +68,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 67.0,
+      "age_days": 67.03,
       "topics": [
         "ai"
       ],
@@ -97,7 +97,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn9w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T00:23:24.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -122,7 +122,7 @@
       "url": "https://ai-dev-org-summit.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-25T01:07:04+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T01:42:09.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -174,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tna9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T01:32:31.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -199,7 +199,7 @@
       "url": "https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T01:48:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -221,11 +221,35 @@
       "summary": "Granite Asia has exceeded the US$500 million target for Libra Hybrid, its pan-Asia private credit strategy, in a sign that institutional investors are still looking for ways to back Asian growth companies even as equity funding remains selective. The Singapore-headquartered investment firm said the latest commitments…"
     },
     {
+      "title": "3 months, 1,264 commits, 0 inbound links: The startup lesson I ignored",
+      "url": "https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-25T02:00:52+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "On 6 May I made the first commit on a trading terminal I was building alone. Three months later I ran the numbers: 1,264 commits, more than 600 indexable pages published, and not one inbound link from another website. I want to describe what those three months actually were, because the mistake I made is […] The post…"
+    },
+    {
       "title": "SaaSの技術的難しさはホリゾンタルとバーティカルで異なる - カミナシ エンジニアブログ",
       "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-24T23:33:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -245,15 +269,15 @@
       "summary": "はじめに カミナシでSWEをしている osuzu です。 筆者はSaaSと呼ばれる業務ソフトウェア開発を前職含め6年ちょっと経験し、最近ようやく言語化できたことがあります。 それは「SaaSの技術的な難しさは、ホリゾンタルかバーティカルかで種類が異なる」ということ。そしてより重要なのは、この2つの戦いを混ぜてしまうと、..."
     },
     {
-      "title": "新「マイナアプリ」きょうスタート 「デジタル認証アプリ」統合、水色→ピンクに",
-      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000732/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-25T00:12:28+00:00",
-      "age_days": 0.08,
+      "title": "2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）",
+      "url": "https://services.digital.go.jp/mynaapp/news/20260825-01/",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-25T02:00:27+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 5.0,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -266,57 +290,31 @@
       "why": [
         "no strong comparative reason"
       ],
-      "summary": "デジタル庁は8月25日、「マイナポータルアプリ」と「デジタル認証アプリ」の機能を統合した新「マイナアプリ」の提供を始めた。 マイナンバーカードを使った手続きの際、従来はマイナポータルアプリとデジタル認証アプリの2つを使い分ける必要があったが、マイナアプリへの統合により、1つで済むようになる。 すでにマイ..."
+      "summary": "2026年8月25日に「マイナアプリ」の提供を開始しました（デジタル庁ウェブサービス・アプリケーション）"
     },
     {
-      "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
-      "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 65.97,
+      "title": "パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）",
+      "url": "https://services.digital.go.jp/mynaportal/news/b999adbeb6af46df700c1/",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-25T01:59:08+00:00",
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 0,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 66.0d old signal"
+        "no strong comparative reason"
       ],
-      "summary": ""
-    },
-    {
-      "title": "curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 65.97,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "aging penalty -16.0 for 66.0d old signal"
-      ],
-      "summary": ""
+      "summary": "パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）"
     }
   ],
   "read_order": [
