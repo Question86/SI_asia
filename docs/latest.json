@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T03:49:08+00:00",
-  "run_id": "2026-08-25T03:49:08+00:00",
+  "generated_at": "2026-08-25T04:06:12+00:00",
+  "run_id": "2026-08-25T04:06:12+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1357,84 +1357,7 @@
       "id": "5c81dc22b317baf9978e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.7 - 219 km NNE of Lospalos, Timor Leste",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-25T03:39:55.040+00:00",
-      "fetched_at": "2026-08-25T03:48:34+00:00",
-      "summary": "Time 2026-08-25 03:06:19 UTC 2026-08-25 03:06:19 UTC at epicenter Location 6.615°S 127.559°E Depth 10.17 km (6.32 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "df38684e7bcff407db29"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年8月25日）​動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260825-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-25T03:34:23+00:00",
-      "fetched_at": "2026-08-25T03:48:34+00:00",
-      "summary": "松本大臣記者会見（令和8年8月25日）​動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cce02c7b8a12909176df"
-    },
-    {
-      "title": "From US$60,000 to the edge of US$80,000 in 1 week: Decoding the strongest Bitcoin rally since 2023",
-      "url": "https://e27.co/from-us60000-to-the-edge-of-us80000-in-1-week-decoding-the-strongest-bitcoin-rally-since-2023-20260825/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-25T03:36:26+00:00",
-      "fetched_at": "2026-08-25T03:48:34+00:00",
-      "summary": "Bitcoin currently trades at US$78,809.22 after a 1.81 per cent increase over the last 24 hours. This performance easily outpaces a slightly positive broader financial landscape. As a financial journalist observing these dynamics, I view this specific valuation shift as a definitive structural change rather than a fleeting bubble. Market participants often mistakenly interpret sudden […] The post From US$60,000 to th…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6d1b51a794b38ee23bda"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
