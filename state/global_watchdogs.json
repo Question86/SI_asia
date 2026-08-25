@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-25T18:28:14+00:00",
+  "generated_at": "2026-08-25T18:46:52+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-60004 Gitea Gitea",
+        "summary": "Known exploited vulnerability. Added 2026-08-25. Due 2026-08-28. Gitea Code Injection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-25",
+        "metrics": {
+          "cve": "CVE-2026-60004"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-08-20",
         "metrics": {
           "cve": "CVE-2026-72529"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-64849 MLflow MLflow",
-        "summary": "Known exploited vulnerability. Added 2026-08-19. Due 2026-09-02. MLflow Server-Side Request Forgery Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-19",
-        "metrics": {
-          "cve": "CVE-2026-64849"
         }
       },
       {

@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T18:28:11+00:00_
+_Generiert: 2026-08-25T18:46:48+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-08-25T18:28:11+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-60004 Gitea Gitea** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-25`
+  - Kurz: Known exploited vulnerability. Added 2026-08-25. Due 2026-08-28. Gitea Code Injection Vulnerability
 - **CISA KEV: CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-24`
@@ -25,10 +29,6 @@ _Generiert: 2026-08-25T18:28:11+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-20`
   - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2026-64849 MLflow MLflow** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-19`
-  - Kurz: Known exploited vulnerability. Added 2026-08-19. Due 2026-09-02. MLflow Server-Side Request Forgery Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561717)
   - Quelle: GDACS
   - Zeit: ``
