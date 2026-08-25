@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T15:09:00+00:00",
-  "run_id": "2026-08-25T15:09:00+00:00",
+  "generated_at": "2026-08-25T15:27:47+00:00",
+  "run_id": "2026-08-25T15:27:47+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 82,
     "displayed_findings": 82,
     "high": 0,
@@ -3969,29 +3969,7 @@
       "id": "5c81dc22b317baf9978e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "fetched_at": "2026-08-25T15:08:27+00:00",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1d00c154ee4d135a08c8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
