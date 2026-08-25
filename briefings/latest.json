@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T18:14:22+00:00",
-  "run_id": "2026-08-25T18:14:22+00:00",
+  "generated_at": "2026-08-25T18:28:11+00:00",
+  "run_id": "2026-08-25T18:28:11+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4363,28 +4363,7 @@
       "id": "494b9b014421b52b5a11"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-      "source": "Federal Reserve Monetary Policy Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-08-25T18:00:00+00:00",
-      "fetched_at": "2026-08-25T18:13:51+00:00",
-      "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bfe92f09072df0505ba0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
