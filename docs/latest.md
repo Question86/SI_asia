@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T03:08:52+00:00_
+_Generiert: 2026-08-25T03:29:18+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+24 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG** — Score 11, observation — [Quelle](https://techblog.zozo.com/entry/cc-plugin-marketplace)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-25T02:02:32+00:00`, fetched `2026-08-25T03:28:47+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに こんにちは、データシステム部MLOpsブロックの木村と、推薦基盤ブロックの上國料です。 ZOZOでは2025年7月より、Claude Codeをはじめとする各種AI開発ツールを利用できる制度を開始しました。 corp.zozo.com 現在ではこの制度のもと、数百名にのぼる社員がClaude Codeを活用しています。 Claude Codeの活用が進...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **樂衍有限公司｜樂晴醫事管理系統 - Remote Code Execution** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-08-25T01:51:00+00:00`, fetched `2026-08-25T02:43:49+00:00`
@@ -167,15 +176,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **新「マイナアプリ」きょうスタート 「デジタル認証アプリ」統合、水色→ピンクに** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/25/2000000732/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-25T00:12:28+00:00`, fetched `2026-08-25T01:50:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: デジタル庁は8月25日、「マイナポータルアプリ」と「デジタル認証アプリ」の機能を統合した新「マイナアプリ」の提供を始めた。 マイナンバーカードを使った手続きの際、従来はマイナポータルアプリとデジタル認証アプリの2つを使い分ける必要があったが、マイナアプリへの統合により、1つで済むようになる。 すでにマイ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
