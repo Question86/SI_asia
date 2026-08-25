@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T21:21:38+00:00_
+_Generated: 2026-08-25T21:36:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `91`
+- findings: `92`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-25T21:21:38+00:00_
 - url: https://github.com/multica-ai/andrej-karpathy-skills
 - summary: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding ag…
 
-### 2. Alishahryar1/free-claude-code
+### 2. How to evaluate LLMs before production
+- source: GitHub Blog Atom
+- score: `19`
+- published: `2026-08-25T21:35:11+00:00`
+- url: https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/
+- summary: These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .
+
+### 3. Alishahryar1/free-claude-code
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/Alishahryar1/free-claude-code
 - summary: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliat…
 
-### 3. Block users directly from security advisories
+### 4. Block users directly from security advisories
 - source: GitHub Changelog Atom
 - score: `18`
 - published: `2026-08-25T18:38:57+00:00`
 - url: https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories
 - summary: You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience… The post Block users directly from security advisories appeared fi…
-
-### 4. NousResearch/hermes-agent
-- source: GitHub Trending RSS All Languages Daily
-- score: `18`
-- published: `None`
-- url: https://github.com/NousResearch/hermes-agent
-- summary: The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improv…
 
 ### 5. Introducing the Admin plugin for ChatGPT Work and Codex
 - source: OpenAI News RSS
