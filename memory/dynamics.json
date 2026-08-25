@@ -1,29 +1,56 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-25T09:43:48Z",
+  "generated_at": "2026-08-25T09:58:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 6,
-      "strong": 12,
+      "krass": 9,
+      "strong": 14,
       "watch": 8,
-      "quiet": 14
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 18,
+      "krass": 1,
+      "strong": 22,
       "watch": 8,
-      "quiet": 14
+      "quiet": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2987",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:36:09+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WebKitGTK ausnutzen, um eine Speicherbeschädigung herbeizuführen, was möglicherweise die Ausführung von Code oder einen Denial-of-Service-Zustand ermöglicht."
+    },
     {
       "title": "古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU95422936/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T14:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "security"
@@ -48,7 +75,7 @@
       "url": "https://jvn.jp/jp/JVN08517956/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T12:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -72,7 +99,7 @@
       "url": "https://jvn.jp/vu/JVNVU96980428/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-25T10:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -92,11 +119,59 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2988",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:36:09+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [hoch] IBM WebSphere Application Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2159",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:36:08+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und vertrauliche Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [hoch] Keycloak: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2915",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T05:21:05+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -120,7 +195,7 @@
       "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T02:30:51+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -145,7 +220,7 @@
       "url": "https://e27.co/why-so-many-startups-are-cutting-down-on-the-number-of-tools-they-use-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T03:00:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -170,7 +245,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0809",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:31:36+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -196,7 +271,7 @@
       "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T01:45:49+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -221,11 +296,63 @@
       "summary": "The first wave of the Philippine digital economy was easy to see, because everyone lived inside it. Lazada and Shopee made online shopping a daily habit. By 2021, the country’s e-commerce market had grown to US$17 billion in sales, with 73 million active online users. Angkas and Grab turned “how do I get there” into […"
     },
     {
+      "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Cross-Site Scripting",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:36:10+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2986",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-25T09:36:09+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] CPython: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1064",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T09:31:39+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -251,7 +378,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0162",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T06:16:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -277,7 +404,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2522",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-25T05:11:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -303,7 +430,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11127-cda76-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-25T01:51:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -329,7 +456,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 67.32,
+      "age_days": 67.33,
       "topics": [
         "ai"
       ],
@@ -358,7 +485,7 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -384,7 +511,7 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -410,7 +537,7 @@
       "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-25T09:15:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security",
         "infra"
@@ -436,7 +563,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tn9w",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T00:23:24.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -461,7 +588,7 @@
       "url": "https://ai-dev-org-summit.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-25T01:07:04+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -488,7 +615,7 @@
       "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-25T08:39:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -512,7 +639,7 @@
       "url": "https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-25T06:11:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -536,7 +663,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T09:27:27.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -560,7 +687,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T07:03:32.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -584,7 +711,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T07:29:27.856+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "disaster"
@@ -612,7 +739,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnal",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T03:39:55.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -637,7 +764,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnaa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T01:42:09.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -662,7 +789,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tna9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-25T01:32:31.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -687,7 +814,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-25T03:08:16+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -712,7 +839,7 @@
       "url": "https://e27.co/seas-stablecoin-boom-has-a-dollarisation-problem-nobodys-pricing-in-20260825/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T09:02:17+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -738,7 +865,7 @@
       "url": "https://e27.co/why-granite-asias-us500m-credit-strategy-matters-for-sea-firms-20260825/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T01:48:37+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
@@ -764,7 +891,7 @@
       "url": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-25T02:02:32+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -791,7 +918,7 @@
       "url": "https://e27.co/3-months-1264-commits-0-inbound-links-the-startup-lesson-i-ignored-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-25T02:00:52+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -815,7 +942,7 @@
       "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/08/25/two-battles-of-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-24T23:33:51+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -839,7 +966,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260825-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-25T03:34:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -863,7 +990,7 @@
       "url": "https://services.digital.go.jp/mynaapp/news/20260825-01/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-25T02:00:27+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -887,7 +1014,7 @@
       "url": "https://services.digital.go.jp/mynaportal/news/b999adbeb6af46df700c1/",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-25T01:59:08+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -905,127 +1032,7 @@
         "no strong comparative reason"
       ],
       "summary": "パスポートの申請画面がより使いやすくなりました（デジタル庁ウェブサービス・アプリケーション）"
-    },
-    {
-      "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
-      "url": "https://povo.jp/news/newsrelease/20260825_01/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-25T05:55:57+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "KDDI、沖縄セルラー、KDDI Digital Lifeは2026年8月25日から、オンライン専用ブランド「povo2.0」の「通話＋データ」プランをご契約のお客さまを対象に、「5G SA(スタンドアローン)」サービス(以下5G SA)(注1)の提供を開始します。これにより、au/UQ mobile/povo(powered by the KDDI network)のマルチブランドで、5G SA..."
-    },
-    {
-      "title": "「マイナアプリ」とはなにか マイナポータル＋デジタル認証の進化とこれから",
-      "url": "https://www.watch.impress.co.jp/docs/topic/2134821.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-25T02:41:05+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「マイナアプリ」とはなにか マイナポータル＋デジタル認証の進化とこれから"
-    },
-    {
-      "title": "三重県庁、私物USBメモリ全廃 全体の3割・3789個が私物だった",
-      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000737/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-25T02:22:07+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "陸自のUSBメモリからマルウェアが見つかったとする6月の報道を受け、総務省は地方自治体向けにUSBメモリの利用状況の確認するよう通知。三重県でも確認を進めてきた。 7月6日までに1万757個のUSBメモリをチェックし、47個からマルウェアを検知。内訳は、過去に保存したメールデータから検知されたものが29個（27所属）、..."
-    },
-    {
-      "title": "新「マイナアプリ」きょうスタート 「デジタル認証アプリ」統合、水色→ピンクに",
-      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000732/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-25T00:12:28+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "デジタル庁は8月25日、「マイナポータルアプリ」と「デジタル認証アプリ」の機能を統合した新「マイナアプリ」の提供を始めた。 マイナンバーカードを使った手続きの際、従来はマイナポータルアプリとデジタル認証アプリの2つを使い分ける必要があったが、マイナアプリへの統合により、1つで済むようになる。 すでにマイ..."
-    },
-    {
-      "title": "From US$60,000 to the edge of US$80,000 in 1 week: Decoding the strongest Bitcoin rally since 2023",
-      "url": "https://e27.co/from-us60000-to-the-edge-of-us80000-in-1-week-decoding-the-strongest-bitcoin-rally-since-2023-20260825/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-25T03:36:26+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Bitcoin currently trades at US$78,809.22 after a 1.81 per cent increase over the last 24 hours. This performance easily outpaces a slightly positive broader financial landscape. As a financial journalist observing these dynamics, I view this specific valuation shift as a definitive structural change rather than a flee…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “古野電気製FA-50（簡易型船舶自動識別装置、AIS）におけるハードコードされた認証情報使用および認証欠如の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
