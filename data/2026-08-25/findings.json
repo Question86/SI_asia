@@ -1091,6 +1091,30 @@
     "id": "c44c06a98195572fbf3a"
   },
   {
+    "title": "Multiples vulnérabilités dans Python (19 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1044/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-19T00:00:00+00:00",
+    "fetched_at": "2026-08-25T12:46:55+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "52e8b9451c7fbf4b7961"
+  },
+  {
     "title": "M 5.5 - south of the Fiji Islands",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1381,6 +1405,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "23735285a28f3eb723d8"
+  },
+  {
+    "title": "Vulnérabilité dans Apereo CAS (19 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1043/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-19T00:00:00+00:00",
+    "fetched_at": "2026-08-25T12:46:55+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Apereo CAS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "86eea148bedfd7f2346a"
   },
   {
     "title": "TP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",

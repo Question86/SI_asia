@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:28:04+00:00",
+  "generated_at": "2026-08-25T12:47:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,16 @@
         "summary": "Green flood alert in Guinea",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104117",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561717",
         "published_at": "",
         "metrics": {}
       },
@@ -146,13 +156,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - south of the Fiji Islands",
-        "summary": "M5.5 - south of the Fiji Islands. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - south of the Fiji Islands. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci",
         "published_at": "2026-08-25T12:12:03+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }
