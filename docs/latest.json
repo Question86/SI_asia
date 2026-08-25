@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T23:41:03+00:00",
-  "run_id": "2026-08-25T23:41:03+00:00",
+  "generated_at": "2026-08-25T23:59:27+00:00",
+  "run_id": "2026-08-25T23:59:27+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 96
+      "configured_public_sources_only": 97
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 96,
-    "displayed_findings": 96,
+    "new_relevant_findings": 1,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 0,
     "medium": 42,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -2350,6 +2350,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5c81dc22b317baf9978e"
+      },
+      {
+        "title": "Rule insights dashboard generally available",
+        "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-25T20:05:35+00:00",
+        "fetched_at": "2026-08-25T23:58:53+00:00",
+        "summary": "The rule insights dashboard is now generally available at both the repository and organization levels. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository… The post Rule insights dashboard generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "005e56a007a6e0e4b1a5"
       },
       {
         "title": "Push rules in rulesets now support path exceptions",
@@ -4695,6 +4715,26 @@
       "id": "5c81dc22b317baf9978e"
     },
     {
+      "title": "Rule insights dashboard generally available",
+      "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-25T20:05:35+00:00",
+      "fetched_at": "2026-08-25T23:58:53+00:00",
+      "summary": "The rule insights dashboard is now generally available at both the repository and organization levels. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository… The post Rule insights dashboard generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "005e56a007a6e0e4b1a5"
+    },
+    {
       "title": "Push rules in rulesets now support path exceptions",
       "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
       "source": "GitHub Changelog Atom",
@@ -4715,7 +4755,28 @@
       "id": "494b9b014421b52b5a11"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Rule insights dashboard generally available",
+      "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-25T20:05:35+00:00",
+      "fetched_at": "2026-08-25T23:58:53+00:00",
+      "summary": "The rule insights dashboard is now generally available at both the repository and organization levels. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository… The post Rule insights dashboard generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "005e56a007a6e0e4b1a5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
