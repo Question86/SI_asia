@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T13:10:17+00:00_
+_Generiert: 2026-08-25T13:32:04+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+80 neue relevante Treffer. Stärkstes Signal: „multica-ai/andrej-karpathy-skills“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,10 +65,6 @@ _Generiert: 2026-08-25T13:10:17+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.
-- **USGS earthquake M5.5 - south of the Fiji Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnci)
-  - Quelle: USGS
-  - Zeit: `2026-08-25T12:12:03+00:00`
-  - Kurz: M5.5 - south of the Fiji Islands. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 

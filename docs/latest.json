@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T13:10:17+00:00",
-  "run_id": "2026-08-25T13:10:17+00:00",
+  "generated_at": "2026-08-25T13:32:04+00:00",
+  "run_id": "2026-08-25T13:32:04+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 39,
-    "observe": 40,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -1643,6 +1643,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d62c5ba6787259c2ce7d"
+      },
+      {
+        "title": "東京23区で「徒歩10分以内」に駅がない地域はどこ？ 駅空白地帯マップが話題",
+        "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-25T09:59:50+00:00",
+        "fetched_at": "2026-08-25T13:31:27+00:00",
+        "summary": "東京23区周辺を対象に、徒歩10分内・15分内に駅がない地域をそれぞれ赤色で示した2枚の地図が、Xで話題だ。統計データの地図表示サービス「47maps」の公式Xアカウント（@47maps）が投稿したもので、鉄道網が発達した都心部でも、徒歩10分圏では駅に届かない地域が広範囲に残る様子が見て取れる。 徒歩10分内の地図では、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "64ca0721d6429aa3c81e"
       },
       {
         "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
@@ -3552,6 +3573,27 @@
       "id": "d62c5ba6787259c2ce7d"
     },
     {
+      "title": "東京23区で「徒歩10分以内」に駅がない地域はどこ？ 駅空白地帯マップが話題",
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T09:59:50+00:00",
+      "fetched_at": "2026-08-25T13:31:27+00:00",
+      "summary": "東京23区周辺を対象に、徒歩10分内・15分内に駅がない地域をそれぞれ赤色で示した2枚の地図が、Xで話題だ。統計データの地図表示サービス「47maps」の公式Xアカウント（@47maps）が投稿したもので、鉄道網が発達した都心部でも、徒歩10分圏では駅に届かない地域が広範囲に残る様子が見て取れる。 徒歩10分内の地図では、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "64ca0721d6429aa3c81e"
+    },
+    {
       "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
       "url": "https://zenn.dev/layerx/articles/e01465a15e79c2",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3843,7 +3885,29 @@
       "id": "5c81dc22b317baf9978e"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "東京23区で「徒歩10分以内」に駅がない地域はどこ？ 駅空白地帯マップが話題",
+      "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000759/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T09:59:50+00:00",
+      "fetched_at": "2026-08-25T13:31:27+00:00",
+      "summary": "東京23区周辺を対象に、徒歩10分内・15分内に駅がない地域をそれぞれ赤色で示した2枚の地図が、Xで話題だ。統計データの地図表示サービス「47maps」の公式Xアカウント（@47maps）が投稿したもので、鉄道網が発達した都心部でも、徒歩10分圏では駅に届かない地域が広範囲に残る様子が見て取れる。 徒歩10分内の地図では、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "64ca0721d6429aa3c81e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
