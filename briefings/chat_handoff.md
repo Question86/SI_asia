@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T10:28:24+00:00_
+_Generated: 2026-08-25T10:44:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `65`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-25T10:28:24+00:00_
 - url: https://github.com/NousResearch/hermes-agent
 - summary: The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improv…
 
-### 4. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] NGINX Open Source und NGINX Plus: Schwachstelle ermöglicht Denial of Service und potenziell Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
-- published: `2026-08-25T10:21:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995
-- summary: Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen.
+- published: `2026-08-25T10:31:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1661
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in NGINX und NGINX NGINX Plus ausnutzen, um einen Denial of Service Angriff durchzuführen, und potenziell um beliebigen Programmcode auszuführen.
 
 ### 5. Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot
 - source: e27 Asia Startup and Tech Feed
