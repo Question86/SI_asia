@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-25T21:36:11+00:00",
-  "run_id": "2026-08-25T21:36:11+00:00",
+  "generated_at": "2026-08-25T21:48:54+00:00",
+  "run_id": "2026-08-25T21:48:54+00:00",
   "date": "2026-08-25",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 92
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 92,
-    "displayed_findings": 92,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 42,
-    "observe": 50,
-    "source_errors": 0
+    "observe": 51,
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -1953,6 +1953,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "64ca0721d6429aa3c81e"
+      },
+      {
+        "title": "モス、冷凍食品新ブランド「MOS Deli」 スーパーで“焼きおにバーガー”",
+        "url": "https://www.watch.impress.co.jp/docs/news/2135447.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-25T09:57:13+00:00",
+        "fetched_at": "2026-08-25T21:48:05+00:00",
+        "summary": "モス、冷凍食品新ブランド「MOS Deli」 スーパーで“焼きおにバーガー”",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2e4a8e2bb1e6351d89f9"
       },
       {
         "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
@@ -4213,6 +4234,27 @@
       "id": "64ca0721d6429aa3c81e"
     },
     {
+      "title": "モス、冷凍食品新ブランド「MOS Deli」 スーパーで“焼きおにバーガー”",
+      "url": "https://www.watch.impress.co.jp/docs/news/2135447.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T09:57:13+00:00",
+      "fetched_at": "2026-08-25T21:48:05+00:00",
+      "summary": "モス、冷凍食品新ブランド「MOS Deli」 スーパーで“焼きおにバーガー”",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2e4a8e2bb1e6351d89f9"
+    },
+    {
       "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
       "url": "https://zenn.dev/layerx/articles/e01465a15e79c2",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4547,30 +4589,41 @@
   ],
   "new_findings": [
     {
-      "title": "How to evaluate LLMs before production",
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-      "source": "GitHub Blog Atom",
+      "title": "モス、冷凍食品新ブランド「MOS Deli」 スーパーで“焼きおにバーガー”",
+      "url": "https://www.watch.impress.co.jp/docs/news/2135447.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-25T21:35:11+00:00",
-      "fetched_at": "2026-08-25T21:35:37+00:00",
-      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "published_at": "2026-08-25T09:57:13+00:00",
+      "fetched_at": "2026-08-25T21:48:05+00:00",
+      "summary": "モス、冷凍食品新ブランド「MOS Deli」 スーパーで“焼きおにバーガー”",
       "matched_keywords": [
-        "AI/KI",
-        "CodeQL/Dependabot",
-        "Content-Chance",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); AI/KI (+3.0); Content-Chance (+6.2); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "afb2d9161799973c1330"
+      "id": "2e4a8e2bb1e6351d89f9"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fcc5f28b610>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fcc5f347ed0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
