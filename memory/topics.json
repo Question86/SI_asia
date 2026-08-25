@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T11:09:21+00:00",
+  "generated_at": "2026-08-25T11:20:43+00:00",
   "topics": {
     "ai": [
       {
@@ -156,6 +156,13 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
+        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2985"
+      },
+      {
         "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T11:01:05+00:00",
@@ -189,13 +196,6 @@
         "published_at": "2026-08-25T09:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2992"
-      },
-      {
-        "title": "[NEU] [mittel] DrayTek VigorAP: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:56:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2990"
       }
     ],
     "security": [
@@ -242,6 +242,13 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
+        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T11:16:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2985"
+      },
+      {
         "title": "[NEU] [mittel] Zammad: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T11:01:05+00:00",
@@ -261,13 +268,6 @@
         "published_at": "2026-08-25T10:26:12+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2259"
-      },
-      {
-        "title": "[UPDATE] [hoch] NGINX NGINX Plus: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T10:26:12+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2383"
       }
     ],
     "economy": [
