@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T17:47:42+00:00",
-  "run_id": "2026-08-25T17:47:42+00:00",
+  "generated_at": "2026-08-25T18:00:01+00:00",
+  "run_id": "2026-08-25T18:00:01+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 87
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 87,
-    "displayed_findings": 87,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 0,
     "medium": 39,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -2154,6 +2154,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5c81dc22b317baf9978e"
+      },
+      {
+        "title": "Push rules in rulesets now support path exceptions",
+        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-25T17:40:15+00:00",
+        "fetched_at": "2026-08-25T17:59:29+00:00",
+        "summary": "You can now configure push rules more granularly by exempting specific file paths, so a rule applies everywhere in scope except the paths you choose. Path exceptions are in public… The post Push rules in rulesets now support path exceptions appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "494b9b014421b52b5a11"
       }
     ]
   },
@@ -4281,52 +4301,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5c81dc22b317baf9978e"
+    },
+    {
+      "title": "Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-25T17:40:15+00:00",
+      "fetched_at": "2026-08-25T17:59:29+00:00",
+      "summary": "You can now configure push rules more granularly by exempting specific file paths, so a rule applies everywhere in scope except the paths you choose. Path exceptions are in public… The post Push rules in rulesets now support path exceptions appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "494b9b014421b52b5a11"
     }
   ],
   "new_findings": [
     {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI News RSS",
+      "title": "Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-08-25T00:00:00+00:00",
-      "fetched_at": "2026-08-25T17:47:08+00:00",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "published_at": "2026-08-25T17:40:15+00:00",
+      "fetched_at": "2026-08-25T17:59:29+00:00",
+      "summary": "You can now configure push rules more granularly by exempting specific file paths, so a rule applies everywhere in scope except the paths you choose. Path exceptions are in public… The post Push rules in rulesets now support path exceptions appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "GitHub"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "cf65899ff7e040cc8f87"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "494b9b014421b52b5a11"
     }
   ],
   "source_errors": [],
