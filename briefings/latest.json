@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T14:29:18+00:00",
-  "run_id": "2026-08-25T14:29:18+00:00",
+  "generated_at": "2026-08-25T15:09:00+00:00",
+  "run_id": "2026-08-25T15:09:00+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 39,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1056,6 +1056,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1195e64c85ebbb6d1a41"
+      },
+      {
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "url": "https://openai.com/index/jalapeno-first-results",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-25T07:00:00+00:00",
+        "fetched_at": "2026-08-25T15:08:27+00:00",
+        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d00c154ee4d135a08c8"
       },
       {
         "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
@@ -3007,6 +3028,27 @@
       "id": "1195e64c85ebbb6d1a41"
     },
     {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "fetched_at": "2026-08-25T15:08:27+00:00",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d00c154ee4d135a08c8"
+    },
+    {
       "title": "複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG",
       "url": "https://techblog.zozo.com/entry/cc-plugin-marketplace",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3929,25 +3971,25 @@
   ],
   "new_findings": [
     {
-      "title": "自分が \"コントロールできる\" と思い込んで \"引き出しを増やす\"",
-      "url": "https://speakerdeck.com/konifar/jibun-ga-kontororu-dekiru-to-omoikon-de-hikidashi-o-fuyasu",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-25T09:13:25+00:00",
-      "fetched_at": "2026-08-25T14:28:46+00:00",
-      "summary": "シンプレクス株式会社の社内イベント Simplex Biz Day 2026 にて話した内容",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "fetched_at": "2026-08-25T15:08:27+00:00",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d1397d51024a689d6ae8"
+      "id": "1d00c154ee4d135a08c8"
     }
   ],
   "source_errors": [],
