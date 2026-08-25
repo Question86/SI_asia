@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:59:07+00:00",
+  "generated_at": "2026-08-25T21:10:03+00:00",
   "sections": {
     "global_security": [
       {
@@ -85,16 +85,6 @@
       {
         "domain": "security",
         "severity": "medium",
-        "title": "GDACS: Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.",
-        "summary": "Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561626",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
         "title": "GDACS: Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "summary": "Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
@@ -129,6 +119,16 @@
         "summary": "Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001309",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.",
+        "summary": "Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561344",
         "published_at": "",
         "metrics": {}
       }

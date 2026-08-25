@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-25T20:59:02+00:00_
+_Generiert: 2026-08-25T21:09:59+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-08-25T20:59:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI&gt;=V.
-- **GDACS: Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561626)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Orange earthquake (Magnitude 4.9M, Depth:10km) in Afghanistan 25/08/2026 01:18 UTC, 7.5 million in 100km.
 - **GDACS: Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001310)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,6 +53,10 @@ _Generiert: 2026-08-25T20:59:02+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561344)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:42.867km) in Japan 23/08/2026 13:44 UTC, 2 million in MMI&gt;=IV.
 
 ## Wirtschaft global
 
