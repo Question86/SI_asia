@@ -95,6 +95,30 @@
     "id": "5e8ea88a651898209325"
   },
   {
+    "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T10:21:05+00:00",
+    "fetched_at": "2026-08-25T10:27:49+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Open Source",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8abb2072d3b0cbe915ed"
+  },
+  {
     "title": "M 5.5 - 108 km NE of Hengchun, Taiwan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -402,6 +426,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "fbd05212a975ade041d7"
+  },
+  {
+    "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-25T10:16:05+00:00",
+    "fetched_at": "2026-08-25T10:27:49+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Autodesk 3ds Max ausnutzen, um beliebigen Code im Kontext des betroffenen Prozesses auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "723eacb3627250c0e069"
   },
   {
     "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
@@ -1226,6 +1273,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "342522780a91b563e21c"
+  },
+  {
+    "title": "コンテキストエンジニアリングの最新事情— GraphRAGとOKFを実際に動かして整理してみた - Taste of Tech Topics",
+    "url": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-25T04:10:16+00:00",
+    "fetched_at": "2026-08-25T10:27:49+00:00",
+    "summary": "はじめに こんにちは。最近StackChanを買って自分だけのデスクトップロボ開発にはまっているYAMALEXのSsk1029Takashiです。 今回の記事にはStackchanは関係ありません。 2026年のいま、「セマンティックレイヤー」「オントロジー」「OKF」「GraphRAG」といったキーワードを、エージェント関連の文脈でよく見かけるように...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "315350c690154b922121"
   },
   {
     "title": "国ごとの人口・死亡率・出生率の年齢別分布を世界地図をドラッグしながら見られるサイトが登場【やじうまWatch】",

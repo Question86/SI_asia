@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-25T10:15:11+00:00",
+  "generated_at": "2026-08-25T10:28:24+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
         "url": "https://github.com/multica-ai/andrej-karpathy-skills"
       },
       {
+        "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T10:21:05+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-25T09:36:09+00:00",
@@ -140,6 +147,13 @@
         "published_at": "2026-08-25T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN08517956/"
+      },
+      {
+        "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T10:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994"
       },
       {
         "title": "[NEU] [mittel] Hashicorp Vault: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -175,23 +189,16 @@
         "published_at": "2026-08-25T09:36:10+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989"
-      },
-      {
-        "title": "[NEU] [mittel] GIMP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:36:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2986"
-      },
-      {
-        "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:36:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2988"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T10:21:05+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] WebKitGTK: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
@@ -221,6 +228,13 @@
         "url": "https://jvn.jp/jp/JVN08517956/"
       },
       {
+        "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-25T10:16:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994"
+      },
+      {
         "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-25T10:00:00+09:00",
@@ -247,20 +261,6 @@
         "published_at": "2026-08-25T09:56:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2992"
-      },
-      {
-        "title": "[NEU] [mittel] DrayTek VigorAP: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:56:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2990"
-      },
-      {
-        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Cross-Site Scripting",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-25T09:36:10+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2989"
       }
     ],
     "economy": [

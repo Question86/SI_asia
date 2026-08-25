@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T10:15:11+00:00",
-  "run_id": "2026-08-25T10:15:11+00:00",
+  "generated_at": "2026-08-25T10:28:24+00:00",
+  "run_id": "2026-08-25T10:28:24+00:00",
   "date": "2026-08-25",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 61
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 3,
+    "today_file_total": 61,
+    "displayed_findings": 61,
     "high": 0,
-    "medium": 26,
-    "observe": 32,
+    "medium": 28,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -123,6 +123,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5e8ea88a651898209325"
+      },
+      {
+        "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-25T10:21:05+00:00",
+        "fetched_at": "2026-08-25T10:27:49+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Open Source",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8abb2072d3b0cbe915ed"
       },
       {
         "title": "M 5.5 - 108 km NE of Hengchun, Taiwan",
@@ -432,6 +456,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fbd05212a975ade041d7"
+      },
+      {
+        "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-25T10:16:05+00:00",
+        "fetched_at": "2026-08-25T10:27:49+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Autodesk 3ds Max ausnutzen, um beliebigen Code im Kontext des betroffenen Prozesses auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "723eacb3627250c0e069"
       },
       {
         "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
@@ -1260,6 +1307,27 @@
         "id": "342522780a91b563e21c"
       },
       {
+        "title": "コンテキストエンジニアリングの最新事情— GraphRAGとOKFを実際に動かして整理してみた - Taste of Tech Topics",
+        "url": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-25T04:10:16+00:00",
+        "fetched_at": "2026-08-25T10:27:49+00:00",
+        "summary": "はじめに こんにちは。最近StackChanを買って自分だけのデスクトップロボ開発にはまっているYAMALEXのSsk1029Takashiです。 今回の記事にはStackchanは関係ありません。 2026年のいま、「セマンティックレイヤー」「オントロジー」「OKF」「GraphRAG」といったキーワードを、エージェント関連の文脈でよく見かけるように...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "315350c690154b922121"
+      },
+      {
         "title": "国ごとの人口・死亡率・出生率の年齢別分布を世界地図をドラッグしながら見られるサイトが登場【やじうまWatch】",
         "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2135237.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1542,6 +1610,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5e8ea88a651898209325"
+    },
+    {
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-25T10:21:05+00:00",
+      "fetched_at": "2026-08-25T10:27:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Open Source",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8abb2072d3b0cbe915ed"
     },
     {
       "title": "M 5.5 - 108 km NE of Hengchun, Taiwan",
@@ -1851,6 +1943,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "fbd05212a975ade041d7"
+    },
+    {
+      "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-25T10:16:05+00:00",
+      "fetched_at": "2026-08-25T10:27:49+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Autodesk 3ds Max ausnutzen, um beliebigen Code im Kontext des betroffenen Prozesses auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "723eacb3627250c0e069"
     },
     {
       "title": "KONAMI製METAL GEAR ONLINE 3におけるヒープベースのバッファオーバーフローの脆弱性",
@@ -2677,6 +2792,27 @@
       "id": "342522780a91b563e21c"
     },
     {
+      "title": "コンテキストエンジニアリングの最新事情— GraphRAGとOKFを実際に動かして整理してみた - Taste of Tech Topics",
+      "url": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T04:10:16+00:00",
+      "fetched_at": "2026-08-25T10:27:49+00:00",
+      "summary": "はじめに こんにちは。最近StackChanを買って自分だけのデスクトップロボ開発にはまっているYAMALEXのSsk1029Takashiです。 今回の記事にはStackchanは関係ありません。 2026年のいま、「セマンティックレイヤー」「オントロジー」「OKF」「GraphRAG」といったキーワードを、エージェント関連の文脈でよく見かけるように...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "315350c690154b922121"
+    },
+    {
       "title": "国ごとの人口・死亡率・出生率の年齢別分布を世界地図をドラッグしながら見られるサイトが登場【やじうまWatch】",
       "url": "https://internet.watch.impress.co.jp/docs/yajiuma/2135237.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2865,47 +3001,72 @@
   ],
   "new_findings": [
     {
-      "title": "Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot",
-      "url": "https://e27.co/ecosystem-roundup-seas-ev-startups-pull-in-us622m-as-bets-move-from-pitch-to-pilot-20260825/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-25T10:07:49+00:00",
-      "fetched_at": "2026-08-25T10:14:31+00:00",
-      "summary": "Southeast Asia’s electric vehicle sector has quietly matured from concept pitches to funded pilots, with the top 16 startups across Singapore, Indonesia, Thailand and Vietnam attracting a combined US$622M in equity, per Tracxn’s August 2026 report. Every company on the list was founded from 2016 onward, and funding sits mostly at Series A/B — past experimentation, short […] The post Ecosystem Roundup: SEA’s EV start…",
+      "published_at": "2026-08-25T10:21:05+00:00",
+      "fetched_at": "2026-08-25T10:27:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
+        "BSI",
+        "CERT-Bund",
+        "Open Source",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1195e64c85ebbb6d1a41"
+      "id": "8abb2072d3b0cbe915ed"
     },
     {
-      "title": "America’s immigration policy is driving away future AI leaders",
-      "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "[NEU] [mittel] Autodesk 3ds Max: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2994",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-25T10:00:00+00:00",
-      "fetched_at": "2026-08-25T10:14:31+00:00",
-      "summary": "Visa restrictions are deterring international AI talent from building companies in the U.S., giving other nations including China an opportunity to catch up.",
+      "published_at": "2026-08-25T10:16:05+00:00",
+      "fetched_at": "2026-08-25T10:27:49+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Autodesk 3ds Max ausnutzen, um beliebigen Code im Kontext des betroffenen Prozesses auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
       "matched_keywords": [
-        "AI/KI",
-        "policy"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); policy (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8ecf54403d97ba6f9614"
+      "id": "723eacb3627250c0e069"
+    },
+    {
+      "title": "コンテキストエンジニアリングの最新事情— GraphRAGとOKFを実際に動かして整理してみた - Taste of Tech Topics",
+      "url": "https://acro-engineer.hatenablog.com/entry/2026/08/25/120000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T04:10:16+00:00",
+      "fetched_at": "2026-08-25T10:27:49+00:00",
+      "summary": "はじめに こんにちは。最近StackChanを買って自分だけのデスクトップロボ開発にはまっているYAMALEXのSsk1029Takashiです。 今回の記事にはStackchanは関係ありません。 2026年のいま、「セマンティックレイヤー」「オントロジー」「OKF」「GraphRAG」といったキーワードを、エージェント関連の文脈でよく見かけるように...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "315350c690154b922121"
     }
   ],
   "source_errors": [],

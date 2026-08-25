@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T10:15:11+00:00_
+_Generated: 2026-08-25T10:28:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `61`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-25T10:15:11+00:00_
 - url: https://github.com/NousResearch/hermes-agent
 - summary: The agent that grows with you https://hermes-agent.nousresearch.com Hermes Agent ☤ Hermes Agent | Hermes Desktop The self-improving AI agent built by Nous Research . It's the only agent with a built-in learning loop — it creates skills from experience, improv…
 
-### 4. M 5.5 - 108 km NE of Hengchun, Taiwan
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `17`
-- published: `2026-08-25T07:29:27.856+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnbm
-- summary: PAGER - GREEN ShakeMap - VI DYFI? - III Time 2026-08-25 07:00:10 UTC 2026-08-25 07:00:10 UTC at epicenter Location 22.605°N 121.571°E Depth 14.61 km (9.08 mi)
+- published: `2026-08-25T10:21:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2995
+- summary: Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Programmcode auszuführen, und um beliebigen Programmcode mit Administratorrechten auszuführen.
 
 ### 5. Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot
 - source: e27 Asia Startup and Tech Feed
