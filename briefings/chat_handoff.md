@@ -1,67 +1,25 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-25T23:59:27+00:00_
+_Generated: 2026-08-26T00:21:38+00:00_
 
 ## Status
 - status: `normal`
-- findings: `97`
+- findings: `2`
 
 ## Top Signals
 
-### 1. multica-ai/andrej-karpathy-skills
-- source: GitHub Trending RSS All Languages Daily
-- score: `20`
-- published: `None`
-- url: https://github.com/multica-ai/andrej-karpathy-skills
-- summary: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. Karpathy-Inspired Claude Code Guidelines Check out my new project Multica — an open-source platform for running and managing coding ag…
-
-### 2. How to evaluate LLMs before production
-- source: GitHub Blog Atom
-- score: `19`
-- published: `2026-08-25T21:35:11+00:00`
-- url: https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/
-- summary: These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .
-
-### 3. Alishahryar1/free-claude-code
-- source: GitHub Trending RSS All Languages Daily
-- score: `19`
-- published: `None`
-- url: https://github.com/Alishahryar1/free-claude-code
-- summary: Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) Quick Start · Providers · Clients · Integrations · Manage Independent open-source project. Not affiliat…
-
-### 4. Block users directly from security advisories
-- source: GitHub Changelog Atom
-- score: `18`
-- published: `2026-08-25T18:38:57+00:00`
-- url: https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories
-- summary: You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience… The post Block users directly from security advisories appeared fi…
-
-### 5. Introducing the Admin plugin for ChatGPT Work and Codex
-- source: OpenAI News RSS
-- score: `12`
-- published: `2026-08-25T00:00:00+00:00`
-- url: https://openai.com/index/introducing-admin-plugin
-- summary: Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.
-
-### 6. Ecosystem Roundup: SEA’s EV startups pull in US$622M as bets move from pitch to pilot
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-08-25T10:07:49+00:00`
-- url: https://e27.co/ecosystem-roundup-seas-ev-startups-pull-in-us622m-as-bets-move-from-pitch-to-pilot-20260825/
-- summary: Southeast Asia’s electric vehicle sector has quietly matured from concept pitches to funded pilots, with the top 16 startups across Singapore, Indonesia, Thailand and Vietnam attracting a combined US$622M in equity, per Tracxn’s August 2026 report. Every comp…
-
-### 7. Jalapeño’s first results show industry-leading speed and efficiency in AI inference
-- source: OpenAI News RSS
-- score: `11`
-- published: `2026-08-25T07:00:00+00:00`
-- url: https://openai.com/index/jalapeno-first-results
-- summary: Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.
-
-### 8. 複数チームで1つのClaude Codeプラグインマーケットプレイスを育てる ── 共同運用で直面した5つの課題と対策 - ZOZO TECH BLOG
+### 1. テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ
 - source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-08-25T02:02:32+00:00`
-- url: https://techblog.zozo.com/entry/cc-plugin-marketplace
-- summary: はじめに こんにちは、データシステム部MLOpsブロックの木村と、推薦基盤ブロックの上國料です。 ZOZOでは2025年7月より、Claude Codeをはじめとする各種AI開発ツールを利用できる制度を開始しました。 corp.zozo.com 現在ではこの制度のもと、数百名にのぼる社員がClaude Codeを活用しています。 Claude Codeの活用が進...
+- score: `6`
+- published: `2026-08-21T17:16:50+00:00`
+- url: https://future-architect.github.io/articles/20260819a/
+- summary: はじめに流通事業部の内堀です。 フューチャー社内の有志メンバーでテクニカルライティングガイドラインを作成し公開しました！ 設計書、Pull Requestの説明、Slackでの相談、障害の一次報告。ITコンサルタントの仕事は、文章を書くことと切り離せません。本ガイドラインが対象にするのは、こうした日々の文章そのもので...
+
+### 2. ※この記事は人の手で書かれています - Qiita
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-08-25T05:37:16+00:00`
+- url: https://qiita.com/kyuko/items/3380b85d0b52ea01f449
+- summary: こんにちは！ひさふるです。 最近、QiitaでもAIを使って書かれた記事が増えてきましたね。 AIで記事を効率的に書くこと自体も素晴らしいのですが、私としては、特に新卒で会社に入られた方などには「ぜひ自分の手で記事を書いてもらいたい！」と想うことも多く... 今回は、そんなAIで記事を書くことに対して想うことを語...
 
 END OF DOCUMENT
