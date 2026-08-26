@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:43:27+00:00",
-  "run_id": "2026-08-26T01:43:27+00:00",
+  "generated_at": "2026-08-26T02:15:33+00:00",
+  "run_id": "2026-08-26T02:15:33+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,64 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 7,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 1,
-    "observe": 6,
+    "medium": 5,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
+        "url": "https://jvn.jp/vu/JVNVU96558110/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-26T11:00:30+09:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "CodeQL/Dependabot",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "39e722726ed2b1dd2b92"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
+        "url": "https://jvn.jp/vu/JVNVU96254232/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-26T11:00:00+09:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+        "matched_keywords": [
+          "advisory",
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "86b554718e6b3b3de526"
+      },
       {
         "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
         "url": "https://ai-x-security-con.findy-tools.io/2026",
@@ -51,9 +98,119 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0e36e8638f4c2bb1524f"
+      },
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
+        "url": "https://jvn.jp/vu/JVNVU96149019/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-26T11:00:45+09:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd46801a5eb81eb05a6e"
+      },
+      {
+        "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94434952/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-26T11:00:15+09:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f91a087796715a2fbc44"
       }
     ],
     "observe": [
+      {
+        "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
+        "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-26T02:00:16+00:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "We opened our Indonesia office the old-fashioned way: a client there needed us on the ground, so we set up a local presence. It was the classic expansion logic every founder in this region knows — the work is there, so you go there. Earlier this year, that logic quietly inverted on us. An international […] The post A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy appeared first on e…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "55ce3ee46809c65cbedf"
+      },
+      {
+        "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
+        "url": "https://blog.perlassociation.org/entry/2026/08/26/100000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-26T01:20:33+00:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "一般社団法人Japan Perl Association理事の福本（id:papix）です。 2026年11月に開催するYAPC::Tokyo 2026に際して、会員企業・賛助会員として日頃から一般社団法人Japan Perl Association（以下「JPA」）を支えてくださっている企業の皆様、スポンサーとして支援を申し出てくださった企業の皆様、トークの応募・準備を...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "491b3ceceac828588300"
+      },
+      {
+        "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
+        "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-26T01:45:41+00:00",
+        "fetched_at": "2026-08-26T02:14:54+00:00",
+        "summary": "Almost every AI creative pitch landing in a Southeast Asian marketer’s inbox this quarter rests on the same unstated assumption: if machines now mediate discovery, machines should now make the work. The region’s own numbers say something more awkward, and the mismatch is expensive. The fourth annual discovery study from impact.com, produced with Cube and […] The post AI has become how Southeast Asia finds you, but i…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cdb5b0efbc9ed6925edc"
+      },
       {
         "title": "When will AI stop making memory more expensive? Probably much later than you hope",
         "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
@@ -184,6 +341,53 @@
   },
   "findings": [
     {
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
+      "url": "https://jvn.jp/vu/JVNVU96558110/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:30+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "CodeQL/Dependabot",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39e722726ed2b1dd2b92"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
+      "url": "https://jvn.jp/vu/JVNVU96254232/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:00+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "86b554718e6b3b3de526"
+    },
+    {
       "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -205,6 +409,116 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "0e36e8638f4c2bb1524f"
+    },
+    {
+      "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
+      "url": "https://jvn.jp/vu/JVNVU96149019/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:45+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd46801a5eb81eb05a6e"
+    },
+    {
+      "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94434952/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:15+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f91a087796715a2fbc44"
+    },
+    {
+      "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
+      "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T02:00:16+00:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "We opened our Indonesia office the old-fashioned way: a client there needed us on the ground, so we set up a local presence. It was the classic expansion logic every founder in this region knows — the work is there, so you go there. Earlier this year, that logic quietly inverted on us. An international […] The post A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy appeared first on e…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "55ce3ee46809c65cbedf"
+    },
+    {
+      "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
+      "url": "https://blog.perlassociation.org/entry/2026/08/26/100000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:20:33+00:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "一般社団法人Japan Perl Association理事の福本（id:papix）です。 2026年11月に開催するYAPC::Tokyo 2026に際して、会員企業・賛助会員として日頃から一般社団法人Japan Perl Association（以下「JPA」）を支えてくださっている企業の皆様、スポンサーとして支援を申し出てくださった企業の皆様、トークの応募・準備を...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "491b3ceceac828588300"
+    },
+    {
+      "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
+      "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:45:41+00:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "Almost every AI creative pitch landing in a Southeast Asian marketer’s inbox this quarter rests on the same unstated assumption: if machines now mediate discovery, machines should now make the work. The region’s own numbers say something more awkward, and the mismatch is expensive. The fourth annual discovery study from impact.com, produced with Cube and […] The post AI has become how Southeast Asia finds you, but i…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cdb5b0efbc9ed6925edc"
     },
     {
       "title": "When will AI stop making memory more expensive? Probably much later than you hope",
@@ -335,89 +649,161 @@
   ],
   "new_findings": [
     {
-      "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-      "url": "https://ai-x-security-con.findy-tools.io/2026",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
+      "url": "https://jvn.jp/vu/JVNVU96558110/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-08-26T01:03:18+00:00",
-      "fetched_at": "2026-08-26T01:42:51+00:00",
-      "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...",
+      "published_at": "2026-08-26T11:00:30+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
+        "advisory",
+        "APAC Trend Radar",
+        "CodeQL/Dependabot",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39e722726ed2b1dd2b92"
+    },
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
+      "url": "https://jvn.jp/vu/JVNVU96254232/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:00+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "matched_keywords": [
+        "advisory",
+        "APAC Trend Radar",
+        "JVN",
         "Security"
       ],
       "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0e36e8638f4c2bb1524f"
+      "id": "86b554718e6b3b3de526"
     },
     {
-      "title": "When will AI stop making memory more expensive? Probably much later than you hope",
-      "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
+      "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
+      "url": "https://jvn.jp/vu/JVNVU96149019/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:45+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd46801a5eb81eb05a6e"
+    },
+    {
+      "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94434952/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:00:15+09:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f91a087796715a2fbc44"
+    },
+    {
+      "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
+      "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-26T01:30:09+00:00",
-      "fetched_at": "2026-08-26T01:42:51+00:00",
-      "summary": "On August 1, Microsoft raised Xbox console prices by US$100 for 512GB models and US$150 for 1TB models. The company said storage and memory prices had risen more than 2.5 times and could roughly double again by fall 2027. That sounds like a gaming story. It is really an AI infrastructure story. The world is […] The post When will AI stop making memory more expensive? Probably much later than you hope appeared first…",
+      "published_at": "2026-08-26T02:00:16+00:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "We opened our Indonesia office the old-fashioned way: a client there needed us on the ground, so we set up a local presence. It was the classic expansion logic every founder in this region knows — the work is there, so you go there. Earlier this year, that logic quietly inverted on us. An international […] The post A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy appeared first on e…",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "APAC Trend Radar",
+        "founder"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e68e5993eecfafd11107"
+      "id": "55ce3ee46809c65cbedf"
     },
     {
-      "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
-      "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-26T01:06:14+00:00",
-      "fetched_at": "2026-08-26T01:42:51+00:00",
-      "summary": "BANGKOK, Thailand — August 26, 2026 — On Monday, Taiwan Tech Solution Day in Bangkok brought together Thailand’s corporate, investment, and startup communities with 11 Taiwanese technology startups for an afternoon of market insight, startup presentations, and discussions on cross-border collaboration. Co-organized by Startup Island TAIWAN and Taiwan Startup Terrace, and supported by iFlowDev, BitKub […] The post Ta…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6927dce2609480103130"
-    },
-    {
-      "title": "はてなブックマークつまらないなー",
-      "url": "https://anond.hatelabo.jp/20260817202814",
+      "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
+      "url": "https://blog.perlassociation.org/entry/2026/08/26/100000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-26T00:37:06+00:00",
-      "fetched_at": "2026-08-26T01:42:51+00:00",
-      "summary": "ホッテントリに入る顔ぶれがいつも同じかついつも似たような内容でなんかお年寄り臭い。それ5年前にも同じような記事ブクマしてなかったか？そんなにプレジデントとか東洋経済読んでるのか？デイリーポータルZとかも正直一部の良く手が動く人とかきっちりした人以外微妙。朝日のいい加減な記事。結局Togetterなんだｗ",
+      "published_at": "2026-08-26T01:20:33+00:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "一般社団法人Japan Perl Association理事の福本（id:papix）です。 2026年11月に開催するYAPC::Tokyo 2026に際して、会員企業・賛助会員として日頃から一般社団法人Japan Perl Association（以下「JPA」）を支えてくださっている企業の皆様、スポンサーとして支援を申し出てくださった企業の皆様、トークの応募・準備を...",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9665fa05dc44d63aa7d3"
+      "id": "491b3ceceac828588300"
+    },
+    {
+      "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
+      "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:45:41+00:00",
+      "fetched_at": "2026-08-26T02:14:54+00:00",
+      "summary": "Almost every AI creative pitch landing in a Southeast Asian marketer’s inbox this quarter rests on the same unstated assumption: if machines now mediate discovery, machines should now make the work. The region’s own numbers say something more awkward, and the mismatch is expensive. The fourth annual discovery study from impact.com, produced with Cube and […] The post AI has become how Southeast Asia finds you, but i…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cdb5b0efbc9ed6925edc"
     }
   ],
   "source_errors": [],

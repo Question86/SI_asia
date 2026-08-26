@@ -1,8 +1,45 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T01:43:27+00:00",
+  "generated_at": "2026-08-26T02:15:33+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T11:00:30+09:00",
+        "relevance_score": 23,
+        "url": "https://jvn.jp/vu/JVNVU96558110/"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T11:00:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU96254232/"
+      },
+      {
+        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T01:03:18+00:00",
+        "relevance_score": 16,
+        "url": "https://ai-x-security-con.findy-tools.io/2026"
+      },
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T11:00:45+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96149019/"
+      },
+      {
+        "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T11:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94434952/"
+      }
+    ],
     "ai": [
       {
         "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
@@ -10,6 +47,20 @@
         "published_at": "2026-08-26T01:03:18+00:00",
         "relevance_score": 16,
         "url": "https://ai-x-security-con.findy-tools.io/2026"
+      },
+      {
+        "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T02:00:16+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/"
+      },
+      {
+        "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T01:45:41+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
       },
       {
         "title": "When will AI stop making memory more expensive? Probably much later than you hope",
@@ -33,16 +84,37 @@
         "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449"
       }
     ],
-    "security": [
+    "geopolitics": [
       {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "relevance_score": 16,
-        "url": "https://ai-x-security-con.findy-tools.io/2026"
+        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T11:00:45+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96149019/"
+      },
+      {
+        "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T01:45:41+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
       }
     ],
     "economy": [
+      {
+        "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T02:00:16+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/"
+      },
+      {
+        "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T01:45:41+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
+      },
       {
         "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
         "source": "e27 Asia Startup and Tech Feed",
@@ -58,6 +130,22 @@
         "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/"
       }
     ],
+    "general": [
+      {
+        "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T01:20:33+00:00",
+        "relevance_score": 11,
+        "url": "https://blog.perlassociation.org/entry/2026/08/26/100000"
+      },
+      {
+        "title": "はてなブックマークつまらないなー",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T00:37:06+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260817202814"
+      }
+    ],
     "github": [
       {
         "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
@@ -65,15 +153,6 @@
         "published_at": "2026-08-21T17:16:50+00:00",
         "relevance_score": 6,
         "url": "https://future-architect.github.io/articles/20260819a/"
-      }
-    ],
-    "general": [
-      {
-        "title": "はてなブックマークつまらないなー",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T00:37:06+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260817202814"
       }
     ]
   }
