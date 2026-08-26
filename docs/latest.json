@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T08:25:19+00:00",
-  "run_id": "2026-08-26T08:25:19+00:00",
+  "generated_at": "2026-08-26T08:43:08+00:00",
+  "run_id": "2026-08-26T08:43:08+00:00",
   "date": "2026-08-26",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 49
     },
@@ -24,7 +24,7 @@
     "high": 3,
     "medium": 15,
     "observe": 31,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -2427,14 +2427,7 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

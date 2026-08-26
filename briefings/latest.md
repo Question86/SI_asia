@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T08:25:19+00:00_
+_Generiert: 2026-08-26T08:43:08+00:00_
 
 ## Kurzlage
 
-49 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+49 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,30 +29,8 @@ _Generiert: 2026-08-26T08:25:19+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-20`
   - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561717)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI&gt;=V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561682)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI&gt;=V.
-- **GDACS: Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001310)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561542)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561504)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001309)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f471fee4b90>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -334,7 +312,3 @@ _Generiert: 2026-08-26T08:25:19+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
