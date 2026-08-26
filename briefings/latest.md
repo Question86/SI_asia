@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T19:57:59+00:00_
+_Generiert: 2026-08-26T20:49:55+00:00_
 
 ## Kurzlage
 
-96 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+97 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-08-26T19:57:59+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.
-- **USGS earthquake M5.6 - 212 km E of Onagawa Chō, Japan** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18)
-  - Quelle: USGS
-  - Zeit: `2026-08-26T19:21:41+00:00`
-  - Kurz: M5.6 - 212 km E of Onagawa Chō, Japan. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -143,6 +139,15 @@ _Generiert: 2026-08-26T19:57:59+00:00_
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric vehicle supply chains. The Philippines is trying to build a stronger EV ecosystem of its own. At the 4th ASEAN Battery […] The post ASEAN battery push enters a h…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **GitHub Copilot app for Beginners: Automate Dependabot pull request triage** — Score 18, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-08-26T20:12:53+00:00`, fetched `2026-08-26T20:49:14+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-26T11:01:06+00:00`, fetched `2026-08-26T11:07:29+00:00`
@@ -233,15 +238,6 @@ _Generiert: 2026-08-26T19:57:59+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Japan is moving into Southeast Asia faster than the West, and most brands haven’t noticed yet** — Score 14, observation — [Quelle](https://e27.co/japan-is-moving-into-southeast-asia-faster-than-the-west-and-most-brands-havent-noticed-yet-20260824/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-26T03:00:41+00:00`, fetched `2026-08-26T03:10:50+00:00`
-  - Treffer: APAC Trend Radar, Public Health, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)
-  - Kurz: From our Tokyo office, the shift is hard to miss. The Japanese companies we talk to have stopped treating Southeast Asia as a factory floor and started treating it as a customer base. That change in posture is quietly reshaping who competes for the region’s fastest-growing consumers. The Western narrative around Southeast Asia’s growth tends […] The post Japan is moving into Southeast Asia faster than the West, and…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
