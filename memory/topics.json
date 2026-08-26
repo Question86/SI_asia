@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T02:44:53+00:00",
+  "generated_at": "2026-08-26T03:11:26+00:00",
   "topics": {
     "security": [
       {
@@ -26,6 +26,20 @@
         "url": "https://ai-x-security-con.findy-tools.io/2026"
       },
       {
+        "title": "Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T12:00:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN67155805/"
+      },
+      {
+        "title": "CorvusSKKにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN18496672/"
+      },
+      {
         "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-26T11:00:45+09:00",
@@ -42,6 +56,13 @@
     ],
     "ai": [
       {
+        "title": "apache/maka",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 22,
+        "url": "https://github.com/apache/maka"
+      },
+      {
         "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-26T01:03:18+00:00",
@@ -54,6 +75,13 @@
         "published_at": "2026-08-26T02:15:16+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/"
+      },
+      {
+        "title": "AgriciDaniel/claude-obsidian",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/AgriciDaniel/claude-obsidian"
       },
       {
         "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
@@ -70,6 +98,20 @@
         "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
       },
       {
+        "title": "anthropics/claude-plugins-community",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/anthropics/claude-plugins-community"
+      },
+      {
+        "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T03:08:31+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/"
+      },
+      {
         "title": "When will AI stop making memory more expensive? Probably much later than you hope",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-26T01:30:09+00:00",
@@ -77,21 +119,58 @@
         "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/"
       },
       {
-        "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T01:06:14+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/"
+        "title": "TauricResearch/TradingAgents",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      }
+    ],
+    "github": [
+      {
+        "title": "apache/maka",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 22,
+        "url": "https://github.com/apache/maka"
       },
       {
-        "title": "※この記事は人の手で書かれています - Qiita",
+        "title": "AgriciDaniel/claude-obsidian",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/AgriciDaniel/claude-obsidian"
+      },
+      {
+        "title": "anthropics/claude-plugins-community",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/anthropics/claude-plugins-community"
+      },
+      {
+        "title": "TauricResearch/TradingAgents",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      {
+        "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
         "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-25T05:37:16+00:00",
-        "relevance_score": 5,
-        "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449"
+        "published_at": "2026-08-21T17:16:50+00:00",
+        "relevance_score": 6,
+        "url": "https://future-architect.github.io/articles/20260819a/"
       }
     ],
     "geopolitics": [
+      {
+        "title": "apache/maka",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 22,
+        "url": "https://github.com/apache/maka"
+      },
       {
         "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
         "source": "JVN Japan Vulnerability Notes",
@@ -105,6 +184,57 @@
         "published_at": "2026-08-26T01:45:41+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
+      },
+      {
+        "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T03:08:31+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/"
+      },
+      {
+        "title": "TauricResearch/TradingAgents",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      }
+    ],
+    "general": [
+      {
+        "title": "Japan is moving into Southeast Asia faster than the West, and most brands haven’t noticed yet",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T03:00:41+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/japan-is-moving-into-southeast-asia-faster-than-the-west-and-most-brands-havent-noticed-yet-20260824/"
+      },
+      {
+        "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T01:20:33+00:00",
+        "relevance_score": 11,
+        "url": "https://blog.perlassociation.org/entry/2026/08/26/100000"
+      },
+      {
+        "title": "M 4.5 - 26 km SW of Ashkāsham, Afghanistan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-26T03:06:24.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw6"
+      },
+      {
+        "title": "M 4.5 - 218 km NNE of Lospalos, Timor Leste",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-26T02:21:12.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5"
+      },
+      {
+        "title": "はてなブックマークつまらないなー",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T00:37:06+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260817202814"
       }
     ],
     "economy": [
@@ -121,6 +251,20 @@
         "published_at": "2026-08-26T01:45:41+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
+      },
+      {
+        "title": "anthropics/claude-plugins-community",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/anthropics/claude-plugins-community"
+      },
+      {
+        "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T03:08:31+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/"
       },
       {
         "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
@@ -142,38 +286,6 @@
         "published_at": "2026-08-26T01:00:21+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/"
-      }
-    ],
-    "general": [
-      {
-        "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:20:33+00:00",
-        "relevance_score": 11,
-        "url": "https://blog.perlassociation.org/entry/2026/08/26/100000"
-      },
-      {
-        "title": "M 4.5 - 218 km NNE of Lospalos, Timor Leste",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T02:21:12.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5"
-      },
-      {
-        "title": "はてなブックマークつまらないなー",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T00:37:06+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260817202814"
-      }
-    ],
-    "github": [
-      {
-        "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-21T17:16:50+00:00",
-        "relevance_score": 6,
-        "url": "https://future-architect.github.io/articles/20260819a/"
       }
     ]
   }
