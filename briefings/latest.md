@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T16:57:16+00:00_
+_Generiert: 2026-08-26T18:31:27+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+93 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-60004 Gitea Gitea** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2021-23758 Ajax.NET Professional Ajax.NET Professional** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-25`
-  - Kurz: Known exploited vulnerability. Added 2026-08-25. Due 2026-08-28. Gitea Code Injection Vulnerability
-- **CISA KEV: CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-08-26`
+  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Ajax.NET Professional Deserialization of Untrusted Data Vulnerability
+- **CISA KEV: CVE-2015-3246 Red Hat Libuser** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-24`
-  - Kurz: Known exploited vulnerability. Added 2026-08-24. Due 2026-08-27. Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability
-- **CISA KEV: CVE-2026-73570 Synacor Zimbra Collaboration Suite (ZCS)** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-08-26`
+  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
+- **CISA KEV: CVE-2015-5287 Red Hat Automatic Bug Reporting Tool** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-21`
-  - Kurz: Known exploited vulnerability. Added 2026-08-21. Due 2026-08-24. Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-72530 TrueConf Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-08-26`
+  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability
+- **CISA KEV: CVE-2022-0995 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-20`
-  - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-09-03. TrueConf Server Code Injection Vulnerability
-- **CISA KEV: CVE-2026-72529 TrueConf Server** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-08-26`
+  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Linux Kernel Out-of-Bounds Write Vulnerability
+- **CISA KEV: CVE-2026-8452 Citrix NetScaler ADC and NetScaler Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-20`
-  - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability
+  - Zeit: `2026-08-26`
+  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-08-29. Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
 - **GDACS: Green flood alert in Australia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104119)
   - Quelle: GDACS
   - Zeit: ``
@@ -273,6 +273,15 @@ _Generiert: 2026-08-26T16:57:16+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. https://agricidaniel.com/blog/claude-obsidian-ai-second-brain claude-obsidian Build an Obsidian knowledge base th…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bringing ChatGPT for Teachers to more U.S. school districts** — Score 12, observation — [Quelle](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-26T10:00:00+00:00`, fetched `2026-08-26T18:30:57+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)
+  - Kurz: ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260076.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-08-26T08:15:18+00:00`, fetched `2026-08-26T07:33:12+00:00`
@@ -290,6 +299,24 @@ _Generiert: 2026-08-26T16:57:16+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: We opened our Indonesia office the old-fashioned way: a client there needed us on the ground, so we set up a local presence. It was the classic expansion logic every founder in this region knows — the work is there, so you go there. Earlier this year, that logic quietly inverted on us. An international […] The post A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy appeared first on e…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話** — Score 11, observation — [Quelle](https://zenn.dev/sc30gsw/articles/953334f11df507)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-26T14:12:04+00:00`, fetched `2026-08-26T18:30:57+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 退勤直前にタスクを投げ、PCを閉じて帰る。寝ている間にテスト、AIによるレビュー修正まで回ってPRが上がってくる。翌朝、上がってきたPRをレビューする。 これは現在の私の開発の実情です。私がここでやることは2つだけで、止まったエージェントを起こすことと、承認が必要なものの確認・許可をすることです。...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Learning never stops: How AI makes learning continuous** — Score 11, observation — [Quelle](https://openai.com/index/learning-never-stops)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-26T10:00:00+00:00`, fetched `2026-08-26T18:30:57+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **WordPress-Plug-in TranslatePress ermöglicht Übernahme bei 400.000 Installationen** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Plug-in-TranslatePress-ermoeglicht-Uebernahme-bei-400-000-Installationen-11426021.html)
   - Quelle: heise Security Alerts / `rss`
@@ -345,33 +372,6 @@ _Generiert: 2026-08-26T16:57:16+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-26 14:25:41 UTC 2026-08-26 14:25:41 UTC at epicenter Location 11.042°S 165.795°E Depth 71.19 km (44.24 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 82 km NE of Otrada, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-26T07:52:00.040+00:00`, fetched `2026-08-26T07:53:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-26 07:32:17 UTC 2026-08-26 07:32:17 UTC at epicenter Location 44.686°N 146.440°E Depth 159.46 km (99.08 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 26 km SW of Ashkāsham, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-26T03:06:24.040+00:00`, fetched `2026-08-26T03:10:50+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-26 02:24:09 UTC 2026-08-26 02:24:09 UTC at epicenter Location 36.489°N 71.363°E Depth 93.70 km (58.22 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-08-26T10:15:00+00:00`, fetched `2026-08-26T10:24:40+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-08-26T16:57:20+00:00",
+  "generated_at": "2026-08-26T18:31:30+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-60004 Gitea Gitea",
-        "summary": "Known exploited vulnerability. Added 2026-08-25. Due 2026-08-28. Gitea Code Injection Vulnerability",
+        "title": "CISA KEV: CVE-2021-23758 Ajax.NET Professional Ajax.NET Professional",
+        "summary": "Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-25",
+        "published_at": "2026-08-26",
         "metrics": {
-          "cve": "CVE-2026-60004"
+          "cve": "CVE-2021-23758"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in",
-        "summary": "Known exploited vulnerability. Added 2026-08-24. Due 2026-08-27. Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+        "title": "CISA KEV: CVE-2015-3246 Red Hat Libuser",
+        "summary": "Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-24",
+        "published_at": "2026-08-26",
         "metrics": {
-          "cve": "CVE-2026-21962"
+          "cve": "CVE-2015-3246"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-73570 Synacor Zimbra Collaboration Suite (ZCS)",
-        "summary": "Known exploited vulnerability. Added 2026-08-21. Due 2026-08-24. Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
+        "title": "CISA KEV: CVE-2015-5287 Red Hat Automatic Bug Reporting Tool",
+        "summary": "Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-21",
+        "published_at": "2026-08-26",
         "metrics": {
-          "cve": "CVE-2026-73570"
+          "cve": "CVE-2015-5287"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-72530 TrueConf Server",
-        "summary": "Known exploited vulnerability. Added 2026-08-20. Due 2026-09-03. TrueConf Server Code Injection Vulnerability",
+        "title": "CISA KEV: CVE-2022-0995 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Linux Kernel Out-of-Bounds Write Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-20",
+        "published_at": "2026-08-26",
         "metrics": {
-          "cve": "CVE-2026-72530"
+          "cve": "CVE-2022-0995"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-72529 TrueConf Server",
-        "summary": "Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability",
+        "title": "CISA KEV: CVE-2026-8452 Citrix NetScaler ADC and NetScaler Gateway",
+        "summary": "Known exploited vulnerability. Added 2026-08-26. Due 2026-08-29. Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-20",
+        "published_at": "2026-08-26",
         "metrics": {
-          "cve": "CVE-2026-72529"
+          "cve": "CVE-2026-8452"
         }
       },
       {
