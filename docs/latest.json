@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T13:36:55+00:00",
-  "run_id": "2026-08-26T13:36:55+00:00",
+  "generated_at": "2026-08-26T13:59:30+00:00",
+  "run_id": "2026-08-26T13:59:30+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 2,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 3,
     "medium": 42,
-    "observe": 40,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1879,6 +1879,27 @@
         "id": "dfa6bba16557111fdf8a"
       },
       {
+        "title": "Mac mini買おうと思ってるんだけどディスプレイどうしたらいいんだよ？5K？何だその解像度？旨いのか？",
+        "url": "https://anond.hatelabo.jp/20260826195509",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-26T10:55:50+00:00",
+        "fetched_at": "2026-08-26T13:58:53+00:00",
+        "summary": "なんだよ5Kって、、、？そんな中途半端な解像度、今まで聴いたこともねえよ。マニアの間では常識なのか？え？Macのためにそれを買えってか？つーかなんでアップルはいちいちいちいち乗り換えのハードルとか上げて囲い込みをしたがるんかね？",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d361c7be216ff410b3c5"
+      },
+      {
         "title": "Starlinkはレベル4大雨危険警報でも使えているか？検証しました | IIJ Engineers Blog",
         "url": "https://eng-blog.iij.ad.jp/archives/37490",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2003,6 +2024,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5e0b4cf45ef8a2db9189"
+      },
+      {
+        "title": "GitHub Apps can now access enterprise billing data",
+        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-26T12:18:59+00:00",
+        "fetched_at": "2026-08-26T13:58:53+00:00",
+        "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose… The post GitHub Apps can now access enterprise billing data appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e174c2f2f3eb89465df5"
       },
       {
         "title": "Agritech’s next business model may not charge the farmer",
@@ -3915,6 +3956,27 @@
       "id": "dfa6bba16557111fdf8a"
     },
     {
+      "title": "Mac mini買おうと思ってるんだけどディスプレイどうしたらいいんだよ？5K？何だその解像度？旨いのか？",
+      "url": "https://anond.hatelabo.jp/20260826195509",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T10:55:50+00:00",
+      "fetched_at": "2026-08-26T13:58:53+00:00",
+      "summary": "なんだよ5Kって、、、？そんな中途半端な解像度、今まで聴いたこともねえよ。マニアの間では常識なのか？え？Macのためにそれを買えってか？つーかなんでアップルはいちいちいちいち乗り換えのハードルとか上げて囲い込みをしたがるんかね？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d361c7be216ff410b3c5"
+    },
+    {
       "title": "Starlinkはレベル4大雨危険警報でも使えているか？検証しました | IIJ Engineers Blog",
       "url": "https://eng-blog.iij.ad.jp/archives/37490",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4041,6 +4103,26 @@
       "id": "5e0b4cf45ef8a2db9189"
     },
     {
+      "title": "GitHub Apps can now access enterprise billing data",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-26T12:18:59+00:00",
+      "fetched_at": "2026-08-26T13:58:53+00:00",
+      "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose… The post GitHub Apps can now access enterprise billing data appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e174c2f2f3eb89465df5"
+    },
+    {
       "title": "Agritech’s next business model may not charge the farmer",
       "url": "https://e27.co/agritechs-next-business-model-may-not-charge-the-farmer-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -4104,13 +4186,13 @@
   ],
   "new_findings": [
     {
-      "title": "登壇資料を作る技術 - プププなテクブ",
-      "url": "https://blog.inorinrinrin.com/entry/2026/08/26/145705",
+      "title": "Mac mini買おうと思ってるんだけどディスプレイどうしたらいいんだよ？5K？何だその解像度？旨いのか？",
+      "url": "https://anond.hatelabo.jp/20260826195509",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-26T06:15:33+00:00",
-      "fetched_at": "2026-08-26T13:36:26+00:00",
-      "summary": "このエントリは続編です。前作は、 blog.inorinrinrin.com をご覧ください。前作では登壇資料の作り方そのものについては別の機会にブログに書くということで終わっていました。 そこから数週間経った頃、nikkieさんのエントリにて、 ※Kanonさんの集合知の登壇資料ブログがいいなと思ったので、（真似できる範囲で）パク...",
+      "published_at": "2026-08-26T10:55:50+00:00",
+      "fetched_at": "2026-08-26T13:58:53+00:00",
+      "summary": "なんだよ5Kって、、、？そんな中途半端な解像度、今まで聴いたこともねえよ。マニアの間では常識なのか？え？Macのためにそれを買えってか？つーかなんでアップルはいちいちいちいち乗り換えのハードルとか上げて囲い込みをしたがるんかね？",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4122,7 +4204,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bc0e679cd9cabaed1ca4"
+      "id": "d361c7be216ff410b3c5"
+    },
+    {
+      "title": "GitHub Apps can now access enterprise billing data",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-26T12:18:59+00:00",
+      "fetched_at": "2026-08-26T13:58:53+00:00",
+      "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose… The post GitHub Apps can now access enterprise billing data appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e174c2f2f3eb89465df5"
     }
   ],
   "source_errors": [],
