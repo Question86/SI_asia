@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T07:14:56+00:00_
+_Generiert: 2026-08-26T07:33:43+00:00_
 
 ## Kurzlage
 
-45 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+47 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -215,6 +215,15 @@ _Generiert: 2026-08-26T07:14:56+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. https://agricidaniel.com/blog/claude-obsidian-ai-second-brain claude-obsidian Build an Obsidian knowledge base th…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260076.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-08-26T08:15:18+00:00`, fetched `2026-08-26T07:33:12+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy** — Score 12, observation — [Quelle](https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-26T02:00:16+00:00`, fetched `2026-08-26T02:14:54+00:00`
@@ -223,6 +232,15 @@ _Generiert: 2026-08-26T07:14:56+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: We opened our Indonesia office the old-fashioned way: a client there needed us on the ground, so we set up a local presence. It was the classic expansion logic every founder in this region knows — the work is there, so you go there. Earlier this year, that logic quietly inverted on us. An international […] The post A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy appeared first on e…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WordPress-Plug-in TranslatePress ermöglicht Übernahme bei 400.000 Installationen** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-Plug-in-TranslatePress-ermoeglicht-Uebernahme-bei-400-000-Installationen-11426021.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-26T07:27:00.000+00:00`, fetched `2026-08-26T07:33:12+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Eine Lücke im Plug-in TranslatePress für WordPress gefährdet 400.000 Instanzen. Angriffe laufen derweil auf miniOrange SAML.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ** — Score 11, observation — [Quelle](https://blog.perlassociation.org/entry/2026/08/26/100000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -295,24 +313,6 @@ _Generiert: 2026-08-26T07:14:56+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 天才的プログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏。「サイバー攻撃を高度化させている」「人間の仕事を奪う」といった懸念が高まるAI（人工知能）をどう見ているのか。インタビュー記事（上）では、AIの進化とリスク、そして経営者がどう向き合うべきかについて聞いた。 （聞き手は山崎良...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **行政手続等の棚卸結果（令和7年度調査）を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/procedures-survey-results)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-26T06:00:00+00:00`, fetched `2026-08-26T06:17:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 行政手続等の棚卸結果（令和7年度調査）を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **地方自治体の事務の共同処理に関するダッシュボードを開設しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-26T06:00:00+00:00`, fetched `2026-08-26T06:17:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 地方自治体の事務の共同処理に関するダッシュボードを開設しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
