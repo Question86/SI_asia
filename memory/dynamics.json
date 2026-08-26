@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-26T11:10:21Z",
+  "generated_at": "2026-08-26T11:23:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
-      "krass": 16,
-      "strong": 17,
+      "krass": 17,
+      "strong": 16,
       "watch": 3
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 33,
+      "krass": 5,
+      "strong": 32,
       "watch": 3
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:01:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -44,11 +44,36 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3023",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T11:06:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in bluez ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen."
+    },
+    {
       "title": "[NEU] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3019",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:01:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -73,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3018",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:01:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -98,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2064",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:35+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -123,7 +148,7 @@
       "url": "https://jvn.jp/vu/JVNVU96423082/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T15:30:15+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -148,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU92836377/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T15:30:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -172,7 +197,7 @@
       "url": "https://jvn.jp/jp/JVN67155805/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:15+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -196,7 +221,7 @@
       "url": "https://jvn.jp/jp/JVN18496672/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:00+09:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "security"
@@ -221,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3021",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:01:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -246,7 +271,7 @@
       "url": "https://jvn.jp/vu/JVNVU94434952/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -270,7 +295,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3015",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security"
@@ -295,7 +320,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3016",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -343,7 +368,7 @@
       "url": "https://jvn.jp/vu/JVNVU95772889/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-01-23T10:00:00+09:00",
-      "age_days": 580.42,
+      "age_days": 580.43,
       "topics": [
         "security"
       ],
@@ -372,7 +397,7 @@
       "url": "https://jvn.jp/vu/JVNVU90424473/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-10-18T10:30:00+09:00",
-      "age_days": 677.4,
+      "age_days": 677.41,
       "topics": [
         "security"
       ],
@@ -401,7 +426,7 @@
       "url": "https://jvn.jp/vu/JVNVU94584169/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-05-31T16:00:00+09:00",
-      "age_days": 1183.17,
+      "age_days": 1183.18,
       "topics": [
         "security"
       ],
@@ -430,7 +455,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -459,7 +484,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:33+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -485,7 +510,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3022",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:01:06+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -511,7 +536,7 @@
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -537,7 +562,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security",
         "macro"
@@ -564,7 +589,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:33+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -590,7 +615,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T08:41:07+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -616,7 +641,7 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -642,7 +667,7 @@
       "url": "https://jvn.jp/vu/JVNVU96254232/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -718,7 +743,7 @@
       "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-26T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -745,7 +770,7 @@
       "url": "https://github.com/apache/maka",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -772,7 +797,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 68.38,
+      "age_days": 68.39,
       "topics": [
         "ai"
       ],
@@ -801,7 +826,7 @@
       "url": "https://jvn.jp/vu/JVNVU96558110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:30+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -827,7 +852,7 @@
       "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T08:00:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security",
@@ -906,7 +931,7 @@
       "url": "https://e27.co/astar-singhealth-spin-off-bioactivx-lands-us3m-for-next-gen-wound-care-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T04:43:20+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -927,36 +952,11 @@
       "summary": "For patients with serious burns, the difference between a specialist hospital and a poorly equipped clinic can shape recovery for years. Advanced wound-care products exist, but many still depend on animal-derived materials, refrigeration, sterile operating rooms and clinicians trained to handle resource-heavy procedur…"
     },
     {
-      "title": "M 4.8 - 147 km E of Miyako, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-26T07:12:47.040+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-08-26 06:54:52 UTC 2026-08-26 06:54:52 UTC at epicenter Location 39.728°N 143.660°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "Bitcoin touched US$81,000: Was that a rally or a forced repricing?",
       "url": "https://e27.co/bitcoin-touched-us81000-was-that-a-rally-or-a-forced-repricing-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T04:12:24+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -981,7 +981,7 @@
       "url": "https://jvn.jp/ta/JVNTA95077890/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-12-26T14:00:00+09:00",
-      "age_days": 974.26,
+      "age_days": 974.27,
       "topics": [
         "security"
       ],
@@ -1006,7 +1006,7 @@
       "url": "https://jvn.jp/vu/JVNVU94632906/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-03-23T11:30:00+09:00",
-      "age_days": 1252.36,
+      "age_days": 1252.37,
       "topics": [
         "security"
       ],
@@ -1031,7 +1031,7 @@
       "url": "https://jvn.jp/vu/JVNVU91213144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-02-08T14:30:15+09:00",
-      "age_days": 1295.24,
+      "age_days": 1295.25,
       "topics": [
         "security"
       ],
