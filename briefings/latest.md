@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T10:12:12+00:00_
+_Generiert: 2026-08-26T10:25:16+00:00_
 
 ## Kurzlage
 
-54 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+55 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -350,14 +350,14 @@ _Generiert: 2026-08-26T10:12:12+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-26 02:05:46 UTC 2026-08-26 02:05:46 UTC at epicenter Location 6.619°S 127.547°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning** — Score 8, observation — [Quelle](https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-26T03:08:31+00:00`, fetched `2026-08-26T03:10:50+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-08-26T10:15:00+00:00`, fetched `2026-08-26T10:24:40+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Asia Pacific’s economy is being held up by a powerful but increasingly narrow engine: artificial intelligence. In a note released on Tuesday, Moody’s Analytics said the region has so far avoided a sharper slowdown because demand for AI-related hardware continues to lift exports from some of its most technology-heavy economies. But beneath that headline resilience, […] The post AI boom shields Asia Pacific, but Moody…
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

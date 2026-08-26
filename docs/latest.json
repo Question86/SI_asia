@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T10:12:12+00:00",
-  "run_id": "2026-08-26T10:12:12+00:00",
+  "generated_at": "2026-08-26T10:25:16+00:00",
+  "run_id": "2026-08-26T10:25:16+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 54
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 54,
-    "displayed_findings": 54,
+    "new_relevant_findings": 1,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 3,
     "medium": 19,
-    "observe": 32,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -963,6 +963,26 @@
           "LOW"
         ],
         "id": "7c08881edc1bff363373"
+      },
+      {
+        "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-08-26T10:15:00+00:00",
+        "fetched_at": "2026-08-26T10:24:40+00:00",
+        "summary": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ac1e2c4f745b0576d341"
       },
       {
         "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
@@ -2296,6 +2316,26 @@
       "id": "7c08881edc1bff363373"
     },
     {
+      "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-08-26T10:15:00+00:00",
+      "fetched_at": "2026-08-26T10:24:40+00:00",
+      "summary": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ac1e2c4f745b0576d341"
+    },
+    {
       "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
       "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2694,68 +2734,24 @@
   ],
   "new_findings": [
     {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI News RSS",
+      "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "fetched_at": "2026-08-26T10:11:36+00:00",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "published_at": "2026-08-26T10:15:00+00:00",
+      "fetched_at": "2026-08-26T10:24:40+00:00",
+      "summary": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
       "matched_keywords": [
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "Macro/Policy"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "6b70224659b63c3d7ba1"
-    },
-    {
-      "title": "Why the global push to break free from Big Tech keeps falling short",
-      "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "fetched_at": "2026-08-26T10:11:36+00:00",
-      "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil and China are taking on Big Tech companies.",
-      "matched_keywords": [
-        "AI/KI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region south_america: Brazil (+2.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f641bd26504af4c26019"
+      "id": "ac1e2c4f745b0576d341"
     }
   ],
   "source_errors": [],
