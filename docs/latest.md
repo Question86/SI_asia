@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T19:17:25+00:00_
+_Generiert: 2026-08-26T19:57:59+00:00_
 
 ## Kurzlage
 
-94 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+96 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ _Generiert: 2026-08-26T19:17:25+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A local-first Agent workspace built for real work. Maka inspects projects, runs tools under a sandbox boundary, and records model messages and tool calls as recover…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.6 - 212 km E of Onagawa Chō, Japan** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-26T19:55:05.777+00:00`, fetched `2026-08-26T19:57:26+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - III Time 2026-08-26 19:21:41 UTC 2026-08-26 19:21:41 UTC at epicenter Location 38.129°N 143.848°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ASEAN battery push enters a harder phase: building factories, standards and markets** — Score 19, risk — [Quelle](https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-26T08:00:00+00:00`, fetched `2026-08-26T08:09:23+00:00`
@@ -110,6 +119,15 @@ _Generiert: 2026-08-26T19:17:25+00:00_
   - Warum relevant: AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **The Hugging Face incident and the road ahead** — Score 16, observation — [Quelle](https://openai.com/index/hugging-face-incident-and-the-road-ahead)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-26T00:00:00+00:00`, fetched `2026-08-26T19:57:26+00:00`
+  - Treffer: AI/KI, OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+6.0); recent (+1.0)
+  - Kurz: OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - 42 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-26T18:58:07.040+00:00`, fetched `2026-08-26T19:16:46+00:00`
@@ -137,15 +155,6 @@ _Generiert: 2026-08-26T19:17:25+00:00_
   - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Security ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 147 km E of Miyako, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-26T07:12:47.040+00:00`, fetched `2026-08-26T07:14:25+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-26 06:54:52 UTC 2026-08-26 06:54:52 UTC at epicenter Location 39.728°N 143.660°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96423082/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-26T15:30:15+09:00`, fetched `2026-08-26T06:32:49+00:00`
@@ -163,15 +172,6 @@ _Generiert: 2026-08-26T19:17:25+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)
   - Kurz: From our Tokyo office, the shift is hard to miss. The Japanese companies we talk to have stopped treating Southeast Asia as a factory floor and started treating it as a customer base. That change in posture is quietly reshaping who competes for the region’s fastest-growing consumers. The Western narrative around Southeast Asia’s growth tends […] The post Japan is moving into Southeast Asia faster than the West, and…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Taste is the last moat: I’m trading my wearables for wine** — Score 14, observation — [Quelle](https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-26T02:15:16+00:00`, fetched `2026-08-26T02:44:19+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Public Health, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is taste. Prologue: The man who wore five devices to […] The post Taste is the last moat: I’m trading my wearables for wine appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -322,7 +322,3 @@ _Generiert: 2026-08-26T19:17:25+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)

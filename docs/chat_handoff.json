@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-26T19:17:25+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-08-26T19:57:59+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "new_relevant_findings": 2,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 3,
-    "medium": 44,
+    "medium": 46,
     "observe": 47
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
@@ -65,6 +65,16 @@
       "section": "medium"
     },
     {
+      "title": "M 5.6 - 212 km E of Onagawa Chō, Japan",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-26T19:55:05.777+00:00",
+      "relevance_score": 19,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18",
+      "summary": "PAGER - GREEN ShakeMap - III Time 2026-08-26 19:21:41 UTC 2026-08-26 19:21:41 UTC at epicenter Location 38.129°N 143.848°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
+    {
       "title": "ASEAN battery push enters a harder phase: building factories, standards and markets",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 19,
       "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/",
       "summary": "For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric v…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:01:06+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen.",
       "section": "medium"
     },
     {
@@ -130,151 +130,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=43.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
-        "url": "https://jvn.jp/vu/JVNVU95772889/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2025-01-23T10:00:00+09:00",
-        "age_days": 580.77,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 580.8d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [20th January 2025] （\"Timing side-channel in ECDSA signature computation (CVE-2024-13176)\"）が公開されました。"
-      },
-      {
-        "title": "OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
-        "url": "https://jvn.jp/vu/JVNVU90424473/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-10-18T10:30:00+09:00",
-        "age_days": 677.75,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 677.7d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [16th October 2024] （\"Low-level invalid GF(2^m) parameters lead to OOB memory access (CVE-2024-9143)\"）が公開されました。"
-      },
-      {
-        "title": "OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
-        "url": "https://jvn.jp/vu/JVNVU94584169/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2023-05-31T16:00:00+09:00",
-        "age_days": 1183.52,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 1183.5d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [30th May 2023] （Possible DoS translating ASN.1 object identifiers (CVE-2023-2650)）が公開されました。"
-      },
-      {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "url": "https://ai-x-security-con.findy-tools.io/2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "age_days": 0.76,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:01:06+00:00",
-        "age_days": 0.35,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen."
-      }
-    ]
-  }
+  ]
 }

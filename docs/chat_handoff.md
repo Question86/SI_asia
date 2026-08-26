@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-26T19:17:25+00:00_
+_Generated: 2026-08-26T19:57:59+00:00_
 
 ## Status
-- status: `warning`
-- findings: `94`
+- status: `normal`
+- findings: `96`
 
 ## Top Signals
 
@@ -43,19 +43,19 @@ _Generated: 2026-08-26T19:17:25+00:00_
 - url: https://github.com/apache/maka
 - summary: Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A lo…
 
-### 6. ASEAN battery push enters a harder phase: building factories, standards and markets
+### 6. M 5.6 - 212 km E of Onagawa Chō, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-08-26T19:55:05.777+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18
+- summary: PAGER - GREEN ShakeMap - III Time 2026-08-26 19:21:41 UTC 2026-08-26 19:21:41 UTC at epicenter Location 38.129°N 143.848°E Depth 10.00 km (6.21 mi)
+
+### 7. ASEAN battery push enters a harder phase: building factories, standards and markets
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-08-26T08:00:00+00:00`
 - url: https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/
 - summary: For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric v…
-
-### 7. [NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-08-26T11:01:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 8. SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて
 - source: JVN Japan Vulnerability Notes
