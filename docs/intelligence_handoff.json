@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-26T10:23:48Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-08-26T10:42:26Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2064",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:35+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
       "url": "https://jvn.jp/vu/JVNVU95772889/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-01-23T10:00:00+09:00",
-      "age_days": 580.39,
+      "age_days": 580.4,
       "topics": [
         "security"
       ],
@@ -44,7 +69,7 @@
       "url": "https://jvn.jp/vu/JVNVU90424473/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-10-18T10:30:00+09:00",
-      "age_days": 677.37,
+      "age_days": 677.38,
       "topics": [
         "security"
       ],
@@ -73,7 +98,7 @@
       "url": "https://jvn.jp/vu/JVNVU94584169/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-05-31T16:00:00+09:00",
-      "age_days": 1183.14,
+      "age_days": 1183.15,
       "topics": [
         "security"
       ],
@@ -91,7 +116,7 @@
         "high terms: code",
         "security high-signal: code",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 1183.1d old signal",
+        "aging penalty -8.0 for 1183.2d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "official security but no high-signal phrase: capped at strong"
       ],
@@ -102,7 +127,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -127,11 +152,37 @@
       "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:33+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher bezeichnete Angriffe durchzuführen."
+    },
+    {
       "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -153,11 +204,64 @@
       "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。"
     },
     {
+      "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:34+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: remote, controller",
+        "security high-signal: remote, controller",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Dell integrated Dell Remote Access Controller ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:33+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
+    },
+    {
       "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T08:41:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -183,7 +287,7 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -209,7 +313,7 @@
       "url": "https://jvn.jp/vu/JVNVU96254232/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -228,111 +332,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "WordPress-Plug-in TranslatePress ermöglicht Übernahme bei 400.000 Installationen",
-      "url": "https://www.heise.de/news/WordPress-Plug-in-TranslatePress-ermoeglicht-Uebernahme-bei-400-000-Installationen-11426021.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-08-26T07:27:00.000+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Eine Lücke im Plug-in TranslatePress für WordPress gefährdet 400.000 Instanzen. Angriffe laufen derweil auf miniOrange SAML."
-    },
-    {
-      "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-26T09:07:39+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Security ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "Why the global push to break free from Big Tech keeps falling short",
-      "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil and China are taking on Big Tech companies."
-    },
-    {
-      "title": "apache/maka",
-      "url": "https://github.com/apache/maka",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A local-first Agent workspace built for real work. Maka inspects…"
     }
   ],
   "read_order": [
@@ -344,7 +343,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }

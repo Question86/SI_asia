@@ -1,30 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-26T10:23:48Z",
+  "generated_at": "2026-08-26T10:42:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
-      "krass": 8,
-      "strong": 14,
-      "watch": 11,
-      "quiet": 3
+      "krass": 12,
+      "strong": 16,
+      "watch": 8
     },
     "bands_after_gate_recheck": {
-      "strong": 26,
-      "watch": 11,
-      "quiet": 3
+      "krass": 1,
+      "strong": 31,
+      "watch": 8
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2064",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:35+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um beliebigen Programmcode auszuführen."
+    },
     {
       "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU96423082/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T15:30:15+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -49,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU92836377/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T15:30:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -73,7 +97,7 @@
       "url": "https://jvn.jp/jp/JVN67155805/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -97,7 +121,7 @@
       "url": "https://jvn.jp/jp/JVN18496672/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -122,7 +146,7 @@
       "url": "https://jvn.jp/vu/JVNVU94434952/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:15+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -142,11 +166,60 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3015",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:34+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in PolicyKit ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3016",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:34+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] PAM: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2913",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T09:07:37+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -170,7 +243,7 @@
       "url": "https://jvn.jp/vu/JVNVU95772889/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-01-23T10:00:00+09:00",
-      "age_days": 580.39,
+      "age_days": 580.4,
       "topics": [
         "security"
       ],
@@ -199,7 +272,7 @@
       "url": "https://jvn.jp/vu/JVNVU90424473/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-10-18T10:30:00+09:00",
-      "age_days": 677.37,
+      "age_days": 677.38,
       "topics": [
         "security"
       ],
@@ -228,7 +301,7 @@
       "url": "https://jvn.jp/vu/JVNVU94584169/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-05-31T16:00:00+09:00",
-      "age_days": 1183.14,
+      "age_days": 1183.15,
       "topics": [
         "security"
       ],
@@ -246,7 +319,7 @@
         "high terms: code",
         "security high-signal: code",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 1183.1d old signal",
+        "aging penalty -8.0 for 1183.2d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "official security but no high-signal phrase: capped at strong"
       ],
@@ -257,7 +330,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -282,11 +355,37 @@
       "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:33+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher bezeichnete Angriffe durchzuführen."
+    },
+    {
       "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -308,11 +407,64 @@
       "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。"
     },
     {
+      "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:34+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: remote, controller",
+        "security high-signal: remote, controller",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Dell integrated Dell Remote Access Controller ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T10:36:33+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
+    },
+    {
       "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T08:41:07+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -338,7 +490,7 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -364,7 +516,7 @@
       "url": "https://jvn.jp/vu/JVNVU96254232/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -389,7 +541,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-TranslatePress-ermoeglicht-Uebernahme-bei-400-000-Installationen-11426021.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-26T07:27:00.000+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -415,7 +567,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T09:07:39+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -440,7 +592,7 @@
       "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-08-26T10:00:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -467,7 +619,7 @@
       "url": "https://github.com/apache/maka",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -494,7 +646,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 68.35,
+      "age_days": 68.36,
       "topics": [
         "ai"
       ],
@@ -523,7 +675,7 @@
       "url": "https://jvn.jp/vu/JVNVU96558110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:30+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -549,7 +701,7 @@
       "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T08:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -578,7 +730,7 @@
       "url": "https://www.digital.go.jp/resources/procedures-survey-results",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-26T06:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -603,7 +755,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-26T06:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -628,7 +780,7 @@
       "url": "https://e27.co/astar-singhealth-spin-off-bioactivx-lands-us3m-for-next-gen-wound-care-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T04:43:20+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -653,7 +805,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-26T07:12:47.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -678,7 +830,7 @@
       "url": "https://e27.co/bitcoin-touched-us81000-was-that-a-rally-or-a-forced-repricing-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T04:12:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -703,7 +855,7 @@
       "url": "https://jvn.jp/ta/JVNTA95077890/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-12-26T14:00:00+09:00",
-      "age_days": 974.22,
+      "age_days": 974.24,
       "topics": [
         "security"
       ],
@@ -728,7 +880,7 @@
       "url": "https://jvn.jp/vu/JVNVU94632906/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-03-23T11:30:00+09:00",
-      "age_days": 1252.33,
+      "age_days": 1252.34,
       "topics": [
         "security"
       ],
@@ -753,7 +905,7 @@
       "url": "https://jvn.jp/vu/JVNVU91213144/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-02-08T14:30:15+09:00",
-      "age_days": 1295.2,
+      "age_days": 1295.22,
       "topics": [
         "security"
       ],
@@ -778,7 +930,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-26T02:21:12.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -803,7 +955,7 @@
       "url": "https://blog.perlassociation.org/entry/2026/08/26/100000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:20:33+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -827,7 +979,7 @@
       "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T01:06:14+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "macro"
@@ -854,7 +1006,7 @@
       "url": "https://e27.co/japan-is-moving-into-southeast-asia-faster-than-the-west-and-most-brands-havent-noticed-yet-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-26T03:00:41+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -878,7 +1030,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260076.en.html",
       "source": "ECB Open Market Operations and Communication",
       "published_at": "2026-08-26T08:15:18+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -896,158 +1048,7 @@
         "no strong comparative reason"
       ],
       "summary": "Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45"
-    },
-    {
-      "title": "M 4.7 - 82 km NE of Otrada, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-26T07:52:00.040+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-26 07:32:17 UTC 2026-08-26 07:32:17 UTC at epicenter Location 44.686°N 146.440°E Depth 159.46 km (99.08 mi)"
-    },
-    {
-      "title": "M 4.5 - 26 km SW of Ashkāsham, Afghanistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-26T03:06:24.040+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-08-26 02:24:09 UTC 2026-08-26 02:24:09 UTC at epicenter Location 36.489°N 71.363°E Depth 93.70 km (58.22 mi)"
-    },
-    {
-      "title": "Agritech’s next business model may not charge the farmer",
-      "url": "https://e27.co/agritechs-next-business-model-may-not-charge-the-farmer-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-26T07:00:02+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "For much of the last decade, agritech startups in emerging markets were sold on a seductive idea: millions of smallholder farmers, armed with smartphones, would pay for software that helped them farm better. Investors liked the story because it sounded scalable. Build once, distribute widely, grow user numbers fast. T…"
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-08-26T00:00:00+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
-    },
-    {
-      "title": "StashAway acquires MakeGoodwill to add digital wills to its wealth platform",
-      "url": "https://e27.co/stashaway-acquires-makegoodwill-to-add-digital-wills-to-its-wealth-platform-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-26T05:30:35+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For years, digital wealth platforms in Southeast Asia have focused on helping users do one thing better: invest. They lowered account minimums, simplified portfolios, and made cash management and ETFs available through an app. StashAway now wants to move into a less glamorous but arguably more consequential part of th…"
-    },
-    {
-      "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？",
-      "url": "https://togetter.com/li/2737633",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-26T02:57:58+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "H/de.(LOOPCUBE / TECHNOJAPAN.net) @hide_loopcube 一枚だけリアルな写真で残り３枚はそれぞれChatGPT、gemini、Grokが生成した「#AI生成画像」です。 どれが本物のラーメンか判定できますか？ ※全画像の正方形トリミング加工は人間が行いました。 ※「実は全部AIでした」みたいなヌルいネタポストではありません。 #審..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
 }
