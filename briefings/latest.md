@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T22:45:40+00:00_
+_Generiert: 2026-08-26T23:57:55+00:00_
 
 ## Kurzlage
 
-103 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+104 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,6 @@ _Generiert: 2026-08-26T22:45:40+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-08-29. Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
-- **GDACS: Green flood alert in Australia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104119)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Australia
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 26/08/2026 19:21 UTC, 100 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561972)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +53,6 @@ _Generiert: 2026-08-26T22:45:40+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561504)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.
 
 ## Wirtschaft global
 

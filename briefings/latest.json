@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T22:45:40+00:00",
-  "run_id": "2026-08-26T22:45:40+00:00",
+  "generated_at": "2026-08-26T23:57:55+00:00",
+  "run_id": "2026-08-26T23:57:55+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 103
+      "configured_public_sources_only": 104
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 103,
-    "displayed_findings": 103,
+    "new_relevant_findings": 1,
+    "today_file_total": 104,
+    "displayed_findings": 104,
     "high": 3,
     "medium": 48,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -2429,6 +2429,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9665fa05dc44d63aa7d3"
+      },
+      {
+        "title": "AI時代のプロダクト立ち上げ ── バクラク人事労務の開発プロセスと、盛大に踏んだ失敗｜Shinshiro",
+        "url": "https://note.com/shinshiro/n/n45c9931a88e5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-25T14:07:52+00:00",
+        "fetched_at": "2026-08-26T23:57:18+00:00",
+        "summary": "LayerXでバクラク人事労務のPdMを担当しているShinshiro（@U2Qshinshiro）です。 先日、バクラク人事労務を開発する上でこだわったことを、noteに書きました。 こちらでは、それをどうやって作ったかを書きます。 やり方の大枠は、バクラク勤怠を立ち上げた時と変わっていません。ひたすら業務を見せてもらい、業務に深...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf2db4745ea6c0241da9"
       },
       {
         "title": "※この記事は人の手で書かれています - Qiita",
@@ -4934,6 +4955,27 @@
       "id": "9665fa05dc44d63aa7d3"
     },
     {
+      "title": "AI時代のプロダクト立ち上げ ── バクラク人事労務の開発プロセスと、盛大に踏んだ失敗｜Shinshiro",
+      "url": "https://note.com/shinshiro/n/n45c9931a88e5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-25T14:07:52+00:00",
+      "fetched_at": "2026-08-26T23:57:18+00:00",
+      "summary": "LayerXでバクラク人事労務のPdMを担当しているShinshiro（@U2Qshinshiro）です。 先日、バクラク人事労務を開発する上でこだわったことを、noteに書きました。 こちらでは、それをどうやって作ったかを書きます。 やり方の大枠は、バクラク勤怠を立ち上げた時と変わっていません。ひたすら業務を見せてもらい、業務に深...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf2db4745ea6c0241da9"
+    },
+    {
       "title": "※この記事は人の手で書かれています - Qiita",
       "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5038,116 +5080,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.5 - 118 km ESE of Yujing, Taiwan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc37",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-26T22:12:21.040+00:00",
-      "fetched_at": "2026-08-26T22:45:02+00:00",
-      "summary": "Time 2026-08-26 21:47:17 UTC 2026-08-26 21:47:17 UTC at epicenter Location 22.844°N 121.573°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "6db4e8cf1c7a65304858"
-    },
-    {
-      "title": "最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史",
-      "url": "https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html",
+      "title": "AI時代のプロダクト立ち上げ ── バクラク人事労務の開発プロセスと、盛大に踏んだ失敗｜Shinshiro",
+      "url": "https://note.com/shinshiro/n/n45c9931a88e5",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-26T12:07:41+00:00",
-      "fetched_at": "2026-08-26T22:45:02+00:00",
-      "summary": "これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってたすみません。 最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってた...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "53acb9ef3781ff28a86e"
-    },
-    {
-      "title": "「オルカン高配当」登場 eMAXIS高配当全世界株式 9月30日から 注意点も",
-      "url": "https://japan.cnet.com/article/35251950/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-26T09:23:12+00:00",
-      "fetched_at": "2026-08-26T22:45:02+00:00",
-      "summary": "三菱UFJアセットマネジメントは8月26日、投資信託「eMAXIS 高配当全世界株式（オール・カントリー）」を9月30日に設定し、運用を始めると発表した。愛称は「オルカン高配当」。 連動をめざすのは「MSCIオール・カントリー・ワールド・インデックス高配当利回り指数」（配当込み、円換算ベース）だ。MSCIが開発した株価指...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed7e727e556686873eff"
-    },
-    {
-      "title": "Global model policy generally available",
-      "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-26T22:08:38+00:00",
-      "fetched_at": "2026-08-26T22:45:02+00:00",
-      "summary": "In July, we announced a default model policy for generally available GitHub Copilot models on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling out enforcement of the… The post Global model policy generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "17ac2aa683de4cf1f608"
-    },
-    {
-      "title": "OH! NAMAE DOMAIN - ドメイン取得サービス",
-      "url": "https://project.activetk.jp/dark-domain-shop/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-26T12:51:44+00:00",
-      "fetched_at": "2026-08-26T22:45:02+00:00",
-      "summary": "OH! NAMAE DOMAIN - ドメイン取得サービス",
+      "published_at": "2026-08-25T14:07:52+00:00",
+      "fetched_at": "2026-08-26T23:57:18+00:00",
+      "summary": "LayerXでバクラク人事労務のPdMを担当しているShinshiro（@U2Qshinshiro）です。 先日、バクラク人事労務を開発する上でこだわったことを、noteに書きました。 こちらでは、それをどうやって作ったかを書きます。 やり方の大枠は、バクラク勤怠を立ち上げた時と変わっていません。ひたすら業務を見せてもらい、業務に深...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -5159,7 +5098,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "993f91e6d9b7fd35bcb5"
+      "id": "cf2db4745ea6c0241da9"
     }
   ],
   "source_errors": [],
