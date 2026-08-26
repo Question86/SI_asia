@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-26T14:01:38Z_
+_Generated: 2026-08-26T14:28:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-08-26T11:01:06+00:00` / age_days `0.13`
+- Published: `2026-08-26T11:01:06+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-26T11:56:05+00:00` / age_days `0.09`
+- Published: `2026-08-26T11:56:05+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, root, security high-signal: code, root
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-26T11:46:06+00:00` / age_days `0.09`
+- Published: `2026-08-26T11:46:06+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-26T11:41:05+00:00` / age_days `0.1`
+- Published: `2026-08-26T11:41:05+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, rce, code, security high-signal: kritisch, rce, code
@@ -52,17 +52,17 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2025-01-23T10:00:00+09:00` / age_days `580.54`
+- Published: `2025-01-23T10:00:00+09:00` / age_days `580.56`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 580.5d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
+- Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 580.6d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU95772889/
 
 ### OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2024-10-18T10:30:00+09:00` / age_days `677.52`
+- Published: `2024-10-18T10:30:00+09:00` / age_days `677.54`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 677.5d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2023-05-31T16:00:00+09:00` / age_days `1183.29`
+- Published: `2023-05-31T16:00:00+09:00` / age_days `1183.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 1183.3d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T01:03:18+00:00` / age_days `0.54`
+- Published: `2026-08-26T01:03:18+00:00` / age_days `0.56`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T10:36:33+00:00` / age_days `0.14`
+- Published: `2026-08-26T10:36:33+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T11:46:05+00:00` / age_days `0.09`
+- Published: `2026-08-26T11:46:05+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T11:41:06+00:00` / age_days `0.1`
+- Published: `2026-08-26T11:41:06+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TR
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T11:31:13+00:00` / age_days `0.1`
+- Published: `2026-08-26T11:31:13+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
