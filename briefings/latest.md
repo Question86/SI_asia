@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T09:57:14+00:00_
+_Generiert: 2026-08-26T10:12:12+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+54 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -212,6 +212,15 @@ _Generiert: 2026-08-26T09:57:14+00:00_
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is taste. Prologue: The man who wore five devices to […] The post Taste is the last moat: I’m trading my wearables for wine appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How loveholidays is making everyone a builder with Codex** — Score 14, observation — [Quelle](https://openai.com/index/loveholidays)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-26T00:00:00+00:00`, fetched `2026-08-26T10:11:36+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -287,6 +296,15 @@ _Generiert: 2026-08-26T09:57:14+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)
   - Kurz: 一般社団法人Japan Perl Association理事の福本（id:papix）です。 2026年11月に開催するYAPC::Tokyo 2026に際して、会員企業・賛助会員として日頃から一般社団法人Japan Perl Association（以下「JPA」）を支えてくださっている企業の皆様、スポンサーとして支援を申し出てくださった企業の皆様、トークの応募・準備を...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why the global push to break free from Big Tech keeps falling short** — Score 10, observation — [Quelle](https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-26T10:00:00+00:00`, fetched `2026-08-26T10:11:36+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region south_america: Brazil (+2.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil and China are taking on Big Tech companies.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI has become how Southeast Asia finds you, but it still isn’t how the region decides** — Score 10, observation — [Quelle](https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-26T01:45:41+00:00`, fetched `2026-08-26T02:14:54+00:00`
@@ -341,15 +359,6 @@ _Generiert: 2026-08-26T09:57:14+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Asia Pacific’s economy is being held up by a powerful but increasingly narrow engine: artificial intelligence. In a note released on Tuesday, Moody’s Analytics said the region has so far avoided a sharper slowdown because demand for AI-related hardware continues to lift exports from some of its most technology-heavy economies. But beneath that headline resilience, […] The post AI boom shields Asia Pacific, but Moody…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **TauricResearch/TradingAgents** — Score 8, observation — [Quelle](https://github.com/TauricResearch/TradingAgents)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-26T03:10:50+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -361,8 +370,3 @@ _Generiert: 2026-08-26T09:57:14+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4a3de24f10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4a3ddd9710>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
