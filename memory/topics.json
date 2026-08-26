@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T08:43:08+00:00",
+  "generated_at": "2026-08-26T09:02:49+00:00",
   "topics": {
     "security": [
       {
@@ -205,6 +205,13 @@
         "published_at": "2026-08-26T11:00:45+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96149019/"
+      },
+      {
+        "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T08:41:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003"
       },
       {
         "title": "Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45",
