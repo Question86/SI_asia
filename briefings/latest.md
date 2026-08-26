@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T09:02:49+00:00_
+_Generiert: 2026-08-26T09:22:12+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+52 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -149,6 +149,15 @@ _Generiert: 2026-08-26T09:02:49+00:00_
   - Warum relevant: AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen** — Score 15, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-26T09:07:39+00:00`, fetched `2026-08-26T09:21:40+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Security ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 147 km E of Miyako, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-26T07:12:47.040+00:00`, fetched `2026-08-26T07:14:25+00:00`
@@ -167,6 +176,15 @@ _Generiert: 2026-08-26T09:02:49+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] PAM: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2913)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-26T09:07:37+00:00`, fetched `2026-08-26T09:21:40+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PAM ausnutzen, um Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-26T08:41:07+00:00`, fetched `2026-08-26T09:02:14+00:00`

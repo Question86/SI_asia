@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-26T09:02:49+00:00",
+  "generated_at": "2026-08-26T09:22:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "new_relevant_findings": 2,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 3,
-    "medium": 16,
+    "medium": 18,
     "observe": 31
   },
   "source_errors_count": 0,
@@ -130,151 +130,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=43.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
-        "url": "https://jvn.jp/vu/JVNVU95772889/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2025-01-23T10:00:00+09:00",
-        "age_days": 580.34,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 580.3d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [20th January 2025] （\"Timing side-channel in ECDSA signature computation (CVE-2024-13176)\"）が公開されました。"
-      },
-      {
-        "title": "OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
-        "url": "https://jvn.jp/vu/JVNVU90424473/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-10-18T10:30:00+09:00",
-        "age_days": 677.32,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 677.3d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [16th October 2024] （\"Low-level invalid GF(2^m) parameters lead to OOB memory access (CVE-2024-9143)\"）が公開されました。"
-      },
-      {
-        "title": "OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
-        "url": "https://jvn.jp/vu/JVNVU94584169/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2023-05-31T16:00:00+09:00",
-        "age_days": 1183.09,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 1183.1d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [30th May 2023] （Possible DoS translating ASN.1 object identifiers (CVE-2023-2650)）が公開されました。"
-      },
-      {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "url": "https://ai-x-security-con.findy-tools.io/2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "age_days": 0.33,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
-        "url": "https://jvn.jp/vu/JVNVU96149019/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:45+09:00",
-        "age_days": 0.29,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。"
-      }
-    ]
-  }
+  ]
 }

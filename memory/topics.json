@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T09:02:49+00:00",
+  "generated_at": "2026-08-26T09:22:12+00:00",
   "topics": {
     "security": [
       {
@@ -47,6 +47,13 @@
         "url": "https://ai-x-security-con.findy-tools.io/2026"
       },
       {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T09:07:39+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
+      },
+      {
         "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-26T15:30:15+09:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-26T12:00:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN67155805/"
-      },
-      {
-        "title": "CorvusSKKにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN18496672/"
       }
     ],
     "ai": [
@@ -198,6 +198,13 @@
         "published_at": null,
         "relevance_score": 22,
         "url": "https://github.com/apache/maka"
+      },
+      {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T09:07:39+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
       },
       {
         "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",

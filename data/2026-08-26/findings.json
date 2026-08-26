@@ -257,6 +257,29 @@
     "id": "0e36e8638f4c2bb1524f"
   },
   {
+    "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T09:07:39+00:00",
+    "fetched_at": "2026-08-26T09:21:40+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Security ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "dd1797227e98367d1ea4"
+  },
+  {
     "title": "M 4.8 - 147 km E of Miyako, Japan",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -424,6 +447,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f91a087796715a2fbc44"
+  },
+  {
+    "title": "[UPDATE] [mittel] PAM: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2913",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T09:07:37+00:00",
+    "fetched_at": "2026-08-26T09:21:40+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PAM ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4d28a4d16a4005830a83"
   },
   {
     "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
