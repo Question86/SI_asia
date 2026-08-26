@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-26T07:53:53+00:00_
+_Generated: 2026-08-26T08:09:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `49`
 
 ## Top Signals
 
@@ -43,19 +43,19 @@ _Generated: 2026-08-26T07:53:53+00:00_
 - url: https://github.com/apache/maka
 - summary: Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A lo…
 
-### 6. CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）
+### 6. ASEAN battery push enters a harder phase: building factories, standards and markets
+- source: e27 Asia Startup and Tech Feed
+- score: `19`
+- published: `2026-08-26T08:00:00+00:00`
+- url: https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/
+- summary: For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric v…
+
+### 7. CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-26T11:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96254232/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 7. 「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？
-- source: Hatena Bookmark Hotentry IT
-- score: `16`
-- published: `2026-08-26T02:57:58+00:00`
-- url: https://togetter.com/li/2737633
-- summary: H/de.(LOOPCUBE / TECHNOJAPAN.net) @hide_loopcube 一枚だけリアルな写真で残り３枚はそれぞれChatGPT、gemini、Grokが生成した「#AI生成画像」です。 どれが本物のラーメンか判定できますか？ ※全画像の正方形トリミング加工は人間が行いました。 ※「実は全部AIでした」みたいなヌルいネタポストではありません。 #審...
 
 ### 8. SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて
 - source: JVN Japan Vulnerability Notes

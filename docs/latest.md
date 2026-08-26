@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T07:53:53+00:00_
+_Generiert: 2026-08-26T08:09:57+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+49 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 ## Priorität Hoch
 
@@ -56,6 +56,15 @@ _Generiert: 2026-08-26T07:53:53+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A local-first Agent workspace built for real work. Maka inspects projects, runs tools under a sandbox boundary, and records model messages and tool calls as recover…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **ASEAN battery push enters a harder phase: building factories, standards and markets** — Score 19, risk — [Quelle](https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-26T08:00:00+00:00`, fetched `2026-08-26T08:09:23+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric vehicle supply chains. The Philippines is trying to build a stronger EV ecosystem of its own. At the 4th ASEAN Battery […] The post ASEAN battery push enters a h…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU96254232/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-26T11:00:00+09:00`, fetched `2026-08-26T02:14:54+00:00`
