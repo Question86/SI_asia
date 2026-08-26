@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T09:39:02+00:00_
+_Generiert: 2026-08-26T09:57:14+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+52 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -307,4 +307,5 @@ _Generiert: 2026-08-26T09:39:02+00:00_
 
 ## Quellenfehler
 
-- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4a3de24f10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4a3ddd9710>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))

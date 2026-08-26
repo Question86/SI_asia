@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T09:39:02+00:00",
-  "run_id": "2026-08-26T09:39:02+00:00",
+  "generated_at": "2026-08-26T09:57:14+00:00",
+  "run_id": "2026-08-26T09:57:14+00:00",
   "date": "2026-08-26",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 3,
     "medium": 18,
     "observe": 31,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [
@@ -2567,10 +2567,16 @@
   "new_findings": [],
   "source_errors": [
     {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4a3de24f10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    },
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f4a3ddd9710>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
     }
   ],
   "quality_gate": {
