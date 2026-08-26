@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-26T06:11:04Z",
+  "generated_at": "2026-08-26T06:25:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN67155805/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:15+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN18496672/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -64,7 +64,7 @@
       "url": "https://jvn.jp/vu/JVNVU94434952/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security"
@@ -117,7 +117,7 @@
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://jvn.jp/vu/JVNVU96254232/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 68.18,
+      "age_days": 68.19,
       "topics": [
         "ai"
       ],
@@ -250,7 +250,7 @@
       "url": "https://jvn.jp/vu/JVNVU96558110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:30+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -272,13 +272,13 @@
       "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。"
     },
     {
-      "title": "A*STAR, SingHealth spin-off Bioactivx lands US$3M for next-gen wound care",
-      "url": "https://e27.co/astar-singhealth-spin-off-bioactivx-lands-us3m-for-next-gen-wound-care-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-26T04:43:20+00:00",
-      "age_days": 0.06,
+      "title": "行政手続等の棚卸結果（令和7年度調査）を掲載しました",
+      "url": "https://www.digital.go.jp/resources/procedures-survey-results",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-26T06:00:00+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -294,18 +294,18 @@
         "high terms: rce",
         "security high-signal: rce"
       ],
-      "summary": "For patients with serious burns, the difference between a specialist hospital and a poorly equipped clinic can shape recovery for years. Advanced wound-care products exist, but many still depend on animal-derived materials, refrigeration, sterile operating rooms and clinicians trained to handle resource-heavy procedur…"
+      "summary": "行政手続等の棚卸結果（令和7年度調査）を掲載しました"
     },
     {
-      "title": "Bitcoin touched US$81,000: Was that a rally or a forced repricing?",
-      "url": "https://e27.co/bitcoin-touched-us81000-was-that-a-rally-or-a-forced-repricing-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-26T04:12:24+00:00",
-      "age_days": 0.08,
+      "title": "地方自治体の事務の共同処理に関するダッシュボードを開設しました",
+      "url": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-08-26T06:00:00+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 21.0,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
@@ -316,10 +316,10 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10"
+        "high terms: rce",
+        "security high-signal: rce"
       ],
-      "summary": "Bitcoin just reminded the world why it remains the most volatile macro asset of this era. In less than a week, the coin climbed from below US$65,000 to above US$81,000, a gain of more than 25 per cent that marks its highest level since mid-May, and one report even frames the move as a 28 […] The post Bitcoin touched U…"
+      "summary": "地方自治体の事務の共同処理に関するダッシュボードを開設しました"
     }
   ],
   "read_order": [
