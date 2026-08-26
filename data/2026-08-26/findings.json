@@ -453,6 +453,75 @@
     "id": "4b073731613a016ffc2d"
   },
   {
+    "title": "[UPDATE] [mittel] Apache HttpComponents Core: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2172",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T11:31:14+00:00",
+    "fetched_at": "2026-08-26T11:33:02+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache HttpComponents Core ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "79a5834597f310e9d4cc"
+  },
+  {
+    "title": "[UPDATE] [hoch] Jenkins Plugins: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2074",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T11:31:13+00:00",
+    "fetched_at": "2026-08-26T11:33:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Jenkins Plugins ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen und vertrauliche Informationen zu manipulieren oder offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7a4ff78363a127702a56"
+  },
+  {
+    "title": "[UPDATE] [hoch] Jenkins: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1884",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T11:31:11+00:00",
+    "fetched_at": "2026-08-26T11:33:02+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Jenkins ausnutzen, um beliebigen Programmcode auszuführen, sich als Benutzer auszugeben, Benutzer auf vom Angreifer kontrollierte Domänen umzuleiten, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen und zu manipulieren sowie Cross-Site-Scripting-Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "82801216fa9ea1778850"
+  },
+  {
     "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3023",
     "source": "BSI CERT-Bund Security Advisories",
