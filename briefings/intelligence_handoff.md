@@ -1,28 +1,18 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-26T10:01:55Z_
+_Generated: 2026-08-26T10:23:48Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-08-26T15:30:15+09:00` / age_days `0.15`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: jvn, security
-- Quelle: https://jvn.jp/vu/JVNVU96423082/
 
 ### OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2025-01-23T10:00:00+09:00` / age_days `580.38`
+- Published: `2025-01-23T10:00:00+09:00` / age_days `580.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 580.4d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -32,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2024-10-18T10:30:00+09:00` / age_days `677.36`
+- Published: `2024-10-18T10:30:00+09:00` / age_days `677.37`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 677.4d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -42,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2023-05-31T16:00:00+09:00` / age_days `1183.13`
+- Published: `2023-05-31T16:00:00+09:00` / age_days `1183.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 1183.1d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -52,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T01:03:18+00:00` / age_days `0.37`
+- Published: `2026-08-26T01:03:18+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T11:00:45+09:00` / age_days `0.33`
+- Published: `2026-08-26T11:00:45+09:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -72,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T08:41:07+00:00` / age_days `0.06`
+- Published: `2026-08-26T08:41:07+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code, official security but no high-signal phrase: capped at strong
@@ -82,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T03:10:50+00:00` / age_days `0.29`
+- Published: `2026-08-26T03:10:50+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, official security but no high-signal phrase: capped at strong
@@ -92,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T11:00:00+09:00` / age_days `0.33`
+- Published: `2026-08-26T11:00:00+09:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -102,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T07:27:00.000+00:00` / age_days `0.11`
+- Published: `2026-08-26T07:27:00.000+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,17 +102,27 @@ Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T09:07:39+00:00` / age_days `0.04`
+- Published: `2026-08-26T09:07:39+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956
 
+### Why the global push to break free from Big Tech keeps falling short
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-26T10:00:00+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
 ### apache/maka
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T03:10:50+00:00` / age_days `0.29`
+- Published: `2026-08-26T03:10:50+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck

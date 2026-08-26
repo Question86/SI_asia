@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-26T10:01:55Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-26T10:23:48Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,36 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96423082/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-26T15:30:15+09:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。"
-    },
-    {
       "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
       "url": "https://jvn.jp/vu/JVNVU95772889/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-01-23T10:00:00+09:00",
-      "age_days": 580.38,
+      "age_days": 580.39,
       "topics": [
         "security"
       ],
@@ -69,7 +44,7 @@
       "url": "https://jvn.jp/vu/JVNVU90424473/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-10-18T10:30:00+09:00",
-      "age_days": 677.36,
+      "age_days": 677.37,
       "topics": [
         "security"
       ],
@@ -98,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU94584169/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-05-31T16:00:00+09:00",
-      "age_days": 1183.13,
+      "age_days": 1183.14,
       "topics": [
         "security"
       ],
@@ -127,7 +102,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "security"
@@ -156,7 +131,7 @@
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -182,7 +157,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T08:41:07+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -208,7 +183,7 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -234,7 +209,7 @@
       "url": "https://jvn.jp/vu/JVNVU96254232/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -259,7 +234,7 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-TranslatePress-ermoeglicht-Uebernahme-bei-400-000-Installationen-11426021.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-26T07:27:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -285,7 +260,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T09:07:39+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -306,11 +281,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Security ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
     },
     {
+      "title": "Why the global push to break free from Big Tech keeps falling short",
+      "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "In this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil and China are taking on Big Tech companies."
+    },
+    {
       "title": "apache/maka",
       "url": "https://github.com/apache/maka",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
