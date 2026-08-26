@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-26T21:47:14+00:00_
+_Generated: 2026-08-26T22:45:40+00:00_
 
 ## Status
 - status: `normal`
-- findings: `98`
+- findings: `103`
 
 ## Top Signals
 
@@ -57,32 +57,32 @@ _Generated: 2026-08-26T21:47:14+00:00_
 - url: https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/
 - summary: For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric v…
 
-### 8. SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて
+### 8. M 4.5 - 118 km ESE of Yujing, Taiwan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-26T22:12:21.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc37
+- summary: Time 2026-08-26 21:47:17 UTC 2026-08-26 21:47:17 UTC at epicenter Location 22.844°N 121.573°E Depth 10.00 km (6.21 mi)
+
+### 9. 最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-08-26T12:07:41+00:00`
+- url: https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html
+- summary: これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってたすみません。 最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってた...
+
+### 10. SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて
 - source: JVN Japan Vulnerability Notes
 - score: `13`
 - published: `2023-12-26T14:00:00+09:00`
 - url: https://jvn.jp/ta/JVNTA95077890/
 - summary: SSH接続においてハンドシェイク中にシーケンス番号の操作を可能とする攻撃手法「Terrapin Attack」が報告されています。
 
-### 9. OpenSSLのX.509ポリシー制限の検証における過剰なリソース消費の問題
+### 11. OpenSSLのX.509ポリシー制限の検証における過剰なリソース消費の問題
 - source: JVN Japan Vulnerability Notes
 - score: `13`
 - published: `2023-03-23T11:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU94632906/
 - summary: OpenSSLのポリシー制限が含まれているX.509証明書チェーンの検証においてリソースが過剰に消費される問題があります。
-
-### 10. OpenSSLに複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `13`
-- published: `2023-02-08T14:30:15+09:00`
-- url: https://jvn.jp/vu/JVNVU91213144/
-- summary: OpenSSLには、複数の脆弱性が存在します。
-
-### 11. AgriciDaniel/claude-obsidian
-- source: GitHub Trending RSS All Languages Daily
-- score: `13`
-- published: `None`
-- url: https://github.com/AgriciDaniel/claude-obsidian
-- summary: Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alte…
 
 END OF DOCUMENT

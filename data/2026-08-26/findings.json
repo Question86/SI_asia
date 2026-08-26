@@ -1296,6 +1296,66 @@
     "id": "6b70224659b63c3d7ba1"
   },
   {
+    "title": "M 4.5 - 118 km ESE of Yujing, Taiwan",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc37",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-26T22:12:21.040+00:00",
+    "fetched_at": "2026-08-26T22:45:02+00:00",
+    "summary": "Time 2026-08-26 21:47:17 UTC 2026-08-26 21:47:17 UTC at epicenter Location 22.844°N 121.573°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6db4e8cf1c7a65304858"
+  },
+  {
+    "title": "最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史",
+    "url": "https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-26T12:07:41+00:00",
+    "fetched_at": "2026-08-26T22:45:02+00:00",
+    "summary": "これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってたすみません。 最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってた...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "53acb9ef3781ff28a86e"
+  },
+  {
     "title": "SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて",
     "url": "https://jvn.jp/ta/JVNTA95077890/",
     "source": "JVN Japan Vulnerability Notes",
@@ -1554,6 +1614,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f641bd26504af4c26019"
+  },
+  {
+    "title": "「オルカン高配当」登場 eMAXIS高配当全世界株式 9月30日から 注意点も",
+    "url": "https://japan.cnet.com/article/35251950/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-26T09:23:12+00:00",
+    "fetched_at": "2026-08-26T22:45:02+00:00",
+    "summary": "三菱UFJアセットマネジメントは8月26日、投資信託「eMAXIS 高配当全世界株式（オール・カントリー）」を9月30日に設定し、運用を始めると発表した。愛称は「オルカン高配当」。 連動をめざすのは「MSCIオール・カントリー・ワールド・インデックス高配当利回り指数」（配当込み、円換算ベース）だ。MSCIが開発した株価指...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ed7e727e556686873eff"
   },
   {
     "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
@@ -2125,6 +2207,48 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "dfa6bba16557111fdf8a"
+  },
+  {
+    "title": "Global model policy generally available",
+    "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+    "source": "GitHub Changelog Atom",
+    "source_type": "rss",
+    "published_at": "2026-08-26T22:08:38+00:00",
+    "fetched_at": "2026-08-26T22:45:02+00:00",
+    "summary": "In July, we announced a default model policy for generally available GitHub Copilot models on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling out enforcement of the… The post Global model policy generally available appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "Copilot",
+      "GitHub"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "17ac2aa683de4cf1f608"
+  },
+  {
+    "title": "OH! NAMAE DOMAIN - ドメイン取得サービス",
+    "url": "https://project.activetk.jp/dark-domain-shop/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-26T12:51:44+00:00",
+    "fetched_at": "2026-08-26T22:45:02+00:00",
+    "summary": "OH! NAMAE DOMAIN - ドメイン取得サービス",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "993f91e6d9b7fd35bcb5"
   },
   {
     "title": "Mac mini買おうと思ってるんだけどディスプレイどうしたらいいんだよ？5K？何だその解像度？旨いのか？",

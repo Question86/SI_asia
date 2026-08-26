@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T21:47:14+00:00_
+_Generiert: 2026-08-26T22:45:40+00:00_
 
 ## Kurzlage
 
-98 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+103 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -241,6 +241,24 @@ _Generiert: 2026-08-26T21:47:14+00:00_
 
 ## Nur beobachten
 
+- **M 4.5 - 118 km ESE of Yujing, Taiwan** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc37)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-26T22:12:21.040+00:00`, fetched `2026-08-26T22:45:02+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-26 21:47:17 UTC 2026-08-26 21:47:17 UTC at epicenter Location 22.844°N 121.573°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史** — Score 13, observation — [Quelle](https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-26T12:07:41+00:00`, fetched `2026-08-26T22:45:02+00:00`
+  - Treffer: APAC Trend Radar, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってたすみません。 最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて** — Score 13, risk — [Quelle](https://jvn.jp/ta/JVNTA95077890/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2023-12-26T14:00:00+09:00`, fetched `2026-08-26T07:14:25+00:00`
@@ -358,24 +376,6 @@ _Generiert: 2026-08-26T21:47:14+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Almost every AI creative pitch landing in a Southeast Asian marketer’s inbox this quarter rests on the same unstated assumption: if machines now mediate discovery, machines should now make the work. The region’s own numbers say something more awkward, and the mismatch is expensive. The fourth annual discovery study from impact.com, produced with Cube and […] The post AI has become how Southeast Asia finds you, but i…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **anthropics/claude-plugins-community** — Score 10, observation — [Quelle](https://github.com/anthropics/claude-plugins-community)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-08-26T03:10:50+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. Claude Plugins — Community Community-contributed plugins for Claude Cowork and Claude Code . What this repo is A read-only mirror of the community plugin marketplace. The .claude-plugin/marketplace.json file here is the list of community plugins available to install. It is synced…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 35 km S of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyz)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-26T14:50:59.040+00:00`, fetched `2026-08-26T14:56:17+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-26 14:25:41 UTC 2026-08-26 14:25:41 UTC at epicenter Location 11.042°S 165.795°E Depth 71.19 km (44.24 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
