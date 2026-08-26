@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-26T18:31:27+00:00",
-  "run_id": "2026-08-26T18:31:27+00:00",
+  "generated_at": "2026-08-26T19:17:25+00:00",
+  "run_id": "2026-08-26T19:17:25+00:00",
   "date": "2026-08-26",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 93
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 93,
-    "displayed_findings": 93,
+    "new_relevant_findings": 1,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 3,
-    "medium": 43,
+    "medium": 44,
     "observe": 47,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -334,6 +334,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0e36e8638f4c2bb1524f"
+      },
+      {
+        "title": "M 4.9 - 42 km NE of Ruteng, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-26T18:58:07.040+00:00",
+        "fetched_at": "2026-08-26T19:16:46+00:00",
+        "summary": "Time 2026-08-26 18:23:13 UTC 2026-08-26 18:23:13 UTC at epicenter Location 8.311°S 120.698°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "5e6d6690e1f5779dfaf8"
       },
       {
         "title": "M 5.0 - 54 km NNW of Ende, Indonesia",
@@ -2573,6 +2610,43 @@
       "id": "0e36e8638f4c2bb1524f"
     },
     {
+      "title": "M 4.9 - 42 km NE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-26T18:58:07.040+00:00",
+      "fetched_at": "2026-08-26T19:16:46+00:00",
+      "summary": "Time 2026-08-26 18:23:13 UTC 2026-08-26 18:23:13 UTC at epicenter Location 8.311°S 120.698°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5e6d6690e1f5779dfaf8"
+    },
+    {
       "title": "M 5.0 - 54 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4502,71 +4576,51 @@
   ],
   "new_findings": [
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News RSS",
+      "title": "M 4.9 - 42 km NE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "fetched_at": "2026-08-26T18:30:57+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "published_at": "2026-08-26T18:58:07.040+00:00",
+      "fetched_at": "2026-08-26T19:16:46+00:00",
+      "summary": "Time 2026-08-26 18:23:13 UTC 2026-08-26 18:23:13 UTC at epicenter Location 8.311°S 120.698°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0e31baf85205e6ab904e"
-    },
-    {
-      "title": "ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話",
-      "url": "https://zenn.dev/sc30gsw/articles/953334f11df507",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-26T14:12:04+00:00",
-      "fetched_at": "2026-08-26T18:30:57+00:00",
-      "summary": "はじめに 退勤直前にタスクを投げ、PCを閉じて帰る。寝ている間にテスト、AIによるレビュー修正まで回ってPRが上がってくる。翌朝、上がってきたPRをレビューする。 これは現在の私の開発の実情です。私がここでやることは2つだけで、止まったエージェントを起こすことと、承認が必要なものの確認・許可をすることです。...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "83f13d3bfcabf78c6024"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-26T10:00:00+00:00",
-      "fetched_at": "2026-08-26T18:30:57+00:00",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0ffa7b738cfe5d999834"
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "5e6d6690e1f5779dfaf8"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

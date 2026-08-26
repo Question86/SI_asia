@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T18:31:27+00:00_
+_Generiert: 2026-08-26T19:17:25+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+94 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -110,6 +110,15 @@ _Generiert: 2026-08-26T18:31:27+00:00_
   - Warum relevant: AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.9 - 42 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-26T18:58:07.040+00:00`, fetched `2026-08-26T19:16:46+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-26 18:23:13 UTC 2026-08-26 18:23:13 UTC at epicenter Location 8.311°S 120.698°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 54 km NNW of Ende, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-26T14:39:54.040+00:00`, fetched `2026-08-26T14:56:17+00:00`
@@ -163,15 +172,6 @@ _Generiert: 2026-08-26T18:31:27+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is taste. Prologue: The man who wore five devices to […] The post Taste is the last moat: I’m trading my wearables for wine appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How loveholidays is making everyone a builder with Codex** — Score 14, observation — [Quelle](https://openai.com/index/loveholidays)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-26T00:00:00+00:00`, fetched `2026-08-26T10:11:36+00:00`
-  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
-  - Kurz: Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -322,3 +322,7 @@ _Generiert: 2026-08-26T18:31:27+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)
