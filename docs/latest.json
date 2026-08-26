@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T05:47:23+00:00",
-  "run_id": "2026-08-26T05:47:23+00:00",
+  "generated_at": "2026-08-26T06:00:45+00:00",
+  "run_id": "2026-08-26T06:00:45+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1579,29 +1579,7 @@
       "id": "10a4d3cf013cc304334f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "StashAway acquires MakeGoodwill to add digital wills to its wealth platform",
-      "url": "https://e27.co/stashaway-acquires-makegoodwill-to-add-digital-wills-to-its-wealth-platform-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-26T05:30:35+00:00",
-      "fetched_at": "2026-08-26T05:46:49+00:00",
-      "summary": "For years, digital wealth platforms in Southeast Asia have focused on helping users do one thing better: invest. They lowered account minimums, simplified portfolios, and made cash management and ETFs available through an app. StashAway now wants to move into a less glamorous but arguably more consequential part of the wealth journey: what happens to […] The post StashAway acquires MakeGoodwill to add digital wills…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph demote portfolio (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "10a4d3cf013cc304334f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
