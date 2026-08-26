@@ -70,5 +70,146 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
+        "url": "https://ai-x-security-con.findy-tools.io/2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T01:03:18+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "axiom",
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 41.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 68.01,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 68.0d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
+        "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T01:06:14+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 15.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "BANGKOK, Thailand — August 26, 2026 — On Monday, Taiwan Tech Solution Day in Bangkok brought together Thailand’s corporate, investment, and startup communities with 11 Taiwanese technology startups for an afternoon of market insight, startup presentations, and discussions on cross-border collaboration. Co-organized by…"
+      },
+      {
+        "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
+        "url": "https://future-architect.github.io/articles/20260819a/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-21T17:16:50+00:00",
+        "age_days": 4.37,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 6.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "はじめに流通事業部の内堀です。 フューチャー社内の有志メンバーでテクニカルライティングガイドラインを作成し公開しました！ 設計書、Pull Requestの説明、Slackでの相談、障害の一次報告。ITコンサルタントの仕事は、文章を書くことと切り離せません。本ガイドラインが対象にするのは、こうした日々の文章そのもので..."
+      },
+      {
+        "title": "When will AI stop making memory more expensive? Probably much later than you hope",
+        "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T01:30:09+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 5.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: 10",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "On August 1, Microsoft raised Xbox console prices by US$100 for 512GB models and US$150 for 1TB models. The company said storage and memory prices had risen more than 2.5 times and could roughly double again by fall 2027. That sounds like a gaming story. It is really an AI infrastructure story. The world is […] The po…"
+      }
+    ]
+  }
 }
