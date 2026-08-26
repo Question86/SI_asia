@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T04:14:00+00:00",
-  "run_id": "2026-08-26T04:14:00+00:00",
+  "generated_at": "2026-08-26T04:28:32+00:00",
+  "run_id": "2026-08-26T04:28:32+00:00",
   "date": "2026-08-26",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 29
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
     "medium": 11,
     "observe": 18,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1453,36 +1453,8 @@
       "id": "5bafeffed01c58b685ff"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Bitcoin touched US$81,000: Was that a rally or a forced repricing?",
-      "url": "https://e27.co/bitcoin-touched-us81000-was-that-a-rally-or-a-forced-repricing-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-26T04:12:24+00:00",
-      "fetched_at": "2026-08-26T04:13:20+00:00",
-      "summary": "Bitcoin just reminded the world why it remains the most volatile macro asset of this era. In less than a week, the coin climbed from below US$65,000 to above US$81,000, a gain of more than 25 per cent that marks its highest level since mid-May, and one report even frames the move as a 28 […] The post Bitcoin touched US$81,000: Was that a rally or a forced repricing? appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5bafeffed01c58b685ff"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
