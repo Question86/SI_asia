@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-26T22:12:37Z",
+  "generated_at": "2026-08-26T23:21:53Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:01:06+00:00",
-      "age_days": 0.47,
+      "age_days": 0.51,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3034",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:56:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3031",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:46:06+00:00",
-      "age_days": 0.44,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3027",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:41:05+00:00",
-      "age_days": 0.44,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://jvn.jp/vu/JVNVU95772889/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-01-23T10:00:00+09:00",
-      "age_days": 580.88,
+      "age_days": 580.93,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU90424473/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-10-18T10:30:00+09:00",
-      "age_days": 677.86,
+      "age_days": 677.91,
       "topics": [
         "security"
       ],
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU94584169/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-05-31T16:00:00+09:00",
-      "age_days": 1183.63,
+      "age_days": 1183.68,
       "topics": [
         "security"
       ],
@@ -191,7 +191,7 @@
         "high terms: code",
         "security high-signal: code",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 1183.6d old signal",
+        "aging penalty -8.0 for 1183.7d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "official security but no high-signal phrase: capped at strong"
       ],
@@ -202,7 +202,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.88,
+      "age_days": 0.93,
       "topics": [
         "ai",
         "security"
@@ -231,7 +231,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:33+00:00",
-      "age_days": 0.48,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -257,7 +257,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3029",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:46:05+00:00",
-      "age_days": 0.44,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -283,7 +283,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3028",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:41:06+00:00",
-      "age_days": 0.44,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -309,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2074",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T11:31:13+00:00",
-      "age_days": 0.45,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security"
