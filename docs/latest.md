@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T05:16:45+00:00_
+_Generiert: 2026-08-26T05:30:54+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+31 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -196,7 +196,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_vietnam_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.vn/trending/rss?geo=VN
