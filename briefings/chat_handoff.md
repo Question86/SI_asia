@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-26T10:56:27+00:00_
+_Generated: 2026-08-26T11:08:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `66`
 
 ## Top Signals
 
@@ -50,12 +50,12 @@ _Generated: 2026-08-26T10:56:27+00:00_
 - url: https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/
 - summary: For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric v…
 
-### 7. CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）
-- source: JVN Japan Vulnerability Notes
+### 7. [NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-26T11:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU96254232/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+- published: `2026-08-26T11:01:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 8. SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて
 - source: JVN Japan Vulnerability Notes

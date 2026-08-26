@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T10:56:27+00:00",
+  "generated_at": "2026-08-26T11:08:03+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-08-26T11:00:30+09:00",
         "relevance_score": 23,
         "url": "https://jvn.jp/vu/JVNVU96558110/"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:01:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-26T15:30:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96423082/"
-      },
-      {
-        "title": "GNU C Libraryにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T15:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92836377/"
       }
     ],
     "ai": [
@@ -200,6 +200,13 @@
         "url": "https://github.com/apache/maka"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:01:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020"
+      },
+      {
         "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-26T10:36:33+00:00",
@@ -214,6 +221,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
       },
       {
+        "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:01:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3021"
+      },
+      {
+        "title": "[NEU] [mittel] Adobe Creative Cloud (Substance 3D, XD, und Illustrator): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:01:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3022"
+      },
+      {
+        "title": "[NEU] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3019"
+      },
+      {
+        "title": "[NEU] [hoch] libTIFF: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:01:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3018"
+      },
+      {
         "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-08-26T11:00:45+09:00",
@@ -226,41 +261,6 @@
         "published_at": "2026-08-26T10:36:34+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3015"
-      },
-      {
-        "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:34+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017"
-      },
-      {
-        "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Dateien",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:34+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3016"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:33+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013"
-      },
-      {
-        "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T08:41:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003"
-      },
-      {
-        "title": "How loveholidays is making everyone a builder with Codex",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-26T00:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://openai.com/index/loveholidays"
       }
     ],
     "economy": [
