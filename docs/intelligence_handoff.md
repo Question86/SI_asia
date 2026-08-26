@@ -1,18 +1,48 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-26T10:42:26Z_
+_Generated: 2026-08-26T11:10:21Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
 
 ## Top Dynamics
+
+### [NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `33.0`
+- Published: `2026-08-26T11:01:06+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020
+
+### [NEU] [mittel] vim: Schwachstelle ermöglicht Codeausführung
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-08-26T11:01:05+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3019
+
+### [NEU] [hoch] libTIFF: Schwachstelle ermöglicht Codeausführung
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `31.0`
+- Published: `2026-08-26T11:01:05+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3018
 
 ### [UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-26T10:36:35+00:00` / age_days `0.0`
+- Published: `2026-08-26T10:36:35+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle er
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2025-01-23T10:00:00+09:00` / age_days `580.4`
+- Published: `2025-01-23T10:00:00+09:00` / age_days `580.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 580.4d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -32,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle er
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2024-10-18T10:30:00+09:00` / age_days `677.38`
+- Published: `2024-10-18T10:30:00+09:00` / age_days `677.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 677.4d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -42,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle er
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2023-05-31T16:00:00+09:00` / age_days `1183.15`
+- Published: `2023-05-31T16:00:00+09:00` / age_days `1183.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, AXI0M/User-Yps identity hit, aging penalty -8.0 for 1183.2d old signal, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -52,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle er
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T01:03:18+00:00` / age_days `0.4`
+- Published: `2026-08-26T01:03:18+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,17 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle er
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T10:36:33+00:00` / age_days `0.0`
+- Published: `2026-08-26T10:36:33+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014
 
+### [NEU] [mittel] Adobe Creative Cloud (Substance 3D, XD, und Illustrator): Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-26T11:01:06+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3022
+
 ### Apache Tomcatにおける複数の脆弱性(2026年8月25日)
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T11:00:45+09:00` / age_days `0.36`
+- Published: `2026-08-26T11:00:45+09:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -82,50 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle er
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-26T10:36:34+00:00` / age_days `0.0`
+- Published: `2026-08-26T10:36:34+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: remote, controller, security high-signal: remote, controller, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017
-
-### [NEU] [hoch] Google Chrome: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-26T10:36:33+00:00` / age_days `0.0`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013
-
-### [NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-26T08:41:07+00:00` / age_days `0.08`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: kritisch, code, security high-signal: kritisch, code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003
-
-### AgriciDaniel/claude-obsidian
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-26T03:10:50+00:00` / age_days `0.31`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, code, security high-signal: rce, code, official security but no high-signal phrase: capped at strong
-- Quelle: https://github.com/AgriciDaniel/claude-obsidian
-
-### CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-26T11:00:00+09:00` / age_days `0.36`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
-- Quelle: https://jvn.jp/vu/JVNVU96254232/
 
 END OF DOCUMENT

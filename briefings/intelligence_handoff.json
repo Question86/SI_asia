@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-26T10:42:26Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-08-26T11:10:21Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,86 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T11:01:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
+      "title": "[NEU] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3019",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T11:01:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um beliebige Kommandos auszuführen."
+    },
+    {
+      "title": "[NEU] [hoch] libTIFF: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3018",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T11:01:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in libTIFF ausnutzen, um beliebigen Programmcode auszuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2064",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:35+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -40,7 +115,7 @@
       "url": "https://jvn.jp/vu/JVNVU95772889/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-01-23T10:00:00+09:00",
-      "age_days": 580.4,
+      "age_days": 580.42,
       "topics": [
         "security"
       ],
@@ -69,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU90424473/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2024-10-18T10:30:00+09:00",
-      "age_days": 677.38,
+      "age_days": 677.4,
       "topics": [
         "security"
       ],
@@ -98,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU94584169/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2023-05-31T16:00:00+09:00",
-      "age_days": 1183.15,
+      "age_days": 1183.17,
       "topics": [
         "security"
       ],
@@ -127,7 +202,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security"
@@ -156,7 +231,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:33+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -178,11 +253,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher bezeichnete Angriffe durchzuführen."
     },
     {
+      "title": "[NEU] [mittel] Adobe Creative Cloud (Substance 3D, XD, und Illustrator): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3022",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-26T11:01:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in den Adobe Creative Cloud Anwendungen Substance 3D, XD und Illustrator ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen."
+    },
+    {
       "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -208,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-26T10:36:34+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security",
         "macro"
@@ -229,109 +330,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Dell integrated Dell Remote Access Controller ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-26T10:36:33+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
-    },
-    {
-      "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-26T08:41:07+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, code",
-        "security high-signal: kritisch, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen TYPO3 Extensions ausnutzen, um beliebigen Programmcode auszuführen, SQL-Injection durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zus…"
-    },
-    {
-      "title": "AgriciDaniel/claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. https://agric…"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
-      "url": "https://jvn.jp/vu/JVNVU96254232/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.36,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     }
   ],
   "read_order": [
@@ -343,8 +341,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "krass": 4,
+      "strong": 8
     }
   }
 }
