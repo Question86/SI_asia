@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T07:33:43+00:00_
+_Generiert: 2026-08-26T07:53:53+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+48 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -269,6 +269,15 @@ _Generiert: 2026-08-26T07:33:43+00:00_
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. Claude Plugins — Community Community-contributed plugins for Claude Cowork and Claude Code . What this repo is A read-only mirror of the community plugin marketplace. The .claude-plugin/marketplace.json file here is the list of community plugins available to install. It is synced…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 82 km NE of Otrada, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-26T07:52:00.040+00:00`, fetched `2026-08-26T07:53:14+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-26 07:32:17 UTC 2026-08-26 07:32:17 UTC at epicenter Location 44.686°N 146.440°E Depth 159.46 km (99.08 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 26 km SW of Ashkāsham, Afghanistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-26T03:06:24.040+00:00`, fetched `2026-08-26T03:10:50+00:00`
@@ -304,15 +313,6 @@ _Generiert: 2026-08-26T07:33:43+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: TradingAgents: Multi-Agents LLM Financial Trading Framework https://arxiv.org/pdf/2412.20138 Deutsch | Español | français | 日本語 | 한국어 | Português | Русский | 中文 TradingAgents: Multi-Agents LLM Financial Trading Framework News [2026-07] TradingAgents v0.3.1 released with correctness and stability fixes: Alpha Vantage look-ahead filtering, graph-router crash-safety, graph-shape-aware checkpoint resume, working crypto…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **オードリー・タンが警鐘 AIを「親友」にしてはいけない** — Score 7, observation — [Quelle](https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-25T22:32:59+00:00`, fetched `2026-08-26T03:10:50+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 天才的プログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏。「サイバー攻撃を高度化させている」「人間の仕事を奪う」といった懸念が高まるAI（人工知能）をどう見ているのか。インタビュー記事（上）では、AIの進化とリスク、そして経営者がどう向き合うべきかについて聞いた。 （聞き手は山崎良...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
