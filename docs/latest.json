@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T11:08:03+00:00",
-  "run_id": "2026-08-26T11:08:03+00:00",
+  "generated_at": "2026-08-26T11:19:25+00:00",
+  "run_id": "2026-08-26T11:19:25+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 3,
-    "medium": 30,
+    "medium": 31,
     "observe": 33,
     "source_errors": 0
   },
@@ -482,6 +482,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4b073731613a016ffc2d"
+      },
+      {
+        "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3023",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-26T11:06:06+00:00",
+        "fetched_at": "2026-08-26T11:18:49+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in bluez ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ec006cba5b4c30718502"
       },
       {
         "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Denial of Service",
@@ -2092,6 +2115,29 @@
       "id": "4b073731613a016ffc2d"
     },
     {
+      "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3023",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-26T11:06:06+00:00",
+      "fetched_at": "2026-08-26T11:18:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in bluez ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ec006cba5b4c30718502"
+    },
+    {
       "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3021",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3244,37 +3290,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
+      "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3023",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-26T11:01:06+00:00",
-      "fetched_at": "2026-08-26T11:07:29+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d0f740849834dc28fa85"
-    },
-    {
-      "title": "[NEU] [mittel] Adobe Creative Cloud (Substance 3D, XD, und Illustrator): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3022",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:01:06+00:00",
-      "fetched_at": "2026-08-26T11:07:29+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in den Adobe Creative Cloud Anwendungen Substance 3D, XD und Illustrator ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+      "published_at": "2026-08-26T11:06:06+00:00",
+      "fetched_at": "2026-08-26T11:18:49+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in bluez ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise beliebigen Code auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3288,76 +3310,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4a670df5af8ed59d2334"
-    },
-    {
-      "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3021",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:01:06+00:00",
-      "fetched_at": "2026-08-26T11:07:29+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in PolicyKit ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8073c621020e1aaf0067"
-    },
-    {
-      "title": "[NEU] [mittel] vim: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3019",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:01:05+00:00",
-      "fetched_at": "2026-08-26T11:07:29+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um beliebige Kommandos auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a2c94ac33c7dd65da8f2"
-    },
-    {
-      "title": "[NEU] [hoch] libTIFF: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3018",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:01:05+00:00",
-      "fetched_at": "2026-08-26T11:07:29+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in libTIFF ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3d5560967a2f608b9115"
+      "id": "ec006cba5b4c30718502"
     }
   ],
   "source_errors": [],

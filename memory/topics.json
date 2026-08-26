@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T11:08:03+00:00",
+  "generated_at": "2026-08-26T11:19:25+00:00",
   "topics": {
     "security": [
       {
@@ -221,6 +221,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
       },
       {
+        "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3023"
+      },
+      {
         "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-26T11:01:06+00:00",
@@ -254,13 +261,6 @@
         "published_at": "2026-08-26T11:00:45+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96149019/"
-      },
-      {
-        "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:34+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3015"
       }
     ],
     "economy": [
