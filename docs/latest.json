@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T08:09:57+00:00",
-  "run_id": "2026-08-26T08:09:57+00:00",
+  "generated_at": "2026-08-26T08:25:19+00:00",
+  "run_id": "2026-08-26T08:25:19+00:00",
   "date": "2026-08-26",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 49
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 49,
     "displayed_findings": 49,
     "high": 3,
     "medium": 15,
     "observe": 31,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -2426,53 +2426,15 @@
       "id": "10a4d3cf013cc304334f"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "ASEAN battery push enters a harder phase: building factories, standards and markets",
-      "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "source_id": "bsi_cert_bund_csw",
+      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "source_type": "rss",
-      "published_at": "2026-08-26T08:00:00+00:00",
-      "fetched_at": "2026-08-26T08:09:23+00:00",
-      "summary": "For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric vehicle supply chains. The Philippines is trying to build a stronger EV ecosystem of its own. At the 4th ASEAN Battery […] The post ASEAN battery push enters a h…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia",
-        "Supply Chain Security",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "157e518e5339b6837ccc"
+      "error": "HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out. (read timeout=8)"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
