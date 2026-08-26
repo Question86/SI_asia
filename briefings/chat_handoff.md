@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-26T02:15:33+00:00_
+_Generated: 2026-08-26T02:44:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `17`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-08-26T02:15:33+00:00_
 - url: https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/
 - summary: Almost every AI creative pitch landing in a Southeast Asian marketer’s inbox this quarter rests on the same unstated assumption: if machines now mediate discovery, machines should now make the work. The region’s own numbers say something more awkward, and the…
 
-### 8. When will AI stop making memory more expensive? Probably much later than you hope
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-08-26T01:30:09+00:00`
-- url: https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/
-- summary: On August 1, Microsoft raised Xbox console prices by US$100 for 512GB models and US$150 for 1TB models. The company said storage and memory prices had risen more than 2.5 times and could roughly double again by fall 2027. That sounds like a gaming story. It i…
+### 8. M 4.5 - 218 km NNE of Lospalos, Timor Leste
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-26T02:21:12.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5
+- summary: Time 2026-08-26 02:05:46 UTC 2026-08-26 02:05:46 UTC at epicenter Location 6.619°S 127.547°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

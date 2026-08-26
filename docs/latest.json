@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T02:15:33+00:00",
-  "run_id": "2026-08-26T02:15:33+00:00",
+  "generated_at": "2026-08-26T02:44:53+00:00",
+  "run_id": "2026-08-26T02:44:53+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 3,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 5,
-    "observe": 9,
+    "medium": 6,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -142,6 +142,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f91a087796715a2fbc44"
+      },
+      {
+        "title": "Taste is the last moat: I’m trading my wearables for wine",
+        "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-26T02:15:16+00:00",
+        "fetched_at": "2026-08-26T02:44:19+00:00",
+        "summary": "I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is taste. Prologue: The man who wore five devices to […] The post Taste is the last moat: I’m trading my wearables for wine appeared first on e27 .",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Public Health",
+          "Southeast Asia"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d4f00f05200b3ebe83a8"
       }
     ],
     "observe": [
@@ -212,6 +235,42 @@
         "id": "cdb5b0efbc9ed6925edc"
       },
       {
+        "title": "M 4.5 - 218 km NNE of Lospalos, Timor Leste",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-26T02:21:12.040+00:00",
+        "fetched_at": "2026-08-26T02:44:19+00:00",
+        "summary": "Time 2026-08-26 02:05:46 UTC 2026-08-26 02:05:46 UTC at epicenter Location 6.619°S 127.547°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "7c08881edc1bff363373"
+      },
+      {
         "title": "When will AI stop making memory more expensive? Probably much later than you hope",
         "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -231,6 +290,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e68e5993eecfafd11107"
+      },
+      {
+        "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
+        "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260824/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-26T02:30:29+00:00",
+        "fetched_at": "2026-08-26T02:44:19+00:00",
+        "summary": "The digital asset ecosystem is facing a reality check as total crypto capitalisation drops 1.24 per cent to US$2.18T over the past 24 hours. This decline reflects a profound shift in investor sentiment rather than a mere technical correction. Market participants now view digital coins through a strictly macroeconomic lens. They act as highly sensitive […] The post Is the US$63,750 line the only thing standing betwee…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "e3bd676078c4785b37a7"
       },
       {
         "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
@@ -455,6 +556,29 @@
       "id": "f91a087796715a2fbc44"
     },
     {
+      "title": "Taste is the last moat: I’m trading my wearables for wine",
+      "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T02:15:16+00:00",
+      "fetched_at": "2026-08-26T02:44:19+00:00",
+      "summary": "I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is taste. Prologue: The man who wore five devices to […] The post Taste is the last moat: I’m trading my wearables for wine appeared first on e27 .",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Public Health",
+        "Southeast Asia"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d4f00f05200b3ebe83a8"
+    },
+    {
       "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
       "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -521,6 +645,42 @@
       "id": "cdb5b0efbc9ed6925edc"
     },
     {
+      "title": "M 4.5 - 218 km NNE of Lospalos, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-26T02:21:12.040+00:00",
+      "fetched_at": "2026-08-26T02:44:19+00:00",
+      "summary": "Time 2026-08-26 02:05:46 UTC 2026-08-26 02:05:46 UTC at epicenter Location 6.619°S 127.547°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7c08881edc1bff363373"
+    },
+    {
       "title": "When will AI stop making memory more expensive? Probably much later than you hope",
       "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -540,6 +700,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e68e5993eecfafd11107"
+    },
+    {
+      "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
+      "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T02:30:29+00:00",
+      "fetched_at": "2026-08-26T02:44:19+00:00",
+      "summary": "The digital asset ecosystem is facing a reality check as total crypto capitalisation drops 1.24 per cent to US$2.18T over the past 24 hours. This decline reflects a profound shift in investor sentiment rather than a mere technical correction. Market participants now view digital coins through a strictly macroeconomic lens. They act as highly sensitive […] The post Is the US$63,750 line the only thing standing betwee…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "e3bd676078c4785b37a7"
     },
     {
       "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
@@ -649,161 +851,105 @@
   ],
   "new_findings": [
     {
-      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
-      "url": "https://jvn.jp/vu/JVNVU96558110/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:00:30+09:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "CodeQL/Dependabot",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "CodeQL/Dependabot (+7.0); Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "39e722726ed2b1dd2b92"
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
-      "url": "https://jvn.jp/vu/JVNVU96254232/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:00:00+09:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "86b554718e6b3b3de526"
-    },
-    {
-      "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
-      "url": "https://jvn.jp/vu/JVNVU96149019/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:00:45+09:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fd46801a5eb81eb05a6e"
-    },
-    {
-      "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94434952/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:00:15+09:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f91a087796715a2fbc44"
-    },
-    {
-      "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
-      "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/",
+      "title": "Taste is the last moat: I’m trading my wearables for wine",
+      "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-26T02:00:16+00:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "We opened our Indonesia office the old-fashioned way: a client there needed us on the ground, so we set up a local presence. It was the classic expansion logic every founder in this region knows — the work is there, so you go there. Earlier this year, that logic quietly inverted on us. An international […] The post A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy appeared first on e…",
+      "published_at": "2026-08-26T02:15:16+00:00",
+      "fetched_at": "2026-08-26T02:44:19+00:00",
+      "summary": "I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is taste. Prologue: The man who wore five devices to […] The post Taste is the last moat: I’m trading my wearables for wine appeared first on e27 .",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "founder"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "55ce3ee46809c65cbedf"
-    },
-    {
-      "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
-      "url": "https://blog.perlassociation.org/entry/2026/08/26/100000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-26T01:20:33+00:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "一般社団法人Japan Perl Association理事の福本（id:papix）です。 2026年11月に開催するYAPC::Tokyo 2026に際して、会員企業・賛助会員として日頃から一般社団法人Japan Perl Association（以下「JPA」）を支えてくださっている企業の皆様、スポンサーとして支援を申し出てくださった企業の皆様、トークの応募・準備を...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "491b3ceceac828588300"
-    },
-    {
-      "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
-      "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-26T01:45:41+00:00",
-      "fetched_at": "2026-08-26T02:14:54+00:00",
-      "summary": "Almost every AI creative pitch landing in a Southeast Asian marketer’s inbox this quarter rests on the same unstated assumption: if machines now mediate discovery, machines should now make the work. The region’s own numbers say something more awkward, and the mismatch is expensive. The fourth annual discovery study from impact.com, produced with Cube and […] The post AI has become how Southeast Asia finds you, but i…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
+        "Public Health",
         "Southeast Asia"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cdb5b0efbc9ed6925edc"
+      "id": "d4f00f05200b3ebe83a8"
+    },
+    {
+      "title": "M 4.5 - 218 km NNE of Lospalos, Timor Leste",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-26T02:21:12.040+00:00",
+      "fetched_at": "2026-08-26T02:44:19+00:00",
+      "summary": "Time 2026-08-26 02:05:46 UTC 2026-08-26 02:05:46 UTC at epicenter Location 6.619°S 127.547°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "7c08881edc1bff363373"
+    },
+    {
+      "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
+      "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260824/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T02:30:29+00:00",
+      "fetched_at": "2026-08-26T02:44:19+00:00",
+      "summary": "The digital asset ecosystem is facing a reality check as total crypto capitalisation drops 1.24 per cent to US$2.18T over the past 24 hours. This decline reflects a profound shift in investor sentiment rather than a mere technical correction. Market participants now view digital coins through a strictly macroeconomic lens. They act as highly sensitive […] The post Is the US$63,750 line the only thing standing betwee…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "e3bd676078c4785b37a7"
     }
   ],
   "source_errors": [],
