@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T14:56:47+00:00_
+_Generiert: 2026-08-26T16:15:25+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-08-26T14:56:47+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-20`
   - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability
+- **GDACS: Green flood alert in Australia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104119)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Australia
 - **GDACS: Green notification for tropical cyclone TWENTY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001311)
   - Quelle: GDACS
   - Zeit: ``
