@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T00:40:05+00:00_
+_Generiert: 2026-08-26T01:06:04+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ“ aus Hatena Bookmark Hotentry IT (Score 6, observation).
+3 neue relevante Treffer. Stärkstes Signal: „Asian startups have an investor problem nobody is naming“ aus e27 Asia Startup and Tech Feed (Score 7, observation).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Asian startups have an investor problem nobody is naming** — Score 7, observation — [Quelle](https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-26T01:00:21+00:00`, fetched `2026-08-26T01:05:33+00:00`
+  - Treffer: APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)
+  - Kurz: A few months ago, a founder from a prominent country in Asia sent me a message I have been thinking about ever since. He had signed letters of intent worth around US$1 million in committed revenue over three years. He was getting strong direct-to-consumer interest from another major Asian market worth another US$600,000 in pipeline. […] The post Asian startups have an investor problem nobody is naming appeared first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ** — Score 6, observation — [Quelle](https://future-architect.github.io/articles/20260819a/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-21T17:16:50+00:00`, fetched `2026-08-26T00:21:02+00:00`
