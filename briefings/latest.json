@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T13:59:30+00:00",
-  "run_id": "2026-08-26T13:59:30+00:00",
+  "generated_at": "2026-08-26T14:19:22+00:00",
+  "run_id": "2026-08-26T14:19:22+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 87,
     "displayed_findings": 87,
     "high": 3,
@@ -4184,49 +4184,7 @@
       "id": "10a4d3cf013cc304334f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Mac mini買おうと思ってるんだけどディスプレイどうしたらいいんだよ？5K？何だその解像度？旨いのか？",
-      "url": "https://anond.hatelabo.jp/20260826195509",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-26T10:55:50+00:00",
-      "fetched_at": "2026-08-26T13:58:53+00:00",
-      "summary": "なんだよ5Kって、、、？そんな中途半端な解像度、今まで聴いたこともねえよ。マニアの間では常識なのか？え？Macのためにそれを買えってか？つーかなんでアップルはいちいちいちいち乗り換えのハードルとか上げて囲い込みをしたがるんかね？",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d361c7be216ff410b3c5"
-    },
-    {
-      "title": "GitHub Apps can now access enterprise billing data",
-      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-26T12:18:59+00:00",
-      "fetched_at": "2026-08-26T13:58:53+00:00",
-      "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose… The post GitHub Apps can now access enterprise billing data appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e174c2f2f3eb89465df5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
