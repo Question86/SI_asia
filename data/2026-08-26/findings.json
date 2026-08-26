@@ -141,6 +141,50 @@
     "id": "0e36e8638f4c2bb1524f"
   },
   {
+    "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU96423082/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-26T15:30:15+09:00",
+    "fetched_at": "2026-08-26T06:32:49+00:00",
+    "summary": "Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ae84182e5251ed2d9a3e"
+  },
+  {
+    "title": "GNU C Libraryにおける複数の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92836377/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-08-26T15:30:00+09:00",
+    "fetched_at": "2026-08-26T06:32:49+00:00",
+    "summary": "GNUプロジェクトが提供するGNU C Libraryには、複数の脆弱性が存在します。 なお、本脆弱性は2022年8月に公開されたものです。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ee5e73db6ca1e22a86e6"
+  },
+  {
     "title": "Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性",
     "url": "https://jvn.jp/jp/JVN67155805/",
     "source": "JVN Japan Vulnerability Notes",

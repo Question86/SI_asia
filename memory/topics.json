@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T06:17:55+00:00",
+  "generated_at": "2026-08-26T06:33:24+00:00",
   "topics": {
     "security": [
       {
@@ -24,6 +24,20 @@
         "published_at": "2026-08-26T01:03:18+00:00",
         "relevance_score": 16,
         "url": "https://ai-x-security-con.findy-tools.io/2026"
+      },
+      {
+        "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T15:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96423082/"
+      },
+      {
+        "title": "GNU C Libraryにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T15:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU92836377/"
       },
       {
         "title": "Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性",
@@ -77,6 +91,13 @@
         "url": "https://ai-x-security-con.findy-tools.io/2026"
       },
       {
+        "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-26T15:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96423082/"
+      },
+      {
         "title": "Taste is the last moat: I’m trading my wearables for wine",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-26T02:15:16+00:00",
@@ -117,13 +138,6 @@
         "published_at": "2026-08-26T03:08:31+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/"
-      },
-      {
-        "title": "When will AI stop making memory more expensive? Probably much later than you hope",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T01:30:09+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/"
       }
     ],
     "github": [

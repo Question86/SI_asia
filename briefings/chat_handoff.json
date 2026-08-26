@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-26T06:17:55+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-08-26T06:33:24+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 11,
+    "medium": 13,
     "observe": 23
   },
-  "source_errors_count": 2,
+  "source_errors_count": 0,
   "top_signals": [
     {
       "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "url": "https://ai-x-security-con.findy-tools.io/2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "age_days": 0.22,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
-        "url": "https://jvn.jp/vu/JVNVU96149019/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:45+09:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "The Apache Software Foundationから、Apache Tomcatの10件の脆弱性に対してアドバイザリが公開されました。"
-      },
-      {
-        "title": "AgriciDaniel/claude-obsidian",
-        "url": "https://github.com/AgriciDaniel/claude-obsidian",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-26T03:10:50+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 30.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, code",
-          "security high-signal: rce, code"
-        ],
-        "summary": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. https://agric…"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
-        "url": "https://jvn.jp/vu/JVNVU96254232/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:00+09:00",
-        "age_days": 0.18,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "apache/maka",
-        "url": "https://github.com/apache/maka",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-08-26T03:10:50+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: local",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A local-first Agent workspace built for real work. Maka inspects…"
-      }
-    ]
-  }
+  ]
 }

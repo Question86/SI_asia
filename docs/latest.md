@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T06:17:55+00:00_
+_Generiert: 2026-08-26T06:33:24+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+36 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -57,14 +57,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN67155805/)
+- **Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96423082/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-08-26T12:00:15+09:00`, fetched `2026-08-26T03:10:50+00:00`
+  - Zeit: published `2026-08-26T15:30:15+09:00`, fetched `2026-08-26T06:32:49+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁が提供するAndroidアプリ「マイナポイント」には、アクセス制限不備の脆弱性が存在します。
+  - Kurz: Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Japan is moving into Southeast Asia faster than the West, and most brands haven’t noticed yet** — Score 14, observation — [Quelle](https://e27.co/japan-is-moving-into-southeast-asia-faster-than-the-west-and-most-brands-havent-noticed-yet-20260824/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -214,8 +214,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fbfac91db10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fbfad9276d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
