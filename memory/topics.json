@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T10:25:16+00:00",
+  "generated_at": "2026-08-26T10:41:54+00:00",
   "topics": {
     "security": [
       {
@@ -40,6 +40,13 @@
         "url": "https://jvn.jp/vu/JVNVU96254232/"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014"
+      },
+      {
         "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-26T01:03:18+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-26T15:30:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU92836377/"
-      },
-      {
-        "title": "Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T12:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN67155805/"
       }
     ],
     "ai": [
@@ -200,6 +200,13 @@
         "url": "https://github.com/apache/maka"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014"
+      },
+      {
         "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-26T09:07:39+00:00",
@@ -214,6 +221,34 @@
         "url": "https://jvn.jp/vu/JVNVU96149019/"
       },
       {
+        "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3015"
+      },
+      {
+        "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017"
+      },
+      {
+        "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3016"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:33+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013"
+      },
+      {
         "title": "[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-26T08:41:07+00:00",
@@ -226,41 +261,6 @@
         "published_at": "2026-08-26T00:00:00+00:00",
         "relevance_score": 14,
         "url": "https://openai.com/index/loveholidays"
-      },
-      {
-        "title": "Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-08-26T08:15:18+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260076.en.html"
-      },
-      {
-        "title": "Why the global push to break free from Big Tech keeps falling short",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-08-26T10:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T01:45:41+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
-      },
-      {
-        "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-26T10:15:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html"
-      },
-      {
-        "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T03:08:31+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/"
       }
     ],
     "economy": [
@@ -270,6 +270,13 @@
         "published_at": "2026-08-26T08:00:00+00:00",
         "relevance_score": 19,
         "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/"
+      },
+      {
+        "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T10:36:34+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017"
       },
       {
         "title": "Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -326,13 +333,6 @@
         "published_at": "2026-08-26T02:30:29+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260824/"
-      },
-      {
-        "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T01:06:14+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/"
       }
     ],
     "general": [

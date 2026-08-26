@@ -211,6 +211,30 @@
     "id": "86b554718e6b3b3de526"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:36:33+00:00",
+    "fetched_at": "2026-08-26T10:41:25+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher bezeichnete Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f1267e51deedd0c16bff"
+  },
+  {
     "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？",
     "url": "https://togetter.com/li/2737633",
     "source": "Hatena Bookmark Hotentry IT",
@@ -447,6 +471,121 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "f91a087796715a2fbc44"
+  },
+  {
+    "title": "[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2064",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:36:35+00:00",
+    "fetched_at": "2026-08-26T10:41:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um beliebigen Programmcode auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "df15db28d1340b9b9693"
+  },
+  {
+    "title": "[NEU] [mittel] PolicyKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3015",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:36:34+00:00",
+    "fetched_at": "2026-08-26T10:41:25+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in PolicyKit ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6f9fa16056d67f59591b"
+  },
+  {
+    "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:36:34+00:00",
+    "fetched_at": "2026-08-26T10:41:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Dell integrated Dell Remote Access Controller ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "669be87bcf74e0921aec"
+  },
+  {
+    "title": "[NEU] [mittel] CPython: Schwachstelle ermöglicht Manipulation von Dateien",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3016",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:36:34+00:00",
+    "fetched_at": "2026-08-26T10:41:25+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CPython ausnutzen, um Dateien zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f8e9426187e5bcea2d68"
+  },
+  {
+    "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3013",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:36:33+00:00",
+    "fetched_at": "2026-08-26T10:41:25+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6a6f11bd78c845be656b"
   },
   {
     "title": "[UPDATE] [mittel] PAM: Schwachstelle ermöglicht Offenlegung von Informationen",

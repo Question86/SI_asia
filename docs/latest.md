@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T10:25:16+00:00_
+_Generiert: 2026-08-26T10:41:54+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
+61 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 ## Priorität Hoch
 
@@ -74,6 +74,15 @@ _Generiert: 2026-08-26T10:25:16+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-26T10:36:33+00:00`, fetched `2026-08-26T10:41:25+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in GNU libc ausnutzen, um beliebigen Programmcode auszuführen, vertrauliche Informationen offenzulegen, Daten zu manipulieren, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher bezeichnete Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？** — Score 16, observation — [Quelle](https://togetter.com/li/2737633)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-26T02:57:58+00:00`, fetched `2026-08-26T03:56:05+00:00`
@@ -119,23 +128,14 @@ _Generiert: 2026-08-26T10:25:16+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] PAM: Schwachstelle ermöglicht Offenlegung von Informationen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2913)
+- **[UPDATE] [mittel] GIMP: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2064)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-26T09:07:37+00:00`, fetched `2026-08-26T09:21:40+00:00`
+  - Zeit: published `2026-08-26T10:36:35+00:00`, fetched `2026-08-26T10:41:25+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PAM ausnutzen, um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [kritisch] TYPO3 Extensions: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3003)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-26T08:41:07+00:00`, fetched `2026-08-26T09:02:14+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen TYPO3 Extensions ausnutzen, um beliebigen Programmcode auszuführen, SQL-Injection durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen Denial-of-Service-Zustand auszulösen.
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in GIMP ausnutzen, um beliebigen Programmcode auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Japan is moving into Southeast Asia faster than the West, and most brands haven’t noticed yet** — Score 14, observation — [Quelle](https://e27.co/japan-is-moving-into-southeast-asia-faster-than-the-west-and-most-brands-havent-noticed-yet-20260824/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
