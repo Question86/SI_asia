@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-26T03:11:26+00:00_
+_Generated: 2026-08-26T03:56:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `28`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-26T03:11:26+00:00_
 - url: https://jvn.jp/vu/JVNVU96254232/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. 10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト
+### 4. 「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？
 - source: Hatena Bookmark Hotentry IT
 - score: `16`
-- published: `2026-08-26T01:03:18+00:00`
-- url: https://ai-x-security-con.findy-tools.io/2026
-- summary: AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...
+- published: `2026-08-26T02:57:58+00:00`
+- url: https://togetter.com/li/2737633
+- summary: H/de.(LOOPCUBE / TECHNOJAPAN.net) @hide_loopcube 一枚だけリアルな写真で残り３枚はそれぞれChatGPT、gemini、Grokが生成した「#AI生成画像」です。 どれが本物のラーメンか判定できますか？ ※全画像の正方形トリミング加工は人間が行いました。 ※「実は全部AIでした」みたいなヌルいネタポストではありません。 #審...
 
 ### 5. AgriciDaniel/claude-obsidian
 - source: GitHub Trending RSS All Languages Daily
