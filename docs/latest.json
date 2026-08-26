@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T12:48:19+00:00",
-  "run_id": "2026-08-26T12:48:19+00:00",
+  "generated_at": "2026-08-26T13:13:05+00:00",
+  "run_id": "2026-08-26T13:13:05+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 3,
@@ -4060,28 +4060,7 @@
       "id": "10a4d3cf013cc304334f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Kritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-11426165.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-26T12:21:00.000+00:00",
-      "fetched_at": "2026-08-26T12:47:46+00:00",
-      "summary": "Angreifer können mehrere Sicherheitslücken unter anderem in Adobe Campaign Classic, Illustrator und Substance 3D Designer ausnutzen.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8335ccdb2bdcef7c4b11"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
