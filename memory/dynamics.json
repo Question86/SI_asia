@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-26T00:46:02Z",
+  "generated_at": "2026-08-26T01:28:47Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 7,
     "bands": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 1,
-      "quiet": 5
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -20,7 +20,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 67.95,
+      "age_days": 67.98,
       "topics": [
         "ai"
       ],
@@ -39,7 +39,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 67.9d old signal",
+        "aging penalty -8.0 for 68.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -49,7 +49,7 @@
       "url": "https://future-architect.github.io/articles/20260819a/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-21T17:16:50+00:00",
-      "age_days": 4.31,
+      "age_days": 4.34,
       "topics": [
         "general"
       ],
@@ -69,11 +69,39 @@
       "summary": "はじめに流通事業部の内堀です。 フューチャー社内の有志メンバーでテクニカルライティングガイドラインを作成し公開しました！ 設計書、Pull Requestの説明、Slackでの相談、障害の一次報告。ITコンサルタントの仕事は、文章を書くことと切り離せません。本ガイドラインが対象にするのは、こうした日々の文章そのもので..."
     },
     {
+      "title": "Asian startups have an investor problem nobody is naming",
+      "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-26T01:00:21+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "infra",
+        "macro"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: pipeline",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "A few months ago, a founder from a prominent country in Asia sent me a message I have been thinking about ever since. He had signed letters of intent worth around US$1 million in committed revenue over three years. He was getting strong direct-to-consumer interest from another major Asian market worth another US$600,0…"
+    },
+    {
       "title": "【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表",
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 66.91,
+      "age_days": 66.94,
       "topics": [
         "general"
       ],
@@ -98,7 +126,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 66.91,
+      "age_days": 66.94,
       "topics": [
         "general"
       ],
@@ -123,7 +151,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 66.91,
+      "age_days": 66.94,
       "topics": [
         "ai"
       ],
@@ -150,7 +178,7 @@
       "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-25T05:37:16+00:00",
-      "age_days": 0.8,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
