@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T06:00:45+00:00_
+_Generiert: 2026-08-26T06:17:55+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+34 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -234,6 +234,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 天才的プログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏。「サイバー攻撃を高度化させている」「人間の仕事を奪う」といった懸念が高まるAI（人工知能）をどう見ているのか。インタビュー記事（上）では、AIの進化とリスク、そして経営者がどう向き合うべきかについて聞いた。 （聞き手は山崎良...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **行政手続等の棚卸結果（令和7年度調査）を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/procedures-survey-results)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-26T06:00:00+00:00`, fetched `2026-08-26T06:17:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 行政手続等の棚卸結果（令和7年度調査）を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **地方自治体の事務の共同処理に関するダッシュボードを開設しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-26T06:00:00+00:00`, fetched `2026-08-26T06:17:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 地方自治体の事務の共同処理に関するダッシュボードを開設しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ** — Score 6, observation — [Quelle](https://future-architect.github.io/articles/20260819a/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-21T17:16:50+00:00`, fetched `2026-08-26T00:21:02+00:00`
@@ -253,3 +271,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fbfac91db10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fbfad9276d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
