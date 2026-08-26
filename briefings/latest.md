@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-26T06:54:54+00:00_
+_Generiert: 2026-08-26T07:14:56+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）“ aus JVN Japan Vulnerability Notes (Score 23, risk).
+45 neue relevante Treffer. Stärkstes Signal: „OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）“ aus JVN Japan Vulnerability Notes (Score 26, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,30 @@ _Generiert: 2026-08-26T06:54:54+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-20`
   - Kurz: Known exploited vulnerability. Added 2026-08-20. Due 2026-08-23. TrueConf Server Missing Authentication for Critical Function Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fb217108c90>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561717)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI&gt;=V.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561682)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:14.608km) in Taiwan 25/08/2026 07:00 UTC, 2 thousand in MMI&gt;=V.
+- **GDACS: Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001310)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone JULIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561542)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Indonesia 24/08/2026 14:10 UTC, 20 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561504)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 24/08/2026 10:02 UTC, 20 thousand in MMI IV.
+- **GDACS: Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001309)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone ISELLE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -43,7 +65,33 @@ _Generiert: 2026-08-26T06:54:54+00:00_
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）** — Score 26, risk — [Quelle](https://jvn.jp/vu/JVNVU95772889/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2025-01-23T10:00:00+09:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: advisory, APAC Trend Radar, CodeQL/Dependabot, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenSSL Projectより、 OpenSSL Security Advisory [20th January 2025] （"Timing side-channel in ECDSA signature computation (CVE-2024-13176)"）が公開されました。
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）** — Score 26, risk — [Quelle](https://jvn.jp/vu/JVNVU90424473/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2024-10-18T10:30:00+09:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: advisory, APAC Trend Radar, CodeQL/Dependabot, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenSSL Projectより、 OpenSSL Security Advisory [16th October 2024] （"Low-level invalid GF(2^m) parameters lead to OOB memory access (CVE-2024-9143)"）が公開されました。
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）** — Score 26, risk — [Quelle](https://jvn.jp/vu/JVNVU94584169/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2023-05-31T16:00:00+09:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: advisory, APAC Trend Radar, CodeQL/Dependabot, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+7.5); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenSSL Projectより、 OpenSSL Security Advisory [30th May 2023] （Possible DoS translating ASN.1 object identifiers (CVE-2023-2650)）が公開されました。
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Priorität Mittel
 
@@ -92,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.8 - 147 km E of Miyako, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-26T07:12:47.040+00:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-26 06:54:52 UTC 2026-08-26 06:54:52 UTC at epicenter Location 39.728°N 143.660°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96423082/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-26T15:30:15+09:00`, fetched `2026-08-26T06:32:49+00:00`
@@ -122,6 +179,33 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて** — Score 13, risk — [Quelle](https://jvn.jp/ta/JVNTA95077890/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2023-12-26T14:00:00+09:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: SSH接続においてハンドシェイク中にシーケンス番号の操作を可能とする攻撃手法「Terrapin Attack」が報告されています。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenSSLのX.509ポリシー制限の検証における過剰なリソース消費の問題** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU94632906/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2023-03-23T11:30:00+09:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenSSLのポリシー制限が含まれているX.509証明書チェーンの検証においてリソースが過剰に消費される問題があります。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenSSLに複数の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU91213144/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2023-02-08T14:30:15+09:00`, fetched `2026-08-26T07:14:25+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: OpenSSLには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AgriciDaniel/claude-obsidian** — Score 13, observation — [Quelle](https://github.com/AgriciDaniel/claude-obsidian)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-26T03:10:50+00:00`
@@ -230,18 +314,10 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 地方自治体の事務の共同処理に関するダッシュボードを開設しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ** — Score 6, observation — [Quelle](https://future-architect.github.io/articles/20260819a/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-21T17:16:50+00:00`, fetched `2026-08-26T00:21:02+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0)
-  - Kurz: はじめに流通事業部の内堀です。 フューチャー社内の有志メンバーでテクニカルライティングガイドラインを作成し公開しました！ 設計書、Pull Requestの説明、Slackでの相談、障害の一次報告。ITコンサルタントの仕事は、文章を書くことと切り離せません。本ガイドラインが対象にするのは、こうした日々の文章そのもので...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.

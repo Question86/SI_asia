@@ -1,9 +1,30 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T06:54:54+00:00",
+  "generated_at": "2026-08-26T07:14:56+00:00",
   "topics": {
     "security": [
+      {
+        "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2025-01-23T10:00:00+09:00",
+        "relevance_score": 26,
+        "url": "https://jvn.jp/vu/JVNVU95772889/"
+      },
+      {
+        "title": "OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2024-10-18T10:30:00+09:00",
+        "relevance_score": 26,
+        "url": "https://jvn.jp/vu/JVNVU90424473/"
+      },
+      {
+        "title": "OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2023-05-31T16:00:00+09:00",
+        "relevance_score": 26,
+        "url": "https://jvn.jp/vu/JVNVU94584169/"
+      },
       {
         "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
         "source": "JVN Japan Vulnerability Notes",
@@ -52,20 +73,6 @@
         "published_at": "2026-08-26T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN18496672/"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:45+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96149019/"
-      },
-      {
-        "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94434952/"
       }
     ],
     "ai": [
@@ -219,9 +226,23 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      {
+        "title": "Agritech’s next business model may not charge the farmer",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T07:00:02+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/agritechs-next-business-model-may-not-charge-the-farmer-20260826/"
       }
     ],
     "general": [
+      {
+        "title": "M 4.8 - 147 km E of Miyako, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-26T07:12:47.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf"
+      },
       {
         "title": "Japan is moving into Southeast Asia faster than the West, and most brands haven’t noticed yet",
         "source": "e27 Asia Startup and Tech Feed",
@@ -263,6 +284,13 @@
         "published_at": "2026-08-26T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation"
+      },
+      {
+        "title": "ダークパターン規制記事に、閉じにくい巨大広告 「これもダークパターンでは」ツッコミ殺到",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T03:53:19+00:00",
+        "relevance_score": 5,
+        "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000794/"
       },
       {
         "title": "はてなブックマークつまらないなー",
@@ -321,6 +349,13 @@
         "published_at": "2026-08-26T01:00:21+00:00",
         "relevance_score": 7,
         "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/"
+      },
+      {
+        "title": "Agritech’s next business model may not charge the farmer",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-26T07:00:02+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/agritechs-next-business-model-may-not-charge-the-farmer-20260826/"
       }
     ]
   }
