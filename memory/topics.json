@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T11:33:41+00:00",
+  "generated_at": "2026-08-26T11:47:00+00:00",
   "topics": {
     "security": [
       {
@@ -221,6 +221,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
       },
       {
+        "title": "[NEU] [hoch] Ubiquiti UnifiOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:41:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3028"
+      },
+      {
+        "title": "[NEU] [kritisch] Vercel Next.js: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-26T11:41:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3027"
+      },
+      {
         "title": "[NEU] [mittel] bluez: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-26T11:06:06+00:00",
@@ -247,20 +261,6 @@
         "published_at": "2026-08-26T11:01:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3019"
-      },
-      {
-        "title": "[NEU] [hoch] libTIFF: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:01:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3018"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性(2026年8月25日)",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:45+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96149019/"
       }
     ],
     "economy": [
