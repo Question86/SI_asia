@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-26T06:25:13Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-26T06:44:44Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,60 @@
   ],
   "top_dynamics": [
     {
+      "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96423082/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-26T15:30:15+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "Diffie-Hellman鍵交換には、サービス運用妨害（DoS）の脆弱性が存在します。 なお、本脆弱性が最初に公開されたのは2021年11月です。"
+    },
+    {
+      "title": "GNU C Libraryにおける複数の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92836377/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-26T15:30:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "GNUプロジェクトが提供するGNU C Libraryには、複数の脆弱性が存在します。 なお、本脆弱性は2022年8月に公開されたものです。"
+    },
+    {
       "title": "Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN67155805/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:15+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -39,7 +88,7 @@
       "url": "https://jvn.jp/jp/JVN18496672/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T12:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -64,7 +113,7 @@
       "url": "https://jvn.jp/vu/JVNVU94434952/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:15+09:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -88,7 +137,7 @@
       "url": "https://ai-x-security-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T01:03:18+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security"
@@ -117,7 +166,7 @@
       "url": "https://jvn.jp/vu/JVNVU96149019/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:45+09:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -143,7 +192,7 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -169,7 +218,7 @@
       "url": "https://jvn.jp/vu/JVNVU96254232/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -194,7 +243,7 @@
       "url": "https://github.com/apache/maka",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-26T03:10:50+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -221,7 +270,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 68.19,
+      "age_days": 68.2,
       "topics": [
         "ai"
       ],
@@ -250,7 +299,7 @@
       "url": "https://jvn.jp/vu/JVNVU96558110/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-26T11:00:30+09:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -270,56 +319,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。"
-    },
-    {
-      "title": "行政手続等の棚卸結果（令和7年度調査）を掲載しました",
-      "url": "https://www.digital.go.jp/resources/procedures-survey-results",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-08-26T06:00:00+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "行政手続等の棚卸結果（令和7年度調査）を掲載しました"
-    },
-    {
-      "title": "地方自治体の事務の共同処理に関するダッシュボードを開設しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/wide-area-cooperation",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-08-26T06:00:00+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "地方自治体の事務の共同処理に関するダッシュボードを開設しました"
     }
   ],
   "read_order": [

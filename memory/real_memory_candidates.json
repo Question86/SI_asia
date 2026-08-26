@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-26T06:25:13Z",
+  "generated_at": "2026-08-26T06:44:44Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -48,17 +48,17 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "GNU C Libraryにおける複数の脆弱性",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "Androidアプリ「マイナポイント」におけるアクセス制限不備の脆弱性",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "CorvusSKKにおける複数の脆弱性",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "Kaltura HTML5 Player Libraryにおける複数の脆弱性",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
