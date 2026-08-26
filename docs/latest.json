@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:06:04+00:00",
-  "run_id": "2026-08-26T01:06:04+00:00",
+  "generated_at": "2026-08-26T01:43:27+00:00",
+  "run_id": "2026-08-26T01:43:27+00:00",
   "date": "2026-08-26",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,83 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 4,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 0,
-    "observe": 3,
+    "medium": 1,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
+        "url": "https://ai-x-security-con.findy-tools.io/2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-26T01:03:18+00:00",
+        "fetched_at": "2026-08-26T01:42:51+00:00",
+        "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0e36e8638f4c2bb1524f"
+      }
+    ],
     "observe": [
+      {
+        "title": "When will AI stop making memory more expensive? Probably much later than you hope",
+        "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-26T01:30:09+00:00",
+        "fetched_at": "2026-08-26T01:42:51+00:00",
+        "summary": "On August 1, Microsoft raised Xbox console prices by US$100 for 512GB models and US$150 for 1TB models. The company said storage and memory prices had risen more than 2.5 times and could roughly double again by fall 2027. That sounds like a gaming story. It is really an AI infrastructure story. The world is […] The post When will AI stop making memory more expensive? Probably much later than you hope appeared first…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e68e5993eecfafd11107"
+      },
+      {
+        "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
+        "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-26T01:06:14+00:00",
+        "fetched_at": "2026-08-26T01:42:51+00:00",
+        "summary": "BANGKOK, Thailand — August 26, 2026 — On Monday, Taiwan Tech Solution Day in Bangkok brought together Thailand’s corporate, investment, and startup communities with 11 Taiwanese technology startups for an afternoon of market insight, startup presentations, and discussions on cross-border collaboration. Co-organized by Startup Island TAIWAN and Taiwan Startup Terrace, and supported by iFlowDev, BitKub […] The post Ta…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6927dce2609480103130"
+      },
       {
         "title": "Asian startups have an investor problem nobody is naming",
         "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/",
@@ -74,6 +139,27 @@
         "id": "dfa6bba16557111fdf8a"
       },
       {
+        "title": "はてなブックマークつまらないなー",
+        "url": "https://anond.hatelabo.jp/20260817202814",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-26T00:37:06+00:00",
+        "fetched_at": "2026-08-26T01:42:51+00:00",
+        "summary": "ホッテントリに入る顔ぶれがいつも同じかついつも似たような内容でなんかお年寄り臭い。それ5年前にも同じような記事ブクマしてなかったか？そんなにプレジデントとか東洋経済読んでるのか？デイリーポータルZとかも正直一部の良く手が動く人とかきっちりした人以外微妙。朝日のいい加減な記事。結局Togetterなんだｗ",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9665fa05dc44d63aa7d3"
+      },
+      {
         "title": "※この記事は人の手で書かれています - Qiita",
         "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
         "source": "Hatena Bookmark Hotentry IT",
@@ -97,6 +183,70 @@
     ]
   },
   "findings": [
+    {
+      "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
+      "url": "https://ai-x-security-con.findy-tools.io/2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:03:18+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0e36e8638f4c2bb1524f"
+    },
+    {
+      "title": "When will AI stop making memory more expensive? Probably much later than you hope",
+      "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:30:09+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "On August 1, Microsoft raised Xbox console prices by US$100 for 512GB models and US$150 for 1TB models. The company said storage and memory prices had risen more than 2.5 times and could roughly double again by fall 2027. That sounds like a gaming story. It is really an AI infrastructure story. The world is […] The post When will AI stop making memory more expensive? Probably much later than you hope appeared first…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e68e5993eecfafd11107"
+    },
+    {
+      "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
+      "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:06:14+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "BANGKOK, Thailand — August 26, 2026 — On Monday, Taiwan Tech Solution Day in Bangkok brought together Thailand’s corporate, investment, and startup communities with 11 Taiwanese technology startups for an afternoon of market insight, startup presentations, and discussions on cross-border collaboration. Co-organized by Startup Island TAIWAN and Taiwan Startup Terrace, and supported by iFlowDev, BitKub […] The post Ta…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6927dce2609480103130"
+    },
     {
       "title": "Asian startups have an investor problem nobody is naming",
       "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/",
@@ -141,6 +291,27 @@
       "id": "dfa6bba16557111fdf8a"
     },
     {
+      "title": "はてなブックマークつまらないなー",
+      "url": "https://anond.hatelabo.jp/20260817202814",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T00:37:06+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "ホッテントリに入る顔ぶれがいつも同じかついつも似たような内容でなんかお年寄り臭い。それ5年前にも同じような記事ブクマしてなかったか？そんなにプレジデントとか東洋経済読んでるのか？デイリーポータルZとかも正直一部の良く手が動く人とかきっちりした人以外微妙。朝日のいい加減な記事。結局Togetterなんだｗ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9665fa05dc44d63aa7d3"
+    },
+    {
       "title": "※この記事は人の手で書かれています - Qiita",
       "url": "https://qiita.com/kyuko/items/3380b85d0b52ea01f449",
       "source": "Hatena Bookmark Hotentry IT",
@@ -164,25 +335,89 @@
   ],
   "new_findings": [
     {
-      "title": "Asian startups have an investor problem nobody is naming",
-      "url": "https://e27.co/asian-startups-have-an-investor-problem-nobody-is-naming-20260816/",
+      "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
+      "url": "https://ai-x-security-con.findy-tools.io/2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:03:18+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0e36e8638f4c2bb1524f"
+    },
+    {
+      "title": "When will AI stop making memory more expensive? Probably much later than you hope",
+      "url": "https://e27.co/when-will-ai-stop-making-memory-more-expensive-probably-much-later-than-you-hope-20260823/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-26T01:00:21+00:00",
-      "fetched_at": "2026-08-26T01:05:33+00:00",
-      "summary": "A few months ago, a founder from a prominent country in Asia sent me a message I have been thinking about ever since. He had signed letters of intent worth around US$1 million in committed revenue over three years. He was getting strong direct-to-consumer interest from another major Asian market worth another US$600,000 in pipeline. […] The post Asian startups have an investor problem nobody is naming appeared first…",
+      "published_at": "2026-08-26T01:30:09+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "On August 1, Microsoft raised Xbox console prices by US$100 for 512GB models and US$150 for 1TB models. The company said storage and memory prices had risen more than 2.5 times and could roughly double again by fall 2027. That sounds like a gaming story. It is really an AI infrastructure story. The world is […] The post When will AI stop making memory more expensive? Probably much later than you hope appeared first…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "founder"
+        "AI/KI",
+        "APAC Trend Radar"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1d87984babfa1082656c"
+      "id": "e68e5993eecfafd11107"
+    },
+    {
+      "title": "Taiwan Tech Solution Day in Bangkok Strengthens Taiwan–Thailand Innovation Ties Through Cross-Ministry Collaboration",
+      "url": "https://e27.co/taiwan-tech-solution-day-in-bangkok-strengthens-taiwan-thailand-innovation-ties-through-cross-ministry-collaboration-20260826/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-26T01:06:14+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "BANGKOK, Thailand — August 26, 2026 — On Monday, Taiwan Tech Solution Day in Bangkok brought together Thailand’s corporate, investment, and startup communities with 11 Taiwanese technology startups for an afternoon of market insight, startup presentations, and discussions on cross-border collaboration. Co-organized by Startup Island TAIWAN and Taiwan Startup Terrace, and supported by iFlowDev, BitKub […] The post Ta…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6927dce2609480103130"
+    },
+    {
+      "title": "はてなブックマークつまらないなー",
+      "url": "https://anond.hatelabo.jp/20260817202814",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T00:37:06+00:00",
+      "fetched_at": "2026-08-26T01:42:51+00:00",
+      "summary": "ホッテントリに入る顔ぶれがいつも同じかついつも似たような内容でなんかお年寄り臭い。それ5年前にも同じような記事ブクマしてなかったか？そんなにプレジデントとか東洋経済読んでるのか？デイリーポータルZとかも正直一部の良く手が動く人とかきっちりした人以外微妙。朝日のいい加減な記事。結局Togetterなんだｗ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9665fa05dc44d63aa7d3"
     }
   ],
   "source_errors": [],
