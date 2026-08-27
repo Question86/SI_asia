@@ -1,9 +1,125 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-27T07:45:51+00:00",
+  "generated_at": "2026-08-27T11:09:48+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "tt-a1i/archify",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/tt-a1i/archify"
+      },
+      {
+        "title": "anthropics/claude-plugins-official",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      {
+        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:30:56+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
+      },
+      {
+        "title": "Expanding OpenAI’s presence in Brazil",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-08-27T03:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+      },
+      {
+        "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T02:00:23+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/"
+      },
+      {
+        "title": "Southeast Asia’s next century will be built on bridges, not blocs",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T02:00:12+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/"
+      },
+      {
+        "title": "Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T08:52:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/fintech-funding-in-singapore-drops-to-us499m-as-dealmaking-becomes-more-selective-20260827/"
+      },
+      {
+        "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T10:43:21+00:00",
+        "relevance_score": 11,
+        "url": "https://zenn.dev/yui/articles/97597aa13b9802"
+      },
+      {
+        "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T05:30:24+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/"
+      },
+      {
+        "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T05:06:46+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/"
+      }
+    ],
+    "github": [
+      {
+        "title": "tt-a1i/archify",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/tt-a1i/archify"
+      },
+      {
+        "title": "anthropics/claude-plugins-official",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      {
+        "title": "Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T08:52:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/fintech-funding-in-singapore-drops-to-us499m-as-dealmaking-becomes-more-selective-20260827/"
+      },
+      {
+        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:15:08+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/"
+      },
+      {
+        "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-08-27T01:52:19+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces"
+      }
+    ],
     "security": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:31:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3051"
+      },
       {
         "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -26,134 +142,104 @@
         "url": "https://jvn.jp/jp/JVN18593874/"
       },
       {
+        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3055"
+      },
+      {
+        "title": "[NEU] [hoch] CKAN: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3054"
+      },
+      {
+        "title": "[NEU] [hoch] Ruby: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:51:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3053"
+      },
+      {
+        "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3052"
+      },
+      {
+        "title": "[NEU] [mittel] RustDesk: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:26:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3050"
+      },
+      {
         "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-27T07:32:27+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3011"
-      },
-      {
-        "title": "[UPDATE] [hoch] Veeam ONE: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-27T07:32:27+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3008"
-      },
-      {
-        "title": "三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-03-10T12:15:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/vu/JVNVU95523788/"
-      },
-      {
-        "title": "三菱電機製FA製品のEthernet機能におけるサービス運用妨害（DoS）の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2025-05-14T11:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/vu/JVNVU96620683/"
-      },
-      {
-        "title": "思考軟體科技｜EFence - 存在3個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-26T07:20:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11133-e0167-1.html"
-      },
-      {
-        "title": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-26T07:11:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html"
-      },
-      {
-        "title": "鎧應科技｜CMS-WS/CMS-SE/SMP - Arbitrary File Upload",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-26T07:09:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11129-4a040-1.html"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:30:56+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
-      },
-      {
-        "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T02:00:23+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/"
-      },
-      {
-        "title": "Southeast Asia’s next century will be built on bridges, not blocs",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T02:00:12+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/"
-      },
-      {
-        "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T10:43:21+00:00",
-        "relevance_score": 11,
-        "url": "https://zenn.dev/yui/articles/97597aa13b9802"
-      },
-      {
-        "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T05:30:24+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/"
-      },
-      {
-        "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T05:06:46+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/"
-      },
-      {
-        "title": "The Philippines does not need to build AI to have an AI advantage",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T02:15:56+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-philippines-does-not-need-to-build-ai-to-have-an-ai-advantage-20260826/"
-      },
-      {
-        "title": "オードリー・タンが警告 AIが考え人が従う「逆ケンタウロス」の罠",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-27T01:38:16+00:00",
-        "relevance_score": 10,
-        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/"
-      },
-      {
-        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:15:08+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/"
-      },
-      {
-        "title": "Moving past the pilot and scaling AI in Southeast Asian retail",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:00:22+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/"
       }
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:31:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3051"
+      },
+      {
+        "title": "anthropics/claude-plugins-official",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      {
         "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-27T01:30:56+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
+      },
+      {
+        "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3055"
+      },
+      {
+        "title": "[NEU] [hoch] CKAN: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3054"
+      },
+      {
+        "title": "[NEU] [hoch] Ruby: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:51:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3053"
+      },
+      {
+        "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:36:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3052"
+      },
+      {
+        "title": "[NEU] [mittel] RustDesk: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T10:26:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3050"
       },
       {
         "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
@@ -168,37 +254,16 @@
         "published_at": "2026-08-27T01:45:36+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/beyond-the-cloud-why-aseans-second-digital-wave-runs-on-megawatts-not-software-20260825/"
-      },
-      {
-        "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T05:06:46+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/"
-      },
-      {
-        "title": "ビル・ゲイツ氏、AIに対する世界的制限を提唱 恩恵を圧倒する人間への危害に警鐘",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-27T02:43:13+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cnn.co.jp/tech/35251976.html"
-      },
-      {
-        "title": "Agritech investors are learning that infrastructure matters",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T04:43:59+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/agritech-investors-are-learning-that-infrastructure-matters-20260827/"
-      },
-      {
-        "title": "「Twitter」がリリースされる",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-27T03:03:42+00:00",
-        "relevance_score": 5,
-        "url": "https://gigazine.net/news/20260827-twitter-now-launches/"
       }
     ],
     "economy": [
+      {
+        "title": "anthropics/claude-plugins-official",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 16,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
       {
         "title": "Southeast Asia’s next century will be built on bridges, not blocs",
         "source": "e27 Asia Startup and Tech Feed",
@@ -212,6 +277,13 @@
         "published_at": "2026-08-27T01:45:36+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/beyond-the-cloud-why-aseans-second-digital-wave-runs-on-megawatts-not-software-20260825/"
+      },
+      {
+        "title": "Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T08:52:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/fintech-funding-in-singapore-drops-to-us499m-as-dealmaking-becomes-more-selective-20260827/"
       },
       {
         "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
@@ -244,11 +316,25 @@
     ],
     "general": [
       {
+        "title": "M 5.3 - 54 km NNE of Labuan Bajo, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-27T10:48:42.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc8j"
+      },
+      {
         "title": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-08-27T06:00:00+00:00",
         "relevance_score": 11,
         "url": "https://www.digital.go.jp/councils/procurement-agile-opensource"
+      },
+      {
+        "title": "BIS residential property price statistics, Q1 2026",
+        "source": "BIS Statistical Releases",
+        "published_at": "2026-08-27T14:38:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.bis.org/statistics/pp_residential_2608.htm"
       },
       {
         "title": "M 5.1 - South Atlantic Ocean",
@@ -265,27 +351,18 @@
         "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/"
       },
       {
+        "title": "令和8年熊本地震に関する対応状況について（8月27日）",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-08-27T10:08:51+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/news/32cda2c5-cfaf-40d2-82cb-8e2860fee8b7"
+      },
+      {
         "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-27T01:39:31+00:00",
         "relevance_score": 5,
         "url": "https://zenn.dev/gangy/articles/04597efe1b64c5"
-      }
-    ],
-    "github": [
-      {
-        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:15:08+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/"
-      },
-      {
-        "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-27T01:52:19+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces"
       }
     ]
   }
