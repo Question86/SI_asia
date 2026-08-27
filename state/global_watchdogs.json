@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:25:54+00:00",
+  "generated_at": "2026-08-27T21:44:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,41 @@
         "metrics": {
           "cve": "CVE-2015-3246"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.0 - 145 km N of Caluula, Somalia",
+        "summary": "M6.0 - 145 km N of Caluula, Somalia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3",
+        "published_at": "2026-08-27T21:07:38+00:00",
+        "metrics": {
+          "mag": 6.0,
+          "alert": "green",
+          "sig": 554.0,
+          "tsunami": 0
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green notification for tropical cyclone KARINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone KARINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001314",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green notification for tropical cyclone LOWELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone LOWELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001315",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",

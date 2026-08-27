@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-27T18:25:50+00:00_
+_Generated: 2026-08-27T21:43:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `66`
+- findings: `71`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-08-27T18:25:50+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0452
 - summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome/Microsoft Edge ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, beispielsweise die Ausführung von Code, Datenmanipulation oder Denial-of-Service-Angriffe.
 
-### 5. 三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性
+### 5. M 6.0 - 145 km N of Caluula, Somalia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-08-27T21:34:33.676+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-08-27 21:07:38 UTC 2026-08-27 21:07:38 UTC at epicenter Location 13.265°N 50.543°E Depth 10.00 km (6.21 mi)
+
+### 6. 三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `13`
 - published: `2026-03-10T12:15:00+09:00`
 - url: https://jvn.jp/vu/JVNVU95523788/
 - summary: 三菱電機数値制御装置（CNC）には、入力値インデックス、位置、またはオフセットの不適切な検証に起因するサービス運用妨害（DoS）の脆弱性が存在します。
 
-### 6. 三菱電機製FA製品のEthernet機能におけるサービス運用妨害（DoS）の脆弱性
+### 7. 三菱電機製FA製品のEthernet機能におけるサービス運用妨害（DoS）の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `13`
 - published: `2025-05-14T11:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96620683/
 - summary: 三菱電機製FA製品のEthernet機能には、サービス運用妨害（DoS）の脆弱性が存在します。
 
-### 7. AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ
+### 8. AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-08-27T10:15:21+00:00`
 - url: https://future-architect.github.io/articles/20260827b/
 - summary: 夏休みの課題ということで、これまでの業務経験、Real World HTTP、Goならわかるシステムプログラミング、実用Go言語、お客様と一緒に勉強したReact/Next.jsの知識を全部詰め込んだ、自分史上最高のウェブアプリケーションサーバーを作ってみました。 https://shibukawa.github.io/popcornweb/ http.ServeMuxとhttp.Hand...
-
-### 8. Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-08-27T08:52:50+00:00`
-- url: https://e27.co/fintech-funding-in-singapore-drops-to-us499m-as-dealmaking-becomes-more-selective-20260827/
-- summary: Singapore’s fintech market entered 2026 with a familiar contradiction: its strategic appeal remains intact, but capital has become much harder to win. Fintech companies in the city-state raised just over US$499 million across 53 deals in the first half of 202…
 
 END OF DOCUMENT

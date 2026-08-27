@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-27T18:25:50+00:00_
+_Generiert: 2026-08-27T21:43:57+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „tt-a1i/archify“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+71 neue relevante Treffer. Stärkstes Signal: „tt-a1i/archify“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,18 @@ _Generiert: 2026-08-27T18:25:50+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
+- **USGS earthquake M6.0 - 145 km N of Caluula, Somalia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3)
+  - Quelle: USGS
+  - Zeit: `2026-08-27T21:07:38+00:00`
+  - Kurz: M6.0 - 145 km N of Caluula, Somalia. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green notification for tropical cyclone KARINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001314)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone KARINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green notification for tropical cyclone LOWELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001315)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone LOWELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone DOLLY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001313)
   - Quelle: GDACS
   - Zeit: ``
@@ -124,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Asia’s AI boom is producing useful tools at speed, from writing assistants and image platforms to voice generators and productivity software. But a new ranking by Cybernews, suggests the region’s AI companies still have work to do on a less glamorous part of the business: trust. The latest AI Trustworthiness Ranking assessed 500 AI companies […] The post Asia’s AI trust gap: strong transparency, weak security and un…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力** — Score 15, observation — [Quelle](https://www.publickey1.jp/blog/26/mcpaihttp.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-26T19:14:25+00:00`, fetched `2026-08-27T21:43:21+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
+  - Kurz: MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力 Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN18593874/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-27T12:00:00+09:00`, fetched `2026-08-27T03:17:04+00:00`
@@ -163,6 +184,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 6.0 - 145 km N of Caluula, Somalia** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-27T21:34:33.676+00:00`, fetched `2026-08-27T21:43:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-08-27 21:07:38 UTC 2026-08-27 21:07:38 UTC at epicenter Location 13.265°N 50.543°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/vu/JVNVU95523788/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-03-10T12:15:00+09:00`, fetched `2026-08-27T03:17:04+00:00`
@@ -289,15 +319,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); statistics (+2.5)
   - Kurz: Real global house prices declined by 1.2% year on year (yoy) in the first quarter of 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - South Atlantic Ocean** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-27T04:34:12.040+00:00`, fetched `2026-08-27T05:06:51+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-27 04:19:08 UTC 2026-08-27 04:19:08 UTC at epicenter Location 22.567°S 20.298°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 

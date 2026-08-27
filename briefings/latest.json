@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T18:25:50+00:00",
-  "run_id": "2026-08-27T18:25:50+00:00",
+  "generated_at": "2026-08-27T21:43:57+00:00",
+  "run_id": "2026-08-27T21:43:57+00:00",
   "date": "2026-08-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 5,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
-    "medium": 23,
-    "observe": 43,
+    "medium": 24,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -325,6 +325,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d19cb514cb35b10f6f2d"
+      },
+      {
+        "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+        "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-26T19:14:25+00:00",
+        "fetched_at": "2026-08-27T21:43:21+00:00",
+        "summary": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力 Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表...",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "46ae46c9b6c9535eca5b"
       },
       {
         "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
@@ -667,6 +691,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 6.0 - 145 km N of Caluula, Somalia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-27T21:34:33.676+00:00",
+        "fetched_at": "2026-08-27T21:43:21+00:00",
+        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-27 21:07:38 UTC 2026-08-27 21:07:38 UTC at epicenter Location 13.265°N 50.543°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "0f884e6df2b8b1d9873d"
+      },
       {
         "title": "三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU95523788/",
@@ -1051,6 +1113,28 @@
         "id": "2dca08ba264baaf7680a"
       },
       {
+        "title": "「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話",
+        "url": "https://zenn.dev/miogawa/articles/1170543905ebe0",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-26T05:45:18+00:00",
+        "fetched_at": "2026-08-27T21:43:21+00:00",
+        "summary": "はじめに：言い出しっぺとして、いま考えていること DataRobot Japanの小川です。日本法人の立ち上げ期から、現場でのAI導入支援とCoE（Center of Excellence／AI推進組織）の立ち上げ伴走をずっとやってきました。 DataRobotが日本市場に入ってきた当初、私が大好きだったコーポレートメッセージは「Better Predictions...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27bd48260ab882d5fcf0"
+      },
+      {
         "title": "BIS residential property price statistics, Q1 2026",
         "url": "https://www.bis.org/statistics/pp_residential_2608.htm",
         "source": "BIS Statistical Releases",
@@ -1106,6 +1190,28 @@
           "LOW"
         ],
         "id": "64f3fa6b710d900422d6"
+      },
+      {
+        "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？",
+        "url": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-27T14:38:11+00:00",
+        "fetched_at": "2026-08-27T21:43:21+00:00",
+        "summary": "Metaのマーク・ザッカーバーグCEOが、2026年に「大量の従業員を解雇・再配置してAIに置き換える」という計画を実行する予定だったと、海外メディアのロイターが報じました。ロイターは「Project OT」というコードネームで呼ばれたこの計画が生まれた経緯や、計画が漏れたことによる社内での反発、そして計画が頓挫するま...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f4b1180824e32b162c7e"
       },
       {
         "title": "Meeting of 22-23 July 2026",
@@ -1481,6 +1587,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "157b73ceaef6da635312"
+      },
+      {
+        "title": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に \"端末非対応”ではなくKDDIの設定ミス",
+        "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-27T15:55:56+00:00",
+        "fetched_at": "2026-08-27T21:43:21+00:00",
+        "summary": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に \"端末非対応”ではなくKDDIの設定ミス",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8d801d50b624f167af50"
       },
       {
         "title": "IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ",
@@ -1948,6 +2075,30 @@
       "id": "d19cb514cb35b10f6f2d"
     },
     {
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T19:14:25+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力 Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表...",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "46ae46c9b6c9535eca5b"
+    },
+    {
       "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
       "url": "https://jvn.jp/jp/JVN18593874/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2285,6 +2436,44 @@
         "soy"
       ],
       "id": "18d2628ee1be62cdff0f"
+    },
+    {
+      "title": "M 6.0 - 145 km N of Caluula, Somalia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-27T21:34:33.676+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-27 21:07:38 UTC 2026-08-27 21:07:38 UTC at epicenter Location 13.265°N 50.543°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0f884e6df2b8b1d9873d"
     },
     {
       "title": "三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
@@ -2670,6 +2859,28 @@
       "id": "2dca08ba264baaf7680a"
     },
     {
+      "title": "「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話",
+      "url": "https://zenn.dev/miogawa/articles/1170543905ebe0",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-26T05:45:18+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "はじめに：言い出しっぺとして、いま考えていること DataRobot Japanの小川です。日本法人の立ち上げ期から、現場でのAI導入支援とCoE（Center of Excellence／AI推進組織）の立ち上げ伴走をずっとやってきました。 DataRobotが日本市場に入ってきた当初、私が大好きだったコーポレートメッセージは「Better Predictions...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27bd48260ab882d5fcf0"
+    },
+    {
       "title": "BIS residential property price statistics, Q1 2026",
       "url": "https://www.bis.org/statistics/pp_residential_2608.htm",
       "source": "BIS Statistical Releases",
@@ -2725,6 +2936,28 @@
         "LOW"
       ],
       "id": "64f3fa6b710d900422d6"
+    },
+    {
+      "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？",
+      "url": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T14:38:11+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "Metaのマーク・ザッカーバーグCEOが、2026年に「大量の従業員を解雇・再配置してAIに置き換える」という計画を実行する予定だったと、海外メディアのロイターが報じました。ロイターは「Project OT」というコードネームで呼ばれたこの計画が生まれた経緯や、計画が漏れたことによる社内での反発、そして計画が頓挫するま...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f4b1180824e32b162c7e"
     },
     {
       "title": "Meeting of 22-23 July 2026",
@@ -3102,6 +3335,27 @@
       "id": "157b73ceaef6da635312"
     },
     {
+      "title": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に \"端末非対応”ではなくKDDIの設定ミス",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T15:55:56+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に \"端末非対応”ではなくKDDIの設定ミス",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d801d50b624f167af50"
+    },
+    {
       "title": "IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ",
       "url": "https://www.iij.ad.jp/news/pressrelease/2026/0827.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3269,33 +3523,97 @@
   ],
   "new_findings": [
     {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI News RSS",
+      "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+      "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-27T09:00:00+00:00",
-      "fetched_at": "2026-08-27T18:25:17+00:00",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "published_at": "2026-08-26T19:14:25+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力 Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表...",
       "matched_keywords": [
-        "OpenAI"
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8457d9f766c65c5db939"
+      "id": "46ae46c9b6c9535eca5b"
     },
     {
-      "title": "藤井聡太王位がAIの223手定跡をそのまま採用した件 | やねうら王 公式サイトやねうら王 公式サイト",
-      "url": "https://yaneuraou.yaneu.com/2026/08/27/fujii-sota-follows-ai-223-move-opening-book/",
+      "title": "M 6.0 - 145 km N of Caluula, Somalia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcf3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-27T21:34:33.676+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-08-27 21:07:38 UTC 2026-08-27 21:07:38 UTC at epicenter Location 13.265°N 50.543°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0f884e6df2b8b1d9873d"
+    },
+    {
+      "title": "「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話",
+      "url": "https://zenn.dev/miogawa/articles/1170543905ebe0",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-27T01:50:48+00:00",
-      "fetched_at": "2026-08-27T18:25:17+00:00",
-      "summary": "以前、お知らせしたように、やねうら王プロジェクトでは、将棋の定跡を自動的に掘るスクリプトであるBookMinerを公開しました。このBookMinerというスクリプトは、GUIからマウスぽちぽちで操作できるようになっています。 将棋の大規模定跡生成スクリプトを公開しました https://yaneuraou.yaneu.com/2026/06/18/shogi-b...",
+      "published_at": "2026-08-26T05:45:18+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "はじめに：言い出しっぺとして、いま考えていること DataRobot Japanの小川です。日本法人の立ち上げ期から、現場でのAI導入支援とCoE（Center of Excellence／AI推進組織）の立ち上げ伴走をずっとやってきました。 DataRobotが日本市場に入ってきた当初、私が大好きだったコーポレートメッセージは「Better Predictions...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27bd48260ab882d5fcf0"
+    },
+    {
+      "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？",
+      "url": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T14:38:11+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "Metaのマーク・ザッカーバーグCEOが、2026年に「大量の従業員を解雇・再配置してAIに置き換える」という計画を実行する予定だったと、海外メディアのロイターが報じました。ロイターは「Project OT」というコードネームで呼ばれたこの計画が生まれた経緯や、計画が漏れたことによる社内での反発、そして計画が頓挫するま...",
       "matched_keywords": [
         "AI/KI",
         "Hatena",
@@ -3308,48 +3626,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dd2551a79fd7ecafbd62"
+      "id": "f4b1180824e32b162c7e"
     },
     {
-      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-      "source": "GitHub Blog Atom",
+      "title": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に \"端末非対応”ではなくKDDIの設定ミス",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-27T16:00:00+00:00",
-      "fetched_at": "2026-08-27T18:25:17+00:00",
-      "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog .",
+      "published_at": "2026-08-27T15:55:56+00:00",
+      "fetched_at": "2026-08-27T21:43:21+00:00",
+      "summary": "[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に \"端末非対応”ではなくKDDIの設定ミス",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e31962917f0f6068a1a7"
-    },
-    {
-      "title": "Close all open contributions authored by a blocked user",
-      "url": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-27T16:30:52+00:00",
-      "fetched_at": "2026-08-27T18:25:17+00:00",
-      "summary": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,… The post Close all open contributions authored by a blocked user appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "22322bccf968ef909844"
+      "id": "8d801d50b624f167af50"
     }
   ],
   "source_errors": [],
