@@ -70,5 +70,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Asia’s AI trust gap: strong transparency, weak security and unclear data practices” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=27.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
+        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:30:56+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security"
+        ],
+        "summary": "Asia’s AI boom is producing useful tools at speed, from writing assistants and image platforms to voice generators and productivity software. But a new ranking by Cybernews, suggests the region’s AI companies still have work to do on a less glamorous part of the business: trust. The latest AI Trustworthiness Ranking a…"
+      },
+      {
+        "title": "Moving past the pilot and scaling AI in Southeast Asian retail",
+        "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:00:22+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Southeast Asia is piloting AI faster than almost anywhere else in the world. But how do you turn that pilot-phase momentum into real, enterprise-wide value? It forces a hard look at your data, your architecture, and the new operational risks. Southeast Asia isn’t catching up on artificial intelligence; in many respect…"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 69.01,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 69.0d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
+        "url": "https://zenn.dev/yui/articles/97597aa13b9802",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T10:43:21+00:00",
+        "age_days": 0.64,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 8.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "high terms: code",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能..."
+      },
+      {
+        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
+        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:15:08+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 2.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "Spending the last several months in Southeast Asia allowed me to expand my comprehension of the global market dynamics in times of uncertainty. And bridging global expansion with vibrant hubs, AI exponential adoption and market opportunities closely, I noticed that every market report eventually produces numbers that…"
+      }
+    ]
+  }
 }
