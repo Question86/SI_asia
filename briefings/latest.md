@@ -1,14 +1,26 @@
 # Senna Briefing
 
-_Generiert: 2026-08-27T14:51:33+00:00_
+_Generiert: 2026-08-27T18:25:50+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „tt-a1i/archify“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
+66 neue relevante Treffer. Stärkstes Signal: „tt-a1i/archify“ aus GitHub Trending RSS All Languages Daily (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2023-49105 ownCloud ownCloud** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-27`
+  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. ownCloud Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-53362 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-27`
+  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. Linux Kernel Unspecified Vulnerability
+- **CISA KEV: CVE-2026-66384 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-27`
+  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability
 - **CISA KEV: CVE-2021-23758 Ajax.NET Professional Ajax.NET Professional** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
@@ -17,34 +29,22 @@ _Generiert: 2026-08-27T14:51:33+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
-- **CISA KEV: CVE-2015-5287 Red Hat Automatic Bug Reporting Tool** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-26`
-  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability
-- **CISA KEV: CVE-2022-0995 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-26`
-  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Linux Kernel Out-of-Bounds Write Vulnerability
-- **CISA KEV: CVE-2026-8452 Citrix NetScaler ADC and NetScaler Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-26`
-  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-08-29. Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability
+- **GDACS: Green notification for tropical cyclone DOLLY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001313)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone DOLLY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone ETAU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001312)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone ETAU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 26/08/2026 19:21 UTC, 100 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561972)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:16.05km) in Off East Coast Of Honshu, Japan 26/08/2026 19:21 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561972)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Japan 26/08/2026 19:21 UTC, 100 thousand in MMI III.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:16.05km) in Off East Coast Of Honshu, Japan 26/08/2026 19:21 UTC, No people affected in 100km.
 - **GDACS: Green notification for tropical cyclone TWENTY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001311)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWENTY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1561717)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:528.283km) in South Of Fiji Islands 25/08/2026 12:12 UTC, No people affected in 100km.
 
 ## Wirtschaft global
 
