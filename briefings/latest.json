@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T03:17:33+00:00",
-  "run_id": "2026-08-27T03:17:33+00:00",
+  "generated_at": "2026-08-27T05:07:32+00:00",
+  "run_id": "2026-08-27T05:07:32+00:00",
   "date": "2026-08-27",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 13,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 6,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 5,
-    "observe": 13,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -320,6 +320,27 @@
         "id": "06e33fd27f8bcbb3e357"
       },
       {
+        "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
+        "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-27T05:06:46+00:00",
+        "fetched_at": "2026-08-27T05:06:51+00:00",
+        "summary": "I observe that the digital asset sector’s total valuation has expanded to US$2.66T, up 0.98 per cent over the last 24 hours. This upward trajectory reflects a distinct shift in financial mechanics, in which regulated allocation dictates price action more than retail speculation. My analysis reveals an ecosystem that is heavily influenced by macroeconomic forces […] The post Who really moves Bitcoin now: nine straigh…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "18ffa4d8f237e64ddc16"
+      },
+      {
         "title": "The Philippines does not need to build AI to have an AI advantage",
         "url": "https://e27.co/the-philippines-does-not-need-to-build-ai-to-have-an-ai-advantage-20260826/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -339,6 +360,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c5ad375c9613aabfe03c"
+      },
+      {
+        "title": "オードリー・タンが警告 AIが考え人が従う「逆ケンタウロス」の罠",
+        "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-27T01:38:16+00:00",
+        "fetched_at": "2026-08-27T05:06:51+00:00",
+        "summary": "天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aa03892fd08f1d6c1062"
       },
       {
         "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
@@ -385,6 +428,63 @@
         "id": "2dca08ba264baaf7680a"
       },
       {
+        "title": "M 5.1 - South Atlantic Ocean",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-27T04:34:12.040+00:00",
+        "fetched_at": "2026-08-27T05:06:51+00:00",
+        "summary": "Time 2026-08-27 04:19:08 UTC 2026-08-27 04:19:08 UTC at epicenter Location 22.567°S 20.298°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "64f3fa6b710d900422d6"
+      },
+      {
+        "title": "Southeast Asia isn’t losing the robotaxi race. It’s running a different one",
+        "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-27T03:39:50+00:00",
+        "fetched_at": "2026-08-27T05:06:51+00:00",
+        "summary": "Last week, Nevada regulators handed Tesla permits for up to 5,000 robotaxis in the Las Vegas area, with Waymo and Uber each cleared for another 1,000. That is roughly 7,000 permitted autonomous vehicles for a single US metro area, in a single announcement. Meanwhile, in Punggol, Singapore, Southeast Asia’s most advanced public robotaxi trial, Grab […] The post Southeast Asia isn’t losing the robotaxi race. It’s runn…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "574d485a3eff4db998ea"
+      },
+      {
         "title": "When the buyer is a bot: Keeping your startup eligible in agent-run procurement",
         "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -404,6 +504,69 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "46f24389ad87e24b3e1c"
+      },
+      {
+        "title": "Agritech investors are learning that infrastructure matters",
+        "url": "https://e27.co/agritech-investors-are-learning-that-infrastructure-matters-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-27T04:43:59+00:00",
+        "fetched_at": "2026-08-27T05:06:51+00:00",
+        "summary": "For much of the past decade, agritech in emerging markets carried a familiar venture capital promise: take a messy, offline industry, add software, and watch scale follow. A farmer advisory app here, a weather tool there, a digital marketplace somewhere else. The thesis was neat, asset-light and easy to pitch. It also underestimated the reality […] The post Agritech investors are learning that infrastructure matters…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "d78766e98fccef6e317f"
+      },
+      {
+        "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
+        "url": "https://zenn.dev/gangy/articles/04597efe1b64c5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-27T01:39:31+00:00",
+        "fetched_at": "2026-08-27T05:06:51+00:00",
+        "summary": "梅を必ず入れるのがコツです。「予算ゼロでもここまでは下げられる」を示すと、議論が「やるか/やらないか」から「どこまでやるか」に変わります。この時点で提案は半分通っています。 4.「導入費用」→「運用コストと人の時間も出す」 導入費用だけ書いた提案は、通ったあとで揉めます。「入れたのに運用されていない」...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cbc192f52c75399d4b82"
       },
       {
         "title": "「Twitter」が再始動 | 気になる、記になる…",
@@ -758,6 +921,27 @@
       "id": "06e33fd27f8bcbb3e357"
     },
     {
+      "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
+      "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-27T05:06:46+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "I observe that the digital asset sector’s total valuation has expanded to US$2.66T, up 0.98 per cent over the last 24 hours. This upward trajectory reflects a distinct shift in financial mechanics, in which regulated allocation dictates price action more than retail speculation. My analysis reveals an ecosystem that is heavily influenced by macroeconomic forces […] The post Who really moves Bitcoin now: nine straigh…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18ffa4d8f237e64ddc16"
+    },
+    {
       "title": "The Philippines does not need to build AI to have an AI advantage",
       "url": "https://e27.co/the-philippines-does-not-need-to-build-ai-to-have-an-ai-advantage-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -777,6 +961,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c5ad375c9613aabfe03c"
+    },
+    {
+      "title": "オードリー・タンが警告 AIが考え人が従う「逆ケンタウロス」の罠",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T01:38:16+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aa03892fd08f1d6c1062"
     },
     {
       "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
@@ -823,6 +1029,63 @@
       "id": "2dca08ba264baaf7680a"
     },
     {
+      "title": "M 5.1 - South Atlantic Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-27T04:34:12.040+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "Time 2026-08-27 04:19:08 UTC 2026-08-27 04:19:08 UTC at epicenter Location 22.567°S 20.298°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "64f3fa6b710d900422d6"
+    },
+    {
+      "title": "Southeast Asia isn’t losing the robotaxi race. It’s running a different one",
+      "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-27T03:39:50+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "Last week, Nevada regulators handed Tesla permits for up to 5,000 robotaxis in the Las Vegas area, with Waymo and Uber each cleared for another 1,000. That is roughly 7,000 permitted autonomous vehicles for a single US metro area, in a single announcement. Meanwhile, in Punggol, Singapore, Southeast Asia’s most advanced public robotaxi trial, Grab […] The post Southeast Asia isn’t losing the robotaxi race. It’s runn…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "574d485a3eff4db998ea"
+    },
+    {
       "title": "When the buyer is a bot: Keeping your startup eligible in agent-run procurement",
       "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -842,6 +1105,69 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "46f24389ad87e24b3e1c"
+    },
+    {
+      "title": "Agritech investors are learning that infrastructure matters",
+      "url": "https://e27.co/agritech-investors-are-learning-that-infrastructure-matters-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-27T04:43:59+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "For much of the past decade, agritech in emerging markets carried a familiar venture capital promise: take a messy, offline industry, add software, and watch scale follow. A farmer advisory app here, a weather tool there, a digital marketplace somewhere else. The thesis was neat, asset-light and easy to pitch. It also underestimated the reality […] The post Agritech investors are learning that infrastructure matters…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "d78766e98fccef6e317f"
+    },
+    {
+      "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
+      "url": "https://zenn.dev/gangy/articles/04597efe1b64c5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T01:39:31+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "梅を必ず入れるのがコツです。「予算ゼロでもここまでは下げられる」を示すと、議論が「やるか/やらないか」から「どこまでやるか」に変わります。この時点で提案は半分通っています。 4.「導入費用」→「運用コストと人の時間も出す」 導入費用だけ書いた提案は、通ったあとで揉めます。「入れたのに運用されていない」...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cbc192f52c75399d4b82"
     },
     {
       "title": "「Twitter」が再始動 | 気になる、記になる…",
@@ -907,109 +1233,126 @@
   ],
   "new_findings": [
     {
-      "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN18593874/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
+      "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-27T12:00:00+09:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "Rakuten Kobo Inc.が提供する楽天Koboデスクトップアプリ（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。",
+      "published_at": "2026-08-27T05:06:46+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "I observe that the digital asset sector’s total valuation has expanded to US$2.66T, up 0.98 per cent over the last 24 hours. This upward trajectory reflects a distinct shift in financial mechanics, in which regulated allocation dictates price action more than retail speculation. My analysis reveals an ecosystem that is heavily influenced by macroeconomic forces […] The post Who really moves Bitcoin now: nine straigh…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Public Health"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "18ffa4d8f237e64ddc16"
+    },
+    {
+      "title": "オードリー・タンが警告 AIが考え人が従う「逆ケンタウロス」の罠",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T01:38:16+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aa03892fd08f1d6c1062"
+    },
+    {
+      "title": "M 5.1 - South Atlantic Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-27T04:34:12.040+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "Time 2026-08-27 04:19:08 UTC 2026-08-27 04:19:08 UTC at epicenter Location 22.567°S 20.298°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1595072556a2acf273f0"
-    },
-    {
-      "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
-      "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-27T02:00:23+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "Biochar is easy to dismiss as a climate-tech curiosity. It shouldn’t be. Across Indonesia, Vietnam, Thailand, the Philippines and Malaysia, it sits at the intersection of five problems regional governments already spend money on: agricultural waste management, seasonal haze, soil degradation, industrial wastewater, and rural income. Few climate technologies touch all five at once. The […] The post Why Southeast Asia…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia",
-        "Watchgraph:agriculture_food_fertilizer"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "agriculture_food_fertilizer"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "agriculture_food_fertilizer: corn"
+        "earthquakes_tsunami: earthquake"
       ],
       "market_context": [
-        "ADM",
-        "BG",
-        "DE",
-        "NTR",
-        "CF",
-        "MOS",
-        "wheat",
-        "corn",
-        "soy"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "f92e51e8b08368674d5e"
+      "id": "64f3fa6b710d900422d6"
     },
     {
-      "title": "Southeast Asia’s next century will be built on bridges, not blocs",
-      "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/",
+      "title": "Southeast Asia isn’t losing the robotaxi race. It’s running a different one",
+      "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-27T02:00:12+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "Southeast Asia’s growth story is often told through numbers. According to the ASEAN Statistical Highlights 2025, ASEAN had a population of 682.7 million and a nominal GDP of US$3.9 trillion in 2024. Its economy grew 4.8 per cent that year. These are significant numbers, but they do not fully explain the region’s opportunity. What may matter more is our ability to build bridges. […] The post Southeast Asia’s next cen…",
+      "published_at": "2026-08-27T03:39:50+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "Last week, Nevada regulators handed Tesla permits for up to 5,000 robotaxis in the Las Vegas area, with Waymo and Uber each cleared for another 1,000. That is roughly 7,000 permitted autonomous vehicles for a single US metro area, in a single announcement. Meanwhile, in Punggol, Singapore, Southeast Asia’s most advanced public robotaxi trial, Grab […] The post Southeast Asia isn’t losing the robotaxi race. It’s runn…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Macro/Policy",
         "Southeast Asia"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2571adfe6fd5e76e1d44"
+      "id": "574d485a3eff4db998ea"
     },
     {
-      "title": "Beyond the cloud: Why ASEAN’s second digital wave runs on megawatts, not software",
-      "url": "https://e27.co/beyond-the-cloud-why-aseans-second-digital-wave-runs-on-megawatts-not-software-20260825/",
+      "title": "Agritech investors are learning that infrastructure matters",
+      "url": "https://e27.co/agritech-investors-are-learning-that-infrastructure-matters-20260827/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-27T01:45:36+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "It didn’t happen in a corporate boardroom or across a venture capital table. It happened late at night, sitting completely alone at a corner table of a cafe in Johor City Centre, staring down at a cold plate of dinner. Dangling right in front of my face was a string of Christmas-style lights, arranged in […] The post Beyond the cloud: Why ASEAN’s second digital wave runs on megawatts, not software appeared first on…",
+      "published_at": "2026-08-27T04:43:59+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "For much of the past decade, agritech in emerging markets carried a familiar venture capital promise: take a messy, offline industry, add software, and watch scale follow. A farmer advisory app here, a weather tool there, a digital marketplace somewhere else. The thesis was neat, asset-light and easy to pitch. It also underestimated the reality […] The post Agritech investors are learning that infrastructure matters…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Watchgraph:agriculture_food_fertilizer",
         "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules capitals_power_centers, agriculture_food_fertilizer (+6.0); watchgraph markets via defense_war, macro_region_etfs, agriculture_food: corn (+2.0)",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [
-        "capitals_power_centers",
-        "agriculture_food_fertilizer"
+        "capitals_power_centers"
       ],
       "watchgraph_reasons": [
-        "capitals_power_centers: capital",
-        "agriculture_food_fertilizer: corn"
+        "capitals_power_centers: capital"
       ],
       "market_context": [
         "LMT",
@@ -1027,158 +1370,18 @@
         "EWY",
         "EWA",
         "EWC",
-        "EWZ",
-        "ADM",
-        "BG",
-        "DE",
-        "NTR",
-        "CF",
-        "MOS",
-        "wheat",
-        "corn",
-        "soy"
+        "EWZ"
       ],
-      "id": "18d2628ee1be62cdff0f"
+      "id": "d78766e98fccef6e317f"
     },
     {
-      "title": "三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU95523788/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-03-10T12:15:00+09:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "三菱電機数値制御装置（CNC）には、入力値インデックス、位置、またはオフセットの不適切な検証に起因するサービス運用妨害（DoS）の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9ebe32e36b0b136409af"
-    },
-    {
-      "title": "三菱電機製FA製品のEthernet機能におけるサービス運用妨害（DoS）の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96620683/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2025-05-14T11:00:00+09:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "三菱電機製FA製品のEthernet機能には、サービス運用妨害（DoS）の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a1901a885c7a144880ce"
-    },
-    {
-      "title": "思考軟體科技｜EFence - 存在3個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11133-e0167-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-26T07:20:00+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "思考軟體科技｜EFence - 存在3個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "720f3b2af724fd55b6a3"
-    },
-    {
-      "title": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-26T07:11:00+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5843e67339777b2c96ee"
-    },
-    {
-      "title": "鎧應科技｜CMS-WS/CMS-SE/SMP - Arbitrary File Upload",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11129-4a040-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-26T07:09:00+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "鎧應科技｜CMS-WS/CMS-SE/SMP - Arbitrary File Upload",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "06e33fd27f8bcbb3e357"
-    },
-    {
-      "title": "The Philippines does not need to build AI to have an AI advantage",
-      "url": "https://e27.co/the-philippines-does-not-need-to-build-ai-to-have-an-ai-advantage-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-27T02:15:56+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "Its next edge may come from knowing where AI should stop and human judgement should begin. The Philippine IT-BPM industry is still growing. IBPAP expects the sector to reach about 1.97 million workers and US$42 billion in revenue in 2026. At the same time, the work underneath those numbers is changing. AI is taking on […] The post The Philippines does not need to build AI to have an AI advantage appeared first on e2…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c5ad375c9613aabfe03c"
-    },
-    {
-      "title": "「Twitter」が再始動 | 気になる、記になる…",
-      "url": "https://taisy0.com/2026/08/27/226774.html",
+      "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
+      "url": "https://zenn.dev/gangy/articles/04597efe1b64c5",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-26T23:50:00+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "2023年に「X」に名前が変更され、姿を消していたあの「Twitter」が再始動しました。 放棄されたとされる「Twitter」の名称とロゴを復活させようとしているバージニア州のスタートアップ企業「Operation Bluebird」が、現地時間の8月24日、新たなソーシャルメディア・ネットワーク「Twitter.now」を立ち上げたと発表しま...",
+      "published_at": "2026-08-27T01:39:31+00:00",
+      "fetched_at": "2026-08-27T05:06:51+00:00",
+      "summary": "梅を必ず入れるのがコツです。「予算ゼロでもここまでは下げられる」を示すと、議論が「やるか/やらないか」から「どこまでやるか」に変わります。この時点で提案は半分通っています。 4.「導入費用」→「運用コストと人の時間も出す」 導入費用だけ書いた提案は、通ったあとで揉めます。「入れたのに運用されていない」...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1190,47 +1393,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7dab962a46dbd827e3ec"
-    },
-    {
-      "title": "What if you segmented customers before you built the product?",
-      "url": "https://e27.co/what-if-you-segmented-customers-before-you-built-the-product-20260826/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-27T02:30:17+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "There is a meeting that happens in most companies about three weeks before launch. The product is built, the marketing is drafted, and someone asks what the price should be. By then the answer is already decided for you. The features, the packaging is locked and the cost base is locked. Whatever the room picks […] The post What if you segmented customers before you built the product? appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dd4fd1bd533eef906d5c"
-    },
-    {
-      "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
-      "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-27T01:52:19+00:00",
-      "fetched_at": "2026-08-27T03:17:04+00:00",
-      "summary": "You can now opt individual plugin marketplaces into automatic updates by setting autoUpdate: true on an extraKnownMarketplaces entry in enterprise managed settings. Supported clients automatically check the marketplace and update… The post Enterprise-managed settings now support autoUpdate for plugin marketplaces appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a3ebd75ce7d83bbe4e09"
+      "id": "cbc192f52c75399d4b82"
     }
   ],
   "source_errors": [],
