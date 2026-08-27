@@ -1,27 +1,79 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-27T02:12:08Z",
+  "generated_at": "2026-08-27T04:00:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 9,
+    "dynamics": 22,
     "bands": {
-      "krass": 2,
-      "strong": 1,
-      "quiet": 6
+      "krass": 3,
+      "strong": 4,
+      "watch": 3,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "quiet": 6
+      "strong": 7,
+      "watch": 3,
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN18593874/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-08-27T12:00:00+09:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "Rakuten Kobo Inc.が提供する楽天Koboデスクトップアプリ（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。"
+    },
+    {
+      "title": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-08-26T07:11:00+00:00",
+      "age_days": 0.87,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication"
+    },
     {
       "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
       "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:30:56+00:00",
-      "age_days": 0.03,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -47,7 +99,7 @@
       "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:00:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -73,7 +125,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 69.01,
+      "age_days": 69.08,
       "topics": [
         "ai"
       ],
@@ -92,17 +144,166 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 69.0d old signal",
+        "aging penalty -8.0 for 69.1d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
+    },
+    {
+      "title": "思考軟體科技｜EFence - 存在3個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11133-e0167-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-08-26T07:20:00+00:00",
+      "age_days": 0.86,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "思考軟體科技｜EFence - 存在3個漏洞"
+    },
+    {
+      "title": "鎧應科技｜CMS-WS/CMS-SE/SMP - Arbitrary File Upload",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11129-4a040-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-08-26T07:09:00+00:00",
+      "age_days": 0.87,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "鎧應科技｜CMS-WS/CMS-SE/SMP - Arbitrary File Upload"
+    },
+    {
+      "title": "三菱電機数値制御装置におけるサービス運用妨害（DoS）の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU95523788/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-03-10T12:15:00+09:00",
+      "age_days": 170.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security",
+        "aging penalty -8.0 for 170.0d old signal"
+      ],
+      "summary": "三菱電機数値制御装置（CNC）には、入力値インデックス、位置、またはオフセットの不適切な検証に起因するサービス運用妨害（DoS）の脆弱性が存在します。"
+    },
+    {
+      "title": "三菱電機製FA製品のEthernet機能におけるサービス運用妨害（DoS）の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU96620683/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2025-05-14T11:00:00+09:00",
+      "age_days": 470.08,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security",
+        "aging penalty -8.0 for 470.1d old signal"
+      ],
+      "summary": "三菱電機製FA製品のEthernet機能には、サービス運用妨害（DoS）の脆弱性が存在します。"
+    },
+    {
+      "title": "Beyond the cloud: Why ASEAN’s second digital wave runs on megawatts, not software",
+      "url": "https://e27.co/beyond-the-cloud-why-aseans-second-digital-wave-runs-on-megawatts-not-software-20260825/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T01:45:36+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "It didn’t happen in a corporate boardroom or across a venture capital table. It happened late at night, sitting completely alone at a corner table of a cafe in Johor City Centre, staring down at a cold plate of dinner. Dangling right in front of my face was a string of Christmas-style lights, arranged in […] The post…"
+    },
+    {
+      "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
+      "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T02:00:23+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: regional",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Biochar is easy to dismiss as a climate-tech curiosity. It shouldn’t be. Across Indonesia, Vietnam, Thailand, the Philippines and Malaysia, it sits at the intersection of five problems regional governments already spend money on: agricultural waste management, seasonal haze, soil degradation, industrial wastewater, an…"
     },
     {
       "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
       "url": "https://zenn.dev/yui/articles/97597aa13b9802",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T10:43:21+00:00",
-      "age_days": 0.64,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -124,11 +325,109 @@
       "summary": "前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能..."
     },
     {
+      "title": "Southeast Asia’s next century will be built on bridges, not blocs",
+      "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T02:00:12+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Southeast Asia’s growth story is often told through numbers. According to the ASEAN Statistical Highlights 2025, ASEAN had a population of 682.7 million and a nominal GDP of US$3.9 trillion in 2024. Its economy grew 4.8 per cent that year. These are significant numbers, but they do not fully explain the region’s oppor…"
+    },
+    {
+      "title": "What if you segmented customers before you built the product?",
+      "url": "https://e27.co/what-if-you-segmented-customers-before-you-built-the-product-20260826/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T02:30:17+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "There is a meeting that happens in most companies about three weeks before launch. The product is built, the marketing is drafted, and someone asks what the price should be. By then the answer is already decided for you. The features, the packaging is locked and the cost base is locked. Whatever the room picks […] The…"
+    },
+    {
+      "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+      "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-08-27T01:52:19+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "You can now opt individual plugin marketplaces into automatic updates by setting autoUpdate: true on an extraKnownMarketplaces entry in enterprise managed settings. Supported clients automatically check the marketplace and update… The post Enterprise-managed settings now support autoUpdate for plugin marketplaces appe…"
+    },
+    {
+      "title": "The Philippines does not need to build AI to have an AI advantage",
+      "url": "https://e27.co/the-philippines-does-not-need-to-build-ai-to-have-an-ai-advantage-20260826/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T02:15:56+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Its next edge may come from knowing where AI should stop and human judgement should begin. The Philippine IT-BPM industry is still growing. IBPAP expects the sector to reach about 1.97 million workers and US$42 billion in revenue in 2026. At the same time, the work underneath those numbers is changing. AI is taking on…"
+    },
+    {
       "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
       "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:15:08+00:00",
-      "age_days": 0.04,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -154,7 +453,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 67.97,
+      "age_days": 68.05,
       "topics": [
         "general"
       ],
@@ -179,7 +478,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 67.97,
+      "age_days": 68.05,
       "topics": [
         "general"
       ],
@@ -204,7 +503,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 67.97,
+      "age_days": 68.05,
       "topics": [
         "ai"
       ],
@@ -231,7 +530,7 @@
       "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:30:59+00:00",
-      "age_days": 0.03,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -250,7 +549,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The last two pieces I wrote here assumed a human on the other end. Someone reads what the assistant says about your company, weighs it, then decides. That assumption is expiring. At ESBO Ltd, the agency I run, this year’s client conversations have shifted from what the AI says about us to whether an AI […] The post Wh…"
+    },
+    {
+      "title": "「Twitter」が再始動 | 気になる、記になる…",
+      "url": "https://taisy0.com/2026/08/27/226774.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-26T23:50:00+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "2023年に「X」に名前が変更され、姿を消していたあの「Twitter」が再始動しました。 放棄されたとされる「Twitter」の名称とロゴを復活させようとしているバージニア州のスタートアップ企業「Operation Bluebird」が、現地時間の8月24日、新たなソーシャルメディア・ネットワーク「Twitter.now」を立ち上げたと発表しま..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Asia’s AI trust gap: strong transparency, weak security and unclear data practices” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
