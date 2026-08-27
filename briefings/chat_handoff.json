@@ -100,5 +100,139 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Rippling expands Singapore office as AI boom pushes companies to hire globally” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=30.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
+        "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T05:30:24+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 30.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Singapore’s artificial intelligence boom is beginning to show up in an unexpected place: the back office. Rippling, the US$16.8-billion workforce management platform, is expanding its Singapore operations and moving into a new office at OCBC Centre East, as it nearly triples its local office-based workforce from Augus…"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3005",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T07:32:28+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cert-bund, bsi, security, advisory"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen."
+      },
+      {
+        "title": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました",
+        "url": "https://www.digital.go.jp/councils/procurement-agile-opensource",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-08-27T06:00:00+00:00",
+        "age_days": 0.15,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました"
+      },
+      {
+        "title": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-08-26T07:11:00+00:00",
+        "age_days": 1.1,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication"
+      },
+      {
+        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
+        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:30:56+00:00",
+        "age_days": 0.34,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security"
+        ],
+        "summary": "Asia’s AI boom is producing useful tools at speed, from writing assistants and image platforms to voice generators and productivity software. But a new ranking by Cybernews, suggests the region’s AI companies still have work to do on a less glamorous part of the business: trust. The latest AI Trustworthiness Ranking a…"
+      }
+    ]
+  }
 }
