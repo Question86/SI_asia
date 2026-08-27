@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-27T04:00:54Z",
+  "generated_at": "2026-08-27T06:22:35Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 22,
+    "dynamics": 28,
     "bands": {
-      "krass": 3,
+      "krass": 4,
       "strong": 4,
-      "watch": 3,
-      "quiet": 12
+      "watch": 4,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 3,
-      "quiet": 12
+      "strong": 8,
+      "watch": 4,
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN18593874/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-27T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-26T07:11:00+00:00",
-      "age_days": 0.87,
+      "age_days": 0.97,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:30:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -95,11 +95,37 @@
       "summary": "Asia’s AI boom is producing useful tools at speed, from writing assistants and image platforms to voice generators and productivity software. But a new ranking by Cybernews, suggests the region’s AI companies still have work to do on a less glamorous part of the business: trust. The latest AI Trustworthiness Ranking a…"
     },
     {
+      "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
+      "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T05:06:46+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "I observe that the digital asset sector’s total valuation has expanded to US$2.66T, up 0.98 per cent over the last 24 hours. This upward trajectory reflects a distinct shift in financial mechanics, in which regulated allocation dictates price action more than retail speculation. My analysis reveals an ecosystem that i…"
+    },
+    {
       "title": "Moving past the pilot and scaling AI in Southeast Asian retail",
       "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:00:22+00:00",
-      "age_days": 0.13,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -125,7 +151,7 @@
       "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 69.08,
+      "age_days": 69.18,
       "topics": [
         "ai"
       ],
@@ -144,7 +170,7 @@
         "baseline z_hint 2.95",
         "high terms: rce, code",
         "security high-signal: rce, code",
-        "aging penalty -8.0 for 69.1d old signal",
+        "aging penalty -8.0 for 69.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -154,7 +180,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11133-e0167-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-26T07:20:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.96,
       "topics": [
         "security"
       ],
@@ -178,7 +204,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11129-4a040-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-26T07:09:00+00:00",
-      "age_days": 0.87,
+      "age_days": 0.97,
       "topics": [
         "security"
       ],
@@ -202,7 +228,7 @@
       "url": "https://jvn.jp/vu/JVNVU95523788/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-03-10T12:15:00+09:00",
-      "age_days": 170.03,
+      "age_days": 170.13,
       "topics": [
         "security"
       ],
@@ -218,7 +244,7 @@
       "single_source_ai_capped": false,
       "why": [
         "security high-signal: jvn, security",
-        "aging penalty -8.0 for 170.0d old signal"
+        "aging penalty -8.0 for 170.1d old signal"
       ],
       "summary": "三菱電機数値制御装置（CNC）には、入力値インデックス、位置、またはオフセットの不適切な検証に起因するサービス運用妨害（DoS）の脆弱性が存在します。"
     },
@@ -227,7 +253,7 @@
       "url": "https://jvn.jp/vu/JVNVU96620683/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2025-05-14T11:00:00+09:00",
-      "age_days": 470.08,
+      "age_days": 470.18,
       "topics": [
         "security"
       ],
@@ -243,16 +269,41 @@
       "single_source_ai_capped": false,
       "why": [
         "security high-signal: jvn, security",
-        "aging penalty -8.0 for 470.1d old signal"
+        "aging penalty -8.0 for 470.2d old signal"
       ],
       "summary": "三菱電機製FA製品のEthernet機能には、サービス運用妨害（DoS）の脆弱性が存在します。"
+    },
+    {
+      "title": "M 5.1 - South Atlantic Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc56",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-27T04:34:12.040+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-27 04:19:08 UTC 2026-08-27 04:19:08 UTC at epicenter Location 22.567°S 20.298°W Depth 10.00 km (6.21 mi)"
     },
     {
       "title": "Beyond the cloud: Why ASEAN’s second digital wave runs on megawatts, not software",
       "url": "https://e27.co/beyond-the-cloud-why-aseans-second-digital-wave-runs-on-megawatts-not-software-20260825/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:45:36+00:00",
-      "age_days": 0.09,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -276,7 +327,7 @@
       "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T02:00:23+00:00",
-      "age_days": 0.08,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -303,7 +354,7 @@
       "url": "https://zenn.dev/yui/articles/97597aa13b9802",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T10:43:21+00:00",
-      "age_days": 0.72,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -325,11 +376,35 @@
       "summary": "前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能..."
     },
     {
+      "title": "Agritech investors are learning that infrastructure matters",
+      "url": "https://e27.co/agritech-investors-are-learning-that-infrastructure-matters-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T04:43:59+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "For much of the past decade, agritech in emerging markets carried a familiar venture capital promise: take a messy, offline industry, add software, and watch scale follow. A farmer advisory app here, a weather tool there, a digital marketplace somewhere else. The thesis was neat, asset-light and easy to pitch. It also…"
+    },
+    {
       "title": "Southeast Asia’s next century will be built on bridges, not blocs",
       "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T02:00:12+00:00",
-      "age_days": 0.08,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -350,11 +425,35 @@
       "summary": "Southeast Asia’s growth story is often told through numbers. According to the ASEAN Statistical Highlights 2025, ASEAN had a population of 682.7 million and a nominal GDP of US$3.9 trillion in 2024. Its economy grew 4.8 per cent that year. These are significant numbers, but they do not fully explain the region’s oppor…"
     },
     {
+      "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
+      "url": "https://zenn.dev/gangy/articles/04597efe1b64c5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-27T01:39:31+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "梅を必ず入れるのがコツです。「予算ゼロでもここまでは下げられる」を示すと、議論が「やるか/やらないか」から「どこまでやるか」に変わります。この時点で提案は半分通っています。 4.「導入費用」→「運用コストと人の時間も出す」 導入費用だけ書いた提案は、通ったあとで揉めます。「入れたのに運用されていない」..."
+    },
+    {
       "title": "What if you segmented customers before you built the product?",
       "url": "https://e27.co/what-if-you-segmented-customers-before-you-built-the-product-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T02:30:17+00:00",
-      "age_days": 0.06,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -378,7 +477,7 @@
       "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-08-27T01:52:19+00:00",
-      "age_days": 0.09,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -402,7 +501,7 @@
       "url": "https://e27.co/the-philippines-does-not-need-to-build-ai-to-have-an-ai-advantage-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T02:15:56+00:00",
-      "age_days": 0.07,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -423,11 +522,36 @@
       "summary": "Its next edge may come from knowing where AI should stop and human judgement should begin. The Philippine IT-BPM industry is still growing. IBPAP expects the sector to reach about 1.97 million workers and US$42 billion in revenue in 2026. At the same time, the work underneath those numbers is changing. AI is taking on…"
     },
     {
+      "title": "オードリー・タンが警告 AIが考え人が従う「逆ケンタウロス」の罠",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-27T01:38:16+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か..."
+    },
+    {
       "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
       "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:15:08+00:00",
-      "age_days": 0.12,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -453,7 +577,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2118460.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 68.05,
+      "age_days": 68.15,
       "topics": [
         "general"
       ],
@@ -469,7 +593,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 68.0d old signal"
+        "aging penalty -16.0 for 68.1d old signal"
       ],
       "summary": ""
     },
@@ -478,7 +602,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news063.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 68.05,
+      "age_days": 68.15,
       "topics": [
         "general"
       ],
@@ -494,7 +618,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +1",
-        "aging penalty -16.0 for 68.0d old signal"
+        "aging penalty -16.0 for 68.1d old signal"
       ],
       "summary": ""
     },
@@ -503,7 +627,7 @@
       "url": "https://toyokeizai.net/articles/-/948348?display=b",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-20T02:49:51+00:00",
-      "age_days": 68.05,
+      "age_days": 68.15,
       "topics": [
         "ai"
       ],
@@ -520,17 +644,42 @@
       "why": [
         "momentum delta +1",
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 68.0d old signal",
+        "aging penalty -16.0 for 68.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
+    },
+    {
+      "title": "Southeast Asia isn’t losing the robotaxi race. It’s running a different one",
+      "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-27T03:39:50+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Last week, Nevada regulators handed Tesla permits for up to 5,000 robotaxis in the Las Vegas area, with Waymo and Uber each cleared for another 1,000. That is roughly 7,000 permitted autonomous vehicles for a single US metro area, in a single announcement. Meanwhile, in Punggol, Singapore, Southeast Asia’s most advanc…"
     },
     {
       "title": "When the buyer is a bot: Keeping your startup eligible in agent-run procurement",
       "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:30:59+00:00",
-      "age_days": 0.1,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -555,7 +704,7 @@
       "url": "https://taisy0.com/2026/08/27/226774.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-26T23:50:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
