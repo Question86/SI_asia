@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-27T09:38:03Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-08-27T13:08:43Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3052",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-27T10:36:05+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in DENX U-Boot ausnutzen, um möglicherweise beliebigen Code auszuführen oder einen Denial-of-Service-Zustand herbeizuführen."
+    },
+    {
       "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
       "url": "https://jvn.jp/jp/JVN18593874/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-08-27T12:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -35,10 +60,10 @@
       "summary": "Rakuten Kobo Inc.が提供する楽天Koboデスクトップアプリ（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。"
     },
     {
-      "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3011",
+      "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3055",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-27T07:32:27+00:00",
+      "published_at": "2026-08-27T11:06:06+00:00",
       "age_days": 0.09,
       "topics": [
         "security"
@@ -56,13 +81,13 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Veeam Backup & Replication ausnutzen, um Informationen offenzulegen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenCTI ausnutzen, um einen Denial of Service Angriff durchzuführen Sicherheitsmaßnahmen zu umgehen und Daten offenzulegen oder zu manipulieren."
     },
     {
-      "title": "[UPDATE] [hoch] Veeam ONE: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3008",
+      "title": "[NEU] [hoch] CKAN: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3054",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-27T07:32:27+00:00",
+      "published_at": "2026-08-27T11:06:06+00:00",
       "age_days": 0.09,
       "topics": [
         "security"
@@ -80,14 +105,14 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Veeam ONE ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in CKAN ausnutzen, um Informationen offenzulegen, um Sicherheitsvorkehrungen zu umgehen, und um einen Cross-Site Scripting Angriff durchzuführen."
     },
     {
       "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
       "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T05:30:24+00:00",
-      "age_days": 0.17,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -110,11 +135,36 @@
       "summary": "Singapore’s artificial intelligence boom is beginning to show up in an unexpected place: the back office. Rippling, the US$16.8-billion workforce management platform, is expanding its Singapore operations and moving into a new office at OCBC Centre East, as it nearly triples its local office-based workforce from Augus…"
     },
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3051",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-27T10:31:06+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3005",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-27T07:32:28+00:00",
-      "age_days": 0.09,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -139,7 +189,7 @@
       "url": "https://www.digital.go.jp/councils/procurement-agile-opensource",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-27T06:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -165,7 +215,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-08-26T07:11:00+00:00",
-      "age_days": 1.1,
+      "age_days": 1.25,
       "topics": [
         "security"
       ],
@@ -191,7 +241,7 @@
       "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:30:56+00:00",
-      "age_days": 0.34,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security"
@@ -217,7 +267,7 @@
       "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T05:06:46+00:00",
-      "age_days": 0.19,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -243,7 +293,7 @@
       "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-27T01:00:22+00:00",
-      "age_days": 0.36,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -263,59 +313,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Southeast Asia is piloting AI faster than almost anywhere else in the world. But how do you turn that pilot-phase momentum into real, enterprise-wide value? It forces a hard look at your data, your architecture, and the new operational risks. Southeast Asia isn’t catching up on artificial intelligence; in many respect…"
-    },
-    {
-      "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
-      "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 69.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.95,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.95",
-        "high terms: rce, code",
-        "security high-signal: rce, code",
-        "aging penalty -8.0 for 69.3d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "思考軟體科技｜EFence - 存在3個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11133-e0167-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-08-26T07:20:00+00:00",
-      "age_days": 1.1,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "思考軟體科技｜EFence - 存在3個漏洞"
     }
   ],
   "read_order": [
@@ -327,7 +324,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
