@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-27T05:07:32+00:00",
+  "generated_at": "2026-08-27T07:45:51+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 8,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
-    "medium": 5,
-    "observe": 19
+    "medium": 8,
+    "observe": 24
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-27T07:32:28+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3005",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "section": "medium"
+    },
     {
       "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
       "source": "e27 Asia Startup and Tech Feed",
@@ -35,23 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-27T02:00:23+00:00",
+      "published_at": "2026-08-27T07:32:27+00:00",
       "relevance_score": 14,
-      "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/",
-      "summary": "Biochar is easy to dismiss as a climate-tech curiosity. It shouldn’t be. Across Indonesia, Vietnam, Thailand, the Philippines and Malaysia, it sits at the intersection of five problems regional governments already spend money on: agricultural waste management…",
-      "section": "medium"
-    },
-    {
-      "title": "Southeast Asia’s next century will be built on bridges, not blocs",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-27T02:00:12+00:00",
-      "relevance_score": 14,
-      "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/",
-      "summary": "Southeast Asia’s growth story is often told through numbers. According to the ASEAN Statistical Highlights 2025, ASEAN had a population of 682.7 million and a nominal GDP of US$3.9 trillion in 2024. Its economy grew 4.8 per cent that year. These are significa…",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3011",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Veeam Backup & Replication ausnutzen, um Informationen offenzulegen.",
       "section": "medium"
     },
     {
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-27T06:00:00+00:00",
+      "relevance_score": 11,
+      "url": "https://www.digital.go.jp/councils/procurement-agile-opensource",
+      "summary": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました",
+      "section": "observe"
+    },
+    {
       "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://zenn.dev/yui/articles/97597aa13b9802",
       "summary": "前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能...",
       "section": "observe"
-    },
-    {
-      "title": "思考軟體科技｜EFence - 存在3個漏洞",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-26T07:20:00+00:00",
-      "relevance_score": 11,
-      "url": "https://www.twcert.org.tw/tw/cp-132-11133-e0167-1.html",
-      "summary": "思考軟體科技｜EFence - 存在3個漏洞",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication",
-        "url": "https://www.twcert.org.tw/tw/cp-132-11130-4bcde-1.html",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-08-26T07:11:00+00:00",
-        "age_days": 0.97,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "鎧應科技｜CAYIN CMS-WS/CMS-SE - Missing Authentication"
-      },
-      {
-        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
-        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:30:56+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "Asia’s AI boom is producing useful tools at speed, from writing assistants and image platforms to voice generators and productivity software. But a new ranking by Cybernews, suggests the region’s AI companies still have work to do on a less glamorous part of the business: trust. The latest AI Trustworthiness Ranking a…"
-      },
-      {
-        "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
-        "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T05:06:46+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "I observe that the digital asset sector’s total valuation has expanded to US$2.66T, up 0.98 per cent over the last 24 hours. This upward trajectory reflects a distinct shift in financial mechanics, in which regulated allocation dictates price action more than retail speculation. My analysis reveals an ecosystem that i…"
-      },
-      {
-        "title": "Moving past the pilot and scaling AI in Southeast Asian retail",
-        "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:00:22+00:00",
-        "age_days": 0.22,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 27.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "Southeast Asia is piloting AI faster than almost anywhere else in the world. But how do you turn that pilot-phase momentum into real, enterprise-wide value? It forces a hard look at your data, your architecture, and the new operational risks. Southeast Asia isn’t catching up on artificial intelligence; in many respect…"
-      },
-      {
-        "title": "楽天Koboデスクトップアプリ（Windows版）のインストーラにおけるDLL読み込みに関する脆弱性",
-        "url": "https://jvn.jp/jp/JVN18593874/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-27T12:00:00+09:00",
-        "age_days": 0.14,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "Rakuten Kobo Inc.が提供する楽天Koboデスクトップアプリ（Windows版）のインストーラには、DLL読み込みに関する脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }

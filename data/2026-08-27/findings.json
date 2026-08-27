@@ -1,5 +1,29 @@
 [
   {
+    "title": "[UPDATE] [mittel] OpenSSL: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3005",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T07:32:28+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "OpenSSL",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); OpenSSL (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "522568ea8810d7edabf6"
+  },
+  {
     "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
     "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -42,6 +66,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1595072556a2acf273f0"
+  },
+  {
+    "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3011",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T07:32:27+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Veeam Backup & Replication ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "76c5b8db6d97c2e7c22b"
+  },
+  {
+    "title": "[UPDATE] [hoch] Veeam ONE: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3008",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T07:32:27+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Veeam ONE ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d5e35d339ac13607e7d8"
   },
   {
     "title": "Why Southeast Asia’s next climate unicorn might be built from farm waste",
@@ -200,6 +270,27 @@
     "id": "a1901a885c7a144880ce"
   },
   {
+    "title": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました",
+    "url": "https://www.digital.go.jp/councils/procurement-agile-opensource",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-08-27T06:00:00+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "情報システム調達におけるアジャイル開発やオープンソース化等に係る有識者検討会の最終報告書を掲載しました",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "aaa590ea7985c4a36ab9"
+  },
+  {
     "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
     "url": "https://zenn.dev/yui/articles/97597aa13b9802",
     "source": "Hatena Bookmark Hotentry IT",
@@ -286,6 +377,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "06e33fd27f8bcbb3e357"
+  },
+  {
+    "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
+    "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-08-27T05:30:24+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "Singapore’s artificial intelligence boom is beginning to show up in an unexpected place: the back office. Rippling, the US$16.8-billion workforce management platform, is expanding its Singapore operations and moving into a new office at OCBC Centre East, as it nearly triples its local office-based workforce from August. The US-headquartered company said the move reflects rising […] The post Rippling expands Singapor…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b6603d277185b9d55fab"
   },
   {
     "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
@@ -453,6 +565,28 @@
     "id": "574d485a3eff4db998ea"
   },
   {
+    "title": "ビル・ゲイツ氏、AIに対する世界的制限を提唱 恩恵を圧倒する人間への危害に警鐘",
+    "url": "https://www.cnn.co.jp/tech/35251976.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T02:43:13+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "ビル・ゲイツ氏。AIがもたらす潜在的なリスクがその恩恵を上回ることがないよう、制限を設ける必要があると述べている/Denis Balibouse/Reuters （CNN） 米マイクロソフト共同創業者のビル・ゲイツ氏は26日、人工知能（AI）に対して大幅な制限を設けることを提唱した。さもなければ、たとえAIの恩恵があったとしても、そ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ce2efb2271d2fc342ccd"
+  },
+  {
     "title": "When the buyer is a bot: Keeping your startup eligible in agent-run procurement",
     "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -472,6 +606,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "46f24389ad87e24b3e1c"
+  },
+  {
+    "title": "Sicherheitspatches: Rund 550 Lücken gefährden Dell PowerProtect Cyber Recovery",
+    "url": "https://www.heise.de/news/Sicherheitspatches-Rund-550-Luecken-gefaehrden-Dell-PowerProtect-Cyber-Recovery-11427351.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-27T07:28:00.000+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "Dells IT-Sicherheitslösung PowerProtect Cyber Recovery bietet viele Angriffspunkte. Admins sollten ihre Instanzen zeitnah über Updates absichern.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2050f8d7c83577be3299"
   },
   {
     "title": "Agritech investors are learning that infrastructure matters",
@@ -514,6 +668,27 @@
       "EWZ"
     ],
     "id": "d78766e98fccef6e317f"
+  },
+  {
+    "title": "「Twitter」がリリースされる",
+    "url": "https://gigazine.net/news/20260827-twitter-now-launches/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T03:03:42+00:00",
+    "fetched_at": "2026-08-27T07:45:21+00:00",
+    "summary": "Twitterの元弁護士でX(旧Twitter)と商標権争いをしているスティーブン・コーツ氏が、新たに「Twitter(Twitter.now)」を立ち上げました。 Twitter - The Square Is Back https://twitter.now/ New Twitter launches, says Musk's X gave up the name - Ars Technica https://arstechnica.com/tech-policy/2026/08/new-twi...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "59241c262e170818daa8"
   },
   {
     "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
