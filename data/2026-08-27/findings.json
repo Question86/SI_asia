@@ -47,6 +47,102 @@
     "id": "bb2e8275ece478e1eaf9"
   },
   {
+    "title": "[UPDATE] [hoch] Google Chrome/Microsoft Edge: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0612",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:26:09+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome/Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, um aus der Sandbox auszubrechen, um Informationen offenzulegen und weitere, nicht näher genannte Auswirkungen zu erzielen",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9a66bb191c0325cd0e5b"
+  },
+  {
+    "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0481",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:26:09+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, beispielsweise die Ausführung von Code, Datenmanipulation oder Denial-of-Service-Angriffe.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f65deba0fabb5664a6e3"
+  },
+  {
+    "title": "[UPDATE] [hoch] Google Chrome/Microsoft Edge: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0452",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:26:08+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome/Microsoft Edge ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, beispielsweise die Ausführung von Code, Datenmanipulation oder Denial-of-Service-Angriffe.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ffe1d69d88ebd7792c3"
+  },
+  {
+    "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0420",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:26:08+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Google Chrome und Microsoft Edge ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, möglicherweise beliebigen Code auszuführen, einen Denial-of-Service-Zustand zu verursachen oder Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e1e504e547a14f46a6d5"
+  },
+  {
     "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3051",
     "source": "BSI CERT-Bund Security Advisories",
@@ -221,6 +317,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1595072556a2acf273f0"
+  },
+  {
+    "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2955",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:31:05+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in VMware Tanzu Spring Framework ausnutzen, um beliebigen Code auszuführen, Cross-Site-Scripting-Angriffe durchzuführen, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, offene Weiterleitungen durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "12178669cbb126e2442b"
   },
   {
     "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
@@ -559,6 +678,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "a1901a885c7a144880ce"
+  },
+  {
+    "title": "AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ",
+    "url": "https://future-architect.github.io/articles/20260827b/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T10:15:21+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "夏休みの課題ということで、これまでの業務経験、Real World HTTP、Goならわかるシステムプログラミング、実用Go言語、お客様と一緒に勉強したReact/Next.jsの知識を全部詰め込んだ、自分史上最高のウェブアプリケーションサーバーを作ってみました。 https://shibukawa.github.io/popcornweb/ http.ServeMuxとhttp.Hand...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry",
+      "Watchgraph:agriculture_food_fertilizer"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "agriculture_food_fertilizer"
+    ],
+    "watchgraph_reasons": [
+      "agriculture_food_fertilizer: corn"
+    ],
+    "market_context": [
+      "ADM",
+      "BG",
+      "DE",
+      "NTR",
+      "CF",
+      "MOS",
+      "wheat",
+      "corn",
+      "soy"
+    ],
+    "id": "f1805a6175f3707a8deb"
   },
   {
     "title": "Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective",
@@ -920,6 +1076,26 @@
     "id": "64f3fa6b710d900422d6"
   },
   {
+    "title": "Meeting of 22-23 July 2026",
+    "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+    "source": "ECB Press Releases Speeches Interviews",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:30:00+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Meeting of 22-23 July 2026",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ff27ea7f5636133ebaa8"
+  },
+  {
     "title": "Southeast Asia isn’t losing the robotaxi race. It’s running a different one",
     "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -982,6 +1158,92 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "46f24389ad87e24b3e1c"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Mozilla (19 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1054/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-19T00:00:00+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "80f8cebf1dcccbe5d5dc"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle Weblogic (19 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1053/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-19T00:00:00+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c62808793b7280f3e5c2"
+  },
+  {
+    "title": "Veeam ONE: Angreifer können Servicekonten übernehmen",
+    "url": "https://www.heise.de/news/Veeam-ONE-Angreifer-koennen-Servicekonten-uebernehmen-11427395.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-27T12:38:00.000+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Eine kritische Sicherheitslücke bedroht die IT-Überwachungs- und Analyseplattform Veeam ONE. Eine reparierte Version steht zum Download bereit.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "db4350e5a0725e07295e"
+  },
+  {
+    "title": "Ubiquiti schließt mehrere kritische Sicherheitslücken",
+    "url": "https://www.heise.de/news/Ubiquiti-schliesst-mehrere-kritische-Sicherheitsluecken-11431726.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:59:00.000+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "Ubiquiti kümmert sich um 22 Sicherheitslecks in mehreren Produkten. Die meisten davon gelten als kritisches Risiko.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ae381a0a995eb80c6eb7"
   },
   {
     "title": "Angriffe erwartbar: Proof-of-Concept für Exchange-Lücke veröffentlicht",
@@ -1124,6 +1386,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "157b73ceaef6da635312"
+  },
+  {
+    "title": "IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ",
+    "url": "https://www.iij.ad.jp/news/pressrelease/2026/0827.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T08:57:11+00:00",
+    "fetched_at": "2026-08-27T14:50:43+00:00",
+    "summary": "ホーム IIJについて 情報発信 プレスリリース 2026年 IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 PDF [708KB] 当社は、1枚のSIMでNTTドコモ網とKDDI網の国内2キャリアの回線を利用できる「IIJマルチプロファイルSIM 2.0」を本日より提供開始いたします。当社は、NT...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c7689b2339810aece4ae"
   },
   {
     "title": "50代で初転職した話",

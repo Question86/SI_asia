@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-27T11:09:48+00:00",
+  "generated_at": "2026-08-27T14:51:33+00:00",
   "topics": {
     "ai": [
       {
@@ -47,6 +47,13 @@
         "url": "https://e27.co/southeast-asias-next-century-will-be-built-on-bridges-not-blocs-20260826/"
       },
       {
+        "title": "AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-27T10:15:21+00:00",
+        "relevance_score": 12,
+        "url": "https://future-architect.github.io/articles/20260827b/"
+      },
+      {
         "title": "Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-27T08:52:50+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-27T05:30:24+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/"
-      },
-      {
-        "title": "Who really moves Bitcoin now: nine straight days of Fidelity buying exposes the new power structure",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T05:06:46+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/who-really-moves-bitcoin-now-nine-straight-days-of-fidelity-buying-exposes-the-new-power-structure-20260827/"
       }
     ],
     "github": [
@@ -89,6 +89,13 @@
         "published_at": null,
         "relevance_score": 16,
         "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      {
+        "title": "AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-27T10:15:21+00:00",
+        "relevance_score": 12,
+        "url": "https://future-architect.github.io/articles/20260827b/"
       },
       {
         "title": "Fintech funding in Singapore drops to US$499M as dealmaking becomes more selective",
@@ -113,6 +120,34 @@
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [hoch] Google Chrome/Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:26:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0612"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:26:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0481"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome/Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:26:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0452"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome und Microsoft Edge: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:26:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0420"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
@@ -142,46 +177,18 @@
         "url": "https://jvn.jp/jp/JVN18593874/"
       },
       {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2955"
+      },
+      {
         "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-27T11:06:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3055"
-      },
-      {
-        "title": "[NEU] [hoch] CKAN: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-27T11:06:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3054"
-      },
-      {
-        "title": "[NEU] [hoch] Ruby: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-27T10:51:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3053"
-      },
-      {
-        "title": "[NEU] [hoch] DENX U-Boot: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-27T10:36:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3052"
-      },
-      {
-        "title": "[NEU] [mittel] RustDesk: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-27T10:26:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3050"
-      },
-      {
-        "title": "[UPDATE] [mittel] Veeam Backup & Replication: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-27T07:32:27+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3011"
       }
     ],
     "geopolitics": [
@@ -205,6 +212,13 @@
         "published_at": "2026-08-27T01:30:56+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
+      },
+      {
+        "title": "[UPDATE] [hoch] VMware Tanzu Spring Framework: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-27T11:31:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2955"
       },
       {
         "title": "[NEU] [hoch] OpenCTI: Mehrere Schwachstellen",
@@ -247,13 +261,6 @@
         "published_at": "2026-08-27T02:00:23+00:00",
         "relevance_score": 14,
         "url": "https://e27.co/why-southeast-asias-next-climate-unicorn-might-be-built-from-farm-waste-20260826/"
-      },
-      {
-        "title": "Beyond the cloud: Why ASEAN’s second digital wave runs on megawatts, not software",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-27T01:45:36+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/beyond-the-cloud-why-aseans-second-digital-wave-runs-on-megawatts-not-software-20260825/"
       }
     ],
     "economy": [
@@ -351,11 +358,25 @@
         "url": "https://e27.co/southeast-asia-isnt-losing-the-robotaxi-race-its-running-a-different-one-20260827/"
       },
       {
+        "title": "Multiples vulnérabilités dans Oracle Weblogic (19 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-19T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1053/"
+      },
+      {
         "title": "令和8年熊本地震に関する対応状況について（8月27日）",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-08-27T10:08:51+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/32cda2c5-cfaf-40d2-82cb-8e2860fee8b7"
+      },
+      {
+        "title": "IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-27T08:57:11+00:00",
+        "relevance_score": 5,
+        "url": "https://www.iij.ad.jp/news/pressrelease/2026/0827.html"
       },
       {
         "title": "「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方",
