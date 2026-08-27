@@ -1,127 +1,67 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-26T23:57:55+00:00",
+  "generated_at": "2026-08-27T01:32:53+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 104,
-    "displayed_findings": 104,
-    "high": 3,
-    "medium": 48,
-    "observe": 53
+    "new_relevant_findings": 5,
+    "today_file_total": 5,
+    "displayed_findings": 5,
+    "high": 0,
+    "medium": 1,
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2025-01-23T10:00:00+09:00",
-      "relevance_score": 26,
-      "url": "https://jvn.jp/vu/JVNVU95772889/",
-      "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [20th January 2025] （\"Timing side-channel in ECDSA signature computation (CVE-2024-13176)\"）が公開されました。",
-      "section": "high"
-    },
-    {
-      "title": "OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2024-10-18T10:30:00+09:00",
-      "relevance_score": 26,
-      "url": "https://jvn.jp/vu/JVNVU90424473/",
-      "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [16th October 2024] （\"Low-level invalid GF(2^m) parameters lead to OOB memory access (CVE-2024-9143)\"）が公開されました。",
-      "section": "high"
-    },
-    {
-      "title": "OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2023-05-31T16:00:00+09:00",
-      "relevance_score": 26,
-      "url": "https://jvn.jp/vu/JVNVU94584169/",
-      "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [30th May 2023] （Possible DoS translating ASN.1 object identifiers (CVE-2023-2650)）が公開されました。",
-      "section": "high"
-    },
-    {
-      "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-08-26T11:00:30+09:00",
-      "relevance_score": 23,
-      "url": "https://jvn.jp/vu/JVNVU96558110/",
-      "summary": "OpenSSL ProjectからOpenSSL Security Advisory [25th August 2026]が公開されました。",
-      "section": "medium"
-    },
-    {
-      "title": "apache/maka",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 22,
-      "url": "https://github.com/apache/maka",
-      "summary": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. Apache Maka (Incubating) Incubating at The Apache Software Foundation A lo…",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.6 - 212 km E of Onagawa Chō, Japan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-26T19:55:05.777+00:00",
-      "relevance_score": 19,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18",
-      "summary": "PAGER - GREEN ShakeMap - III Time 2026-08-26 19:21:41 UTC 2026-08-26 19:21:41 UTC at epicenter Location 38.129°N 143.848°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "ASEAN battery push enters a harder phase: building factories, standards and markets",
+      "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-26T08:00:00+00:00",
-      "relevance_score": 19,
-      "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/",
-      "summary": "For years, Southeast Asia’s battery ambitions have been framed around potential. Indonesia has nickel. Malaysia has semiconductor and advanced materials expertise. Singapore has research depth and capital networks. Thailand and Vietnam have growing electric v…",
+      "published_at": "2026-08-27T01:30:56+00:00",
+      "relevance_score": 15,
+      "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/",
+      "summary": "Asia’s AI boom is producing useful tools at speed, from writing assistants and image platforms to voice generators and productivity software. But a new ranking by Cybernews, suggests the region’s AI companies still have work to do on a less glamorous part of…",
       "section": "medium"
     },
     {
-      "title": "M 4.5 - 118 km ESE of Yujing, Taiwan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-26T22:12:21.040+00:00",
-      "relevance_score": 13,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc37",
-      "summary": "Time 2026-08-26 21:47:17 UTC 2026-08-26 21:47:17 UTC at epicenter Location 22.844°N 121.573°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史",
+      "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-26T12:07:41+00:00",
-      "relevance_score": 13,
-      "url": "https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html",
-      "summary": "これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってたすみません。 最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史これはインターネットの歴史として残すので、それ以上でもそれ以外でもないです。あと自分の記憶の中の話なので間違ってた...",
+      "published_at": "2026-08-26T10:43:21+00:00",
+      "relevance_score": 11,
+      "url": "https://zenn.dev/yui/articles/97597aa13b9802",
+      "summary": "前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能...",
       "section": "observe"
     },
     {
-      "title": "SSH接続の安全性を低下させる攻撃手法Terrapin Attackについて",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2023-12-26T14:00:00+09:00",
-      "relevance_score": 13,
-      "url": "https://jvn.jp/ta/JVNTA95077890/",
-      "summary": "SSH接続においてハンドシェイク中にシーケンス番号の操作を可能とする攻撃手法「Terrapin Attack」が報告されています。",
+      "published_at": "2026-08-27T01:15:08+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/",
+      "summary": "Spending the last several months in Southeast Asia allowed me to expand my comprehension of the global market dynamics in times of uncertainty. And bridging global expansion with vibrant hubs, AI exponential adoption and market opportunities closely, I notice…",
       "section": "observe"
     },
     {
-      "title": "OpenSSLのX.509ポリシー制限の検証における過剰なリソース消費の問題",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Moving past the pilot and scaling AI in Southeast Asian retail",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2023-03-23T11:30:00+09:00",
-      "relevance_score": 13,
-      "url": "https://jvn.jp/vu/JVNVU94632906/",
-      "summary": "OpenSSLのポリシー制限が含まれているX.509証明書チェーンの検証においてリソースが過剰に消費される問題があります。",
+      "published_at": "2026-08-27T01:00:22+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/",
+      "summary": "Southeast Asia is piloting AI faster than almost anywhere else in the world. But how do you turn that pilot-phase momentum into real, enterprise-wide value? It forces a hard look at your data, your architecture, and the new operational risks. Southeast Asia i…",
+      "section": "observe"
+    },
+    {
+      "title": "When the buyer is a bot: Keeping your startup eligible in agent-run procurement",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-27T01:30:59+00:00",
+      "relevance_score": 8,
+      "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/",
+      "summary": "The last two pieces I wrote here assumed a human on the other end. Someone reads what the assistant says about your company, weighs it, then decides. That assumption is expiring. At ESBO Ltd, the agency I run, this year’s client conversations have shifted fro…",
       "section": "observe"
     }
   ],
@@ -130,151 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=43.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
-        "url": "https://jvn.jp/vu/JVNVU95772889/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2025-01-23T10:00:00+09:00",
-        "age_days": 580.99,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 581.0d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [20th January 2025] （\"Timing side-channel in ECDSA signature computation (CVE-2024-13176)\"）が公開されました。"
-      },
-      {
-        "title": "OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
-        "url": "https://jvn.jp/vu/JVNVU90424473/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-10-18T10:30:00+09:00",
-        "age_days": 677.97,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 678.0d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [16th October 2024] （\"Low-level invalid GF(2^m) parameters lead to OOB memory access (CVE-2024-9143)\"）が公開されました。"
-      },
-      {
-        "title": "OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
-        "url": "https://jvn.jp/vu/JVNVU94584169/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2023-05-31T16:00:00+09:00",
-        "age_days": 1183.74,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit",
-          "aging penalty -8.0 for 1183.7d old signal"
-        ],
-        "summary": "OpenSSL Projectより、 OpenSSL Security Advisory [30th May 2023] （Possible DoS translating ASN.1 object identifiers (CVE-2023-2650)）が公開されました。"
-      },
-      {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "url": "https://ai-x-security-con.findy-tools.io/2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "age_days": 0.98,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "AIの進化と浸透により、企業におけるAI利活用は急速に広がっています。 生成AIの個人利用やAIエージェントの増加が進む一方で、Shadow AIによる情報漏洩リスクや、AIエージェントへの過剰な権限付与、従来の境界型防御では対応しきれない新たなセキュリティ課題が顕在化し、セキュリティ対策の重要性がより一層高まって..."
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:01:06+00:00",
-        "age_days": 0.57,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs TRAMP ausnutzen, um beliebigen Programmcode auszuführen."
-      }
-    ]
-  }
+  ]
 }

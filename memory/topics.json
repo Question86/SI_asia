@@ -1,438 +1,79 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-26T23:57:55+00:00",
+  "generated_at": "2026-08-27T01:32:53+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "OpenSSLにおける秘密鍵のタイミング攻撃に対する問題（OpenSSL Security Advisory [20th January 2025]）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2025-01-23T10:00:00+09:00",
-        "relevance_score": 26,
-        "url": "https://jvn.jp/vu/JVNVU95772889/"
-      },
-      {
-        "title": "OpenSSLにおける境界外書き込みの脆弱性（OpenSSL Security Advisory [16th October 2024]）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2024-10-18T10:30:00+09:00",
-        "relevance_score": 26,
-        "url": "https://jvn.jp/vu/JVNVU90424473/"
-      },
-      {
-        "title": "OpenSSLのASN.1 オブジェクト識別子変換における処理時間遅延の問題（Security Advisory [30th May 2023]）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2023-05-31T16:00:00+09:00",
-        "relevance_score": 26,
-        "url": "https://jvn.jp/vu/JVNVU94584169/"
-      },
-      {
-        "title": "OpenSSLにおける脆弱性に対するアップデート（2026年8月25日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:30+09:00",
-        "relevance_score": 23,
-        "url": "https://jvn.jp/vu/JVNVU96558110/"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:01:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月25日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T11:00:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU96254232/"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:33+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014"
-      },
-      {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "relevance_score": 16,
-        "url": "https://ai-x-security-con.findy-tools.io/2026"
-      },
-      {
-        "title": "The Hugging Face incident and the road ahead",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-26T00:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-      },
-      {
-        "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T09:07:39+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
-      }
-    ],
     "ai": [
       {
-        "title": "apache/maka",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 22,
-        "url": "https://github.com/apache/maka"
-      },
-      {
-        "title": "ASEAN battery push enters a harder phase: building factories, standards and markets",
+        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T08:00:00+00:00",
-        "relevance_score": 19,
-        "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/"
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-26T20:12:53+00:00",
-        "relevance_score": 18,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/"
-      },
-      {
-        "title": "「AI画像絶対見破るマン引退します」4つのラーメン画像のうち1枚だけリアルな写真で残りはAIで生成したもの→正解者もいるが判別できない人が続出？",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T02:57:58+00:00",
-        "relevance_score": 16,
-        "url": "https://togetter.com/li/2737633"
-      },
-      {
-        "title": "10/28開催徳丸浩氏登壇「AI×Security Conference 2026」公式サイト",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:03:18+00:00",
-        "relevance_score": 16,
-        "url": "https://ai-x-security-con.findy-tools.io/2026"
-      },
-      {
-        "title": "The Hugging Face incident and the road ahead",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-26T00:00:00+00:00",
-        "relevance_score": 16,
-        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-      },
-      {
-        "title": "「ChatGPT」の無償プランにも予定済みタスクが開放 ～Plus/Proは「Webhook」に対応／「Gmail」「Slack」「GitHub」などのイベントをトリガー、タスクの共有も可能に",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T08:34:08+00:00",
+        "published_at": "2026-08-27T01:30:56+00:00",
         "relevance_score": 15,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2135731.html"
+        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
       },
       {
-        "title": "Diffie-Hellman鍵交換におけるサービス運用妨害（DoS）の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-26T15:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU96423082/"
+        "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-26T10:43:21+00:00",
+        "relevance_score": 11,
+        "url": "https://zenn.dev/yui/articles/97597aa13b9802"
       },
       {
-        "title": "Taste is the last moat: I’m trading my wearables for wine",
+        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T02:15:16+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/"
+        "published_at": "2026-08-27T01:15:08+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/"
       },
       {
-        "title": "How loveholidays is making everyone a builder with Codex",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-26T00:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://openai.com/index/loveholidays"
+        "title": "Moving past the pilot and scaling AI in Southeast Asian retail",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:00:22+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/moving-past-the-pilot-and-scaling-ai-in-southeast-asian-retail-20260809/"
+      },
+      {
+        "title": "When the buyer is a bot: Keeping your startup eligible in agent-run procurement",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:30:59+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/when-the-buyer-is-a-bot-keeping-your-startup-eligible-in-agent-run-procurement-20260824/"
       }
     ],
-    "github": [
+    "security": [
       {
-        "title": "apache/maka",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 22,
-        "url": "https://github.com/apache/maka"
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-08-26T20:12:53+00:00",
-        "relevance_score": 18,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/"
-      },
-      {
-        "title": "「ChatGPT」の無償プランにも予定済みタスクが開放 ～Plus/Proは「Webhook」に対応／「Gmail」「Slack」「GitHub」などのイベントをトリガー、タスクの共有も可能に",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T08:34:08+00:00",
+        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:30:56+00:00",
         "relevance_score": 15,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2135731.html"
-      },
-      {
-        "title": "最後のYAPC::Japanと聞いたのでYAPC::Asia/JPAの（私）歴史",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T12:07:41+00:00",
-        "relevance_score": 13,
-        "url": "https://lestrrat.github.io/blog/posts/2026-08-26-45d27dc6e8c7/index.html"
-      },
-      {
-        "title": "AgriciDaniel/claude-obsidian",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/AgriciDaniel/claude-obsidian"
-      },
-      {
-        "title": "Learning never stops: How AI makes learning continuous",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-08-26T10:00:00+00:00",
-        "relevance_score": 11,
-        "url": "https://openai.com/index/learning-never-stops"
-      },
-      {
-        "title": "anthropics/claude-plugins-community",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/anthropics/claude-plugins-community"
-      },
-      {
-        "title": "TauricResearch/TradingAgents",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/TauricResearch/TradingAgents"
-      },
-      {
-        "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-21T17:16:50+00:00",
-        "relevance_score": 6,
-        "url": "https://future-architect.github.io/articles/20260819a/"
-      },
-      {
-        "title": "Global model policy generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-08-26T22:08:38+00:00",
-        "relevance_score": 5,
-        "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"
+        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
       }
     ],
     "geopolitics": [
       {
-        "title": "apache/maka",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 22,
-        "url": "https://github.com/apache/maka"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU Emacs TRAMP: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:01:06+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3020"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [mittel] GNU libc: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:33+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3014"
-      },
-      {
-        "title": "[UPDATE] [hoch] VMware Tanzu Spring Security: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T09:07:39+00:00",
+        "title": "Asia’s AI trust gap: strong transparency, weak security and unclear data practices",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-27T01:30:56+00:00",
         "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2956"
-      },
-      {
-        "title": "[NEU] [hoch] FreeBSD Project FreeBSD OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:56:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3034"
-      },
-      {
-        "title": "[NEU] [niedrig] Insyde UEFI Firmware: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:51:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3033"
-      },
-      {
-        "title": "[NEU] [mittel] OPNsense: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:51:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3032"
-      },
-      {
-        "title": "[NEU] [mittel] SQLite: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:46:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3030"
-      },
-      {
-        "title": "[NEU] [hoch] DNN: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:46:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3031"
-      },
-      {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T11:46:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3029"
+        "url": "https://e27.co/asias-ai-trust-gap-strong-transparency-weak-security-and-unclear-data-practices-20260826/"
       }
     ],
-    "general": [
+    "github": [
       {
-        "title": "M 5.6 - 212 km E of Onagawa Chō, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T19:55:05.777+00:00",
-        "relevance_score": 19,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18"
-      },
-      {
-        "title": "M 4.9 - 42 km NE of Ruteng, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T18:58:07.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc0k"
-      },
-      {
-        "title": "M 5.0 - 54 km NNW of Ende, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T14:39:54.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyu"
-      },
-      {
-        "title": "M 4.8 - 147 km E of Miyako, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T07:12:47.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxf"
-      },
-      {
-        "title": "Japan is moving into Southeast Asia faster than the West, and most brands haven’t noticed yet",
+        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T03:00:41+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/japan-is-moving-into-southeast-asia-faster-than-the-west-and-most-brands-havent-noticed-yet-20260824/"
-      },
-      {
-        "title": "YAPC::Japanの今後に関するお知らせ - JPA 運営ブログ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T01:20:33+00:00",
-        "relevance_score": 11,
-        "url": "https://blog.perlassociation.org/entry/2026/08/26/100000"
-      },
-      {
-        "title": "「オルカン高配当」登場 eMAXIS高配当全世界株式 9月30日から 注意点も",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-26T09:23:12+00:00",
+        "published_at": "2026-08-27T01:15:08+00:00",
         "relevance_score": 10,
-        "url": "https://japan.cnet.com/article/35251950/"
-      },
-      {
-        "title": "M 4.9 - 35 km S of Lata, Solomon Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T14:50:59.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbyz"
-      },
-      {
-        "title": "M 4.7 - 82 km NE of Otrada, Russia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T07:52:00.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbxl"
-      },
-      {
-        "title": "M 4.5 - 26 km SW of Ashkāsham, Afghanistan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-26T03:06:24.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbw6"
+        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/"
       }
     ],
     "economy": [
       {
-        "title": "ASEAN battery push enters a harder phase: building factories, standards and markets",
+        "title": "A Southeast Asia AI adoption outlook vs alternative global hubs",
         "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T08:00:00+00:00",
-        "relevance_score": 19,
-        "url": "https://e27.co/asean-battery-push-enters-a-harder-phase-building-factories-standards-and-markets-20260826/"
-      },
-      {
-        "title": "[NEU] [mittel] Dell integrated Dell Remote Access Controller: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-26T10:36:34+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3017"
-      },
-      {
-        "title": "Announcing 20260076 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-08-26T08:15:18+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260076.en.html"
-      },
-      {
-        "title": "A 90-episode series in 3 weeks: How AI is speeding up Indonesia’s creative economy",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T02:00:16+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/a-90-episode-series-in-3-weeks-how-ai-is-speeding-up-indonesias-creative-economy-20260824/"
-      },
-      {
-        "title": "Why the global push to break free from Big Tech keeps falling short",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-08-26T10:00:00+00:00",
+        "published_at": "2026-08-27T01:15:08+00:00",
         "relevance_score": 10,
-        "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "AI has become how Southeast Asia finds you, but it still isn’t how the region decides",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T01:45:41+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/ai-has-become-how-southeast-asia-finds-you-but-it-still-isnt-how-the-region-decides-20260824/"
-      },
-      {
-        "title": "anthropics/claude-plugins-community",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/anthropics/claude-plugins-community"
-      },
-      {
-        "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-08-26T10:15:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html"
-      },
-      {
-        "title": "AI boom shields Asia Pacific, but Moody’s warns the cushion is thinning",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T03:08:31+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-boom-shields-asia-pacific-but-moodys-warns-the-cushion-is-thinning-20260826/"
-      },
-      {
-        "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-26T02:30:29+00:00",
-        "relevance_score": 7,
-        "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260824/"
+        "url": "https://e27.co/a-southeast-asia-ai-adoption-outlook-vs-alternative-global-hubs-20260824/"
       }
     ]
   }
