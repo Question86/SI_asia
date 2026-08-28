@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-28T03:33:43+00:00_
+_Generated: 2026-08-28T06:12:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `26`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-28T03:33:43+00:00_
 - url: https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/
 - summary: Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four o…
 
-### 2. OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞
+### 2. The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for
+- source: e27 Asia Startup and Tech Feed
+- score: `19`
+- published: `2026-08-28T05:00:41+00:00`
+- url: https://e27.co/the-deepfake-threat-and-beyond-3-unconventional-security-crises-every-founder-led-brand-must-prepare-for-20260826/
+- summary: My journey began in engineering and corporate leadership, but a deep inner emptiness led me to seek God’s guidance, ultimately discovering an unexpected calling in the healing power of plants and holistic medicine. With only faith, perseverance, and S$10,000…
+
+### 3. OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `18`
 - published: `2026-08-27T20:58:11+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/
 - summary: 【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-08-28T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU99593741/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. SOYシリーズにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-08-28T12:00:15+09:00`
-- url: https://jvn.jp/jp/JVN04485476/
-- summary: 齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。
 
 ### 5. Language was never the problem: Inside SEA’s real AI adoption gap
 - source: e27 Asia Startup and Tech Feed
@@ -43,25 +43,25 @@ _Generated: 2026-08-28T03:33:43+00:00_
 - url: https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/
 - summary: Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that onc…
 
-### 6. Why Southeast Asian agritech must build for acquisitions, not IPOs
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-28T03:30:08+00:00`
-- url: https://e27.co/why-southeast-asian-agritech-must-build-for-acquisitions-not-ipos-20260828/
-- summary: Southeast Asia’s agritech problem is not a lack of ideas. Across Indonesia, Vietnam, the Philippines and Thailand, founders have spent the past decade building tools for farm finance, market access, input distribution, traceability, climate resilience and sup…
-
-### 7. The case for hybrid microfinance: Combining AI with social accountability
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-08-28T02:39:05+00:00`
-- url: https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/
-- summary: Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a cr…
-
-### 8. M 5.0 - northern East Pacific Rise
+### 6. M 5.0 - 19 km NW of Fuji, China
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-08-28T03:03:05.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3
-- summary: Time 2026-08-28 02:39:17 UTC 2026-08-28 02:39:17 UTC at epicenter Location 8.419°N 103.460°W Depth 10.00 km (6.21 mi)
+- score: `11`
+- published: `2026-08-28T05:31:06.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcht
+- summary: Time 2026-08-28 05:13:35 UTC 2026-08-28 05:13:35 UTC at epicenter Location 29.275°N 105.229°E Depth 10.00 km (6.21 mi)
+
+### 7. 綠色運算｜NUMail - OS Command Injection
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-08-28T02:45:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11144-45c6a-1.html
+- summary: 綠色運算｜NUMail - OS Command Injection
+
+### 8. 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-27T22:18:40+00:00`
+- url: https://zenn.dev/nrs/articles/93424504f49ce6
+- summary: AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ...
 
 END OF DOCUMENT
