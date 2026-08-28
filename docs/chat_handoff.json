@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-28T06:12:18+00:00",
+  "generated_at": "2026-08-28T14:08:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 27,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 8,
-    "observe": 18
+    "medium": 20,
+    "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 23,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "summary": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with…",
+      "section": "medium"
+    },
+    {
       "title": "The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -35,24 +45,24 @@
       "section": "medium"
     },
     {
-      "title": "OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-08-27T20:58:11+00:00",
-      "relevance_score": 18,
-      "url": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
-      "summary": "【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...",
+      "published_at": null,
+      "relevance_score": 19,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. https://maptheworld.ai/ 🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are publi…",
       "section": "medium"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Warsh, In Our Time",
+      "source": "Federal Reserve Speeches and Testimony",
       "source_type": "rss",
-      "published_at": "2026-08-28T09:00:00+09:00",
-      "relevance_score": 16,
-      "url": "https://jvn.jp/vu/JVNVU99593741/",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "section": "medium"
+      "published_at": "2026-08-28T14:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+      "summary": "Speech At “Financial Innovation: Implications for Payments and Policy,” an economic policy symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming",
+      "section": "observe"
     },
     {
       "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
@@ -83,16 +93,6 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11144-45c6a-1.html",
       "summary": "綠色運算｜NUMail - OS Command Injection",
       "section": "observe"
-    },
-    {
-      "title": "開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-27T22:18:40+00:00",
-      "relevance_score": 11,
-      "url": "https://zenn.dev/nrs/articles/93424504f49ce6",
-      "summary": "AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,136 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-28T06:06:05+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in JFrog Artifactory ausnutzen, um die Authentifizierung zu umgehen, Berechtigungen zu erweitern, sich als Benutzer auszugeben, vertrauliche Informationen offenzulegen oder geschützte Daten zu manipulieren."
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
-        "url": "https://jvn.jp/vu/JVNVU99593741/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-28T09:00:00+09:00",
-        "age_days": 0.33,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた",
-        "url": "https://zenn.dev/nrs/articles/93424504f49ce6",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-27T22:18:40+00:00",
-        "age_days": 0.4,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ..."
-      },
-      {
-        "title": "GROWIにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN42348352/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-28T14:00:00+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "SOYシリーズにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN04485476/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-08-28T12:00:15+09:00",
-        "age_days": 0.21,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }

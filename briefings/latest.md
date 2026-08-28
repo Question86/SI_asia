@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-28T06:12:18+00:00_
+_Generiert: 2026-08-28T14:08:33+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+53 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-28T06:12:18+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
+- **GDACS: Orange flood alert in Nepal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104124)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Orange flood alert in Nepal
 - **GDACS: Orange earthquake (Magnitude 5M, Depth:10km) in China 28/08/2026 05:13 UTC, 15.8 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562260)
   - Quelle: GDACS
   - Zeit: ``
@@ -86,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involved a forklift, as per the Ministry of Manpower […] The post Why every warehouse in Singapore will run on AI safety monitoring within five y…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **K-Dense-AI/scientific-agent-skills** — Score 23, observation — [Quelle](https://github.com/K-Dense-AI/scientific-agent-skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. https://k-dense.ai Scientific Agent Skills 🔔 Claude Scientific Skills is now S…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for** — Score 19, observation — [Quelle](https://e27.co/the-deepfake-threat-and-beyond-3-unconventional-security-crises-every-founder-led-brand-must-prepare-for-20260826/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-28T05:00:41+00:00`, fetched `2026-08-28T06:11:48+00:00`
@@ -95,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules narrative_social_reputation (+3.0)
   - Kurz: My journey began in engineering and corporate leadership, but a deep inner emptiness led me to seek God’s guidance, ultimately discovering an unexpected calling in the healing power of plants and holistic medicine. With only faith, perseverance, and S$10,000 in savings, I left a secure career to pioneer practitioner-grade Western herbal medicine in Singapore, overcoming […] The post The deepfake threat and beyond: 3…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **bilawalsidhu/gods-eye-view** — Score 19, mixed — [Quelle](https://github.com/bilawalsidhu/gods-eye-view)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Climate/Disaster Infrastructure, GitHub Trending, Open Source, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. https://maptheworld.ai/ 🌐 God's Eye View A spy-satellite simulator in your browser — then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras, with clearly labeled modeled views…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 - **OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞** — Score 18, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-27T20:58:11+00:00`, fetched `2026-08-28T00:41:38+00:00`
@@ -103,6 +125,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3075)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-28T11:31:05+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise Speicherbeschädigungen, die Offenlegung oder Manipulation von Daten sowie Denial-of-Service-Zustände.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years** — Score 16, observation — [Quelle](https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-28T09:47:14+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: APAC Trend Radar, funding, Watchgraph:agriculture_food_fertilizer
+  - Watchgraph: agriculture_food_fertilizer
+  - Markt-/Kontextkorb: ADM, BG, DE, NTR, CF, MOS, wheat, corn, soy
+  - Warum relevant: APAC Trend Radar (+3.8); funding (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)
+  - Kurz: Ajaib has closed US$270 million in equity financing from Japan’s SBI Holdings, a Series C the Jakarta-based fintech says was significantly oversubscribed and priced above its 2021 unicorn valuation, the largest sum raised by an Indonesian tech company in over four years. The round brings Ajaib’s total funding past US$500 million, with earlier backers including DST Global […] The post Ecosystem Roundup: SBI leads US$…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU99593741/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -113,6 +153,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Supporting Thailand’s next generation of AI startups** — Score 16, observation — [Quelle](https://openai.com/index/supporting-next-generation-ai-startups-thailand)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-28T02:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
+  - Kurz: OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GROWIにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN42348352/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-08-28T14:00:00+09:00`, fetched `2026-08-28T06:11:48+00:00`
@@ -131,18 +180,54 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808)
+- **[NEU] [hoch] Redis: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3077)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-28T06:06:05+00:00`, fetched `2026-08-28T06:11:48+00:00`
+  - Zeit: published `2026-08-28T11:41:05+00:00`, fetched `2026-08-28T14:07:58+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in JFrog Artifactory ausnutzen, um die Authentifizierung zu umgehen, Berechtigungen zu erweitern, sich als Benutzer auszugeben, vertrauliche Informationen offenzulegen oder geschützte Daten zu manipulieren.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Redis ausnutzen, um Sicherheitsmechanismen zu umgehen, unberechtigt auf Daten zuzugreifen, einen Denial-of-Service-Zustand herbeizuführen oder Speicherinhalte zu manipulieren. Die Ausführung beliebigen Programmcodes ist potenziell möglich.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[NEU] [hoch] Dovecot: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3076)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-28T11:41:05+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Dovecot ausnutzen, um Sicherheitsvorkehrungen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO** — Score 14, observation — [Quelle](https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-27T23:41:28+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: AI Agents, developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
+  - Kurz: 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **JetBrains/go-modern-guidelines** — Score 14, observation — [Quelle](https://github.com/JetBrains/go-modern-guidelines)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); GitHub Trending (+2.0)
+  - Kurz: Help AI coding agents write modern Go Modern Go Guidelines This repository contains guidelines for code agents that help them write modern Go code. For example, an agent with these guidelines uses max(a, b) instead of an if-else block, slices.Contains instead of a manual loop, cmp.Or(a, b, c) instead of a chain of nil checks. It also knows about recent additions like new(42) to get a pointer to a value and errors.As…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Warsh, In Our Time** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-08-28T14:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At “Financial Innovation: Implications for Payments and Policy,” an economic policy symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Language was never the problem: Inside SEA’s real AI adoption gap** — Score 12, observation — [Quelle](https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-28T02:30:43+00:00`, fetched `2026-08-28T03:33:09+00:00`
@@ -179,6 +264,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Microsoft Windows (20 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1060/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-20T00:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Southeast Asian agritech must build for acquisitions, not IPOs** — Score 10, observation — [Quelle](https://e27.co/why-southeast-asian-agritech-must-build-for-acquisitions-not-ipos-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-28T03:30:08+00:00`, fetched `2026-08-28T03:33:09+00:00`
@@ -196,6 +290,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a credit score for each individual applicant within seconds. Approval rates were higher than […] The post The case for hybrid microfinance: Combining AI with social…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Google Chrome (21 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1061/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits Citrix (20 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1059/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-20T00:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - northern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -224,38 +336,30 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。 e-dash ではアプリケーションインフラとして多くのプロダクトで AWS を採用しており、IaC として Terraform でインフラリソースを全面的に管理しています。 最近はインフラ構築・運用も全面的に AI にお任せするようになってきました。AI 登場前は...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Copilot code review: Resolution reasons and expanded capabilities** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-27T22:46:04+00:00`, fetched `2026-08-28T00:41:38+00:00`
-  - Treffer: Copilot, GitHub
+- **I went to China to see a different AI future. It looked familiar** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-08-28T13:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: AI/KI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: Copilot code review can now review two types of pull requests it didn’t cover before: Reviews requested automatically on pull requests authored by bots, including Copilot cloud agent Very large… The post Copilot code review: Resolution reasons and expanded capabilities appeared first on The GitHub Blog .
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Actions retention will cover checks, workflow runs, and statuses** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-27T21:50:39+00:00`, fetched `2026-08-28T00:41:38+00:00`
-  - Treffer: Actions, GitHub
+- **TeamViewer schließt hochriskante Lücken in Clients** — Score 7, observation — [Quelle](https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Leck-11432840.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-28T07:46:00.000+00:00`, fetched `2026-08-28T14:07:58+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Actions (+2.5); recent (+1.0)
-  - Kurz: Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a… The post Actions retention will cover checks, workflow runs, and statuses appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Better label management on issues is generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-27T23:33:22+00:00`, fetched `2026-08-28T03:33:09+00:00`
-  - Treffer: GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); recent (+1.0)
-  - Kurz: We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right… The post Better label management on issues is generally available appeared first on The GitHub Blog .
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die TeamViewer-Clients können Angreifern das Ausführen von Schadcode ermöglichen. Updates stopfen die hochriskanten Sicherheitslücken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Erinnerungskandidaten
 

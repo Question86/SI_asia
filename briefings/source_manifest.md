@@ -1,12 +1,12 @@
 # Senna Source Manifest
 
-_Generated: 2026-08-28T06:11:48+00:00_
+_Generated: 2026-08-28T14:07:57+00:00_
 
 Scope: actual runtime sources after base + hot + macro overlay merge.
 
 ## Counts
 
-- Configured sources: `49`
+- Configured sources: `61`
 - Active sources: `41`
 
 ### By lane

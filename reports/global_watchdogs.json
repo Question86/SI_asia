@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T06:12:20+00:00",
+  "generated_at": "2026-08-28T14:08:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2015-3246"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Orange flood alert in Nepal",
+        "summary": "Orange flood alert in Nepal",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104124",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
