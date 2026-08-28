@@ -1,6 +1,6 @@
 # Economic Evidence Candidates
 
-Generated: `2026-08-28T14:09:24+00:00`
+Generated: `2026-08-28T18:20:37+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
@@ -11,6 +11,9 @@ Generated: `2026-08-28T14:09:24+00:00`
 | `evt_3cb5980444e3bd7e9296` | 5 | USD | 0.80 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 5 | USD | 0.60 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 2 | USD | 0.60 | primary_hint | pending |
+| `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
+| `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
+| `evt_43856848b80264610146` | 1 | EUR | 0.60 | primary_hint | pending |
 | `evt_55bf431fc184f598da38` | 1 | USD | 0.60 | primary_hint | pending |
 | `evt_4ce5fd3e6b5f0a672fe3` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_4ce5fd3e6b5f0a672fe3` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |

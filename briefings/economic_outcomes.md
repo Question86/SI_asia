@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-28T14:09:24+00:00`
+Generated: `2026-08-28T18:20:38+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -9,6 +9,7 @@ Generated: `2026-08-28T14:09:24+00:00`
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | active |
+| Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | active |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | active |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | active |
@@ -26,5 +27,5 @@ Generated: `2026-08-28T14:09:24+00:00`
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | $0 | — | 0 | 0 | active |
 | Language was never the problem: Inside SEA’s real AI adoption gap | $0 | — | 0 | 0 | active |
 | GROWIにおける複数の脆弱性 | $0 | — | 0 | 0 | active |
-| TeamViewer schließt hochriskante Lücken in Clients | $0 | — | 0 | 0 | active |
+| TeamViewer schließt hochriskante Lücken in Clients | $0 | — | 0 | 0 | dormant |
 | Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years | $0 | — | 0 | 0 | active |
