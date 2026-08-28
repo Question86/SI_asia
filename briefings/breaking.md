@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-08-28T22:15:36+00:00_
+_Generiert: 2026-08-28T22:28:47+00:00_
 
 ## Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ
 
