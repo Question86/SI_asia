@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-28T21:39:28+00:00_
+_Generiert: 2026-08-28T22:15:31+00:00_
 
 ## Kurzlage
 
-59 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+62 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
   - Kurz: Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that once AI speaks the region fluently, enterprises will follow. Kai Yong Kang, Partner at […] The post Language was never the problem: Inside SEA’s real AI adoption g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Codeで開発以外の業務も爆速化しよう！** — Score 11, observation — [Quelle](https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-28T12:11:02+00:00`, fetched `2026-08-28T22:14:59+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 19 km NW of Fuji, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcht)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-28T05:31:06.040+00:00`, fetched `2026-08-28T06:11:48+00:00`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 画像生成 AI は、ドット絵も描けるようになりました。 少なくとも、遠目にはそう見えます。 私はドット絵のイラストが好きで、SNS のアイコンやプロダクト紹介の 1 枚絵に使いたいと思っていました。 絵心はありませんが、いまは AI が描いてくれます。 ところが、生成された画像を拡大してみると話が変わります。 ドッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ローカル AWS エミュレータで Terraform を検証する** — Score 8, observation — [Quelle](https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-27T21:57:18+00:00`, fetched `2026-08-28T00:41:38+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。 e-dash ではアプリケーションインフラとして多くのプロダクトで AWS を採用しており、IaC として Terraform でインフラリソースを全面的に管理しています。 最近はインフラ構築・運用も全面的に AI にお任せするようになってきました。AI 登場前は...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **I went to China to see a different AI future. It looked familiar** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-08-28T13:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
@@ -295,3 +295,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_japan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP

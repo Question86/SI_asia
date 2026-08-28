@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-28T21:39:31+00:00",
+  "generated_at": "2026-08-28T22:15:36+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 59,
-    "clusters": 52,
+    "findings": 62,
+    "clusters": 54,
     "cross_source_confrmed": 0,
-    "hot": 5,
-    "early_signals": 17,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 4
   },
   "clusters": [
@@ -28,22 +28,22 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 32.0,
-      "hot": true,
+      "network_score": 24.5,
+      "hot": false,
       "watchgraph_modules": [
         "storms_floods_weather"
       ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 32.0,
+      "ranking_score": 24.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 7.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -68,62 +68,22 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 30.0,
-      "hot": true,
+      "network_score": 24.5,
+      "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 30.0,
+      "ranking_score": 24.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "earthquake:bilawalsidhu/gods-eye-view:unknown",
-      "title": "bilawalsidhu/gods-eye-view",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/bilawalsidhu/gods-eye-view"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 28.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 28.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 7.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -146,21 +106,21 @@
       "max_score": 17,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.0,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 22.1,
-      "ranking_score": 26.5,
+      "raw_network_score": 19.1,
+      "ranking_score": 24.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -188,22 +148,22 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 26.0,
-      "hot": true,
+      "network_score": 20.5,
+      "hot": false,
       "watchgraph_modules": [
         "narrative_social_reputation"
       ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 21.1,
-      "ranking_score": 26.0,
+      "ranking_score": 20.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -211,243 +171,8 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3075",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3077",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3076",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3074",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3073",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3072"
-      ],
-      "finding_count": 7,
-      "max_score": 16,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 30.7,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:ecosystem-roundup-sbi-leads-270m-round-indonesia-largest",
-      "title": "Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "agriculture_food_fertilizer"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:growi",
-      "title": "GROWIにおける複数の脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/jp/JVN42348352/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:soy",
-      "title": "SOYシリーズにおける複数の脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/jp/JVN04485476/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:zabbix-agent-dll",
-      "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
-      "sources": [
-        "JVN Japan Vulnerability Notes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://jvn.jp/jp/JVN42011956/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:claude-code-developersio",
-      "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "github_repo:jetbrains/go-modern-guidelines",
-      "title": "JetBrains/go-modern-guidelines",
+      "key": "earthquake:bilawalsidhu/gods-eye-view:unknown",
+      "title": "bilawalsidhu/gods-eye-view",
       "sources": [
         "GitHub Trending RSS All Languages Daily"
       ],
@@ -455,28 +180,30 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/JetBrains/go-modern-guidelines"
+        "https://github.com/bilawalsidhu/gods-eye-view"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 19,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 20.5,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 20.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -501,18 +228,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.22,
+      "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.1,
-      "ranking_score": 20.22,
+      "ranking_score": 20.1,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.72,
+      "baseline_bonus": 0.6,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -522,66 +249,33 @@
       "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
-      "key": "title:language-was-never-problem-inside-sea-real-adoption",
-      "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "BSI CERT-Bund Security Advisories"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3075",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3077",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3076",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3074",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3073",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3072"
       ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:case-hybrid-microfinance-combining-social-accountability",
-      "title": "The case for hybrid microfinance: Combining AI with social accountability",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
+      "finding_count": 7,
+      "max_score": 16,
+      "credibility_total": 7.35,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.5,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 30.7,
       "ranking_score": 17.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -589,8 +283,48 @@
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:ecosystem-roundup-sbi-leads-270m-round-indonesia-largest",
+      "title": "Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -674,57 +408,58 @@
       "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
-      "key": "title:ajaib-raises-270m-indonesia-biggest-tech-funding-round",
-      "title": "Ajaib raises US$270M in Indonesia’s biggest tech funding round since 2022",
+      "key": "domain:speakerdeck.com",
+      "title": "Claude Codeで開発以外の業務も爆速化しよう！",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/"
+        "https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou",
+        "https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop"
       ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.5,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.35,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 16.5,
+      "raw_network_score": 18.2,
+      "ranking_score": 17.35,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.35,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "title:you-built-brand-internet-gave-someone-else-access",
-      "title": "You built the brand, the internet gave someone else access to it",
+      "key": "title:growi",
+      "title": "GROWIにおける複数の脆弱性",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "JVN Japan Vulnerability Notes"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/you-built-the-brand-the-internet-gave-someone-else-access-to-it-20260827/"
+        "https://jvn.jp/jp/JVN42348352/"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
@@ -732,8 +467,8 @@
       "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 10.1,
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
       "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -741,8 +476,8 @@
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -750,8 +485,122 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
-      "key": "github_repo:abhigyanpatwari/gitnexus",
-      "title": "abhigyanpatwari/GitNexus",
+      "key": "title:soy",
+      "title": "SOYシリーズにおける複数の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN04485476/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:zabbix-agent-dll",
+      "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN42011956/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:claude-code-developersio",
+      "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "github_repo:jetbrains/go-modern-guidelines",
+      "title": "JetBrains/go-modern-guidelines",
       "sources": [
         "GitHub Trending RSS All Languages Daily"
       ],
@@ -759,28 +608,66 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.com/abhigyanpatwari/GitNexus"
+        "https://github.com/JetBrains/go-modern-guidelines"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 14,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.5,
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 7.1,
-      "ranking_score": 12.5,
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:language-was-never-problem-inside-sea-real-adoption",
+      "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -979,6 +866,44 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
+      "key": "title:case-hybrid-microfinance-combining-social-accountability",
+      "title": "The case for hybrid microfinance: Combining AI with social accountability",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "title:multiples-vuln-rabilit-dans-google-chrome-2026",
       "title": "Multiples vulnérabilités dans Google Chrome (21 août 2026)",
       "sources": [
@@ -1055,34 +980,34 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
-      "key": "title:orca",
-      "title": "並行開発に Orca がめちゃ便利",
+      "key": "title:ajaib-raises-270m-indonesia-biggest-tech-funding-round",
+      "title": "Ajaib raises US$270M in Indonesia’s biggest tech funding round since 2022",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://zenn.dev/rhosokawa/articles/d0a958c17c2820"
+        "https://e27.co/ajaib-raises-us270m-in-indonesias-biggest-tech-funding-round-since-2022-20260828/"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 9,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
+      "raw_network_score": 11.1,
+      "ranking_score": 10.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -1090,7 +1015,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T21:39:31+00:00"
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:web-pixel-refiner",
@@ -1172,6 +1097,120 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
+      "key": "title:github-copilot-visual-studio-august-update",
+      "title": "GitHub Copilot in Visual Studio — August update",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T22:15:36+00:00"
+    },
+    {
+      "key": "title:github-copilot-weekly-releases-august",
+      "title": "GitHub Copilot weekly releases — August 24",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T22:15:36+00:00"
+    },
+    {
+      "key": "title:you-built-brand-internet-gave-someone-else-access",
+      "title": "You built the brand, the internet gave someone else access to it",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/you-built-the-brand-the-internet-gave-someone-else-access-to-it-20260827/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "title:aws-terraform",
       "title": "ローカル AWS エミュレータで Terraform を検証する",
       "sources": [
@@ -1208,44 +1247,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:speakerdeck.com",
-      "title": "AI駆動開発を組織で促すために",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:multiples-vuln-rabilit-dans-les-produits-cisco-2026",
@@ -1325,44 +1326,6 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "title:okf-taxis-devin",
-      "title": "OKFやDiátaxisを活用してDevinによるお問い合わせ対応をしている話 - エムスリーテックブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.m3tech.blog/entry/2026/08/27/100000"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T21:39:31+00:00"
-    },
-    {
       "key": "domain:www.heise.de",
       "title": "TeamViewer schließt hochriskante Lücken in Clients",
       "sources": [
@@ -1438,6 +1401,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "title:orca",
+      "title": "並行開発に Orca がめちゃ便利",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/rhosokawa/articles/d0a958c17c2820"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T21:39:31+00:00"
     },
     {
       "key": "title:compliance-what-let-philippines-fintech-market-scale-this",
@@ -1669,6 +1670,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:okf-taxis-devin",
+      "title": "OKFやDiátaxisを活用してDevinによるお問い合わせ対応をしている話 - エムスリーテックブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.m3tech.blog/entry/2026/08/27/100000"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T21:39:31+00:00"
     },
     {
       "key": "title:testcontainers",
@@ -1937,6 +1976,44 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
+      "key": "github_repo:abhigyanpatwari/gitnexus",
+      "title": "abhigyanpatwari/GitNexus",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/abhigyanpatwari/GitNexus"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "title:will-blackrock-continue-buying-200m-daily-push-bitcoin",
       "title": "Will BlackRock continue buying US$200M daily to push Bitcoin past the US$83,000 resistance wall?",
       "sources": [
@@ -2015,7 +2092,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-08-28T21:39:31Z",
+    "generated_at": "2026-08-28T22:15:36Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

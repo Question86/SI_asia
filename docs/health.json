@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-08-28T21:39:28+00:00",
-  "status": "normal",
+  "generated_at": "2026-08-28T22:15:31+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
     "medium": 21,
-    "observe": 38,
-    "source_errors": 0
+    "observe": 41,
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_japan_hot",
+      "source_name": "Google Trends Japan Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T21:39:31+00:00",
-  "today_file_total": 59,
+  "generated_at": "2026-08-28T22:15:36+00:00",
+  "today_file_total": 62,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -81,31 +81,6 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "title:claude-code-cloud-run-mcp",
-      "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.m3tech.blog/entry/2026/08/26/110000"
-      ],
-      "finding_count": 1,
-      "max_score": 17,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:deepfake-threat-beyond-unconventional-security-crises-every-founder",
       "title": "The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for",
       "sources": [
@@ -174,6 +149,55 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:claude-code-cloud-run-mcp",
+      "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.m3tech.blog/entry/2026/08/26/110000"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:speakerdeck.com",
+      "title": "Claude Codeで開発以外の業務も爆速化しよう！",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou",
+        "https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -457,29 +481,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "url:https://zenn.dev/nrs/articles/93424504f49ce6",
-      "title": "開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/nrs/articles/93424504f49ce6"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }
