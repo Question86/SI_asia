@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-28T22:29:04+00:00`
+Generated: `2026-08-28T22:38:44+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-08-28T22:29:04+00:00`
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | vulnerability | $332.00K | $33.20M | $3.32B | 0.51 |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | vulnerability | $292.00K | $29.20M | $2.92B | 0.31 |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-08-28T22:29:04+00:00`
 | 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | unknown | $112.80K | $11.28M | $1.13B | 0.31 |
 | Claude Codeで開発以外の業務も爆速化しよう！ | unknown | $112.80K | $11.28M | $1.13B | 0.36 |
 | Isabel Schnabel: Central banks on-chain | product_release | $111.20K | $11.12M | $1.11B | 0.31 |
-| curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | unknown | $106.40K | $10.64M | $1.06B | 0.31 |
 
 ## Interpretation
 
